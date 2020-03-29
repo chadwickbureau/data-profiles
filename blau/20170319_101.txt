@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_101"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1925-05-17"
+pages = "36"
+
+[person.name]
+last = "Mann"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+

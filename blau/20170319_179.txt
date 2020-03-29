@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_179"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Palladium-Item"
+date = "1930-04-19"
+pages = "13"
+
+[person.name]
+last = "Delaney"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Waynesboro"
+team.league.name = "Blue Ridge League"
+
+

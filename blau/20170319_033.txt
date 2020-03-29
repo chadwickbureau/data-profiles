@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_033"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1925-05-26"
+pages = "16"
+
+[person.name]
+last = "Byers"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+

@@ -10,7 +10,6 @@ pages = "6"
 
 [person.name]
 last = "Herndon"
-use = "H."
 given = "H. T."
 
 [[person.affiliation]]

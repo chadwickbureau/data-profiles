@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_095"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1912-04-10"
+
+[person.name]
+last = "Betts"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Holyoke"
+team.league.name = "Connecticut State League"
+
+

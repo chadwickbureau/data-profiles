@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202003_062"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Stryska"
+use = "Vic"
+given = "Vic"
+
+[[person.military]]
+country = "US"
+dates = "/1952"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "L"
+description.weight = "73"
+description.age = "26"
+
+

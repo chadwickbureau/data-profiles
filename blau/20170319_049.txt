@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_049"
+
+[[person.meta.citation]]
+title = "Mount Carmel Item"
+date = "1925-05-21"
+pages = "7"
+
+[person.name]
+last = "Swift"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

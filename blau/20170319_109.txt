@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "20170319_109"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1924-02-04"
+pages = "7"
+
+[person.name]
+last = "Cleveland"
+use = "Barney"
+given = "Barney"
+
+[person.description]
+weight = "160"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Johnson City"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1922"
+team.name = "Sapulpa"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Sapulpa"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Sapulpa"
+team.league.name = "Southwestern League"
+
+

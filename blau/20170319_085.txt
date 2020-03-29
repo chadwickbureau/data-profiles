@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_085"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1929-04-21"
+pages = "18"
+
+[person.name]
+last = "King"
+use = "Harold"
+given = "Harold"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

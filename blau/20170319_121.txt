@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170319_121"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Friel"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Norwich"
+team.league.name = "Connecticut Association"
+
+

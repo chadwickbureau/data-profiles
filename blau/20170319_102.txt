@@ -1,0 +1,116 @@
+[[person]]
+
+[person.meta]
+key = "20170319_102"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1911-05-22"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1911-05-29"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1911-02-20"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1910-06-21"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1910-06-18"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1912-04-27"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1912-05-29"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1913-06-10"
+pages = "8"
+
+[[person.meta.citation]]
+title = "San Antonio Express"
+date = "1912-11-24"
+
+[[person.meta.citation]]
+title = "San Antonio Express"
+date = "1914-06-30"
+
+[[person.meta.citation]]
+title = "Ruggles, History of Texas League"
+
+[person.name]
+last = "Clark"
+use = "Jimmy"
+given = "William James"
+nick = "Ginger"
+
+[[person.education]]
+school.name = "Bucknell"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Altoona"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Altoona"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "St. Louis"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+

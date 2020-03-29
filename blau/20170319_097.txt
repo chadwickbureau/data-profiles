@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_097"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1910-08-31"
+
+[person.name]
+last = "Crozier"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Raleigh"
+team.league.name = "Eastern Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Waterbury"
+team.league.name = "Connecticut State League"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170319_107"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1924-05-19"
+pages = "3"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1922-12-26"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1924-06-16"
+pages = "3"
+
+[person.name]
+last = "Clary"
+use = "Jim"
+given = "James"
+nick = "Slim"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "AR"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Reading"
+team.league.name = "International League"
+description.height = "74"
+
+

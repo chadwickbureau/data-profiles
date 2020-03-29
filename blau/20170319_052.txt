@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "20170319_052"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1923-09-03"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1924-05-24"
+pages = "11"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1923-03-29"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1922-04-18"
+pages = "8"
+
+[person.name]
+last = "McDermott"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Fairbury"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux City"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Sioux City"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+
+

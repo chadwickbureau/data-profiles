@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170319_176"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1916-03-25"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1916-08-03"
+
+[person.name]
+last = "Kaufman"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Tacoma"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Wichita"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

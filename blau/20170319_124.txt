@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170319_124"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Manley"
+use = "Irving"
+given = "Irving"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Willimantic"
+team.league.name = "Connecticut Association"
+
+

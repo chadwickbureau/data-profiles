@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "20170319_023"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Brown"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Philadelphia"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Galveston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Galveston"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Terrell"
+team.league.name = "Texas Association"
+
+

@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "20170319_132"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1927-01-29"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1930-09-21"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1931-03-12"
+pages = "13"
+
+[[person.meta.citation]]
+title = "El Paso Herald-Post"
+date = "1931-04-12"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1927-07-18"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1928-03-09"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1928-04-23"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1929-04-01"
+pages = "10"
+
+[[person.meta.citation]]
+title = "El Paso Post"
+date = "1930-03-24"
+pages = "7"
+
+[person.name]
+last = "Colvard"
+use = "Bob"
+given = "Robert"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Miami"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Mesa"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Denver"
+team.league.name = "Western League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wichita"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Miami"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Miami"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "El Paso"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "El Paso"
+team.league.name = "Arizona-Texas League"
+
+

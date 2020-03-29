@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_075"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Maul"
+use = "Allan"
+given = "Allan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "IF"
+description.bats = "L"
+description.throws = "L"
+description.weight = "200"
+description.height = "75"
+description.age = "27"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Longview"
+totals.B_AVG = ".263"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_184"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1933-05-27"
+pages = "7"
+
+[person.name]
+last = "Clark"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Bartlesville"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "P"
+
+

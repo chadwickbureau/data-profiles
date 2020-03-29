@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_065"
+
+[[person.meta.citation]]
+title = "Fort Myers Press"
+date = "1926-09-08"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1926-05-21"
+pages = "11"
+
+[person.name]
+last = "Johnston"
+use = "Johnny"
+given = "Joe S."
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+

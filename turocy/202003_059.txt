@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_059"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Phipps"
+use = "Jodie"
+given = "Jodie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "198"
+description.height = "75"
+description.age = "32"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Texarkana"
+totals.P_W = "18"
+totals.P_L = "9"
+
+

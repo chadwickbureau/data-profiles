@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170319_117"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1909-10-12"
+pages = "11"
+
+[person.name]
+last = "Coates"
+use = "Thomas"
+given = "Thomas"
+
+[person.death]
+date = "1909-10-11"
+place.country = "US"
+place.state = "WI"
+place.city = "Oshkosh"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "WI"
+place.city = "Omro"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Oshkosh"
+team.league.name = "Wisconsin-Illinois League"
+
+

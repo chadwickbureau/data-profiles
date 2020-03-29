@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_062"
+
+[person.name]
+last = "Calhoun"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Beatrice"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Beatrice"
+team.league.name = "Nebraska State League"
+
+

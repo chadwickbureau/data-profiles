@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_091"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1930-07-22"
+pages = "13"
+
+[person.name]
+last = "Clancy"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Hazleton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Cumberland"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+

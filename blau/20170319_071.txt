@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_071"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1914-03-31"
+pages = "10"
+
+[person.name]
+last = "Altman"
+use = "John"
+given = "A. R. J."
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "MN"
+place.city = "Waltham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Grand Forks"
+team.league.name = "Northern League"
+
+

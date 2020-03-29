@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_063"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Swanson"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "180"
+description.height = "73"
+description.age = "28"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Paris"
+totals.P_W = "12"
+totals.P_L = "9"
+
+

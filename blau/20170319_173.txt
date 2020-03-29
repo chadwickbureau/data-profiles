@@ -1,0 +1,93 @@
+[[person]]
+
+[person.meta]
+key = "20170319_173"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1922-12-17"
+
+[person.name]
+last = "Miller"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Portland"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Evansville"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Waco"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Waco"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Corsicana"
+team.league.name = "Texas-Oklahoma League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

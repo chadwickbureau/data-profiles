@@ -10,7 +10,6 @@ pages = "7"
 
 [person.name]
 last = "Sessions"
-use = "E."
 given = "E. E."
 
 [person.birth]

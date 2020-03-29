@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_077"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-01-10"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Salina Evening Journal"
+date = "1922-10-10"
+pages = "5"
+
+[person.name]
+last = "Wanner"
+use = "Paul"
+given = "Paul C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+
+

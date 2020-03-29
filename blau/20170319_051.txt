@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_051"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1923-09-03"
+pages = "10"
+
+[person.name]
+last = "DeButch"
+use = "Carmy"
+given = "Carmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Lincoln"
+team.league.name = "Nebraska State League"
+
+

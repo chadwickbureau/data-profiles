@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "20170319_046"
+
+[[person.meta.citation]]
+title = "4/7/1925 Shamokin News-Dispatch"
+date = "1925-04-07"
+pages = "7"
+
+[[person.meta.citation]]
+title = "7/17/1923 Bloomington Pantagraph"
+date = "1923-07-17"
+pages = "10"
+
+[[person.meta.citation]]
+title = "4/24/1926 Alexandria Town Talk"
+date = "1926-04-24"
+pages = "11"
+
+[[person.meta.citation]]
+title = "10/23/1921 Kansas City Kansan"
+date = "1921-10-23"
+pages = "15"
+
+[[person.meta.citation]]
+title = "8/5/1917 Wichita Daily Eagle"
+date = "1917-08-05"
+pages = "7"
+
+[[person.meta.citation]]
+title = "5/27/1915 Minneapolis Star Tribune"
+pages = "15"
+
+[[person.meta.citation]]
+title = "7/11/1925 Springfield (MO) Republican"
+pages = "5"
+
+[[person.meta.citation]]
+title = "7/5/1925 Springfield Republican"
+pages = "6"
+
+[[person.meta.citation]]
+title = "7/23/1925 Springfield Leader"
+pages = "9"
+
+[person.name]
+last = "Brokaw"
+use = "Hal"
+given = "Hal"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Virginia"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+

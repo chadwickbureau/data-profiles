@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_038"
+
+[[person.meta.citation]]
+title = "Biloxi Daily Herald"
+date = "1926-06-14"
+pages = "2"
+
+[person.name]
+last = "Dugas"
+use = "Bobby"
+given = "Bobby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Gulfport"
+team.league.name = "Cotton States League"
+
+

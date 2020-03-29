@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_084"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Saulsberry"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "OF"
+description.bats = "L"
+description.throws = "R"
+description.weight = "180"
+description.height = "73"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Port Arthur"
+totals.B_AVG = ".311"
+
+

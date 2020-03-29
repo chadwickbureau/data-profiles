@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170319_004"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1926-08-06"
+pages = "21"
+
+[person.name]
+last = "Boyd"
+use = "Cliff"
+given = "Cliff"
+nick = "Hungry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Seattle"
+team.league.name = "Pacific Coast League"
+
+

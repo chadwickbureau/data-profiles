@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_055"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1923-08-28"
+pages = "10"
+
+[person.name]
+last = "Eller"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Lincoln"
+team.league.name = "Nebraska State League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_086"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-24"
+pages = "16"
+
+[person.name]
+last = "Lorentzen"
+use = "Jake"
+given = "Jake"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+description.throws = "L"
+
+

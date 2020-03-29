@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_092"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1930-07-22"
+pages = "13"
+
+[person.name]
+last = "Bolger"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Hazleton"
+team.league.name = "New York-Pennsylvania League"
+description.throws = "L"
+
+

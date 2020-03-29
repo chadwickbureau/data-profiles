@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_152"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1929-04-01"
+pages = "10"
+
+[person.name]
+last = "Fanizzi"
+use = "Peter"
+given = "Peter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tuscon"
+team.league.name = "Arizona State League"
+
+

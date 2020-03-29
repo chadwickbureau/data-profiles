@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_116"
+
+[[person.meta.citation]]
+title = "Oshkosh Northwestern"
+date = "1909-04-21"
+pages = "3"
+
+[person.name]
+last = "Bicksford"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Oshkosh"
+team.league.name = "Wisconsin-Illinois League"
+
+

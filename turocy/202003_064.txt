@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202003_064"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Starr"
+use = "Lee"
+given = "Lee"
+
+[[person.military]]
+country = "US"
+dates = "/1952"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "195"
+description.height = "74"
+description.age = "23"
+
+

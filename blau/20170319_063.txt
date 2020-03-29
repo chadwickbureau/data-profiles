@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_063"
+
+[[person.meta.citation]]
+title = "Fort Myers Press"
+date = "1926-08-25"
+pages = "1"
+
+[person.name]
+last = "Bouza"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+

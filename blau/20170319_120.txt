@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_120"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Beers"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Portsmouth"
+team.league.name = "Ohio State League"
+
+

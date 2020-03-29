@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_054"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Kash"
+use = "Leslie"
+given = "Leslie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "196"
+description.height = "73"
+description.age = "26"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Port Arthur"
+totals.P_W = "13"
+totals.P_L = "5"
+
+

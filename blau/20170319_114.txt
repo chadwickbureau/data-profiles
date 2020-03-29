@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_114"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1924-05-04"
+pages = "10"
+
+[person.name]
+last = "Clayton"
+use = "Schley"
+given = "Schley"
+nick = "Happy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+

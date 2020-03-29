@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_024"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1932-04-25"
+pages = "8"
+
+[person.name]
+last = "Bryan"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "High Point"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "High Point"
+team.league.name = "Piedmont League"
+
+

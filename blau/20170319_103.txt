@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "20170319_103"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1911-09-06"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1911-03-11"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1912-04-22"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Wilmington Evening News"
+date = "1913-01-24"
+pages = "13"
+
+[[person.meta.citation]]
+title = "York Daily"
+date = "1912-04-03"
+pages = "6"
+
+[[person.meta.citation]]
+title = "York Daily"
+date = "1913-03-05"
+pages = "5"
+
+[person.name]
+last = "Clark"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "PA"
+place.city = "Halstell"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+
+

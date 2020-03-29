@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_042"
+
+[[person.meta.citation]]
+title = "Escanaba Daily Press"
+date = "1912-11-24"
+pages = "1"
+
+[person.name]
+last = "Walters"
+use = "Monk"
+given = "Monk"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

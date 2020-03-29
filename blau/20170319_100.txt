@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_100"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1924-04-17"
+pages = "13"
+
+[person.name]
+last = "Sikes"
+use = "Don"
+given = "Don"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+

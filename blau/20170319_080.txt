@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_080"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1929-04-15"
+pages = "16"
+
+[person.name]
+last = "Simon"
+use = "Syl"
+given = "Syl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

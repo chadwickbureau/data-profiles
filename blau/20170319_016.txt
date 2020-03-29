@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_016"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-09"
+pages = "7"
+
+[person.name]
+last = "Smith"
+use = "Louis"
+given = "Louis"
+
+[[person.education]]
+school.name = "St. Vincent"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Jeannette"
+team.league.name = "Middle Atlantic League"
+
+

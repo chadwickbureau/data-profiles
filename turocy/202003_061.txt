@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_061"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Pringle"
+use = "Gale"
+given = "Gale"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "175"
+description.height = "74"
+description.age = "31"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Tyler"
+totals.P_W = "21"
+totals.P_L = "10"
+
+

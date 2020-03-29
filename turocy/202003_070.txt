@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_070"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Barcelo"
+use = "Claudio"
+given = "Claudio"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.weight = "160"
+description.height = "69"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Port Arthur"
+totals.B_AVG = ".275"
+
+

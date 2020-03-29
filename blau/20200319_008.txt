@@ -10,7 +10,6 @@ pages = "1"
 
 [person.name]
 last = "Hightower"
-use = "L."
 given = "L. V."
 
 [[person.resides]]

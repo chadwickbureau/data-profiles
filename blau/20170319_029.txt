@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170319_029"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1928-09-10"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1929-09-12"
+pages = "22"
+
+[person.name]
+last = "Burke"
+use = "Eddie"
+given = "Edward"
+
+[[person.resides]]
+dates = "1929"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+

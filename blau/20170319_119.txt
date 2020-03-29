@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_119"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Collins"
+use = "Ortho"
+given = "Ortho"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Washington"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

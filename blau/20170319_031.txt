@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_031"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Norris"
+use = "Harry"
+given = "Harry"
+nick = "Shorty, Pep"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Bridgeport"
+team.league.name = "Connecticut State League"
+
+

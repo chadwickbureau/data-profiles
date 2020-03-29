@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170319_009"
+
+[[person.meta.citation]]
+title = "Bourbon News"
+date = "1911-08-22"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-09-30"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1913-04-18"
+pages = "16"
+
+[person.name]
+last = "Burden"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Columbus"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Winchester"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Marion/Ironton"
+team.league.name = "Ohio State League"
+
+

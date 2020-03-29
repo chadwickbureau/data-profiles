@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_052"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Gibson"
+use = "Hoot"
+given = "Hoot"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "175"
+description.height = "72"
+description.age = "35"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "San Antonio"
+totals.P_W = "5"
+totals.P_L = "3"
+
+

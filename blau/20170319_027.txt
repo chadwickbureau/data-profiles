@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170319_027"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1922-08-29"
+pages = "8"
+
+[person.name]
+last = "Burke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

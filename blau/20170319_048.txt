@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_048"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-04-07"
+pages = "7"
+
+[person.name]
+last = "Barry"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

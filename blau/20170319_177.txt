@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_177"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1914-07-27"
+
+[person.name]
+last = "Bowen"
+use = "Grady"
+given = "Grady"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Americus"
+team.league.name = "Georgia State League"
+
+

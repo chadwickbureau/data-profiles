@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_154"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1929-04-01"
+pages = "10"
+
+[person.name]
+last = "Catina"
+use = "Louis"
+given = "Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tucson"
+team.league.name = "Arizona State League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_051"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Dryden"
+use = "Orel"
+given = "Orel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "180"
+description.height = "73"
+description.age = "20"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Longview"
+totals.P_W = "13"
+totals.P_L = "17"
+
+

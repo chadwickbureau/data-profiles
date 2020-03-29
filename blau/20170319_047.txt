@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_047"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-04-07"
+pages = "7"
+
+[person.name]
+last = "Walker"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+

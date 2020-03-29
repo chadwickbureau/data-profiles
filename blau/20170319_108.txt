@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_108"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1912-03-04"
+pages = "10"
+
+[person.name]
+last = "Manning"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1912"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+

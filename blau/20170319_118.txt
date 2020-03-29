@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_118"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1904-07-16"
+pages = "22"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1906-10-06"
+pages = "19"
+
+[person.name]
+last = "Coates"
+use = "Floyd"
+given = "Floyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Waterloo"
+team.league.name = "Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Oskaloosa"
+team.league.name = "Iowa League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_174"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Marshall"
+use = "Rube"
+given = "Rube"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170319_034"
+
+[[person.meta.citation]]
+title = "Galveston Daily News"
+date = "1921-02-21"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Pittston Gazette"
+date = "1921-05-18"
+pages = "6"
+
+[person.name]
+last = "Byers"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Mineral Wells"
+team.league.name = "West Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "San Angelo"
+team.league.name = "West Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+

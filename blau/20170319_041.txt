@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_041"
+
+[[person.meta.citation]]
+title = "Escanaba Daily Press"
+date = "1912-11-24"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Muscatine Journal"
+date = "1912-11-23"
+pages = "6"
+
+[person.name]
+last = "Carter"
+use = "Nick"
+given = "Nick"
+nick = "Buggs"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Kewanee"
+team.league.name = "Central Association"
+
+

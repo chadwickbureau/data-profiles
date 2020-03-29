@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202003_080"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Creel"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "OF"
+description.bats = "L"
+description.throws = "R"
+description.weight = "72"
+description.age = "27"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Dallas"
+totals.B_AVG = ".261"
+
+

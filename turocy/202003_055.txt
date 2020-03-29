@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_055"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Liberton"
+use = "Ervin"
+given = "Ervin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "186"
+description.height = "70"
+description.age = "28"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Brownsville"
+totals.P_W = "20"
+totals.P_L = "12"
+
+

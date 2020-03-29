@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_003"
+
+[[person.meta.citation]]
+title = "Ardmore Daily Ardmoreite"
+date = "1931-05-28"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Burlington Gazette"
+date = "1931-05-26"
+pages = "10"
+
+[person.name]
+last = "Brewer"
+use = "Parker"
+given = "Parker"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Burlington"
+team.league.name = "Mississippi Valley League"
+
+

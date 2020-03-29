@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170319_010"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1920-08-12"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1921-08-14"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1925-04-17"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1927-08-15"
+pages = "7"
+
+[person.name]
+last = "Brown"
+use = "Don"
+given = "Don"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Salt Lake City"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Galveston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Waco"
+team.league.name = "Texas League"
+description.bats = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

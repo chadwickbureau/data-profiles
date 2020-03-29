@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_036"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1925-04-14"
+pages = "9"
+
+[person.name]
+last = "Carpenter"
+given = "A. H."
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Dyersburg"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Brookhaven"
+team.league.name = "Cotton States League"
+
+

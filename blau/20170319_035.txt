@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170319_035"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1909-03-17"
+pages = "5"
+
+[person.name]
+last = "Campbell"
+use = "Vin"
+given = "Vin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Aberdeen"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+

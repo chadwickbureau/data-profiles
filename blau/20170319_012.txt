@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_012"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-09"
+pages = "7"
+
+[person.name]
+last = "Cochrane"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+

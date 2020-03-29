@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_056"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Mazar"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "L"
+description.weight = "152"
+description.height = "69"
+description.age = "32"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Dallas"
+totals.P_W = "9"
+totals.P_L = "4"
+
+

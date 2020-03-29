@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_018"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-09"
+pages = "7"
+
+[person.name]
+last = "Bruder"
+use = "Doc"
+given = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+

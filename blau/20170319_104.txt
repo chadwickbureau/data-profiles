@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_104"
+
+[[person.meta.citation]]
+title = "York Daily"
+date = "1912-04-03"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Wilmington Morning News"
+date = "1912-05-28"
+pages = "7"
+
+[person.name]
+last = "Henderson"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170319_127"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Petrick"
+given = "E. L."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Willimantic"
+team.league.name = "Connecticut Association"
+
+

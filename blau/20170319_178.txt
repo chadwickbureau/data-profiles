@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_178"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1929-03-05"
+pages = "19"
+
+[person.name]
+last = "Davey"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Springfield"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Toronto"
+team.league.name = "International League"
+
+

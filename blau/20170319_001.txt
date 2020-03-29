@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_001"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1931-09-10"
+pages = "11"
+
+[person.name]
+last = "Larsen"
+use = "Glen"
+given = "Glen"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+

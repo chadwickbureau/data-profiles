@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_105"
+
+[[person.meta.citation]]
+title = "Omaha Daily Bee"
+date = "1913-06-15"
+pages = "35"
+
+[person.name]
+last = "Clarke"
+use = "Talt"
+given = "Talt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Superior"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Fremont"
+team.league.name = "Nebraska State League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170319_182"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1927-07-16"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1927-08-03"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1926-03-15"
+pages = "14"
+
+[person.name]
+last = "Connors"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Jeannette"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+

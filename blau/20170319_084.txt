@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_084"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1929-04-21"
+pages = "18"
+
+[person.name]
+last = "Yeargin"
+use = "Russ"
+given = "Russell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

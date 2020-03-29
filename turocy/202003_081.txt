@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_081"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Depperschmidt"
+use = "Gene"
+given = "Gene"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "OF"
+description.bats = "R"
+description.throws = "R"
+description.weight = "180"
+description.height = "72"
+description.age = "23"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Port Arthur"
+totals.B_AVG = ".295"
+
+

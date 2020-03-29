@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202003_077"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Smartt"
+use = "Robert"
+given = "Robert"
+
+[person.description]
+note = [ "Played semipro ball in 1952" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.weight = "160"
+description.height = "71"
+description.age = "24"
+
+

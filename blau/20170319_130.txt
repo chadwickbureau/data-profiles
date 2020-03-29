@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_130"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-22"
+pages = "14"
+
+[person.name]
+last = "Lloyd"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+description.throws = "L"
+
+

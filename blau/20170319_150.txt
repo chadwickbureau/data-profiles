@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_150"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1929-04-01"
+pages = "10"
+
+[person.name]
+last = "Tolson"
+use = "Ben"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tucson"
+team.league.name = "Arizona State League"
+
+

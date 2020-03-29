@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_072"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1914-03-15"
+pages = "30"
+
+[person.name]
+last = "Brokaw"
+use = "Max"
+given = "Max"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Virginia"
+team.league.name = "Northern League"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170319_131"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/287-FALLENSTEIN_Ed.pdf"
+
+[person.name]
+last = "Fallenstein"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Newark"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Allentown"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+

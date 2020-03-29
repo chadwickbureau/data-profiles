@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "20170319_099"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1924-04-17"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1924-04-13"
+pages = "35"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1925-05-18"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Ashveille Citizen-Times"
+date = "1925-03-22"
+pages = "36"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1925-06-05"
+pages = "17"
+
+[person.name]
+last = "Clancy"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "KY"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Laurens"
+team.league.name = "Carolina League"
+
+

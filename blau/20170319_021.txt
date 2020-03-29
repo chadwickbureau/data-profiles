@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_021"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-09"
+pages = "7"
+
+[person.name]
+last = "James"
+use = "Charles"
+given = "Charles"
+nick = "Jesse"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Cumberland"
+team.league.name = "Middle Atlantic League"
+
+

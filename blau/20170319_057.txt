@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170319_057"
+
+[[person.meta.citation]]
+title = "Santa Cruz Evening News"
+date = "1923-03-24"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Ashland Clipper"
+date = "1922-07-13"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Santa Cruz Evening News"
+date = "1922-03-31"
+pages = "4"
+
+[person.name]
+last = "Cartwright"
+use = "Joe"
+given = "Joe"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Cartwright"
+person.name.use = "Walt"
+person.name.given = "Walt"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Salt Lake City"
+team.league.name = "Pacific Coast League"
+
+

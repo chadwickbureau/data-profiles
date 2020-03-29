@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202003_065"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Young"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.weight = "173"
+description.height = "72"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Clovis"
+splits.0.team.place.country = "US"
+splits.0.team.place.state = "NM"
+splits.0.team.place.city = "Clovis"
+totals.P_W = "10"
+totals.P_L = "5"
+
+

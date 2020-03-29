@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170319_089"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1930-05-24"
+pages = "15"
+
+[person.name]
+last = "Jones"
+use = "Sam"
+given = "Samuel Thomas"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Jones"
+person.name.use = "Percy"
+person.name.given = "Percy"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Pittsfield"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Providence"
+team.league.name = "Eastern League"
+description.bats = "R"
+description.throws = "R"
+description.height = "71"
+description.weight = "177"
+
+

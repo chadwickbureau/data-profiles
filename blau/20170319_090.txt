@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170319_090"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1929-04-15"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-09-01"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1929-04-22"
+pages = "15"
+
+[person.name]
+last = "Lowell"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+

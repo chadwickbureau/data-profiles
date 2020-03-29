@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_088"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1930-04-26"
+pages = "15"
+
+[person.name]
+last = "Hyman"
+use = "Sam"
+given = "Sam"
+
+[[person.education]]
+school.name = "Georgetown University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Allentown"
+team.league.name = "Eastern League"
+description.height = "67"
+description.weight = "175"
+
+

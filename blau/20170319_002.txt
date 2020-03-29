@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_002"
+
+[[person.meta.citation]]
+title = "Decatur Evening Herald"
+date = "1931-04-20"
+pages = "10"
+
+[person.name]
+last = "Brewer"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

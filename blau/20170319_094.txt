@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170319_094"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1911-04-04"
+pages = "9"
+
+[person.name]
+last = "Pond"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Waterbury"
+team.league.name = "Connecticut State League"
+
+

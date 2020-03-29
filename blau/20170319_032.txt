@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "20170319_032"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Miller"
+use = "Dory"
+given = "Theodore C."
+nick = "Cy"
+
+[person.description]
+note = [ "see Davis Barker notes" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Bridgeport"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Springfield"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Holyoke"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Worcester"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Hartford"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1922"
+league.name = "Eastern League"
+
+

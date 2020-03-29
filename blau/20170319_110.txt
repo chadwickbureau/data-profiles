@@ -1,0 +1,68 @@
+[[person]]
+
+[person.meta]
+key = "20170319_110"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1924-02-24"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Richmond Item"
+date = "1918-02-21"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Oskaloosa Independent"
+date = "1918-06-07"
+pages = "7"
+
+[[person.meta.citation]]
+title = "East Liverpool Evening Review"
+date = "1919-07-23"
+pages = "10"
+
+[person.name]
+last = "Purtell"
+use = "Mark"
+given = "Mark"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Purtell"
+person.name.use = "Billy"
+person.name.given = "Billy"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Columbus"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Toronto"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Vancouver"
+team.league.name = "Pacific Coast International League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Hutchinson"
+team.league.name = "Western Association"
+
+

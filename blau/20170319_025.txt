@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_025"
+
+[[person.meta.citation]]
+title = "Arkansas Daily Gazette"
+date = "1916-05-04"
+pages = "10"
+
+[person.name]
+last = "Terry"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Columbus"
+team.league.name = "South Atlantic League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_129"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-22"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1914-03-07"
+pages = "13"
+
+[person.name]
+last = "Collins"
+use = "Luke"
+given = "Luke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Winona"
+team.league.name = "Northern League"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_071"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Beeler"
+use = "Jodie"
+given = "Jodie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.weight = "180"
+description.height = "71"
+description.age = "31"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Dallas"
+totals.B_AVG = ".253"
+
+

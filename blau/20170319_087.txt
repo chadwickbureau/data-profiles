@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170319_087"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1910-04-18"
+
+[person.name]
+last = "Griffith"
+use = "Samuel"
+given = "Samuel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Waterbury"
+team.league.name = "Connecticut State League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_060"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1926-03-20"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-05-15"
+pages = "14"
+
+[person.name]
+last = "Casares"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Fort Lauderdale"
+team.league.name = "Florida State League"
+
+

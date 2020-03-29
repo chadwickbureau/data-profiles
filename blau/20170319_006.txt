@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_006"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1930-12-27"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1930-12-16"
+pages = "25"
+
+[person.name]
+last = "Brinker"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Lewiston"
+team.league.name = "New England League"
+description.bats = "S"
+
+

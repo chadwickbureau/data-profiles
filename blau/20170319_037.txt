@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_037"
+
+[[person.meta.citation]]
+title = "Biloxi Daily Herald"
+date = "1926-07-27"
+pages = "5"
+
+[person.name]
+last = "Lehrman"
+use = "Charlie"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Gulfport"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+

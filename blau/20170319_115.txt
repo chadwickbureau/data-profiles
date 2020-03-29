@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_115"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1915-05-15"
+pages = "23"
+
+[person.name]
+last = "Clemens"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "St. Louis"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rochester"
+team.league.name = "International League"
+
+

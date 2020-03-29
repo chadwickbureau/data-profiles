@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_183"
+
+[[person.meta.citation]]
+title = "Buffalo American"
+date = "1921-04-08"
+pages = "7"
+
+[person.name]
+last = "Conroy"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+

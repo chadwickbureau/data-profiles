@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170319_111"
+
+[person.name]
+last = "Toland"
+use = "Thomas"
+given = "Thomas"
+
+[person.description]
+height = "73"
+weight = "180"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "AR"
+place.city = "Nashvile"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Topeka"
+team.league.name = "Western Association"
+
+

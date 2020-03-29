@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_076"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-01-10"
+pages = "4"
+
+[person.name]
+last = "Federle"
+use = "Anton"
+given = "Anton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+description.throws = "L"
+
+

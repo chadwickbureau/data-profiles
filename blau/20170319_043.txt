@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_043"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-04-07"
+pages = "7"
+
+[person.name]
+last = "Shepardson"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Utica/Oneonta"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

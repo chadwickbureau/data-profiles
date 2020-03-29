@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_040"
+
+[[person.meta.citation]]
+title = "Eau Claire Leader"
+date = "1910-05-08"
+pages = "2"
+
+[person.name]
+last = "Carter"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Eau Claire"
+team.league.name = "Minnesota-Wisconsin League"
+
+

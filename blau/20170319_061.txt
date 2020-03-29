@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_061"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1926-03-20"
+pages = "18"
+
+[person.name]
+last = "Domingo"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+

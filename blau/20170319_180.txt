@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_180"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Palladium-Item"
+date = "1930-04-19"
+pages = "13"
+
+[person.name]
+last = "Conlan"
+use = "Edward"
+given = "Edward"
+nick = "Butch"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_067"
+
+[[person.meta.citation]]
+title = "Olean Times Herald"
+date = "1930-08-27"
+pages = "10"
+
+[person.name]
+last = "Cazen"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Davenport"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Hagerstown/Parkersburg/Youngstown"
+team.league.name = "Middle Atlantic League"
+
+

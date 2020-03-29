@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_019"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-09"
+pages = "7"
+
+[person.name]
+last = "Spitaleri"
+use = "Jerry"
+given = "Jerry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+

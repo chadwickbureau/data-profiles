@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170319_066"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1928-12-12"
+pages = "31"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1929-04-09"
+pages = "24"
+
+[[person.meta.citation]]
+title = "Delaware County Daily Times"
+date = "1929-04-26"
+pages = "24"
+
+[person.name]
+last = "Casper"
+use = "Stanley"
+given = "Stanley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Martinsburg"
+team.league.name = "Blue Ridge League"
+
+

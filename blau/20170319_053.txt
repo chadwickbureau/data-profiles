@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_053"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1923-09-03"
+pages = "10"
+
+[person.name]
+last = "Harkins"
+use = "Max"
+given = "Max"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Fairbury"
+team.league.name = "Nebraska State League"
+
+

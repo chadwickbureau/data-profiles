@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_074"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1926-06-07"
+pages = "12"
+
+[person.name]
+last = "Christensen"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Wilson"
+team.league.name = "Virginia League"
+
+

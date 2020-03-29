@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170319_125"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "D'Andrea"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Willimantic"
+team.league.name = "Connecticut Association"
+
+

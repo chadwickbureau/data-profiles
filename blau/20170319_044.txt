@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170319_044"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-04-07"
+pages = "7"
+
+[person.name]
+last = "Pope"
+use = "Art"
+given = "Art"
+nick = "Bud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

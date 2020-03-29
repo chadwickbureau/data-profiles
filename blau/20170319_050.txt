@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170319_050"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-07-24"
+pages = "5"
+
+[person.name]
+last = "Houck"
+use = "Don"
+given = "Don"
+nick = "Specs"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+

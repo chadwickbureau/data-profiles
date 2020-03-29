@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_066"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Bareford"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.weight = "185"
+description.height = "71"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Port Arthur"
+totals.B_AVG = ".302"
+
+

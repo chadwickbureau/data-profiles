@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_073"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-01-10"
+pages = "4"
+
+[person.name]
+last = "Christensen"
+use = "Cuckoo"
+given = "Cuckoo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+

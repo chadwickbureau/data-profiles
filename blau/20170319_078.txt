@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170319_078"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Cicero"
+use = "Joe"
+given = "Joe"
+
+[[person.alias]]
+name.last = "Doughty"
+name.use = "Joseph"
+name.given = "Joseph"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Easton"
+team.league.name = "Eastern Shore League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Salem"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

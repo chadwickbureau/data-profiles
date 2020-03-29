@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_058"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1926-03-20"
+pages = "18"
+
+[person.name]
+last = "Hernandez"
+use = "Jose"
+given = "Jose"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fort Myers"
+team.league.name = "Florida State League"
+
+

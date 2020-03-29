@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170319_008"
+
+[[person.meta.citation]]
+title = "Bourbon News"
+date = "1911-08-22"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1912-06-10"
+pages = "6"
+
+[person.name]
+last = "Brown"
+use = "Robert"
+given = "Robert R."
+
+[[person.education]]
+school.name = "Vanderbilt"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Winchester"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Winchester"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Columbus"
+team.league.name = "American Association"
+
+

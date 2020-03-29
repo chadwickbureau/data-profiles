@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170319_175"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1916-08-12"
+
+[person.name]
+last = "Lathrop"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Chicago"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

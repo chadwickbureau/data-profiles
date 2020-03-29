@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_093"
+
+[[person.meta.citation]]
+title = "Greeley Daily Tribune"
+date = "1932-04-23"
+pages = "5"
+
+[person.name]
+last = "Lightfoot"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Tucson"
+team.league.name = "Arizona-Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+

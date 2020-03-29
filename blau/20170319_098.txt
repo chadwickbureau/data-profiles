@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20170319_098"
+
+[person.name]
+last = "Clancy"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Nashua"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Haverhill"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "New Bedford"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Salem"
+team.league.name = "New England League"
+
+

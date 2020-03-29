@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "20170319_113"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1924-02-04"
+pages = "7"
+
+[person.name]
+last = "Agnew"
+use = "Troy"
+given = "Troy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Fort William"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Alton"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Marshalltown"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+

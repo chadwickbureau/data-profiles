@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_028"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1927-06-14"
+pages = "11"
+
+[person.name]
+last = "Burke"
+use = "Ernie"
+given = "Ernie"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1919"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Sarasota"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1927"
+team.name = "Sarasota"
+team.league.name = "Florida State League"
+
+

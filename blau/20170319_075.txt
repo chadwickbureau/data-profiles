@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170319_075"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-01-10"
+pages = "4"
+
+[person.name]
+last = "Corgan"
+use = "Roy"
+given = "Roy"
+nick = "Irish"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+

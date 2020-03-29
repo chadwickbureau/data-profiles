@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170319_186"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1913-05-12"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1913-04-12"
+pages = "15"
+
+[person.name]
+last = "Cook"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+
+

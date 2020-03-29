@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170319_039"
+
+[[person.meta.citation]]
+title = "Biloxi Daily Herald"
+date = "1926-07-01"
+pages = "5"
+
+[person.name]
+last = "Rouprich"
+use = "Lester"
+given = "Lester"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Gulfport"
+team.league.name = "Cotton States League"
+
+

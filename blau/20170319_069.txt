@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170319_069"
+
+[[person.meta.citation]]
+title = "Hopkinsville Kentuckian"
+date = "1911-06-10"
+pages = "8"
+
+[person.name]
+last = "McArthur"
+use = "Dixie"
+given = "Dixie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

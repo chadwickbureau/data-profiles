@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_067"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Fernandez"
+use = "Rafael"
+given = "Rafael"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.weight = "186"
+description.height = "73"
+description.age = "23"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Texas City"
+totals.B_AVG = ".341"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170319_096"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1910-02-21"
+
+[[person.meta.citation]]
+title = "Norwich Bulletin"
+date = "1909-08-11"
+
+[person.name]
+last = "Crutcher"
+use = "Louis"
+given = "Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Waterbury"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Holyoke"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Blue Grass League"
+
+

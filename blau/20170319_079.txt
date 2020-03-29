@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170319_079"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1922-03-20"
+pages = "8"
+
+[person.name]
+last = "Claire"
+use = "Davey"
+given = "Davey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Detroit"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Hamilton"
+team.league.name = "Michigan-Ontario League"
+
+

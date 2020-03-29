@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_049"
+
+[[person.meta.citation]]
+title = "1953 Dallas Eagles Spring Training Roster"
+
+[person.name]
+last = "Barbolla"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1953"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.weight = "185"
+description.height = "71"
+description.age = "24"
+
+
+[[person.playing]]
+season = "1952"
+splits.0.team.name = "Brownsville"
+totals.P_W = "5"
+totals.P_L = "3"
+
+

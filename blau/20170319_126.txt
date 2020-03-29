@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170319_126"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "O'Mara"
+use = "Paddy"
+given = "Paddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Willimantic"
+team.league.name = "Connecticut Association"
+
+

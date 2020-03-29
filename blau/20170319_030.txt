@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "20170319_030"
+
+[person.name]
+last = "Wallace"
+use = "Bingo"
+given = "Bingo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+
+
