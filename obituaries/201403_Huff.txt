@@ -41,3 +41,5 @@ school.place.city = "Walnut Creek"
 [[person.education]]
 school.name = "University of California, Berkeley"
 school.type = "college"
+
+

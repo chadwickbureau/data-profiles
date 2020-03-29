@@ -38,3 +38,5 @@ school.place.city = "Akron"
 [[person.education]]
 school.name = "Kent State University"
 school.type = "college"
+
+

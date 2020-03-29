@@ -36,3 +36,5 @@ type = "legal"
 [[person.military]]
 country = "US"
 dates = "1943/1945"
+
+

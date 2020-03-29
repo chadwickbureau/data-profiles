@@ -21,3 +21,4 @@ given = "Morimichi"
 
 [person.death]
 date = "2020-01-17"
+

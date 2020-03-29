@@ -17,3 +17,5 @@ dates = "1915"
 team.name = "Temple"
 team.league.name = "Middle Texas League"
 description.bats = "L"
+
+

@@ -27,3 +27,4 @@ date = "2019-09-06"
 place.country = "US"
 place.state = "AZ"
 place.city = "Tucson"
+

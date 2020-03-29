@@ -47,3 +47,5 @@ school.place.city = "Temple"
 [[person.education]]
 school.name = "Texas State University"
 school.type = "college"
+
+

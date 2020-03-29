@@ -26,3 +26,4 @@ place.city = "Hoboken"
 
 [person.death]
 date = "2019"
+

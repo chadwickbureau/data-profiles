@@ -38,3 +38,5 @@ school.place.city = "Weirton"
 [[person.education]]
 school.name = "Georgia Institute of Technology"
 school.type = "college"
+
+

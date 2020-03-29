@@ -24,3 +24,4 @@ date = "2020-01-28"
 place.country = "MX"
 place.state = "Veracruz"
 place.city = "Medellín de Bravo"
+

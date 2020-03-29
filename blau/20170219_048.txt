@@ -22,3 +22,5 @@ type = "player"
 dates = "1926"
 team.name = "Lincoln"
 team.league.name = "Western League"
+
+

@@ -27,3 +27,4 @@ date = "2019-08-21"
 place.country = "CA"
 place.state = "QC"
 place.city = "Cowansville"
+

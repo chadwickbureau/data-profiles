@@ -41,3 +41,5 @@ school.place.city = "Newton"
 [[person.education]]
 school.name = "Lenoir-Rhyne University"
 school.type = "college"
+
+

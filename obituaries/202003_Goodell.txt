@@ -32,3 +32,5 @@ date = "2020-03-04"
 [[person.military]]
 country = "US"
 branch = "Army"
+
+

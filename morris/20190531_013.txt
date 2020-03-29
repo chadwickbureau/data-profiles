@@ -27,3 +27,5 @@ type = "player"
 dates = "1915"
 team.name = "Hartford"
 team.league.name = "Colonial League"
+
+

@@ -21,3 +21,5 @@ team.name = "Richmond"
 team.league.name = "Central League"
 description.bats = "L"
 description.throws = "R"
+
+

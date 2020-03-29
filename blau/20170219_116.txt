@@ -18,3 +18,5 @@ type = "player"
 dates = "1926"
 team.name = "Salt Lake City"
 team.league.name = "Utah-Idaho League"
+
+

@@ -46,3 +46,5 @@ degree = "graduated"
 [[person.education]]
 school.name = "Everett Junior College"
 school.type = "college"
+
+

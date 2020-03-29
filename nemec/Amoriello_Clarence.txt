@@ -42,3 +42,5 @@ school.name = "Penfield High School"
 school.type = "secondary"
 dates = "/1943"
 degree = "graduated"
+
+

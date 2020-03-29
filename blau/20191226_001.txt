@@ -24,3 +24,5 @@ dates = "1915"
 team.name = "Waycross"
 team.league.name = "Florida-Alabama-Georgia League"
 description.throws = "R"
+
+

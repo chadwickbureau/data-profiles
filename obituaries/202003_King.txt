@@ -32,3 +32,5 @@ school.place.city = "Baltimore"
 [[person.education]]
 school.name = "Johns Hopkins University"
 school.type = "college"
+
+

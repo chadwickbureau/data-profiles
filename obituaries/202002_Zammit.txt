@@ -44,3 +44,5 @@ school.place.city = "West Palm Beach"
 [[person.education]]
 school.name = "Florida Southern College"
 school.type = "college"
+
+

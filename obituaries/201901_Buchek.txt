@@ -27,3 +27,4 @@ date = "2019-01-02"
 place.country = "US"
 place.state = "MO"
 place.city = "Springfield"
+

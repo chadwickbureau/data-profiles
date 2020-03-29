@@ -24,3 +24,4 @@ date = "2018-11-09"
 place.country = "US"
 place.state = "MI"
 place.city = "West Bloomfield"
+

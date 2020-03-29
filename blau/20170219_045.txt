@@ -30,3 +30,5 @@ type = "player"
 dates = "1922"
 team.name = "Rock Island"
 team.league.name = "Mississippi Valley League"
+
+

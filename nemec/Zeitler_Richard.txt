@@ -74,3 +74,5 @@ totals.P_SO = "92"
 totals.P_R = "85"
 totals.P_ER = "60"
 totals.P_ERA = "5.51"
+
+

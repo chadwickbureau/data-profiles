@@ -26,3 +26,4 @@ place.city = "Penticton"
 
 [person.death]
 date = "2018-12-29"
+

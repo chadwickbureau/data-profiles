@@ -43,3 +43,5 @@ school.place.city = "Saginaw"
 [[person.education]]
 school.name = "Central Michigan University"
 school.type = "college"
+
+

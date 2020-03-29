@@ -28,3 +28,5 @@ date = "2019-08-19"
 [[person.education]]
 school.name = "University of Central Florida"
 school.type = "college"
+
+

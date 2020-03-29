@@ -23,3 +23,4 @@ date = "2018-11-14"
 
 [person.description]
 note = [ "Reported as the former K-O-M player by K-O-M expert John Hall" ]
+

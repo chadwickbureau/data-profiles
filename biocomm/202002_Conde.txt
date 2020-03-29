@@ -20,3 +20,4 @@ cemetery.name = "Cementerio Municipal de Juana Diaz, PR//Juana Diaz"
 
 [person.description]
 mlb_played_first = "1962"
+

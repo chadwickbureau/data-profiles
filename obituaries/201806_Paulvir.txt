@@ -30,3 +30,5 @@ date = "2018-06-01"
 [[person.military]]
 country = "US"
 conflict = "Korean War"
+
+

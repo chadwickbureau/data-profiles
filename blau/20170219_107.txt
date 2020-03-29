@@ -69,3 +69,5 @@ type = "player"
 dates = "1926"
 team.name = "Idaho Falls"
 team.league.name = "Utah-Idaho League"
+
+

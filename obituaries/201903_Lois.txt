@@ -29,3 +29,4 @@ place.city = "Hato Mayor del Rey"
 date = "2019-03-12"
 place.country = "DO"
 place.city = "San Pedro de Macoris"
+

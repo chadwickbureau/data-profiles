@@ -47,3 +47,5 @@ school.place.city = "Lake Charles"
 [[person.education]]
 school.name = "McNeese State University"
 school.type = "college"
+
+

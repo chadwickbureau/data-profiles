@@ -27,3 +27,4 @@ place.city = "Kenosha"
 
 [person.death]
 date = "2019-09-05"
+

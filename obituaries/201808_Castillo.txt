@@ -23,3 +23,4 @@ nick = "El Bombero"
 
 [person.death]
 date = "2018-08-07"
+

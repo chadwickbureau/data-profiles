@@ -41,3 +41,5 @@ school.place.city = "Rose Lake"
 [[person.education]]
 school.name = "Lewis-Clark State College"
 school.type = "college"
+
+

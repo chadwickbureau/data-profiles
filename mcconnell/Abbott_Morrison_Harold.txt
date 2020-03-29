@@ -29,3 +29,5 @@ weight = "190"
 [[person.education]]
 school.name = "University of Washington"
 school.type = "college"
+
+

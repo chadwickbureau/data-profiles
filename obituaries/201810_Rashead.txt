@@ -41,3 +41,5 @@ school.place.city = "Flint"
 [[person.education]]
 school.name = "Michigan State University"
 school.type = "college"
+
+

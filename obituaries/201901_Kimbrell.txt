@@ -35,3 +35,5 @@ school.place.city = "Birmingham"
 [[person.education]]
 school.name = "University of Alabama"
 school.type = "college"
+
+

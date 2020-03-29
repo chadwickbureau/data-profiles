@@ -18,3 +18,5 @@ type = "player"
 dates = "1907"
 team.name = "Birmingham"
 team.league.name = "Southern Association"
+
+

@@ -36,3 +36,5 @@ school.place.city = "Baton Rouge"
 [[person.education]]
 school.name = "Louisiana State University"
 school.type = "college"
+
+

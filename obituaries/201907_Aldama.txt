@@ -25,3 +25,4 @@ nick = "El Coronel"
 date = "2019-07-01"
 place.country = "MX"
 place.city = "Merida"
+

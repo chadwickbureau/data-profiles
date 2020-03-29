@@ -44,3 +44,5 @@ school.place.city = "Stilwell"
 [[person.education]]
 school.name = "Bacone College"
 school.type = "college"
+
+

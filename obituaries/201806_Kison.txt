@@ -26,3 +26,4 @@ place.city = "Pasco"
 
 [person.death]
 date = "2018-06-02"
+

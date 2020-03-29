@@ -14,7 +14,9 @@ use = "Spencer"
 given = "Spencer"
 
 [[person.affiliation]]
-type = "player"
+type = "manager"
 dates = "1930"
 team.name = "Omaha"
 team.league.name = "Western League"
+
+

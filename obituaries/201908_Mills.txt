@@ -49,3 +49,5 @@ school.place.city = "Waterville"
 [[person.education]]
 school.name = "College of the Holy Cross"
 school.type = "college"
+
+

@@ -32,3 +32,4 @@ date = "2020-02-03"
 place.country = "US"
 place.state = "NH"
 place.city = "Greenfield"
+

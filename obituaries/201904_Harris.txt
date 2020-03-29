@@ -32,3 +32,5 @@ school.place.city = "Nashville"
 [[person.education]]
 school.name = "Vanderbilt University"
 school.type = "college"
+
+

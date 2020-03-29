@@ -41,3 +41,5 @@ totals.B_RBI = "1"
 totals.B_SB = "0"
 totals.B_AVG = ".250"
 totals.dates = "1941-07-17/1941-07-17"
+
+

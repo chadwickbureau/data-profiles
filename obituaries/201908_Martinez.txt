@@ -25,3 +25,4 @@ place.country = "CU"
 
 [person.death]
 date = "2019-08-11"
+

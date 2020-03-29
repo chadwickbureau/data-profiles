@@ -16,3 +16,4 @@ place.city = "Fosston"
 
 [person.description]
 mlb_played_first = "1885"
+

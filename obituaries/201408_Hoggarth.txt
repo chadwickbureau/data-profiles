@@ -32,3 +32,5 @@ school.place.city = "Old Hickory"
 [[person.education]]
 school.name = "Oglethorpe University"
 school.type = "college"
+
+

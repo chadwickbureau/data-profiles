@@ -30,3 +30,4 @@ date = "2019-11-03"
 place.country = "US"
 place.state = "AR"
 place.city = "Little Rock"
+

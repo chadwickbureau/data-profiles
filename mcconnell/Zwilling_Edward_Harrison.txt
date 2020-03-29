@@ -26,6 +26,13 @@ throws = "L"
 height = "67"
 weight = "160"
 
+[[person.affiliation]]
+type = "coach"
+dates = "1924"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+
 [[person.playing]]
 season = "1909"
 league.name = "Southern Michigan League"
@@ -408,3 +415,5 @@ totals.B_HR = "0"
 totals.B_RBI = "0"
 totals.B_SB = "0"
 totals.B_AVG = ".500"
+
+

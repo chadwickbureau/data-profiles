@@ -47,3 +47,5 @@ school.place.city = "Clarksburg"
 [[person.education]]
 school.name = "Salem University"
 school.type = "college"
+
+

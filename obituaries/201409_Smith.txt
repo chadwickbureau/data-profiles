@@ -47,3 +47,5 @@ school.place.city = "LaVerne"
 [[person.education]]
 school.name = "Fresno State College"
 school.type = "college"
+
+

@@ -41,3 +41,5 @@ school.place.city = "Hampstead"
 [[person.education]]
 school.name = "McDaniel College"
 school.type = "college"
+
+

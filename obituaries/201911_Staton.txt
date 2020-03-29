@@ -28,3 +28,4 @@ place.city = "Ansonville"
 
 [person.death]
 date = "2019-11-03"
+

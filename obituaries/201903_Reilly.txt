@@ -37,3 +37,5 @@ school.place.city = "Scotch Plains"
 [[person.education]]
 school.name = "Seton Hall University"
 school.type = "college"
+
+

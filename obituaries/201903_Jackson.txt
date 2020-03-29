@@ -32,3 +32,4 @@ date = "2019-03-20"
 place.country = "US"
 place.state = "GA"
 place.city = "Athens"
+

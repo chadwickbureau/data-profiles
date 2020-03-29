@@ -18,3 +18,5 @@ type = "player"
 dates = "1946"
 team.name = "Dothan"
 team.league.name = "Alabama State League"
+
+

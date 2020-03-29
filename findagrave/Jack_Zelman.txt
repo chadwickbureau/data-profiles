@@ -32,3 +32,4 @@ cemetery.place.city = "Concord"
 
 [person.sameas]
 findagrave = "103127500"
+

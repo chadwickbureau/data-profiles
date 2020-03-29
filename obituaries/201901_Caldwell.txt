@@ -47,3 +47,5 @@ school.place.city = "Huntersville"
 [[person.education]]
 school.name = "University of South Carolina"
 school.type = "college"
+
+

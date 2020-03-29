@@ -48,3 +48,5 @@ school.place.city = "Pine Beach"
 [[person.education]]
 school.name = "College of the Holy Cross"
 school.type = "college"
+
+

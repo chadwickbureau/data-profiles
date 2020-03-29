@@ -24,3 +24,5 @@ type = "player"
 dates = "1914"
 team.name = "Pittsfield"
 team.league.name = "Eastern Association"
+
+

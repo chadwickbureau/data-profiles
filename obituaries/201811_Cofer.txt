@@ -41,3 +41,5 @@ school.place.city = "Smithfield"
 [[person.education]]
 school.name = "College of William and Mary"
 school.type = "college"
+
+

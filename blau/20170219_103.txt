@@ -24,3 +24,5 @@ type = "player"
 dates = "1929"
 team.name = "San Angelo"
 team.league.name = "West Texas League"
+
+

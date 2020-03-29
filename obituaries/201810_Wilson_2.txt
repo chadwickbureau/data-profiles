@@ -45,3 +45,5 @@ school.type = "college"
 [[person.education]]
 school.name = "California State University Fresno"
 school.type = "college"
+
+

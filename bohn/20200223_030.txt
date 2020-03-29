@@ -17,3 +17,5 @@ type = "player"
 dates = "1923"
 team.name = "Minot"
 team.league.name = "North Dakota League"
+
+

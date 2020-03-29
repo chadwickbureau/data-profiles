@@ -22,3 +22,11 @@ dates = "1915"
 place.country = "US"
 place.state = "NJ"
 place.city = "Paterson"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "New York State League"
+
+

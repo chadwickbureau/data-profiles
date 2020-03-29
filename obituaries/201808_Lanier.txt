@@ -41,3 +41,5 @@ school.place.city = "Valley"
 [[person.education]]
 school.name = "Auburn University"
 school.type = "college"
+
+

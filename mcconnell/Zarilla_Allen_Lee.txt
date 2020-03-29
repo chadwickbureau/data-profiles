@@ -360,3 +360,5 @@ totals.B_AVG = ".350"
 season = "1956"
 team.name = "Magic Valley"
 league.name = "Pioneer League"
+
+

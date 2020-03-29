@@ -40,3 +40,5 @@ school.place.city = "Kewanee"
 [[person.education]]
 school.name = "Benedictine University at Springfield"
 school.type = "college"
+
+

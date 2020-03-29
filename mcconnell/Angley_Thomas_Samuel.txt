@@ -30,3 +30,5 @@ weight = "190"
 school.name = "University of Alabama"
 school.type = "college"
 degree = "graduated"
+
+

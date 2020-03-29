@@ -27,3 +27,4 @@ date = "2019-08-25"
 place.country = "CA"
 place.state = "NL"
 place.city = "St. John's"
+

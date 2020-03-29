@@ -26,3 +26,4 @@ throws = "R"
 height = "73"
 weight = "180"
 note = [ "Was a world class sprinter. Ran 100 yards in 9.8 seconds in baseball uniform while with Ionia in 1922." ]
+

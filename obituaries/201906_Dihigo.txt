@@ -22,3 +22,4 @@ matrilineal = "Reina"
 
 [person.death]
 date = "2019-06-17"
+

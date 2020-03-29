@@ -44,3 +44,5 @@ school.place.city = "San Diego"
 [[person.education]]
 school.name = "University of California, Berkeley"
 school.type = "college"
+
+

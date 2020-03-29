@@ -47,3 +47,5 @@ school.place.city = "Sherwood"
 [[person.education]]
 school.name = "Minot State University"
 school.type = "college"
+
+

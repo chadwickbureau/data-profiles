@@ -27,3 +27,4 @@ place.city = "Victoria"
 
 [person.death]
 date = "2017-12-20"
+

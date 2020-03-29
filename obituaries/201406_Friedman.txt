@@ -44,3 +44,5 @@ school.place.city = "Boston"
 [[person.education]]
 school.name = "Northeastern University"
 school.type = "college"
+
+

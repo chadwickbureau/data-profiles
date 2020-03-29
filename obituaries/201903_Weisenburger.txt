@@ -47,3 +47,5 @@ school.place.city = "Muskegon Heights"
 [[person.education]]
 school.name = "University of Michigan"
 school.type = "college"
+
+

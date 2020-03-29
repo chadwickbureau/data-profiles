@@ -44,3 +44,5 @@ school.place.city = "Lynnfield"
 [[person.education]]
 school.name = "Princeton University"
 school.type = "college"
+
+

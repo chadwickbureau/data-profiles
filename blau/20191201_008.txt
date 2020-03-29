@@ -23,3 +23,5 @@ type = "player"
 dates = "1922"
 team.name = "Decatur"
 team.league.name = "Illinois-Indiana-Iowa League"
+
+

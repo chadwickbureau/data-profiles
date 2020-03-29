@@ -47,3 +47,5 @@ school.place.city = "St. Marys"
 [[person.education]]
 school.name = "The Ohio State University"
 school.type = "college"
+
+

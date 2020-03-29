@@ -24,3 +24,5 @@ type = "player"
 dates = "1898"
 team.name = "Derby"
 team.league.name = "Connecticut State League"
+
+

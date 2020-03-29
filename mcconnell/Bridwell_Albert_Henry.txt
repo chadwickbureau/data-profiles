@@ -26,3 +26,4 @@ throws = "R"
 height = "69"
 weight = "170"
 note = [ "Suspended by Nashville, Southern Association for most of 1916 season" ]
+

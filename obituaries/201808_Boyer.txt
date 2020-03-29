@@ -38,3 +38,5 @@ school.place.city = "Ironton"
 [[person.education]]
 school.name = "Eastern Kentucky University"
 school.type = "college"
+
+

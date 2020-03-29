@@ -30,3 +30,5 @@ note = [ "Went to spring training with New York (AL) in 1913" ]
 [[person.military]]
 country = "US"
 dates = "1918/1918"
+
+

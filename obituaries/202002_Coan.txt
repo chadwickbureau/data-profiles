@@ -31,3 +31,5 @@ date = "2020-02-05"
 [[person.education]]
 school.name = "Brevard College"
 school.type = "college"
+
+

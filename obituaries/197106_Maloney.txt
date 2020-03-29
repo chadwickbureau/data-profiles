@@ -26,3 +26,4 @@ place.city = "North Cambridge"
 
 [person.description]
 note = [ "Husband of Claire (Gervais) Maloney" ]
+

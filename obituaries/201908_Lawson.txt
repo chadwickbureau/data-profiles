@@ -28,3 +28,5 @@ date = "2019-08-08"
 [[person.education]]
 school.name = "Huntington University"
 school.type = "college"
+
+

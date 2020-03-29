@@ -31,3 +31,4 @@ date = "2019-01-13"
 place.country = "US"
 place.state = "WA"
 place.city = "Seattle"
+

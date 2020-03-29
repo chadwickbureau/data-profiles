@@ -25,3 +25,5 @@ type = "player"
 dates = "1913"
 team.name = "Talladega"
 team.league.name = "Georgia-Alabama League"
+
+

@@ -44,3 +44,5 @@ school.place.city = "Lodi"
 [[person.education]]
 school.name = "San Jose State University"
 school.type = "college"
+
+

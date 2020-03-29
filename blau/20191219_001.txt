@@ -26,3 +26,5 @@ dates = "1917"
 team.name = "Scranton"
 team.league.name = "New York State League"
 description.position = "P"
+
+

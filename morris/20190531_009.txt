@@ -26,3 +26,5 @@ type = "player"
 dates = "1915"
 team.name = "Springfield"
 team.league.name = "Colonial League"
+
+

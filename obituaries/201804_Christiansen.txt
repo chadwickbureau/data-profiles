@@ -41,3 +41,5 @@ school.place.city = "Portland"
 [[person.education]]
 school.name = "University of Oregon"
 school.type = "college"
+
+

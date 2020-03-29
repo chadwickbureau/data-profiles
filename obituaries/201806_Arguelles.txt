@@ -24,3 +24,4 @@ date = "2018-06-03"
 place.country = "DO"
 place.state = "San Pedro de Macoris"
 place.city = "San Pedro de Macoris"
+

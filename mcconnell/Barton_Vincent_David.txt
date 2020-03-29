@@ -26,3 +26,4 @@ throws = "R"
 height = "72"
 weight = "180"
 note = [ "Hit 5 home runs in a game on August 26, 1938 against Kannapolis, Carolina League" ]
+

@@ -44,3 +44,5 @@ school.place.city = "Jamestown"
 [[person.education]]
 school.name = "Centenary College of Louisiana"
 school.type = "college"
+
+

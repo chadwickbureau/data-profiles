@@ -16,3 +16,20 @@ email = "jackmo77@comcast.net"
 last = "Kuhn"
 use = "W."
 given = "W. C."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "New York State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Ohio State League"
+
+

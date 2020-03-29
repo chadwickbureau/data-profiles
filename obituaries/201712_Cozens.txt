@@ -30,3 +30,4 @@ date = "2017-12-23"
 place.country = "CA"
 place.state = "AB"
 place.city = "Calgary"
+

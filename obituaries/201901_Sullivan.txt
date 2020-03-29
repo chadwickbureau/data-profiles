@@ -42,3 +42,5 @@ school.type = "college"
 [[person.education]]
 school.name = "Oklahoma State University"
 school.type = "college"
+
+

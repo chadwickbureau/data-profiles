@@ -31,3 +31,5 @@ date = "2014-07-13"
 [[person.education]]
 school.name = "University of Montana"
 school.type = "college"
+
+

@@ -31,3 +31,5 @@ team.place.country = "US"
 team.place.state = "MO"
 team.place.city = "St. Joseph"
 team.caliber = "semipro"
+
+

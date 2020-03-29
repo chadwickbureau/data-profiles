@@ -37,3 +37,5 @@ cemetery.place.city = "Nassau"
 [[person.education]]
 school.name = "St. Lawrence University"
 school.type = "college"
+
+

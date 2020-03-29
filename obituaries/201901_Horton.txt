@@ -31,3 +31,5 @@ date = "2019-01-26"
 [[person.education]]
 school.name = "University of Texas"
 school.type = "college"
+
+

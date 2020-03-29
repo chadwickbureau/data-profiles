@@ -22,3 +22,5 @@ team.name = "Binghamton"
 team.league.name = "New York State League"
 description.position = "OF"
 description.bats = "L"
+
+

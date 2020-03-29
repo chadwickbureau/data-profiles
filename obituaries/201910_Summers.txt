@@ -35,3 +35,5 @@ school.place.city = "Rossville"
 [[person.education]]
 school.name = "Shorter College"
 school.type = "college"
+
+

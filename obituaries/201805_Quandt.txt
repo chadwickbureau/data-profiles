@@ -45,3 +45,5 @@ school.type = "college"
 [[person.education]]
 school.name = "Labette Community College"
 school.type = "college"
+
+

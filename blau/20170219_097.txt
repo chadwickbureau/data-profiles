@@ -24,3 +24,5 @@ type = "player"
 dates = "1922"
 team.name = "London"
 team.league.name = "Michigan-Ontario League"
+
+

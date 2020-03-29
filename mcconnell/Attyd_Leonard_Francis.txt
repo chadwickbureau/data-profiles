@@ -20,3 +20,4 @@ throws = "R"
 height = "68"
 weight = "145"
 note = [ "Hit 4 home runs in a game vs Lamesa on June 30, 1948" ]
+

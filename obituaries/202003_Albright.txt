@@ -41,3 +41,5 @@ school.place.city = "Liberty"
 [[person.education]]
 school.name = "William Jewell College"
 school.type = "college"
+
+

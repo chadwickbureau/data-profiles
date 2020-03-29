@@ -30,3 +30,4 @@ cemetery.place.city = "Rochester"
 
 [person.sameas]
 findagrave = "174169559"
+

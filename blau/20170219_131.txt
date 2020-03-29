@@ -73,3 +73,5 @@ type = "player"
 dates = "1933"
 team.name = "Quincy"
 team.league.name = "Mississippi Valley League"
+
+

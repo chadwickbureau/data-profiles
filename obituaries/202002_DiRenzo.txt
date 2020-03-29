@@ -25,3 +25,4 @@ date = "2020-02-26"
 place.country = "US"
 place.state = "NY"
 place.city = "Vestal"
+

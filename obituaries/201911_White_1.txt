@@ -38,3 +38,5 @@ school.place.city = "Kirkland"
 [[person.education]]
 school.name = "University of Idaho"
 school.type = "college"
+
+

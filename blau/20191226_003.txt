@@ -14,7 +14,7 @@ use = "J."
 given = "J. F."
 
 [[person.affiliation]]
-type = "player"
+type = "manager"
 dates = "1911"
 team.name = "Morristown"
 team.league.name = "Appalachian League"
@@ -25,3 +25,5 @@ date = "<=1911-04-14"
 type = "released"
 leave.name = "Augusta"
 leave.league.name = "South Atlantic"
+
+

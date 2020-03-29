@@ -38,3 +38,5 @@ school.place.city = "Norwich"
 [[person.education]]
 school.name = "University of Vermont"
 school.type = "college"
+
+

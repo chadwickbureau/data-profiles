@@ -38,3 +38,5 @@ school.place.city = "Macomb"
 [[person.education]]
 school.name = "Western Illinois University"
 school.type = "college"
+
+

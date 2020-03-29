@@ -36,3 +36,5 @@ school.place.city = "Atlanta"
 [[person.education]]
 school.name = "Georgia Institute of Technology"
 school.type = "college"
+
+

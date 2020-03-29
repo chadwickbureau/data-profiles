@@ -27,3 +27,4 @@ date = "2018-07-24"
 place.country = "US"
 place.state = "TX"
 place.city = "Magnolia"
+

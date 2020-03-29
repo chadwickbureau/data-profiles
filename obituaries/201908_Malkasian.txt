@@ -45,3 +45,5 @@ school.type = "college"
 [[person.education]]
 school.name = "Nichols College"
 school.type = "college"
+
+

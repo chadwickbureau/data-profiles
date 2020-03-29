@@ -29,3 +29,5 @@ school.name = "Mineyama HS"
 school.type = "secondary"
 school.place.country = "JP"
 school.place.city = "Kyoto"
+
+

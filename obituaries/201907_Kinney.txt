@@ -34,3 +34,5 @@ school.place.city = "Morrice"
 [[person.education]]
 school.name = "Michigan State University"
 school.type = "college"
+
+

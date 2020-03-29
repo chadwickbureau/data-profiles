@@ -34,3 +34,5 @@ place.city = "Lebanon"
 [[person.education]]
 school.name = "West Chester University"
 school.type = "college"
+
+

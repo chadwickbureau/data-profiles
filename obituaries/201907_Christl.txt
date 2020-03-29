@@ -30,3 +30,5 @@ place.state = "WI"
 [[person.education]]
 school.name = "Bradley University"
 school.type = "college"
+
+

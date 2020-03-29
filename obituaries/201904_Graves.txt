@@ -41,3 +41,5 @@ school.place.city = "Bluffs"
 [[person.education]]
 school.name = "Culver-Stockton College"
 school.type = "college"
+
+

@@ -27,3 +27,4 @@ place.city = "Winlock"
 
 [person.death]
 date = "2019-07-11"
+

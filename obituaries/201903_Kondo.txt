@@ -28,3 +28,4 @@ place.state = "Kanagawa Prefecture"
 date = "2019-03-27"
 place.country = "JP"
 place.state = "Kanagawa Prefecture"
+

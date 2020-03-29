@@ -47,3 +47,5 @@ school.place.city = "Fort Washington"
 [[person.education]]
 school.name = "University of Lynchburg"
 school.type = "college"
+
+

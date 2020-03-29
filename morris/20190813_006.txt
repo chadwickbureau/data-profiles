@@ -34,3 +34,5 @@ team.league.name = "Virginia League"
 type = "player"
 dates = "1914"
 team.name = "Davidson College [caliber=college]"
+
+

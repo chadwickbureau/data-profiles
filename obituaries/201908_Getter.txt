@@ -26,3 +26,4 @@ place.city = "Bethlehem"
 
 [person.death]
 date = "2019-08-24"
+

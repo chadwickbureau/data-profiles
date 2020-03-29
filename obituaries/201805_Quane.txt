@@ -40,3 +40,5 @@ cemetery.place.city = "Boise"
 [[person.education]]
 school.name = "University of Idaho"
 school.type = "college"
+
+

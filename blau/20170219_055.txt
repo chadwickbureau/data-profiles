@@ -17,3 +17,5 @@ type = "player"
 dates = "1920"
 team.name = "Rock Island"
 team.league.name = "Illinois-Indiana-Iowa League"
+
+

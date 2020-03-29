@@ -26,3 +26,4 @@ place.city = "Pontotoc"
 
 [person.death]
 date = "2019-12-02"
+

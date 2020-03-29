@@ -39,3 +39,5 @@ cemetery.place.city = "Menands"
 [[person.education]]
 school.name = "University of Notre Dame"
 school.type = "college"
+
+

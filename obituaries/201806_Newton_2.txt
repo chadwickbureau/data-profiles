@@ -33,3 +33,5 @@ place.city = "Tuscaloosa"
 [[person.education]]
 school.name = "University of Kentucky"
 school.type = "college"
+
+

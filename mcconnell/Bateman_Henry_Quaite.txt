@@ -24,3 +24,4 @@ place.city = "Milwaukee"
 [person.description]
 bats = "R"
 note = [ "Hit 4 home runs in a game on May 14, 1903 for Paris at Corsicana. Also hit a triple in the game.", "Pitched a no-hitter in game on July 11, 1903 for Waco against Fort Worth." ]
+

@@ -30,3 +30,5 @@ date = "2018-12-13"
 [[person.education]]
 school.name = "California State University, Fresno"
 school.type = "college"
+
+

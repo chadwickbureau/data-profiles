@@ -47,3 +47,5 @@ school.place.city = "Cincinnati"
 [[person.education]]
 school.name = "Miami University of Ohio"
 school.type = "college"
+
+

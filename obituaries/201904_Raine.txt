@@ -38,3 +38,5 @@ school.place.city = "Salinas"
 [[person.education]]
 school.name = "Arizona State University"
 school.type = "college"
+
+

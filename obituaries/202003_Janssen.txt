@@ -41,3 +41,5 @@ school.place.city = "Princeville"
 [[person.education]]
 school.name = "Bradley University"
 school.type = "college"
+
+

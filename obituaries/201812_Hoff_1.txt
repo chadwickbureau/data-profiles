@@ -31,3 +31,5 @@ school.place.city = "Detroit"
 [[person.education]]
 school.name = "Xavier University"
 school.type = "college"
+
+

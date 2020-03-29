@@ -28,3 +28,5 @@ date = "2014-09-28"
 [[person.education]]
 school.name = "San Diego State University"
 school.type = "college"
+
+

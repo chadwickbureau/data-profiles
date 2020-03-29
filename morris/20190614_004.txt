@@ -22,3 +22,5 @@ type = "player"
 dates = "1915"
 team.name = "San Bernardino"
 team.league.name = "California Winter League"
+
+

@@ -24,3 +24,4 @@ date = "2019-08-30"
 place.country = "US"
 place.state = "OH"
 place.city = "Barberton"
+

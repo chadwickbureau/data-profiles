@@ -28,3 +28,5 @@ type = "player"
 dates = "1912"
 team.name = "Bridgeport"
 team.league.name = "Connecticut State League"
+
+

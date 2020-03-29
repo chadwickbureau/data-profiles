@@ -39,3 +39,5 @@ school.place.city = "Wharton"
 [[person.education]]
 school.name = "Rice University"
 school.type = "college"
+
+

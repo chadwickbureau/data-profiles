@@ -24,3 +24,5 @@ type = "player"
 dates = "1913"
 team.name = "Atlanta"
 team.league.name = "Southern Association"
+
+

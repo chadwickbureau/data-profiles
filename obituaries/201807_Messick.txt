@@ -43,3 +43,5 @@ school.place.city = "San Mateo"
 [[person.education]]
 school.name = "University of Arizona"
 school.type = "college"
+
+

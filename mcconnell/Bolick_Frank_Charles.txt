@@ -23,3 +23,5 @@ weight = "180"
 [[person.education]]
 school.name = "Georgia Tech"
 school.type = "college"
+
+

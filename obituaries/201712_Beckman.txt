@@ -42,3 +42,5 @@ school.type = "college"
 [[person.education]]
 school.name = "Muskegon Community College"
 school.type = "college"
+
+

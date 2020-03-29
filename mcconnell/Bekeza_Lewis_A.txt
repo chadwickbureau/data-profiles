@@ -23,3 +23,5 @@ weight = "190"
 [[person.military]]
 country = "US"
 dates = "1942/1945"
+
+

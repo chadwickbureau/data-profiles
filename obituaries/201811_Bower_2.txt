@@ -40,3 +40,5 @@ school.place.city = "San Pedro"
 [[person.education]]
 school.name = "California State University, Long Beach"
 school.type = "college"
+
+

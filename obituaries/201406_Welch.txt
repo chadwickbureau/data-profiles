@@ -31,3 +31,5 @@ place.city = "Seal Beach"
 [[person.education]]
 school.name = "Eastern Michigan University"
 school.type = "college"
+
+

@@ -38,3 +38,5 @@ school.place.city = "Ponca City"
 [[person.education]]
 school.name = "University of Oklahoma"
 school.type = "college"
+
+

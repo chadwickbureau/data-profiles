@@ -27,3 +27,4 @@ throws = "R"
 height = "70"
 weight = "182"
 note = [ "Broke leg in a game on May 12, 1926. Did not return to lineup until August 25." ]
+

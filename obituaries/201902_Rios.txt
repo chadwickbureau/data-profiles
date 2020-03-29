@@ -29,3 +29,4 @@ date = "2019-02-01"
 place.country = "MX"
 place.state = "Sonora"
 place.city = "Guaymas"
+

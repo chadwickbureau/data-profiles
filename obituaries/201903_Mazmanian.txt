@@ -35,3 +35,5 @@ school.place.city = "Los Angeles"
 [[person.education]]
 school.name = "University of Southern California"
 school.type = "college"
+
+

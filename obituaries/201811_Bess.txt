@@ -41,3 +41,5 @@ school.place.city = "Battle Creek"
 [[person.education]]
 school.name = "Kellogg Community College"
 school.type = "college"
+
+

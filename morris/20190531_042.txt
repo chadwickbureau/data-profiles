@@ -30,3 +30,5 @@ dates = "1915"
 team.name = "Syracuse"
 team.league.name = "New York State League"
 description.position = "C"
+
+

@@ -42,3 +42,5 @@ school.place.city = "Gardena"
 [[person.education]]
 school.name = "Arizona State University"
 school.type = "college"
+
+

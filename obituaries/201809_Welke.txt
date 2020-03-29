@@ -41,3 +41,5 @@ school.place.city = "Harvard"
 [[person.education]]
 school.name = "Carthage College"
 school.type = "college"
+
+

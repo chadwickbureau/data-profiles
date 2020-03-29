@@ -40,3 +40,5 @@ school.place.city = "Wethersfield"
 [[person.education]]
 school.name = "Central Connecticut State University"
 school.type = "college"
+
+

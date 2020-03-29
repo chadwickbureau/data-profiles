@@ -44,3 +44,5 @@ school.place.city = "Brodhead"
 [[person.education]]
 school.name = "University of Wisconsin-Platteville"
 school.type = "college"
+
+

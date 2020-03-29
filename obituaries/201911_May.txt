@@ -25,3 +25,5 @@ date = "2019-11-10"
 [[person.education]]
 school.name = "California State University, Sacramento"
 school.type = "college"
+
+

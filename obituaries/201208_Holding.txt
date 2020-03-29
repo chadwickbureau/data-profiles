@@ -38,3 +38,5 @@ cemetery.place.city = "Highland"
 [[person.education]]
 school.name = "Stanford University"
 school.type = "college"
+
+

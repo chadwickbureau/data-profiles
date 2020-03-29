@@ -38,3 +38,5 @@ school.place.city = "Los Angeles"
 [[person.education]]
 school.name = "Stanford"
 school.type = "college"
+
+

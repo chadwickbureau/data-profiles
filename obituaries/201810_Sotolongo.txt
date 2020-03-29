@@ -27,3 +27,4 @@ place.city = "Aguate"
 
 [person.death]
 date = "2018-10-18"
+

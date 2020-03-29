@@ -27,3 +27,4 @@ place.city = "Endicott"
 
 [person.death]
 date = "2019-06-30"
+

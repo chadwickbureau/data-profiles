@@ -29,3 +29,5 @@ date = "2013-12-10"
 [[person.education]]
 school.name = "Stetson"
 school.type = "college"
+
+

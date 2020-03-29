@@ -29,3 +29,5 @@ type = "player"
 dates = "1922"
 team.name = "Fairbury"
 team.league.name = "Nebraska State League"
+
+

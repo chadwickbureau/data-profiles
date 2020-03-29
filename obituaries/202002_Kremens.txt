@@ -27,3 +27,4 @@ place.city = "Maspeth"
 
 [person.death]
 date = "2020-02-06"
+

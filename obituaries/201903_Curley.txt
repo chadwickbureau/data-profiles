@@ -31,3 +31,4 @@ date = "2019-03-26"
 place.country = "US"
 place.state = "TX"
 place.city = "Dallas"
+

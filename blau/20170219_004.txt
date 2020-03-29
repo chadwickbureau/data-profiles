@@ -21,3 +21,5 @@ type = "player"
 dates = "1932"
 team.name = "Davenport"
 team.league.name = "Missouri Valley League"
+
+

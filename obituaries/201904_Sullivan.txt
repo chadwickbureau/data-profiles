@@ -41,3 +41,5 @@ school.place.city = "Longmont"
 [[person.education]]
 school.name = "New Mexico State University"
 school.type = "college"
+
+

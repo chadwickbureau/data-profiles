@@ -34,3 +34,5 @@ cemetery.place.city = "Colonie"
 [[person.education]]
 school.name = "LeMoyne College"
 school.type = "college"
+
+

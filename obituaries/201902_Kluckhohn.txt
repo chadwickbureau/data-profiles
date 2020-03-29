@@ -41,3 +41,5 @@ school.place.city = "Springville"
 [[person.education]]
 school.name = "Colgate University"
 school.type = "college"
+
+

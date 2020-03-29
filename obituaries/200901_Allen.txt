@@ -40,3 +40,5 @@ school.place.city = "Biloxi"
 [[person.education]]
 school.name = "University of Mississippi"
 school.type = "college"
+
+

@@ -47,3 +47,5 @@ school.place.city = "Durham"
 [[person.education]]
 school.name = "Wake Forest University"
 school.type = "college"
+
+

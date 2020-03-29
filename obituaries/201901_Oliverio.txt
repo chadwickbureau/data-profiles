@@ -48,3 +48,5 @@ school.type = "college"
 [[person.education]]
 school.name = "University of South Alabama"
 school.type = "college"
+
+

@@ -44,3 +44,5 @@ school.place.city = "Quincy"
 [[person.education]]
 school.name = "Carthage College"
 school.type = "college"
+
+

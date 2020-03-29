@@ -16,3 +16,10 @@ email = "jackmo77@comcast.net"
 last = "McGowan"
 use = "Charley"
 given = "Charley"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Virginia League"
+
+

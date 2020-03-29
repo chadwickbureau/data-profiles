@@ -25,3 +25,5 @@ team.name = "Waycross"
 team.league.name = "Florida-Alabama-Georgia League"
 description.height = "68"
 description.weight = "155"
+
+

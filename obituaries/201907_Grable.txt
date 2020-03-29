@@ -32,3 +32,5 @@ school.place.city = "Bohemia"
 [[person.education]]
 school.name = "St. John's University"
 school.type = "college"
+
+

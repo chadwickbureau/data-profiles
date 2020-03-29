@@ -38,3 +38,5 @@ school.place.city = "Oceanside"
 [[person.education]]
 school.name = "California State University, Northridge"
 school.type = "college"
+
+

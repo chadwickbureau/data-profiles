@@ -26,3 +26,4 @@ throws = "R"
 height = "68.5"
 weight = "145"
 note = [ "Missed part of 1877 season due to serious illness" ]
+

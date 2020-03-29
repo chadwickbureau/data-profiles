@@ -14,7 +14,9 @@ use = "Otto"
 given = "Otto"
 
 [[person.affiliation]]
-type = "player"
+type = "manager"
 dates = "1915"
 team.name = "Valdosta"
 team.league.name = "Florida-Alabama-Georgia League"
+
+

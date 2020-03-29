@@ -65,3 +65,5 @@ title = "Business Manager"
 dates = "1946"
 team.name = "Spokane"
 team.league.name = "Western International"
+
+

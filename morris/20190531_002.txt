@@ -27,3 +27,5 @@ type = "player"
 dates = "1914"
 team.name = "Waterbury"
 team.league.name = "Eastern Association"
+
+

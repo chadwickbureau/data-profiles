@@ -20,7 +20,7 @@ team.name = "Brenham"
 team.league.name = "Middle Texas League"
 
 [[person.affiliation]]
-type = "player"
+type = "manager"
 dates = "1915"
 team.name = "Brenham"
 team.league.name = "Middle Texas League"
@@ -31,3 +31,5 @@ dates = "1915"
 team.name = "Shreveport"
 team.league.name = "Texas League"
 description.position = "2B"
+
+

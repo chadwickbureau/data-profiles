@@ -41,3 +41,5 @@ school.place.city = "Minneapolis"
 [[person.education]]
 school.name = "University of Minnesota"
 school.type = "college"
+
+

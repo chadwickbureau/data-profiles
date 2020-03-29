@@ -24,3 +24,5 @@ weight = "200"
 school.name = "University of Santa Clara"
 school.type = "college"
 degree = "graduated"
+
+

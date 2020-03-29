@@ -13,3 +13,4 @@ bats = "L"
 height = "68"
 weight = "150"
 mlb_played_first = "1910"
+

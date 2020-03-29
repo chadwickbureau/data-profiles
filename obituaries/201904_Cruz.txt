@@ -28,3 +28,4 @@ place.city = "Sunnyside"
 
 [person.death]
 date = "2019-04-11"
+

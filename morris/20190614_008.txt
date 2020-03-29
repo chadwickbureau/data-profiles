@@ -27,3 +27,5 @@ team.league.name = "California Winter League"
 type = "player"
 dates = "1915"
 team.name = "San Pedro Merchants [caliber=semi-pro]"
+
+

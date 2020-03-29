@@ -24,3 +24,5 @@ type = "player"
 dates = "1888"
 team.name = "Jackson"
 team.league.name = "Tri-State League"
+
+

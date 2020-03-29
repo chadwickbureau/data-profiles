@@ -30,3 +30,5 @@ note = [ "All-American football player at Brown" ]
 [[person.education]]
 school.name = "Brown University"
 school.type = "college"
+
+

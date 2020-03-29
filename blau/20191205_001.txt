@@ -23,3 +23,5 @@ team.league.name = "Florida-Alabama-Georgia League"
 type = "player"
 dates = "<=1915"
 team.league.name = "Appalachian League"
+
+

@@ -24,3 +24,5 @@ type = "player"
 dates = "1930"
 team.name = "Independence"
 team.league.name = "Western Association"
+
+

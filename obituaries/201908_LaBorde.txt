@@ -29,3 +29,4 @@ date = "2019-08-24"
 place.country = "US"
 place.state = "PA"
 place.city = "Newtown"
+

@@ -18,3 +18,5 @@ type = "player"
 dates = "1917"
 team.name = "Chambersburg"
 team.league.name = "Blue Ridge League"
+
+

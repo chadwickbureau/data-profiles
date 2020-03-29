@@ -54,3 +54,5 @@ degree = "graduated"
 [[person.military]]
 country = "US"
 dates = "1951/1952"
+
+

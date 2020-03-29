@@ -27,3 +27,4 @@ date = "2019-07-16"
 place.country = "CA"
 place.state = "ON"
 place.city = "Orillia"
+

@@ -42,3 +42,5 @@ school.place.city = "Warwick"
 [[person.education]]
 school.name = "Providence College"
 school.type = "college"
+
+

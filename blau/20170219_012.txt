@@ -34,3 +34,5 @@ type = "player"
 dates = "1923"
 team.name = "Coffeyville"
 team.league.name = "Southwestern League"
+
+

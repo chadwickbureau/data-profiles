@@ -24,3 +24,4 @@ date = "1933"
 
 [person.death]
 date = "2018-08-19"
+

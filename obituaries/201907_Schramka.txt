@@ -41,3 +41,5 @@ school.place.city = "Milwaukee"
 [[person.education]]
 school.name = "University of San Francisco"
 school.type = "college"
+
+

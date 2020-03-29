@@ -20,3 +20,5 @@ type = "player"
 dates = "1914"
 team.name = "Bridgeport"
 team.league.name = "Eastern Association"
+
+

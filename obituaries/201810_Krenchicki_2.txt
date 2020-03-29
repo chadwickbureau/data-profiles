@@ -28,3 +28,5 @@ place.city = "Pittsfield"
 [[person.education]]
 school.name = "University of Miami"
 school.type = "college"
+
+

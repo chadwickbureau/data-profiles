@@ -30,3 +30,4 @@ date = "2020-01-09"
 place.country = "US"
 place.state = "TX"
 place.city = "Columbus"
+

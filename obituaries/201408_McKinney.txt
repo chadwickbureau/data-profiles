@@ -48,3 +48,5 @@ school.place.city = "Whittier"
 [[person.education]]
 school.name = "University of California, Santa Barbara"
 school.type = "college"
+
+

@@ -31,3 +31,5 @@ date = "2019-02-18"
 [[person.education]]
 school.name = "Benedictine University at Springfield"
 school.type = "college"
+
+

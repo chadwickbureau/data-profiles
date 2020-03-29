@@ -21,3 +21,4 @@ given = "Shinsaku"
 
 [person.death]
 date = "2018-01-22"
+

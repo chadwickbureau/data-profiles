@@ -44,3 +44,5 @@ school.place.city = "Baltimore"
 [[person.education]]
 school.name = "Arizona State University"
 school.type = "college"
+
+

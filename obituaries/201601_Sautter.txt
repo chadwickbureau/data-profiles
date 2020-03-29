@@ -44,3 +44,5 @@ school.place.city = "Townsend"
 [[person.education]]
 school.name = "Montana State University"
 school.type = "college"
+
+

@@ -33,3 +33,5 @@ school.place.city = "Winder"
 [[person.education]]
 school.name = "Mercer University"
 school.type = "college"
+
+

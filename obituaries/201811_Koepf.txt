@@ -37,3 +37,5 @@ school.place.city = "Burlingame"
 [[person.education]]
 school.name = "Willamette University"
 school.type = "college"
+
+

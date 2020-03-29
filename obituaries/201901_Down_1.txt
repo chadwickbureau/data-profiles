@@ -24,3 +24,4 @@ date = "2019-01-05"
 place.country = "US"
 place.state = "NV"
 place.city = "Las Vegas"
+

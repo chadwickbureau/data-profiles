@@ -29,3 +29,4 @@ date = "2019-07-01"
 place.country = "US"
 place.state = "TX"
 place.city = "Southlake"
+

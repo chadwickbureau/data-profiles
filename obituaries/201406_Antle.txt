@@ -41,3 +41,5 @@ school.place.city = "Southern Pines"
 [[person.education]]
 school.name = "University of North Carolina-Wilmington"
 school.type = "college"
+
+

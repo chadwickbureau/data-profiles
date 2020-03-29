@@ -27,3 +27,5 @@ type = "player"
 dates = "1948"
 team.name = "Visalia"
 team.league.name = "California League"
+
+

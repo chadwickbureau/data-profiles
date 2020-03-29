@@ -26,3 +26,4 @@ throws = "R"
 height = "71"
 weight = "180"
 note = [ "Lost both legs in railroad accident in January, 1894" ]
+

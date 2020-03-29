@@ -37,3 +37,5 @@ place.address = "208 Railroad Street"
 [[person.education]]
 school.name = "Barrington High School"
 school.type = "secondary"
+
+

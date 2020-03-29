@@ -32,3 +32,5 @@ school.place.city = "Millville"
 [[person.education]]
 school.name = "Gannon University"
 school.type = "college"
+
+

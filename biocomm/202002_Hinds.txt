@@ -16,3 +16,4 @@ place.city = "Hanford"
 
 [person.description]
 mlb_played_first = "1977"
+

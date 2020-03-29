@@ -30,3 +30,4 @@ date = "2019-06-07"
 place.country = "CA"
 place.state = "NB"
 place.city = "Fredericton"
+

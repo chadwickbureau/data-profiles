@@ -32,3 +32,4 @@ cemetery.place.city = "Boulder City"
 
 [person.sameas]
 findagrave = "92022664"
+

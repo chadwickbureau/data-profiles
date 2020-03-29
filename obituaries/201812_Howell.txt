@@ -30,3 +30,4 @@ date = "2018-12-18"
 place.country = "US"
 place.state = "PA"
 place.city = "Bangor"
+

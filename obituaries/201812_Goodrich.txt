@@ -41,3 +41,5 @@ school.place.city = "Sonoma"
 [[person.education]]
 school.name = "Santa Rosa Junior College"
 school.type = "college"
+
+

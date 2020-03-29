@@ -41,3 +41,5 @@ school.place.city = "Roswell"
 [[person.education]]
 school.name = "Bacone College"
 school.type = "college"
+
+

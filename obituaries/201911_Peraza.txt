@@ -27,3 +27,4 @@ place.city = "Merida"
 
 [person.death]
 date = "2019-11-04"
+

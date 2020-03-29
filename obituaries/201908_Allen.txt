@@ -44,3 +44,5 @@ school.type = "college"
 [[person.education]]
 school.name = "Armstrong State University"
 school.type = "college"
+
+

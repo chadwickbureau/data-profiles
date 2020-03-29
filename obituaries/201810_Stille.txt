@@ -41,3 +41,5 @@ school.place.city = "Storm Lake"
 [[person.education]]
 school.name = "Buena Vista University"
 school.type = "college"
+
+

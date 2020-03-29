@@ -40,3 +40,5 @@ school.place.city = "Greensboro"
 [[person.education]]
 school.name = "Elon University"
 school.type = "college"
+
+

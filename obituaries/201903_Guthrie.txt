@@ -27,3 +27,4 @@ place.city = "Voss"
 
 [person.death]
 date = "2019-03-23"
+

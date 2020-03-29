@@ -254,3 +254,5 @@ totals.B_HR = "2"
 totals.B_RBI = "39"
 totals.B_SB = "2"
 totals.B_AVG = ".278"
+
+

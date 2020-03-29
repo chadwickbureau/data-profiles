@@ -41,3 +41,5 @@ school.place.city = "Beavercreek"
 [[person.education]]
 school.name = "Miami University of Ohio"
 school.type = "college"
+
+

@@ -30,3 +30,5 @@ date = "1907-06-19"
 type = "released"
 leave.name = "Green Bay"
 leave.league.name = "Wisconsin State"
+
+

@@ -34,3 +34,5 @@ type = "player"
 dates = "1915"
 team.name = "South Scranton Sunsets"
 team.caliber = "semipro"
+
+

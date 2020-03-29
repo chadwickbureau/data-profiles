@@ -34,3 +34,5 @@ school.place.city = "Durham"
 [[person.education]]
 school.name = "University of North Carolina"
 school.type = "college"
+
+

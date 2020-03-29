@@ -26,3 +26,4 @@ place.state = "CA"
 
 [person.death]
 date = "2014-06-13"
+

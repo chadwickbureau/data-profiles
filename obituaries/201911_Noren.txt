@@ -24,3 +24,4 @@ date = "2019-11-15"
 place.country = "US"
 place.state = "CA"
 place.city = "Oceanside"
+

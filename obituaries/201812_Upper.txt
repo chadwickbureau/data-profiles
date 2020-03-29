@@ -26,3 +26,4 @@ date = "2018-12-08"
 place.country = "CA"
 place.state = "ON"
 place.city = "Barrie"
+

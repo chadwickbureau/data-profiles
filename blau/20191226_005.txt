@@ -14,7 +14,9 @@ use = "Tom"
 given = "Tom"
 
 [[person.affiliation]]
-type = "player"
+type = "manager"
 dates = "1911"
 team.name = "Augusta"
 team.league.name = "South Atlantic League"
+
+

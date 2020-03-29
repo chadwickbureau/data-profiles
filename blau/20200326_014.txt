@@ -17,3 +17,5 @@ dates = "1915"
 team.name = "Lewiston"
 team.league.name = "New England League"
 description.position = "RF"
+
+

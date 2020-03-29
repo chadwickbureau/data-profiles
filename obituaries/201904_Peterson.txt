@@ -31,3 +31,5 @@ date = "2019-04-16"
 [[person.education]]
 school.name = "Rutgers, the State University of New Jersey"
 school.type = "college"
+
+

@@ -32,3 +32,4 @@ cemetery.name = "Frederick W. Loescher Veterans Memorial Cemetery"
 cemetery.place.country = "US"
 cemetery.place.state = "NY"
 cemetery.place.city = "New Hempstead"
+

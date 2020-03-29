@@ -41,3 +41,5 @@ school.place.city = "Bridgeport"
 [[person.education]]
 school.name = "Ohio State University"
 school.type = "college"
+
+

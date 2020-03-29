@@ -29,3 +29,5 @@ type = "player"
 dates = "1915"
 team.name = "Gettysburg"
 team.league.name = "Blue Ridge League"
+
+

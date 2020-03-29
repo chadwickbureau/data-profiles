@@ -37,3 +37,5 @@ school.place.city = "Johnstown"
 [[person.education]]
 school.name = "University of Pittsburgh"
 school.type = "college"
+
+

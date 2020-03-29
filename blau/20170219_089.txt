@@ -23,3 +23,5 @@ type = "player"
 dates = "1916"
 team.name = "Bridgeport"
 team.league.name = "Eastern League"
+
+

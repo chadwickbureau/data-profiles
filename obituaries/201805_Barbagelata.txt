@@ -37,3 +37,5 @@ school.place.city = "Sparks"
 [[person.education]]
 school.name = "College of Southern Idaho"
 school.type = "college"
+
+

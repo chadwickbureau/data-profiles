@@ -28,3 +28,4 @@ date = "2019-10-12"
 place.country = "US"
 place.state = "FL"
 place.city = "Miami"
+

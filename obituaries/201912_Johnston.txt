@@ -31,3 +31,5 @@ sr_nfl = "JohnRe01"
 [[person.education]]
 school.name = "University of Southern California"
 school.type = "college"
+
+

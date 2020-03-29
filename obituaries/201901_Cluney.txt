@@ -28,3 +28,5 @@ date = "2019-01-09"
 [[person.education]]
 school.name = "Trinity University"
 school.type = "college"
+
+

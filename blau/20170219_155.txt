@@ -25,3 +25,5 @@ type = "player"
 dates = "1919"
 team.name = "Saskatoon"
 team.league.name = "Western Canada League"
+
+

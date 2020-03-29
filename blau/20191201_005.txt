@@ -24,3 +24,5 @@ type = "player"
 dates = "1927"
 team.name = "Shreveport"
 team.league.name = "Texas League"
+
+

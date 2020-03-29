@@ -41,3 +41,5 @@ school.name = "Dallas Tech High School"
 school.type = "secondary"
 dates = "/1942"
 degree = "graduated"
+
+

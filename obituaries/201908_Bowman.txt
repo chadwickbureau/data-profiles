@@ -47,3 +47,5 @@ school.place.city = "Johnson City"
 [[person.education]]
 school.name = "East Tennessee State University"
 school.type = "college"
+
+

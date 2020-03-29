@@ -51,3 +51,5 @@ school.place.city = "Mankato"
 [[person.education]]
 school.name = "Bethany Lutheran College"
 school.type = "college"
+
+

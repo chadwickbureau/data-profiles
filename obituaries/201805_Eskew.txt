@@ -39,3 +39,5 @@ school.place.city = "Sarasota"
 [[person.education]]
 school.name = "University of Georgia"
 school.type = "college"
+
+

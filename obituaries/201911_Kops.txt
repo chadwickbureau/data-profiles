@@ -40,3 +40,5 @@ cemetery.place.city = "Fort Mitchell"
 [[person.education]]
 school.name = "Indiana University"
 school.type = "college"
+
+

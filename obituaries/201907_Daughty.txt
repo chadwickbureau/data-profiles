@@ -36,3 +36,5 @@ school.place.city = "McLoud"
 [[person.education]]
 school.name = "Lamar Community College"
 school.type = "college"
+
+
