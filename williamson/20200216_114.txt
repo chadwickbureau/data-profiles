@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_114"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-26"
+pages = "9"
+
+[person.name]
+last = "Bay"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

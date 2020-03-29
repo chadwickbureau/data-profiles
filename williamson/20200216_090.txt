@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200216_090"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "19"
+
+[person.name]
+last = "Scanlon"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "IN"
+
+
+[[person.education]]
+school.name = "Notre Dame"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+

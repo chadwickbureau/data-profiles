@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200216_013"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-09"
+pages = "11"
+
+[person.name]
+last = "O'Guin"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "TN"
+place.city = "Denver"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_074"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-18"
+pages = "10"
+
+[person.name]
+last = "Steele"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Madison"
+team.league.name = "Wisconsin-Illinois League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

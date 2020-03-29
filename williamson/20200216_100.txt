@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_100"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-23"
+pages = "9"
+
+[person.name]
+last = "Beville"
+use = "Monte"
+given = "Monte"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.position = "C"
+
+

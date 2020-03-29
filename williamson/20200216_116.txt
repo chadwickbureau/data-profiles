@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_116"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-26"
+pages = "9"
+
+[person.name]
+last = "Murch"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Savannah"
+team.league.name = "South Atlantic League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.position = "2B"
+
+

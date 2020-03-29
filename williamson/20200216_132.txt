@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200216_132"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "Dugbleby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Eastern League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

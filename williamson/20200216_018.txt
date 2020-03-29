@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_018"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-10"
+pages = "10"
+
+[person.name]
+last = "Coleman"
+use = "Frank"
+given = "Frank P."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Southern Association"
+title = "President and Treasurer"
+
+

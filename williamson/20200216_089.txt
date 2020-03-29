@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_089"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "19"
+
+[person.name]
+last = "Collins"
+use = "Cuckoo"
+given = "Cuckoo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Santa Cruz"
+team.league.name = "California League"
+description.position = "UT"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "UT"
+
+

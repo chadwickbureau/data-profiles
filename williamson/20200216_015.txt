@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_015"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-09"
+pages = "11"
+
+[person.name]
+last = "Doherty"
+use = "James"
+given = "James E."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Northeast Arkansas League"
+title = "Vice President"
+
+

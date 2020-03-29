@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_004"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-08"
+pages = "11"
+
+[person.name]
+last = "DeFrates"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+description.position = "OF"
+
+

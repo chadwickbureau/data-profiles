@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_120"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "20"
+
+[person.name]
+last = "Dobbs"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

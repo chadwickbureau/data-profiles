@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_032"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-11"
+pages = "11"
+
+[person.name]
+last = "Rossman"
+use = "Claude"
+given = "Claude"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Columbus"
+team.league.name = "American Association"
+description.position = "1B"
+
+

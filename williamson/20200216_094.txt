@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200216_094"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "21"
+
+[person.name]
+last = "Theilman"
+use = "Jacob"
+given = "Jacob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Indianapolis"
+team.league.name = "American Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Louisville"
+team.league.name = "American Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Indianapolis"
+team.league.name = "American Association"
+description.position = "P"
+
+

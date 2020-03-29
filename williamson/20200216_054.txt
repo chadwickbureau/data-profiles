@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200216_054"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-16"
+pages = "11"
+
+[person.name]
+last = "Temple"
+use = "Will"
+given = "Will"
+
+[[person.education]]
+school.name = "North Carolina A&M"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New York"
+team.league.name = "National League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_161"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-28"
+pages = "12"
+
+[person.name]
+last = "Baskette"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Toledo"
+team.league.name = "American Association"
+description.position = "P"
+
+

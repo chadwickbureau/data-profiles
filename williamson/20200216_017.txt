@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_017"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-09"
+pages = "11"
+
+[person.name]
+last = "Cutting"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Brockton"
+team.league.name = "New England League"
+
+

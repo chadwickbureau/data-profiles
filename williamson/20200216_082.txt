@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20200216_082"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-18"
+pages = "10"
+
+[person.name]
+last = "Allen"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+description.position = "P"
+description.throws = "L"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_053"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-16"
+pages = "11"
+
+[person.name]
+last = "Molesworth"
+use = "Carlton"
+given = "Carlton"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+

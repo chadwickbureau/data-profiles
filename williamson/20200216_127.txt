@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_127"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "McKee"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Y. M. I."
+team.league.name = "Memphis City League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Princesas"
+team.league.name = "Memphis City League"
+description.position = "OF"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_112"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-25"
+pages = "10"
+
+[person.name]
+last = "Sample"
+use = "Guy"
+given = "Guy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+
+

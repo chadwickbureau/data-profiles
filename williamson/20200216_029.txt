@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200216_029"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-11"
+pages = "10"
+
+[person.name]
+last = "Draper"
+use = "Hamp"
+given = "Hamp"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Oxford"
+team.place.country = "US"
+team.place.state = "AL"
+team.place.city = "Oxford"
+
+

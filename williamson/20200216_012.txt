@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_012"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-09"
+pages = "11"
+
+[person.name]
+last = "Clunn"
+given = "F. B."
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New York"
+team.league.name = "American League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "L"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_111"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-25"
+pages = "10"
+
+[person.name]
+last = "Reed"
+use = "George"
+given = "George M."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1904"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

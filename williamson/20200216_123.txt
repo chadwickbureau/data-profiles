@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_123"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "Jordan"
+use = "Otto"
+given = "Otto"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200216_047"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-15"
+pages = "15"
+
+[person.name]
+last = "Mayre"
+given = "W. S."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Greenwood"
+team.place.country = "US"
+team.place.state = "MS"
+team.place.city = "Greenwood"
+title = "President"
+
+

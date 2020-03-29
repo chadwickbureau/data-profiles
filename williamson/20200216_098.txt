@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_098"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-21"
+pages = "12"
+
+[person.name]
+last = "Jolly"
+use = "Abe"
+given = "Abe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+description.position = "OF"
+
+

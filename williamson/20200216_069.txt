@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_069"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-18"
+pages = "10"
+
+[person.name]
+last = "Rementer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "C"
+
+

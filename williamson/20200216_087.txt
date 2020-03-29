@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_087"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "19"
+
+[person.name]
+last = "Sawrie"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Memphis Commercial League"
+title = "Secretary"
+
+

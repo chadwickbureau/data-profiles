@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_030"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-11"
+pages = "10"
+
+[person.name]
+last = "Gunter"
+given = "C. G."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Rome"
+team.place.country = "US"
+team.place.state = "GA"
+team.place.city = "Rome"
+
+

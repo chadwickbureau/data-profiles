@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_081"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-18"
+pages = "10"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Mansfield"
+team.league.name = "Ohio State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Cleveland"
+team.league.name = "American League"
+description.position = "OF"
+
+

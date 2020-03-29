@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_092"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "21"
+
+[person.name]
+last = "Bronkie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Waterbury"
+team.league.name = "Connecticut State League"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.position = "3B"
+
+

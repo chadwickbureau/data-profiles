@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200216_046"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-15"
+pages = "15"
+
+[person.name]
+last = "Moran"
+use = "August"
+given = "August"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "National League"
+
+

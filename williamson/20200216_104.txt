@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20200216_104"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-24"
+pages = "10"
+
+[person.name]
+last = "Peaster"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Water Valley"
+team.place.country = "US"
+team.place.state = "MS"
+team.place.city = "Water Valley"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+description.position = "P"
+
+

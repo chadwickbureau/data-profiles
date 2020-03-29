@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20200216_115"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-26"
+pages = "9"
+
+[person.name]
+last = "Flood"
+use = "Tim"
+given = "Tim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Waterbury"
+team.league.name = "Connecticut League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.position = "2B"
+
+

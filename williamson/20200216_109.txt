@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200216_109"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-25"
+pages = "10"
+
+[person.name]
+last = "Greminger"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "manager"
+dates = "Montgomery"
+team.league.name = "Southern Association"
+
+

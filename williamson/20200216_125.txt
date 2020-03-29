@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_125"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "Matthews"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

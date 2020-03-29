@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200216_038"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-14"
+pages = "12"
+
+[person.name]
+last = "Ostrom"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Longview"
+team.place.country = "US"
+team.place.state = "TX"
+team.place.city = "Longview"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

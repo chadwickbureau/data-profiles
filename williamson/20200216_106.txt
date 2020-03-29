@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_106"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-24"
+pages = "11"
+
+[person.name]
+last = "Channel"
+use = "Lester"
+given = "Lester"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "OF"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_035"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-13"
+pages = "20"
+
+[person.name]
+last = "Isbell"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Wichita"
+team.league.name = "Western League"
+title = "Owner"
+
+

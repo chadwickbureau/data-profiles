@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200216_162"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-28"
+pages = "12"
+
+[person.name]
+last = "Savidge"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Montreal"
+team.league.name = "Eastern League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Detroit"
+team.league.name = "American League"
+description.position = "P"
+
+

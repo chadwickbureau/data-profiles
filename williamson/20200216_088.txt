@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_088"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "19"
+
+[person.name]
+last = "Winters"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Columbus"
+team.league.name = "South Atlantic League"
+
+

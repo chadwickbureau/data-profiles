@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200216_129"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "Miller"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+

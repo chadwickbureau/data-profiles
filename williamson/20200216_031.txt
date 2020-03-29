@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200216_031"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-11"
+pages = "11"
+
+[person.name]
+last = "Butler"
+use = "Willie"
+given = "Willie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Cleveland"
+team.league.name = "American League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Toledo"
+team.league.name = "American Association"
+description.position = "SS"
+
+

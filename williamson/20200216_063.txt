@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20200216_063"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-17"
+pages = "10"
+
+[person.name]
+last = "Cote"
+use = "Leonard"
+given = "Leonard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

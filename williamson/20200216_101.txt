@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200216_101"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-23"
+pages = "9"
+
+[person.name]
+last = "Law"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Virginia League"
+
+

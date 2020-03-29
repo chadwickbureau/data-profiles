@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_160"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-28"
+pages = "12"
+
+[person.name]
+last = "Robinson"
+use = "Mack"
+given = "Mack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

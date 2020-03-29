@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_052"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-16"
+pages = "11"
+
+[person.name]
+last = "Baugh"
+given = "R. H."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+title = "President"
+
+

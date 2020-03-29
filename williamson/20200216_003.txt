@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_003"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-08"
+pages = "11"
+
+[person.name]
+last = "McTigue"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+description.position = "P"
+description.throws = "L"
+
+

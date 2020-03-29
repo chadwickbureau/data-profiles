@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_119"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-26"
+pages = "9"
+
+[person.name]
+last = "Ellis"
+use = "Rube"
+given = "Rube"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "P"
+
+

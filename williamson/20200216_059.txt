@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200216_059"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-16"
+pages = "11"
+
+[person.name]
+last = "Russell"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+
+
+[[person.transaction]]
+date = "<=1910-02-16"
+type = "purchased"
+join.name = "Paragould"
+join.league.name = "Northeast Arkansas"
+leave.name = "Jonesboro"
+leave.league.name = "Northeast Arkansas"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200216_097"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-21"
+pages = "12"
+
+[person.name]
+last = "Ritter"
+use = "Peck"
+given = "Peck"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+title = "President"
+
+

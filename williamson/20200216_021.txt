@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200216_021"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-10"
+pages = "11"
+
+[person.name]
+last = "Cefalu"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+

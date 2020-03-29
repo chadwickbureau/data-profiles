@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_095"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-21"
+pages = "12"
+
+[person.name]
+last = "Wormser"
+use = "Mose"
+given = "Mose"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Southern Association"
+title = "Secretary"
+
+

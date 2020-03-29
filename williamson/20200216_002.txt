@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200216_002"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-07"
+pages = "12"
+
+[person.name]
+last = "Welch"
+
+[[person.affiliation]]
+type = "coach"
+dates = "Woodland"
+team.name = "College"
+team.caliber = "college"
+
+

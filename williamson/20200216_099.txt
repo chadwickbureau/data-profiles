@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_099"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-21"
+pages = "12"
+
+[person.name]
+last = "Schlensker"
+use = "Shorty"
+given = "Shorty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "OF"
+
+

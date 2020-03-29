@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200216_043"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-15"
+pages = "15"
+
+[person.name]
+last = "McGraw"
+use = "Leo"
+given = "Leo"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "OH"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "C"
+description.height = "72"
+description.age = "19"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200216_107"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-24"
+pages = "11"
+
+[person.name]
+last = "Rogers"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "TX"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

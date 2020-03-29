@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_145"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-27"
+pages = "21"
+
+[person.name]
+last = "McLaurin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.position = "OF"
+
+

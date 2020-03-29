@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200216_117"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-26"
+pages = "9"
+
+[person.name]
+last = "Cranston"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Kansas City"
+team.league.name = "American Association"
+description.position = "2B"
+
+

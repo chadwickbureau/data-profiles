@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200216_042"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-14"
+pages = "12"
+
+[person.name]
+last = "Ritter"
+given = "P. G."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+title = "President"
+
+

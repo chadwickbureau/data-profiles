@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20200216_009"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-08"
+pages = "11"
+
+[person.name]
+last = "Conahan"
+given = "E. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "American Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "American Association"
+
+

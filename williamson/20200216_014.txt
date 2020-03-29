@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200216_014"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-09"
+pages = "11"
+
+[person.name]
+last = "Moore"
+use = "Eddie"
+given = "Eddie"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+description.height = "69"
+description.weight = "160"
+description.age = "20"
+
+

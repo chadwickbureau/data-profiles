@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200216_077"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-18"
+pages = "10"
+
+[person.name]
+last = "Altman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.position = "3B"
+
+

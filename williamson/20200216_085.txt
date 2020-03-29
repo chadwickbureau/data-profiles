@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200216_085"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1910-02-20"
+pages = "19"
+
+[person.name]
+last = "O'Hare"
+given = "W. J."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Memphis Commercial League"
+title = "Vice President"
+
+
