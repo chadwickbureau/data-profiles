@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_Donoso"
+
+[person.name]
+last = "Donoso"
+use = "Lino"
+given = "Lino"
+matrilineal = "y Galeta"
+
+[person.death]
+date = "1990-10-13"
+place.country = "MX"
+place.city = "Veracruz"
+
+[person.description]
+mlb_played_first = "1955"

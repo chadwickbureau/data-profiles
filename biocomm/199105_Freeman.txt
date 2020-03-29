@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Freeman"
+
+[person.name]
+last = "Freeman"
+use = "Julius"
+given = "Julius Benjamin"
+
+[person.description]
+bats = "R"
+mlb_played_first = "1888"

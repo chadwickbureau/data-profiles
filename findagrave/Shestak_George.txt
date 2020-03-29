@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "Shestak_George"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-12-12"
+url = "https://www.findagrave.com/memorial/40834276"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Shestak"
+use = "George"
+given = "George W."
+
+[person.birth]
+date = "1888-11-09"
+
+[person.death]
+date = "1967-07-29"
+place.country = "US"
+place.state = "NE"
+
+[person.burial]
+cemetery.name = "Lincoln Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Lincoln"
+
+[person.sameas]
+findagrave = "40834276"

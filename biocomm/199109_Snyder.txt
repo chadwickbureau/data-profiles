@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199109_Snyder"
+
+[person.name]
+last = "Snyder"
+use = "Charles"
+given = "Charles"
+
+[person.description]
+bats = "R"
+mlb_played_first = "1890"

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_Scott"
+
+[person.name]
+last = "Scott"
+use = "Richard"
+given = "Richard Lewis"
+
+[person.death]
+date = "2020-02-10"
+place.country = "US"
+place.state = "GA"
+place.city = "Carrollton"
+
+[person.description]
+mlb_played_first = "1963"

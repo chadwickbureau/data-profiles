@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_Chervinko"
+
+[person.name]
+last = "Chervinko"
+use = "Paul"
+given = "Paul"
+
+[person.burial]
+cemetery.name = "Santa Barbara Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Witt"
+
+[person.description]
+mlb_played_first = "1937"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "Hechler_James"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-12-11"
+url = "https://www.findagrave.com/memorial/129490833/james-w_-hechler"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hechler"
+use = "James"
+given = "James W."
+
+[person.birth]
+date = "1926-12-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Paint"
+
+[person.death]
+date = "2002-02-09"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.burial]
+cemetery.name = "Richland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Geistown"
+
+[person.sameas]
+findagrave = "129490833"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,12 @@
+[[person]]
+
+[person.meta]
+key = "199109_Newman"
+
+[person.name]
+last = "Newman"
+use = "Charles"
+given = "Charles"
+
+[person.description]
+mlb_played_first = "1892-09-11"

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "199109_Koshorek"
+
+[person.name]
+last = "Koshorek"
+use = "Clement"
+given = "Clement John"
+
+[person.birth]
+date = "1925-06-20"
+
+[person.death]
+date = "1991-09-08"
+place.country = "US"
+place.state = "MI"
+place.city = "Royal Oak"
+
+[person.description]
+mlb_played_first = "1952"

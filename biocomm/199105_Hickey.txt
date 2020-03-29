@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "199105_Hickey"
+
+[person.name]
+last = "Hickey"
+use = "John"
+given = "John William"
+
+[person.description]
+height = "70"
+weight = "170"
+mlb_played_first = "1904"

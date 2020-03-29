@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "Ammons_Winfred"
+
+[[person.meta.citation]]
+title = "Find A Grave"
+date = "2020-01-12"
+url = "https://www.findagrave.com/memorial/12129621"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Ammons"
+use = "Wally"
+given = "Winfred"
+
+[person.birth]
+date = "1929-09-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Laurinburg"
+
+[person.death]
+date = "1998-02-20"
+place.country = "US"
+place.state = "FL"
+
+[person.burial]
+cemetery.name = "Jesse Rogers Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Mary Esther"
+
+[person.sameas]
+findagrave = "12129621"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"

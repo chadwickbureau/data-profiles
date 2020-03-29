@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "Ellison_Bobby"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-12-15"
+url = "https://www.findagrave.com/memorial/74024612/bobby-floyd-ellison"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Ellison"
+use = "Bobby"
+given = "Bobby Floyd"
+
+[person.birth]
+date = "1929-08-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Winters"
+
+[person.death]
+date = "1991-01-17"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.burial]
+cemetery.name = "Manda Methodist Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Austin"
+
+[person.sameas]
+findagrave = "74024612"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

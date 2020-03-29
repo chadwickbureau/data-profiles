@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "202002_Gilroy"
+
+[person.name]
+last = "Gilroy"
+use = "John"
+given = "John N."
+
+[person.birth]
+date = "1875-10-26"
+
+[person.description]
+mlb_played_first = "1895"

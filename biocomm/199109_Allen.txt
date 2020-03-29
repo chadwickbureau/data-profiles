@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199109_Allen"
+
+[person.name]
+last = "Allen"
+use = "Cyrus"
+given = "Cyrus Alban"
+
+[person.description]
+weight = "160"
+mlb_played_first = "1879"

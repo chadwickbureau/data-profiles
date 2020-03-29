@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "202002_Beam"
+
+[person.name]
+last = "Beam"
+use = "Ernest"
+given = "Ernest Joseph"
+
+[person.death]
+date = "1918-09-12"
+
+[person.description]
+mlb_played_first = "1895"

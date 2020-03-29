@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "Lugos_Frank"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/70853428/frank-t-lugos"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Lugos"
+use = "Frank"
+given = "Frank T."
+
+[person.birth]
+date = "1923-04-17"
+
+[person.death]
+date = "2004-06-24"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Swedesboro"
+
+[person.sameas]
+findagrave = "70853428"

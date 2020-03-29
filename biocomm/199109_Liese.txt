@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199109_Liese"
+
+[person.name]
+last = "Liese"
+use = "Frederick"
+given = "Frederick Richard"
+
+[person.description]
+bats = "L"
+height = "68"
+weight = "150"
+mlb_played_first = "1910"

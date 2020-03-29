@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Miesle_Henry"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/147326836/henry-a_-miesle"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Miesle"
+use = "Henry"
+given = "Henry A."
+
+[person.birth]
+date = "1918-07-17"
+place.country = "US"
+place.state = "OH"
+place.city = "Fremont"
+
+[person.death]
+date = "1999-10-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Wood County"
+
+[person.burial]
+cemetery.name = "St. Joseph's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Fremont"
+
+[person.sameas]
+findagrave = "147326836"

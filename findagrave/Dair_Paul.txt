@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "Dair_Paul"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/58288744/paul-francis-dair"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Dair"
+use = "Paul"
+given = "Paul Francis"
+nick = "Bud"
+
+[person.birth]
+date = "1918-12-13"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.death]
+date = "2009-10-22"
+place.country = "US"
+place.state = "VA"
+place.city = "Fairfax County"
+
+[person.sameas]
+findagrave = "58288744"
+
+[[person.education]]
+school.name = "Catholic University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

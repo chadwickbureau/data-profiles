@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_Brady"
+
+[person.name]
+last = "Brady"
+use = "William"
+given = "William Aloysius"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Woodside"
+
+[person.description]
+mlb_played_first = "1912"

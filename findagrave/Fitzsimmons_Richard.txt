@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "Fitzsimmons_Richard"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-12-14"
+url = "https://www.findagrave.com/memorial/120962152"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-14"
+
+[person.name]
+last = "Fitzsimmons"
+use = "Burle"
+given = "Richard Burle"
+
+[person.birth]
+date = "1928-12-07"
+place.country = "US"
+place.state = "CO"
+place.city = "Pueblo"
+
+[person.death]
+date = "2013-11-21"
+place.country = "US"
+place.state = "CO"
+place.city = "Wheat Ridge"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[person.sameas]
+findagrave = "120962152"

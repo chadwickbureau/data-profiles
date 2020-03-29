@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Sisler_William"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-05-12"
+url = "https://www.findagrave.com/memorial/174169559"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-12"
+
+[person.name]
+last = "Sisler"
+use = "William"
+given = "William Frederick"
+
+[person.death]
+date = "1988-07-06"
+
+[person.burial]
+cemetery.name = "Holy Sepulchre Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Rochester"
+
+[person.sameas]
+findagrave = "174169559"

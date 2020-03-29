@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "199110_Clack"
+
+[person.name]
+last = "Clack"
+use = "Robert"
+given = "Robert S."
+
+[person.birth]
+date = "1850-06"
+place.country = "GB"
+
+[person.description]
+mlb_played_first = "1874"

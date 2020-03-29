@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "202002_Cedeno"
+
+[person.name]
+last = "Cedeno"
+use = "Cesar"
+given = "Cesar Eugenio"
+matrilineal = "Encarnacion"
+
+[person.description]
+mlb_played_first = "1970"

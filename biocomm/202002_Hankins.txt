@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202002_Hankins"
+
+[person.name]
+last = "Hankins"
+use = "Jay"
+given = "Jay Nelson"
+
+[person.death]
+date = "2020-01-20"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.burial]
+cemetery.name = "Green Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Kansas City"
+
+[person.description]
+mlb_played_first = "1961"

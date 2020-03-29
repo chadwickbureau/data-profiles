@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "Jack_Zelman"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-11-30"
+url = "https://www.findagrave.com/memorial/103127500"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Jack"
+use = "Zelman"
+given = "Zelman Lee"
+
+[person.birth]
+date = "1946"
+
+[person.death]
+date = "1971"
+
+[person.burial]
+cemetery.name = "Memory Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Concord"
+
+[person.sameas]
+findagrave = "103127500"

@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Gruber"
+
+[person.name]
+last = "Gruber"
+use = "Henry"
+given = "Henry John"
+
+[person.description]
+throws = "R"
+mlb_played_first = "1887"

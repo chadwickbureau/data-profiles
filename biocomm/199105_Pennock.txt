@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199105_Pennock"
+
+[person.name]
+last = "Pennock"
+use = "Herbert"
+given = "Herbert Jefferis"
+
+[person.birth]
+date = "1894-02-10"
+
+[person.description]
+mlb_played_first = "1912"

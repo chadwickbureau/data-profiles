@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Orr"
+
+[person.name]
+last = "Orr"
+use = "David"
+given = "David L."
+
+[person.description]
+bats = "R"
+mlb_played_first = "1883"

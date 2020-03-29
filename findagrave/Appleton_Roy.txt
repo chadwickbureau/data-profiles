@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Appleton_Roy"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-04-17"
+url = "https://www.findagrave.com/memorial/28210629"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-17"
+
+[person.name]
+last = "Appleton"
+use = "Roy"
+given = "Roy"
+
+[person.birth]
+date = "1894-11-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Arlington"
+
+[person.death]
+date = "1982-12-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Mount Pleasant"
+
+[person.burial]
+cemetery.name = "Oakland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Weatherford"
+
+[person.sameas]
+findagrave = "28210629"

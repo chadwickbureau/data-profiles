@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199109_Mason"
+
+[person.name]
+last = "Mason"
+use = "Charles"
+given = "Charles E."
+
+[person.description]
+weight = "175"
+mlb_played_first = "1875"

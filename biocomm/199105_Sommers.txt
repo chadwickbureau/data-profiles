@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Sommers"
+
+[person.name]
+last = "Sommers"
+use = "Joseph"
+given = "Joseph Andrews"
+
+[person.description]
+throws = "R"
+mlb_played_first = "1887"

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_Antonelli"
+
+[person.name]
+last = "Antonelli"
+use = "John"
+given = "John August"
+
+[person.death]
+date = "2020-02-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+[person.description]
+mlb_played_first = "1948"

@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "199110_Dugdale"
+
+[person.name]
+last = "Dugdale"
+use = "Daniel"
+given = "Daniel Edward"
+
+[person.description]
+height = "68"
+weight = "180"
+mlb_played_first = "1886"

@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199109_Winchell"
+
+[person.name]
+last = "Winchell"
+use = "Frederick"
+given = "Frederick Russell"
+
+[person.description]
+throws = "R"
+mlb_played_first = "1909"

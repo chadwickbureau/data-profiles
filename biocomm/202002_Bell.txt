@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_Bell"
+
+[person.name]
+last = "Bell"
+use = "Ralph"
+given = "Ralph Albert"
+
+[person.birth]
+date = "1890-11-16"
+place.country = "US"
+place.state = "IA"
+place.city = "Argyle"
+
+[person.description]
+mlb_played_first = "1912"

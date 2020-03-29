@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199109_Strelecki"
+
+[person.name]
+last = "Strelecki"
+use = "Edward"
+given = "Edward Harold"
+
+[person.birth]
+date = "1905-04-10"
+
+[person.description]
+mlb_played_first = "1928"

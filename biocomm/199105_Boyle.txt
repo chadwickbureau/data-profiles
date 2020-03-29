@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Boyle"
+
+[person.name]
+last = "Boyle"
+use = "John"
+given = "John Anthony"
+
+[person.description]
+bats = "R"
+mlb_played_first = "1886"

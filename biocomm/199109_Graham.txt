@@ -1,0 +1,12 @@
+[[person]]
+
+[person.meta]
+key = "199109_Graham"
+
+[person.name]
+last = "Graham"
+use = "Bernard"
+given = "Bernard W."
+
+[person.description]
+mlb_played_first = "1884"

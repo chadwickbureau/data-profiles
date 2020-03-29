@@ -1,0 +1,12 @@
+[[person]]
+
+[person.meta]
+key = "202002_Monroe"
+
+[person.name]
+last = "Monroe"
+use = "Frank"
+given = "Frank C."
+
+[person.description]
+mlb_played_first = "1884"

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199109_Burgess"
+
+[person.name]
+last = "Burgess"
+use = "Forrest"
+given = "Forrest Harrill"
+
+[person.death]
+date = "1991-09-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Asheville"
+
+[person.description]
+mlb_played_first = "1949"

@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199110_Connor"
+
+[person.name]
+last = "Connor"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1854-08"
+
+[person.description]
+mlb_played_first = "1884"

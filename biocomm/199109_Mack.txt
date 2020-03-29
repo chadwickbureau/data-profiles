@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "199109_Mack"
+
+[person.name]
+last = "Mack"
+use = "Cornelius"
+given = "Cornelius Alexander"
+
+[person.death]
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"

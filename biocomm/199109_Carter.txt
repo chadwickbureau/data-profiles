@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199109_Carter"
+
+[person.name]
+last = "Carter"
+use = "Arnold"
+given = "Arnold Lee"
+
+[person.death]
+date = "1898-04"
+
+[person.description]
+mlb_played_first = "1944"

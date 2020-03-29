@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202002_Echevarria"
+
+[person.name]
+last = "Echevarria"
+use = "Angel"
+given = "Angel Santos"
+
+[person.death]
+date = "2020-02-07"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.burial]
+cemetery.name = "St. Michael Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Stratford"
+
+[person.description]
+mlb_played_first = "1996"

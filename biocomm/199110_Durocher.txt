@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199110_Durocher"
+
+[person.name]
+last = "Durocher"
+use = "Leo"
+given = "Leo Ernest"
+
+[person.death]
+date = "1991-10-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Palm Springs"
+
+[person.description]
+mlb_played_first = "1925"

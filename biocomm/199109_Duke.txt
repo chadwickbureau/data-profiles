@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199109_Duke"
+
+[person.name]
+last = "Duke"
+use = "Martin"
+given = "Martin F."
+
+[person.birth]
+date = "1867"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.description]
+mlb_played_first = "1891"

@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "199105_McVey"
+
+[person.name]
+last = "McVey"
+use = "George"
+given = "George W."
+
+[person.description]
+bats = "R"
+throws = "R"
+mlb_played_first = "1885"

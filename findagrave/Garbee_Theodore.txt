@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "Garbee_Theodore"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/191548552/theodore-baldock-garbee"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Garbee"
+use = "Theodore"
+given = "Theodore Baldock"
+nick = "Specs"
+
+[person.birth]
+date = "1908-03-11"
+place.country = "US"
+place.state = "VA"
+place.city = "Amherst County"
+
+[person.death]
+date = "1991-12-11"
+place.country = "US"
+place.state = "VA"
+place.city = "Lynchburg"
+
+[person.burial]
+cemetery.name = "Presbyterian Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Lynchburg"
+
+[person.sameas]
+findagrave = "191548552"

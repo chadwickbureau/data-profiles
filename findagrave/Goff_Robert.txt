@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Goff_Robert"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-12-17"
+url = "https://www.findagrave.com/memorial/173933277"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Goff"
+use = "Robert"
+given = "Robert E Lee"
+
+[person.birth]
+date = "1902-03-08"
+place.country = "US"
+place.state = "TX"
+
+[person.death]
+date = "1981-01-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Sulphur Springs"
+
+[person.burial]
+cemetery.name = "Calvary Hill Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[person.sameas]
+findagrave = "173933277"

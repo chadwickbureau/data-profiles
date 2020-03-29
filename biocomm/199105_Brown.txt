@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "199105_Brown"
+
+[person.name]
+last = "Brown"
+use = "Paul"
+given = "Paul Percival"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "172"
+mlb_played_first = "1909"

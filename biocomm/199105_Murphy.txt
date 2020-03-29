@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "199105_Murphy"
+
+[person.name]
+last = "Murphy"
+use = "Patrick"
+given = "Patrick J."
+
+[person.description]
+throws = "R"
+mlb_played_first = "1887"

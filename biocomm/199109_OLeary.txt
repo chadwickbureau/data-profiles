@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "199109_OLeary"
+
+[person.name]
+last = "O'Leary"
+use = "Daniel"
+given = "Daniel"
+
+[person.description]
+height = "70"
+weight = "165"
+mlb_played_first = "1879"
