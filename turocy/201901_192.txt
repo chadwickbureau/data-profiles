@@ -24,3 +24,14 @@ description.throws = "R"
 description.age = "20"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Columbia"
+splits.0.team.place.country = "US"
+splits.0.team.place.state = "SC"
+splits.0.team.place.city = "Columbia"
+totals.B_G = "148"
+totals.B_AVG = ".325"
+totals.F_PCT = ".950"
+
+

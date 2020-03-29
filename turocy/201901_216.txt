@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "23"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Fort Wayne"
+totals.B_G = "135"
+totals.B_AVG = ".297"
+totals.F_PCT = ".939"
+
+

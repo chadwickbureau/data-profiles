@@ -24,3 +24,8 @@ description.throws = "R"
 description.age = "20"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Novata [state=CA] [caliber=semipro]"
+
+

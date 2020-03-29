@@ -24,3 +24,11 @@ description.throws = "L"
 description.age = "21"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Springfield [state=MO]"
+totals.P_G = "27"
+totals.P_W = "8"
+totals.P_L = "6"
+
+

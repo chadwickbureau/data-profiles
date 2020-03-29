@@ -23,4 +23,13 @@ description.bats = "L"
 description.throws = "R"
 description.age = "25"
 
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "El Reno"
+team.place.country = "US"
+team.place.state = "OK"
+team.place.city = "El Reno"
+team.caliber = "semipro"
+
 

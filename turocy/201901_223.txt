@@ -24,3 +24,17 @@ description.throws = "L"
 description.age = "23"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Lake Charles"
+totals.B_G = "37"
+totals.B_AVG = ".318"
+totals.F_PCT = ".957"
+
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Houston"
+totals.B_G = "12"
+totals.B_AVG = ".267"
+
+

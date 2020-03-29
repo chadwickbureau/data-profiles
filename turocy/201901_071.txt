@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "21"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Wheeling"
+totals.B_G = "112"
+totals.B_AVG = ".302"
+totals.F_PCT = ".995"
+
+

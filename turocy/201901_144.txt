@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "27"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Hazelton"
+totals.B_G = "133"
+totals.B_AVG = ".312"
+totals.F_PCT = ".956"
+
+

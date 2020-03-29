@@ -24,3 +24,12 @@ description.throws = "L"
 description.age = "21"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Lewiston"
+splits.1.team.name = "Brockton"
+totals.B_G = "115"
+totals.B_AVG = ".341"
+totals.F_PCT = ".957"
+
+

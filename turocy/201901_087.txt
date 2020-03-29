@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "26"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Oklahoma City"
+totals.P_G = "49"
+totals.P_W = "15"
+totals.P_L = "13"
+
+

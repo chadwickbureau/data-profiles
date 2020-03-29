@@ -24,3 +24,12 @@ description.throws = "R"
 description.age = "28"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Omaha"
+splits.1.team.name = "Des Moines"
+totals.B_G = "125"
+totals.B_AVG = ".273"
+totals.F_PCT = ".960"
+
+

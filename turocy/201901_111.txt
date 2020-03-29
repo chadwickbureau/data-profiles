@@ -23,4 +23,13 @@ description.bats = "R"
 description.throws = "R"
 description.age = "21"
 
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Columbia"
+team.place.country = "US"
+team.place.state = "MO"
+team.place.city = "Columbia"
+team.caliber = "semipro"
+
 

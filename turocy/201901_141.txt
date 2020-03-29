@@ -24,3 +24,18 @@ description.throws = "R"
 description.age = "22"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Des Moines"
+totals.B_G = "24"
+totals.B_AVG = ".280"
+totals.F_PCT = ".897"
+
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Keokuk"
+totals.B_G = "90"
+totals.B_AVG = ".211"
+totals.F_PCT = ".897"
+
+

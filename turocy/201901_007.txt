@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "24"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "El Dorado"
+totals.B_G = "122"
+totals.B_AVG = ".327"
+totals.F_PCT = ".917"
+
+

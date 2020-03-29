@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "24"
 
 
+[[person.playing]]
+season = "1929"
+league.name = "American League"
+splits.0.team.name = "St. Louis"
+totals.B_G = "16"
+totals.B_AVG = ".244"
+
+

@@ -24,3 +24,18 @@ description.throws = "R"
 description.age = "25"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Houston"
+totals.B_G = "48"
+totals.B_AVG = ".294"
+totals.F_PCT = ".949"
+
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Danville"
+totals.B_G = "46"
+totals.B_AVG = ".313"
+totals.F_PCT = ".940"
+
+

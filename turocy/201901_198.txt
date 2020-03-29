@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "21"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Sacramento"
+totals.B_G = "40"
+totals.B_AVG = ".288"
+totals.F_PCT = ".943"
+
+

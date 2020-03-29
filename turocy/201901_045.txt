@@ -24,3 +24,18 @@ description.throws = "L"
 description.age = "24"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Portland"
+totals.B_G = "74"
+totals.B_AVG = ".284"
+totals.F_PCT = ".955"
+
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Pueblo"
+totals.B_G = "69"
+totals.B_AVG = ".334"
+totals.F_PCT = ".985"
+
+

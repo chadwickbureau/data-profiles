@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "30"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Wichita"
+totals.B_G = "154"
+totals.B_AVG = ".302"
+totals.F_PCT = ".967"
+
+

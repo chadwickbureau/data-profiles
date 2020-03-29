@@ -24,3 +24,21 @@ description.throws = "R"
 description.age = "25"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Shawnee"
+totals.B_G = "41"
+totals.B_AVG = ".265"
+totals.F_PCT = ".978"
+
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Danville"
+splits.0.team.place.country = "US"
+splits.0.team.place.state = "IL"
+splits.0.team.place.city = "Danville"
+totals.B_G = "62"
+totals.B_AVG = ".307"
+totals.F_PCT = ".962"
+
+

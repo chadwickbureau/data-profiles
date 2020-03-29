@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "22"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Seattle"
+totals.B_G = "18"
+totals.B_AVG = ".096"
+totals.F_PCT = ".976"
+
+

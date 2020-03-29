@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "25"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Scranton"
+totals.P_G = "23"
+totals.P_W = "12"
+totals.P_L = "9"
+
+

@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "32"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Chattanooga"
+totals.B_G = "93"
+totals.B_AVG = ".281"
+totals.F_PCT = ".966"
+
+

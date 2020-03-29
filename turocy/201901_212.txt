@@ -30,3 +30,11 @@ team.name = "St. Joseph"
 team.league.name = "Western League"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Houston"
+totals.B_G = "85"
+totals.B_AVG = ".271"
+totals.F_PCT = "1.000"
+
+

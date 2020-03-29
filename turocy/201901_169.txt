@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "33"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Allentown"
+totals.B_G = "64"
+totals.B_AVG = ".281"
+totals.F_PCT = ".953"
+
+

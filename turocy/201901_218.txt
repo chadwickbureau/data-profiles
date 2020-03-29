@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "25"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Scottdale"
+totals.B_G = "44"
+totals.B_AVG = ".277"
+totals.F_PCT = ".962"
+
+

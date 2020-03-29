@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "26"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Terre Haute"
+totals.B_G = "75"
+totals.B_AVG = ".305"
+totals.F_PCT = ".950"
+
+

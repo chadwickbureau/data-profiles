@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "22"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Pueblo"
+totals.P_G = "38"
+totals.P_W = "13"
+totals.P_L = "16"
+
+

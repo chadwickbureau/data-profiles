@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "22"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Bisbee"
+totals.B_G = "31"
+totals.B_AVG = ".257"
+totals.F_PCT = ".815"
+
+

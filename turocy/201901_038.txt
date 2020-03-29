@@ -24,3 +24,11 @@ description.throws = "R"
 description.age = "24"
 
 
+[[person.playing]]
+season = "1929"
+splits.0.team.name = "Coleman"
+totals.B_G = "107"
+totals.B_AVG = ".240"
+totals.F_PCT = ".913"
+
+
