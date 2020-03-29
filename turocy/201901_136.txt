@@ -26,7 +26,10 @@ description.age = "26"
 
 [[person.playing]]
 season = "1929"
-splits.0.team.name = "Springfield [state=MO]"
+splits.0.team.name = "Springfield"
+splits.0.team.place.country = "US"
+splits.0.team.place.state = "MO"
+splits.0.team.place.city = "Springfield"
 totals.P_G = "32"
 totals.P_W = "12"
 totals.P_L = "7"

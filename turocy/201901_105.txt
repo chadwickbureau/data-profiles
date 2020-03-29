@@ -23,9 +23,13 @@ description.bats = "R"
 description.throws = "R"
 description.age = "20"
 
-
-[[person.playing]]
-season = "1929"
-splits.0.team.name = "Novata [state=CA] [caliber=semipro]"
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Novata"
+team.place.country = "US"
+team.place.state = "CA"
+team.place.city = "Novata"
+team.caliber = "semipro"
 
 

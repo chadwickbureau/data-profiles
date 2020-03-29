@@ -23,9 +23,13 @@ description.bats = "R"
 description.throws = "R"
 description.age = "20"
 
-
-[[person.playing]]
-season = "1929"
-splits.0.team.name = "Wellington [state=TX] [caliber=semipro]"
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wellington"
+team.place.country = "US"
+team.place.state = "TX"
+team.place.city = "Wellington"
+team.caliber = "semipro"
 
 
