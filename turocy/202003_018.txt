@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_018"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Jones"
+use = "Gordon"
+given = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Wilkes-Barre"
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Spartanburg"
+
+

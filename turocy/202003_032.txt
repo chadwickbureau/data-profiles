@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202003_032"
+
+[[person.meta.citation]]
+title = "The Daily Oklahoman"
+date = "1914-05-01"
+pages = "9"
+
+[person.name]
+last = "Kane"
+use = "Jerry"
+given = "Jerry"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "OK"
+place.city = "Chelsea"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "SS"
+description.height = "69"
+description.weight = "165"
+description.throws = "R"
+description.bats = "R"
+description.age = "37"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+
+

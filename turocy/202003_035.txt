@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_035"
+
+[[person.meta.citation]]
+title = "The Daily Oklahoman"
+date = "1914-05-01"
+pages = "9"
+
+[person.name]
+last = "Patterson"
+nick = "Slim"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "OK"
+place.city = "Hartshorne"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "CF"
+description.height = "72"
+description.weight = "170"
+description.throws = "L"
+description.bats = "R"
+description.age = "23"
+
+

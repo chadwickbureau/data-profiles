@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "202003_010"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Knezovich"
+use = "Mel"
+given = "Mel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "19"
+
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202003_020"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Mesner"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.age = "30"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Sacramento"
+totals.B_AVG = ".316"
+totals.B_RBI = "12"
+totals.B_HR = "1"
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "San Diego"
+totals.B_AVG = ".293"
+totals.B_RBI = "64"
+totals.B_HR = "7"
+
+

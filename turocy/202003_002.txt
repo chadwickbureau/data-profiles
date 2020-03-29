@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_002"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Hafey"
+use = "Will"
+given = "Will"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "P"
+description.bats = "L"
+description.throws = "R"
+description.age = "28"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Oakland"
+totals.P_G = "30"
+totals.P_W = "13"
+totals.P_L = "10"
+totals.P_ERA = "4.47"
+
+

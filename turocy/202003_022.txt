@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_022"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Zomlefer"
+use = "Sid"
+given = "Sid"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "IF"
+description.bats = "R"
+description.throws = "R"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Oklahoma City"
+totals.B_AVG = ".222"
+totals.B_RBI = "52"
+totals.B_HR = "1"
+
+

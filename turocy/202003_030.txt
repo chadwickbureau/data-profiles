@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "202003_030"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Locklin"
+use = "Stuart"
+given = "Stuart"
+
+[person.description]
+note = [ "Was amateur in 1948" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "OF"
+description.bats = "L"
+description.throws = "L"
+description.age = "20"
+
+

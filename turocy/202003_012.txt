@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_012"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Ritchey"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "C"
+description.bats = "L"
+description.throws = "R"
+description.age = "24"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "San Diego"
+totals.B_AVG = ".323"
+totals.B_RBI = "44"
+totals.B_HR = "4"
+
+

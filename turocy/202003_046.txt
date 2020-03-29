@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202003_046"
+
+[[person.meta.citation]]
+title = "The Daily Oklahoman"
+date = "1914-05-01"
+pages = "9"
+
+[person.name]
+last = "Bowen"
+use = "Theo."
+given = "Theo."
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "TX"
+place.city = "El Campo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "P"
+description.height = "71"
+description.weight = "180"
+description.throws = "R"
+description.bats = "R"
+description.age = "21"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202003_011"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Nicholas"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "San Diego"
+totals.P_G = "13"
+totals.P_W = "2"
+totals.P_L = "4"
+totals.P_ERA = "6.89"
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Tacoma"
+totals.P_G = "28"
+totals.P_W = "14"
+totals.P_L = "7"
+totals.P_ERA = "2.42"
+
+

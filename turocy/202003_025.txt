@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_025"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Adams"
+use = "Buster"
+given = "Buster"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "OF"
+description.bats = "R"
+description.throws = "R"
+description.age = "32"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "San Diego"
+totals.B_AVG = ".253"
+totals.B_RBI = "34"
+totals.B_HR = "8"
+
+

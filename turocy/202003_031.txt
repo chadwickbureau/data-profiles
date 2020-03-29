@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_031"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "West"
+use = "Max"
+given = "Max"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "OF"
+description.bats = "L"
+description.throws = "R"
+description.age = "32"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "Pittsburgh"
+totals.B_AVG = ".178"
+totals.B_RBI = "21"
+totals.B_HR = "8"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_024"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Wilson"
+use = "Artie"
+given = "Artie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "IF"
+description.bats = "L"
+description.throws = "R"
+description.age = "29"
+
+
+[[person.playing]]
+season = "1948"
+league.name = "Negro League"
+splits.0.team.name = ""
+totals.B_AVG = ".402"
+totals.B_RBI = "41"
+totals.B_HR = "2"
+
+

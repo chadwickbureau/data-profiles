@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_008"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Kerrigan"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.age = "26"
+
+
+[[person.playing]]
+season = "1948"
+splits.0.team.name = "San Diego"
+totals.P_G = "46"
+totals.P_W = "3"
+totals.P_L = "6"
+totals.P_ERA = "4.74"
+
+

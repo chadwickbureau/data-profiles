@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202003_034"
+
+[[person.meta.citation]]
+title = "The Daily Oklahoman"
+date = "1914-05-01"
+pages = "9"
+
+[person.name]
+last = "Burns"
+use = "Bobby"
+given = "Bobby"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "PA"
+place.city = "Warren"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "LF"
+description.height = "71"
+description.weight = "175"
+description.throws = "R"
+description.bats = "R"
+description.age = "19"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202003_016"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1949-09-02"
+
+[person.name]
+last = "Easter"
+use = "Luke"
+given = "Luke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "San Diego"
+team.league.name = "Pacific Coast League"
+description.position = "IF"
+description.bats = "L"
+description.throws = "R"
+description.age = "27"
+
+
+[[person.playing]]
+season = "1948"
+league.name = "Negro League"
+splits.0.team.name = ""
+totals.B_AVG = ".376"
+
+
