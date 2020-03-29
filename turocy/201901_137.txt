@@ -13,3 +13,11 @@ last = "Keyser"
 use = "E."
 given = "E. Lee"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+title = "President"
+
+

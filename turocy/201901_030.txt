@@ -13,3 +13,11 @@ last = "Lee"
 use = "Charles"
 given = "Charles"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+title = "President and Business Manager"
+
+

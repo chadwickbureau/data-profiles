@@ -13,3 +13,11 @@ last = "Knight"
 use = "Charles"
 given = "Charles W."
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+title = "Secretary"
+
+

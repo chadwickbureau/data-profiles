@@ -13,3 +13,11 @@ last = "Stewart"
 use = "Don"
 given = "Don"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+title = "Secretary"
+
+

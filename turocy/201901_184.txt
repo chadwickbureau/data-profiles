@@ -14,6 +14,13 @@ use = "Arthur"
 given = "Arthur"
 
 [[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+title = "President"
+
+[[person.affiliation]]
 type = "manager"
 dates = "1930"
 team.name = "Wichita"

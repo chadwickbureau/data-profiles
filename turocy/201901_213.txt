@@ -13,3 +13,11 @@ last = "French"
 use = "Oliver"
 given = "Oliver"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+title = "Business Manager and Secretary"
+
+

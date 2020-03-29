@@ -13,3 +13,11 @@ last = "Friel"
 use = "P."
 given = "P. R."
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+title = "Secretary"
+
+

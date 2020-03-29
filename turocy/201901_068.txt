@@ -13,3 +13,11 @@ last = "Humphries"
 use = "James"
 given = "James"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+title = "Business Manager and Secretary"
+
+

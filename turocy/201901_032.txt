@@ -14,3 +14,11 @@ use = "W."
 given = "W."
 title = "Mrs."
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+title = "Secretary"
+
+

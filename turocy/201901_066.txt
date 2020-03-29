@@ -13,3 +13,11 @@ last = "Holland"
 use = "John"
 given = "John"
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+title = "President"
+
+

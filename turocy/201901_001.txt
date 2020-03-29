@@ -13,3 +13,11 @@ last = "Anfenger"
 use = "Milton"
 given = "Milton L."
 
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Denver"
+team.league.name = "Western League"
+title = "President"
+
+
