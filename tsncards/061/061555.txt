@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "61555"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/61555"
+title = "The Sporting News Player Contract Cards, ScanID: 1015003443"
+
+[person.name]
+last = "Fraher"
+given = "Leo B."
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Lewiston"
+note = "Lewiston 1915-07"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Lewiston"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916"
+type = "signed"
+join.name = "Lynn"
+note = "Lynn 1916"
+
+[[person.transaction]]
+date = "1916-03"
+type = "released"
+leave.name = "Lynn"
+note = "rel 1916-03"
+

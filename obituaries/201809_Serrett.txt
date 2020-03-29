@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201809_Serrett"
+
+[[person.meta.citation]]
+title = "Fairchild Sons Funeral Home"
+date = "2018-11-27"
+url = "https://fairchildsons.com/tribute/details/1891/Rudolph-Serrett/obituary.html#content-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-27"
+
+[person.name]
+last = "Serrett"
+use = "Rudolph"
+given = "Rudolph W."
+
+[person.birth]
+date = "1939"
+
+[person.death]
+date = "2018-09-08"

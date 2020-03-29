@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_150"
+
+[[person.meta.citation]]
+title = "Thomasville Times Enterprise"
+date = "1927-07-05"
+pages = "6"
+
+[person.name]
+last = "Mills"
+use = "W."
+given = "W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Savannah"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Atlanta"
+team.league.name = "Southern Association"

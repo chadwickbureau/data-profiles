@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201405_Gray"
+
+[[person.meta.citation]]
+title = "The Palm Beach Post"
+date = "2014-05-28"
+url = "http://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=John-GRAY&pid=171148113"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-28"
+
+[person.name]
+last = "Gray"
+use = "Johnny"
+given = "John L."
+
+[person.birth]
+date = "1926-12-11"
+place.country = "US"
+place.state = "FL"
+place.city = "West Palm Beach"
+
+[person.death]
+date = "2014-05-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Boca Raton"
+
+[person.burial]
+cemetery.name = "South Florida National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Lake Worth"
+
+[[person.education]]
+school.name = "West Palm Beach HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "West Palm Beach"
+
+[[person.education]]
+school.name = "Rollins College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

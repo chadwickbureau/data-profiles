@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201404_Paul"
+
+[[person.meta.citation]]
+title = "Moore Funeral Homes"
+date = "2014-04-28"
+url = "http://www.moorefuneral.com/obituaries/John-Paul-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-28"
+
+[person.name]
+last = "Paul"
+use = "Jack"
+given = "John W."
+
+[person.birth]
+date = "1924-01-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Catoosa"
+
+[person.death]
+date = "2014-04-23"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Tulsa"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

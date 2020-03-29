@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201809_Wells"
+
+[[person.meta.citation]]
+title = "Tobias Funeral Home"
+date = "2018-10-05"
+url = "https://www.dignitymemorial.com/obituaries/dayton-oh/jack-wells-7995523"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Wells"
+use = "Jack"
+given = "Jack L."
+
+[person.birth]
+date = "1936-02-17"
+
+[person.death]
+date = "2018-09-20"

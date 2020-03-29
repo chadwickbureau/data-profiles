@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202003_Niemiec"
+
+[[person.meta.citation]]
+title = "Hays Funeral Home"
+date = "2020-03-08"
+url = "https://www.haysfuneralhome.com/memorials/robert-niemiec/4127404/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-08"
+
+[person.name]
+last = "Niemiec"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Chicopee"
+
+[person.death]
+date = "2020-03-06"
+
+[[person.education]]
+school.name = "Chicopee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Chicopee"
+
+[[person.education]]
+school.name = "Boston College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

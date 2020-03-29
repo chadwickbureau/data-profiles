@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201406_Bristow"
+
+[[person.meta.citation]]
+title = "The News Journal"
+date = "2014-06-25"
+url = "http://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=Frank-Bristow&pid=171475362"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-25"
+
+[person.name]
+last = "Bristow"
+use = "Frank"
+given = "Frank C."
+suffix = "Jr."
+
+[person.birth]
+date = "1931-02-19"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.death]
+date = "2014-06-22"
+
+[person.burial]
+cemetery.name = "Gracelawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "DE"
+cemetery.place.city = "New Castle"
+
+[[person.education]]
+school.name = "P.S. duPont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Wilmington"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201912_Angelini"
+
+[[person.meta.citation]]
+title = "Horan & McConaty Funeral Home"
+date = "2019-12-28"
+url = "https://horancares.com/obits/norman-angelini/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Angelini"
+use = "Norm"
+given = "Norman"
+
+[person.birth]
+date = "1947-09-24"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-12-21"
+
+[[person.education]]
+school.name = "Junipero Serra HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Washington State University"
+school.type = "college"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kountz"
+
+[[person.meta.citation]]
+title = "Redmond Funeral Home"
+date = "2019-04-14"
+url = "http://www.redmondfuneralhomeinc.com/obits/obituary.php?id=712415"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Kountz"
+use = "Gary"
+given = "Gary J."
+
+[person.birth]
+date = "1941-12-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Freeport"
+
+[person.death]
+date = "2019-04-08"
+place.country = "US"
+place.state = "PA"
+place.city = "South Buffalo Township"

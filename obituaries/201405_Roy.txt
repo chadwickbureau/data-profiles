@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201405_Roy"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "2014-05-26"
+url = "http://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=Roland-Roy&pid=171125361"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-26"
+
+[person.name]
+last = "Roy"
+use = "Roland"
+given = "Roland J."
+
+[person.birth]
+date = "1926-11-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[person.death]
+date = "2014-05-22"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Chelmsford"
+
+[[person.education]]
+school.name = "Lowell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lowell"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

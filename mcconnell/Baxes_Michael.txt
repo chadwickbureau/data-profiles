@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Baxes_Michael"
+
+[person.name]
+last = "Baxes"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1930-12-18"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "175"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Baxes"
+person.name.use = "Jim"
+person.name.given = "Jim"
+
+
+[[person.military]]
+country = "US"
+dates = "1952/1953"

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201807_Henderson"
+
+[[person.meta.citation]]
+title = "Gwinnett Daily Post"
+date = "2018-07-22"
+url = "https://www.gwinnettdailypost.com/obituaries/donald-henderson/article_447fb695-47f1-5799-8ae4-e17a93582207.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-23"
+
+[person.name]
+last = "Henderson"
+use = "Don"
+given = "Donald"
+
+[person.birth]
+date = "1933-10-23"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2018-07-04"
+
+[[person.education]]
+school.name = "Murphy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"

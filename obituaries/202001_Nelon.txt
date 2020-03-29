@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202001_Nelon"
+
+[[person.meta.citation]]
+title = "Walker Funeral Service"
+date = "2020-01-03"
+url = "http://www.walkerfuneral.com/obituary/cecil-nelon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-03"
+
+[person.name]
+last = "Nelon"
+use = "Cecil"
+given = "Cecil Eugene"
+
+[person.birth]
+date = "1917-08-17"
+place.country = "US"
+place.state = "OK"
+place.city = "Morris"
+
+[person.death]
+date = "2020-01-01"
+
+[person.burial]
+cemetery.name = "Resthaven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Shawnee"
+
+[person.description]
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

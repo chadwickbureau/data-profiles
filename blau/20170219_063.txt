@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170219_063"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Stewart"
+use = "Sid"
+given = "Sid"
+
+[person.description]
+note = [ "see Davis Barker notes" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.height = "74"

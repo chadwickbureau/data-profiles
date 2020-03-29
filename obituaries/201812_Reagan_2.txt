@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201812_Reagan_2"
+
+[[person.meta.citation]]
+title = "Churchill Funeral Home"
+date = "2018-12-17"
+url = "http://thejhchurchillfuneralhome.tributes.com/obituary/show/Johnny-Lee-Reagan-106665184"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Reagan"
+use = "Johnny"
+given = "Johnny Lee"
+
+[person.birth]
+date = "1926-05-21"
+place.country = "US"
+place.state = "MO"
+place.city = "Bismarck"
+
+[person.death]
+date = "2018-12-14"
+place.country = "US"
+place.state = "KY"
+place.city = "Murray"
+
+[person.burial]
+cemetery.name = "Murray City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Murray"
+
+[[person.education]]
+school.name = "Bismarck HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Bismarck"
+
+[[person.education]]
+school.name = "Murray State University"
+school.type = "college"

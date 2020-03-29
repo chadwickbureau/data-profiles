@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201904_Handsberry"
+
+[[person.meta.citation]]
+title = "Faries Funeral Home"
+date = "2019-04-23"
+url = "https://www.fariesfuneralhomes.com/notices/EugeneGene-Handsberry"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-23"
+
+[person.name]
+last = "Handsberry"
+use = "Gene"
+given = "Eugene B."
+
+[person.birth]
+date = "1929-03-31"
+place.country = "US"
+place.state = "DE"
+place.city = "Leipsic"
+
+[person.death]
+date = "2019-04-18"
+
+[[person.education]]
+school.name = "Smyrna HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Smyrna"
+
+[[person.education]]
+school.name = "Washington College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Tewksbury_1"
+
+[[person.meta.citation]]
+title = "Williams Family Funeral Home"
+date = "2019-03-11"
+url = "http://www.williams-kampp.com/obituary/Thomas-W.-Tewksbury/Wheaton-Illinois/1835951"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-11"
+
+[person.name]
+last = "Tewksbury"
+use = "Tom"
+given = "Thomas W."
+
+[person.birth]
+date = "1930-11-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Evanston"
+
+[person.death]
+date = "2019-02-18"
+
+[[person.education]]
+school.name = "Benedictine University at Springfield"
+school.type = "college"

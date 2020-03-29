@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Boone_William_R"
+
+[person.name]
+last = "Boone"
+use = "William"
+given = "William R."
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boone"
+person.name.use = "Ike"
+person.name.given = "Ike"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boone"
+person.name.use = "Dan"
+person.name.given = "Dan"

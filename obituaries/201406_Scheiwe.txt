@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201406_Scheiwe"
+
+[[person.meta.citation]]
+title = "Baier Family Funeral Services"
+date = "2014-06-22"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2576924&fh_id=14520"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-22"
+
+[person.name]
+last = "Scheiwe"
+use = "Mark"
+given = "Mark D."
+
+[person.birth]
+date = "1961-05-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Paxton"
+
+[person.death]
+date = "2014-06-20"
+place.country = "US"
+place.state = "IL"
+place.city = "Urbana"
+
+[person.burial]
+cemetery.name = "St. John's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Buckley"
+
+[[person.education]]
+school.name = "Buckley-Loda HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Buckley"

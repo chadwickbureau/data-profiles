@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201905_Bishop"
+
+[[person.meta.citation]]
+title = "Anderson-Bethany Funeral Home"
+date = "2019-05-27"
+url = "https://www.andersonbethany.com/obituaries/Curtis-Bishop-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Bishop"
+use = "Curt"
+given = "Curtis Wayne"
+
+[person.birth]
+date = "1953-03-14"
+place.country = "US"
+place.state = "MO"
+place.city = "Moberly"
+
+[person.death]
+date = "2019-05-21"
+place.country = "US"
+place.state = "NM"
+place.city = "Roswell"
+
+[[person.education]]
+school.name = "Roswell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NM"
+school.place.city = "Roswell"
+
+[[person.education]]
+school.name = "Bacone College"
+school.type = "college"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202002_Devlin"
+
+[[person.meta.citation]]
+title = "The Day"
+date = "2020-02-05"
+url = "https://www.legacy.com/obituaries/theday/obituary.aspx?n=conrad-vincent-devlin&pid=195279790&fhid=6913"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-06"
+
+[person.name]
+last = "Devlin"
+use = "Conrad"
+given = "Conrad Vincent"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-01-19"
+place.country = "US"
+place.state = "CT"
+place.city = "New London"
+
+[person.death]
+date = "2020-02-01"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterford"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "New London"
+
+[[person.education]]
+school.name = "New London HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New London"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

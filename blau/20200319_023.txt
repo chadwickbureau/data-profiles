@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200319_023"
+
+[[person.meta.citation]]
+title = "Shreveport Journal"
+date = "1915-08-26"
+pages = "7"
+
+[person.name]
+last = "Fuller"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "<=1915-08-26"
+type = "obtained"
+join.name = "Shreveport"
+join.league.name = "Texas"
+leave.name = "Washington"
+leave.league.name = "American"

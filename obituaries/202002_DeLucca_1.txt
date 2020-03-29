@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202002_DeLucca_1"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2020-03-02"
+url = "https://www.newsday.com/sports/baseball/joe-delucca-baseball-scout-1.42394137"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-02"
+
+[person.name]
+last = "DeLucca"
+use = "Joe"
+given = "Joe"
+
+[person.birth]
+date = "1929-03-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Queens"
+
+[person.death]
+date = "2020-02-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Bay Shore"
+
+[[person.education]]
+school.name = "Babylon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Babylon"
+
+[[person.education]]
+school.name = "SUNY Cortland"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

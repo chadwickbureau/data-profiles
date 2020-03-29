@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Simon"
+
+[[person.meta.citation]]
+title = "Brainard Funeral Home"
+date = "2019-03-17"
+url = "https://www.brainardfuneral.com/notices/Mark-Simon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Simon"
+use = "Mark"
+given = "Mark"
+
+[person.birth]
+date = "1946-04-17"
+
+[person.death]
+date = "2019-03-09"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[[person.education]]
+school.name = "Sheboygan South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Sheboygan"
+
+[[person.education]]
+school.name = "University of Wisconsin-La Crosse"
+school.type = "college"

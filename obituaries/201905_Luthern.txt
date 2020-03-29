@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201905_Luthern"
+
+[[person.meta.citation]]
+title = "Stewart-Kyle Funeral Home"
+date = "2019-06-03"
+url = "https://www.stewart-kyle.com/obituary/john-satch-luthern-sr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-03"
+
+[person.name]
+last = "Luthern"
+use = "John"
+given = "John J."
+suffix = "Sr."
+nick = "Satch"
+
+[person.birth]
+date = "1933-11-26"
+
+[person.death]
+date = "2019-05-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Masury"
+
+[person.burial]
+cemetery.name = "Hubbard Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Hubbard"
+
+[[person.education]]
+school.name = "Hubbard HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Hubbard"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

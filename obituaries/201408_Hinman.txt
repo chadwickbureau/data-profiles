@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201408_Hinman"
+
+[[person.meta.citation]]
+title = "The Record"
+date = "2014-08-29"
+url = "http://www.legacy.com/obituaries/troyrecord/obituary.aspx?n=Gerald-Hinman&pid=172281846"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Hinman"
+use = "Jerry"
+given = "Gerald Foster"
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Troy"
+
+[person.death]
+date = "2014-08-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Troy"
+
+[[person.education]]
+school.name = "Lansingburgh HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Troy"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

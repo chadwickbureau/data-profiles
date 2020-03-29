@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201806_Koehler"
+
+[[person.meta.citation]]
+title = "Mueller Funeral Home"
+date = "2018-07-08"
+url = "http://www.muellerfh.com/obituaries/James-W-Koehler?obId=3127739#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Koehler"
+use = "Jim"
+given = "James W."
+
+[person.birth]
+date = "1926-01-27"
+
+[person.death]
+date = "2018-06-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Peru"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "LaSalle-Peru Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "LaSalle"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

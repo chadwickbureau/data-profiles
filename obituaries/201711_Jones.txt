@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201711_Jones"
+
+[[person.meta.citation]]
+title = "Philadelphia Tribune"
+date = "2017-11-17"
+url = "https://hiers-baxley.com/tribute-ajax/print-obituary.html?id=32002"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Jones"
+use = "Lew"
+given = "Lewis A."
+suffix = "Sr."
+
+[person.death]
+date = "2017-11-12"
+place.country = "US"
+place.state = "FL"
+place.city = "The Villages"
+
+[[person.education]]
+school.name = "Crooms Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Sanford"
+
+[[person.education]]
+school.name = "Florida A&M University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

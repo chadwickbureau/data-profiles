@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bluege_Oswald_Louis"
+
+[person.name]
+last = "Bluege"
+use = "Ossie"
+given = "Oswald Louis"
+
+[person.birth]
+date = "1900-10-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "1983-10-14"
+place.country = "US"
+place.state = "MN"
+place.city = "Edina"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "162"

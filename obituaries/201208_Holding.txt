@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201208_Holding"
+
+[[person.meta.citation]]
+title = "Warenski Funeral Home"
+date = "2019-11-18"
+url = "https://warenski.com/holding.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Holding"
+use = "Ralph"
+given = "Ralph O."
+suffix = "Sr."
+
+[person.birth]
+date = "1936-10-30"
+
+[person.death]
+date = "2012-08-24"
+place.country = "US"
+place.state = "MO"
+place.city = "Joplin"
+
+[person.burial]
+cemetery.name = "Highland City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Highland"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"

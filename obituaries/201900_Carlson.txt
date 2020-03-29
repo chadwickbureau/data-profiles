@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201900_Carlson"
+
+[[person.meta.citation]]
+title = "StarTribune"
+date = "2019-01-21"
+url = "http://www.startribune.com/obituaries/detail/0000293954/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-21"
+
+[person.name]
+last = "Carlson"
+use = "Marty"
+given = "Marshall Vernon"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2019"
+
+[[person.education]]
+school.name = "East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Des Moines"
+
+[[person.education]]
+school.name = "Drake University"
+school.type = "college"

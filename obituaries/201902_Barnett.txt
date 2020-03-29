@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201902_Barnett"
+
+[[person.meta.citation]]
+title = "Littleton & Rue Funeral Home"
+date = "2019-02-10"
+url = "https://www.littletonandrue.com/obituaries/Warren-E-Barnett?obId=4143368#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Barnett"
+use = "Warren"
+given = "Warren E."
+suffix = "Sr."
+
+[person.birth]
+date = "1932-05-04"
+
+[person.death]
+date = "2019-02-06"
+
+[person.burial]
+cemetery.name = "Rose Hill Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Springfield"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

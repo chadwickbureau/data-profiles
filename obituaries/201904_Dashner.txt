@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201904_Dashner"
+
+[[person.meta.citation]]
+title = "Brown’s Funeral Service"
+date = "2019-05-27"
+url = "https://www.brownsfuneralserviceatokaok.com/obituary/billy-dashner"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Dashner"
+use = "Billy"
+given = "Billy Joe"
+
+[person.birth]
+date = "1934-02-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Atoka County"
+
+[person.death]
+date = "2019-04-20"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[person.burial]
+cemetery.name = "Tushka Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Tushka"
+
+[[person.education]]
+school.name = "Atoka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Atoka"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

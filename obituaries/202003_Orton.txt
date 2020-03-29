@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202003_Orton"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "2020-03-17"
+url = "https://www.legacy.com/obituaries/statesman/obituary.aspx?n=thomas-hamilton-orton&pid=195713099"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Orton"
+use = "Tom"
+given = "Thomas Hamilton"
+
+[person.birth]
+date = "1938-07-04"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2020-03-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Georgetown"
+
+[[person.education]]
+school.name = "Valparaiso University"
+school.type = "college"

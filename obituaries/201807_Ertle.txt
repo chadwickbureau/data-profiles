@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201807_Ertle"
+
+[[person.meta.citation]]
+title = "Orange County Registe"
+date = "2018-07-24"
+url = "https://obits.ocregister.com/obituaries/orangecounty/obituary.aspx?n=lou-ertle&pid=189670276"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-25"
+
+[person.name]
+last = "Ertle"
+use = "Lou"
+given = "Louis George"
+
+[person.birth]
+date = "1940-04-10"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2018-07-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Whittier"
+
+[[person.education]]
+school.name = "Mater Dei HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Ana"

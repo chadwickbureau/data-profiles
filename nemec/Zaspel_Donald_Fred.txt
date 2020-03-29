@@ -1,0 +1,100 @@
+[[person]]
+
+[person.meta]
+key = "Zaspel_Donald_Fred"
+
+[person.name]
+last = "Zaspel"
+use = "Don"
+given = "Donald Fred"
+
+[person.birth]
+date = "1921-10-30"
+place.country = "US"
+place.state = "MN"
+place.city = "North St. Paul"
+
+[person.death]
+date = "2007-07-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Rice Lake"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "185"
+
+[person.sameas]
+ssn = "472-181-5695"
+
+[[person.resides]]
+dates = "1942"
+place.country = "US"
+place.state = "MN"
+place.city = "North St. Paul"
+place.address = "30 14th Ave."
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Zaspel"
+person.name.use = "Norman"
+person.name.given = "Norman M."
+
+
+[[person.education]]
+school.name = "North St. Paul High School"
+school.type = "secondary"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1944/1945"
+
+
+[[person.playing]]
+season = "1942"
+league.name = "Northern League"
+splits.0.team.name = "Grand Forks"
+totals.B_G = "<10"
+
+[[person.playing]]
+season = "1943"
+league.name = "Twin Ports League"
+splits.0.team.name = "Duluth Dukes"
+splits.1.team.name = "Duluth Marine Iron"
+totals.F_POS = "C"
+totals.B_G = "14"
+totals.B_AB = "49"
+totals.B_R = "10"
+totals.B_H = "11"
+totals.B_TB = "17"
+totals.B_2B = "2"
+totals.B_3B = "2"
+totals.B_HR = "0"
+totals.B_RBI = "11"
+totals.B_SB = "0"
+totals.B_AVG = ".224"
+
+[[person.playing]]
+season = "1946"
+league.name = "Florida State League"
+splits.0.team.name = "Sanford"
+totals.F_POS = "C"
+totals.B_G = "98"
+totals.B_AB = "310"
+totals.B_R = "37"
+totals.B_H = "60"
+totals.B_TB = "78"
+totals.B_2B = "9"
+totals.B_3B = "3"
+totals.B_HR = "1"
+totals.B_RBI = "34"
+totals.B_SB = "0"
+totals.B_AVG = ".194"

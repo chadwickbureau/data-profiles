@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_Horton"
+
+[[person.meta.citation]]
+title = "Baue Funeral Home"
+date = "2019-01-28"
+url = "https://www.baue.com/obit/larry-elwood-horton/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Horton"
+use = "Larry"
+given = "Larry Elwood"
+
+[person.birth]
+date = "1947-09-25"
+place.country = "US"
+place.state = "GA"
+place.city = "Macon"
+
+[person.death]
+date = "2019-01-26"
+
+[[person.education]]
+school.name = "University of Texas"
+school.type = "college"

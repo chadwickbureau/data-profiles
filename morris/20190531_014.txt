@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "20190531_014"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-05-04"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kuhn"
+use = "W."
+given = "W. C."

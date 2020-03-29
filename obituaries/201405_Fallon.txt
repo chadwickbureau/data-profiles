@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201405_Fallon"
+
+[[person.meta.citation]]
+title = "Lake Lawn Metairie"
+date = "2014-05-13"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=William-Fallon&lc=9785&pid=170996838&uuid=00349b87-bc16-429c-b99e-e5dc7c3d7599"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Fallon"
+use = "Bill"
+given = "William Robert"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-12-12"
+
+[person.death]
+date = "2014-05-09"
+
+[person.burial]
+cemetery.name = "Lake Lawn Park Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "Holy Cross School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "Loyola University New Orleans"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201903_Perkins"
+
+[[person.meta.citation]]
+title = "Bennett Funeral Home"
+date = "2019-04-04"
+url = "https://www.bennettfuneralservice.com/obituaries/Juan-Vurtant-Perkins?obId=4270834"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-04"
+
+[person.name]
+last = "Perkins"
+use = "Juan"
+given = "Juan Vurtant"
+
+[person.birth]
+date = "1963-07-06"
+place.country = "US"
+place.state = "NC"
+place.city = "Mecklenburg County"
+
+[person.death]
+date = "2019-03-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Hickory"
+
+[[person.education]]
+school.name = "Newton-Conover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Newton"
+
+[[person.education]]
+school.name = "Lenoir-Rhyne University"
+school.type = "college"

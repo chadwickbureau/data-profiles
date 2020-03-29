@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201903_Holt"
+
+[[person.meta.citation]]
+title = "Blackwell Funeral Home"
+date = "2019-03-31"
+url = "https://www.blackwellfuneral.com/obituary/james-holt-6167207"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Holt"
+use = "Jim"
+given = "James"
+
+[person.birth]
+date = "1944-05-27"
+
+[person.death]
+date = "2019-03-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Burlington"
+
+[person.burial]
+cemetery.name = "North Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Burlington"
+
+[[person.education]]
+school.name = "Graham HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Graham"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

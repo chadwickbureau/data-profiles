@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "200902_Spruill"
+
+[[person.meta.citation]]
+title = "Main Street News Obit"
+date = "2019-03-22"
+url = "http://www.mainstreetnewsobits.com/archives/1114-Jake-Spruill.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-22"
+
+[person.name]
+last = "Spruill"
+use = "Jake"
+given = "J. W."
+
+[person.birth]
+date = "1926-07-13"
+place.country = "US"
+place.state = "GA"
+place.city = "DeKalb County"
+
+[person.death]
+date = "2009-02-05"
+
+[person.burial]
+cemetery.name = "Broadlawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Buford"
+
+[[person.education]]
+school.name = "Chamblee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Chamblee"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

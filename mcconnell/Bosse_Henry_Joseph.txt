@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bosse_Henry_Joseph"
+
+[person.name]
+last = "Bosse"
+use = "Hank"
+given = "Henry Joseph"
+
+[person.birth]
+date = "1896-01-14"
+place.country = "US"
+place.state = "MA"
+place.city = "Spencer"
+
+[person.death]
+date = "1968-12-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Chelsea"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68.5"
+weight = "165"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201806_Stallings"
+
+[[person.meta.citation]]
+title = "Bevis Funeral Home"
+date = "2018-06-24"
+url = "http://www.bevisfh.com/obituaries/Jack-Stallings/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Stallings"
+use = "Jack"
+given = "Jack Thomas"
+nick = "Jack Rabbit"
+
+[person.birth]
+date = "1931-04-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+[person.death]
+date = "2018-06-20"
+place.country = "US"
+place.state = "FL"
+place.city = "Tallahassee"
+
+[person.burial]
+cemetery.name = "Woodville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Woodville"
+
+[[person.education]]
+school.name = "Durham HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Durham"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"

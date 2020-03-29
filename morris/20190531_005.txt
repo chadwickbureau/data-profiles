@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190531_005"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-08-14"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Ash"
+use = "Pete"
+given = "Pete"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Binghamton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "1B"

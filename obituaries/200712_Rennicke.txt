@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "200712_Rennicke"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-13"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Rennicke"
+use = "John"
+given = "John William"
+
+[person.birth]
+date = "1929-08-11"
+place.country = "US"
+place.state = "IL"
+place.city = "Aurora"
+
+[person.death]
+date = "2007-12-09"
+place.country = "US"
+place.state = "MN"
+place.city = "Perham"
+
+[person.sameas]
+sr_nba = "rennijo01"

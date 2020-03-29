@@ -1,0 +1,153 @@
+[[person]]
+
+[person.meta]
+key = "Zuber_Robert_Howard"
+
+[person.name]
+last = "Zuber"
+use = "Bob"
+given = "Robert Howard"
+
+[person.birth]
+date = "1928-11-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Stockton"
+
+[person.death]
+date = "2008-07-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Encino"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "173"
+
+[person.sameas]
+ssn = "567-32-1131"
+
+[[person.resides]]
+dates = "1954"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+place.address = "101415 So. Hoover"
+
+[[person.resides]]
+dates = "2008"
+place.country = "US"
+place.state = "CA"
+place.city = "Encino"
+
+
+[[person.education]]
+school.name = "Washington High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1952/1953"
+
+
+[[person.playing]]
+season = "1950"
+league.name = "Pacific Coast League"
+splits.0.team.name = "Los Angeles"
+totals.F_POS = "PH"
+totals.B_G = "1"
+totals.B_AB = "1"
+totals.B_R = "0"
+totals.B_H = "0"
+totals.B_TB = "0"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "0"
+totals.B_SB = "0"
+totals.B_AVG = ".000"
+
+[[person.playing]]
+season = "1950"
+league.name = "Western League"
+splits.0.team.name = "Des Moines"
+totals.F_POS = "C"
+totals.B_G = "22"
+totals.B_AB = "46"
+totals.B_R = "3"
+totals.B_H = "11"
+totals.B_TB = "14"
+totals.B_2B = "1"
+totals.B_3B = "1"
+totals.B_HR = "0"
+totals.B_RBI = "11"
+totals.B_SB = "0"
+totals.B_AVG = ".239"
+
+[[person.playing]]
+season = "1951"
+league.name = "Pacific Coast League"
+splits.0.team.name = "Los Angeles"
+totals.F_POS = "PH"
+totals.B_G = "1"
+totals.B_AB = "1"
+totals.B_R = "0"
+totals.B_H = "0"
+totals.B_TB = "0"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "0"
+totals.B_SB = "0"
+totals.B_AVG = ".000"
+
+[[person.playing]]
+season = "1951"
+league.name = "Western League"
+splits.0.team.name = "Des Moines"
+totals.F_POS = "C"
+totals.B_G = "<10"
+
+[[person.playing]]
+season = "1951"
+league.name = "California League"
+splits.0.team.name = "Visalia"
+totals.F_POS = "C"
+totals.B_G = "34"
+totals.B_AB = "107"
+totals.B_R = "8"
+totals.B_H = "27"
+totals.B_TB = "29"
+totals.B_2B = "2"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "14"
+totals.B_SB = "0"
+totals.B_AVG = ".252"
+
+[[person.playing]]
+season = "1954"
+league.name = "California League"
+splits.0.team.name = "Visalia"
+totals.F_POS = "C"
+totals.B_G = "21"
+totals.B_AB = "64"
+totals.B_R = "6"
+totals.B_H = "14"
+totals.B_TB = "18"
+totals.B_2B = "2"
+totals.B_3B = "1"
+totals.B_HR = "0"
+totals.B_RBI = "4"
+totals.B_SB = "2"
+totals.B_AVG = ".219"

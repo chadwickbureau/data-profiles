@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20191215_003"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1916-03-27"
+pages = "7"
+
+[person.name]
+last = "Antley"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "MS"
+place.city = "Gulfport"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Waycross"
+team.league.name = "Florida-Alabama-Georgia League"
+description.height = "68"
+description.weight = "155"

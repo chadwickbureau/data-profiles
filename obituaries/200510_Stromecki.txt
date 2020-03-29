@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "200510_Stromecki"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2005-10-12"
+url = "http://files.usgwarchives.net/ny/erie/obits/bn-dn/2005/oct/bn-dn12oct2005.txt"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Stromecki"
+use = "Eugene"
+given = "Eugene R."
+
+[person.death]
+date = "2005-10-10"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Hamburg"
+
+[[person.education]]
+school.name = "Bishop Ryan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Buffalo"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

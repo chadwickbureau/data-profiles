@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "202003_Jacek"
+
+[[person.meta.citation]]
+title = "Citizens' Voice"
+date = "2020-03-07"
+url = "https://www.legacy.com/obituaries/citizensvoice/obituary.aspx?n=bernard-dave-jacek-barney&pid=195621349&fhid=31015"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-07"
+
+[person.name]
+last = "Jacek"
+use = "Barney"
+given = "Bernard"
+nick = "Dave"
+
+[person.birth]
+date = "1924-08-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Avoca"
+
+[person.death]
+date = "2020-03-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittston"
+
+[person.burial]
+cemetery.name = "Sts. Peter and Paul Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Duryea"
+
+[[person.education]]
+school.name = "Avoca HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Avoca"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

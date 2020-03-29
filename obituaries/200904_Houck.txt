@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "200904_Houck"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-10"
+url = "http://www.tributes.com/obituary/show/Ira-Houck-89297087"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Houck"
+use = "Buck"
+given = "Ira Marvin"
+
+[person.birth]
+date = "1924-12-08"
+place.country = "US"
+place.state = "MD"
+place.city = "Woodsboro"
+
+[person.death]
+date = "2009-04-19"
+
+[person.burial]
+cemetery.name = "Glade Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Walkersville"
+
+[[person.education]]
+school.name = "Walkersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Walkersville"

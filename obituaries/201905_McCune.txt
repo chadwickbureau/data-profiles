@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201905_McCune"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "2019-06-06"
+url = "https://www.legacy.com/obituaries/dayton/obituary.aspx?n=larry-mccune&pid=193075586&fhid=6384"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-06"
+
+[person.name]
+last = "McCune"
+use = "Larry"
+given = "Larry L."
+nick = "Corky"
+
+[person.birth]
+date = "1936-10-13"
+
+[person.death]
+date = "2019-05-31"
+place.country = "US"
+place.state = "OH"
+place.city = "Beavercreek"
+
+[person.burial]
+cemetery.name = "Woodland Cemetery and Arboretum"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Dayton"
+
+[[person.education]]
+school.name = "Wilbur Wright HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Dayton"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201407_Boles"
+
+[[person.meta.citation]]
+title = "Scranton Times"
+date = "2014-07-17"
+url = "http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=James-Boles&pid=171756517"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-17"
+
+[person.name]
+last = "Boles"
+use = "Jim"
+given = "James P."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.death]
+date = "2014-07-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.burial]
+cemetery.name = "Cathedral Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Scranton"
+
+[[person.education]]
+school.name = "St. Paul's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Scranton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

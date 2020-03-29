@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_038"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-05-22"
+
+[person.name]
+last = "Gunther"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Minot"
+team.league.name = "North Dakota League"

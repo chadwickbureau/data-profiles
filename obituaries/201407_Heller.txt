@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201407_Heller"
+
+[[person.meta.citation]]
+title = "Bryant Funeral Home"
+date = "2014-07-24"
+url = "http://bryantfuneralhome.com/online-obituary/2014-07-james-a-heller/10084416"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-24"
+
+[person.name]
+last = "Heller"
+use = "James"
+given = "James A."
+nick = "Smokey"
+
+[person.birth]
+date = "1922-03-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Honesdale"
+
+[person.death]
+date = "2014-07-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Waymart"
+
+[person.description]
+throws = "R"
+
+[[person.education]]
+school.name = "Honesdale HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Honesdale"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

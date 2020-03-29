@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201904_Lara"
+
+[[person.meta.citation]]
+title = "CDN.com.do"
+date = "2019-04-21"
+url = "https://www.cdn.com.do/2019/04/20/pelotero-braulio-lara-fallece-accidente-transito/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Lara"
+use = "Braulio"
+given = "Braulio"
+
+[person.death]
+date = "2019-04-20"
+place.country = "DO"
+place.city = "Bani"

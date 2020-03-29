@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201405_Dunsmore"
+
+[[person.meta.citation]]
+title = "Winnipeg Free Press"
+date = "2014-05-26"
+url = "http://passages.winnipegfreepress.com/passage-details/id-213637/name-Fredrick_Dunsmore/date-range-all/classification-id-1/last-name-dunsmore/order-publish_date%7CDESC,last_name%7CASC,first_name%7CASC/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-26"
+
+[person.name]
+last = "Dunsmore"
+use = "Fred"
+given = "Fredrick Roy"
+
+[person.birth]
+date = "1929-03-30"
+place.country = "CA"
+place.state = "MB"
+place.city = "Winnipeg"
+
+[person.death]
+date = "2014-05-13"
+place.country = "CA"
+place.state = "MB"
+place.city = "Winnipeg"
+
+[[person.education]]
+school.name = "Daniel McIntyre Collegiate Institute"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "MB"
+school.place.city = "Winnipeg"

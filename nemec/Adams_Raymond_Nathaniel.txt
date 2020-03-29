@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Raymond_Nathaniel"
+
+[person.name]
+last = "Adams"
+use = "Ray"
+given = "Raymond Nathaniel"
+
+[person.birth]
+date = "1922-04-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Vallejo"
+
+[person.death]
+date = "2012-01-29"
+place.country = "US"
+place.state = "CA"
+place.city = "San Leandro"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72.5"
+weight = "172"
+
+[[person.resides]]
+dates = "1951"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+place.address = "644 61st Street"
+
+
+[[person.education]]
+school.name = "Oakland Technical High School"
+school.type = "secondary"
+dates = "/1940"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1946"

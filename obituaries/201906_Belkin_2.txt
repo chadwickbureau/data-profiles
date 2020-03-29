@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201906_Belkin_2"
+
+[[person.meta.citation]]
+title = "Berkowitx-Kumin-Bookatz Memorial Chaptel"
+date = "2019-06-27"
+url = "https://www.dignitymemorial.com/obituaries/cleveland-heights-oh/myron-belkin-8761269"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-27"
+
+[person.name]
+last = "Belkin"
+use = "Mike"
+given = "Myron"
+
+[person.birth]
+date = "1935-09-19"
+
+[person.death]
+date = "2019-06-26"
+
+[person.burial]
+cemetery.name = "Bet Olam Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Beachwood"

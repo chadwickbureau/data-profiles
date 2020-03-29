@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201810_Moir_1"
+
+[[person.meta.citation]]
+title = "Salisbury Post"
+date = "2018-10-21"
+url = "https://www.salisburypost.com/2018/10/21/legendary-coach-sam-moir-dies-at-94/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-22"
+
+[person.name]
+last = "Moir"
+use = "Sam"
+given = "Sam"
+
+[person.birth]
+date = "1924-09-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Francisco"
+
+[person.death]
+date = "2018-10-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Salisbury"
+
+[[person.education]]
+school.name = "Appalachian State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201908_Watt"
+
+[[person.meta.citation]]
+title = "Bath-Naylor Funeral Home"
+date = "2019-08-17"
+url = "https://www.bathnaylor.com/obituaries/Glen-Watt/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-17"
+
+[person.name]
+last = "Watt"
+use = "Glen"
+given = "Glen E."
+
+[person.birth]
+date = "1926-07-27"
+place.country = "US"
+place.state = "KS"
+place.city = "Arcadia"
+
+[person.death]
+date = "2019-08-13"
+
+[person.burial]
+cemetery.name = "Garden of Memories Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Pittsburg"
+
+[[person.education]]
+school.name = "Arcadia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Arcadia"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

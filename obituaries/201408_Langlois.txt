@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201408_Langlois"
+
+[[person.meta.citation]]
+title = "Owens-Pavlot & Rogers Funeral Service"
+date = "2014-08-23"
+url = "http://owenspavlotrogers.com/tribute/details/515/Guy_Langlois/obituary.html#content-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Langlois"
+use = "Ziggy"
+given = "Guy Pierre"
+
+[person.birth]
+date = "1921-09-14"
+place.country = "CA"
+place.state = "QC"
+place.city = "St-Jean-sur-Richelieu"
+
+[person.death]
+date = "2014-08-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Utica"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Whitesboro"

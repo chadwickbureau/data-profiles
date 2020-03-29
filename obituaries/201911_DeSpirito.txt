@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201911_DeSpirito"
+
+[[person.meta.citation]]
+title = "Nardolillo Funeral Home"
+date = "2019-11-14"
+url = "https://www.nardolillofh.com/notices/Joseph-DeSpirito"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-14"
+
+[person.name]
+last = "DeSpirito"
+use = "Joseph"
+given = "Joseph"
+
+[person.birth]
+date = "1935-03-03"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "2019-11-11"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.burial]
+cemetery.name = "St. Ann Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Cranston"

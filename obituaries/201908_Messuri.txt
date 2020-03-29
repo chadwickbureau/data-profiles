@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201908_Messuri"
+
+[[person.meta.citation]]
+title = "Brown & Hickey Funeral Home"
+date = "2019-08-04"
+url = "https://www.brownandhickey.com/notices/Augustine-Messuri"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Messuri"
+use = "Augie"
+given = "Augustine A."
+
+[person.birth]
+date = "1926-11-28"
+
+[person.death]
+date = "2019-08-02"
+
+[person.burial]
+cemetery.name = "Cambridge Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Cambridge"
+
+[[person.education]]
+school.name = "Rindge Tech HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Cambridge"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

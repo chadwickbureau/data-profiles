@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201409_Brooks"
+
+[[person.meta.citation]]
+title = "News Journal"
+date = "2014-09-09"
+url = "http://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=Norman-Brooks&pid=172397139"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-09"
+
+[person.name]
+last = "Brooks"
+use = "Norman"
+given = "Norman Hall"
+suffix = "Sr."
+
+[person.birth]
+date = "1921-12-23"
+place.country = "US"
+place.state = "DE"
+place.city = "Glasgow"
+
+[person.death]
+date = "2014-09-06"
+
+[person.burial]
+cemetery.name = "Gracelawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "DE"
+cemetery.place.city = "New Castle"
+
+[[person.education]]
+school.name = "Newark HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Newark"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

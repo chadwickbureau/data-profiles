@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201410_Hitt"
+
+[[person.meta.citation]]
+title = "Posey Funeral Directors"
+date = "2014-10-07"
+url = "http://www.poseyfuneraldirectors.com/obituaries/Ray-Hitt/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Hitt"
+use = "Ray"
+given = "Ray C."
+
+[person.birth]
+date = "1925-08-25"
+
+[person.death]
+date = "2014-10-04"
+
+[person.burial]
+cemetery.name = "Pineview Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "North Augusta"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

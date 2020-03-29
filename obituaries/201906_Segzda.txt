@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201906_Segzda"
+
+[[person.meta.citation]]
+title = "Melenyzer Funeral Home"
+date = "2019-07-07"
+url = "https://www.melenyzer.com/notices/Anthony-Segzda-1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Segzda"
+use = "Tony"
+given = "Anthony"
+
+[person.birth]
+date = "1929-04-09"
+
+[person.death]
+date = "2019-06-27"
+
+[person.burial]
+cemetery.name = "Howe Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Coal Center"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

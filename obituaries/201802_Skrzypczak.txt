@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201802_Skrzypczak"
+
+[[person.meta.citation]]
+title = "Stanley's Funeral Home"
+date = "2018-07-20"
+url = "http://www.stanleysfuneralhome.com/memsol.cgi?user_id=2072339"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Skrzypczak"
+use = "Ray"
+given = "Raymond Francis"
+
+[person.birth]
+date = "1929-10-13"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2018-02-13"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

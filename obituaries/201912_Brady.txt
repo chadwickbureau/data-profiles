@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201912_Brady"
+
+[[person.meta.citation]]
+title = "Lowe Funeral Home"
+date = "2020-01-02"
+url = "https://www.lowefuneralhome.com/notices/John-Brady"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Brady"
+use = "John"
+given = "John David"
+
+[person.birth]
+date = "1936-02-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Bennett"
+
+[person.death]
+date = "2019-12-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Burlington"
+
+[person.burial]
+cemetery.name = "Magnolia Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Elon"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Yarborough"
+
+[[person.meta.citation]]
+title = "St. Stephens Funeral Home"
+date = "2019-02-25"
+url = "https://www.ststephensfuneralhomellc.com/notices/DonaldWayne-Yarborough"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-25"
+
+[person.name]
+last = "Yarborough"
+use = "Donald"
+given = "Donald Wayne"
+
+[person.birth]
+date = "1956-09-27"
+
+[person.death]
+date = "2019-02-21"
+
+[[person.education]]
+school.name = "Fort Pierce Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Fort Pierce"

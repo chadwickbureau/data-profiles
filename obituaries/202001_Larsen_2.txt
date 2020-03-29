@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202001_Larsen_2"
+
+[[person.meta.citation]]
+title = "Yates Funeral Home"
+date = "2020-01-22"
+url = "https://www.yatesfuneralhomes.com/obituaries/Don-James-Larsen?obId=10347470#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-22"
+
+[person.name]
+last = "Larsen"
+use = "Don"
+given = "Don James"
+
+[person.birth]
+date = "1929-08-07"
+place.country = "US"
+place.state = "IN"
+place.city = "Michigan City"
+
+[person.death]
+date = "2020-01-01"
+place.country = "US"
+place.state = "ID"
+place.city = "Coeur d'Alene"
+
+[[person.education]]
+school.name = "Point Loma HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

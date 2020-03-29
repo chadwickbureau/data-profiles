@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201806_Popovic"
+
+[[person.meta.citation]]
+title = "Laughlin Funeral Home"
+date = "2018-06-13"
+url = "https://www.laughlinfuneralhome.com/notices/Paul-Popovic"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Popovic"
+use = "Paul"
+given = "Paul N."
+
+[person.birth]
+date = "1942-11-09"
+
+[person.death]
+date = "2018-06-04"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Miami"

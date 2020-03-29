@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201908_Palkovitz"
+
+[[person.meta.citation]]
+title = "Rest Haven Funeral Home"
+date = "2019-08-25"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=fe79205d-b1b4-48a9-9370-b2a48b440320&CFTOKEN=0&o_id=6536163&fh_id=15013"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-25"
+
+[person.name]
+last = "Palkovitz"
+use = "I."
+given = "I. Joseph"
+
+[person.birth]
+date = "1926-05-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Northampton"
+
+[person.death]
+date = "2019-08-20"
+place.country = "US"
+place.state = "MD"
+place.city = "Hagerstown"
+
+[person.burial]
+cemetery.name = "Rest Haven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Hagerstown"
+
+[[person.education]]
+school.name = "Hagerstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Hagerstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

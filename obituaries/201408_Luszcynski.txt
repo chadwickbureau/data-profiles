@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201408_Luszcynski"
+
+[[person.meta.citation]]
+title = "Domico Funeral Home"
+date = "2014-08-23"
+url = "http://www.domicofh.com/fh/obituaries/obituary.cfm?o_id=2653353&fh_id=13672"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Luszcynski"
+use = "Ed"
+given = "Edward Paul"
+
+[person.birth]
+date = "1928-12-20"
+place.country = "US"
+place.state = "WV"
+place.city = "Chiefton"
+
+[person.death]
+date = "2014-08-22"
+place.country = "US"
+place.state = "WV"
+place.city = "Morgantown"
+
+[person.burial]
+cemetery.name = "Mount Zion Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Fairmont"
+
+[[person.education]]
+school.name = "Monongah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Monongah"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

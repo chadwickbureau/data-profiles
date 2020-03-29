@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201805_Stutts"
+
+[[person.meta.citation]]
+title = "Sandifer Funeral Home"
+date = "2019-02-16"
+url = "https://www.sandiferfuneralhome.com/obituaries/obituary-listings?obId=3082137#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Stutts"
+use = "Lewis"
+given = "Lewis Calhoun"
+
+[person.birth]
+date = "1931-08-25"
+place.country = "US"
+place.state = "SC"
+place.city = "Union"
+
+[person.death]
+date = "2018-05-06"
+place.country = "US"
+place.state = "SC"
+place.city = "Seneca"
+
+[person.burial]
+cemetery.name = "Oconee Memorial Park & Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Seneca"
+
+[[person.education]]
+school.name = "Newberry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Newberry"

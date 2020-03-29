@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Balcena_Robert_Rudolph"
+
+[person.name]
+last = "Balcena"
+use = "Robert"
+given = "Robert Rudolph"
+
+[person.birth]
+date = "1925-08-01"
+place.country = "US"
+place.state = "CA"
+place.city = "San Pedro"
+
+[person.death]
+date = "1990-01-05"
+place.country = "US"
+place.state = "CA"
+place.city = "San Pedro"
+
+[person.description]
+bats = "R"
+throws = "L"
+height = "67"
+weight = "160"

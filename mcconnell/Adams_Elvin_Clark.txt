@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Elvin_Clark"
+
+[person.name]
+last = "Adams"
+use = "Buster"
+given = "Elvin Clark"
+
+[person.birth]
+date = "1915-06-24"
+place.country = "US"
+place.state = "CO"
+place.city = "Trinidad"
+
+[person.death]
+date = "1990-09-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Rancho Mirage"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"

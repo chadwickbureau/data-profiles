@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201904_Michaels"
+
+[[person.meta.citation]]
+title = "Adzima Funeral Home"
+date = "2019-04-21"
+url = "https://www.adzimafuneralhome.com/obituary/william-michaels"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Michaels"
+use = "Bill"
+given = "William J."
+
+[person.birth]
+date = "1924-09-19"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.death]
+date = "2019-04-16"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.burial]
+cemetery.name = "St. John the Baptist Greek Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Stratford"
+
+[[person.education]]
+school.name = "Stratford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Stratford"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

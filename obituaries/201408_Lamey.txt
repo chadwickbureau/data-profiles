@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Lamey"
+
+[[person.meta.citation]]
+title = "The Western News"
+date = "2014-08-19"
+url = "http://www.thewesternnews.com/obituaries/alan-lamey-of-the-kootenai-valley/article_d0f5a816-27c7-11e4-b30d-0019bb2963f4.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Lamey"
+use = "Red"
+given = "Alan B."
+
+[person.birth]
+date = "1937-06-25"
+place.country = "US"
+place.state = "MT"
+place.city = "Libby"
+
+[person.death]
+date = "2014-08-17"
+place.country = "US"
+place.state = "MT"
+place.city = "Libby"
+
+[[person.education]]
+school.name = "Libby HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MT"
+school.place.city = "Libby"

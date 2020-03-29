@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201805_Quandt"
+
+[[person.meta.citation]]
+title = "Reichmuth Funeral Home"
+date = "2018-06-18"
+url = "http://www.reichmuthfuneralhomes.com/obituaries/Mitchell-Quandt/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-18"
+
+[person.name]
+last = "Quandt"
+use = "Mitch"
+given = "Mitchell Dean"
+
+[person.birth]
+date = "1987-10-13"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.death]
+date = "2018-05-30"
+place.country = "US"
+place.state = "NE"
+place.city = "Utica"
+
+[[person.education]]
+school.name = "Shawnee Mission West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Overland Park"
+
+[[person.education]]
+school.name = "Iowa Western Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Labette Community College"
+school.type = "college"

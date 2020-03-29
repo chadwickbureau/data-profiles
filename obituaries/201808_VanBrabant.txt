@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201808_VanBrabant"
+
+[[person.meta.citation]]
+title = "Pomeroy Funeral Home"
+date = "2018-08-21"
+url = "https://www.pomeroyfuneralhomes.com/obituaries/Camille-Vanbrabant/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "VanBrabant"
+use = "Ozzie"
+given = "Camille O."
+nick = "Cam"
+
+[person.birth]
+date = "1926-09-28"
+place.country = "CA"
+place.state = "ON"
+place.city = "Kingsville"
+
+[person.death]
+date = "2018-08-18"
+place.country = "US"
+place.state = "CA"
+place.city = "La Jolla"
+
+[person.burial]
+cemetery.name = "Forester Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Carsonville"
+
+[[person.education]]
+school.name = "Cooley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

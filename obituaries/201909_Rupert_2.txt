@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201909_Rupert_2"
+
+[[person.meta.citation]]
+title = "Grand Forks Herald"
+date = "2019-09-15"
+url = "https://www.grandforksherald.com/obituaries/death-notices/4662385-Rex-G.-Rupert"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-24"
+
+[person.name]
+last = "Rupert"
+use = "Rex"
+given = "Rex G."
+
+[person.birth]
+date = "1933-09-11"
+
+[person.death]
+date = "2019-09-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Grand Forks"

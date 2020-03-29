@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170219_090"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Gaudette"
+use = "Joe"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Woonsocket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"

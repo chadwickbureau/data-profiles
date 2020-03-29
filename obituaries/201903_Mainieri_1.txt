@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201903_Mainieri_1"
+
+[[person.meta.citation]]
+title = "Nola.com"
+date = "2019-03-13"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Mainieri"
+use = "Demie"
+given = "Demie"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+
+[person.death]
+date = "2019-03-13"

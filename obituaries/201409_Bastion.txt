@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201409_Bastion"
+
+[[person.meta.citation]]
+title = "Harper-Morris Memorial Chapel"
+date = "2014-09-15"
+url = "http://www.harpermorrismemorialchapel.com/sitemaker/sites/HARPER2/obit.cgi?user=1401958Bastion"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Bastion"
+use = "Marvin"
+given = "Marvin Kenneth"
+
+[person.birth]
+date = "1931-07-09"
+
+[person.death]
+date = "2014-09-11"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

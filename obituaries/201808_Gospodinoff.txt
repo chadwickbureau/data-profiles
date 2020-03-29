@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201808_Gospodinoff"
+
+[[person.meta.citation]]
+title = "Akes Family Funeral Home"
+date = "2018-08-19"
+url = "https://prod3.meaningfulfunerals.net/obituary/george-gospodinoff?fh_id=11548"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-19"
+
+[person.name]
+last = "Gospodinoff"
+use = "George"
+given = "George Dimiter"
+
+[person.birth]
+date = "1954-07-13"
+place.country = "US"
+place.state = "WV"
+place.city = "Bluefield"
+
+[person.death]
+date = "2018-08-08"
+
+[person.description]
+bats = "L"
+throws = "L"
+
+[[person.education]]
+school.name = "Loyola Marymount University"
+school.type = "college"

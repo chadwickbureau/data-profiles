@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201811_Bridges"
+
+[[person.meta.citation]]
+title = "Parker Mortuary"
+date = "2018-11-11"
+url = "http://www.parkermortuary.com/obituary/milford-mel-bridges"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-11"
+
+[person.name]
+last = "Bridges"
+use = "Mel"
+given = "Milford E."
+
+[person.birth]
+date = "1933-08-22"
+
+[person.death]
+date = "2018-11-08"
+place.country = "US"
+place.state = "MO"
+place.city = "Neosho"
+
+[person.burial]
+cemetery.name = "Bass Chapel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Strafford"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Springfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

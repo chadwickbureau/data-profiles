@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201812_Smith"
+
+[[person.meta.citation]]
+title = "News-Herald"
+date = "2018-12-13"
+url = "https://www.legacy.com/obituaries/news-herald/obituary.aspx?n=robert-donald-smith-bob&pid=190979141"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Smith"
+use = "Bob"
+given = "Robert Donald"
+
+[person.birth]
+date = "1926-11-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Madison"
+
+[person.death]
+date = "2018-12-01"
+
+[[person.education]]
+school.name = "Geneva HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Geneva"
+
+[[person.education]]
+school.name = "Ashland University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

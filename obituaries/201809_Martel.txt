@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201809_Martel"
+
+[[person.meta.citation]]
+title = "Lee-Ellena Funeral Home"
+date = "2018-10-04"
+url = "http://www.lee-ellenafuneralhome.com/obituaries/Edward-Joseph-Martel-III?obId=3354271#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Martel"
+use = "Ed"
+given = "Edward Joseph"
+suffix = "III"
+
+[person.birth]
+date = "1969-03-02"
+
+[person.death]
+date = "2018-09-29"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Clinton Township"
+
+[[person.education]]
+school.name = "De La Salle Collegiate HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Warren"

@@ -1,0 +1,90 @@
+[[person]]
+
+[person.meta]
+key = "Zeigler_William_Parson"
+
+[person.name]
+last = "Zeigler"
+use = "Bill"
+given = "William Parson"
+
+[person.birth]
+date = "1920-10-17"
+
+[person.death]
+date = "2013-07-18"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.description]
+bats = "R"
+throws = "L"
+
+[[person.playing]]
+season = "1946"
+league.name = "Evangeline League"
+splits.0.team.name = "Alexandria"
+splits.1.team.name = "Thibodaux"
+totals.P_G = "27"
+totals.P_IP = "157"
+totals.P_W = "6"
+totals.P_L = "13"
+totals.P_PCT = ".316"
+totals.P_BB = "17"
+totals.P_SO = "52"
+totals.P_ER = "72"
+totals.P_ERA = "4.13"
+
+[[person.playing]]
+season = "1947"
+league.name = "Longhorn League"
+splits.0.team.name = "Sweetwater"
+splits.1.team.name = "Vernon"
+totals.P_G = "29"
+totals.P_CG = "10"
+totals.P_IP = "173"
+totals.P_W = "5"
+totals.P_L = "13"
+totals.P_PCT = ".278"
+totals.P_H = "245"
+totals.P_BB = "56"
+totals.P_SO = "90"
+totals.P_R = "192"
+totals.P_ER = "141"
+totals.P_ERA = "7.34"
+
+[[person.playing]]
+season = "1948"
+league.name = "Big State League"
+splits.0.team.name = "Greenville"
+totals.P_G = "3"
+totals.P_W = "0"
+totals.P_L = "0"
+totals.P_PCT = ".000"
+
+[[person.playing]]
+season = "1948"
+league.name = "East Texas League"
+splits.0.team.name = "Lufkin"
+totals.P_G = "21"
+totals.P_CG = "11"
+totals.P_IP = "132"
+totals.P_W = "7"
+totals.P_L = "10"
+totals.P_PCT = ".412"
+totals.P_H = "182"
+totals.P_BB = "56"
+totals.P_SO = "55"
+totals.P_R = "101"
+totals.P_ER = "77"
+totals.P_ERA = "5.25"
+
+[[person.playing]]
+season = "1949"
+league.name = "Evangeline League"
+splits.0.team.name = "Abbeville"
+totals.P_G = "2"
+totals.P_W = "0"
+totals.P_L = "2"
+totals.P_PCT = ".000"

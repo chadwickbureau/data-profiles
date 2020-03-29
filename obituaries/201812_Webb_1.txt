@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Webb_1"
+
+[[person.meta.citation]]
+title = "Franklin News Post"
+date = "2018-12-06"
+url = "https://www.thefranklinnewspost.com/sports/college-football-sam-webb-panthers-first-football-coach-dies/article_20b601ae-f99f-11e8-80fa-6712279cea49.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Webb"
+use = "Sam"
+given = "Sam"
+
+[person.death]
+date = "2018-12-01"
+
+[[person.education]]
+school.name = "Beaver HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Bluefield"
+
+[[person.education]]
+school.name = "Morehead State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

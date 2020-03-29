@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201912_Hassler"
+
+[[person.meta.citation]]
+title = "Wickenburg Funeral Home"
+date = "2020-01-03"
+url = "https://www.wickenburgfuneralhome.com/obituary/andrew-hassler"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-03"
+
+[person.name]
+last = "Hassler"
+use = "Andy"
+given = "Andrew Earl"
+
+[person.birth]
+date = "1951-10-18"
+place.country = "US"
+place.state = "TX"
+place.city = "Texas City"
+
+[person.death]
+date = "2019-12-25"
+place.country = "US"
+place.state = "AZ"
+place.city = "Wickenburg"
+
+[[person.education]]
+school.name = "Palo Verde HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Tucson"

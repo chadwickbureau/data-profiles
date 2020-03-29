@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200326_005"
+
+[[person.meta.citation]]
+title = "Temple Daily Telegram"
+date = "1915-06-20"
+pages = "5"
+
+[person.name]
+last = "Gaines"
+nick = "Smokestack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Belton"
+team.league.name = "Middle Texas League"
+description.throws = "R"

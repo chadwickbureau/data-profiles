@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Natter"
+
+[[person.meta.citation]]
+title = "Schneider Funeral Home"
+date = "2019-12-10"
+url = "http://www.schneiderfuneraldirectors.com/obituary/Rollin-J.-Natter/Janesville-Wisconsin/1863028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Natter"
+use = "Rollin"
+given = "Rollin A."
+nick = "Ole"
+
+[person.birth]
+date = "1929-02-14"
+place.country = "US"
+place.state = "WI"
+place.city = "Edgerton"
+
+[person.death]
+date = "2019-11-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Janesville"
+
+[[person.education]]
+school.name = "Milton College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Brookins_Richard_C"
+
+[person.name]
+last = "Brookins"
+use = "Richard"
+given = "Richard C."
+
+[person.birth]
+date = "1879-07"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1933-09-27"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.description]
+throws = "R"
+height = "69"
+note = [ "Released twice because of reports he was a Negro" ]
+
+[[person.transaction]]
+date = "1907-06-19"
+type = "released"
+leave.name = "Green Bay"
+leave.league.name = "Wisconsin State"

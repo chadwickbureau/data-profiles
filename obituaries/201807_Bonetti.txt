@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201807_Bonetti"
+
+[[person.meta.citation]]
+title = "Republican American"
+date = "2018-07-23"
+url = "http://www.rep-am.com/obituaries/2018/07/22/ezio-bonetti/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-23"
+
+[person.name]
+last = "Bonetti"
+use = "Ezio"
+given = "Ezio"
+
+[person.birth]
+date = "1924-07-05"
+place.country = "US"
+place.state = "CT"
+place.city = "Torrington"
+
+[person.death]
+date = "2018-07-20"
+place.country = "US"
+place.state = "CT"
+place.city = "Torrington"
+
+[[person.education]]
+school.name = "Western Carolina University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

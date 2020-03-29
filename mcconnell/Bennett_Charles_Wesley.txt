@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Bennett_Charles_Wesley"
+
+[person.name]
+last = "Bennett"
+use = "Charles"
+given = "Charles Wesley"
+
+[person.birth]
+date = "1854-11-21"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[person.death]
+date = "1927-02-24"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "180"
+note = [ "Lost both legs in railroad accident in January, 1894" ]

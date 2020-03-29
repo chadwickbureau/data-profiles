@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201908_Ney"
+
+[[person.meta.citation]]
+title = "Macalpine Funeral Home"
+date = "2019-08-06"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=0504c759-e44f-490e-9bf0-236ebe15ffbd&CFTOKEN=0&o_id=6507465&fh_id=14320"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-06"
+
+[person.name]
+last = "Ney"
+use = "Pete"
+given = "Peter J."
+
+[person.birth]
+date = "1930-03-31"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2019-08-04"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Bad Axe"
+
+[[person.education]]
+school.name = "Bad Axe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Bad Axe"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

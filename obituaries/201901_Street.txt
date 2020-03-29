@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_Street"
+
+[[person.meta.citation]]
+title = "Weed-Corley-Fish Funeral Home"
+date = "2019-01-23"
+url = "http://wcfish.tributes.com/obituary/show/Joseph-Street-106764441"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-23"
+
+[person.name]
+last = "Street"
+use = "Sewell"
+given = "Joseph Sewell Earl"
+nick = "Bubba"
+
+[person.birth]
+date = "1941-08-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Amarillo"
+
+[person.death]
+date = "2019-01-21"
+
+[[person.education]]
+school.name = "Longview HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Longview"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

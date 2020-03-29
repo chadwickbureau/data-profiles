@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201405_Karakul"
+
+[[person.meta.citation]]
+title = "The Palm Beach Post"
+date = "2014-06-01"
+url = "http://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=edward-karakul&pid=171195283&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Karakul"
+use = "Edward"
+given = "Edward"
+
+[person.birth]
+date = "1926-03-20"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2014-05-23"
+place.country = "US"
+place.state = "FL"
+place.city = "Palm Beach"
+
+[[person.military]]
+country = "US"
+branch = "Army"

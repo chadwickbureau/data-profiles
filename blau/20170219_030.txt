@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "20170219_030"
+
+[[person.meta.citation]]
+title = "Ottawa Journal"
+date = "1923-09-14"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-03-11"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1922-03-28"
+pages = "25"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1924-07-25"
+pages = "13"
+
+[person.name]
+last = "Barnes"
+use = "Bill"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Syracuse"
+team.league.name = "International League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Montreal"
+team.league.name = "Eastern Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"

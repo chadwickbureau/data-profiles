@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202001_Mastroianni"
+
+[[person.meta.citation]]
+title = "McGowan Sons Funeral Home"
+date = "2020-01-31"
+url = "https://tjmcgowansonsfh.com/tribute/details/169624/Sylvio-Mastroianni/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Mastroianni"
+use = "Sylvio"
+given = "Sylvio Sergio"
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2020-01-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Stony Point"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

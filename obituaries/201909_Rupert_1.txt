@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201909_Rupert_1"
+
+[[person.meta.citation]]
+title = "Grand Forks Herald"
+date = "2019-09-16"
+url = "https://www.grandforksherald.com/sports/4663868-Ex-GF-pitcher-and-umpire-Rex-Rupert-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-24"
+
+[person.name]
+last = "Rupert"
+use = "Rex"
+given = "Rex"
+
+[person.death]
+date = "2019-09-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Grand Forks"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201901_Down_1"
+
+[[person.meta.citation]]
+title = "Las Vegas Review-Journal"
+date = "2019-01-09"
+url = "https://www.reviewjournal.com/sports/sports-columns/ron-kantowski/ex-yankees-hitting-coach-rick-down-dies-at-home-in-las-vegas-1569683/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-10"
+
+[person.name]
+last = "Down"
+use = "Rick"
+given = "Rick"
+
+[person.death]
+date = "2019-01-05"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"

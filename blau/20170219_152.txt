@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170219_152"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1923-05-09"
+pages = "23"
+
+[person.name]
+last = "Branch"
+use = "Bill"
+given = "William"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "NC"
+place.city = "Selma"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Binghamton"
+team.league.name = "New York-Pennsylvania League"
+description.bats = "R"
+description.throws = "R"
+description.height = "69"
+description.weight = "150"

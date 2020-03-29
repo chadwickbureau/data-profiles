@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201812_Seaver_2"
+
+[[person.meta.citation]]
+title = "Citizen Tribune"
+date = "2018-12-04"
+url = "https://www.citizentribune.com/sports/local/former-wscc-c-n-coach-joey-seaver-dies/article_a8539bae-f7e6-11e8-817d-0b6c325c5c0a.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Seaver"
+use = "Joey"
+given = "Joey"
+
+[person.death]
+date = "2018-12-03"
+
+[[person.education]]
+school.name = "Volunteer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Church Hill"
+
+[[person.education]]
+school.name = "Walters State Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"

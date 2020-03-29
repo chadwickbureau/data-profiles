@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201912_Ramsey"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2019-12-23"
+url = "http://www.tnfunerals.com/obituary/bobby-ramsey-sr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-23"
+
+[person.name]
+last = "Ramsey"
+use = "Bobby"
+given = "Bobby Lamontte"
+suffix = "Sr."
+
+[person.birth]
+date = "1931-02-18"
+place.country = "US"
+place.state = "TN"
+place.city = "Ooltewah"
+
+[person.death]
+date = "2019-12-14"
+place.country = "US"
+place.state = "TN"
+place.city = "Franklin"
+
+[person.burial]
+cemetery.name = "Polk Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Ooltewah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Ooltewah"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

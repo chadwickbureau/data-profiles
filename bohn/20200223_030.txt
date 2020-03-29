@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_030"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-08-23"
+
+[person.name]
+last = "Brandt"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Minot"
+team.league.name = "North Dakota League"

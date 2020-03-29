@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "2018_Hoffman"
+
+[[person.meta.citation]]
+title = "John Feeney Funeral Home"
+date = "2018-11-26"
+url = "https://www.johnfeeneyfuneralhome.com/obituaries.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Hoffman"
+use = "Charles"
+given = "Charles W."
+
+[person.birth]
+date = "1920-01-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.death]
+date = "2018-11-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.burial]
+cemetery.name = "Pleasant View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Sinking Spring"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

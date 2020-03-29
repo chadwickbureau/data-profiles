@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201911_Mixon"
+
+[[person.meta.citation]]
+title = "Rabenhorst Funeral Home"
+date = "2019-11-07"
+url = "https://rabenhorst.com/obituary/wallace-louis-butch-mixon-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-07"
+
+[person.name]
+last = "Mixon"
+use = "Butch"
+given = "Wallace Louis"
+suffix = "Jr."
+
+[person.death]
+date = "2019-11-05"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[[person.education]]
+school.name = "Baton Rouge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Baton Rouge"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"

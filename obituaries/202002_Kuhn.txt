@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202002_Kuhn"
+
+[[person.meta.citation]]
+title = "Frederick News-Post"
+date = "2020-02-13"
+url = "https://www.legacy.com/obituaries/fredericknewspost/obituary.aspx?n=matthew-j-kuhn&pid=195363232"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Kuhn"
+use = "Matt"
+given = "Matthew J."
+
+[person.birth]
+place.country = "US"
+place.state = "WV"
+place.city = "Morgantown"
+
+[person.death]
+date = "2020-02-06"
+
+[[person.education]]
+school.name = "West Virginia Wesleyan College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

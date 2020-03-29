@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_043"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Hoeft"
+use = "Emil"
+given = "Emil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"

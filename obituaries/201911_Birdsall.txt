@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201911_Birdsall"
+
+[[person.meta.citation]]
+title = "Green Bay Press-Gazette"
+date = "2019-11-15"
+url = "https://www.legacy.com/obituaries/greenbaypressgazette/obituary.aspx?n=raymond-p-birdsall&pid=194454020&fhid=14028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Birdsall"
+use = "Ray"
+given = "Raymond Perry"
+suffix = "II"
+
+[person.birth]
+date = "1929-01-26"
+place.country = "US"
+place.state = "WI"
+place.city = "Neenah"
+
+[person.death]
+date = "2019-11-14"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Algoma"
+
+[[person.education]]
+school.name = "Algoma HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Algoma"
+
+[[person.education]]
+school.name = "University of Wisconsin"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

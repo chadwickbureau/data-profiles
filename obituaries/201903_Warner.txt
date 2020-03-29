@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201903_Warner"
+
+[[person.meta.citation]]
+title = "San Diego Union Tribune"
+date = "2019-03-24"
+url = "https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=robert-warner&pid=191902760"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Warner"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1933-01-04"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.death]
+date = "2019-03-07"
+
+[person.burial]
+cemetery.name = "Miramar National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "San Diego"
+
+[[person.education]]
+school.name = "San Diego HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"
+
+[[person.education]]
+school.name = "San Diego State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

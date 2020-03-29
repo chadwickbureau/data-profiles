@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201806_Zimmerman"
+
+[[person.meta.citation]]
+title = "TheNewOrleansAdvocate.com"
+date = "2018-07-13"
+url = "https://www.legacy.com/obituaries/theneworleansadvocate/obituary.aspx?n=curtis-curt-zimmerman&pid=189576211"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Zimmerman"
+use = "Curt"
+given = "Curtis Matthew"
+
+[person.birth]
+date = "1951-08-23"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2018-06-22"
+
+[[person.education]]
+school.name = "Tulane University"
+school.type = "college"

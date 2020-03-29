@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "201406_Pfeilsticker"
+
+[[person.meta.citation]]
+title = "Bucks County Courier Times"
+date = "2014-06-19"
+url = "http://www.buckscountycouriertimes.com/obituaries/bcct/robert-c-pfeilsticker-sr/article_d7da5db0-8964-5f59-b2f0-6463c77d2a29.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-22"
+
+[person.name]
+last = "Pfeilsticker"
+use = "Robert"
+given = "Robert C."
+suffix = "Sr."
+
+[person.birth]
+date = "1923"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2014-06-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Langhorne"
+
+[person.burial]
+cemetery.name = "Whitemarsh Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Ambler"
+
+[[person.relation]]
+relationship = "grandfather of"
+person.name.last = "Morton"
+person.name.use = "Charlie"
+person.name.given = "Charlie"
+
+
+[[person.education]]
+school.name = "Temple University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Philadelphia"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

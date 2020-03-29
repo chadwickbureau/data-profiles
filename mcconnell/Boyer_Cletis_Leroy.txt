@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Boyer_Cletis_Leroy"
+
+[person.name]
+last = "Boyer"
+use = "Cletis"
+given = "Cletis Leroy"
+
+[person.birth]
+date = "1937-02-09"
+place.country = "US"
+place.state = "MO"
+place.city = "Cassville"
+
+[person.death]
+date = "2007-06-04"
+place.country = "US"
+place.state = "GA"
+place.city = "Lawrenceville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "182"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Cloyd"
+person.name.given = "Cloyd"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Ken"
+person.name.given = "Ken"

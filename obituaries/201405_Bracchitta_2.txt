@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201405_Bracchitta_2"
+
+[[person.meta.citation]]
+title = "The Record/Herald News"
+date = "2014-05-22"
+url = "http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=Joseph-Bracchitta&pid=171098731"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-20"
+
+[person.name]
+last = "Bracchitta"
+use = "Joe"
+given = "Joseph Anthony"
+
+[person.birth]
+date = "1927"
+
+[person.death]
+date = "2014-05-18"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Hackensack"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

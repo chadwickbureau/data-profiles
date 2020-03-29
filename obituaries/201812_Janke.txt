@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Janke"
+
+[[person.meta.citation]]
+title = "Herald-News"
+date = "2019-01-03"
+url = "http://www.legacy.com/obituaries/theherald-news/obituary.aspx?n=arthur-mallon-janke&pid=191139695"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-03"
+
+[person.name]
+last = "Janke"
+use = "Art"
+given = "Arthur Mallon"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+
+[person.death]
+date = "2018-12-29"
+
+[[person.education]]
+school.name = "Joliet Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Joliet"
+
+[[person.education]]
+school.name = "Lewis University"
+school.type = "college"

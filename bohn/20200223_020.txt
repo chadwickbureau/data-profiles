@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_020"
+
+[[person.meta.citation]]
+title = "Aberdeen Daily News"
+date = "1921-07-21"
+
+[person.name]
+last = "Duncan"
+use = "Ferdinand"
+given = "Ferdinand"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Madison"
+team.league.name = "Dakota League"

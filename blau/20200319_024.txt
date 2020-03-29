@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200319_024"
+
+[[person.meta.citation]]
+title = "San Antonio Evening News"
+date = "1919-05-17"
+pages = "11"
+
+[person.name]
+last = "Fuller"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "San Antonio"
+team.league.name = "Texas League"

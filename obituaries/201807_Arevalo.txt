@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201807_Arevalo"
+
+[[person.meta.citation]]
+title = "Miami Herald"
+date = "2018-08-02"
+url = "https://www.legacy.com/obituaries/herald/obituary.aspx?n=frank-arevalo&pid=189785112&fhid=9114"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-02"
+
+[person.name]
+last = "Arevalo"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1921-04-02"
+
+[person.death]
+date = "2018-07-28"

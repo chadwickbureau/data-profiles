@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201910_Thrash"
+
+[[person.meta.citation]]
+title = "Bailey Funeral Home"
+date = "2019-10-20"
+url = "https://www.baileyfuneralhome.net/obituaries/Wayne-Thrash/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Thrash"
+use = "Wayne"
+given = "Wayne"
+
+[person.birth]
+date = "1933-01-11"
+place.country = "US"
+place.state = "LA"
+place.city = "Jamestown"
+
+[person.death]
+date = "2019-10-16"
+
+[person.burial]
+cemetery.name = "Cotton Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Cotton Valley"
+
+[[person.education]]
+school.name = "Jamestown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Jamestown"
+
+[[person.education]]
+school.name = "Centenary College of Louisiana"
+school.type = "college"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bowerman_Frank_Eugene"
+
+[person.name]
+last = "Bowerman"
+use = "Frank"
+given = "Frank Eugene"
+
+[person.birth]
+date = "1868-12-05"
+place.country = "US"
+place.state = "MI"
+place.city = "Romeo"
+
+[person.death]
+date = "1948-11-30"
+place.country = "US"
+place.state = "MI"
+place.city = "Romeo"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "190"

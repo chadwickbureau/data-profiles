@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201901_Jones"
+
+[[person.meta.citation]]
+title = "Hartman-Jones Funeral Home"
+date = "2019-02-04"
+url = "http://www.hartmanjonesfuneralhome.com/obituary/5920672"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Jones"
+use = "Billy Ray"
+given = "Billy Ray"
+nick = "Mule"
+
+[person.birth]
+date = "1940-05-15"
+place.country = "US"
+place.state = "MS"
+place.city = "Summit"
+
+[person.death]
+date = "2019-01-31"
+place.country = "US"
+place.state = "MS"
+place.city = "Jackson"
+
+[[person.education]]
+school.name = "Summit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Summit"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"

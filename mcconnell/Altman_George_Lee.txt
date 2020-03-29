@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Altman_George_Lee"
+
+[person.name]
+last = "Altman"
+use = "George"
+given = "George Lee"
+
+[person.birth]
+date = "1933-03-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Goldsboro"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "76"
+weight = "200"
+
+[[person.military]]
+country = "US"
+dates = "1957/1957"

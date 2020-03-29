@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201908_Langan"
+
+[[person.meta.citation]]
+title = "Printy Funeral Home"
+date = "2019-09-01"
+url = "https://www.printyfuneralhome.com/notices/Thomas-Langan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Langan"
+use = "Tom"
+given = "Thomas John"
+
+[person.birth]
+date = "1934-01-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.death]
+date = "2019-08-23"
+
+[person.burial]
+cemetery.name = "Moss Ridge Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Carthage"
+
+[[person.education]]
+school.name = "Quincy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Quincy"
+
+[[person.education]]
+school.name = "Carthage College"
+school.type = "college"

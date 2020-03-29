@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "Adkison_Larry_Wayne"
+
+[person.name]
+last = "Adkison"
+use = "Larry"
+given = "Larry Wayne"
+
+[person.birth]
+date = "1943-04-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Van Nuys"
+
+[person.death]
+date = "2012-02-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Westminster"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73.5"
+weight = "185"
+
+[person.sameas]
+ssn = "548-56-7125"
+
+[[person.resides]]
+dates = "1964"
+place.country = "US"
+place.state = "CA"
+place.city = "Compton"
+place.address = "712 E. Cocoa"
+
+
+[[person.education]]
+school.name = "Compton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Compton"
+dates = "/1961"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Compton Junior College"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1963-11-04"
+type = "signed"
+join.name = "Los Angeles"
+join.league.name = "American"
+signers.0.name.last = "Gilhousen"
+signers.0.name.use = "Ross"
+signers.0.name.given = "Ross"

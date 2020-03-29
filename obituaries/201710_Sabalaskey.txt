@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201710_Sabalaskey"
+
+[[person.meta.citation]]
+title = "Commerical News"
+date = "2017-10-09"
+url = "http://obituaries.commercial-news.com/obituary/john-sabalaskey-1933-2017-987722681"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Sabalaskey"
+use = "John"
+given = "John E."
+
+[person.birth]
+date = "1933-03-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Westville"
+
+[person.death]
+date = "2017-10-06"
+place.country = "US"
+place.state = "IL"
+place.city = "Danville"
+
+[person.burial]
+cemetery.name = "Sts. Peter & Paul Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Westville"
+
+[[person.education]]
+school.name = "Westville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Westville"
+
+[[person.education]]
+school.name = "University of Illinois"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

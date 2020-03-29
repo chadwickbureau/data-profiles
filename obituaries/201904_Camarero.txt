@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201904_Camarero"
+
+[[person.meta.citation]]
+title = "XeuDeportes.com"
+date = "2019-04-03"
+url = "https://www.xeudeportes.mx/nota.cfm?id=1025388"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-20"
+
+[person.name]
+last = "Camarero"
+use = "Rolando"
+given = "Rolando"
+matrilineal = "Cruz"
+
+[person.death]
+date = "2019-04-03"
+place.country = "MX"
+place.state = "Puebla"
+place.city = "Tecamachalco"

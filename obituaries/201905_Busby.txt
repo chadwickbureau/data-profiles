@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201905_Busby"
+
+[[person.meta.citation]]
+title = "Crowe-Fields Funeral Home"
+date = "2019-05-27"
+url = "https://www.crowefieldsfuneral.com/obituary/james-busby?lud=E9533A6A8299FF044CC1CF11666EFBD1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Busby"
+use = "Jimmy"
+given = "James C."
+
+[person.birth]
+date = "1953-10-07"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.death]
+date = "2019-05-18"
+place.country = "US"
+place.state = "GA"
+place.city = "Augusta"

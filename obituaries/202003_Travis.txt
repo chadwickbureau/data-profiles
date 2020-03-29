@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202003_Travis"
+
+[[person.meta.citation]]
+title = "Steuerle Funeral Home"
+date = "2020-03-05"
+url = "https://www.steuerlefh.com/obituary/kenneth-l-travis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-05"
+
+[person.name]
+last = "Travis"
+use = "Ken"
+given = "Kenneth L."
+
+[person.death]
+date = "2020-03-03"
+
+[person.burial]
+cemetery.name = "St. Michael the Archangel Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Palatine"
+
+[[person.military]]
+country = "US"
+branch = "Army"

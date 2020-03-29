@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201902_Rios"
+
+[[person.meta.citation]]
+title = "Nopasanada.mx"
+date = "2019-02-01"
+url = "https://nopasanada.mx/2019/02/fallece-alfredo-rios-una-leyenda-del-beisbol-mexicano/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-06"
+
+[person.name]
+last = "Rios"
+use = "Alfredo"
+given = "Alfredo"
+matrilineal = "Meza"
+nick = "Yaqui"
+
+[person.birth]
+date = "1932-08-24"
+
+[person.death]
+date = "2019-02-01"
+place.country = "MX"
+place.state = "Sonora"
+place.city = "Guaymas"

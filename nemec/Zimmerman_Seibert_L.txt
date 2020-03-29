@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "Zimmerman_Seibert_L"
+
+[person.name]
+last = "Zimmerman"
+use = "Seibert"
+given = "Seibert L."
+nick = "Putter"
+
+[person.birth]
+date = "1927-04-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Greencastle"
+
+[person.death]
+date = "2010-05-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+
+[[person.playing]]
+season = "1947"
+league.name = "Eastern Shore League"
+splits.0.team.name = "Dover"
+totals.F_POS = "P"
+totals.B_G = "6"
+totals.B_AB = "6"
+totals.B_R = "0"
+totals.B_H = "0"
+totals.B_TB = "0"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "0"
+totals.B_SB = "0"
+totals.B_AVG = ".000"
+totals.P_G = "6"
+totals.P_CG = "0"
+totals.P_IP = "17"
+totals.P_W = "0"
+totals.P_L = "1"
+totals.P_PCT = ".000"
+totals.P_H = "20"
+totals.P_BB = "8"
+totals.P_SO = "6"
+totals.P_R = "12"
+totals.P_ER = "6"
+totals.P_ERA = "3.18"
+
+
+[[person.transaction]]
+date = "1947-01-22"
+type = "signed"
+join.name = "Dover"
+join.league.name = "Eastern Shore"
+
+[[person.transaction]]
+date = "1947-06-03"
+type = "released"
+leave.name = "Dover"
+leave.league.name = "Eastern Shore"

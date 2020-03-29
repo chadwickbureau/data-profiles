@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201906_Hardy"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "2019-06-06"
+url = "https://www.legacy.com/obituaries/indystar/obituary.aspx?n=william-o-hardy&pid=193073021&fhid=14558"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-06"
+
+[person.name]
+last = "Hardy"
+use = "Bill"
+given = "William O."
+
+[person.birth]
+date = "1921-08-15"
+place.country = "US"
+place.state = "IN"
+
+[person.death]
+date = "2019-06-03"
+
+[person.burial]
+cemetery.name = "Crown Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Indianapolis"
+
+[[person.education]]
+school.name = "Shortridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Indianapolis"
+
+[[person.education]]
+school.name = "Butler University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

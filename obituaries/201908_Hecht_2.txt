@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201908_Hecht_2"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-08-04"
+url = "https://www.dignitymemorial.com/obituaries/wilmette-il/marvin-hecht-8800926"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Hecht"
+use = "Marvin"
+given = "Marvin"
+
+[person.birth]
+date = "1927-04-24"
+
+[person.death]
+date = "2019-08-02"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Skokie"

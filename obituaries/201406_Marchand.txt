@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201406_Marchand"
+
+[[person.meta.citation]]
+title = "The Advocate"
+date = "2014-06-21"
+url = "http://www.legacy.com/obituaries/theadvocate/obituary.aspx?n=Gerald-Marchand&pid=171442194"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-23"
+
+[person.name]
+last = "Marchand"
+use = "Jerry"
+given = "Gerald Huey"
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2014-06-20"
+
+[[person.education]]
+school.name = "Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Baton Rouge"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20190813_048"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch 1915-03-17"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Donovan"
+use = "Dick"
+given = "Dick"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "KY"
+place.city = "Fort Thomas"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Eastern Association"
+description.position = "OF"

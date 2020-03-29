@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201405_Hall"
+
+[[person.meta.citation]]
+title = "Kearns Funeral Home"
+date = "2014-06-03"
+url = "http://kearnsfuneralhome.com/obituary_view/2014-05-peter-hall/10083025"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-03"
+
+[person.name]
+last = "Hall"
+use = "Pete"
+given = "Peter W."
+
+[person.birth]
+date = "1940-03-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Somerville"
+
+[person.death]
+date = "2014-05-29"
+place.country = "US"
+place.state = "NJ"
+place.city = "Basking Ridge"
+
+[[person.education]]
+school.name = "Bound Brook HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Bound Brook"
+
+[[person.education]]
+school.name = "Rutgers University"
+school.type = "college"

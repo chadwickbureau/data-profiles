@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20170219_088"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Thompson"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"

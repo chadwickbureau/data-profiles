@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201807_Weber"
+
+[[person.meta.citation]]
+title = "Williams Dingmann Funeral Home"
+date = "2018-07-20"
+url = "http://www.williamsdingmann.com/obituaries/Brent-L-Weber?obId=3159862#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Weber"
+use = "Brent"
+given = "Brent Lawrence"
+
+[person.birth]
+date = "1969-08-07"
+place.country = "US"
+place.state = "MN"
+place.city = "Springfield"
+
+[person.death]
+date = "2018-07-16"
+
+[[person.education]]
+school.name = "Sanborn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Sanborn"
+
+[[person.education]]
+school.name = "St. John's University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Collegeville"

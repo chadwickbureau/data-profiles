@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201909_Stackowiak"
+
+[[person.meta.citation]]
+title = "Kaniewski Funeral Home"
+date = "2019-09-23"
+url = "https://www.kaniewski.com/notices/CasimerRCas-Stackowiak"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-23"
+
+[person.name]
+last = "Stackowiak"
+use = "Cas"
+given = "Casimer Ralph"
+
+[person.birth]
+date = "1923-12-05"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+[person.death]
+date = "2019-09-21"
+place.country = "US"
+place.state = "IN"
+place.city = "Notre Dame"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "South Bend"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "South Bend"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "Ahlness_Kenneth_Lee"
+
+[person.name]
+last = "Ahlness"
+use = "Kenneth"
+given = "Kenneth Lee"
+
+[person.birth]
+date = "1925-08-16"
+place.country = "US"
+place.state = "MN"
+place.city = "St. James"
+
+[person.death]
+date = "2013-03-06"
+
+[person.description]
+bats = "R"
+throws = "R"

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190614_008"
+
+[[person.meta.citation]]
+title = "San Diego Tribune 1915-12-23"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Defty"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Pedro Merchants [caliber=semi-pro]"

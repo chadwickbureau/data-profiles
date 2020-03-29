@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201812_Johns"
+
+[[person.meta.citation]]
+title = "St. Johns Family Funeral Home"
+date = "2018-12-11"
+url = "https://www.stjohnsfamilyfuneralhome.com/obituaries/Donald-Johns-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Johns"
+use = "Donald"
+given = "Donald Clarence"
+
+[person.birth]
+date = "1935-01-26"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2018-12-03"
+
+[person.burial]
+note = "cremated"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

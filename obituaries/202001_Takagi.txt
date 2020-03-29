@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202001_Takagi"
+
+[[person.meta.citation]]
+title = "The Mainichi"
+date = "2020-01-18"
+url = "https://mainichi.jp/english/articles/20200118/p2g/00m/0sp/004000c"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Takagi"
+use = "Morimichi"
+given = "Morimichi"
+
+[person.death]
+date = "2020-01-17"

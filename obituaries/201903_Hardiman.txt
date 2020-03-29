@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hardiman"
+
+[[person.meta.citation]]
+title = "TributeArchive.com"
+date = "2019-05-27"
+url = "https://www.tributearchive.com/obituaries/4234403/Grady-Hardiman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Hardiman"
+use = "Grady"
+given = "Grady"
+nick = "Cut"
+
+[person.birth]
+date = "1954-01-12"
+place.country = "US"
+place.state = "MS"
+place.city = "Cleveland"
+
+[person.death]
+date = "2019-03-17"
+
+[person.description]
+position = "P"
+throws = "L"
+
+[[person.education]]
+school.name = "Arsenal Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Indianapolis"

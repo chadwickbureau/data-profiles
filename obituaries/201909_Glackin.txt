@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201909_Glackin"
+
+[[person.meta.citation]]
+title = "May Funeral Home"
+date = "2019-09-09"
+url = "https://www.mayfuneralhome.com/obituaries/James-J-Glackin-Jr?obId=7143853#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-09"
+
+[person.name]
+last = "Glackin"
+use = "James"
+given = "James J."
+suffix = "Jr."
+
+[person.birth]
+date = "1928-04-24"
+
+[person.death]
+date = "2019-09-06"
+
+[person.burial]
+cemetery.name = "Holy Sepulchre Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Cheltenham"

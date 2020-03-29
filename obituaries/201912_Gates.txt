@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201912_Gates"
+
+[[person.meta.citation]]
+title = "Jennings, Nulton & Mattle Funeral Home"
+date = "2019-12-14"
+url = "https://jenningsnultonmattlefh.com/tribute/details/3132/Robert-Gates/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-14"
+
+[person.name]
+last = "Gates"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1925"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2019-12-11"
+place.country = "US"
+place.state = "NY"
+place.city = "Fairport"
+
+[person.burial]
+cemetery.name = "White Haven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Pittsford"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Cathedral HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Syracuse"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

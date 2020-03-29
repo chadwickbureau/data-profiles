@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_011"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch 1915-06-26"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Pressley"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+description.position = "1B"

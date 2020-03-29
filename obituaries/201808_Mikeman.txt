@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201808_Mikeman"
+
+[[person.meta.citation]]
+title = "Ford Funeral Service"
+date = "2018-08-14"
+url = "https://www.fordfuneral.com/obituaries/Keith-Mikeman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-14"
+
+[person.name]
+last = "Mikeman"
+use = "Keith"
+given = "Keith Duane"
+
+[person.birth]
+date = "1957-09-13"
+place.country = "US"
+place.state = "OK"
+place.city = "Wewoka"
+
+[person.death]
+date = "2018-08-10"
+
+[[person.education]]
+school.name = "U. S. Grant HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Rose State College"
+school.type = "college"

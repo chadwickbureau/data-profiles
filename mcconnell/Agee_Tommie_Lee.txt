@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Agee_Tommie_Lee"
+
+[person.name]
+last = "Agee"
+use = "Tommie"
+given = "Tommie Lee"
+
+[person.birth]
+date = "1942-08-09"
+place.country = "US"
+place.state = "AL"
+place.city = "Magnolia"
+
+[person.death]
+date = "2001-01-22"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "105"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201701_Morgan"
+
+[[person.meta.citation]]
+title = "Grand View Funeral Home"
+date = "2017-12-29"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Chester-Morgan&lc=4608&pid=183569718&mid=7247613"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-29"
+
+[person.name]
+last = "Morgan"
+use = "Chester"
+given = "Chester Collins"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-03-26"
+
+[person.death]
+date = "2017-01-08"

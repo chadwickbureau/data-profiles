@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201907_Harris"
+
+[[person.meta.citation]]
+title = "Devanny-Condron Funeral Home"
+date = "2019-07-17"
+url = "https://www.devanny-condron.com/tributes/Richard-Harris"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-17"
+
+[person.name]
+last = "Harris"
+use = "Dick"
+given = "Richard L."
+
+[person.birth]
+date = "1923-08-20"
+place.country = "US"
+place.state = "FL"
+place.city = "West Palm Beach"
+
+[person.death]
+date = "2019-07-13"
+place.country = "US"
+place.state = "MA"
+place.city = "Dalton"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Pittsfield"
+
+[[person.education]]
+school.name = "Palm Beach HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Palm Beach"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

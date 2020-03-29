@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "200701_Jones_1"
+
+[[person.meta.citation]]
+title = "El Paso Times"
+date = "2019-08-01"
+url = "https://www.legacy.com/obituaries/elpasotimes/obituary.aspx?n=billie-kathryn-jones&pid=193523699&fhid=7166"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-01"
+
+[person.name]
+last = "Jones"
+use = "JP"
+given = "John Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "Little"
+team.name = "Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "Shreveport"
+team.league.name = "Texas League"

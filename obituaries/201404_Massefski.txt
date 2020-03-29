@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201404_Massefski"
+
+[[person.meta.citation]]
+title = "Parsippany Funeral Home"
+date = "2014-05-04"
+url = "http://www.parsippanyfuneral.com/obituaries/Walter-Massefski/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-04"
+
+[person.name]
+last = "Massefski"
+use = "Walt"
+given = "Walter W."
+
+[person.birth]
+date = "1934-07-22"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2014-04-27"
+
+[[person.education]]
+school.name = "East Side HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Newark"

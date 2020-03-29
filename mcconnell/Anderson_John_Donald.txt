@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_John_Donald"
+
+[person.name]
+last = "Anderson"
+use = "John"
+given = "John Donald"
+
+[person.birth]
+date = "1894-04-04"
+place.country = "US"
+place.state = "IA"
+place.city = "Donnellson"
+
+[person.death]
+date = "1946-09-06"
+place.country = "US"
+place.state = "IA"
+place.city = "Donnellson"
+
+[person.description]
+bats = "R"
+throws = "R"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170219_049"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1925-03-30"
+pages = "26"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1925-05-28"
+pages = "9"
+
+[person.name]
+last = "Batch"
+use = "William"
+given = "William George"
+nick = "Heinie"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"

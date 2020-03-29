@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201901_237"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1912-05-09"
+pages = "12"
+
+[person.name]
+last = "Womack"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Guthrie"
+team.league.name = "Oklahoma State League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "1912-05-08"
+type = "purchased"
+join.name = "Guthrie"
+join.league.name = "Oklahoma State"
+leave.name = "Huntsville"
+leave.league.name = "Southeastern"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_Lesiecki"
+
+[[person.meta.citation]]
+title = "Morning Journal"
+date = "2019-10-10"
+url = "https://www.legacy.com/obituaries/morningjournal/obituary.aspx?n=robert-d-lesiecki&pid=194103349&fhid=3273"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-25"
+
+[person.name]
+last = "Lesiecki"
+use = "Bob"
+given = "Robert D."
+
+[person.birth]
+date = "1931-08-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Lorain"
+
+[person.death]
+date = "2019-10-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Westlake"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Lorain"
+
+[[person.education]]
+school.name = "Lorain St. Mary's Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Lorain"

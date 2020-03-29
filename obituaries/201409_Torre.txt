@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201409_Torre"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "2014-09-15"
+url = "http://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=Frank-TORRE&pid=172457685"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Torre"
+use = "Frank"
+given = "Frank Joseph"
+
+[person.birth]
+date = "1931-12-30"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2014-09-13"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

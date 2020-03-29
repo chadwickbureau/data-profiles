@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "Barisoff_William"
+
+[person.name]
+last = "Barisoff"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1921-12-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "1992-10-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"
+
+[[person.alias]]
+name.last = "Berrisoff"
+name.use = "William"
+name.given = "William"
+type = "legal"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Beck_Frederick_Thomas"
+
+[person.name]
+last = "Beck"
+use = "Frederick"
+given = "Frederick Thomas"
+
+[person.birth]
+date = "1886-11-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Havana"
+
+[person.death]
+date = "1962-03-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Havana"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "180"
+
+[[person.military]]
+country = "US"
+dates = "1918/1918"

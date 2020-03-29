@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201809_Perko"
+
+[[person.meta.citation]]
+title = "Tennant Funeral Home"
+date = "2018-10-04"
+url = "http://www.tennantfuneralhome.com/obituaries/raymond-edward-perko"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Perko"
+use = "Raymond"
+given = "Raymond Edward"
+
+[person.birth]
+date = "1930-10-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Santiago"
+
+[person.death]
+date = "2018-09-24"
+place.country = "US"
+place.state = "WV"
+place.city = "Rivesville"
+
+[[person.education]]
+school.name = "West Allegheny HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Imperial"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

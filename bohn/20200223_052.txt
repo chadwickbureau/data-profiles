@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_052"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1920-07-13"
+
+[person.name]
+last = "Hendron"
+use = "Jimmie"
+given = "Jimmie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Redfield"
+team.league.name = "South Dakota League"

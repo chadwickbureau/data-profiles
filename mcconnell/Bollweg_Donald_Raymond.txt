@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Bollweg_Donald_Raymond"
+
+[person.name]
+last = "Bollweg"
+use = "Donald"
+given = "Donald Raymond"
+
+[person.birth]
+date = "1921-11-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Wheaton"
+
+[person.death]
+date = "1996-05-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Wheaton"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "190"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_Eller"
+
+[[person.meta.citation]]
+title = "Bryan-Lee Funeral Home"
+date = "2019-01-23"
+url = "http://www.bryan-leefuneralhome.com/obits/obituaries/max-alfred-eller/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-23"
+
+[person.name]
+last = "Eller"
+use = "Max"
+given = "Max Alfred"
+
+[person.birth]
+date = "1928-11-15"
+
+[person.death]
+date = "2019-01-14"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

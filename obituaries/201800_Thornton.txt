@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201800_Thornton"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2018-11-04"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=david-w-thornton&pid=190628436"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Thornton"
+use = "David"
+given = "David W."
+suffix = "Jr."
+
+[person.birth]
+date = "1949-11-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2018"
+
+[[person.education]]
+school.name = "Grant Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

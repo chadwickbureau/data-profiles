@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_024"
+
+[[person.meta.citation]]
+title = "Aberdeen Journal"
+date = "1922-07-06"
+
+[person.name]
+last = "Shepard"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Aberdeen"
+team.league.name = "Dakota League"

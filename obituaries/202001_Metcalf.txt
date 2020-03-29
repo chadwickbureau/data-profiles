@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202001_Metcalf"
+
+[[person.meta.citation]]
+title = "Crowe's Mortuary & Crematory"
+date = "2020-01-31"
+url = "https://www.crowemortuary.com/memorials/jack-metcalf/4084374/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Metcalf"
+use = "Jack"
+given = "Jack William"
+
+[person.birth]
+date = "1935-08-20"
+
+[person.death]
+date = "2020-01-25"
+place.country = "US"
+place.state = "NC"
+place.city = "Forest City"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202002_Haddix"
+
+[[person.meta.citation]]
+title = "Littleton & Rue Funeral Home"
+date = "2020-03-01"
+url = "https://www.littletonandrue.com/obituaries/Benjamin-Franklin-Ben-Haddix?obId=11931882#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "Haddix"
+use = "Ben"
+given = "Benjamin Franklin"
+
+[person.birth]
+date = "1923-04-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Medway"
+
+[person.death]
+date = "2020-02-23"
+
+[person.burial]
+cemetery.name = "Asbury Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Catawba"
+
+[[person.education]]
+school.name = "Catawba HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Catawba"
+
+
+[[person.military]]
+country = "US"
+branch = "Merchant Marines"
+conflict = "World War II"

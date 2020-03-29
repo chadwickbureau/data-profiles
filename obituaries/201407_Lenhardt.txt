@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201407_Lenhardt"
+
+[[person.meta.citation]]
+title = "Schrader Funeral Homes"
+date = "2014-07-13"
+url = "http://schrader.com/?pagetype=obitlink&obit_id=1356333"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-13"
+
+[person.name]
+last = "Lenhardt"
+use = "Don"
+given = "Donald Eugene"
+
+[person.birth]
+date = "1922-10-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[person.death]
+date = "2014-07-09"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

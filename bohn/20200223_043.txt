@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_043"
+
+[[person.meta.citation]]
+title = "Grand Forks Daily Herald"
+date = "1922-08-19"
+
+[person.name]
+last = "Harrison"
+use = "Jimmie"
+given = "Jimmie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Mitchell"
+team.league.name = "Dakota League"

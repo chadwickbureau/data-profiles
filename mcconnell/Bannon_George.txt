@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "Bannon_George"
+
+[person.name]
+last = "Bannon"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1879-06-09"
+place.country = "US"
+place.state = "MA"
+place.city = "Groveland"
+
+[person.death]
+date = "1936-10-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Ipswich"
+
+[person.description]
+throws = "R"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Jim"
+person.name.given = "Jim"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Tom"
+person.name.given = "Tom"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "William"
+person.name.given = "William"

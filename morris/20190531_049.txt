@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20190531_049"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette 1915-08-07"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Wilkinson"
+use = "Roy"
+given = "Roy"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Canandaigua"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.league.name = "Canadian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Canadian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Canadian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"

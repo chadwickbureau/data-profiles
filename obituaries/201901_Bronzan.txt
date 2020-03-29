@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "201901_Bronzan"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2019-01-13"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=louie-bronzan&pid=191212568"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-10"
+
+[person.name]
+last = "Bronzan"
+use = "Lou"
+given = "Louie Thomas"
+
+[person.birth]
+date = "1922-11-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Lathrop"
+
+[person.death]
+date = "2019-01-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.burial]
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Ferndale"
+
+[[person.education]]
+school.name = "Manteca HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Manteca"
+
+[[person.education]]
+school.name = "Modesto Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of the Pacific"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

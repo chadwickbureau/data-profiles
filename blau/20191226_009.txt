@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20191226_009"
+
+[[person.meta.citation]]
+title = "Thomasville Times Enterprise"
+date = "1915-06-29"
+pages = "7"
+
+[person.name]
+last = "Ansley"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "GA"
+place.city = "Thomasville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brunswick"
+team.league.name = "Florida-Alabama-Georgia League"

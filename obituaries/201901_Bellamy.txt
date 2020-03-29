@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201901_Bellamy"
+
+[[person.meta.citation]]
+title = "Rainge Memorial Chapel"
+date = "2019-01-07"
+url = "https://www.raingememorialchapelinc.com/notices/Perry-BellamySr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Bellamy"
+use = "Perry"
+given = "Perry Bernard"
+suffix = "Sr."
+
+[person.birth]
+date = "1929-12-21"
+place.country = "US"
+place.state = "GA"
+place.city = "Waycross"
+
+[person.death]
+date = "2019-01-01"
+place.country = "US"
+place.state = "GA"
+place.city = "Waycross"
+
+[[person.education]]
+school.name = "Center HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Waycross"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201312_Damme"
+
+[[person.meta.citation]]
+title = "The Chronicle"
+date = "2014-05-15"
+url = "http://www.chronline.com/obituaries/article_36a3cc42-dbc4-11e3-a56f-0019bb2963f4.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-18"
+
+[person.name]
+last = "Damme"
+use = "Arlyn"
+given = "Arlyn Earl"
+
+[person.birth]
+date = "1926-05-23"
+place.country = "US"
+place.state = "WI"
+place.city = "Remington"
+
+[person.death]
+date = "2013-12-14"
+place.country = "US"
+place.state = "WA"
+place.city = "Olympia"
+
+[person.burial]
+cemetery.name = "Claquato Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Chehalis"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

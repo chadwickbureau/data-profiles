@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201406_Friedman"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2014-06-25"
+url = "http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=ARNOLD-FRIEDMAN&pid=171478032"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-25"
+
+[person.name]
+last = "Friedman"
+use = "Arnie"
+given = "Arnold I."
+
+[person.birth]
+date = "1942-11-13"
+
+[person.death]
+date = "2014-06-22"
+place.country = "US"
+place.state = "VT"
+place.city = "Woodstock"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VT"
+cemetery.place.city = "Woodstock"
+
+[[person.education]]
+school.name = "Boston English HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Boston"
+
+[[person.education]]
+school.name = "Northeastern University"
+school.type = "college"

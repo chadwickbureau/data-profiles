@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201810_Cole"
+
+[[person.meta.citation]]
+title = "Orange County Register"
+date = "2018-11-30"
+url = "https://obits.ocregister.com/obituaries/orangecounty/obituary.aspx?n=richard-roy-cole-dick&pid=190869552"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Cole"
+use = "Dick"
+given = "Richard Roy"
+
+[person.birth]
+date = "1926-05-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2018-10-18"
+place.country = "US"
+place.state = "CA"
+place.city = "Costa Mesa"
+
+[[person.education]]
+school.name = "Woodrow Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"

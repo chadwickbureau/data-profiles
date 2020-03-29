@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201909_DelGaudio"
+
+[[person.meta.citation]]
+title = "Hutchens Funeral Home"
+date = "2019-09-29"
+url = "https://hutchensfuneralhomes.com/obituary/jerome-delgaudio/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-29"
+
+[person.name]
+last = "DelGaudio"
+use = "Jerry"
+given = "Jerome"
+
+[person.birth]
+date = "1935-09-22"
+
+[person.death]
+date = "2019-09-15"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

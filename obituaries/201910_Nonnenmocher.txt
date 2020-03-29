@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201910_Nonnenmocher"
+
+[[person.meta.citation]]
+title = "Snyder Funeral Home"
+date = "2019-10-27"
+url = "https://www.snyderfuneralhome.com/obituary/robert-l-nonnenmocher/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Nonnenmocher"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1937-02-17"
+
+[person.death]
+date = "2019-10-24"
+
+[person.burial]
+cemetery.name = "Ruhls United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Manheim"
+
+[[person.education]]
+school.name = "McCaskey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Lancaster"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_193"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Bliss"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "R"
+description.throws = "R"
+description.age = "30"

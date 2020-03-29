@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201912_Jolly"
+
+[[person.meta.citation]]
+title = "Miami News-Record"
+date = "2020-01-02"
+url = "https://www.miamiok.com/news/20200102/james-e-jolly"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Jolly"
+use = "Jim"
+given = "James Edward"
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Mount Vernon"
+
+[person.death]
+date = "2019-12-22"
+place.country = "US"
+place.state = "TX"
+place.city = "Tyler"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

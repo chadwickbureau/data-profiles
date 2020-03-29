@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201912_Sterling"
+
+[[person.meta.citation]]
+title = "Starr Funeral Home"
+date = "2019-12-31"
+url = "https://www.starrfuneralhome.com/obituary/dempsey-sterling"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-31"
+
+[person.name]
+last = "Sterling"
+use = "Demp"
+given = "Dempsey Calvin"
+
+[person.birth]
+date = "1927-02-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Beaumont"
+
+[person.death]
+date = "2019-12-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Nacogdoches"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

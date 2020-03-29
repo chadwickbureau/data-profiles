@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201810_Moir_2"
+
+[[person.meta.citation]]
+title = "Summersett Funeral Home"
+date = "2018-10-22"
+url = "https://www.summersettfuneralhome.com/obituaries/Samuel-Moir/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-22"
+
+[person.name]
+last = "Moir"
+use = "Sam"
+given = "Samuel Alexander"
+suffix = "Jr."
+
+[person.birth]
+date = "1924-09-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Stokes County"
+
+[person.death]
+date = "2018-10-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Salisbury"
+
+[[person.education]]
+school.name = "Appalachian State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

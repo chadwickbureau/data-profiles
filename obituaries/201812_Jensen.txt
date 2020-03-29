@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201812_Jensen"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-12-12"
+url = "https://www.dignitymemorial.com/obituaries/grand-junction-co/leon-jensen-8081415"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Jensen"
+use = "Leon"
+given = "Leon E."
+
+[person.birth]
+date = "1927-12-18"
+place.country = "US"
+place.state = "NE"
+place.city = "Plainview"
+
+[person.death]
+date = "2018-12-07"
+
+[[person.education]]
+school.name = "Plainview HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Plainview"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

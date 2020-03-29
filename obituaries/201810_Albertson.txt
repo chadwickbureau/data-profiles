@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201810_Albertson"
+
+[[person.meta.citation]]
+title = "Love Funeral Home"
+date = "2018-10-27"
+url = "http://www.lovefuneralhomega.com/obituary/jerry-albertson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-27"
+
+[person.name]
+last = "Albertson"
+use = "Jerry"
+given = "Jerry"
+
+[person.birth]
+date = "1930-06-06"
+
+[person.death]
+date = "2018-10-05"
+place.country = "US"
+place.state = "GA"
+place.city = "Dalton"
+
+[person.burial]
+cemetery.name = "Grove Level Community Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Dalton"

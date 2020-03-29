@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201809_Haydel"
+
+[[person.meta.citation]]
+title = "Chauvin Funeral Home"
+date = "2019-02-05"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-05"
+
+[person.name]
+last = "Haydel"
+use = "Harold"
+given = "John Harold"
+
+[person.birth]
+date = "1944-07-09"
+
+[person.death]
+date = "2018-09-12"
+
+[person.burial]
+cemetery.name = "St. Francis de Sales Cemetery #2"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Houma"
+
+[[person.education]]
+school.name = "St. Francis de Sales HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Houma"

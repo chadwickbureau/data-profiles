@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201806_Schoendienst"
+
+[[person.meta.citation]]
+title = "Schrader Funeral Home"
+date = "2018-06-09"
+url = "http://www.schrader.com/obituary/red-schoendienst"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Schoendienst"
+use = "Red"
+given = "Albert Fred"
+
+[person.birth]
+date = "1923-02-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Germantown"
+
+[person.death]
+date = "2018-06-06"
+place.country = "US"
+place.state = "MO"
+place.city = "Town & Country"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

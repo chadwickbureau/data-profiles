@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "194900_Manlove"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1949-03-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-29"
+
+[person.name]
+last = "Manlove"
+use = "Abraham"
+given = "Abraham L."
+
+[person.birth]
+date = "1865-09-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "1949"

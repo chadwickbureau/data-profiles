@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190531_006"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Evening News 1915-09-03"
+pages = "2"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Bender"
+use = "Joseph"
+given = "Joseph"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Glen Lyon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "RF"

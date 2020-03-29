@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170219_148"
+
+[[person.meta.citation]]
+title = "Port Huron Times-Herald"
+date = "1922-01-20"
+pages = "11"
+
+[person.name]
+last = "Boyle"
+use = "George"
+given = "George"
+nick = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Port Huron"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Hamilton"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Alex_Harvey_Wayne"
+
+[person.name]
+last = "Alex"
+use = "Harvey"
+given = "Harvey Wayne"
+
+[person.birth]
+date = "1949-12-19"
+place.country = "US"
+place.state = "TX"
+place.city = "Yorktown"
+
+[person.death]
+date = "2013-03-06"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "76"
+weight = "220"
+
+[person.sameas]
+ssn = "463-68-8342"
+
+[[person.education]]
+school.name = "Yorktown High School"
+school.type = "secondary"
+dates = "/1959"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Victoria Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Texas Lutheran College"
+school.type = "college"

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201904_Picken"
+
+[[person.meta.citation]]
+title = "Hauser Weishaar Funeral Home"
+date = "2019-04-14"
+url = "https://www.hauserfh.com/obituaries/Robert-Bob-Picken?obId=4283478#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Picken"
+use = "Bob"
+given = "Robert Dale"
+
+[person.birth]
+date = "1930-11-22"
+place.country = "US"
+place.state = "IA"
+place.city = "Charles City"
+
+[person.death]
+date = "2019-04-07"
+place.country = "US"
+place.state = "IA"
+place.city = "Mason City"
+
+[person.burial]
+cemetery.name = "Oakwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Floyd"
+
+[[person.education]]
+school.name = "Floyd HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Floyd"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

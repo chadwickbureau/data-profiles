@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201410_Segovia"
+
+[[person.meta.citation]]
+title = "Mission Mortuary"
+date = "2014-10-08"
+url = "http://www.missionmortuary.com/obituaries/Laurence-Segovia-Jr/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-08"
+
+[person.name]
+last = "Segovia"
+use = "Larry"
+given = "Laurence"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-11-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Monterey"
+
+[person.death]
+date = "2014-10-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Pacific Grove"
+
+[person.burial]
+cemetery.name = "Monterey City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Monterey"

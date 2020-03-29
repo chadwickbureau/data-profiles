@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202002_LeBlanc"
+
+[[person.meta.citation]]
+title = "Monadnock Ledger-Transcript"
+date = "2020-02-11"
+url = "https://www.legacy.com/obituaries/ledgertranscript/obituary.aspx?n=joseph-ambrose-le-blanc&pid=195361310&fhid=4810"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Le Blanc"
+use = "Joe"
+given = "Joseph Ambrose"
+suffix = "Jr."
+nick = "Sonny"
+
+[person.birth]
+date = "1933-03-31"
+place.country = "US"
+place.state = "NY"
+place.city = "Queens"
+
+[person.death]
+date = "2020-02-03"
+place.country = "US"
+place.state = "NH"
+place.city = "Greenfield"

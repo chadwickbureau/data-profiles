@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201910_Kaneda"
+
+[[person.meta.citation]]
+title = "Japan Times"
+date = "2019-10-06"
+url = "https://www.japantimes.co.jp/sports/2019/10/06/baseball/japanese-baseball/japans-time-wins-leader-masaichi-kaneda-dies-86/#.XZujbkZKhPY"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Kaneda"
+use = "Masaichi"
+given = "Masaichi"
+
+[person.death]
+date = "2019-10-06"
+place.country = "JP"
+place.city = "Tokyo"

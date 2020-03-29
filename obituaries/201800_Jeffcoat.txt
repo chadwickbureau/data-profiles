@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201800_Jeffcoat"
+
+[[person.meta.citation]]
+title = "Union Times"
+date = "2018-07-13"
+url = "http://www.legacy.com/obituaries/uniondailytimes/obituary.aspx?n=larry-jeffcoat&pid=189586428&fhid=8957&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-15"
+
+[person.name]
+last = "Jeffcoat"
+use = "Larry"
+given = "Larry Leroy"
+
+[person.birth]
+date = "1952-09-15"
+place.country = "US"
+place.state = "SC"
+place.city = "Union"
+
+[person.death]
+date = "2018"
+
+[[person.education]]
+school.name = "Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Union"
+
+[[person.education]]
+school.name = "Spartanburg Methodist College"
+school.type = "college"

@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "20170219_160"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1918-08-18"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1918-06-13"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lafayette (IN) Journal and Courier"
+date = "1921-04-20"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1921-09-05"
+pages = "8"
+
+[person.name]
+last = "Oakes"
+use = "Fred"
+given = "Fred"
+nick = "Rabbit"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Albany/Reading"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Binghamton"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "New London"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Pittsfield"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Flint"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"

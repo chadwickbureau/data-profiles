@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Barry_Malcolm_F"
+
+[person.name]
+last = "Barry"
+use = "Mal"
+given = "Malcolm F."
+
+[person.birth]
+date = "1893-06-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Brockton"
+
+[person.death]
+date = "1960-04-06"
+place.country = "US"
+place.state = "MA"
+place.city = "Brockton"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "72"
+weight = "162"
+note = [ "Went to spring training with New York (AL) in 1913" ]
+
+[[person.military]]
+country = "US"
+dates = "1918/1918"

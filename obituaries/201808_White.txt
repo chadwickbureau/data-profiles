@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201808_White"
+
+[[person.meta.citation]]
+title = "Orange County Register"
+date = "2018-08-04"
+url = "https://www.ocregister.com/2018/08/04/myron-white-all-time-orange-county-football-great-dead-at-61/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "White"
+use = "Myron"
+given = "Myron"
+
+[person.death]
+date = "2018-08-04"
+
+[[person.education]]
+school.name = "Santa Ana Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Ana"

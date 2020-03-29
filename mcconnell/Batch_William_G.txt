@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "Batch_William_G"
+
+[person.name]
+last = "Batch"
+use = "William"
+given = "William G."
+
+[person.description]
+bats = "R"
+throws = "R"

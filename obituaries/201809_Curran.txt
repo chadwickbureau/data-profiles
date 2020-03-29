@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201809_Curran"
+
+[[person.meta.citation]]
+title = "Ortmann-Stipanovich Funeral Home"
+date = "2018-10-05"
+url = "http://www.osfuneralhomes.com/obituary/edmund-curran"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Curran"
+use = "Ed"
+given = "Edmund J."
+
+[person.birth]
+date = "1948-09-16"
+
+[person.death]
+date = "2018-09-19"
+
+[[person.education]]
+school.name = "St. Louis University HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"

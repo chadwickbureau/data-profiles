@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201900_Turpen"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2019-03-13"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=wallace-r-turpen&pid=191812861"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Turpen"
+use = "Wally"
+given = "Wallace R."
+
+[person.death]
+date = "2019"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

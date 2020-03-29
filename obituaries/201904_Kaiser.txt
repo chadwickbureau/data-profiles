@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kaiser"
+
+[[person.meta.citation]]
+title = "Schaetter Funeral Home"
+date = "2019-04-28"
+url = "https://www.schaetter.com/obituary/joseph-joe-kaiser"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-28"
+
+[person.name]
+last = "Kaiser"
+use = "Joe"
+given = "Joseph Douglas"
+
+[person.birth]
+date = "1938-12-21"
+place.country = "US"
+place.state = "TX"
+place.city = "Fredericksburg"
+
+[person.death]
+date = "2019-04-23"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.burial]
+cemetery.name = "St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fredericksburg"
+
+[[person.education]]
+school.name = "St. Mary’s Catholic School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Fredericksburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

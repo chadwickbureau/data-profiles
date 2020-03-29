@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_Pipak"
+
+[[person.meta.citation]]
+title = "Rader Funeral Home"
+date = "2019-02-04"
+url = "https://www.raderfh.com/obituaries/Joseph-Pipak/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Pipak"
+use = "Joe"
+given = "Joseph R."
+suffix = "Sr."
+
+[person.birth]
+date = "1928-04-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Latrobe"
+
+[person.death]
+date = "2019-01-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Longview"
+
+[person.burial]
+cemetery.name = "Rosewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Longview"
+
+[[person.military]]
+country = "US"
+branch = "Army"

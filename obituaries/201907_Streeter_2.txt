@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201907_Streeter_2"
+
+[[person.meta.citation]]
+title = "Modesto Bee"
+date = "2019-07-07"
+url = "https://www.legacy.com/obituaries/modestobee/obituary.aspx?n=gerald-streeter&pid=193323089&fhid=18471"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Streeter"
+use = "Jerry"
+given = "Gerald Monroe"
+
+[person.birth]
+date = "1931-09-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Modesto"
+
+[person.death]
+date = "2019-07-05"

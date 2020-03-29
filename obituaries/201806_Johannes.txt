@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201806_Johannes"
+
+[[person.meta.citation]]
+title = "Gainesville Sun"
+date = "2018-07-03"
+url = "http://www.legacy.com/obituaries/gainesville/obituary.aspx?page=lifestory&pid=189450020"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Johannes"
+use = "Todd"
+given = "Todd Michael"
+
+[person.death]
+date = "2018-06-17"
+place.country = "GT"
+place.city = "Antigua"
+
+[[person.education]]
+school.name = "University of Florida"
+school.type = "college"

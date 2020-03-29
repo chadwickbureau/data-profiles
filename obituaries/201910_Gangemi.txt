@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201910_Gangemi"
+
+[[person.meta.citation]]
+title = "Dusckas Funeral Home"
+date = "2019-11-02"
+url = "http://dusckasfuneralhome.com/obits/2019/11/gan.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Gangemi"
+use = "Paul"
+given = "Paul L."
+
+[person.birth]
+date = "1925-04-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Kane"
+
+[person.death]
+date = "2019-10-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.burial]
+cemetery.name = "Wintergreen Gorge Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Erie"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

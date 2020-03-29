@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202001_Hallgren"
+
+[[person.meta.citation]]
+title = "Vancouver Sun"
+date = "2020-01-18"
+url = "https://vancouversunandprovince.remembering.ca/obituary/arnold-hallgren-1078283140"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Hallgren"
+use = "Arnie"
+given = "Arnold Robert"
+
+[person.death]
+date = "2020-01-14"
+place.country = "CA"
+place.state = "BC"
+place.city = "Vancouver"
+
+[person.burial]
+cemetery.name = "Buck Creek Community Cemetery"
+cemetery.place.country = "CA"
+cemetery.place.state = "AB"
+cemetery.place.city = "Buck Creek"
+
+[[person.education]]
+school.name = "King Edward HS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "BC"
+school.place.city = "Vancouver"

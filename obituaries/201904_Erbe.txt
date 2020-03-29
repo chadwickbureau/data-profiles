@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201904_Erbe"
+
+[[person.meta.citation]]
+title = "C. H. Landers Funeral Home"
+date = "2019-04-14"
+url = "https://landersfh.com/tribute/details/1478/David-Erbe/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Erbe"
+use = "David"
+given = "David Dean"
+
+[person.birth]
+date = "1945-03-14"
+place.country = "US"
+place.state = "NY"
+place.city = "Cooperstown"
+
+[person.death]
+date = "2019-04-08"
+
+[[person.education]]
+school.name = "Oneonta HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Oneonta"

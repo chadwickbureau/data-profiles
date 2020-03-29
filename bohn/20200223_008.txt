@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_008"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1922-08-07"
+
+[person.name]
+last = "Fiddler"
+use = "Art"
+given = "Art"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fargo"
+team.league.name = "Dakota League"

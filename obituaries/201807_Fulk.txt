@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201807_Fulk"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-07-20"
+url = "https://www.dignitymemorial.com/obituaries/schaefferstown-pa/william-fulk-7936138"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Fulk"
+use = "Bill"
+given = "William Edwin"
+
+[person.birth]
+date = "1940-10-09"
+place.country = "US"
+place.state = "VA"
+place.city = "Harrisonburg"
+
+[person.death]
+date = "2018-07-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Lebanon"
+
+[[person.education]]
+school.name = "West Chester University"
+school.type = "college"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_033"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-06-27"
+pages = "2"
+
+[person.name]
+last = "Barney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"

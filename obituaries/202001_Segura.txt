@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "202001_Segura"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2020-01-13"
+url = "https://www.espn.com/espn/wire?section=mlb&id=28476878"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-13"
+
+[person.name]
+last = "Segura"
+use = "Fausto"
+given = "Fausto"
+
+[person.death]
+date = "2020-01-11"
+place.country = "DO"
+place.city = "Barahona"

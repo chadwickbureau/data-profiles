@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201911_Wilkie"
+
+[[person.meta.citation]]
+title = "Gazette.com"
+date = "2019-11-23"
+url = "https://gazette.com/sports/travis-wilkie-air-force-baseball-player-and-graduate-dies-in/article_5b110f0c-0da2-11ea-9a2d-2744ec029255.html?fbclid=IwAR1rNxz5ULy8DUX3y_56DBQRz-AN-9AtlG8waBwZU4Kuyt8LRZ49GquqPMw"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-24"
+
+[person.name]
+last = "Wilkie"
+use = "Travis"
+given = "Travis"
+
+[person.death]
+date = "2019-11-21"
+place.country = "US"
+place.state = "OK"
+place.city = "Enid"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

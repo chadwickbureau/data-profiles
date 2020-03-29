@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170219_004"
+
+[[person.meta.citation]]
+title = "TSN"
+date = "1933-01-05"
+pages = "6"
+
+[person.name]
+last = "Sprague"
+use = "Cliff"
+given = "Cliff"
+
+[person.death]
+date = "1932-07-10"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Davenport"
+team.league.name = "Missouri Valley League"

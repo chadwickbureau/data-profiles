@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201907_Spain"
+
+[[person.meta.citation]]
+title = "Dawson-Wikoff Funeral Home"
+date = "2019-07-08"
+url = "http://www.dawson-wikoff.com/obituaries/Donald--Spain?obId=4751989#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Spain"
+use = "Don"
+given = "Donald C."
+
+[person.birth]
+date = "1948-03-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2019-07-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Mount Zion"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201407_Stein"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News/San Mateo County Times"
+date = "2014-07-12"
+url = "http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Melvin-Stein&pid=171691631"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-13"
+
+[person.name]
+last = "Stein"
+use = "Mel"
+given = "Melvin R."
+
+[person.birth]
+date = "1927-01-03"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2014-07-05"
+place.country = "US"
+place.state = "CA"
+place.city = "San Jose"
+
+[[person.education]]
+school.name = "Napa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Napa"
+
+[[person.education]]
+school.name = "San Jose State"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

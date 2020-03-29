@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201409_Wasylczak"
+
+[[person.meta.citation]]
+title = "Tribune-Democrat"
+date = "2014-09-24"
+url = "http://www.tribdem.com/obituaries/article_52e7447a-4428-11e4-a8f5-fbcc3651b995.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-30"
+
+[person.name]
+last = "Wasylczak"
+use = "Ron"
+given = "Ronald S."
+
+[person.birth]
+date = "1940-05-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Coal Junction"
+
+[person.death]
+date = "2014-09-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[[person.education]]
+school.name = "Jenner Boswell Joint HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Boswell"

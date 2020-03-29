@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201405_Herrera"
+
+[[person.meta.citation]]
+title = "Inside Bay Area"
+date = "2014-05-20"
+url = "http://www.legacy.com/obituaries/insidebayarea/obituary.aspx?n=Henry-Herrera&pid=171071081"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-20"
+
+[person.name]
+last = "Herrera"
+use = "Rick"
+given = "Henry"
+
+[person.birth]
+date = "1934-08-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2014-05-13"
+
+[[person.education]]
+school.name = "Oakland Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

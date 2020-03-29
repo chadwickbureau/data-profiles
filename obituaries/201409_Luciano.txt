@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201409_Luciano"
+
+[[person.meta.citation]]
+title = "Connecticut Post"
+date = "2014-09-17"
+url = "http://www.legacy.com/obituaries/ctpost/obituary.aspx?n=Fred-Luciano&pid=172480340"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-17"
+
+[person.name]
+last = "Luciano"
+use = "Fritz"
+given = "Fred J."
+
+[person.birth]
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.death]
+date = "2014-09-15"
+
+[person.burial]
+cemetery.name = "St. Michael's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Stratford"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Bridgeport"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

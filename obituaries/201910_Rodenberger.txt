@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201910_Rodenberger"
+
+[[person.meta.citation]]
+title = "Dudley Hoffman Funeral Home"
+date = "2019-10-23"
+url = "https://www.dudleyhoffmanmortuary.com/obituaries/Rod-Rodenberger?obId=8325770#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-23"
+
+[person.name]
+last = "Rodenberger"
+use = "Rod"
+given = "Rod"
+
+[person.birth]
+date = "1929-01-17"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-10-18"
+
+[[person.education]]
+school.name = "Balboa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

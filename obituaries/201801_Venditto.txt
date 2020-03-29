@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201801_Venditto"
+
+[[person.meta.citation]]
+title = "Brooks Funeral Home"
+date = "2018-07-17"
+url = "http://www.brooksfuneralhomeandcrematory.com/obitlink?obit_id=2066412"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Venditto"
+use = "Al"
+given = "Alfred Stephen"
+
+[person.birth]
+date = "1925-12-26"
+place.country = "US"
+place.state = "RI"
+place.city = "Cranston"
+
+[person.death]
+date = "2018-01-28"
+place.country = "US"
+place.state = "NC"
+place.city = "Newport"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

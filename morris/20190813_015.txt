@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190813_015"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch 1915-07-07"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Breen"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201906_Jancich"
+
+[[person.meta.citation]]
+title = "The Times"
+date = "2019-06-11"
+url = "https://www.legacy.com/obituaries/nwitimes/obituary.aspx?n=gregory-joseph-jancich&pid=193109356&fhid=24898"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-11"
+
+[person.name]
+last = "Jancich"
+use = "Greg"
+given = "Gregory Joseph"
+
+[person.birth]
+date = "1936-04-25"
+
+[person.death]
+date = "2019-06-04"
+place.country = "US"
+place.state = "IN"
+place.city = "Dyer"
+
+[[person.education]]
+school.name = "Whiting HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Whiting"
+
+[[person.education]]
+school.name = "St. Joseph's College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Rensselaer"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

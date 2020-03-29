@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Giordano"
+
+[[person.meta.citation]]
+title = "APNews.com"
+date = "2019-02-15"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-15"
+
+[person.name]
+last = "Giordano"
+use = "Tommy"
+given = "Tommy"
+nick = "T-bone"
+
+[person.birth]
+date = "1925-10-09"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2019-02-14"
+place.country = "US"
+place.state = "FL"
+place.city = "Orlando"

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201812_Baum"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-12-20"
+url = "https://www.dignitymemorial.com/obituaries/colorado-city-tx/jim-baum-8091205"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Baum"
+use = "Jim"
+given = "Jim"
+
+[person.birth]
+date = "1936-09-25"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.death]
+date = "2018-12-16"

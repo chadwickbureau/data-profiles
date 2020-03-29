@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201312_Lund"
+
+[[person.meta.citation]]
+title = "MGoBlue.com"
+date = "2013-12-10"
+url = "http://www.mgoblue.com/genrel/121013aab.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-10"
+
+[person.name]
+last = "Lund"
+use = "Don"
+given = "Don"
+
+[person.birth]
+date = "1923-05-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2013-12-10"
+
+[[person.education]]
+school.name = "Southeastern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+[[person.education]]
+school.name = "Michigan"
+school.type = "college"

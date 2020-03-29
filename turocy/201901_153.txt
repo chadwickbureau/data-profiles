@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_153"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Waner"
+use = "Travea"
+given = "Travea"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "20"

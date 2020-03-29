@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201809_Hunnicutt"
+
+[[person.meta.citation]]
+title = "Thos. Shephard & Son Funeral Home"
+date = "2018-09-20"
+url = "https://www.thosshepherd.com/obituary/mr-charles-dewey-hunnicutt/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-20"
+
+[person.name]
+last = "Hunnicutt"
+use = "Dewey"
+given = "Charles Dewey"
+
+[person.birth]
+place.country = "US"
+place.state = "NC"
+place.city = "Henderson County"
+
+[person.death]
+date = "2018-09-14"
+
+[person.burial]
+cemetery.name = "Shepherd Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Naples"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

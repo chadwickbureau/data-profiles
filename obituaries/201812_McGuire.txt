@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201812_McGuire"
+
+[[person.meta.citation]]
+title = "Graham Funeral Home"
+date = "2020-01-27"
+url = "https://www.rwgrahamfuneralhome.com/obituary/RichardMick-McGuire"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "McGuire"
+use = "Richard"
+given = "Richard James"
+nick = "Mick"
+
+[person.birth]
+date = "1931-12-11"
+place.country = "US"
+place.state = "MA"
+place.city = "South Hadley"
+
+[person.death]
+date = "2018-12-28"
+place.country = "US"
+place.state = "MA"
+place.city = "Northampton"
+
+[person.burial]
+cemetery.name = "Brookside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Easthampton"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "South Hadley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "South Hadley"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"

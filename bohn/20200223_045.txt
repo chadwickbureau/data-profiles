@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_045"
+
+[[person.meta.citation]]
+title = "(Aberdeen) Northwest Square Deal"
+date = "1920-07-22"
+
+[person.name]
+last = "Meir"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Aberdeen"
+team.league.name = "South Dakota League"

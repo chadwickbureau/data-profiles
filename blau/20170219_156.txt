@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170219_156"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[person.name]
+last = "Bates"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+description.throws = "R"

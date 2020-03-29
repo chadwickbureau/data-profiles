@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201906_Nipple"
+
+[[person.meta.citation]]
+title = "D.L. Newcomer Funeral Home"
+date = "2019-06-25"
+url = "https://www.dlnewcomerfuneralhome.com/notices/Thomas-Nipple"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-25"
+
+[person.name]
+last = "Nipple"
+use = "Tom"
+given = "Thomas R."
+
+[person.birth]
+date = "1960-07-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Monroe"
+
+[person.death]
+date = "2019-06-18"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Brodhead"
+
+[[person.education]]
+school.name = "Brodhead HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Brodhead"
+
+[[person.education]]
+school.name = "University of Wisconsin-Platteville"
+school.type = "college"

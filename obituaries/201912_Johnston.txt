@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201912_Johnston"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-12-18"
+url = "https://www.latimes.com/sports/usc/story/2019-12-18/rex-johnston-usc-football-baseball-nfl-mlb-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Johnston"
+use = "Rex"
+given = "Rex"
+
+[person.death]
+date = "2019-12-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.sameas]
+sr_nfl = "JohnRe01"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"

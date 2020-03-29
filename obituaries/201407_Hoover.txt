@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201407_Hoover"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2014-07-19"
+url = "http://www.fresnobee.com/2014/07/19/4031837/former-fresno-state-baseball-ace.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Hoover"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2014-07-08"
+
+[[person.education]]
+school.name = "Fresno HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fresno"
+
+[[person.education]]
+school.name = "California State University Fresno"
+school.type = "college"

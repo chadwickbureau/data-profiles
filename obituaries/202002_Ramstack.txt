@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202002_Ramstack"
+
+[[person.meta.citation]]
+title = "Schmidt & Bartelt Funeral Home"
+date = "2020-03-10"
+url = "https://www.schmidtandbartelt.com/obituaries/detail.aspx?id=13516"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Ramstack"
+use = "Curt"
+given = "Curtis Paul"
+nick = "Kook"
+
+[person.birth]
+date = "1951-09-01"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2020-02-24"

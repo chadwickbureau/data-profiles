@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200319_009"
+
+[[person.meta.citation]]
+title = "Brenham Daily Banner-Press"
+date = "1915-06-03"
+pages = "4"
+
+[person.name]
+last = "Gordon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Durant"
+team.league.name = "Texas-Oklahoma League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Middle Texas League"

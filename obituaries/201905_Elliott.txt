@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201905_Elliott"
+
+[[person.meta.citation]]
+title = "Koschek and Porter Funeral Home"
+date = "2020-01-08"
+url = "https://koschekandporterfuneralhome.com/tribute/details/724/William-Elliott/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-08"
+
+[person.name]
+last = "Elliott"
+use = "Bill"
+given = "William E."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Beverly"
+
+[person.death]
+date = "2019-05-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "Mount Holly"
+
+[person.burial]
+cemetery.name = "Holy Assumption Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Florence"
+
+[[person.education]]
+school.name = "Florence Township Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Florence"

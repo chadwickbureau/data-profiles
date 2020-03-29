@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201811_Marchelli"
+
+[[person.meta.citation]]
+title = "Campbell Funeral Home"
+date = "2018-12-09"
+url = "http://www.campbellfuneral.com/obituaries/Frank-Ronald-Marchelli?obId=3839078#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Marchelli"
+use = "Frank"
+given = "Frank Ronald"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-08-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Beverly"
+
+[person.death]
+date = "2018-11-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Beverly"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

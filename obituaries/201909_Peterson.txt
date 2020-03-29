@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Peterson"
+
+[[person.meta.citation]]
+title = "Miles Funeral Home"
+date = "2019-09-23"
+url = "https://www.milesfuneralhome.com/obituaries/Ronald-Peterson-13/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-23"
+
+[person.name]
+last = "Peterson"
+use = "Ronald"
+given = "Ronald G."
+
+[person.birth]
+date = "1932-02-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2019-09-14"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Worcester"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

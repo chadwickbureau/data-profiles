@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "201901_184"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Griggs"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201910_Taylor_Francis"
+
+[[person.meta.citation]]
+title = "Woodbridge Funeral Home"
+date = "2019-10-14"
+url = "https://woodridgefuneralhome.com/tribute/details/23178/Francis-Taylor-Sr/obituary.html#content-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Taylor"
+use = "Francis"
+given = "Francis Alvin"
+suffix = "Sr."
+nick = "Boogie"
+
+[person.birth]
+date = "1934-05-03"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[person.death]
+date = "2019-10-11"
+
+[person.burial]
+cemetery.name = "Woodbridge Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Lexington"
+
+[[person.military]]
+country = "US"
+branch = "Army"

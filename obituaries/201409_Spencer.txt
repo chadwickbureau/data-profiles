@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201409_Spencer"
+
+[[person.meta.citation]]
+title = "Columbus Dispatch"
+date = "2014-09-14"
+url = "http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=George-Spencer&pid=172441579"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-22"
+
+[person.name]
+last = "Spencer"
+use = "George"
+given = "George E."
+
+[person.birth]
+date = "1926-07-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Bexley"
+
+[person.death]
+date = "2014-09-10"
+
+[[person.education]]
+school.name = "Bexley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Bexley"
+
+[[person.education]]
+school.name = "The Ohio State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

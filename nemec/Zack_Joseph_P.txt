@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "Zack_Joseph_P"
+
+[person.name]
+last = "Zack"
+use = "Joe"
+given = "Joseph P."
+
+[person.birth]
+date = "1922-03-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Jenners"
+
+[person.death]
+date = "2009-07-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"
+
+[person.sameas]
+ssn = "288-16-9009"
+
+[[person.alias]]
+name.last = "Zaklukiewicz"
+name.use = "Joseph"
+name.given = "Joseph P."
+type = "birth"
+
+
+[[person.resides]]
+dates = "1949"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+place.address = "1002 Franklin Ave."
+
+
+[[person.education]]
+school.name = "South High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Youngstown"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+
+[[person.playing]]
+season = "1946"
+league.name = "Carolina League"
+splits.0.team.name = "Winston-Salem"
+splits.1.team.name = "Danville"
+totals.F_POS = "3B-OF"
+totals.B_G = "111"
+totals.B_AB = "428"
+totals.B_R = "63"
+totals.B_H = "147"
+totals.B_TB = "195"
+totals.B_2B = "21"
+totals.B_3B = "6"
+totals.B_HR = "5"
+totals.B_RBI = "69"
+totals.B_SB = "3"
+totals.B_AVG = ".343"
+
+[[person.playing]]
+season = "1947"
+status = "Voluntarily retired"
+
+[[person.playing]]
+season = "1948"
+league.name = "Inter-State League"
+splits.0.team.name = "Lancaster"
+totals.F_POS = "3B-OF"
+totals.B_G = "116"
+totals.B_AB = "380"
+totals.B_R = "56"
+totals.B_H = "115"
+totals.B_TB = "148"
+totals.B_2B = "20"
+totals.B_3B = "5"
+totals.B_HR = "1"
+totals.B_RBI = "47"
+totals.B_SB = "0"
+totals.B_AVG = ".303"
+
+[[person.playing]]
+season = "1949"
+league.name = "Colonial League"
+splits.0.team.name = "Poughkeepsie"
+totals.F_POS = "3B_OF"
+totals.B_G = "118"
+totals.B_AB = "427"
+totals.B_R = "73"
+totals.B_H = "118"
+totals.B_TB = "153"
+totals.B_2B = "13"
+totals.B_3B = "5"
+totals.B_HR = "4"
+totals.B_RBI = "60"
+totals.B_SB = "17"
+totals.B_AVG = ".276"

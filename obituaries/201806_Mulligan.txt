@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201806_Mulligan"
+
+[[person.meta.citation]]
+title = "Crandall Funeral Home"
+date = "2019-01-30"
+url = "https://www.crandallfuneral.com/obituary/james-mulligan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-30"
+
+[person.name]
+last = "Mulligan"
+use = "James"
+given = "James H."
+
+[person.birth]
+date = "1933-04-30"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2018-06-05"
+
+[person.burial]
+cemetery.name = "St. Andrew Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Verona"
+
+[[person.education]]
+school.name = "Detroit Catholic Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

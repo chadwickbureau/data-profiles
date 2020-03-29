@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_115"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1926-04-22"
+pages = "2"
+
+[person.name]
+last = "Zienke"
+use = "Clarence"
+given = "Clarence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Pocatello"
+team.league.name = "Utah-Idaho League"

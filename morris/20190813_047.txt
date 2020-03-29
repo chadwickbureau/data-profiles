@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190813_047"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle 1921-04-19"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Cleveland"
+use = "Barney"
+given = "Barney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Enid"
+team.league.name = "Western Association"

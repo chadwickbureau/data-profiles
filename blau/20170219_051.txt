@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170219_051"
+
+[[person.meta.citation]]
+title = "Rock Island Argus"
+date = "1920-04-09"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Jones"
+use = "Howie"
+given = "Howie"
+
+[[person.resides]]
+dates = "1920"
+place.country = "US"
+place.state = "PA"
+place.city = "Erwin"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"

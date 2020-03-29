@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200326_009"
+
+[[person.meta.citation]]
+title = "Temple Daily Telegram"
+date = "1915-06-08"
+pages = "5"
+
+[person.name]
+last = "Showers"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"

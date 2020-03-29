@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201911_DePalo"
+
+[[person.meta.citation]]
+title = "Journal News"
+date = "2019-11-20"
+url = "https://obits.lohud.com/obituaries/lohud/obituary.aspx?n=john-depalo-jack&pid=194499737&fhid=27161#_ga=2.203684560.1739663232.1574261625-1850536735.1561646313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-20"
+
+[person.name]
+last = "DePalo"
+use = "Jack"
+given = "John"
+
+[person.birth]
+date = "1938-03-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Westchester County"
+
+[person.death]
+date = "2019-11-14"
+
+[person.burial]
+cemetery.name = "Mount Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "White Plains"
+
+[[person.education]]
+school.name = "Archbishop Stepinac HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "White Plains"
+
+[[person.education]]
+school.name = "New York University"
+school.type = "college"

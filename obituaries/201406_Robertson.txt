@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201406_Robertson"
+
+[[person.meta.citation]]
+title = "Virginian Pilot"
+date = "2014-06-18"
+url = "http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=Donald-Robertson&pid=171391995"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-15"
+
+[person.name]
+last = "Robertson"
+use = "Don"
+given = "Donald Elliott"
+suffix = "Sr."
+
+[person.birth]
+date = "1929-12-25"
+place.country = "US"
+place.state = "NC"
+place.city = "Goldsboro"
+
+[person.death]
+date = "2014-06-17"
+place.country = "US"
+place.state = "VA"
+place.city = "Virginia Beach"
+
+[[person.education]]
+school.name = "Woodrow Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Portsmouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

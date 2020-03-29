@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201910_Butler"
+
+[[person.meta.citation]]
+title = "Clark Funeral Home"
+date = "2019-11-05"
+url = "https://www.samclarkfuneralhome.com/notices/Cecil-Butler?fbclid=IwAR0Ii4eTxZf61pLnZdqVUVu6hqfDfsEGgMEcR4sogFxXY4CPox2jWJYBvM0"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-05"
+
+[person.name]
+last = "Butler"
+use = "Cecil"
+given = "Cecil Dean"
+
+[person.birth]
+date = "1936-10-23"
+
+[person.death]
+date = "2019-10-02"
+
+[person.burial]
+cemetery.name = "Paulding Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Hiram"

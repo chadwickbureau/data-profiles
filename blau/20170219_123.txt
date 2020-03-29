@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170219_123"
+
+[[person.meta.citation]]
+title = "Richmond Item"
+date = "1930-05-01"
+pages = "13"
+
+[person.name]
+last = "Davis"
+use = "Lester"
+given = "Lester"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Richmond"
+team.league.name = "Central League"
+description.bats = "R"
+description.throws = "R"
+description.height = "74"

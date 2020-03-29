@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201906_Kedzierski"
+
+[[person.meta.citation]]
+title = "Spezzi Funeral Home"
+date = "2019-06-12"
+url = "https://www.spezzifuneralhome.com/memorials/leo-kedzierski/3872972/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-12"
+
+[person.name]
+last = "Kedzierski"
+use = "Leo"
+given = "Leo"
+
+[person.birth]
+date = "1929-06-20"
+place.country = "US"
+place.state = "NJ"
+place.city = "South Amboy"
+
+[person.death]
+date = "2019-06-10"
+place.country = "US"
+place.state = "NJ"
+place.city = "South Amboy"
+
+[person.burial]
+cemetery.name = "St. Mary’s Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "South Amboy"
+
+[[person.military]]
+country = "US"
+branch = "Army"

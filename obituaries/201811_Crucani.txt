@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201811_Crucani"
+
+[[person.meta.citation]]
+title = "Bradshaw Funeral Home"
+date = "2018-11-26"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=24676db3-7581-4b76-9dd3-fc5aff8009cb&CFTOKEN=0&o_id=5597167&fh_id=14110"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Crucani"
+use = "Gerald"
+given = "Gerald Floyd"
+
+[person.birth]
+date = "1933-10-25"
+place.country = "US"
+place.state = "KS"
+place.city = "Topeka"
+
+[person.death]
+date = "2018-11-22"
+place.country = "US"
+place.state = "AR"
+place.city = "Jonesboro"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

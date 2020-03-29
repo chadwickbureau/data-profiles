@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "197409_Wasco"
+
+[[person.meta.citation]]
+title = "Times-Leader"
+date = "1974-09-20"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-28"
+
+[person.name]
+last = "Wasco"
+use = "Julian"
+given = "Julian"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Kingston"
+
+[person.death]
+date = "1974-09-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilkes-Barre"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Hanover Township"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

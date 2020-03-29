@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201811_Mota"
+
+[[person.meta.citation]]
+title = "Atlanta Journal-Constitution"
+date = "2018-11-07"
+url = "https://www.myajc.com/sports/jose-mota-long-time-coach-braves-organization-dies/FEpfDwfMGMrvUswAyE7MeO/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-07"
+
+[person.name]
+last = "Mota"
+use = "Jose"
+given = "Jose"
+
+[person.death]
+date = "2018-11-06"
+place.country = "DO"

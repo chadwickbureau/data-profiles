@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201807_Robertson"
+
+[[person.meta.citation]]
+title = "Goff Mortuary"
+date = "2018-08-01"
+url = "https://www.goffmortuary.com/notices/DarylSonny-Robertson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Robertson"
+use = "Daryl"
+given = "Daryl"
+nick = "Sonny"
+
+[person.birth]
+date = "1936-01-05"
+place.country = "US"
+place.state = "CO"
+place.city = "Cripple Creek"
+
+[person.death]
+date = "2018-07-31"
+place.country = "US"
+place.state = "UT"
+place.city = "Salt Lake City"
+
+[[person.education]]
+school.name = "Bingham HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "South Jordan"

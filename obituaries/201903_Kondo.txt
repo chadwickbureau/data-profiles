@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201903_Kondo"
+
+[[person.meta.citation]]
+title = "NikkanSports.com"
+date = "2019-03-27"
+url = "https://www.nikkansports.com/baseball/news/201903270000274.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Kondo"
+use = "Akihito"
+given = "Akihito"
+
+[person.birth]
+date = "1938-04-01"
+place.country = "JP"
+place.state = "Kanagawa Prefecture"
+
+[person.death]
+date = "2019-03-27"
+place.country = "JP"
+place.state = "Kanagawa Prefecture"

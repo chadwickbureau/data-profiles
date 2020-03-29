@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201408_Quigley"
+
+[[person.meta.citation]]
+title = "Roberts Funeral Homes"
+date = "2014-08-23"
+url = "http://www.robertsfuneralhomes.com/tribute/details/10051/James_Arthur_Quigley/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Quigley"
+use = "Jim"
+given = "James Arthur"
+
+[person.birth]
+date = "1936-09-11"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2014-08-20"
+
+[[person.education]]
+school.name = "Portland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Portland"

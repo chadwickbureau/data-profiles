@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201808_Pote"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2018-08-24"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=phillip-m-pote&pid=190023095"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-24"
+
+[person.name]
+last = "Pote"
+use = "Phil"
+given = "Phillip M."
+
+[person.birth]
+date = "1933"
+
+[person.death]
+date = "2018-08-19"

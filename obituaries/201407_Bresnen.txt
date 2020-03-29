@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201407_Bresnen"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "2014-07-29"
+url = "http://www.legacy.com/obituaries/cincinnati/obituary.aspx?n=robert-j-bresnen-bob&pid=171888036&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-29"
+
+[person.name]
+last = "Bresnen"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+date = "1956-11-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "2014-07-28"
+place.country = "US"
+place.state = "OH"
+place.city = "Hamilton"
+
+[person.burial]
+cemetery.name = "Millville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Hamilton"
+
+[[person.education]]
+school.name = "Archbishop Moeller HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cincinnati"
+
+[[person.education]]
+school.name = "Miami University of Ohio"
+school.type = "college"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201403_Huff"
+
+[[person.meta.citation]]
+title = "Contra Costa Times"
+date = "2014-05-16"
+url = "http://www.legacy.com/obituaries/contracostatimes/obituary.aspx?n=James-Huff&pid=171035244"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Huff"
+use = "Jim"
+given = "James R."
+
+[person.birth]
+date = "1950-06-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Berkeley"
+
+[person.death]
+date = "2014-03-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Stockton"
+
+[[person.education]]
+school.name = "Del Valle HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Walnut Creek"
+
+[[person.education]]
+school.name = "University of California, Berkeley"
+school.type = "college"

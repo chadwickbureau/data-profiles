@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kennedy"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-05-01"
+url = "https://www.dignitymemorial.com/obituaries/knoxville-tn/richard-kennedy-8266400"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-01"
+
+[person.name]
+last = "Kennedy"
+use = "Dick"
+given = "Richard James"
+
+[person.birth]
+date = "1936-04-09"
+
+[person.death]
+date = "2019-04-26"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Knoxville"

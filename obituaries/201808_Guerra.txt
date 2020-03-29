@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201808_Guerra"
+
+[[person.meta.citation]]
+title = "Davis Funeral Home"
+date = "2018-08-21"
+url = "http://www.davisfuneralservices.com/memorialpage.asp?page=odetail&id=94726&locid=48"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Guerra"
+use = "Manny"
+given = "Manuel Richard"
+
+[person.birth]
+date = "1930-04-23"
+place.country = "US"
+place.state = "MN"
+place.city = "Crookston"
+
+[person.death]
+date = "2018-08-01"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

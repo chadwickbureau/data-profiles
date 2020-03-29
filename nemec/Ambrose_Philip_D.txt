@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "Ambrose_Philip_D"
+
+[person.name]
+last = "Ambrose"
+use = "Philip"
+given = "Philip D."
+
+[person.birth]
+date = "1927-08-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "Vineland"
+
+[person.death]
+date = "2011-08-12"
+place.country = "US"
+place.state = "NJ"
+place.city = "Vineland"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "160"
+
+[person.sameas]
+ssn = "153-20-0461"
+
+[[person.resides]]
+dates = "1950"
+place.country = "US"
+place.state = "NJ"
+place.city = "Vineland"
+place.address = "595 N. East Ave."
+
+
+[[person.education]]
+school.name = "Sacred Heart High School"
+school.type = "secondary"

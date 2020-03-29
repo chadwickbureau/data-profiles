@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201911_Coates"
+
+[[person.meta.citation]]
+title = "Currie Funeral Home"
+date = "2019-11-18"
+url = "https://curriefuneralhome.net/book-of-memories/4029337/Coates-James/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Coates"
+use = "Jim"
+given = "James Alton"
+suffix = "Sr."
+
+[person.birth]
+date = "1932-08-04"
+
+[person.death]
+date = "2019-11-15"
+
+[person.burial]
+cemetery.name = "Bethel United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Lively"

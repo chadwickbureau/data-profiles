@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "Adair_Richard_Charles"
+
+[person.name]
+last = "Adair"
+use = "Dick"
+given = "Richard Charles"
+
+[person.birth]
+date = "1929-10-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2011-07-10"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "77"
+weight = "215"
+
+[person.sameas]
+ssn = "199-16-4238"
+
+[[person.resides]]
+dates = "1953"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+place.address = "1838 E. Monmouth Street"
+
+
+[[person.education]]
+school.name = "Northeast High School"
+school.type = "secondary"
+dates = "/1946"
+degree = "graduated"
+
+[[person.education]]
+school.name = "La Salle College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1951"

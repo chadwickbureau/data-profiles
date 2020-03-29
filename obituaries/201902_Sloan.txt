@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201902_Sloan"
+
+[[person.meta.citation]]
+title = "Schooler Funeral Home"
+date = "2019-02-21"
+url = "https://www.schoolerfuneralhome.com/tributes/Bob-Sloan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-21"
+
+[person.name]
+last = "Sloan"
+use = "Bob"
+given = "Bob R."
+
+[person.birth]
+date = "1937-06-22"
+place.country = "US"
+place.state = "OK"
+place.city = "Stillwater"
+
+[person.death]
+date = "2019-02-19"
+place.country = "US"
+place.state = "TX"
+place.city = "Amarillo"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"

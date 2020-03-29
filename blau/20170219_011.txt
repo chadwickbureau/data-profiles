@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170219_011"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-05-08"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-11-22"
+pages = "13"
+
+[person.name]
+last = "Roche"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Denver"
+team.league.name = "Western League"

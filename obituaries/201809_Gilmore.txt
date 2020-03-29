@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201809_Gilmore"
+
+[[person.meta.citation]]
+title = "Roberts Funeral Home"
+date = "2018-10-03"
+url = "https://www.robertsfh.net/notices/John-GilmoreJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Gilmore"
+use = "John"
+given = "John William"
+suffix = "Jr."
+
+[person.birth]
+date = "1934-07-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Covington"
+
+[person.death]
+date = "2018-09-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Washington Court House"
+
+[person.burial]
+cemetery.name = "Fletcher Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Fletcher"
+
+[[person.education]]
+school.name = "Troy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Troy"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

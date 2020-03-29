@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201902_Wielansky"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-02-25"
+url = "https://www.dignitymemorial.com/obituaries/olivette-mo/norman-wielansky-8182986"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-25"
+
+[person.name]
+last = "Wielansky"
+use = "Norman"
+given = "Norman"
+
+[person.birth]
+date = "1931-03-23"
+
+[person.death]
+date = "2019-02-23"
+
+[person.burial]
+cemetery.name = "Chevra Kadisha Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "University City"

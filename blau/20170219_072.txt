@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170219_072"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-05-05"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-07-04"
+pages = "6"
+
+[person.name]
+last = "Beasley"
+use = "Gus"
+given = "Gus"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "FL"
+place.city = "Tampa"
+
+
+[[person.education]]
+school.name = "Army"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Lakeland"
+team.league.name = "Florida State League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "West Palm Beach"
+team.league.name = "Florida State League"

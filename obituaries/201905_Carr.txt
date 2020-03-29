@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201905_Carr"
+
+[[person.meta.citation]]
+title = "Carroway Funeral Home"
+date = "2019-05-22"
+url = "https://www.carrowayfuneralhome.com/obituary/donald-carr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-22"
+
+[person.name]
+last = "Carr"
+use = "Donald"
+given = "Donald Wayne"
+
+[person.birth]
+date = "1954-10-01"
+place.country = "US"
+place.state = "TX"
+place.city = "Lufkin"
+
+[person.death]
+date = "2019-05-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Lufkin"
+
+[person.burial]
+cemetery.name = "Garden of Memories Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Lufkin"
+
+[[person.education]]
+school.name = "Lufkin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Lufkin"
+
+[[person.education]]
+school.name = "San Jacinto College"
+school.type = "college"

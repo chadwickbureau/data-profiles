@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201906_Shively"
+
+[[person.meta.citation]]
+title = "E. Alvin Small Funeral Home"
+date = "2019-07-09"
+url = "https://www.ealvinsmall.com/notices/Jimmy-Shively"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-09"
+
+[person.name]
+last = "Shively"
+use = "Jimmy"
+given = "Jimmy Ollyen"
+
+[person.birth]
+date = "1937-01-30"
+place.country = "US"
+place.state = "VA"
+place.city = "Endicott"
+
+[person.death]
+date = "2019-06-30"

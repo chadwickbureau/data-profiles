@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "200907_Renollet"
+
+[[person.meta.citation]]
+title = "Oberlin-Turnball Funeral Home"
+date = "2019-10-24"
+url = "https://www.oberlinturnbull.com/notices/Irvin-Renollet"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-24"
+
+[person.name]
+last = "Renollet"
+use = "Irv"
+given = "Irvin D."
+
+[person.birth]
+date = "1926-07-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Paulding County"
+
+[person.death]
+date = "2009-07-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Defiance"
+
+[person.burial]
+cemetery.name = "Sherwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Sherwood"
+
+[[person.education]]
+school.name = "Paulding HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Paulding"

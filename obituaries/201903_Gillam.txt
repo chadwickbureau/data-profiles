@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201903_Gillam"
+
+[[person.meta.citation]]
+title = "Durango Herald"
+date = "2019-04-02"
+url = "http://obituaries.durangoherald.com/obituaries/durangoherald/obituary.aspx?n=earl-david-gillam&pid=192057907"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-03"
+
+[person.name]
+last = "Gillam"
+use = "Earl"
+given = "Earl David"
+suffix = "Jr."
+
+[person.birth]
+date = "1933-10-29"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2019-03-23"
+place.country = "US"
+place.state = "CO"
+place.city = "Durango"
+
+[[person.education]]
+school.name = "Russell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "East Point"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

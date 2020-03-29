@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201907_Maguire"
+
+[[person.meta.citation]]
+title = "John E. Day Funeral Home"
+date = "2019-07-22"
+url = "https://www.johnedayfuneralhome.com/tributes/Francis-Maguire"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-22"
+
+[person.name]
+last = "Maguire"
+use = "Frank"
+given = "Francis Joseph"
+
+[person.birth]
+date = "1926-03-30"
+
+[person.death]
+date = "2019-07-16"

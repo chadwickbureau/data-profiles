@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201908_Martinez"
+
+[[person.meta.citation]]
+title = "Riverdale Press"
+date = "2019-08-14"
+url = "https://riverdalepress.com/stories/baseball-player-coach-father-jos-martinez-56,69725"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-14"
+
+[person.name]
+last = "Martinez"
+use = "Jose"
+given = "Jose Alberto"
+
+[person.birth]
+date = "1963-03-19"
+place.country = "CU"
+
+[person.death]
+date = "2019-08-11"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Berg_Morris"
+
+[person.name]
+last = "Berg"
+use = "Moe"
+given = "Morris"
+
+[person.birth]
+date = "1900-03-02"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "1972-05-29"
+place.country = "US"
+place.state = "NJ"
+place.city = "Belleville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[[person.education]]
+school.name = "Princeton University"
+school.type = "college"
+degree = "graduated"
+
+[[person.education]]
+school.name = "University of Paris"
+school.type = "college"
+
+[[person.education]]
+school.name = "Columbia University"
+school.type = "college"
+degree = "Law"

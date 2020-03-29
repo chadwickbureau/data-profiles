@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hughes"
+
+[[person.meta.citation]]
+title = "Washington Post"
+date = "2019-03-13"
+url = "https://www.washingtonpost.com/local/obituaries/harry-r-hughes-maryland-governor-and-low-key-steward-over-two-terms-dies-at-92/2019/03/13/c78aa81a-45ce-11e9-8aab-95b8d80a1e4f_story.html?noredirect=on&utm_term=.c06e50898118"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Hughes"
+use = "Harry"
+given = "Harry Roe"
+
+[person.birth]
+date = "1926-11-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Easton"
+
+[person.death]
+date = "2019-03-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Denton"
+
+[[person.education]]
+school.name = "Mercersburg Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Mercersburg"
+
+[[person.education]]
+school.name = "University of Maryland"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

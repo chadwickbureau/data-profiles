@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "197903_Bowa"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "1979-03-09"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Bowa"
+use = "Frank"
+given = "Frank"
+
+[person.death]
+date = "1979-03-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.burial]
+cemetery.name = "St. Mary's Catholic Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Sacramento"
+
+[[person.relation]]
+relationship = "uncle of"
+person.name.last = "Bowa"
+person.name.use = "Larry"
+person.name.given = "Larry"

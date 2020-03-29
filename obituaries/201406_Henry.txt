@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201406_Henry"
+
+[[person.meta.citation]]
+title = "Hattiesburg American"
+date = "2014-06-12"
+url = "http://www.hattiesburgamerican.com/story/news/2014/06/11/hattiesburg-police-department-rashod-henry-death-jon-traxler/10345565/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-15"
+
+[person.name]
+last = "Henry"
+use = "Rashod"
+given = "Rashod"
+
+[person.death]
+date = "2014-06-11"
+place.country = "US"
+place.state = "MS"
+place.city = "Hattiesburg"
+
+[[person.education]]
+school.name = "Lumberton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Lumberton"

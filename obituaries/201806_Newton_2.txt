@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201806_Newton_2"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-06-09"
+url = "https://www.dignitymemorial.com/obituaries/tuscaloosa-al/charles-newton-7871832"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Newton"
+use = "C. M."
+given = "Charles Martin"
+
+[person.birth]
+date = "1930-02-02"
+place.country = "US"
+place.state = "TN"
+place.city = "Rockwood"
+
+[person.death]
+date = "2018-06-04"
+place.country = "US"
+place.state = "AL"
+place.city = "Tuscaloosa"
+
+[[person.education]]
+school.name = "University of Kentucky"
+school.type = "college"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201911_Sanders"
+
+[[person.meta.citation]]
+title = "Luginbuel Fuenral Home"
+date = "2019-11-11"
+url = "http://www.luginbuel.com/deceased-records/person/al-sanders-1933-2019"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-11"
+
+[person.name]
+last = "Sanders"
+use = "Al"
+given = "Alvin Dwane"
+
+[person.birth]
+date = "1933-11-18"
+
+[person.death]
+date = "2019-11-08"
+
+[person.burial]
+cemetery.name = "Buckeye Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Hindsville"

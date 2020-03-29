@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170219_122"
+
+[[person.meta.citation]]
+title = "Richmond Item"
+date = "1930-05-01"
+pages = "13"
+
+[person.name]
+last = "Gibson"
+use = "Bob"
+given = "Bob"
+nick = "Gibby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Akron"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Richmond"
+team.league.name = "Central League"
+description.bats = "R"
+description.throws = "R"

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201911_Kiburis"
+
+[[person.meta.citation]]
+title = "MacDonald's Funeral Home"
+date = "2019-11-25"
+url = "https://www.macdonaldsfuneralhome.com/index.cfm/obituary/anthony-kiburis-jr?browse_on=desktop"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-25"
+
+[person.name]
+last = "Kiburis"
+use = "Anthony"
+given = "Anthony John"
+suffix = "Jr."
+
+[person.birth]
+date = "1937-03-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2019-11-16"
+
+[[person.military]]
+country = "US"
+branch = "Army"

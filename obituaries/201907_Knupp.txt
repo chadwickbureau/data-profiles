@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201907_Knupp"
+
+[[person.meta.citation]]
+title = "Greensburg Tribune Review"
+date = "2019-07-24"
+url = "https://www.legacy.com/obituaries/triblive-tribune-review/obituary.aspx?n=edward-e-knupp&pid=193466946&fhid=9856"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "Knupp"
+use = "Edward"
+given = "Edward E."
+
+[person.birth]
+date = "1934-05-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Ligonier"
+
+[person.death]
+date = "2019-07-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Ligonier"
+
+[person.burial]
+cemetery.name = "West Fairfield Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "West Fairfield"
+
+[[person.military]]
+country = "US"
+branch = "Army"

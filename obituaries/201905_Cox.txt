@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201905_Cox"
+
+[[person.meta.citation]]
+title = "B.W. Foster Funeral Home"
+date = "2019-05-27"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=dc56fc14-14d4-4d56-8147-1b77613a2dc8&CFTOKEN=0&o_id=6320551&fh_id=14992"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Cox"
+use = "Ron"
+given = "Ronald Monroe"
+
+[person.birth]
+date = "1940-12-09"
+place.country = "US"
+place.state = "MO"
+place.city = "Columbia"
+
+[person.death]
+date = "2019-05-24"
+place.country = "US"
+place.state = "VA"
+place.city = "Chesapeake"
+
+[person.burial]
+cemetery.name = "Olive Branch Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Portsmouth"
+
+[[person.education]]
+school.name = "University of Missouri"
+school.type = "college"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202003_Burns"
+
+[[person.meta.citation]]
+title = "Fleming & Billman Funeral Home"
+date = "2020-03-09"
+url = "https://www.fleming-billman.com/obituary/Regis-Burns"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Burns"
+use = "Regis"
+given = "Regis Daniel"
+
+[person.birth]
+date = "1931-12-26"
+place.country = "US"
+place.state = "PA"
+place.city = "New Salem"
+
+[person.death]
+date = "2020-03-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Jefferson"
+
+[person.burial]
+cemetery.name = "Oakdale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Jefferson"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201812_Kern"
+
+[[person.meta.citation]]
+title = "Hanlin Funeral Home"
+date = "2018-12-25"
+url = "https://www.hanlinfuneralhome.com/notices/Harry-Kern"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kern"
+use = "Harry"
+given = "Harry R."
+
+[person.birth]
+date = "1928-05-11"
+place.country = "US"
+place.state = "MI"
+place.city = "Frankenmuth"
+
+[person.death]
+date = "2018-12-23"
+
+[person.burial]
+cemetery.name = "Millington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Millington"
+
+[[person.education]]
+school.name = "Arthur Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Saginaw"
+
+[[person.education]]
+school.name = "Central Michigan University"
+school.type = "college"

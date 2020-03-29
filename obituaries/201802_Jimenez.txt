@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201802_Jimenez"
+
+[[person.meta.citation]]
+title = "El Cooperante"
+date = "2018-02-23"
+url = "https://elcooperante.com/lo-que-no-se-sabias-de-la-muerte-del-exprospecto-ronald-jimenez-en-vargas-andaba-en-malos-pasos/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-09"
+
+[person.name]
+last = "Jiménez"
+use = "Ronald"
+given = "Ronald Adrián"
+matrilineal = "Martinez"
+nick = "El Ronita"
+
+[person.death]
+date = "2018-02-21"
+place.country = "VE"
+place.state = "Vargas"
+place.city = "Caracas"

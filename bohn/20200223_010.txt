@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_010"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1920-05-21"
+
+[person.name]
+last = "Stucker"
+use = "Karl"
+given = "Karl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Redfield"
+team.league.name = "South Dakota League"

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_104"
+
+[[person.meta.citation]]
+title = "Abilene Reporter"
+date = "1929-06-16"
+pages = "4"
+
+[person.name]
+last = "Jackson"
+use = "Bus"
+given = "Bus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Abilene"
+team.league.name = "West Texas League"

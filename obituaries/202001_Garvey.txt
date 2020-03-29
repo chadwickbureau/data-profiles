@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202001_Garvey"
+
+[[person.meta.citation]]
+title = "Long Neck Chapel"
+date = "2020-01-27"
+url = "https://www.melsonfuneralservices.com/obituary/robert-bob-garvey"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Garvey"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1932-06-06"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.death]
+date = "2020-01-21"
+place.country = "US"
+place.state = "DE"
+place.city = "Millsboro"
+
+[person.burial]
+cemetery.name = "Delaware Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "DE"
+cemetery.place.city = "Millsboro"
+
+[[person.education]]
+school.name = "Henry C. Conrad HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Wilmington"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

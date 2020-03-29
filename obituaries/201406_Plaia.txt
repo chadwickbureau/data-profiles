@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201406_Plaia"
+
+[[person.meta.citation]]
+title = "Dignity Memorial.com"
+date = "2014-06-28"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Bernard-Plaia&lc=9785&pid=171515564&uuid=9820ad6c-e4d7-473f-9657-25affce0ab9d&locale=en_US"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Plaia"
+use = "Benny"
+given = "Bernard Michael"
+suffix = "Sr."
+
+[person.birth]
+date = "1922-08-24"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2014-06-26"
+
+[person.burial]
+cemetery.name = "Metairie Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "Jesuit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

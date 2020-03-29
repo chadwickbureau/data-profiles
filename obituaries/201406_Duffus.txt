@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201406_Duffus"
+
+[[person.meta.citation]]
+title = "Rochester Democrat And Chronicle"
+date = "2014-07-01"
+url = "http://www.legacy.com/obituaries/democratandchronicle/obituary.aspx?n=James-Duffus&pid=171557708"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Duffus"
+use = "Jim"
+given = "James C."
+
+[person.birth]
+date = "1927-04-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+[person.death]
+date = "2014-06-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Pittsford"
+
+[[person.education]]
+school.name = "West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Rochester"
+
+[[person.education]]
+school.name = "Yale University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190813_023"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-07-21"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Spencer"
+use = "Sammy"
+given = "Sammy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"

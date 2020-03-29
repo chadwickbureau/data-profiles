@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201405_Harrell"
+
+[[person.meta.citation]]
+title = "New Comer-Cannon Funeral Home"
+date = "2014-05-10"
+url = "http://www.newcomeralbany.com/obituary.aspx?src=value&obitid=83891&fname=William&lname=Harrell&city=Albany&st=NY"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-10"
+
+[person.name]
+last = "Harrell"
+use = "Billy"
+given = "William"
+
+[person.birth]
+date = "1928-07-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Norristown"
+
+[person.death]
+date = "2014-05-06"
+
+[person.burial]
+cemetery.name = "Oakwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Troy"
+
+[[person.education]]
+school.name = "Siena College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Loudonville"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201407_Ujcich"
+
+[[person.meta.citation]]
+title = "Mullenbach Funeral Home"
+date = "2014-07-20"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2608602&fh_id=11480"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Ujcich"
+use = "Frank"
+given = "Frank Anthony"
+
+[person.birth]
+date = "1943-07-20"
+
+[person.death]
+date = "2014-07-16"
+place.country = "US"
+place.state = "WV"
+place.city = "Wellsburg"
+
+[person.burial]
+cemetery.name = "Aspen Manor Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Wellsburg"
+
+[[person.education]]
+school.name = "Wellsburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Wellsburg"
+
+[[person.education]]
+school.name = "West Liberty University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "West Liberty"

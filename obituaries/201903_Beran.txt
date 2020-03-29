@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201903_Beran"
+
+[[person.meta.citation]]
+title = "Roberts-Blue-Barnett Funeral Home"
+date = "2019-03-23"
+url = "https://www.robertsblue.com/obituary/leon-lee-beran"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-23"
+
+[person.name]
+last = "Beran"
+use = "Lee"
+given = "Leon Thomas"
+
+[person.birth]
+date = "1931-06-30"
+place.country = "US"
+place.state = "KS"
+place.city = "Larned"
+
+[person.death]
+date = "2019-03-20"
+place.country = "US"
+place.state = "KS"
+place.city = "Emporia"
+
+[person.burial]
+cemetery.name = "Holy Family Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Odin"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

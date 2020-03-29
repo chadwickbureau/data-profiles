@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201810_Walker"
+
+[[person.meta.citation]]
+title = "Herald Sun"
+date = "2018-12-23"
+url = "https://www.legacy.com/obituaries/heraldsun/obituary.aspx?n=robert-walker-danny&pid=191058438"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Walker"
+use = "Danny"
+given = "Robert Daniel"
+
+[person.birth]
+date = "1944-10-18"
+
+[person.death]
+date = "2018-10-17"
+
+[[person.education]]
+school.name = "Southern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Durham"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"

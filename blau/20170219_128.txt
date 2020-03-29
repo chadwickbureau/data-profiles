@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170219_128"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1925-11-21"
+pages = "8"
+
+[person.name]
+last = "Bliss"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "NE"
+place.city = "Fairbury"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "St. Joseph"
+team.league.name = "Western League"

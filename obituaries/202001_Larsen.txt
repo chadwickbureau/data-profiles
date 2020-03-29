@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202001_Larsen"
+
+[[person.meta.citation]]
+title = "Bonner County Daily Bee"
+date = "2020-01-02"
+url = "https://www.bonnercountydailybee.com/article/20200102/AP/301029962?fbclid=IwAR0JCnIEphaG25WuGXya7fCCvk55uxLft87VHj1B7SUxS2_e2VPG7P1kSuc"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Larsen"
+use = "Don"
+given = "Donald James"
+
+[person.death]
+date = "2020-01-01"

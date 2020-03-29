@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170219_012"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1922-05-08"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1923-09-17"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-05-08"
+pages = "2"
+
+[person.name]
+last = "Kahdot"
+use = "Ike"
+given = "Ike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"

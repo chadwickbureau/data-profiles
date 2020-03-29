@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201408_Bulmer"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "2014-08-17"
+url = "http://www.legacy.com/obituaries/delmarvanow/obituary.aspx?n=donald-bulmer&pid=172131740&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-17"
+
+[person.name]
+last = "Bulmer"
+use = "Donald"
+given = "Donald Stewart"
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Belmont"
+
+[person.death]
+date = "2014-08-09"
+place.country = "US"
+place.state = "MD"
+place.city = "Salisbury"
+
+[person.burial]
+cemetery.name = "Arlington National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Arlington"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201801_Clark"
+
+[[person.meta.citation]]
+title = "Golden Gate Funeral Home"
+date = "2019-01-07"
+url = "https://www.goldengatefuneralhome.com/notices/GLEN-CLARK?fbclid=IwAR2JJ66htrDsgJ0fXhH5SQD8sCM5eyHzTGTqq9EConEjPbZsKCk4w9NRkDk"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Clark"
+use = "Glen"
+given = "Glen"
+
+[person.birth]
+date = "1940-03-10"
+
+[person.death]
+date = "2018-01-25"

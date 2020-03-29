@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Bozick_Emil"
+
+[person.name]
+last = "Bozick"
+use = "Emil"
+given = "Emil"
+
+[person.birth]
+date = "1921"
+
+[person.death]
+date = "2000-02-27"
+place.country = "US"
+place.state = "IA"
+place.city = "Madrid"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

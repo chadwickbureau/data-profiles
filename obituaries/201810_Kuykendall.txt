@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201810_Kuykendall"
+
+[[person.meta.citation]]
+title = "Groce Funeral Home"
+date = "2018-10-21"
+url = "https://www.grocefuneralhome.com/obituary/James-Jim-Robert-Kuykendall-Jr./Candler-NC/1818554"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Kuykendall"
+use = "Jim"
+given = "James Robert"
+suffix = "Jr."
+
+[person.birth]
+date = "1933-02-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Haywood County"
+
+[person.death]
+date = "2018-10-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Asheville"
+
+[person.burial]
+cemetery.name = "Acton United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Candler"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201909_Williams"
+
+[[person.meta.citation]]
+title = "Radney Funeral Home"
+date = "2019-09-25"
+url = "https://www.dignitymemorial.com/obituaries/mobile-al/robert-williams-8863634"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Williams"
+use = "Bob"
+given = "Robert James"
+
+[person.birth]
+date = "1929-06-23"
+place.country = "US"
+place.state = "MO"
+place.city = "Clever"
+
+[person.death]
+date = "2019-09-22"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

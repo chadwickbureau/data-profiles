@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201810_Michael"
+
+[[person.meta.citation]]
+title = "Laughlin Funeral Home"
+date = "2018-10-05"
+url = "http://www.laughlinservice.com/memsol.cgi?user_id=2140418"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Michael"
+use = "Bill"
+given = "William Aubrey"
+
+[person.birth]
+date = "1931-05-03"
+
+[person.death]
+date = "2018-10-02"
+
+[person.burial]
+cemetery.name = "Maple Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Huntsville"
+
+[[person.education]]
+school.name = "Huntsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Huntsville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

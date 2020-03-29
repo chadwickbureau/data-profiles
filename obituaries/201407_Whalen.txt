@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201407_Whalen"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "2014-07-21"
+url = "http://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=Thomas-Whalen&pid=171800301"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-21"
+
+[person.name]
+last = "Whalen"
+use = "Tommy"
+given = "Thomas H."
+suffix = "Jr."
+
+[person.birth]
+date = "1949-02-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[person.death]
+date = "2014-07-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[[person.education]]
+school.name = "Lowell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lowell"

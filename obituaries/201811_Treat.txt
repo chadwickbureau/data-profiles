@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201811_Treat"
+
+[[person.meta.citation]]
+title = "Ladusau-Evans Funeral Home"
+date = "2018-12-09"
+url = "https://www.ladusauevans.com/book-of-memories/3666287/Treat-James/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Treat"
+use = "Jim"
+given = "James B."
+
+[person.birth]
+date = "1930-08-15"
+place.country = "US"
+place.state = "OK"
+place.city = "Atwood"
+
+[person.death]
+date = "2018-11-27"
+place.country = "US"
+place.state = "OK"
+place.city = "Enid"

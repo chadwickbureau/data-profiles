@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201901_Schwitz"
+
+[[person.meta.citation]]
+title = "Boone Funeral Home"
+date = "2019-01-30"
+url = "https://www.boonefuneralhome.net/notices/Frank-Schwitz"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-30"
+
+[person.name]
+last = "Schwitz"
+use = "Frank"
+given = "Frank M."
+
+[person.birth]
+date = "1927-09-08"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.death]
+date = "2019-01-24"
+place.country = "US"
+place.state = "IN"
+place.city = "Granger"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Evansville"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Evansville"

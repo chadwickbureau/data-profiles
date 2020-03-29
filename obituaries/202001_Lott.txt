@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202001_Lott"
+
+[[person.meta.citation]]
+title = "Hartman-Jones Funeral Home"
+date = "2020-01-27"
+url = "http://www.jonesfamilyfuneralservices.net/obituary/george-lott-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Lott"
+use = "George"
+given = "George A."
+suffix = "Jr."
+
+[person.birth]
+date = "1943-10-31"
+place.country = "US"
+place.state = "MS"
+place.city = "McComb"
+
+[person.death]
+date = "2020-01-23"
+
+[[person.education]]
+school.name = "McComb HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "McComb"

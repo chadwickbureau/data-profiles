@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201912_Jacobs_Jack"
+
+[[person.meta.citation]]
+title = "Phoenix Funeral Home"
+date = "2020-01-05"
+url = "https://www.phoenixmortuary.com/obituaries/Jack-Elmer-Jacobs?obId=10337758#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-05"
+
+[person.name]
+last = "Jacobs"
+use = "Jack"
+given = "Jack Elmer"
+
+[person.birth]
+date = "1932-09-21"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[person.death]
+date = "2019-12-25"

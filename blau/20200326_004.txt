@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200326_004"
+
+[[person.meta.citation]]
+title = "Temple Daily Telegram"
+date = "1915-04-15"
+pages = "5"
+
+[person.name]
+last = "Anderson"
+use = "Wingo"
+given = "Wingo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Cincinnati"
+team.league.name = "National League"

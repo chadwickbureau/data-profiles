@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190813_063"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1916-02-01"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Long"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Blue Ridge League"

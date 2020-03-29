@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201812_Seecs"
+
+[[person.meta.citation]]
+title = "Henderson Funeral Home"
+date = "2018-12-25"
+url = "https://www.hendersonfuneralhome.com/notices/Henry-Seecs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Seecs"
+use = "Henry"
+given = "Henry A."
+
+[person.birth]
+date = "1935-09-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Twin Rocks"
+
+[person.death]
+date = "2018-12-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Ebensburg"
+
+[person.burial]
+cemetery.name = "Grandview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Johnstown"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

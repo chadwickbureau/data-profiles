@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20170219_058"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Hayes"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"

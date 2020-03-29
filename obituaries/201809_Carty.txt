@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201809_Carty"
+
+[[person.meta.citation]]
+title = "DiarioLibre.com"
+date = "2018-09-01"
+url = "https://www.diariolibre.com/deportes/muere-en-atlanta-hijo-de-ricardo-carty-celebraba-cumpleanos-79-de-su-padre-EO10696750"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-18"
+
+[person.name]
+last = "Carty"
+use = "Ricardo"
+given = "Ricardo"
+suffix = "Jr."
+
+[person.death]
+date = "2018-09-01"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"

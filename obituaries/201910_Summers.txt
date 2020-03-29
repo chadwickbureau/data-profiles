@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201910_Summers"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2019-10-07"
+url = "https://www.heritagebattlefield.com/tributes/Pete-Summers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Summers"
+use = "Pete"
+given = "Pete"
+
+[person.birth]
+date = "1952-12-31"
+
+[person.death]
+date = "2019-10-02"
+
+[[person.education]]
+school.name = "Rossville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Rossville"
+
+[[person.education]]
+school.name = "Shorter College"
+school.type = "college"

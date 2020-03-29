@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201905_Coulter"
+
+[[person.meta.citation]]
+title = "Whitcomb-Lynch Funeral Home"
+date = "2019-05-14"
+url = "https://whitcomb-lynch.com/book-of-memories/3828715/Coulter-Joseph/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-14"
+
+[person.name]
+last = "Coulter"
+use = "Chief"
+given = "Joseph L."
+
+[person.birth]
+date = "1938-12-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Janesville"
+
+[person.death]
+date = "2019-05-09"
+place.country = "US"
+place.state = "WI"
+place.city = "Janesville"
+
+[[person.education]]
+school.name = "Janesville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Janesville"

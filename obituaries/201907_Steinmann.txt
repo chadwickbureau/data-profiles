@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201907_Steinmann"
+
+[[person.meta.citation]]
+title = "Burlington County Times"
+date = "2019-07-28"
+url = "https://www.legacy.com/obituaries/burlingtoncountytimes/obituary.aspx?n=charles-h-steinmann&pid=193497946&fhid=4462"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Steinmann"
+use = "Charles"
+given = "Charles H."
+
+[person.birth]
+date = "1935-07-12"
+place.country = "US"
+place.state = "NJ"
+place.city = "Mount Holly"
+
+[person.death]
+date = "2019-07-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Medford"
+
+[person.burial]
+cemetery.name = "Odd Fellows Cemetery & Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Burlington"
+
+[[person.education]]
+school.name = "Burlington City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Burlington"

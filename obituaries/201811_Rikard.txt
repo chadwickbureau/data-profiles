@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Rikard"
+
+[[person.meta.citation]]
+title = "Clements Funeral Home"
+date = "2018-11-07"
+url = "https://www.clementsfuneralservice.com/obituaries/Robert-Bob-Rikard?obId=3418186#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-07"
+
+[person.name]
+last = "Rikard"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1933-01-24"
+place.country = "US"
+place.state = "MS"
+place.city = "Olive Branch"
+
+[person.death]
+date = "2018-11-03"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+[person.burial]
+cemetery.name = "Raleigh Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Raleigh"
+
+[[person.military]]
+country = "US"
+branch = "Army"

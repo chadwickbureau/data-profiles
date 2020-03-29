@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202002_Kremens"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "2020-02-10"
+url = "https://www.legacy.com/obituaries/app/obituary.aspx?n=robert-l-kremens&pid=195359282&fhid=10860"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Kremens"
+use = "Bob"
+given = "Robert L."
+suffix = "Sr."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Maspeth"
+
+[person.death]
+date = "2020-02-06"

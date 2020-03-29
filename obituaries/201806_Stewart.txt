@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201806_Stewart"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-06-18"
+url = "https://www.dignitymemorial.com/obituaries/greensboro-nc/sherman-stewart-7886836"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Stewart"
+use = "Gene"
+given = "Sherman Eugene"
+
+[person.birth]
+date = "1927-12-12"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[person.death]
+date = "2018-06-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[[person.education]]
+school.name = "Rankin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Greensboro"
+
+[[person.education]]
+school.name = "Elon University"
+school.type = "college"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201912_Adamczyk"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2020-01-10"
+url = "https://buffalonews.com/2020/01/10/edward-l-adamczyk-retired-millwright/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-13"
+
+[person.name]
+last = "Adamczyk"
+use = "Edward"
+given = "Edward L."
+
+[person.birth]
+date = "1923-09-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2019-12-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Orchard Park"
+
+[[person.education]]
+school.name = "Orchard Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Orchard Park"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201907_Reckelberg"
+
+[[person.meta.citation]]
+title = "Green Bay Press-Gazette"
+date = "2019-07-19"
+url = "https://www.legacy.com/obituaries/greenbaypressgazette/obituary.aspx?n=herman-j-reckelberg&pid=193434048&fhid=14028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Reckelberg"
+use = "Herman"
+given = "Herman J."
+
+[person.birth]
+date = "1927-10-24"
+place.country = "US"
+place.state = "WI"
+place.city = "Green Bay"
+
+[person.death]
+date = "2019-07-19"
+
+[[person.education]]
+school.name = "Green Bay East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Green Bay"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

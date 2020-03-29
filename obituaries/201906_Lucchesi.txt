@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201906_Lucchesi"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-06-11"
+url = "https://www.dignitymemorial.com/obituaries/grapevine-tx/frank-lucchesi-8738074"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-11"
+
+[person.name]
+last = "Lucchesi"
+use = "Frank"
+given = "Frank Joseph"
+
+[person.birth]
+date = "1926-04-24"
+
+[person.death]
+date = "2019-06-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Colleyville"
+
+[person.burial]
+cemetery.name = "Bluebonnet Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Colleyville"

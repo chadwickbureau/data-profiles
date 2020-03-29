@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Barnhart_Clyde_Lee"
+
+[person.name]
+last = "Barnhart"
+use = "Clyde"
+given = "Clyde Lee"
+
+[person.birth]
+date = "1895-12-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Buck Valley"
+
+[person.death]
+date = "1980-01-21"
+place.country = "US"
+place.state = "MD"
+place.city = "Hagerstown"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "155"

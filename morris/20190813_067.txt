@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190813_067"
+
+[[person.meta.citation]]
+title = "Wilmington Morning Star 1915-06-28"
+pages = "2"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Tolson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Suffolk"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Roanoke"
+team.league.name = "Virginia League"

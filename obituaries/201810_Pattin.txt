@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201810_Pattin"
+
+[[person.meta.citation]]
+title = "Adams Funeral Chapel"
+date = "2018-10-04"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=146d7b90-8d4b-48c7-adcd-65009afc785d&CFTOKEN=0&o_id=5331359&fh_id=13048"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Pattin"
+use = "Marty"
+given = "Martin W."
+
+[person.birth]
+date = "1943-04-06"
+
+[person.death]
+date = "2018-10-03"
+place.country = "US"
+place.state = "IL"
+place.city = "Charleston"
+
+[person.burial]
+cemetery.name = "Rest Haven Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Mattoon"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201807_Lewis"
+
+[[person.meta.citation]]
+title = "Pensacola New Journal"
+date = "2018-08-02"
+url = "https://www.pnj.com/story/sports/2018/08/02/pensacolas-johnny-lewis-former-st-louis-cardinal-passes-away/892903002/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-03"
+
+[person.name]
+last = "Lewis"
+use = "Johnny"
+given = "Johnny Joe"
+
+[person.death]
+date = "2018-07-29"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[[person.education]]
+school.name = "Booker T. Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Pensacola"

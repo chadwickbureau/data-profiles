@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202001_Broughton"
+
+[[person.meta.citation]]
+title = "Tomblyn Funeral Home"
+date = "2020-01-27"
+url = "https://www.tomblynfuneralhome.com/obituaries/Virgil-Broughton/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Broughton"
+use = "Virg"
+given = "Virgil Park"
+
+[person.birth]
+date = "1938-11-24"
+place.country = "US"
+place.state = "WV"
+place.city = "Elkins"
+
+[person.death]
+date = "2020-01-19"
+place.country = "US"
+place.state = "WV"
+place.city = "Elkins"
+
+[person.burial]
+cemetery.name = "Little Arlington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Elkins"
+
+[[person.education]]
+school.name = "Beverly HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Beverly"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

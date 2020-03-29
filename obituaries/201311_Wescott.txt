@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201311_Wescott"
+
+[[person.meta.citation]]
+title = "Lindsey Funeral Homes"
+date = "2019-12-14"
+url = "https://www.dignitymemorial.com/obituaries/harrisonburg-va/d-wescott-5752557"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-14"
+
+[person.name]
+last = "Wescott"
+use = "Dean"
+given = "D. Dean"
+
+[person.birth]
+date = "1937-10-30"
+place.country = "US"
+place.state = "VA"
+place.city = "Singers Glen"
+
+[person.death]
+date = "2013-11-25"
+
+[person.burial]
+cemetery.name = "Singers Glen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Singers Glen"
+
+[[person.education]]
+school.name = "Harrisonburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Harrisonburg"

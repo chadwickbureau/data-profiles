@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201812_Behul"
+
+[[person.meta.citation]]
+title = "Rossi Funeral Home"
+date = "2018-12-18"
+url = "http://www.therossifuneralhome.com/obituary/michael-behul"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Behul"
+use = "Michael"
+given = "Michael V."
+
+[person.birth]
+date = "1927"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2018-12-16"
+place.country = "US"
+place.state = "NJ"
+place.city = "Scotch Plains"
+
+[[person.education]]
+school.name = "East Side HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Newark"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

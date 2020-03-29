@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_046"
+
+[[person.meta.citation]]
+title = "(Aberdeen) Northwest Square Deal"
+date = "1920-07-04"
+
+[person.name]
+last = "Naegeli"
+use = "Walt"
+given = "Walt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Aberdeen"
+team.league.name = "South Dakota League"

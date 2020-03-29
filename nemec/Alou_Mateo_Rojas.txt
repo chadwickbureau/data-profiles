@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "Alou_Mateo_Rojas"
+
+[person.name]
+last = "Alou"
+use = "Matty"
+given = "Mateo Rojas"
+
+[person.birth]
+date = "1938-12-22"
+place.country = "DO"
+place.city = "Ciudad Trujillo"
+
+[person.death]
+date = "2011-11-03"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "69"
+weight = "158"
+ancestry = "Dominican Negro"
+
+[person.sameas]
+ssn = "471-46-8044"
+
+[[person.resides]]
+dates = "2003"
+place.country = "DO"
+place.city = "Paraiso"
+place.address = "P. O. Box 30063, M. D. J. Troncusco #16"
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Alou"
+person.name.use = "Felipe"
+person.name.given = "Felipe"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Alou"
+person.name.use = "Jesus"
+person.name.given = "Jesus"

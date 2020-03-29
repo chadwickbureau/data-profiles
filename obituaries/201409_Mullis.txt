@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201409_Mullis"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2014-09-21"
+url = "http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=Grover-Mullis&pid=172526435"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-22"
+
+[person.name]
+last = "Mullis"
+use = "Noody"
+given = "Grover Alexander"
+
+[person.birth]
+date = "1939-08-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"
+
+[person.death]
+date = "2014-09-17"
+place.country = "US"
+place.state = "SC"
+place.city = "Myrtle Beach"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Charlotte"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Charlotte"

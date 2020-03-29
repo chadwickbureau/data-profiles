@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Beckendorf_Henry_Ward"
+
+[person.name]
+last = "Beckendorf"
+use = "Henry"
+given = "Henry Ward"
+nick = "Heine"
+
+[person.birth]
+date = "1884-06-15"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "1949-09-15"
+place.country = "US"
+place.state = "NY"
+place.city = "Jackson Heights"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "174"

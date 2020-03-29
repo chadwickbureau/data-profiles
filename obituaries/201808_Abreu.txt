@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201808_Abreu"
+
+[[person.meta.citation]]
+title = "ElJaya.com"
+date = "2018-08-09"
+url = "http://www.eljaya.com/index.php/noticias/27444-fallece-beisbolista-cotuisano-fariro-abreu"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Abreu"
+use = "Fariro"
+given = "Fariro"
+
+[person.death]
+date = "2018-08-08"
+place.country = "DO"
+place.state = "Sanchez Ramirez"
+place.city = "Cotui"
+
+[person.description]
+throws = "L"

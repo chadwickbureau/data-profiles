@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201408_Walsh"
+
+[[person.meta.citation]]
+title = "Nardolillo Funeral Home"
+date = "2014-08-17"
+url = "http://funeralhomeweb.net/default.aspx?MemberId=137499&FLVId="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-17"
+
+[person.name]
+last = "Walsh"
+use = "Ed"
+given = "Edward L."
+suffix = "Jr."
+
+[person.birth]
+date = "1966-06-21"
+
+[person.death]
+date = "2014-08-13"
+
+[person.burial]
+cemetery.name = "St. Ann Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Cranston"
+
+[[person.education]]
+school.name = "Bishop Hendricken HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Warwick"
+
+[[person.education]]
+school.name = "Providence College"
+school.type = "college"

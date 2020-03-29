@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Faverio"
+
+[[person.meta.citation]]
+title = "News Journal"
+date = "2014-08-21"
+url = "http://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=Louis-Faverio&pid=172183265"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-21"
+
+[person.name]
+last = "Faverio"
+use = "Pete"
+given = "Louis Peter"
+suffix = "III"
+
+[person.birth]
+date = "1927-12-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Chester"
+
+[person.death]
+date = "2014-08-17"
+
+[person.burial]
+cemetery.name = "Chester Rural Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Chester"
+
+[[person.military]]
+country = "US"
+branch = "Army"

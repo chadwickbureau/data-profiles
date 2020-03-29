@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190531_012"
+
+[[person.meta.citation]]
+title = "Buffalo Courier 1915-05-14"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hilly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Philadelphia"
+team.league.name = "National League"

@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201911_Conrad"
+
+[[person.meta.citation]]
+title = "Halbritter Wickens Funeral Services"
+date = "2019-11-17"
+url = "https://www.halbritterwickens.com/notices/Richard-Conrad"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-17"
+
+[person.name]
+last = "Conrad"
+use = "Dick"
+given = "Richard Dale"
+
+[person.birth]
+date = "1935-04-07"
+place.country = "US"
+place.state = "MI"
+place.city = "Buchanan"
+
+[person.death]
+date = "2019-11-13"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+[person.burial]
+cemetery.name = "Silverbrook Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Niles"
+
+[[person.education]]
+school.name = "Niles HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Niles"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

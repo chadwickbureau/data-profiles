@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201905_Maloney"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2019-05-03"
+url = "https://www.legacy.com/obituaries/bostonglobe/obituary.aspx?pid=192784504"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-10"
+
+[person.name]
+last = "Maloney"
+use = "John"
+given = "John T."
+
+[person.description]
+note = [ "Husband of Claire (Gervais) Maloney" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "~1940"
+team.name = "Granby"
+team.league.name = "Provincial League"

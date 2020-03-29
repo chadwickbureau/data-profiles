@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Shook"
+
+[[person.meta.citation]]
+title = "McHoul Funeral Home"
+date = "2019-11-19"
+url = "https://www.mchoulfuneralhome.com/book-of-memories/4033724/Shook-Robert/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-19"
+
+[person.name]
+last = "Shook"
+use = "Robert"
+given = "Robert S."
+
+[person.birth]
+date = "1925-10-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Somers"
+
+[person.death]
+date = "2019-11-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Fishkill"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Somers"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

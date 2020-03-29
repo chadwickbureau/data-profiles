@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201907_013"
+
+[[person.meta.citation]]
+title = "wascotrib.com"
+date = "2019-07-29"
+url = "https://www.wascotrib.com/home/cms_data/dfault/photos/stories/id/8/6/486/1140665.pdf#page=2"
+
+[person.name]
+last = "Martinez"
+use = "Scott"
+given = "Scott"
+
+[person.birth]
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[[person.education]]
+school.name = "Colorado-Colorado Springs"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Wasco"
+team.league.name = "Pecos League"

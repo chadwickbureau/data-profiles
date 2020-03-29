@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201907_vanMil"
+
+[[person.meta.citation]]
+title = "Yahoo! Sports"
+date = "2019-07-29"
+url = "https://sports.yahoo.com/dutch-pitcher-loek-van-mil-123908142.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-01"
+
+[person.name]
+last = "van Mil"
+use = "Loek"
+given = "Loek"
+
+[person.death]
+date = "2019-07-28"

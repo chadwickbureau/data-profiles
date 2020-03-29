@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Banks_George_Edward"
+
+[person.name]
+last = "Banks"
+use = "George"
+given = "George Edward"
+
+[person.birth]
+date = "1938-09-24"
+place.country = "US"
+place.state = "SC"
+place.city = "Pacolet Mills"
+
+[person.death]
+date = "1985-03-01"
+place.country = "US"
+place.state = "SC"
+place.city = "Spartanburg"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "185"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20191201_018"
+
+[[person.meta.citation]]
+title = "Tulsa Tribune"
+date = "1923-07-12"
+pages = "10"
+
+[person.name]
+last = "Freeman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Guthrie"
+team.league.name = "Oklahoma State League"
+
+
+[[person.transaction]]
+date = "<1923-07-12"
+type = "acquired"
+join.name = "Tulsa"
+join.league.name = "Western"
+leave.name = "St. Louis"
+leave.league.name = "American"

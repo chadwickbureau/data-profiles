@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202002_Barton"
+
+[[person.meta.citation]]
+title = "Stoess Funeral Home"
+date = "2020-02-09"
+url = "https://www.stoessfuneralhome.com/obituary/Larry-BartonJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-09"
+
+[person.name]
+last = "Barton"
+use = "Larry"
+given = "Larry"
+suffix = "Jr."
+
+[person.birth]
+date = "1939-10-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2020-02-06"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[[person.education]]
+school.name = "Gardena HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Gardena"
+
+[[person.education]]
+school.name = "Arizona State University"
+school.type = "college"

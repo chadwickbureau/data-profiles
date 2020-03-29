@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201812_Shoemaker"
+
+[[person.meta.citation]]
+title = "Badger Littleton & Groton Funeral Home"
+date = "2019-01-08"
+url = "http://badgerfuneral.tributes.com/obituary/read/Bix-Shoemaker-106671509"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-08"
+
+[person.name]
+last = "Shoemaker"
+use = "Bix"
+given = "Charles Bix"
+
+[person.birth]
+date = "1928-02-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2018-12-12"
+
+[[person.education]]
+school.name = "Lexington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lexington"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201811_Encinas"
+
+[[person.meta.citation]]
+title = "Inland Valley Daily Bulletin"
+date = "2018-11-18"
+url = "https://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=maurice-felix-encinas&pid=190771379&fhid=8367"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-18"
+
+[person.name]
+last = "Encinas"
+use = "Maurice"
+given = "Maurice Felix"
+
+[person.birth]
+date = "1922-02-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Otterbein"
+
+[person.death]
+date = "2018-11-09"
+
+[person.burial]
+cemetery.name = "Pomona Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Pomona"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

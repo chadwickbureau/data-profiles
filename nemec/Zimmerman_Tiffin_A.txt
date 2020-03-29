@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "Zimmerman_Tiffin_A"
+
+[person.name]
+last = "Zimmerman"
+use = "Tiffin"
+given = "Tiffin A."
+
+[person.birth]
+date = "1923-03-28"
+place.country = "US"
+place.state = "OH"
+place.city = "Waterford"
+
+[person.death]
+date = "2011-10-19"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[[person.playing]]
+season = "1949"
+league.name = "Cotton States League"
+splits.0.team.name = "Clarksdale"
+totals.B_G = "<10"
+
+
+[[person.transaction]]
+date = "1946"
+type = "signed"
+join.name = "Richmond"
+join.league.name = "Ohio State"
+
+[[person.transaction]]
+date = "1949-03-31"
+type = "signed"
+join.name = "Thibodaux"
+
+[[person.transaction]]
+date = "1949-04-08"
+type = "optioned"
+leave.name = "Thibodaux"
+join.name = "El Dorado"
+
+[[person.transaction]]
+date = "1949-04-17"
+type = "returned"
+leave.name = "El Dorado"
+join.name = "Thibodaux"
+
+[[person.transaction]]
+date = "1949-04-19"
+type = "optioned"
+leave.name = "Thibodaux"
+join.name = "Clarksdale"
+join.league.name = "Cotton States"
+
+[[person.transaction]]
+date = "1949-04-21"
+type = "released"
+leave.name = "Clarksdale"
+leave.league.name = "Cotton States"

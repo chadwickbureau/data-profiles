@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201910_Etchebarren"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2019-10-07"
+url = "https://www.baltimoresun.com/sports/orioles/bs-sp-etchebarren-obit-20191006-oej5d32drnbnxew7zhxdjl2an4-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Etchebarren"
+use = "Andy"
+given = "Andy"
+
+[person.death]
+date = "2019-10-06"

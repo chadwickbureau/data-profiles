@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201910_Meriwether_2"
+
+[[person.meta.citation]]
+title = "Tennessean"
+date = "2019-10-29"
+url = "https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=julius-edward-meriwether&pid=194294922&fhid=14238#_ga=2.135204529.1046183394.1572355314-1850536735.1561646313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Meriwether"
+use = "Chuck"
+given = "Julius Edward"
+suffix = "Jr."
+
+[person.birth]
+date = "1956-06-30"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"
+
+[person.death]
+date = "2019-10-26"
+
+[person.burial]
+cemetery.name = "Greenwood North Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Goodlettsville"
+
+[[person.education]]
+school.name = "Father Ryan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Nashville"
+
+[[person.education]]
+school.name = "Martin Methodist College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Athens State University"
+school.type = "college"

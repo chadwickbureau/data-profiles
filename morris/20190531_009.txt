@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190531_009"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-05-29"
+pages = "15"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Wilcox"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"

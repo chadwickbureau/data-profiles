@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201407_Bethea"
+
+[[person.meta.citation]]
+title = "Houston Chronicle"
+date = "2014-07-09"
+url = "http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=James-Bethea&pid=171653740"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-09"
+
+[person.name]
+last = "Bethea"
+use = "Jim"
+given = "James Russell"
+
+[person.birth]
+date = "1936-08-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2014-07-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "South Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[[person.education]]
+school.name = "Reagan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"
+
+[[person.education]]
+school.name = "University of Houston"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

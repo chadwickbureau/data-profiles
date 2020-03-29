@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201802_Kauppi"
+
+[[person.meta.citation]]
+title = "Ventura County Star"
+date = "2019-01-13"
+url = "https://www.legacy.com/obituaries/venturacountystar/obituary.aspx?n=donald-keith-kauppi&pid=191246195"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-13"
+
+[person.name]
+last = "Kauppi"
+use = "Donald"
+given = "Donald Keith"
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Gardner"
+
+[person.death]
+date = "2018-02-26"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

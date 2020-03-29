@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201808_Sheffield"
+
+[[person.meta.citation]]
+title = "E. Alvin Small Funeral Home"
+date = "2018-08-14"
+url = "https://memorials.ealvinsmall.com/william-sheffield/3581274/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-14"
+
+[person.name]
+last = "Sheffield"
+use = "Billy"
+given = "William Francis"
+
+[person.birth]
+date = "1936-11-26"
+place.country = "US"
+place.state = "VA"
+place.city = "Petersburg"
+
+[person.death]
+date = "2018-08-06"

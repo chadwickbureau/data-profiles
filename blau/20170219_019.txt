@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_019"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1915-05-17"
+pages = "11"
+
+[person.name]
+last = "Barger"
+use = "Everett"
+given = "Everett"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Traverse City"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"

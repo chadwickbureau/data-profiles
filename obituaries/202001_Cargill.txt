@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202001_Cargill"
+
+[[person.meta.citation]]
+title = "Grand Rapids Press"
+date = "2020-01-16"
+url = "https://obits.mlive.com/obituaries/grandrapids/obituary.aspx?n=hayes-cargill&pid=195024171&fhid=10156"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-14"
+
+[person.name]
+last = "Cargill"
+use = "Hayes"
+given = "Hayes"
+suffix = "Jr."
+
+[person.death]
+date = "2020-01-12"
+
+[person.burial]
+cemetery.name = "Bowne Center Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Bowne Center"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

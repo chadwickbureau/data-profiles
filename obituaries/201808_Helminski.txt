@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201808_Helminski"
+
+[[person.meta.citation]]
+title = "Ken Funeral Home"
+date = "2018-08-20"
+url = "http://www.jowdykanefuneralhome.com/2018-obituaries/helminski-edward.htm"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-20"
+
+[person.name]
+last = "Helminski"
+use = "Ed"
+given = "Edward F."
+suffix = "Jr."
+
+[person.birth]
+date = "1938-07-18"
+place.country = "US"
+place.state = "WV"
+place.city = "Fairmont"
+
+[person.death]
+date = "2018-08-03"
+place.country = "US"
+place.state = "CT"
+place.city = "Ridgefield"
+
+[[person.education]]
+school.name = "Barrackville Hs"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Barrackville"
+
+[[person.education]]
+school.name = "Potomac State College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Fairmont State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

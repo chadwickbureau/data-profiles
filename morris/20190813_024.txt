@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "20190813_024"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-07-21"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "McGowan"
+use = "Charley"
+given = "Charley"

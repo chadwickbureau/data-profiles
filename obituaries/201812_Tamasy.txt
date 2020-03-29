@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201812_Tamasy"
+
+[[person.meta.citation]]
+title = "Kedz Funeral Home"
+date = "2020-02-02"
+url = "https://kedzfuneralhome.com/tribute/details/828/George-Tamasy/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-02"
+
+[person.name]
+last = "Tamasy"
+use = "George"
+given = "George"
+suffix = "Sr."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Highland Park"
+
+[person.death]
+date = "2018-12-06"
+place.country = "US"
+place.state = "NJ"
+place.city = "Toms River"
+
+[person.burial]
+cemetery.name = "Ocean County Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Toms River"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

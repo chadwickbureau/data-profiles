@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_Groth"
+
+[[person.meta.citation]]
+title = "Garden Chapel Funeral Home"
+date = "2019-01-23"
+url = "https://www.gardenchapel.com/notices/Philip-Groth"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-23"
+
+[person.name]
+last = "Groth"
+use = "Phil"
+given = "Philip Andrew"
+
+[person.birth]
+date = "1935-08-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.death]
+date = "2019-01-20"
+place.country = "US"
+place.state = "IA"
+place.city = "Pella"
+
+[[person.education]]
+school.name = "Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Des Moines"
+
+[[person.education]]
+school.name = "Iowa State University"
+school.type = "college"

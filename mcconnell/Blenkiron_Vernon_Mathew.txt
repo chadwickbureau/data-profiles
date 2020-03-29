@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Blenkiron_Vernon_Mathew"
+
+[person.name]
+last = "Blenkiron"
+use = "Vernon"
+given = "Vernon Mathew"
+
+[person.birth]
+date = "1901-09-12"
+place.country = "US"
+place.state = "NE"
+place.city = "Wausa"
+
+[person.death]
+date = "1972-02-01"
+place.country = "US"
+place.state = "CA"
+place.city = "South Gate"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "73"
+weight = "180"
+note = [ "Was a world class sprinter. Ran 100 yards in 9.8 seconds in baseball uniform while with Ionia in 1922." ]

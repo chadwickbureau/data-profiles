@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190531_026"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-05-11"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Murphy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Montreal"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lynn"
+team.league.name = "New England League"

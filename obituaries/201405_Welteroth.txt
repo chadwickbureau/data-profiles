@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201405_Welteroth"
+
+[[person.meta.citation]]
+title = "Crourse Funeral Home"
+date = "2014-05-10"
+url = "http://www.crousefuneralhome.com/fh/obituaries/obituary.cfm?o_id=2520116&fh_id=13367"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-05-13"
+
+[person.name]
+last = "Welteroth"
+use = "Dick"
+given = "Richard"
+
+[person.birth]
+date = "1927-08-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Williamsport"
+
+[person.death]
+date = "2014-05-07"
+
+[[person.education]]
+school.name = "St. Mary's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Williamsport"

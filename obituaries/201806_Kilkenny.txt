@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201806_Kilkenny"
+
+[[person.meta.citation]]
+title = "Cremation by Denning's"
+date = "2018-07-08"
+url = "https://cremationbydennings.com/tribute/details/4638/Michael-Kilkenny/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kilkenny"
+use = "Mike"
+given = "Michael"
+nick = "Killer"
+
+[person.birth]
+date = "1945"
+
+[person.death]
+date = "2018-06-28"

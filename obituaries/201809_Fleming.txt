@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201809_Fleming"
+
+[[person.meta.citation]]
+title = "Louisville Memorial Garden Funeral Home"
+date = "2018-09-20"
+url = "http://www.lmgfuneralhomeeast.com/book-of-memories/3611542/Fleming-John/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-20"
+
+[person.name]
+last = "Fleming"
+use = "John"
+given = "John Marvin"
+
+[person.birth]
+date = "1934-02-13"
+
+[person.death]
+date = "2018-09-17"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.burial]
+cemetery.name = "Louisville Memorial Garden East"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Louisville"
+
+[[person.education]]
+school.name = "duPont Manual HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

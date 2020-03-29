@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201801_Savage"
+
+[[person.meta.citation]]
+title = "Moody Funeral Home"
+date = "2018-10-03"
+url = "http://www.moodyfuneralhome.com/obituary/4509768"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Savage"
+use = "Hank"
+given = "William Henry"
+
+[person.birth]
+date = "1926-10-12"
+
+[person.death]
+date = "2018-01-03"

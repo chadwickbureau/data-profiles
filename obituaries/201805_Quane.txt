@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201805_Quane"
+
+[[person.meta.citation]]
+title = "Summers Funeral Home"
+date = "2019-05-27"
+url = "https://summersfuneral.com/tribute/details/90801/Jeremiah-Quane/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Quane"
+use = "Jerry"
+given = "Jeremiah Arthur"
+
+[person.birth]
+date = "1934-08-07"
+place.country = "US"
+place.state = "ID"
+place.city = "American Falls"
+
+[person.death]
+date = "2018-05-12"
+place.country = "US"
+place.state = "ID"
+place.city = "Boise"
+
+[person.burial]
+cemetery.name = "Cloverdale Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Boise"
+
+[[person.education]]
+school.name = "University of Idaho"
+school.type = "college"

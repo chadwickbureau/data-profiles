@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201807_Osborne"
+
+[[person.meta.citation]]
+title = "Ballhorn Chapels"
+date = "2018-07-08"
+url = "http://www.ballhornchapels.com/obituaries/William-Bill-W-Osborne-III?obId=3144460#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Osborne"
+use = "Bill"
+given = "William W."
+suffix = "III"
+
+[person.birth]
+date = "1951-03-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2018-07-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Sheboygan Falls"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Sheboygan"
+
+[[person.education]]
+school.name = "Upper Dublin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Fort Washington"
+
+[[person.education]]
+school.name = "University of Lynchburg"
+school.type = "college"

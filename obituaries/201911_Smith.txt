@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201911_Smith"
+
+[[person.meta.citation]]
+title = "Bostick Tompkins Funeral Home"
+date = "2019-12-06"
+url = "https://www.bosticktompkinsinc.com/notices/John-SmithSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "Smith"
+use = "John"
+given = "John Ivory"
+suffix = "Sr."
+
+[person.birth]
+date = "1934-11-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Cocoa Beach"
+
+[person.death]
+date = "2019-11-27"
+
+[[person.education]]
+school.name = "Monroe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Cocoa"

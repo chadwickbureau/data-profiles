@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201808_Moore_2"
+
+[[person.meta.citation]]
+title = "Crown Memorial Center"
+date = "2018-08-21"
+url = "http://www.anewtradition.com/obituaries/obituary/16298_William_Kellogg_Moore"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Moore"
+use = "Bill"
+given = "William Kellogg"
+
+[person.birth]
+date = "1941-02-11"
+
+[person.death]
+date = "2018-08-14"

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201801_Gonzalez"
+
+[[person.meta.citation]]
+title = "LaPrensaDeMonclova.com"
+date = "2018-01-15"
+url = "http://laprensademonclova.com/2018/01/15/fanaticos-del-deporte-81/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Gonzalez"
+use = "Wenceslao"
+given = "Wenceslao"
+matrilineal = "Limon"
+nick = "Chalayo"
+
+[person.death]
+date = "2018-01-12"
+place.country = "MX"
+place.state = "Coahuila"
+place.city = "Sabinas"

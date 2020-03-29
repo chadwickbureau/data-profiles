@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Austin_James_Philip"
+
+[person.name]
+last = "Austin"
+use = "James"
+given = "James Philip"
+
+[person.birth]
+date = "1879-12-08"
+place.country = "GB"
+place.city = "Swansea"
+
+[person.death]
+date = "1965-03-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Laguna Beach"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "67.5"
+weight = "155"

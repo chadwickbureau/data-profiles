@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_037"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-06-01"
+
+[person.name]
+last = "Dougan"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bismarck"
+team.league.name = "North Dakota League"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_093"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1930-04-28"
+pages = "7"
+
+[person.name]
+last = "Beatty"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Independence"
+team.league.name = "Western Association"

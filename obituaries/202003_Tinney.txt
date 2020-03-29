@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202003_Tinney"
+
+[[person.meta.citation]]
+title = "Lowell-Tims Funeral Home"
+date = "2020-03-16"
+url = "https://www.lowell-tims.com/obituaries/Roy-Lee-Tinney?obId=12413044#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Tinney"
+use = "Roy"
+given = "Roy Lee"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-05-22"
+place.country = "US"
+place.state = "OK"
+place.city = "Altus"
+
+[person.death]
+date = "2020-03-13"
+
+[person.burial]
+cemetery.name = "Roselawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Mangum"
+
+[[person.education]]
+school.name = "Brinkman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Brinkman"
+
+[[person.education]]
+school.name = "Southwestern Oklahoma State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

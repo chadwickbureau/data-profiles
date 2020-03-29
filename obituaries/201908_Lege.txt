@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201908_Lege"
+
+[[person.meta.citation]]
+title = "Courier-Journal"
+date = "2019-08-18"
+url = "https://www.legacy.com/obituaries/louisville/obituary.aspx?n=sylvester-william-lege-bill&pid=193665885"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-18"
+
+[person.name]
+last = "Lege"
+use = "Bill"
+given = "Sylvester William"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-10-13"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2019-08-14"
+
+[[person.education]]
+school.name = "St. Xavier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

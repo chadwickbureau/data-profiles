@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201911_Arnott"
+
+[[person.meta.citation]]
+title = "Santa Cruz Sentinel"
+date = "2020-01-01"
+url = "https://www.legacy.com/obituaries/santacruzsentinel/obituary.aspx?n=george-madison-arnott&pid=194795600"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Arnott"
+use = "George"
+given = "George Madison"
+suffix = "Sr."
+
+[person.birth]
+date = "1949-09-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Berkeley"
+
+[person.death]
+date = "2019-11-05"
+
+[[person.education]]
+school.name = "Santa Cruz HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Cruz"
+
+[[person.education]]
+school.name = "Cabrillo College"
+school.type = "college"

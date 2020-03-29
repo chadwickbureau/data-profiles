@@ -1,0 +1,156 @@
+[[person]]
+
+[person.meta]
+key = "Zaby_Paul_T"
+
+[person.name]
+last = "Zaby"
+use = "Paul"
+given = "Paul T."
+
+[person.birth]
+date = "1916-06-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.death]
+date = "2009-02-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Stockton"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "70"
+weight = "165"
+
+[person.sameas]
+ssn = "571-12-2265"
+
+[[person.resides]]
+dates = "1952"
+place.country = "US"
+place.state = "CA"
+place.city = "Huntington Park"
+place.address = "6244 Plaska Ave."
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Zaby"
+person.name.use = "Charles"
+person.name.given = "Charles Vincent"
+
+
+[[person.education]]
+school.name = "Huntington Park High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Huntington Park"
+dates = "/1939"
+degree = "graduated"
+
+
+[[person.playing]]
+season = "1941"
+league.name = "Pioneer League"
+splits.0.team.name = "Idaho Falls"
+totals.F_POS = "OF"
+totals.B_G = "53"
+totals.B_AB = "177"
+totals.B_R = "22"
+totals.B_H = "51"
+totals.B_TB = "70"
+totals.B_2B = "8"
+totals.B_3B = "4"
+totals.B_HR = "1"
+totals.B_RBI = "25"
+totals.B_SB = "3"
+totals.B_AVG = ".283"
+
+[[person.playing]]
+season = "1942"
+status = "Out of organized baseball"
+
+[[person.playing]]
+season = "1943"
+league.name = "Pacific Coast League"
+splits.0.team.name = "Oakland"
+totals.F_POS = "OF"
+totals.B_G = "4"
+totals.B_AB = "0"
+totals.B_R = "0"
+totals.B_H = "0"
+totals.B_TB = "0"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "0"
+totals.B_SB = "0"
+totals.B_AVG = ".000"
+
+[[person.playing]]
+season = "1944"
+status = "Voluntarily retired"
+
+[[person.playing]]
+season = "1945"
+status = "Voluntarily retired"
+
+[[person.playing]]
+season = "1946"
+status = "Voluntarily retired"
+
+[[person.playing]]
+season = "1947"
+league.name = "Sunset League"
+splits.0.team.name = "Las Vegas"
+totals.F_POS = "OF"
+totals.B_G = "133"
+totals.B_AB = "531"
+totals.B_R = "158"
+totals.B_H = "213"
+totals.B_TB = "328"
+totals.B_2B = "47*"
+totals.B_3B = "7"
+totals.B_HR = "18"
+totals.B_RBI = "132"
+totals.B_SB = "22"
+totals.B_AVG = ".401*"
+
+[[person.playing]]
+season = "1948"
+league.name = "Southeastern League"
+splits.0.team.name = "Vicksburg"
+totals.F_POS = "OF"
+totals.B_G = "131"
+totals.B_AB = "474"
+totals.B_R = "101"
+totals.B_H = "153"
+totals.B_TB = "218"
+totals.B_2B = "22"
+totals.B_3B = "11"
+totals.B_HR = "7"
+totals.B_RBI = "65"
+totals.B_SB = "8"
+totals.B_AVG = ".323"
+
+[[person.playing]]
+season = "1949"
+league.name = "Western International League"
+splits.0.team.name = "Spokane"
+totals.F_POS = "OF"
+totals.B_G = "140"
+totals.B_AB = "537"
+totals.B_R = "131"
+totals.B_H = "183"
+totals.B_TB = "237"
+totals.B_2B = "35"
+totals.B_3B = "5"
+totals.B_HR = "3"
+totals.B_RBI = "89"
+totals.B_SB = "21"
+totals.B_AVG = ".341"

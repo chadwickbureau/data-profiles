@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201806_Hermedes"
+
+[[person.meta.citation]]
+title = "Scott & Barbeiri Funeral Home"
+date = "2018-06-06"
+url = "http://www.sbfuneralhome.com/obituaries/Christ-Chris-Martin-Hermedes/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hermedes"
+use = "Christ"
+given = "Christ"
+
+[person.birth]
+date = "1928-11-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Bradford"
+
+[person.death]
+date = "2018-06-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[person.burial]
+cemetery.name = "Graceland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Albany"
+
+[[person.military]]
+country = "US"
+branch = "Army"

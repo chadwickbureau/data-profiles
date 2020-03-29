@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201911_Strohmayer_1"
+
+[[person.meta.citation]]
+title = "Redding Record Searchlight"
+date = "2019-12-02"
+url = "https://www.legacy.com/obituaries/redding/obituary.aspx?n=john-strohmayer&pid=194603266"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "Strohmayer"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2019-11-28"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201907_Mossi"
+
+[[person.meta.citation]]
+title = "Idaho Statesman"
+date = "2019-07-26"
+url = "https://www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=donald-louis-mossi&pid=193463944&fhid=7093"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "Mossi"
+use = "Don"
+given = "Donald Louis"
+nick = "The Sphinx"
+
+[person.birth]
+date = "1929-01-29"
+place.country = "US"
+place.state = "CA"
+place.city = "St. Helena"
+
+[person.death]
+date = "2019-07-19"
+place.country = "US"
+place.state = "ID"
+place.city = "Nampa"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Daly City"

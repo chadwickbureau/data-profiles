@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201910_Maggiacomo_2"
+
+[[person.meta.citation]]
+title = "Legacy Options Funeral Home"
+date = "2019-10-27"
+url = "https://memorials.legacyoptions.com/alfred-maggiacomo/3994485/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Maggiacomo"
+use = "Alfred"
+given = "Alfred John"
+
+[person.birth]
+date = "1929-06-23"
+
+[person.death]
+date = "2019-10-13"

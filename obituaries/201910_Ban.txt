@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201910_Ban"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2019-11-06"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=george-anthony-ban&pid=194364337&fhid=8304"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-06"
+
+[person.name]
+last = "Ban"
+use = "George"
+given = "George Anthony"
+suffix = "Jr."
+
+[person.birth]
+date = "1955-07-25"
+
+[person.death]
+date = "2019-10-22"

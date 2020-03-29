@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200319_007"
+
+[[person.meta.citation]]
+title = "Brenham Daily Banner-Press"
+date = "1915-03-17"
+pages = "1"
+
+[person.name]
+last = "Craig"
+use = "Oral"
+given = "Oral"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Sugarland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brenham"
+team.league.name = "Middle Texas League"
+description.throws = "L"

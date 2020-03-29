@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Barton_Vincent_David"
+
+[person.name]
+last = "Barton"
+use = "Vincent"
+given = "Vincent David"
+
+[person.birth]
+date = "1908-02-01"
+place.country = "CA"
+place.state = "AB"
+place.city = "Edmonton"
+
+[person.death]
+date = "1973-09-13"
+place.country = "CA"
+place.state = "ON"
+place.city = "Toronto"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72"
+weight = "180"
+note = [ "Hit 5 home runs in a game on August 26, 1938 against Kannapolis, Carolina League" ]

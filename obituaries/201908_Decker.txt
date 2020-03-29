@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201908_Decker"
+
+[[person.meta.citation]]
+title = "Weber Funeral Home"
+date = "2019-08-20"
+url = "https://www.weberfuneralhome.com/obituaries/Joseph-Joe-Decker/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-20"
+
+[person.name]
+last = "Decker"
+use = "Joe"
+given = "Joseph W."
+
+[person.birth]
+date = "1929-03-31"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2019-08-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Glen Carbon"
+
+[person.burial]
+cemetery.name = "Calvary Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Edwardsville"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

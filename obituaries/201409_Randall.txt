@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "201409_Randall"
+
+[[person.meta.citation]]
+title = "Cummings-Gagne Funeral Home"
+date = "2014-09-18"
+url = "http://www.cummings-gagnefh.com/book-of-memories/1948288/Randall-Lewis/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-17"
+
+[person.name]
+last = "Randall"
+use = "Lew"
+given = "Lewis Everett"
+suffix = "Sr."
+
+[person.birth]
+date = "1937-08-27"
+place.country = "US"
+place.state = "CT"
+place.city = "Norwich"
+
+[person.death]
+date = "2014-09-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Maplewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Norwich"
+
+[[person.education]]
+school.name = "Norwich Free Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Norwich"
+
+[[person.education]]
+school.name = "American International College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Springfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

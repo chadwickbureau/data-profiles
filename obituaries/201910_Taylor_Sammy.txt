@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201910_Taylor_Sammy"
+
+[[person.meta.citation]]
+title = "Lanford Gwinn Mortuary"
+date = "2019-10-11"
+url = "https://www.lanfordgwinn.com/notices/Samuel-Taylor"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-11"
+
+[person.name]
+last = "Taylor"
+use = "Sammy"
+given = "Samuel Douglas"
+
+[person.birth]
+date = "1933-02-27"
+
+[person.death]
+date = "2019-10-08"
+place.country = "US"
+place.state = "SC"
+place.city = "Woodruff"
+
+[person.burial]
+cemetery.name = "Chattanooga National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Chattanooga"
+
+[[person.education]]
+school.name = "Woodruff HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Woodruff"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

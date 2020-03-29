@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Cyrus"
+
+[person.name]
+last = "Anderson"
+use = "Cyrus"
+given = "Cyrus"
+
+[person.description]
+bats = "R"
+throws = "R"

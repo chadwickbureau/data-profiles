@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202002_Forinash"
+
+[[person.meta.citation]]
+title = "Guerriero Funeral Home"
+date = "2020-02-25"
+url = "https://www.guerrierofuneralhome.com/obituary/Elbert-Forinash"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-25"
+
+[person.name]
+last = "Forinash"
+use = "Elbert"
+given = "Elbert Alan"
+
+[person.birth]
+date = "1929-12-18"
+place.country = "US"
+place.state = "WV"
+place.city = "Cleveland"
+
+[person.death]
+date = "2020-02-20"
+place.country = "US"
+place.state = "OH"
+place.city = "Chardon"
+
+[person.burial]
+cemetery.name = "Saybrook Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Ashtabula"
+
+[[person.military]]
+country = "US"
+branch = "Army"

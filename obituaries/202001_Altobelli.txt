@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "202001_Altobelli"
+
+[[person.meta.citation]]
+title = "Orange County Register"
+date = "2020-01-26"
+url = "https://www.ocregister.com/2020/01/26/orange-coast-college-baseball-coach-john-altobelli-dies-in-helicopter-crash-with-kobe-bryant/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Altobelli"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2020-01-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Calabasas"

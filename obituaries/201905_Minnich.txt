@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201905_Minnich"
+
+[[person.meta.citation]]
+title = "Atlanta Journal-Constitution"
+date = "2019-06-02"
+url = "https://www.legacy.com/obituaries/atlanta/obituary.aspx?n=ronald-minnich&pid=193040486"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-03"
+
+[person.name]
+last = "Minnich"
+use = "Ron"
+given = "Ronald Julius"
+
+[person.birth]
+date = "1933-12-09"
+place.country = "US"
+place.state = "IL"
+place.city = "Roselle"
+
+[person.death]
+date = "2019-05-13"

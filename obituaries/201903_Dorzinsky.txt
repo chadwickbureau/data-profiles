@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201903_Dorzinsky"
+
+[[person.meta.citation]]
+title = "John V. Morris Family Funeral Home"
+date = "2019-03-19"
+url = "https://www.johnvmorrisfuneralhomes.com/notices/Walter-Dorzinsky"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-19"
+
+[person.name]
+last = "Dorzinsky"
+use = "Lefty"
+given = "Walter"
+
+[person.birth]
+date = "1925-12-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilkes-Barre"
+
+[person.death]
+date = "2019-03-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.burial]
+cemetery.name = "St. John’s Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Wilkes-Barre Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Wilkes-Barre"
+
+[[person.education]]
+school.name = "Wentworth Institute of Technology"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

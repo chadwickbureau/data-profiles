@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201911_Speck"
+
+[[person.meta.citation]]
+title = "Allnutt Funeral Home"
+date = "2019-11-17"
+url = "https://www.dignitymemorial.com/obituaries/loveland-co/keith-speck-8925179"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-17"
+
+[person.name]
+last = "Speck"
+use = "Keith"
+given = "Keith Virgil"
+
+[person.birth]
+date = "1928-09-11"
+place.country = "US"
+place.state = "IA"
+place.city = "Bagley"
+
+[person.death]
+date = "2019-11-12"
+
+[person.burial]
+cemetery.name = "Resthaven Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "CO"
+cemetery.place.city = "Fort Collins"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

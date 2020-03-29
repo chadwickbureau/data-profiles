@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170219_142"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Flanagan"
+use = "Steamer"
+given = "Steamer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Troy"
+team.league.name = "New York State League"

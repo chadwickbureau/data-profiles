@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201905_Anderson"
+
+[[person.meta.citation]]
+title = "Delaware Valley Cremation Center"
+date = "2019-05-28"
+url = "http://delvalcremation.com/memorials/james-a-anderson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-28"
+
+[person.name]
+last = "Anderson"
+use = "Jim"
+given = "James A."
+
+[person.birth]
+date = "1940-08-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2019-05-17"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Abraham Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Philadelphia"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

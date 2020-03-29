@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201405_Crawford"
+
+[[person.meta.citation]]
+title = "The State Journal-Register"
+date = "2014-05-19"
+url = "http://www.legacy.com/obituaries/sj-r/obituary.aspx?n=James-CRAWFORD&pid=171066697"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-19"
+
+[person.name]
+last = "Crawford"
+use = "Jim"
+given = "James B."
+
+[person.birth]
+date = "1933-09-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2014-05-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Camp Butler National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Clear Lake"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

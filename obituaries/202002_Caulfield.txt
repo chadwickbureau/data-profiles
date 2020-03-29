@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202002_Caulfield"
+
+[[person.meta.citation]]
+title = "The Day"
+date = "2020-02-12"
+url = "https://www.legacy.com/obituaries/theday/obituary.aspx?n=james-benedict-caulfield&pid=195381120&fhid=13047"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Caulfield"
+use = "Jim"
+given = "James Benedict"
+
+[person.birth]
+date = "1928-03-01"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2020-02-09"
+place.country = "US"
+place.state = "CT"
+place.city = "Branford"
+
+[person.burial]
+cemetery.name = "Mount St. Peter Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Derby"
+
+[[person.military]]
+country = "US"
+branch = "Army"

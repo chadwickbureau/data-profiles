@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201810_Krenchicki_2"
+
+[[person.meta.citation]]
+title = "FrontierLeague.com"
+date = "2018-10-21"
+url = "https://www.frontierleague.com/2018/10/16/former-evansville-manager-wayne-krenchicki-passes-away/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Krenchicki"
+use = "Wayne"
+given = "Wayne"
+
+[person.death]
+date = "2018-10-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Pittsfield"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"

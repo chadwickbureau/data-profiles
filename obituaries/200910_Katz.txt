@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "200910_Katz"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-13"
+url = "http://www.tributes.com/obituary/show/Joseph-Theophile-Katz-87001446"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Katz"
+use = "Joe"
+given = "Joseph Theophile"
+
+[person.birth]
+date = "1922-02-07"
+
+[person.death]
+date = "2009-10-14"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.burial]
+cemetery.name = "Lake Lawn Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "Alcee Fortier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"

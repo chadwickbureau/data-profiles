@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911-Heim"
+
+[[person.meta.citation]]
+title = "Williams Funeral Homes"
+date = "2019-11-23"
+url = "https://www.wmsfh.com/notices/Val-Heim"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-23"
+
+[person.name]
+last = "Heim"
+use = "Val"
+given = "Val R."
+
+[person.birth]
+date = "1920-11-04"
+place.country = "US"
+place.state = "WI"
+place.city = "Plymouth"
+
+[person.death]
+date = "2019-11-21"
+place.country = "US"
+place.state = "NE"
+place.city = "Superior"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Superior"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

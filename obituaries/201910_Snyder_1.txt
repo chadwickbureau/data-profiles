@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201910_Snyder_1"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2019-10-28"
+url = "https://www.seattletimes.com/sports/uw-soccer-teams-pick-up-pac-12-road-wins/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-29"
+
+[person.name]
+last = "Snyder"
+use = "Gary"
+given = "Gary"
+
+[person.birth]
+date = "1939"
+
+[person.death]
+date = "2019-10-24"
+
+[[person.education]]
+school.name = "Queen Anne HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Seattle"
+
+[[person.education]]
+school.name = "University of Washington"
+school.type = "college"

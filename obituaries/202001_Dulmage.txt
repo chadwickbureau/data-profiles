@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202001_Dulmage"
+
+[[person.meta.citation]]
+title = "Rector-Hicks Funeral Home"
+date = "2020-02-02"
+url = "https://rector-hicksfuneralhome.com/tribute/details/932/Thomas-Dulmage-Sr/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-02"
+
+[person.name]
+last = "Dulmage"
+use = "Tom"
+given = "Thomas A."
+
+[person.birth]
+date = "1927-03-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Watertown"
+
+[person.death]
+date = "2020-01-26"
+
+[[person.education]]
+school.name = "Watertown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Watertown"
+
+[[person.education]]
+school.name = "Clarkson University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

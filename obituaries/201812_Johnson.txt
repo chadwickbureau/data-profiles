@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Johnson"
+
+[[person.meta.citation]]
+title = "Zacherl Funeral Home"
+date = "2019-01-01"
+url = "https://www.zacherlfuneralhome.com/obituaries/Earl-Arthur-Johnson?obId=3975380#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-01"
+
+[person.name]
+last = "Johnson"
+use = "Earl"
+given = "Earl Arthur"
+
+[person.birth]
+date = "1933-11-04"
+place.country = "US"
+place.state = "WI"
+place.city = "Onalaska"
+
+[person.death]
+date = "2018-12-30"
+place.country = "US"
+place.state = "WI"
+place.city = "Waukesha"
+
+[[person.education]]
+school.name = "Onalaska HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Onalaska"

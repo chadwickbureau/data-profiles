@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201909_Greengrass"
+
+[[person.meta.citation]]
+title = "Max Brannon & Sons Funeral Home"
+date = "2019-09-17"
+url = "https://www.maxbrannonandsons.com/notices/JamesJim-Greengrass"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-17"
+
+[person.name]
+last = "Greengrass"
+use = "Jim"
+given = "James Raymond"
+
+[person.birth]
+date = "1927-10-24"
+
+[person.death]
+date = "2019-09-09"
+
+[[person.education]]
+school.name = "Addison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Addison"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

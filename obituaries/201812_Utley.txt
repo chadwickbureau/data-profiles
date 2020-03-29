@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201812_Utley"
+
+[[person.meta.citation]]
+title = "Sanders Funeral Home"
+date = "2019-01-06"
+url = "https://www.sandersfuneralhome.com/obituaries/Chad-Utley/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-06"
+
+[person.name]
+last = "Utley"
+use = "Chad"
+given = "Chad Corwyn"
+
+[person.birth]
+date = "1953-07-28"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.death]
+date = "2018-12-31"
+
+[person.burial]
+cemetery.name = "City of Lubbock Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Lubbock"
+
+[[person.education]]
+school.name = "Lubbock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Lubbock"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

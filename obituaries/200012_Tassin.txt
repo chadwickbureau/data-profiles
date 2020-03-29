@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "200012_Tassin"
+
+[[person.meta.citation]]
+title = "Houma Today"
+date = "2000-12-03"
+url = "https://www.houmatoday.com/news/20001203/irvin-tassin"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Tassin"
+use = "Irvin"
+given = "Irvin William"
+
+[person.death]
+date = "2000-12-01"
+
+[person.burial]
+cemetery.name = "St. Francis de Sales Cemetery No. 2"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Houma"

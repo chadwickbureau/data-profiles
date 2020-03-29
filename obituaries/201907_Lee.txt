@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201907_Lee"
+
+[[person.meta.citation]]
+title = "Penwell-Gabel Funeral Home"
+date = "2019-07-29"
+url = "https://www.penwellgabeltopeka.com/Obituary/174172/Robert-Lee/Topeka-KS"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-29"
+
+[person.name]
+last = "Lee"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1926-01-29"
+place.country = "US"
+place.state = "KS"
+place.city = "Topeka"
+
+[person.death]
+date = "2019-07-22"
+
+[[person.education]]
+school.name = "Topeka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Topeka"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201911_Sisson"
+
+[[person.meta.citation]]
+title = "Charles W. Smith & Sons Funeral Home"
+date = "2019-11-25"
+url = "http://smithfamilyfuneralhomes.tributes.com/obituary/show/Charles-Melville-Sisson-107773497"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-25"
+
+[person.name]
+last = "Sisson"
+use = "Chuck"
+given = "Charles Melville"
+
+[person.birth]
+date = "1933-03-28"
+place.country = "US"
+place.state = "CO"
+place.city = "Englewood"
+
+[person.death]
+date = "2019-11-11"

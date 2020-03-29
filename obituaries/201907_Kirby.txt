@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201907_Kirby"
+
+[[person.meta.citation]]
+title = "Southern Cremations & Funerals"
+date = "2020-01-01"
+url = "https://www.southerncremations.com/obituaries/Gerald-Ray-Kirby?obId=9001508#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Kirby"
+use = "Gerald"
+given = "Gerald Ray"
+
+[person.birth]
+date = "1937-10-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Albany"
+
+[person.death]
+date = "2019-07-18"
+
+[[person.education]]
+school.name = "Florida State University"
+school.type = "college"

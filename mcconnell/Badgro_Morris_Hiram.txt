@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Badgro_Morris_Hiram"
+
+[person.name]
+last = "Badgro"
+use = "Red"
+given = "Morris Hiram"
+
+[person.birth]
+date = "1902-12-01"
+place.country = "US"
+place.state = "WA"
+place.city = "Orillia"
+
+[person.death]
+date = "1998-07-13"
+place.country = "US"
+place.state = "WA"
+place.city = "Kent"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72"
+weight = "190"
+note = [ "Member of Pro Football Hall of Fame" ]

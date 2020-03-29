@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201903_Schypinski"
+
+[[person.meta.citation]]
+title = "Mandziuk & Son Funeral Home"
+date = "2019-04-01"
+url = "https://www.mandziukfuneralhome.com/obituaries/Gerald-Jerry-Schypinski/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-01"
+
+[person.name]
+last = "Schypinski"
+use = "Jerry"
+given = "Gerald"
+
+[person.birth]
+date = "1931-09-16"
+
+[person.death]
+date = "2019-03-25"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Clinton Township"

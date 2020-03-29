@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201903_Mazmanian"
+
+[[person.meta.citation]]
+title = "APNews.com"
+date = "2019-03-22"
+url = "https://apnews.com/9c5e30123df74584bac0df316b60e086"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-23"
+
+[person.name]
+last = "Mazmanian"
+use = "Art"
+given = "Art"
+
+[person.death]
+date = "2019-03-22"
+place.country = "US"
+place.state = "CA"
+place.city = "San Dimas"
+
+[[person.education]]
+school.name = "Susan Miller Dorsey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"

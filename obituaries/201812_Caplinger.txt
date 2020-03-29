@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Caplinger"
+
+[[person.meta.citation]]
+title = "Long Beach Press-Telegram"
+date = "2018-12-07"
+url = "https://www.legacy.com/obituaries/lbpresstelegram/obituary.aspx?n=william-caplinger&pid=190929151&fhid=9239"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Caplinger"
+use = "Bill"
+given = "William"
+suffix = "Jr."
+
+[person.birth]
+date = "1918-09-13"
+
+[person.death]
+date = "2018-12-03"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

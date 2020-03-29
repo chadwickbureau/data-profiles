@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201912_Foreman"
+
+[[person.meta.citation]]
+title = "Johnson Funeral Home"
+date = "2019-12-06"
+url = "https://www.johnsonfuneralhome.net/obituary/gregory-foreman?fbclid=IwAR1Nh_rMRknsFLpv-nK1JOBTN_BM4SwG8jXzShRk6OKPY9kesv4iwCHCxaU"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "Foreman"
+use = "Gregory"
+given = "Gregory Braden"
+
+[person.birth]
+date = "1952-02-09"
+place.country = "US"
+place.state = "LA"
+place.city = "Lake Charles"
+
+[person.death]
+date = "2019-12-02"
+place.country = "US"
+place.state = "LA"
+place.city = "Lake Charles"
+
+[person.burial]
+cemetery.name = "Consolata Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Lake Charles"
+
+[[person.education]]
+school.name = "LaGrange HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Lake Charles"
+
+[[person.education]]
+school.name = "McNeese State University"
+school.type = "college"

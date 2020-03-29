@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20191218_001"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1955-01-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-18"
+
+[person.name]
+last = "Turney"
+use = "Ted"
+given = "Ted"
+
+[[person.education]]
+school.name = "Gastonia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Gastonia"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1954"
+team.name = "Wytheville"
+team.league.name = "Appalachian League"

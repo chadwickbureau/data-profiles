@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201903_Tarapacki"
+
+[[person.meta.citation]]
+title = "Pietszak Funeral Home"
+date = "2019-03-11"
+url = "https://www.pietszak.com/obituary/david-tarapacki"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-11"
+
+[person.name]
+last = "Tarapacki"
+use = "Dave"
+given = "David V."
+
+[person.birth]
+date = "1928-05-12"
+
+[person.death]
+date = "2019-03-06"
+place.country = "US"
+place.state = "NY"
+place.city = "Amherst"
+
+[person.burial]
+cemetery.name = "St. Adalbert’s Roman Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Cheektowaga"

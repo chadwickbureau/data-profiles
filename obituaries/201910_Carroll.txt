@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201910_Carroll"
+
+[[person.meta.citation]]
+title = "Morgan Memorial Home"
+date = "2019-10-20"
+url = "https://www.morganmemorialhome.com/obituary/r-bruce-carroll/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Carroll"
+use = "R."
+given = "R. Bruce"
+
+[person.birth]
+date = "1927-04-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Garrett Township"
+
+[person.death]
+date = "2019-10-14"
+place.country = "US"
+place.state = "IL"
+place.city = "Urbana"
+
+[[person.education]]
+school.name = "Atwood Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Atwood"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

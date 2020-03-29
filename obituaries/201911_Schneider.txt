@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201911_Schneider"
+
+[[person.meta.citation]]
+title = "Moll Funeral Home"
+date = "2019-12-01"
+url = "http://www.mollfuneralhome.com/obituary/edward-schneider"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-01"
+
+[person.name]
+last = "Schneider"
+use = "Ed"
+given = "Edward R."
+
+[person.birth]
+date = "1935-09-17"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2019-11-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Mascoutah"
+
+[[person.education]]
+school.name = "Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

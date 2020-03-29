@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201903_Curtiss"
+
+[[person.meta.citation]]
+title = "News Times"
+date = "2019-04-03"
+url = "https://www.legacy.com/obituaries/newstimes/obituary.aspx?n=rutledge-curtiss&pid=192054622&fhid=24242"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Curtiss"
+use = "Rutledge"
+given = "Rutledge W."
+
+[person.birth]
+date = "1927-12-30"
+place.country = "US"
+place.state = "CT"
+place.city = "Warren"
+
+[person.death]
+date = "2019-03-31"
+place.country = "US"
+place.state = "CT"
+place.city = "Danbury"
+
+[person.burial]
+cemetery.name = "Center Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "New Milford"
+
+[[person.education]]
+school.name = "New Milford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New Milford"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

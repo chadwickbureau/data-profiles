@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201912_Rudolph"
+
+[[person.meta.citation]]
+title = "Ammen Family Funeral Care"
+date = "2019-12-16"
+url = "https://afcfcare.com/obituaries/jeffrey-william-rudolph/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-16"
+
+[person.name]
+last = "Rudolph"
+use = "Jeff"
+given = "Jeffrey William"
+
+[person.birth]
+date = "1957-12-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Concord"
+
+[person.death]
+date = "2019-12-07"
+place.country = "US"
+place.state = "FL"
+place.city = "Cocoa Beach"
+
+[[person.education]]
+school.name = "Titusville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Titusville"
+
+[[person.education]]
+school.name = "University of Central Florida"
+school.type = "college"

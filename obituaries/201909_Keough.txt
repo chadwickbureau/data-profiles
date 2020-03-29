@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201909_Keough"
+
+[[person.meta.citation]]
+title = "Express-News"
+date = "2019-09-12"
+url = "https://www.legacy.com/obituaries/sanantonio/obituary.aspx?n=joseph-william-keough&pid=193880696"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Keough"
+use = "Joseph"
+given = "Joseph William"
+
+[person.death]
+date = "2019-09-09"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+
+[[person.education]]
+school.name = "Mount San Antonio College"
+school.type = "college"

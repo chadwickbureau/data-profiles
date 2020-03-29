@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201904_Cruz"
+
+[[person.meta.citation]]
+title = "Yakima Herald"
+date = "2019-05-19"
+url = "https://www.yakimaherald.com/obituaries/juan-john-antonio-cruz/article_0ed8ee46-75b5-11e9-b13b-fba240971774.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-20"
+
+[person.name]
+last = "Cruz"
+use = "Juan"
+given = "Juan Antonio"
+nick = "John"
+
+[person.birth]
+date = "1962-07-23"
+place.country = "US"
+place.state = "WA"
+place.city = "Sunnyside"
+
+[person.death]
+date = "2019-04-11"

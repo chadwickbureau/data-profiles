@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201909_Hatz"
+
+[[person.meta.citation]]
+title = "Merced Sun Star"
+date = "2019-11-10"
+url = "https://www.legacy.com/obituaries/mercedsunstar/obituary.aspx?n=charles-christian-hatz-chuck&pid=194362324"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Hatz"
+use = "Chuck"
+given = "Charles Christian"
+
+[person.birth]
+date = "1941-09-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2019-09-26"
+
+[[person.education]]
+school.name = "Morton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Morton"
+
+[[person.education]]
+school.name = "Colorado State University"
+school.type = "college"

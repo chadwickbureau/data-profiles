@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201910_Tufts"
+
+[[person.meta.citation]]
+title = "Riverside Memorial Chapel"
+date = "2019-10-09"
+url = "https://www.dignitymemorial.com/obituaries/new-york-ny/robert-tufts-8880002"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-09"
+
+[person.name]
+last = "Tufts"
+use = "Bob"
+given = "Robert Malcolm"
+
+[person.birth]
+date = "1955-11-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Medford"
+
+[person.death]
+date = "2019-10-04"
+
+[person.burial]
+cemetery.name = "Beth Israel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Woodbridge Township"
+
+[[person.education]]
+school.name = "Lynnfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lynnfield"
+
+[[person.education]]
+school.name = "Princeton University"
+school.type = "college"

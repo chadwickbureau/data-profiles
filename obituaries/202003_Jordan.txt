@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202003_Jordan"
+
+[[person.meta.citation]]
+title = "News Mirror"
+date = "2020-03-11"
+url = "https://www.newsmirror.net/obituaries/jared-brandon-jordan/article_c413a276-63d8-11ea-9cb7-93f65384de46.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-12"
+
+[person.name]
+last = "Jordan"
+use = "Jared"
+given = "Jared Brandon"
+
+[person.birth]
+date = "1987-12-20"
+
+[person.death]
+date = "2020-03-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside County"
+
+[[person.education]]
+school.name = "Canyon Spring HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Moreno Valley"
+
+[[person.education]]
+school.name = "Arrowhead Christian Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Redlands"
+
+[[person.education]]
+school.name = "Northeastern Oklahoma A&M College"
+school.type = "college"
+
+[[person.education]]
+school.name = "New Mexico State University"
+school.type = "college"

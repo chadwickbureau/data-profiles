@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201405_Chiappetta"
+
+[[person.meta.citation]]
+title = "StamfordAdvocate"
+date = "2014-05-28"
+url = "http://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=Charles-Chiappetta&pid=171142855"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-28"
+
+[person.name]
+last = "Chiappetta"
+use = "Charlie"
+given = "Charles C."
+
+[person.birth]
+date = "1932-07-17"
+place.country = "US"
+place.state = "CT"
+place.city = "Greenwich"
+
+[person.death]
+date = "2014-05-26"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Greenwich"
+
+[[person.education]]
+school.name = "Greenwich HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Greenwich"
+
+[[person.education]]
+school.name = "Arnold College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Milford"

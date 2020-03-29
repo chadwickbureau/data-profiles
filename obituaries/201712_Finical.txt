@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201712_Finical"
+
+[[person.meta.citation]]
+title = "Schermesser Funeral Home"
+date = "2017-12-19"
+url = "http://www.schermesserfh.com/notices/Edwin-Finical"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-19"
+
+[person.name]
+last = "Finical"
+use = "Ed"
+given = "Edwin R."
+
+[person.birth]
+date = "1926-08-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Cadiz"
+
+[person.death]
+date = "2017-12-15"
+
+[[person.education]]
+school.name = "Cadiz HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cadiz"
+
+[[person.education]]
+school.name = "Wittenberg University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

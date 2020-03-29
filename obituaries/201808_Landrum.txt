@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201808_Landrum"
+
+[[person.meta.citation]]
+title = "Clemson Sports Talk"
+date = "2018-08-20"
+url = "https://clemsonsportstalk.com/s/2128/joe-landrum-clemsons-first-baseball-all-american-passes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Landrum"
+use = "Joe"
+given = "Joe"
+
+[person.death]
+date = "2018-08-19"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[[person.education]]
+school.name = "Columbia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Clemson University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

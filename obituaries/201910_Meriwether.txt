@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201910_Meriwether"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2019-10-27"
+url = "https://www.espn.com/mlb/story/_/id/27935459/former-major-league-umpire-chuck-meriwether-dies-63"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Meriwether"
+use = "Chuck"
+given = "Chuck"
+
+[person.death]
+date = "2019-10-26"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201910_Barndollar"
+
+[[person.meta.citation]]
+title = "KenoshaNews.com"
+date = "2019-10-18"
+url = "https://www.legacy.com/obituaries/kenoshanews/obituary.aspx?n=thomas-barndollar&pid=194187988"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Barndollar"
+use = "Tom"
+given = "Thomas"
+
+[person.birth]
+date = "1938-11-24"
+place.country = "US"
+place.state = "WI"
+place.city = "Kenosha"
+
+[person.death]
+date = "2019-10-05"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Haven"

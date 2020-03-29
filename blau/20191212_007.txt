@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20191212_007"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1912-04-26"
+pages = "12"
+
+[person.name]
+last = "Martin"
+use = "P."
+given = "P. L."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "SC"
+place.city = "Spartanburg"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+description.height = "74"
+description.weight = "174"

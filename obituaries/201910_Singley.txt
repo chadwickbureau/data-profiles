@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201910_Singley"
+
+[[person.meta.citation]]
+title = "John P. Donohue"
+date = "2019-10-25"
+url = "http://www.obits.org/memorials/6774-joseph-anthony-singley/life_story"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-25"
+
+[person.name]
+last = "Singley"
+use = "Joe"
+given = "Joseph Anthony"
+
+[person.birth]
+date = "1963-12-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2019-10-23"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.burial]
+cemetery.name = "Lawn Croft Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Linwood"

@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "201405_Zmudosky"
+
+[[person.meta.citation]]
+title = "The Observer-Dispatch"
+date = "2014-05-23"
+url = "http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=Thomas-Zmudosky&pid=171106138"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-23"
+
+[person.name]
+last = "Zmudosky"
+use = "Tom"
+given = "Thomas Paul"
+suffix = "Sr."
+
+[person.birth]
+date = "1960-01-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Rome"
+
+[person.death]
+date = "2014-05-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Rome"
+
+[person.burial]
+cemetery.name = "Rome Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Rome"
+
+[[person.education]]
+school.name = "Rome Free Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Rome"
+
+[[person.education]]
+school.name = "Coastal Carolina University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Austin Peay University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Onondaga Community College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Syracuse"

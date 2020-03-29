@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201806_Beauchamp"
+
+[[person.meta.citation]]
+title = "Byles Memorial Home"
+date = "2018-06-13"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=11e8c0fe-7070-405b-be99-896148ad8c20&CFTOKEN=0&o_id=4872685&fh_id=10364"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Beauchamp"
+use = "Walter"
+given = "Walter J."
+
+[person.birth]
+date = "1927-09-10"
+place.country = "US"
+place.state = "CT"
+place.city = "New London"
+
+[person.death]
+date = "2018-06-08"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterford"
+
+[person.burial]
+cemetery.name = "Jordan Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Waterford"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"

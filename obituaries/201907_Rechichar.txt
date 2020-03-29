@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201907_Rechichar"
+
+[[person.meta.citation]]
+title = "James C. Stump Funeral Home"
+date = "2019-07-22"
+url = "https://www.jamesstumpfuneralhome.com/notices/AlbertDBert-Rechichar"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-22"
+
+[person.name]
+last = "Rechichar"
+use = "Bert"
+given = "Albert D."
+
+[person.birth]
+date = "1930-07-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Rostraver Township"
+
+[person.death]
+date = "2019-07-19"
+
+[person.burial]
+cemetery.name = "Olive Branch Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "North Belle Vernon"
+
+[[person.education]]
+school.name = "Rostraver HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Belle Vernon"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"

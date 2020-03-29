@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201808_Hall"
+
+[[person.meta.citation]]
+title = "Homer Funeral Home"
+date = "2019-09-25"
+url = "https://www.homerfuneralhome.com/obituary/john-bucky-hall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Hall"
+use = "Bucky"
+given = "John William"
+
+[person.birth]
+date = "1926-10-25"
+place.country = "CR"
+place.city = "Cartago"
+
+[person.death]
+date = "2018-08-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Sarasota"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Laporte"
+
+[[person.education]]
+school.name = "Cristobal HS"
+school.type = "secondary"
+school.place.country = "PA"
+school.place.city = "Cristobal"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170219_143"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Norris"
+use = "Pep"
+given = "Pep"
+nick = "Shorty"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Bridgeport"
+team.league.name = "Connecticut State League"

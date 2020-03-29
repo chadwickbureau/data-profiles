@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201810_Valenzuela"
+
+[[person.meta.citation]]
+title = "Debate.com.mx"
+date = "2018-10-24"
+url = "https://www.debate.com.mx/deportes/Muere-Benjamin-Papelero-Valenzuela-20181024-0145.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-26"
+
+[person.name]
+last = "Valenzuela"
+use = "Benjamin"
+given = "Benjamin"
+nick = "El Papelero"
+
+[person.birth]
+date = "1933-06-02"
+place.country = "MX"
+place.city = "Los Mochis"
+
+[person.death]
+date = "2018-10-24"
+place.country = "MX"
+place.city = "Los Mochis"

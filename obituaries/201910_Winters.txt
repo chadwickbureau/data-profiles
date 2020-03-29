@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201910_Winters"
+
+[[person.meta.citation]]
+title = "Costantino-Primo Funeral Home"
+date = "2019-12-11"
+url = "https://costantinoprimofh.com/tribute/details/2643/James-Winters/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Winters"
+use = "James"
+given = "James Frederick"
+
+[person.birth]
+date = "1928-05-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Butler"
+
+[person.death]
+date = "2019-10-16"
+
+[person.burial]
+cemetery.name = "Harleigh Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Camden"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

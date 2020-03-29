@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "Zawatski_Eugene_Paul"
+
+[person.name]
+last = "Zawatski"
+use = "Gene"
+given = "Eugene Paul"
+
+[person.birth]
+date = "1947-01-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2011-01-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Hopkinton"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "72"
+weight = "185"
+
+[person.sameas]
+ssn = "034-36-9732"
+
+[[person.resides]]
+dates = "1968"
+place.country = "US"
+place.state = "MA"
+place.city = "Braintree"
+place.address = "14 Faulkner Place"
+place.zip = "02184"
+
+
+[[person.education]]
+school.name = "Braintree High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+
+[[person.education]]
+school.name = "Boston State University"
+school.type = "college"
+
+
+[[person.playing]]
+season = "1968"
+league.name = "Appalachian League"
+splits.0.team.name = "Marion"
+totals.P_G = "15"
+totals.P_CG = "5*"
+totals.P_IP = "79"
+totals.P_W = "7"
+totals.P_L = "4"
+totals.P_PCT = ".636"
+totals.P_H = "84"
+totals.P_BB = "38"
+totals.P_SO = "66"
+totals.P_R = "49"
+totals.P_ER = "41"
+totals.P_ERA = "4.67"
+
+
+[[person.transaction]]
+date = "1968-06"
+type = "drafted"
+join.name = "New York"
+join.league.name = "National"
+round = "37"
+
+[[person.transaction]]
+date = "1968-06-13"
+type = "signed"
+join.name = "New York"
+join.league.name = "National"
+signers.0.name.last = "Fazio"
+signers.0.name.use = "Tom"
+signers.0.name.given = "Tom"

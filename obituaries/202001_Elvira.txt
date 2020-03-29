@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "202001_Elvira"
+
+[[person.meta.citation]]
+title = "Yahoo! News"
+date = "2020-01-31"
+url = "https://news.yahoo.com/ex-major-league-baseball-pitcher-051327512.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Elvira"
+use = "Narciso"
+given = "Narciso"
+
+[person.death]
+date = "2020-01-28"
+place.country = "MX"
+place.state = "Veracruz"
+place.city = "Medellín de Bravo"

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201902_Martinich"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-02-10"
+url = "https://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=anthony-martinich&pid=191503523&fhid=11211"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Martinich"
+use = "Tony"
+given = "Anthony John"
+
+[person.birth]
+date = "1929-10-05"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2019-02-07"
+
+[person.burial]
+cemetery.name = "Lawncroft Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Fairfield"
+
+[[person.education]]
+school.name = "Stamford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Stamford"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

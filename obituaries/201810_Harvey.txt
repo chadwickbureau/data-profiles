@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201810_Harvey"
+
+[[person.meta.citation]]
+title = "Billings Funeral Home"
+date = "2019-02-16"
+url = "https://www.billingsfuneralhomewoodward.com/obituaries/Craig-Harvey?obId=3374486#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Harvey"
+use = "Craig"
+given = "Marion Craig"
+
+[person.birth]
+date = "1955-10-23"
+place.country = "US"
+place.state = "OK"
+place.city = "Shattuck"
+
+[person.death]
+date = "2018-10-15"
+
+[person.burial]
+cemetery.name = "Elmwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Woodward"
+
+[[person.education]]
+school.name = "Laverne HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Laverne"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"

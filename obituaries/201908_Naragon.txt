@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201908_Naragon"
+
+[[person.meta.citation]]
+title = "Caspar Star-Tribune"
+date = "2019-09-02"
+url = "https://trib.com/sports/baseball/indians-catcher-naragon-member-of-famed-team-dies/article_0b1a1ef8-4495-5eee-9688-bdd64a54f8e4.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-02"
+
+[person.name]
+last = "Naragon"
+use = "Hal"
+given = "Hal"
+
+[person.death]
+date = "2019-08-30"
+place.country = "US"
+place.state = "OH"
+place.city = "Barberton"

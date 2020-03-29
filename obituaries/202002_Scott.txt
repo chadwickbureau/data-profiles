@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202002_Scott"
+
+[[person.meta.citation]]
+title = "Times-Enterprise"
+date = "2020-02-17"
+url = "https://obituaries.timesenterprise.com/obituary/richard-l-dick-scott-sr-1078421790"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-17"
+
+[person.name]
+last = "Scott"
+use = "Dick"
+given = "Richard L."
+
+[person.birth]
+date = "1933-03-15"
+place.country = "US"
+place.state = "NH"
+place.city = "Portsmouth"
+
+[person.death]
+date = "2020-02-10"
+
+[[person.education]]
+school.name = "Robert W. Traip Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Kittery"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

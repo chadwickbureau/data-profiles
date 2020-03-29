@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201812_Trevino"
+
+[[person.meta.citation]]
+title = "Yucatan.com.mx"
+date = "2018-12-05"
+url = "https://www.yucatan.com.mx/deportes/fallece-el-ex-beisbolista-carlos-bobby-trevino-a-sus-70-anos"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Trevino"
+use = "Bobby"
+given = "Carlos"
+
+[person.birth]
+date = "1948-08-15"
+place.country = "MX"
+place.state = "Nuevo Leon"
+place.city = "Monterrey"
+
+[person.death]
+date = "2018-12-05"
+place.country = "MX"

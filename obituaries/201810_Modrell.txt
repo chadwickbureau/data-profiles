@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201810_Modrell"
+
+[[person.meta.citation]]
+title = "The Sacramento Bee"
+date = "2018-10-21"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=gary-wayne-modrell&pid=190531096"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Modrell"
+use = "Gary"
+given = "Gary Wayne"
+
+[person.death]
+date = "2018-10-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Lincoln"
+
+[[person.education]]
+school.name = "Ukiah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Ukiah"
+
+[[person.education]]
+school.name = "Santa Rosa Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "California State University, Fresno"
+school.type = "college"

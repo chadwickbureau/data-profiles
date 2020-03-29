@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201408_Lumpe"
+
+[[person.meta.citation]]
+title = "News-Leader"
+date = "2014-08-19"
+url = "http://www.legacy.com/obituaries/news-leader/obituary.aspx?n=Jerry-Lumpe&pid=172155899"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-19"
+
+[person.name]
+last = "Lumpe"
+use = "Jerry"
+given = "Jerry Dean"
+suffix = "Sr."
+
+[person.birth]
+date = "1933-06-02"
+place.country = "US"
+place.state = "MO"
+place.city = "Lincoln"
+
+[person.death]
+date = "2014-08-15"
+
+[[person.education]]
+school.name = "Warsaw HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Warsaw"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

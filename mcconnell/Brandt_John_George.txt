@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "Brandt_John_George"
+
+[person.name]
+last = "Brandt"
+use = "Jackie"
+given = "John George"
+
+[person.birth]
+date = "1934-04-28"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[[person.education]]
+school.name = "Omaha University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1957/1957"

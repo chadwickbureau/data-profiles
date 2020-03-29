@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "20170219_149"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-12-03"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-03-23"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Greenwood Index-Journal"
+date = "1929-11-13"
+pages = "6"
+
+[person.name]
+last = "Branch"
+use = "Loyd"
+given = "Loyd"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TX"
+place.city = "McAdoo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin/Bartlesville"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Cushing"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Salisbury"
+team.league.name = "Piedmont League"

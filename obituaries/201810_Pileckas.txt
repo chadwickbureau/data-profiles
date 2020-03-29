@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201810_Pileckas"
+
+[[person.meta.citation]]
+title = "Betz, Rossi Bellinger & Stewart Funeral Home"
+date = "2018-11-27"
+url = "https://brbsfuneral.com/tribute/details/109198/John-Pileckas/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-27"
+
+[person.name]
+last = "Pileckas"
+use = "Jack"
+given = "John"
+
+[person.birth]
+date = "1927-04-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Amsterdam"
+
+[person.death]
+date = "2018-10-17"
+
+[person.burial]
+cemetery.name = "St. Casimir's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Amsterdam"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Lynch HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Amsterdam"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

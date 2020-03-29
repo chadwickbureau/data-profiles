@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201404_Bushman"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2014-05-05"
+url = "http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=Henry-Bushman&pid=170917573"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-05"
+
+[person.name]
+last = "Bushman"
+use = "Hank"
+given = "Henry Alfred"
+
+[person.birth]
+date = "1918-08-29"
+place.country = "US"
+place.state = "WA"
+place.city = "Omak"
+
+[person.death]
+date = "2014-04-04"
+
+[person.description]
+throws = "R"
+
+[[person.education]]
+school.name = "Omak HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Omak"
+
+[[person.education]]
+school.name = "Washington State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

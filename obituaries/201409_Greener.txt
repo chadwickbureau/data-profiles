@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201409_Greener"
+
+[[person.meta.citation]]
+title = "EasyFHWeb.com"
+date = "2014-09-22"
+url = "http://easyfhweb.com/restinpeace.aspx?MemberId=138570&MName=Andrew Thomas Greener&FLVId="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-22"
+
+[person.name]
+last = "Greener"
+use = "Andy"
+given = "Andrew Thomas"
+
+[person.birth]
+date = "1931-01-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "2014-09-17"
+place.country = "US"
+place.state = "NJ"
+place.city = "Pennington"
+
+[person.burial]
+cemetery.name = "Harbourton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Harbourton"
+
+[[person.education]]
+school.name = "Trenton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Trenton"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"

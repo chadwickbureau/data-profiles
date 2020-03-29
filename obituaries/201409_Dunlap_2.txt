@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201409_Dunlap_2"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2014-09-21"
+url = "http://www.legacy.com/obituaries/latimes/obituary.aspx?n=Grant-Dunlap&pid=172544264"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-24"
+
+[person.name]
+last = "Dunlap"
+use = "Grant"
+given = "Grant Lester"
+
+[person.birth]
+date = "1923-12-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Stockton"
+
+[person.death]
+date = "2014-09-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Vista"
+
+[[person.education]]
+school.name = "Occidental College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of the Pacific"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

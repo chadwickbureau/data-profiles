@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201909_Numata"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "2019-09-03"
+url = "https://www.post-gazette.com/news/obituaries/2019/09/03/Chace-Numata-Detroit-Tigers-minor-league-catcher-accident-skateboarding-Erie/stories/201909030140"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-09"
+
+[person.name]
+last = "Numata"
+use = "Chace"
+given = "Chace"
+
+[person.birth]
+date = "1992-08-14"
+
+[person.death]
+date = "2019-09-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"

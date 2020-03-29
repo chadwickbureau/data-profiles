@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Montgomery"
+
+[[person.meta.citation]]
+title = "McCoy Funeral Home"
+date = "2019-12-03"
+url = "http://www.mccoyfuneralhome.com/McCoy_Funeral_Home/Obituaries/Entries/2019/11/25_Robert_William_Montgomery.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-03"
+
+[person.name]
+last = "Montgomery"
+use = "Robert"
+given = "Robert William"
+
+[person.birth]
+date = "1932-05-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Montgomery County"
+
+[person.death]
+date = "2019-11-25"
+place.country = "US"
+place.state = "VA"
+place.city = "Shawsville"
+
+[person.burial]
+cemetery.name = "White Rock Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Floyd"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

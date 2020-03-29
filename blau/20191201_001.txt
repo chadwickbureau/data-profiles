@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20191201_001"
+
+[[person.meta.citation]]
+title = "Shreveport Journal"
+date = "1924-04-14"
+pages = "8"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[person.description]
+note = [ "didn't play in 1923" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Chicago"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Chicago"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"

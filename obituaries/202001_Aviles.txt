@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "202001_Aviles"
+
+[[person.meta.citation]]
+title = "Primera Horan"
+date = "2020-01-28"
+url = "https://www.primerahora.com/deportes/beisbol/notas/fallece-el-exgrandesligas-ramon-aviles/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-03"
+
+[person.name]
+last = "Aviles"
+use = "Ramon"
+given = "Ramon"
+
+[person.death]
+date = "2020-01-27"
+place.country = "PR"
+place.city = "Manati"

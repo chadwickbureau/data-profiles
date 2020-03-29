@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201406_Paule"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2014-06-27"
+url = "http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Lucian-Paule&pid=171510552"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Paule"
+use = "Babe"
+given = "Lucian A."
+suffix = "III"
+
+[person.birth]
+date = "1918"
+
+[person.death]
+date = "2014-06-26"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

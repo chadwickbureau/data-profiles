@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201406_Hooper"
+
+[[person.meta.citation]]
+title = "Beaumont Enterprise"
+date = "2014-07-03"
+url = "http://www.legacy.com/obituaries/beaumontenterprise/obituary.aspx?pid=171586084"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Hooper"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1921-06-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Cruz"
+
+[person.death]
+date = "2014-06-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Baytown"
+
+[person.burial]
+cemetery.name = "Forest Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Beaumont"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

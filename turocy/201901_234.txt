@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_234"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Dean"
+use = "D."
+given = "D."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "San Antonio"
+team.place.country = "US"
+team.place.state = "TX"
+team.place.city = "San Antonio"
+team.caliber = "semipro"

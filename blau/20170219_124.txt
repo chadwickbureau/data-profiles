@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170219_124"
+
+[[person.meta.citation]]
+title = "Richmond Item"
+date = "1930-05-01"
+pages = "13"
+
+[person.name]
+last = "Beeler"
+use = "Myles"
+given = "Myles"
+
+[[person.education]]
+school.name = "Wooster College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Richmond"
+team.league.name = "Central League"
+description.bats = "L"
+description.throws = "L"
+description.height = "69"
+description.weight = "170"

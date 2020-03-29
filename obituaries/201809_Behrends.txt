@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201809_Behrends"
+
+[[person.meta.citation]]
+title = "Fitzgerald Funeral Home"
+date = "2018-09-11"
+url = "http://www.fitzgeraldfuneralhome.com/obituaries/Charles-R-Chuck-Behrends?obId=3280798#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-11"
+
+[person.name]
+last = "Behrends"
+use = "Chuck"
+given = "Charles R."
+
+[person.birth]
+date = "1936-07-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Brownstown"
+
+[person.death]
+date = "2018-09-06"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Machesney Park"
+
+[[person.education]]
+school.name = "Decatur HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Decatur"
+
+[[person.education]]
+school.name = "Western Illinois University"
+school.type = "college"

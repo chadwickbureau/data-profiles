@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201805_Moreno"
+
+[[person.meta.citation]]
+title = "Mehl's Colonial Chapel"
+date = "2018-06-26"
+url = "https://www.mehlschapel.com/notices/Herbert-Moreno"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-26"
+
+[person.name]
+last = "Moreno"
+use = "Herb"
+given = "Herbert"
+
+[person.birth]
+date = "1930-01-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Montebello"
+
+[person.death]
+date = "2018-05-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Soquel"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

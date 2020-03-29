@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201912_Janacone"
+
+[[person.meta.citation]]
+title = "DeCarbo Funeral Home"
+date = "2019-12-30"
+url = "https://www.williamrogerdecarbo.com/obituary/richard-janacone"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-30"
+
+[person.name]
+last = "Janacone"
+use = "Richard"
+given = "Richard W."
+
+[person.birth]
+date = "1928-02-02"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[person.death]
+date = "2019-12-20"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[person.burial]
+cemetery.name = "Parkside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Castle"
+
+[[person.education]]
+school.name = "University of Pittsburgh"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

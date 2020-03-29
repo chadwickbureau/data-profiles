@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202003_Pavletich"
+
+[[person.meta.citation]]
+title = "Becker Ritter Funeral Home"
+date = "2020-03-08"
+url = "https://www.beckerritter.com/tributes/Donald-Pavletich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-08"
+
+[person.name]
+last = "Pavletich"
+use = "Don"
+given = "Donald S."
+
+[person.birth]
+date = "1938-07-13"
+place.country = "US"
+place.state = "WI"
+place.city = "West Allis"
+
+[person.death]
+date = "2020-03-05"
+
+[person.burial]
+cemetery.name = "Wisconsin Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Brookfield"
+
+[[person.military]]
+country = "US"
+branch = "Army"

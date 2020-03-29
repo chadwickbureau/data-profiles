@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201907_Schramka"
+
+[[person.meta.citation]]
+title = "Schramka Funeral Home"
+date = "2019-07-10"
+url = "https://www.schramkafuneralhome.com/memorials/paul-schramka/3888176/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-10"
+
+[person.name]
+last = "Schramka"
+use = "Paul"
+given = "Paul Edward"
+
+[person.birth]
+date = "1928-03-22"
+
+[person.death]
+date = "2019-07-08"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Mequon"
+
+[[person.education]]
+school.name = "Messmer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Milwaukee"
+
+[[person.education]]
+school.name = "University of San Francisco"
+school.type = "college"

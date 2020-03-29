@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_049"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1920-08-03"
+
+[person.name]
+last = "Burnham"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Redfield"
+team.league.name = "South Dakota League"

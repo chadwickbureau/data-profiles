@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201811_Jones_Bill"
+
+[[person.meta.citation]]
+title = "McNett Funeral Home"
+date = "2018-11-19"
+url = "https://www.mcnettfuneralhome.com/book-of-memories/3655563/Jones-Bill/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-19"
+
+[person.name]
+last = "Jones"
+use = "Bill"
+given = "Bill M."
+
+[person.birth]
+date = "1923-10-12"
+place.country = "US"
+place.state = "TX"
+place.city = "Wills Point"
+
+[person.death]
+date = "2018-11-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Andrews"
+
+[person.burial]
+cemetery.name = "Andrews North Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Andrews"

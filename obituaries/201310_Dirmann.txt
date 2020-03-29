@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201310_Dirmann"
+
+[[person.meta.citation]]
+title = "Obits.Nola.com"
+date = "2019-12-12"
+url = "https://obits.nola.com/obituaries/nola/obituary.aspx?n=henry-isadore-dirmann-puppy&pid=167803030&fhid=20653"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-12"
+
+[person.name]
+last = "Dirmann"
+use = "Henry"
+given = "Henry Isadore"
+suffix = "Jr."
+nick = "Puppy"
+
+[person.death]
+date = "2013-10-30"
+
+[person.burial]
+cemetery.name = "St. Bernard Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Chalmette"
+
+[[person.education]]
+school.name = "Holy Cross School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"

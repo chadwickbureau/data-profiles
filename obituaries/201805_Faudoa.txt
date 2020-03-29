@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201805_Faudoa"
+
+[[person.meta.citation]]
+title = "Diario. MX"
+date = "2018-05-22"
+url = "http://diario.mx/Deportes/2018-05-21_32ee6ad3/muere-expelotero-victor-faudoa/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-05"
+
+[person.name]
+last = "Faudoa"
+use = "Victor"
+given = "Victor Manuel"
+matrilineal = "Terrazas"
+
+[person.birth]
+date = "1952-12-23"
+place.country = "MX"
+place.state = "Chihuahua"
+place.city = "Santa Barbara"
+
+[person.death]
+date = "2018-05-21"
+place.country = "MX"
+place.state = "Chihuahua"
+place.city = "Ciudad Juarez"

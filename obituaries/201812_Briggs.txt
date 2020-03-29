@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201812_Briggs"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2019-01-13"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=jonathan-tift-briggs&pid=191247293"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-13"
+
+[person.name]
+last = "Briggs"
+use = "John"
+given = "Jonathan Tift"
+
+[person.birth]
+date = "1934-01-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Folsom"
+
+[person.death]
+date = "2018-12-25"
+
+[person.burial]
+cemetery.name = "Lakeside Memorial Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Folsom"
+
+[[person.education]]
+school.name = "Folsom HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Folsom"

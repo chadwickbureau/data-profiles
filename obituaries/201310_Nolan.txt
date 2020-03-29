@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201310_Nolan"
+
+[[person.meta.citation]]
+title = "Charleston Post & Courier"
+date = "2013-10-27"
+url = "https://www.legacy.com/obituaries/charleston/obituary.aspx?n=David-Nolan&pid=167709737"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-12"
+
+[person.name]
+last = "Nolan"
+use = "David"
+given = "David Pinckney"
+suffix = "III"
+
+[person.birth]
+date = "1915-06-02"
+place.country = "US"
+place.state = "GA"
+place.city = "Savannah"
+
+[person.death]
+date = "2013-10-25"
+
+[person.burial]
+cemetery.name = "Live Oak Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Charleston"

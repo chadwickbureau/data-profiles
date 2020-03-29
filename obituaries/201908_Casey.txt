@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201908_Casey"
+
+[[person.meta.citation]]
+title = "Boakes Funeral Home"
+date = "2019-08-25"
+url = "https://boakesfuneralhome.com/book-of-memories/3951842/Casey-Daniel/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-25"
+
+[person.name]
+last = "Casey"
+use = "Daniel"
+given = "Daniel John"
+
+[person.birth]
+date = "1960-06-20"
+
+[person.death]
+date = "2019-08-19"
+
+[[person.education]]
+school.name = "University of Central Florida"
+school.type = "college"

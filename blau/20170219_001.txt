@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_001"
+
+[[person.meta.citation]]
+title = "TSN"
+date = "1933-01-05"
+pages = "6"
+
+[person.name]
+last = "Meek"
+use = "Herman"
+given = "Herman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Birmingham"
+team.league.name = "Southern Association"

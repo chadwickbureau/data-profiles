@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201806_Wherry"
+
+[[person.meta.citation]]
+title = "Dobbling, Muehlenkamp-Erschell Funeral Home"
+date = "2018-06-09"
+url = "http://www.dmefuneral.com/obituary/Walter-Joseph-Wherry/Bellevue-Kentucky/1800079"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Wherry"
+use = "Walt"
+given = "Walter Joseph"
+
+[person.birth]
+date = "1927-05-26"
+place.country = "US"
+place.state = "KY"
+place.city = "Covington"
+
+[person.death]
+date = "2018-06-04"
+place.country = "US"
+place.state = "KY"
+place.city = "Edgewood"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

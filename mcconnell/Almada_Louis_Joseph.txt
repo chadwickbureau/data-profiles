@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "Almada_Louis_Joseph"
+
+[person.name]
+last = "Almada"
+use = "Louis"
+given = "Louis Joseph"
+
+[person.birth]
+date = "1907-09-07"
+place.country = "MX"
+place.state = "Sinaloa"
+place.city = "El Fuerte"
+
+[person.death]
+date = "2005-09-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Carmel"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "69"
+weight = "175"
+
+[[person.alias]]
+name.last = "Almada"
+name.use = "Luis"
+name.given = "Luis Jose"
+name.matrilineal = "Quiros"
+type = "birth"

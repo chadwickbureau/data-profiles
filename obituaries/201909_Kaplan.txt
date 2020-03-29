@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201909_Kaplan"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2019-09-24"
+url = "https://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=howard-herkama-kaplan&pid=193972970&fhid=8784"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-23"
+
+[person.name]
+last = "Kaplan"
+use = "Howard"
+given = "Howard Herkama"
+
+[person.birth]
+date = "1933-02-07"
+place.country = "US"
+place.state = "MA"
+place.city = "Brookline"
+
+[person.death]
+date = "2019-09-21"
+
+[person.burial]
+cemetery.name = "Sharon Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Sharon"
+
+[[person.education]]
+school.name = "Brookline HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Brookline"
+
+[[person.education]]
+school.name = "Brandeis University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

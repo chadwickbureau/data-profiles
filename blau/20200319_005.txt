@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200319_005"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-01-01"
+pages = "7"
+
+[person.name]
+last = "Ostergren"
+use = "Fred"
+given = "Fred V."
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Manchester"
+team.league.name = "New England League"
+description.bats = "R"
+description.throws = "R"
+description.height = "71"
+description.weight = "185"

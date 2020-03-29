@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201910_Colgan"
+
+[[person.meta.citation]]
+title = "Heritage Gardens Funeral Home"
+date = "2019-11-02"
+url = "https://www.heritagegardensfuneralhome.com/notices/William-Colgan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Colgan"
+use = "Bill"
+given = "William B."
+
+[person.birth]
+date = "1920-12-01"
+
+[person.death]
+date = "2019-10-25"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"

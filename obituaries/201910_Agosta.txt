@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_Agosta"
+
+[[person.meta.citation]]
+title = "Betz, Rossi, Bellinger & Stewart Funeral Home"
+date = "2019-10-14"
+url = "https://brbsfuneral.com/tribute/details/150518/Gabriel-Agosta/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Agosta"
+use = "Gabe"
+given = "Gabriel A."
+
+[person.birth]
+date = "1936-03-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Amsterdam"
+
+[person.death]
+date = "2019-10-07"
+place.country = "US"
+place.state = "NY"
+place.city = "Amsterdam"
+
+[[person.education]]
+school.name = "Wilbur H. Lynch HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Amsterdam"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

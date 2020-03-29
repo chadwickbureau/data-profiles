@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201810_Haggard"
+
+[[person.meta.citation]]
+title = "Hodapp Funeral Home"
+date = "2018-10-21"
+url = "http://www.hodappfuneralhome.com/obituary/eulis-l-haggard/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Haggard"
+use = "Les"
+given = "Eulis Leroy"
+
+[person.birth]
+date = "1934-10-15"
+
+[person.death]
+date = "2018-10-13"

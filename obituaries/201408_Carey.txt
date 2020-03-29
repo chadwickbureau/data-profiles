@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201408_Carey"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "2014-08-20"
+url = "http://www.legacy.com/obituaries/tucson/obituary.aspx?n=Lee-Carey&pid=172179307"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-20"
+
+[person.name]
+last = "Carey"
+use = "Lee"
+given = "Lee Merritt"
+nick = "Legs"
+
+[person.birth]
+date = "1929-02-24"
+
+[person.death]
+date = "2014-08-18"
+
+[[person.education]]
+school.name = "Tucson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Tucson"

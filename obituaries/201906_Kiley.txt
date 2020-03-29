@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201906_Kiley"
+
+[[person.meta.citation]]
+title = "Barile Family Funeral Home"
+date = "2019-06-23"
+url = "http://hosting-6718.tributes.com/obituary/show/James-F.-Kiley-107222985"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-23"
+
+[person.name]
+last = "Kiley"
+use = "Jim"
+given = "James F."
+
+[person.birth]
+date = "1947-12-31"
+place.country = "US"
+place.state = "MA"
+place.city = "Winchester"
+
+[person.death]
+date = "2019-06-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Reading"
+
+[[person.education]]
+school.name = "Reading HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Reading"
+
+[[person.education]]
+school.name = "University of Massachusetts Amherst"
+school.type = "college"

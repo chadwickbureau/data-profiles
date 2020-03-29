@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201903_Burger"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-03-17"
+url = "https://www.dignitymemorial.com/obituaries/dayton-oh/allen-burger-8205303"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Burger"
+use = "Allen"
+given = "Allen"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-08-26"
+
+[person.death]
+date = "2019-03-13"
+
+[person.burial]
+cemetery.name = "Mount Zion Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Beavercreek"
+
+[[person.education]]
+school.name = "Beavercreek HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Beavercreek"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

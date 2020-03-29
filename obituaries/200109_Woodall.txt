@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "200109_Woodall"
+
+[[person.meta.citation]]
+title = "911 Living Memorial"
+date = "2019-09-13"
+url = "https://livingmemorial.voicesofseptember11.org/brent-james-woodall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Woodall"
+use = "Brent"
+given = "Brent James"
+
+[person.birth]
+date = "1970-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.death]
+date = "2001-09-11"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.sameas]
+sr_cfb = "brent-woodall-1"
+
+[[person.education]]
+school.name = "La Jolla HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"
+
+[[person.education]]
+school.name = "University of California, Berkeley"
+school.type = "college"

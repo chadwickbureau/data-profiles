@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201912_Kendrick"
+
+[[person.meta.citation]]
+title = "Morris, O'Connor & Blute Funeral Home"
+date = "2020-01-02"
+url = "https://www.ccgfuneralhome.com/obit/robert-wordell-kendrick"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Kendrick"
+use = "Robert"
+given = "Robert Wordell"
+
+[person.birth]
+date = "1932-03-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Dennis"
+
+[person.death]
+date = "2019-12-25"
+place.country = "US"
+place.state = "MA"
+place.city = "South Yarmouth"
+
+[person.burial]
+cemetery.name = "Mount Pleasant Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Harwich Port"
+
+[[person.education]]
+school.name = "Yarmouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Yarmouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

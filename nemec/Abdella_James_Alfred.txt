@@ -1,0 +1,118 @@
+[[person]]
+
+[person.meta]
+key = "Abdella_James_Alfred"
+
+[person.name]
+last = "Abdella"
+use = "James"
+given = "James Alfred"
+
+[person.birth]
+date = "1939-09-24"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2011-11-04"
+place.country = "US"
+place.state = "MA"
+place.city = "Shrewsbury"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "70"
+weight = "180"
+
+[person.sameas]
+ssn = "024-30-9260"
+
+[[person.resides]]
+dates = "1961"
+place.country = "US"
+place.state = "MA"
+place.city = "Shrewsbury"
+place.address = "28 North Street"
+
+
+[[person.education]]
+school.name = "Major Howard Beal High School"
+school.type = "secondary"
+dates = "/1957"
+degree = "graduated"
+
+[[person.education]]
+school.name = "University of Massachusetts"
+school.type = "college"
+
+
+[[person.playing]]
+season = "1959"
+league.name = "New York-Pennsylvania League"
+splits.0.team.name = "Batavia"
+totals.F_POS = "OF"
+totals.B_G = "18"
+totals.B_AB = "72"
+totals.B_R = "11"
+totals.B_H = "22"
+totals.B_TB = "25"
+totals.B_2B = "1"
+totals.B_3B = "1"
+totals.B_HR = "0"
+totals.B_RBI = "2"
+totals.B_SB = "3"
+totals.B_AVG = ".306"
+
+[[person.playing]]
+season = "1959"
+league.name = "Nebraska State League"
+splits.0.team.name = "North Platte"
+totals.F_POS = "OF"
+totals.B_G = "38"
+totals.B_AB = "108"
+totals.B_R = "27"
+totals.B_H = "29"
+totals.B_TB = "42"
+totals.B_2B = "7"
+totals.B_3B = "3"
+totals.B_HR = "0"
+totals.B_RBI = "10"
+totals.B_SB = "2"
+totals.B_AVG = ".269"
+
+[[person.playing]]
+season = "1960"
+league.name = "Alabama-Florida League"
+splits.0.team.name = "Selma"
+totals.F_POS = "1B-OF"
+totals.B_G = "106"
+totals.B_AB = "340"
+totals.B_R = "53"
+totals.B_H = "91"
+totals.B_TB = "143"
+totals.B_2B = "11"
+totals.B_3B = "4"
+totals.B_HR = "11"
+totals.B_RBI = "61"
+totals.B_SB = "14"
+totals.B_AVG = ".268"
+
+[[person.playing]]
+season = "1961"
+league.name = "Carolina League"
+splits.0.team.name = "Burlington"
+splits.1.team.name = "Wilson"
+totals.F_POS = "1B"
+totals.B_G = "69"
+totals.B_AB = "199"
+totals.B_R = "32"
+totals.B_H = "52"
+totals.B_TB = "74"
+totals.B_2B = "6"
+totals.B_3B = "2"
+totals.B_HR = "4"
+totals.B_RBI = "27"
+totals.B_SB = "7"
+totals.B_AVG = ".261"

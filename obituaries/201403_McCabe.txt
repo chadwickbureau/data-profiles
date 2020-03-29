@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201403_McCabe"
+
+[[person.meta.citation]]
+title = "Michigan.com"
+date = "2014-03-23"
+url = "http://deathnotices.michigan.com/view-single.php?id=339270"
+
+[[person.meta.contributor]]
+name.last = "Hall"
+name.use = "John"
+email = "j03.john@gmail.com"
+date = "2014-05-05"
+
+[person.name]
+last = "McCabe"
+use = "Don"
+given = "Donald G."
+
+[person.death]
+date = "2014-03-20"

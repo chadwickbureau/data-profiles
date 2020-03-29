@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201906_Long"
+
+[[person.meta.citation]]
+title = "Mahn Family Funeral Home"
+date = "2019-06-19"
+url = "https://www.mahnfamilyfuneralhome.com/obituaries/Carl-Long-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Long"
+use = "Carl"
+given = "Carl E."
+
+[person.birth]
+date = "1936-09-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Rugby"
+
+[person.death]
+date = "2019-06-09"
+place.country = "US"
+place.state = "MN"
+place.city = "Red Wing"
+
+[person.burial]
+cemetery.name = "Oakwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Red Wing"
+
+[[person.education]]
+school.name = "Leeds HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ND"
+school.place.city = "Leeds"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202003_Kring"
+
+[[person.meta.citation]]
+title = "Tobias Funeral Home"
+date = "2020-03-05"
+url = "https://www.dignitymemorial.com/obituaries/dayton-oh/steven-kring-9070290"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-05"
+
+[person.name]
+last = "Kring"
+use = "Steve"
+given = "Steven H."
+
+[person.birth]
+date = "1947-11-09"
+
+[person.death]
+date = "2020-03-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.burial]
+cemetery.name = "Silvercreek Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Jamestown"

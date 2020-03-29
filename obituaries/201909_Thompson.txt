@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201909_Thompson"
+
+[[person.meta.citation]]
+title = "Inland Valley Daily Bulletin"
+date = "2019-10-10"
+url = "https://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=thomas-thompson-tommy&pid=194122897"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-11"
+
+[person.name]
+last = "Thompson"
+use = "Tommy"
+given = "Thomas"
+
+[person.birth]
+date = "1947-05-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Upland"
+
+[person.death]
+date = "2019-09-30"
+
+[[person.education]]
+school.name = "Chaffey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Ontario"
+
+[[person.education]]
+school.name = "University of Kansas"
+school.type = "college"
+
+[[person.education]]
+school.name = "Chaffey College"
+school.type = "college"

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201908_Bartolovich"
+
+[[person.meta.citation]]
+title = "Misencik Funeral Home"
+date = "2019-08-16"
+url = "https://www.misencikfuneralhome.com/obituary/william-willie-bartolovich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Bartolovich"
+use = "Willie"
+given = "William J."
+
+[person.birth]
+date = "1933-09-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Avon Lake"
+
+[person.death]
+date = "2019-08-13"
+
+[person.burial]
+cemetery.name = "Ohio Western Reserve National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Seville"
+
+[[person.education]]
+school.name = "Avon Lake HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Avon Lake"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

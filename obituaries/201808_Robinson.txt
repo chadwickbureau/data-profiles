@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201808_Robinson"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-08-20"
+url = "https://www.dignitymemorial.com/obituaries/hanford-ca/charles-robinson-7953909"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-20"
+
+[person.name]
+last = "Robinson"
+use = "Charlie"
+given = "Charles Francis"
+
+[person.birth]
+date = "1945-03-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Hanford"
+
+[person.death]
+date = "2018-08-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Hanford"
+
+[person.burial]
+cemetery.name = "Kings River Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Hanford"
+
+[[person.education]]
+school.name = "Hanford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Hanford"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201807_Lang"
+
+[[person.meta.citation]]
+title = "Randle-Dable-Brisk Funeral Home"
+date = "2018-07-08"
+url = "http://www.randledablefuneralhome.com/obituaries/John-Lang-6/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Lang"
+use = "John"
+given = "John E."
+
+[person.birth]
+date = "1933-09-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2018-07-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Oconomowoc"
+
+[person.burial]
+cemetery.name = "Prairie Home Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Waukesha"
+
+[[person.military]]
+country = "US"
+branch = "Army"

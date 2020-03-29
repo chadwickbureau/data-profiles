@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201905_Greene_2"
+
+[[person.meta.citation]]
+title = "Thomas F. Dalton Funeral Home"
+date = "2019-05-22"
+url = "https://www.thomasfdaltonfuneralhomes.com/tributes/James-Greene"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-22"
+
+[person.name]
+last = "Greene"
+use = "James"
+given = "James E."
+
+[person.birth]
+date = "1932-02-15"
+
+[person.death]
+date = "2019-05-20"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201408_Welp"
+
+[[person.meta.citation]]
+title = "Furlong Funeral Chapel"
+date = "2014-08-23"
+url = "http://www.furlongfuneralchapel.com/obituaries.cfm"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Welp"
+use = "Elmo"
+given = "Elmo W."
+
+[person.birth]
+date = "1928-06-24"
+place.country = "US"
+place.state = "IA"
+place.city = "Dubuque"
+
+[person.death]
+date = "2014-08-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Galena"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Galena"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

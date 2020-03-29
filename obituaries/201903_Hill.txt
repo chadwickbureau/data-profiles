@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hill"
+
+[[person.meta.citation]]
+title = "Prout Funeral Home"
+date = "2019-03-17"
+url = "https://proutfuneralhome.com/obituary/frederick-j-hill-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Hill"
+use = "Fred"
+given = "Frederick J."
+
+[person.birth]
+date = "1934-07-15"
+
+[person.death]
+date = "2019-03-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "Cedar Grove"

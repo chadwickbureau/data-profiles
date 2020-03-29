@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_John_Joseph"
+
+[person.name]
+last = "Anderson"
+use = "John"
+given = "John Joseph"
+
+[person.birth]
+date = "1873-12-14"
+place.country = "NO"
+place.city = "Sarpsborg"
+
+[person.death]
+date = "1949-07-23"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "74"
+weight = "180"

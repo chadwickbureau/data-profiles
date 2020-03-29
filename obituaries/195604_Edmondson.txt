@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "195604_Edmondson"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1956-04-23"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-12"
+
+[person.name]
+last = "Edmondson"
+use = "Roger"
+given = "Roger"
+
+[person.death]
+date = "1956-04-22"
+place.country = "US"
+place.state = "TX"
+place.city = "Waxahachie"
+
+[person.burial]
+cemetery.name = "Bethel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Maypearl"
+
+[[person.education]]
+school.name = "Trinity University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "San Antonio"

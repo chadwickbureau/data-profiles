@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190813_055"
+
+[[person.meta.citation]]
+title = "Charlotte Observer 1915-06-08"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Francisco"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"

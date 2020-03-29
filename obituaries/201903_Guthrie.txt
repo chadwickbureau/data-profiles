@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201903_Guthrie"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-03-31"
+url = "https://www.dignitymemorial.com/obituaries/la-feria-tx/william-guthrie-8232887"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Guthrie"
+use = "Bill"
+given = "William Joe"
+
+[person.birth]
+date = "1928-06-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Voss"
+
+[person.death]
+date = "2019-03-23"

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201808_Migaiolo"
+
+[[person.meta.citation]]
+title = "Allen Brothers Mortuary"
+date = "2018-10-05"
+url = "https://www.allenbrothersmortuary.com/notices/Tony-Migaiolo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Migaiolo"
+use = "Tony"
+given = "Tony Ralph"
+
+[person.birth]
+date = "1935-09-27"
+place.country = "US"
+place.state = "WV"
+place.city = "Fairmont"
+
+[person.death]
+date = "2018-08-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Vista"
+
+[person.burial]
+cemetery.name = "Mission San Luis Rey Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Oceanside"
+
+[[person.education]]
+school.name = "Barrackville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Barrackville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

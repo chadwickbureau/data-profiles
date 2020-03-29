@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201908_Glass"
+
+[[person.meta.citation]]
+title = "Traverse City Record-Eagle"
+date = "2019-08-19"
+url = "https://obituaries.record-eagle.com/obituary/larry-glass-1076545728"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-19"
+
+[person.name]
+last = "Glass"
+use = "Larry"
+given = "Larry Edward"
+
+[person.birth]
+date = "1935-02-18"
+place.country = "US"
+place.state = "OH"
+place.city = "Alpha"
+
+[person.death]
+date = "2019-08-12"
+place.country = "US"
+place.state = "MI"
+place.city = "Suttons Bay"
+
+[[person.education]]
+school.name = "Beavercreek HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Beavercreek"
+
+[[person.education]]
+school.name = "Miami University of Ohio"
+school.type = "college"

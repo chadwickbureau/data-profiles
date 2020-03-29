@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201011_Castleberry"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "2010-11-02"
+url = "https://www.legacy.com/obituaries/cincinnati/obituary.aspx?page=lifestory&pid=148067138"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-11"
+
+[person.name]
+last = "Castleberry"
+use = "Gael"
+given = "Gael B."
+
+[person.birth]
+date = "1919"
+
+[person.death]
+date = "2010-11-01"

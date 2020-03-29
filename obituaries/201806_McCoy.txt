@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201806_McCoy"
+
+[[person.meta.citation]]
+title = "Unity Funeral Services"
+date = "2018-07-08"
+url = "https://www.unityfuneralservices.com/notices/Charles-McCoy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "McCoy"
+use = "Charles"
+given = "Charles James"
+
+[person.birth]
+date = "1934-01-26"
+
+[person.death]
+date = "2018-06-20"

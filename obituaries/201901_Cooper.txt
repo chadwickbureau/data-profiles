@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_Cooper"
+
+[[person.meta.citation]]
+title = "Passalacqua Funeral Home"
+date = "2019-02-10"
+url = "https://www.passalacquafuneralchapel.com/obituaries/James-E-Cooper/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Cooper"
+use = "Jim"
+given = "James E."
+
+[person.birth]
+date = "1932-08-26"
+place.country = "US"
+place.state = "OK"
+place.city = "El Dorado"
+
+[person.death]
+date = "2019-01-30"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

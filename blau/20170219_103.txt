@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_103"
+
+[[person.meta.citation]]
+title = "Abilene Reporter"
+date = "1929-06-16"
+pages = "4"
+
+[person.name]
+last = "Williamson"
+use = "Elmer"
+given = "Elmer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Texarkana"
+team.league.name = "Lone Star League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "San Angelo"
+team.league.name = "West Texas League"

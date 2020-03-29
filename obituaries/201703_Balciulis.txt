@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201703_Balciulis"
+
+[[person.meta.citation]]
+title = "Martin Funeral Home"
+date = "2018-12-11"
+url = "https://martin-funeral.com/orbituaries_comments.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-11"
+
+[person.name]
+last = "Balciulis"
+use = "Charlie"
+given = "Charles A."
+
+[person.birth]
+date = "1930-01-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2017-03-04"
+
+[[person.education]]
+school.name = "Calumet HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

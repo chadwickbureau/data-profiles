@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201806_Arguelles"
+
+[[person.meta.citation]]
+title = "Miami Herald"
+date = "2018-06-06"
+url = "http://www.miamiherald.com/sports/mlb/article212671494.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Argüelles"
+use = "Angel"
+given = "Angel"
+matrilineal = "Barnet"
+
+[person.death]
+date = "2018-06-03"
+place.country = "DO"
+place.state = "San Pedro de Macoris"
+place.city = "San Pedro de Macoris"

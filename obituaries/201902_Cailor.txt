@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201902_Cailor"
+
+[[person.meta.citation]]
+title = "Herald Tribune"
+date = "2019-02-20"
+url = "https://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=howard-w-cailor&pid=191607350"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-20"
+
+[person.name]
+last = "Cailor"
+use = "Howard"
+given = "Howard W."
+suffix = "Jr."
+
+[person.birth]
+date = "1937-08-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2019-02-16"
+
+[[person.education]]
+school.name = "Boardman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Boardman"

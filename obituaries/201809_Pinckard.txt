@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201809_Pinckard"
+
+[[person.meta.citation]]
+title = "The Sacramento Bee"
+date = "2018-10-19"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=william-peyton-pinckard-bill&pid=190514791"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Pinckard"
+use = "Bill"
+given = "William Peyton"
+
+[person.birth]
+date = "1929-01-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.death]
+date = "2018-09-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Citrus Heights"
+
+[[person.military]]
+country = "US"
+branch = "Army"

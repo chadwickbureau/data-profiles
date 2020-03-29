@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "Attyd_Leonard_Francis"
+
+[person.name]
+last = "Attyd"
+use = "Leonard"
+given = "Leonard Francis"
+
+[person.birth]
+date = "1926-12-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "145"
+note = [ "Hit 4 home runs in a game vs Lamesa on June 30, 1948" ]

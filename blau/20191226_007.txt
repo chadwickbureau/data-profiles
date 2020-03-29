@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20191226_007"
+
+[[person.meta.citation]]
+title = "Tyler Daily Courier-Times-Telegraph"
+date = "1932-06-26"
+pages = "12"
+
+[person.name]
+last = "Stewart"
+use = "Stuffy"
+given = "Stuffy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Tyler"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "<=1932-06-26"
+type = "obtained"
+join.name = "Tyler"
+join.league.name = "Texas"
+leave.name = "Oklahoma City"
+leave.league.name = "Western"

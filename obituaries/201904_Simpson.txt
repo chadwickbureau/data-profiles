@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201904_Simpson"
+
+[[person.meta.citation]]
+title = "Collins-McKee-Stone Funeral Home"
+date = "2020-01-08"
+url = "https://www.dignitymemorial.com/obituaries/martinsville-va/edwin-simpson-8268969"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-08"
+
+[person.name]
+last = "Simpson"
+use = "Earl"
+given = "Edwin Earl"
+
+[person.birth]
+date = "1924-08-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Reidsville"
+
+[person.death]
+date = "2019-04-30"
+place.country = "US"
+place.state = "VA"
+place.city = "Martinsville"
+
+[[person.education]]
+school.name = "Martinsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Martinsville"
+
+[[person.education]]
+school.name = "Virginia Polytechnic Institute and State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

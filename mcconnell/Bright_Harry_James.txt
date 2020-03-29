@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bright_Harry_James"
+
+[person.name]
+last = "Bright"
+use = "Harry"
+given = "Harry James"
+
+[person.birth]
+date = "1929-09-22"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.death]
+date = "2000-03-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "190"

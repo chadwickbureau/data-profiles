@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "201809_Fodrea"
+
+[[person.meta.citation]]
+title = "Cloverdale Funeral Home"
+date = "2018-10-03"
+url = "https://www.cloverdalefuneralhome.com/tributes/Donald-Fodrea"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Fodrea"
+use = "Don"
+given = "Donald James"
+
+[person.birth]
+date = "1925-12-06"
+place.country = "US"
+place.state = "ID"
+place.city = "Lewiston"
+
+[person.death]
+date = "2018-09-28"
+place.country = "US"
+place.state = "ID"
+place.city = "Boise"
+
+[person.burial]
+cemetery.name = "Alpha Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Alpha"
+
+[[person.education]]
+school.name = "Boise HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ID"
+school.place.city = "Boise"
+
+[[person.education]]
+school.name = "Boise State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Idaho"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

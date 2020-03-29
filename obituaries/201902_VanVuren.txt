@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201902_VanVuren"
+
+[[person.meta.citation]]
+title = "Brown & Sons Funeral Home"
+date = "2019-02-10"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=10880b75-fab6-4fa5-97bc-078889795aed&CFTOKEN=0&o_id=5969843&fh_id=14772"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Van Vuren"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1962-11-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Fulton"
+
+[person.death]
+date = "2019-02-07"
+place.country = "US"
+place.state = "FL"
+place.city = "Sarasota"

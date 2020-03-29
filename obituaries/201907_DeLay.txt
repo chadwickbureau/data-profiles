@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201907_DeLay"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2019-08-20"
+url = "https://www.heritagebattlefield.com/tributes/Henry-DeLay"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-20"
+
+[person.name]
+last = "DeLay"
+use = "Lefty"
+given = "Henry C."
+
+[person.birth]
+date = "1928-11-16"
+
+[person.death]
+date = "2019-07-08"
+
+[person.burial]
+cemetery.name = "Burning Bush Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Ringgold"
+
+[[person.education]]
+school.name = "Rossville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Rossville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

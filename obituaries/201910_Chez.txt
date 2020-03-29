@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_Chez"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-11-10"
+url = "https://www.dignitymemorial.com/obituaries/fair-oaks-ca/joseph-chez-8906837"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-10"
+
+[person.name]
+last = "Chez"
+use = "Joe"
+given = "Joseph McCorkle"
+
+[person.birth]
+date = "1930-11-20"
+place.country = "US"
+place.state = "MT"
+place.city = "Kalispell"
+
+[person.death]
+date = "2019-10-27"
+
+[[person.education]]
+school.name = "Medford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Medford"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

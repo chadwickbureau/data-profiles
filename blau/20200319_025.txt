@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200319_025"
+
+[[person.meta.citation]]
+title = "Brenham Daily Banner-Press"
+date = "1915-04-22"
+pages = "6"
+
+[person.name]
+last = "Schmid"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Brenham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brenham"
+team.league.name = "Middle Texas League"

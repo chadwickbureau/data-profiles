@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201904_Roley_2"
+
+[[person.meta.citation]]
+title = "Walker Funeral Home"
+date = "2019-04-30"
+url = "https://www.herbwalker.com/notices/Eugene-RoleyJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-30"
+
+[person.name]
+last = "Roley"
+use = "Eugene"
+given = "Eugene"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-01-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "2019-04-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.burial]
+cemetery.name = "Walnut Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"

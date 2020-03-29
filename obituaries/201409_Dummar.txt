@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201409_Dummar"
+
+[[person.meta.citation]]
+title = "New Haven Register"
+date = "2014-09-30"
+url = "http://www.legacy.com/obituaries/nhregister/obituary.aspx?n=GEORGE-DUMMAR&pid=172622655"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-29"
+
+[person.name]
+last = "Dummar"
+use = "George"
+given = "George Thomas"
+suffix = "Jr."
+
+[person.birth]
+date = "1960-01-31"
+place.country = "US"
+place.state = "NJ"
+place.city = "North Arlington"
+
+[person.death]
+date = "2014-09-28"
+place.country = "US"
+place.state = "CT"
+place.city = "Branford"
+
+[person.burial]
+cemetery.name = "St. Agnes Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Branford"
+
+[[person.education]]
+school.name = "Jonathan Law HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Milford"
+
+[[person.education]]
+school.name = "Sacred Heart University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Fairfield"

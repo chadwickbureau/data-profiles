@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201906_Birch"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-06-21"
+url = "https://www.dignitymemorial.com/obituaries/fairfax-va/ray-birch-8745892"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-21"
+
+[person.name]
+last = "Birch"
+use = "Ray"
+given = "Ray McKee"
+
+[person.birth]
+date = "1925-03-29"
+place.country = "US"
+place.state = "VA"
+place.city = "Fairfax County"
+
+[person.death]
+date = "2019-06-14"
+place.country = "US"
+place.state = "VA"
+place.city = "Ashburn"
+
+[person.burial]
+cemetery.name = "Fairfax City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Fairfax"
+
+[[person.education]]
+school.name = "Fairfax HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Fairfax"
+
+[[person.education]]
+school.name = "College of William and Mary"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

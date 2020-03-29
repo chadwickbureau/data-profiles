@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201910_Moriarity"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "2019-10-08"
+url = "https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=dean-joseph-moriarity-buzz&pid=194100511"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-09"
+
+[person.name]
+last = "Moriarity"
+use = "Dean"
+given = "Dean Joseph"
+nick = "Buzz"
+
+[person.death]
+date = "2019-10-05"
+
+[person.burial]
+cemetery.name = "St. Mary of the Assumption Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Glenshaw"
+
+[[person.military]]
+country = "US"
+branch = "Army"

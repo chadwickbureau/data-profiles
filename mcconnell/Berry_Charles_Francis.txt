@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Berry_Charles_Francis"
+
+[person.name]
+last = "Berry"
+use = "Charles"
+given = "Charles Francis"
+
+[person.birth]
+date = "1902-10-18"
+place.country = "US"
+place.state = "NJ"
+place.city = "Phillipsburg"
+
+[person.death]
+date = "1972-09-06"
+place.country = "US"
+place.state = "IL"
+place.city = "Evanston"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201907_Grimes"
+
+[[person.meta.citation]]
+title = "Bennett Funeral Home"
+date = "2019-08-05"
+url = "https://www.bennettfuneralhomes.com/obituary/barden-b-bart-grimes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-05"
+
+[person.name]
+last = "Grimes"
+use = "Bart"
+given = "Barden B."
+
+[person.death]
+date = "2019-07-27"
+
+[[person.military]]
+country = "US"
+branch = "Army"

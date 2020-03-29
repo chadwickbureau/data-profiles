@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201807_Carter_Bob"
+
+[[person.meta.citation]]
+title = "McDougald Funeral Home"
+date = "2018-07-11"
+url = "http://www.mcdougaldfuneralhome.com/obituaries/Robert-Lee-Carter/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Carter"
+use = "Bob"
+given = "Robert Lee"
+suffix = "Jr."
+
+[person.birth]
+date = "1953-02-11"
+place.country = "US"
+place.state = "MI"
+place.city = "Pontiac"
+
+[person.death]
+date = "2018-07-09"
+place.country = "US"
+place.state = "SC"
+place.city = "Anderson"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Ananias_Nicholas_Thomas"
+
+[person.name]
+last = "Ananias"
+use = "Nicholas"
+given = "Nicholas Thomas"
+
+[person.birth]
+date = "1928-01-04"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.death]
+date = "1988-12-28"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego County"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73.5"
+weight = "178"

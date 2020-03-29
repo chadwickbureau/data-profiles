@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2019_Roseborough"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2019-01-20"
+url = "https://obits.dallasnews.com/obituaries/dallasmorningnews/obituary.aspx?n=larry-roseborough&pid=191310512#_ga=2.206344218.867901686.1547815716-1087388670.1515542837"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-20"
+
+[person.name]
+last = "Roseborough"
+use = "Larry"
+given = "Larry"
+
+[person.birth]
+date = "1934-09-05"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[person.death]
+date = "2019-01-03"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"

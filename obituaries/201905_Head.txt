@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201905_Head"
+
+[[person.meta.citation]]
+title = "Saska Funeral Homes"
+date = "2019-05-31"
+url = "http://www.saksafuneralhomes.com/html/frank_hugh_head.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-31"
+
+[person.name]
+last = "Head"
+use = "Frank"
+given = "Frank Hugh"
+
+[person.birth]
+date = "1932-05-20"
+place.country = "US"
+place.state = "IL"
+place.city = "Edwardsville"
+
+[person.death]
+date = "2019-05-29"
+place.country = "US"
+place.state = "IL"
+place.city = "East Alton"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

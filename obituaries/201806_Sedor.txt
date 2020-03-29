@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201806_Sedor"
+
+[[person.meta.citation]]
+title = "Macken Funeral Home"
+date = "2018-06-13"
+url = "http://www.prechtrose.com/obituaries/Steven-Kline-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Sedor"
+use = "Charlie"
+given = "Charles W."
+suffix = "Jr."
+
+[person.birth]
+date = "1929-06-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Charleroi"
+
+[person.death]
+date = "2018-06-06"
+
+[[person.education]]
+school.name = "Charleroi HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Charleroi"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

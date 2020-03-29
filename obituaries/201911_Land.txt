@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Land"
+
+[[person.meta.citation]]
+title = "Green Acres Memorial Park"
+date = "2019-11-20"
+url = "https://www.dignitymemorial.com/obituaries/bloomington-ca/donnie-land-8928204"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-20"
+
+[person.name]
+last = "Land"
+use = "Don"
+given = "Donnie Paul"
+
+[person.birth]
+date = "1935-05-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Abilene"
+
+[person.death]
+date = "2019-11-13"
+
+[person.burial]
+cemetery.name = "Green Acres Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Bloomington"
+
+[[person.education]]
+school.name = "Colton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Colton"

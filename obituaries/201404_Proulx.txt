@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201404_Proulx"
+
+[[person.meta.citation]]
+title = "Jones-Rich-Hutchins Funeral Home"
+date = "2014-05-13"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Patrick-Proulx&lc=1633&pid=170531820&mid=5922046&locale=en_US"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Proulx"
+use = "Pat"
+given = "Patrick Roland"
+
+[person.birth]
+date = "1926-03-26"
+place.country = "US"
+place.state = "ME"
+place.city = "Waterville"
+
+[person.death]
+date = "2014-04-06"
+place.country = "US"
+place.state = "ME"
+place.city = "Portland"
+
+[person.burial]
+cemetery.name = "St. Francis Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ME"
+cemetery.place.city = "Waterville"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

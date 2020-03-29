@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Russell_L"
+
+[person.name]
+last = "Adams"
+use = "Russ"
+given = "Russell L."
+
+[person.birth]
+date = "1922-09-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2011-10-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Elgin"
+
+[person.description]
+bats = "L"
+throws = "L"

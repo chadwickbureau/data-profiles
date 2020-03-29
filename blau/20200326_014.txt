@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200326_014"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-08-11"
+pages = "4"
+
+[person.name]
+last = "Fraher"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lewiston"
+team.league.name = "New England League"
+description.position = "RF"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201911_Noren"
+
+[[person.meta.citation]]
+title = "BloodHorse"
+date = "2019-11-18"
+url = "https://www.bloodhorse.com/horse-racing/articles/237088/irv-noren-baseball-player-and-horse-owner-dies-at-94"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Noren"
+use = "Irv"
+given = "Irv"
+
+[person.death]
+date = "2019-11-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Oceanside"

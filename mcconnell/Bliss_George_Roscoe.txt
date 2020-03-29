@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "Bliss_George_Roscoe"
+
+[person.name]
+last = "Bliss"
+use = "George"
+given = "George Roscoe"
+nick = "Red"
+
+[person.birth]
+date = "1899-10-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Glidden"
+
+[person.death]
+date = "1973-08"
+place.country = "US"
+place.state = "NE"
+place.city = "Fairbury"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "182"
+note = [ "Broke leg in a game on May 12, 1926. Did not return to lineup until August 25." ]

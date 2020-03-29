@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Boons_Lute_Joseph"
+
+[person.name]
+last = "Boons"
+use = "Lute"
+given = "Lute Joseph"
+
+[person.birth]
+date = "1890-05-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "1982-07-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "160"

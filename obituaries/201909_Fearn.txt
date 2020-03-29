@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Fearn"
+
+[[person.meta.citation]]
+title = "Conroy Funeral Home"
+date = "2019-10-27"
+url = "https://www.conroyfh.com/viewobit.php?ID=2620"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Fearn"
+use = "Dick"
+given = "Joseph Richard"
+
+[person.birth]
+date = "1927-12-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Springfield"
+
+[person.death]
+date = "2019-09-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Dayton National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Dayton"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

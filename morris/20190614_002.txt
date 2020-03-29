@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190614_002"
+
+[[person.meta.citation]]
+title = "San Diego Tribune 1917-04-14"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Bieloper"
+use = "Hap"
+given = "Hap"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Sherman"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Dallas"
+team.league.name = "Texas League"

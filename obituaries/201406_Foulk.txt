@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201406_Foulk"
+
+[[person.meta.citation]]
+title = "Grand Island Independent"
+date = "2014-06-10"
+url = "http://www.theindependent.com/obituaries/leon-foulk/article_f828c1fc-f03b-11e3-9e49-0019bb2963f4.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-15"
+
+[person.name]
+last = "Foulk"
+use = "Leon"
+given = "Leon R."
+
+[person.birth]
+date = "1926-02-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Williamsport"
+
+[person.death]
+date = "2014-06-02"
+place.country = "US"
+place.state = "NE"
+place.city = "Kearney"
+
+[person.burial]
+cemetery.name = "Ord City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Ord"
+
+[[person.education]]
+school.name = "Grand Island HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Grand Island"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

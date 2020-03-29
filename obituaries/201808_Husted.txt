@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201808_Husted"
+
+[[person.meta.citation]]
+title = "McHoul Funeral Home"
+date = "2018-08-21"
+url = "http://www.mchoulfuneralhome.com/book-of-memories/3588714/Husted-Edward/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Husted"
+use = "Ed"
+given = "Edward F."
+
+[person.birth]
+date = "1931-05-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Hughsonville"
+
+[person.death]
+date = "2018-08-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Poughkeepsie"
+
+[[person.education]]
+school.name = "State University of New York at Potsdam"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

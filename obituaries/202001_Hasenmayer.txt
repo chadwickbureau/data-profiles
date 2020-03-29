@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202001_Hasenmayer"
+
+[[person.meta.citation]]
+title = "Shelly Funeral Homes"
+date = "2020-02-02"
+url = "https://shellyfuneralhomes.com/book-of-memories/4087870/Hasenmayer-Donald/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-02"
+
+[person.name]
+last = "Hasenmayer"
+use = "Don"
+given = "Donald I."
+
+[person.birth]
+date = "1927-04-04"
+
+[person.death]
+date = "2020-01-28"
+
+[person.burial]
+cemetery.name = "Forest Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Philadelphia"
+
+[[person.education]]
+school.name = "Abington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Abington"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

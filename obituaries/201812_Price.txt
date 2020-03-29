@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201812_Price"
+
+[[person.meta.citation]]
+title = "Wichita Eagle"
+date = "2018-12-16"
+url = "https://www.legacy.com/obituaries/kansas/obituary.aspx?n=b-quinten-price&pid=191007688"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Price"
+use = "Quinten"
+given = "B. Quinten"
+nick = "B. Q."
+
+[person.death]
+date = "2018-12-04"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_147"
+
+[[person.meta.citation]]
+title = "Hagerstown Morning Herald"
+date = "1929-09-05"
+pages = "11"
+
+[person.name]
+last = "Oliver"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Jersey City"
+team.league.name = "International League"

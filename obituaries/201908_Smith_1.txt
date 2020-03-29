@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201908_Smith_1"
+
+[[person.meta.citation]]
+title = "TheAdvocate.com"
+date = "2019-08-16"
+url = "https://obits.theadvocate.com/obituaries/theadvocate/obituary.aspx?n=samuel-albert-sa-smith&pid=193650463&fhid=15973"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Smith"
+use = "Sam"
+given = "Samuel Albert"
+nick = "SA"
+
+[person.death]
+date = "2019-08-04"
+
+[person.burial]
+cemetery.name = "Louisiana National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Zachary"
+
+[[person.education]]
+school.name = "Cohn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Port Allen"
+
+[[person.education]]
+school.name = "Southern University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

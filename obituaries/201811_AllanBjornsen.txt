@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201811_AllanBjornsen"
+
+[[person.meta.citation]]
+title = "Compassionat Funeral Care"
+date = "2018-12-02"
+url = "https://www.compassionatefuneralcare.com/notices/Jay-Allan-Bjornsen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-02"
+
+[person.name]
+last = "Allan-Bjornsen"
+use = "Jay"
+given = "Jay"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Perth Amboy"
+
+[person.death]
+date = "2018-11-14"
+place.country = "US"
+place.state = "NY"
+place.city = "Saratoga Springs"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201912_Turek"
+
+[[person.meta.citation]]
+title = "Ziegenheim & Son Funeral Home"
+date = "2020-01-02"
+url = "https://www.ziegenheinfuneralhome.com/notices/Joseph-TurekSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Turek"
+use = "Joseph"
+given = "Joseph W."
+suffix = "Sr."
+
+[person.birth]
+date = "1922-05-06"
+
+[person.death]
+date = "2019-12-29"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"

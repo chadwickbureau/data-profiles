@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201407_Hagan"
+
+[[person.meta.citation]]
+title = "Mexico Ledger"
+date = "2014-07-31"
+url = "http://www.mexicoledger.com/article/20140731/NEWS/140739749/-1/sports"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-31"
+
+[person.name]
+last = "Hagan"
+use = "Dan"
+given = "Daniel Yates"
+
+[person.birth]
+date = "1939-07-14"
+place.country = "US"
+place.state = "MO"
+place.city = "Mexico"
+
+[person.death]
+date = "2014-07-29"
+place.country = "US"
+place.state = "MO"
+place.city = "Columbia"
+
+[person.burial]
+cemetery.name = "St. Brendan Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Mexico"
+
+[[person.education]]
+school.name = "Notre Dame"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "South Bend"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_093"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-11"
+pages = "21"
+
+[person.name]
+last = "Bohanan"
+use = "Will"
+given = "Will"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "L"
+description.age = "22"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "St. Louis"
+team.place.country = "US"
+team.place.state = "OK"
+team.place.city = "St. Louis"
+team.caliber = "semipro"

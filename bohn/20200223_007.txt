@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_007"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1920-08-24"
+
+[person.name]
+last = "Cronin"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Aberdeen"
+team.league.name = "South Dakota League"

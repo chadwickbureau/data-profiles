@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201807_Hulderman"
+
+[[person.meta.citation]]
+title = "Hutson Funeral Home"
+date = "2018-08-01"
+url = "http://www.hutsonfuneralhomes.com/obituary/thomas-tommy-hulderman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Hulderman"
+use = "Tommy"
+given = "Thomas Lynn"
+
+[person.birth]
+date = "1950-12-01"
+place.country = "US"
+place.state = "WV"
+place.city = "Fairmont"
+
+[person.death]
+date = "2018-07-28"
+place.country = "US"
+place.state = "WV"
+place.city = "Morgantown"
+
+[person.burial]
+cemetery.name = "Shinnston Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Shinnston"
+
+[[person.education]]
+school.name = "Monongah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Monogah"

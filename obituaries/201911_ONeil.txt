@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201911_ONeil"
+
+[[person.meta.citation]]
+title = "Leete-Stevens Funeral Home"
+date = "2019-11-27"
+url = "https://memorials.leetestevens.com/william-oneil/4037306/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-27"
+
+[person.name]
+last = "O'Neil"
+use = "Bill"
+given = "William H."
+suffix = "Jr."
+
+[person.birth]
+date = "1947-12-04"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2019-11-24"
+place.country = "US"
+place.state = "CT"
+place.city = "Windsor Locks"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Windsor Locks"
+
+[[person.education]]
+school.name = "Windsor Locks HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Windsor Locks"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201807_Cloninger"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2018-07-28"
+url = "https://www.legacy.com/obituaries/charlotte/obituary.aspx?n=tony-lee-cloninger&pid=189730160&fhid=7738"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Cloninger"
+use = "Tony"
+given = "Tony Lee"
+suffix = "Sr."
+
+[person.birth]
+date = "1940-08-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Lincoln County"
+
+[person.death]
+date = "2018-07-24"
+
+[person.burial]
+cemetery.name = "Denver United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Denver"

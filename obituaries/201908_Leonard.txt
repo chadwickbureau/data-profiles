@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201908_Leonard"
+
+[[person.meta.citation]]
+title = "Hamlett-Dobson Funeral Home"
+date = "2019-08-19"
+url = "https://www.hamlettdobson.com/notices/Charles-Leonard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-19"
+
+[person.name]
+last = "Leonard"
+use = "Charlie"
+given = "Charles C."
+
+[person.birth]
+date = "1940-05-06"
+place.country = "US"
+place.state = "TN"
+place.city = "Bulls Gap"
+
+[person.death]
+date = "2019-08-11"
+
+[[person.education]]
+school.name = "Dobyns-Bennett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Kingsport"

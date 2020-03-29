@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_036"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-08-08"
+
+[person.name]
+last = "Tobin"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bismarck"
+team.league.name = "North Dakota League"

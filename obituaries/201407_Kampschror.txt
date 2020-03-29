@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201407_Kampschror"
+
+[[person.meta.citation]]
+title = "Denver Post"
+date = "2014-07-15"
+url = "http://www.legacy.com/obituaries/denverpost/obituary.aspx?n=norman-kampschror&pid=171727297&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-15"
+
+[person.name]
+last = "Kampschror"
+use = "Norm"
+given = "Norman"
+
+[person.birth]
+date = "1937-03-29"
+place.country = "US"
+place.state = "MT"
+place.city = "Glendive"
+
+[person.death]
+date = "2014-07-13"
+
+[[person.education]]
+school.name = "University of Montana"
+school.type = "college"

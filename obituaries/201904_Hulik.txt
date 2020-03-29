@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201904_Hulik"
+
+[[person.meta.citation]]
+title = "Plis Funeral Home"
+date = "2019-04-21"
+url = "https://memorials.plisfuneralhome.com/michael-hulik/3812897/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Hulik"
+use = "Mike"
+given = "Michael"
+
+[person.birth]
+date = "1931-01-21"
+
+[person.death]
+date = "2019-04-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Auburn"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Auburn"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201808_Halford"
+
+[[person.meta.citation]]
+title = "J. F. Floyd Mortuary"
+date = "2018-08-28"
+url = "https://www.floydmortuary.com/obituaries/Dewey-Halford/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-28"
+
+[person.name]
+last = "Halford"
+use = "Dewey"
+given = "Dewey Dean"
+
+[person.birth]
+date = "1928-09-01"
+place.country = "US"
+place.state = "SC"
+place.city = "Duncan"
+
+[person.death]
+date = "2018-08-26"
+place.country = "US"
+place.state = "SC"
+place.city = "Spartanburg"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Spartanburg"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

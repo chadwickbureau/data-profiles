@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201409_Walton"
+
+[[person.meta.citation]]
+title = "Bellingham Herald"
+date = "2014-10-08"
+url = "http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=malcolm-edward-walton&pid=172526930&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-08"
+
+[person.name]
+last = "Walton"
+use = "Mal"
+given = "Malcolm Edward"
+
+[person.birth]
+date = "1933-09-14"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.death]
+date = "2014-09-18"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

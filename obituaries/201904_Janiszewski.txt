@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201904_Janiszewski"
+
+[[person.meta.citation]]
+title = "Kuhn Funeral Home"
+date = "2019-05-02"
+url = "https://memorials.kuhnfuneralhomes.com/carl-janiszewski/3823110/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-02"
+
+[person.name]
+last = "Janiszewski"
+use = "Carl"
+given = "Carl A."
+
+[person.birth]
+date = "1933-04-13"
+place.country = "US"
+place.state = "PA"
+place.city = "West Reading"
+
+[person.death]
+date = "2019-04-30"
+place.country = "US"
+place.state = "PA"
+place.city = "West Reading"
+
+[[person.education]]
+school.name = "Reading Central Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Reading"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

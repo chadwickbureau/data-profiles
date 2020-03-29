@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201409_Pacheco"
+
+[[person.meta.citation]]
+title = "FuneralHomeWeb.net"
+date = "2014-09-16"
+url = "http://funeralhomeweb.net/default.aspx?MemberId=138360&FLVId="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-16"
+
+[person.name]
+last = "Pacheco"
+use = "Ernie"
+given = "Ernest"
+suffix = "Jr."
+
+[person.birth]
+date = "1961-11-03"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "2014-09-11"
+place.country = "US"
+place.state = "RI"
+place.city = "Coventry"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "East Providence"
+
+[[person.education]]
+school.name = "Providence College"
+school.type = "college"

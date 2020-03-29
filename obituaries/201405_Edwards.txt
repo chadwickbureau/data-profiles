@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201405_Edwards"
+
+[[person.meta.citation]]
+title = "Buffalo New"
+date = "2014-05-20"
+url = "http://www.buffalonews.com/city-region/obituaries/william-l-edwards-jr-baseball-career-cut-short-20140520"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-26"
+
+[person.name]
+last = "Edwards"
+use = "Bill"
+given = "William L."
+suffix = "Jr."
+
+[person.birth]
+date = "1927-01-04"
+place.country = "US"
+place.state = "NY"
+place.city = "Lawtons"
+
+[person.death]
+date = "2014-05-13"
+place.country = "US"
+place.state = "NY"
+place.city = "Gowanda"
+
+[[person.education]]
+school.name = "Gowanda HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Gowanda"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

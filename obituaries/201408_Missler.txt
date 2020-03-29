@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201408_Missler"
+
+[[person.meta.citation]]
+title = "Columbus Dispatch"
+date = "2014-08-12"
+url = "http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=Ryan-Missler&pid=172069891"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-12"
+
+[person.name]
+last = "Missler"
+use = "Ryan"
+given = "Ryan Patrick"
+
+[person.birth]
+date = "1975-08-23"
+place.country = "US"
+place.state = "OH"
+place.city = "St. Mary's"
+
+[person.death]
+date = "2014-08-09"
+
+[[person.education]]
+school.name = "Dublin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Dublin"
+
+[[person.education]]
+school.name = "Ohio Wesleyan University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Delaware"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Brown_Thomas_Tarlton"
+
+[person.name]
+last = "Brown"
+use = "Thomas"
+given = "Thomas Tarlton"
+
+[person.birth]
+date = "1860-09-21"
+place.country = "GB"
+place.city = "Liverpool"
+
+[person.death]
+date = "1927-10-25"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70"
+weight = "168"

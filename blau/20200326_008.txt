@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200326_008"
+
+[[person.meta.citation]]
+title = "Temple Daily Telegram"
+date = "1915-06-11"
+pages = "5"
+
+[person.name]
+last = "Lewis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Belton"
+team.league.name = "Middle Texas League"
+description.throws = "L"

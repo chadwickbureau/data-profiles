@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201907_Masonis"
+
+[[person.meta.citation]]
+title = "Dicken Funeral Home"
+date = "2019-08-05"
+url = "https://www.dickenfuneralhome.com/obituary/edward-masonis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-05"
+
+[person.name]
+last = "Masonis"
+use = "Ed"
+given = "Edward R."
+
+[person.birth]
+date = "1930-06-17"
+place.country = "US"
+place.state = "OH"
+place.city = "Elyria"
+
+[person.death]
+date = "2019-07-31"
+place.country = "US"
+place.state = "OH"
+place.city = "Medina"
+
+[person.burial]
+cemetery.name = "Salem Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "DuBois"
+
+[[person.education]]
+school.name = "St. Joseph HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "DuBois"

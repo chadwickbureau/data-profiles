@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "201406_Arduini"
+
+[[person.meta.citation]]
+title = "Frederick B. Welker Funeral Home"
+date = "2014-07-05"
+url = "http://www.welkerfuneralhome.com/obits/obituary.php?id=480142"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Arduini"
+use = "Sal"
+given = "Salvatore D."
+
+[person.birth]
+date = "1925-08-30"
+place.country = "US"
+place.state = "PA"
+place.city = "Jersey Shore"
+
+[person.death]
+date = "2014-06-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Jersey Shore"
+
+[person.burial]
+cemetery.name = "Jersey Shore Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Jersey Shore"
+
+[[person.education]]
+school.name = "Jersey Shore HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Jersey Shore"
+
+[[person.education]]
+school.name = "Bloomsburg University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Bloomsburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Ottesen"
+
+[[person.meta.citation]]
+title = "Kansas City Star"
+date = "2014-08-15"
+url = "http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=ROBERT-OTTESEN&pid=172111241"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-16"
+
+[person.name]
+last = "Ottesen"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+date = "1930-08-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-08-11"
+place.country = "US"
+place.state = "KS"
+place.city = "Shawnee"
+
+[[person.education]]
+school.name = "Glenbard HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Glen Ellyn"

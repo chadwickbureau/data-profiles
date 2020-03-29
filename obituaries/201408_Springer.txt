@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Springer"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2014-08-24"
+url = "http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?pid=172230030"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-25"
+
+[person.name]
+last = "Springer"
+use = "Hugh"
+given = "Hugh Bart"
+
+[person.birth]
+date = "1938-12-08"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.death]
+date = "2014-08-19"
+
+[[person.education]]
+school.name = "Cleveland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Seattle"
+
+[[person.education]]
+school.name = "University of Oregon"
+school.type = "college"

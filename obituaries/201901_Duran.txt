@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201901_Duran"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2019-01-27"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=jess-m-duran&pid=191342632"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-24"
+
+[person.name]
+last = "Duran"
+use = "Jess"
+given = "Jess M."
+
+[person.birth]
+date = "1932-12-05"
+place.country = "US"
+place.state = "CA"
+place.city = "South San Francisco"
+
+[person.death]
+date = "2019-01-14"
+
+[person.burial]
+cemetery.name = "Holy Sepulchre Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Hayward"
+
+[[person.education]]
+school.name = "Hayward HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Hayward"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

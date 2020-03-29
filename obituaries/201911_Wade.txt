@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Wade"
+
+[[person.meta.citation]]
+title = "Chapel Hill Funeral Home"
+date = "2019-12-23"
+url = "https://www.dignitymemorial.com/obituaries/kansas-city-ks/burton-wade-8917527"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-23"
+
+[person.name]
+last = "Wade"
+use = "Burton"
+given = "Burton E."
+
+[person.birth]
+date = "1933-12-30"
+place.country = "US"
+place.state = "KS"
+place.city = "Columbus"
+
+[person.death]
+date = "2019-11-06"
+
+[person.burial]
+cemetery.name = "Chapel Hill Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Kansas City"
+
+[[person.education]]
+school.name = "Wyandotte HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Kansas City"

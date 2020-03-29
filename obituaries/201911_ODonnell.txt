@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201911_ODonnell"
+
+[[person.meta.citation]]
+title = "Page Funeral Home"
+date = "2019-12-18"
+url = "https://www.pagefuneralhome.com/obituaries/Cornelius-O-Donnell/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-18"
+
+[person.name]
+last = "O'Donnell"
+use = "Connie"
+given = "Cornelius J."
+
+[person.birth]
+date = "1932"
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "2019-11-05"
+
+[person.burial]
+cemetery.name = "St. Ann's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Freeland"
+
+[[person.education]]
+school.name = "St. Ann’s HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Freeland"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Bridwell_Albert_Henry"
+
+[person.name]
+last = "Bridwell"
+use = "Albert"
+given = "Albert Henry"
+
+[person.birth]
+date = "1884-01-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Friendship"
+
+[person.death]
+date = "1969-01-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "69"
+weight = "170"
+note = [ "Suspended by Nashville, Southern Association for most of 1916 season" ]

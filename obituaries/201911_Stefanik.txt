@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201911_Stefanik"
+
+[[person.meta.citation]]
+title = "Worcester Telegram & Gazette"
+date = "2019-11-17"
+url = "https://www.legacy.com/obituaries/telegram/obituary.aspx?n=john-stefanik&pid=194455014&fhid=25317"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-17"
+
+[person.name]
+last = "Stefanik"
+use = "John"
+given = "John Thomas"
+
+[person.birth]
+date = "1924-02-09"
+place.country = "US"
+place.state = "MA"
+place.city = "Webster"
+
+[person.death]
+date = "2019-11-14"
+
+[person.burial]
+cemetery.name = "St. Joseph Garden of Peace"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Webster"
+
+[[person.education]]
+school.name = "Bartlett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Webster"
+
+[[person.education]]
+school.name = "Nichols College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

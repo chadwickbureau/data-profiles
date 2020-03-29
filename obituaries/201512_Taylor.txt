@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201512_Taylor"
+
+[[person.meta.citation]]
+title = "Lima News"
+date = "2015-12-30"
+url = "http://www.legacy.com/obituaries/limaohio/obituary.aspx?n=glenn-taylor&pid=177093148&fhid=27800"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-12"
+
+[person.name]
+last = "Taylor"
+use = "Fred"
+given = "Glenn Fred"
+
+[person.death]
+date = "2015-12-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Lima"
+
+[person.burial]
+cemetery.name = "Walnut Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "New Hampshire"

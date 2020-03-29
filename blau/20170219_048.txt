@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170219_048"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1926-06-10"
+pages = "14"
+
+[person.name]
+last = "Cardner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Lincoln"
+team.league.name = "Western League"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201105_Black"
+
+[[person.meta.citation]]
+title = "McNett Funeral Home"
+date = "2018-07-20"
+url = "http://mcnettfuneralhome.com/book-of-memories/2344768/Black-Gerome22Judge22/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Black"
+use = "G. C."
+given = "Gerome Cloyd"
+
+[person.birth]
+date = "1931-06-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Merkel"
+
+[person.death]
+date = "2011-05-21"
+place.country = "US"
+place.state = "TX"
+place.city = "Nolan County"
+
+[person.burial]
+cemetery.name = "Andrews West Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Andrews"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

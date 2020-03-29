@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190531_002"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader 1915-03-31"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Ginn"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Waterbury"
+team.league.name = "Eastern Association"

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Arnovich_Morris"
+
+[person.name]
+last = "Arnovich"
+use = "Morris"
+given = "Morris"
+
+[person.birth]
+date = "1910-11-16"
+place.country = "US"
+place.state = "WI"
+place.city = "Superior"
+
+[person.death]
+date = "1959-07-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Superior"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "168"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

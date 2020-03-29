@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190531_033"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette 1915-06-24"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Winters"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"

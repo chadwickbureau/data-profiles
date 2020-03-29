@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201901_Wensing"
+
+[[person.meta.citation]]
+title = "Maresh-Meredith & Acklam Funeral Home"
+date = "2020-01-22"
+url = "https://meredithfuneralhome.com/obituaries/frederick-lee-wensing-jr.125425"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-22"
+
+[person.name]
+last = "Wensing"
+use = "Fred"
+given = "Frederick Lee"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-11-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[person.death]
+date = "2019-01-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[[person.education]]
+school.name = "Washington Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Racine"

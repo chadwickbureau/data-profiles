@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201908_Allen"
+
+[[person.meta.citation]]
+title = "Thomas C. Strickland And Sons Funeral Home"
+date = "2019-08-11"
+url = "https://www.stricklandandsonsfuneralhome.com/obituary/brian-allen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-11"
+
+[person.name]
+last = "Allen"
+use = "Brian"
+given = "Max Brian"
+
+[person.birth]
+date = "1979-09-15"
+place.country = "US"
+place.state = "GA"
+place.city = "Thomasville"
+
+[person.death]
+date = "2019-08-06"
+place.country = "US"
+place.state = "GA"
+place.city = "Rincon"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Thomasville"
+
+[[person.education]]
+school.name = "Andrew College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Armstrong State University"
+school.type = "college"

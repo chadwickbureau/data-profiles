@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201911_Helmuth"
+
+[[person.meta.citation]]
+title = "TributeArchive.com"
+date = "2019-12-03"
+url = "https://www.tributearchive.com/obituaries/9204604/Jacob-Helmuth"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-03"
+
+[person.name]
+last = "Helmuth"
+use = "Jake"
+given = "Jacob A."
+
+[person.birth]
+date = "1929-02-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2019-11-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Arlington Heights"
+
+[person.burial]
+cemetery.name = "Lakewood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elgin"

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201809_McDonald"
+
+[[person.meta.citation]]
+title = "TC Palm"
+date = "2018-10-07"
+url = "https://www.legacy.com/obituaries/tcpalm/obituary.aspx?n=henry-r-mcdonald-hank&pid=190412059"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-07"
+
+[person.name]
+last = "McDonald"
+use = "Hank"
+given = "Henry R."
+
+[person.birth]
+date = "1924-09-13"
+
+[person.death]
+date = "2018-09-06"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

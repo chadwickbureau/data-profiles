@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201810_Bivins"
+
+[[person.meta.citation]]
+title = "Watson-Giddens Funeral Home"
+date = "2018-10-29"
+url = "https://www.watsongiddensfuneralhome.com/notices/Stanley-Bivins"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-29"
+
+[person.name]
+last = "Bivins"
+use = "Stanley"
+given = "Stanley Chipman"
+suffix = "Sr."
+
+[person.birth]
+date = "1935-04-27"
+place.country = "US"
+place.state = "GA"
+place.city = "Andersonville"
+
+[person.death]
+date = "2018-10-26"
+place.country = "US"
+place.state = "GA"
+place.city = "Albany"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Americus"
+
+[[person.education]]
+school.name = "Americus HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Americus"

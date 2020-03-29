@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "65541"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65541"
+title = "The Sporting News Player Contract Cards, ScanID: 1018006185"
+
+[person.name]
+last = "Hammond"
+given = "Ordway"
+
+[person.description]
+position = "3B"
+
+
+[[person.transaction]]
+date = "1913"
+type = "signed"
+join.name = "Hamilton (OH)"
+note = "Hamilton (OH) 1913"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Hamilton (OH)"
+note = "res for 1914"
+

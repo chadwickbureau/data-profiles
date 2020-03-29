@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201810_Stanka"
+
+[[person.meta.citation]]
+title = "Schmidt Funeral Home"
+date = "2018-10-21"
+url = "http://www.schmidtfuneralhome.net/sitemaker/sites/Schmid1/obit.cgi?user=28580461_JStanka"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Stanka"
+use = "Joe"
+given = "Joe Donald"
+
+[person.birth]
+date = "1931-07-23"
+place.country = "US"
+place.state = "OK"
+place.city = "Hammon"
+
+[person.death]
+date = "2018-10-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Katy"

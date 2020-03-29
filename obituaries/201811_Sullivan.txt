@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Sullivan"
+
+[[person.meta.citation]]
+title = "Alhiser-Comer Mortuary"
+date = "2018-11-09"
+url = "https://www.alhiser-comer.com/obituaries/William-Sullivan-21/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-09"
+
+[person.name]
+last = "Sullivan"
+use = "Bill"
+given = "William Alexander"
+
+[person.birth]
+date = "1919-09-21"
+place.country = "US"
+place.state = "KY"
+place.city = "Praise"
+
+[person.death]
+date = "2018-11-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Poway"
+
+[person.burial]
+cemetery.name = "Andrew Johnson National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Greeneville"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

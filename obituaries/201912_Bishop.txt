@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201912_Bishop"
+
+[[person.meta.citation]]
+title = "Miller Funeral Home"
+date = "2020-01-01"
+url = "https://www.millerfh.com/obituary/willard-bishop"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Bishop"
+use = "Tuffy"
+given = "Willard J."
+
+[person.birth]
+date = "1940-01-05"
+place.country = "US"
+place.state = "SD"
+place.city = "Sioux Falls"
+
+[person.death]
+date = "2019-12-27"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SD"
+school.place.city = "Sioux Falls"

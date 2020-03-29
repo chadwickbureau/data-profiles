@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "201901_138"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Knight"
+use = "Charles"
+given = "Charles W."

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201904_Havlicek"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2019-05-05"
+url = "http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=john-joseph-havlicek&pid=192802061"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-07"
+
+[person.name]
+last = "Havlicek"
+use = "John"
+given = "John Joseph"
+
+[person.birth]
+date = "1940-04-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Martins Ferry"
+
+[person.death]
+date = "2019-04-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Jupiter"
+
+[[person.education]]
+school.name = "Bridgeport HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Bridgeport"
+
+[[person.education]]
+school.name = "Ohio State University"
+school.type = "college"

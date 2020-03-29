@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201409_Pilarski"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2014-09-14"
+url = "http://www.legacy.com/obituaries/buffalonews/obituary.aspx?n=Harry-PILARSKI&pid=172456615"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Pilarski"
+use = "Harry"
+given = "Harry"
+
+[person.death]
+date = "2014-09-13"
+
+[person.burial]
+cemetery.name = "St. Stanislaus Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Cheektowaga"
+
+[[person.military]]
+country = "US"
+branch = "Army"

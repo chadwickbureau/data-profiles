@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201504_Gebhart"
+
+[[person.meta.citation]]
+title = "Shelby Funeral Home"
+date = "2019-12-23"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=dc56fc14-14d4-4d56-8147-1b77613a2dc8&CFTOKEN=0&o_id=3030068&fh_id=12308"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-23"
+
+[person.name]
+last = "Gebhart"
+use = "Harold"
+given = "Harold T."
+
+[person.birth]
+date = "1929-12-15"
+place.country = "US"
+place.state = "IN"
+place.city = "State Line"
+
+[person.death]
+date = "2015-04-11"
+place.country = "US"
+place.state = "IL"
+place.city = "Danville"
+
+[person.burial]
+cemetery.name = "Mount Hope Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Covington"
+
+[[person.education]]
+school.name = "Covington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Covington"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

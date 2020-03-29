@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201906_Hardouin"
+
+[[person.meta.citation]]
+title = "Charlet Family Funeral Home"
+date = "2019-07-07"
+url = "https://charletfuneralhome.com/book-of-memories/3883537/Hardouin-Alfred/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Hardouin"
+use = "Al"
+given = "Alfred James"
+
+[person.birth]
+date = "1918-07-25"
+place.country = "US"
+place.state = "LA"
+place.city = "Abita Springs"
+
+[person.death]
+date = "2019-06-27"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.burial]
+cemetery.name = "Grace Episcopal Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "St. Francisville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

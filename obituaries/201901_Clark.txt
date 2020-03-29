@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201901_Clark"
+
+[[person.meta.citation]]
+title = "Preston & Simons Mortuary"
+date = "2019-07-13"
+url = "https://www.preston-simonsmortuary.com/obituary/james-clark?fbclid=IwAR3Ss5gqwKq6c3hcqROEGd8TuaygDXupMX1_-Hd-kw-5RdX75zbO_IFOeqU"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-13"
+
+[person.name]
+last = "Clark"
+use = "James"
+given = "James Edward"
+
+[person.birth]
+date = "1947-04-30"
+
+[person.death]
+date = "2019-01-14"

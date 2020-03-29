@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201904_Maher"
+
+[[person.meta.citation]]
+title = "A Community Funeral Home"
+date = "2019-04-17"
+url = "https://www.acommunityfuneralhome.com/obituaries/Russell-Maher/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-17"
+
+[person.name]
+last = "Maher"
+use = "Buddy"
+given = "Russell James"
+
+[person.birth]
+date = "1956-03-22"
+
+[person.death]
+date = "2019-04-08"
+
+[[person.education]]
+school.name = "Boone HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Orlando"
+
+[[person.education]]
+school.name = "Mississippi State University"
+school.type = "college"

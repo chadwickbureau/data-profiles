@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "201405_Floyd"
+
+[[person.meta.citation]]
+title = "Austin Statesman"
+date = "2014-06-22"
+url = "http://www.legacy.com/obituaries/statesman/obituary.aspx?n=Amos-FLOYD&pid=171447973"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-22"
+
+[person.name]
+last = "Floyd"
+use = "Amos"
+given = "Amos Morgan"
+
+[person.birth]
+date = "1923-09-18"
+place.country = "US"
+place.state = "TX"
+place.city = "Boxelder"
+
+[person.death]
+date = "2014-05-12"
+place.country = "US"
+place.state = "TX"
+place.city = "Fredericksburg"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fredericksburg"
+
+[[person.education]]
+school.name = "Avery HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Avery"
+
+[[person.education]]
+school.name = "Paris Junior College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Paris"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

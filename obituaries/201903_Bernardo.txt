@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201903_Bernardo"
+
+[[person.meta.citation]]
+title = "Adamson Funeral Home"
+date = "2019-03-17"
+url = "https://www.adamsonfuneral.com/obituaries/James-Edward-Jim-Bernardo?obId=4224520#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Bernardo"
+use = "Jim"
+given = "James Edward"
+
+[person.birth]
+date = "1933-11-20"
+place.country = "US"
+place.state = "PA"
+place.city = "DuBois"
+
+[person.death]
+date = "2019-03-14"
+place.country = "US"
+place.state = "PA"
+place.city = "DuBois"
+
+[person.burial]
+cemetery.name = "Morningside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "DuBois"
+
+[[person.education]]
+school.name = "DuBois HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "DuBois"

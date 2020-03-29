@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_113"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1926-04-22"
+pages = "2"
+
+[person.name]
+last = "Hurst"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Idaho Falls"
+team.league.name = "Utah-Idaho League"

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201808_Amoroso"
+
+[[person.meta.citation]]
+title = "Legacy Funeral Home"
+date = "2018-08-14"
+url = "http://legacyfuneralcare.com/obituary/dante-j-amoroso/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-14"
+
+[person.name]
+last = "Amoroso"
+use = "Dante"
+given = "Dante J."
+
+[person.birth]
+date = "1924-03-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+[person.death]
+date = "2018-08-04"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

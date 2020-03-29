@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201901_Woods_2"
+
+[[person.meta.citation]]
+title = "Knoxville News Sentinel"
+date = "2019-01-16"
+url = "https://www.legacy.com/obituaries/knoxnews/obituary.aspx?n=ralph-woods&pid=191271493&fhid=21006"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Woods"
+use = "Ralph"
+given = "Ralph"
+
+[person.birth]
+date = "1941-06-29"
+place.country = "US"
+place.state = "TN"
+place.city = "Knoxville"
+
+[person.death]
+date = "2019-01-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Kalamazoo"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Knoxville"
+
+[[person.education]]
+school.name = "Nelson Merry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Jefferson City"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

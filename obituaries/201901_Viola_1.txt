@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201901_Viola_1"
+
+[[person.meta.citation]]
+title = "TC Palm"
+date = "2019-01-09"
+url = "https://www.legacy.com/obituaries/tcpalm/obituary.aspx?n=emil-viola&pid=191206396&fhid=10590"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-09"
+
+[person.name]
+last = "Viola"
+use = "Emil"
+given = "Emil"
+
+[person.death]
+date = "2019-01-04"

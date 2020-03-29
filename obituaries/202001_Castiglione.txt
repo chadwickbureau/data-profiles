@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202001_Castiglione"
+
+[[person.meta.citation]]
+title = "The Telegraph"
+date = "2020-01-16"
+url = "https://www.legacy.com/obituaries/thetelegraph/obituary.aspx?n=eugene-castiglione&pid=195048730"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-16"
+
+[person.name]
+last = "Castiglione"
+use = "Gene"
+given = "Eugene"
+nick = "Deke"
+
+[person.birth]
+date = "1928-06-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-01-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Benld HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Benld"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

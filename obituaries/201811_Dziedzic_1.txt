@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Dziedzic_1"
+
+[[person.meta.citation]]
+title = "Star-Tribune"
+date = "2018-11-24"
+url = "http://www.startribune.com/northeast-minneapolis-giant-walt-dziedzic-dies-at-85/501181141/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Dziedzic"
+use = "Walt"
+given = "Walt"
+
+[person.birth]
+place.country = "US"
+place.state = "MN"
+
+[person.death]
+date = "2018-11-24"
+place.country = "US"
+place.state = "MN"
+place.city = "Robbinsdale"
+
+[[person.education]]
+school.name = "Edison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Minneapolis"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

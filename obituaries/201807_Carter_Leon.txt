@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201807_Carter_Leon"
+
+[[person.meta.citation]]
+title = "Jones-Gallagher Helm-Gallagher Funeral Home"
+date = "2018-07-11"
+url = "http://www.jonesgallagherfh.com/obituaries/Leon-Carter-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Carter"
+use = "Buddy"
+given = "Leon Eugene"
+suffix = "Sr."
+
+[person.birth]
+date = "1931-08-05"
+place.country = "US"
+place.state = "CA"
+place.city = "San Mateo"
+
+[person.death]
+date = "2018-07-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Penney Farms"
+
+[[person.education]]
+school.name = "Robert E. Lee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Jacksonville"

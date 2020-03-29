@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "Zepke_Eric_Walter"
+
+[person.name]
+last = "Zepke"
+use = "Eric"
+given = "Eric Walter"
+
+[person.birth]
+date = "1933"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2010-01-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Wilbraham"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.resides]]
+dates = "1952"
+place.country = "US"
+place.state = "MA"
+place.city = "E. Longmeadow"
+place.address = "229 Shaker Road"
+
+
+[[person.playing]]
+season = "1952"
+league.name = "Appalachian League"
+splits.0.team.name = "Kingsport"
+totals.P_G = "2"
+totals.P_CG = "0"
+totals.P_IP = "3"
+totals.P_W = "0"
+totals.P_L = "0"
+totals.P_PCT = ".000"
+
+[[person.playing]]
+season = "1952"
+league.name = "Mountain States League"
+splits.0.team.name = "Big Stone Gap"
+totals.P_G = "8"
+totals.P_CG = "1"
+totals.P_IP = "29"
+totals.P_W = "2"
+totals.P_L = "3"
+totals.P_PCT = ".000"
+totals.P_H = "25"
+totals.P_BB = "34"
+totals.P_SO = "14"
+totals.P_R = "41"
+totals.P_ER = "28"
+totals.P_ERA = "8.69"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201310_Robles"
+
+[[person.meta.citation]]
+title = "Consuelocity.com"
+date = "2013-10-17"
+url = "http://www.consuelocity.com/noticias.aspx?index=2f7fb48f-9f65-472a-a3c4-1899b6cb2c5b"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-14"
+
+[person.name]
+last = "Robles"
+use = "Julio"
+given = "Julio"
+
+[person.death]
+date = "2013-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"

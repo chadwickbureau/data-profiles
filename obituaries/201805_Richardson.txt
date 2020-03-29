@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201805_Richardson"
+
+[[person.meta.citation]]
+title = "Daily Journal"
+date = "2018-06-27"
+url = "https://www.smdailyjournal.com/obituaries/thomas-richardson/article_d3b1c826-78e7-11e8-af80-7720862d2aed.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-27"
+
+[person.name]
+last = "Richardson"
+use = "Tom"
+given = "Thomas G."
+
+[person.birth]
+date = "1937"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2018-05-28"

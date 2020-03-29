@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201907_Canfield"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-08-04"
+url = "https://www.legacy.com/obituaries/kansascity/obituary.aspx?n=michael-duane-canfield&pid=193553784&fhid=11338"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Canfield"
+use = "Mike"
+given = "Michael Duane"
+
+[person.birth]
+date = "1945-03-09"
+
+[person.death]
+date = "2019-07-31"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+
+[[person.education]]
+school.name = "Wyandotte HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Kansas City"

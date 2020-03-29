@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_009"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1920-08"
+
+[person.name]
+last = "Dubois"
+use = "Jerry"
+given = "Jerry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Madison"
+team.league.name = "South Dakota League"

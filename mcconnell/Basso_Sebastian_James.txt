@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Basso_Sebastian_James"
+
+[person.name]
+last = "Basso"
+use = "Jim"
+given = "Sebastian James"
+
+[person.birth]
+date = "1921-10-05"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.death]
+date = "1999-05-21"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

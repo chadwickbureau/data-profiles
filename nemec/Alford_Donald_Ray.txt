@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "Alford_Donald_Ray"
+
+[person.name]
+last = "Alford"
+use = "Don"
+given = "Donald Ray"
+
+[person.birth]
+date = "1929-09-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.death]
+date = "2014-01-03"
+place.country = "US"
+place.state = "TX"
+place.city = "The Woodlands"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.military]]
+country = "US"
+dates = "1952/1953"

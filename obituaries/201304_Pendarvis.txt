@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201304_Pendarvis"
+
+[[person.meta.citation]]
+title = "Temple & Sons Funeral Directors"
+date = "2014-06-04"
+url = "http://www.templeandsons.com/visitations.php?id=1063"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-04"
+
+[person.name]
+last = "Pendarvis"
+use = "Embry"
+given = "Embry"
+nick = "T-Won"
+
+[person.birth]
+date = "1952-04-24"
+place.country = "US"
+place.state = "OK"
+place.city = "Anadarko"
+
+[person.death]
+date = "2013-04-18"
+
+[person.burial]
+cemetery.name = "Memory Lane Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Anadarko"
+
+[[person.education]]
+school.name = "Northeast HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Langston University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Langston"

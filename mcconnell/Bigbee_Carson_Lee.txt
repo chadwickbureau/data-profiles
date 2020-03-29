@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bigbee_Carson_Lee"
+
+[person.name]
+last = "Bigbee"
+use = "Carson"
+given = "Carson Lee"
+
+[person.birth]
+date = "1895-03-31"
+place.country = "US"
+place.state = "OR"
+place.city = "Lebanon"
+
+[person.death]
+date = "1964-10-17"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "69"
+weight = "157"

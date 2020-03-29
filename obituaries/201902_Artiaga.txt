@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201902_Artiaga"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-02-22"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/salomon-artiaga-8175246"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-22"
+
+[person.name]
+last = "Artiaga"
+use = "Sal"
+given = "Salomon"
+
+[person.birth]
+date = "1946-08-04"
+place.country = "US"
+place.state = "NM"
+place.city = "Los Lunas"
+
+[person.death]
+date = "2019-02-16"

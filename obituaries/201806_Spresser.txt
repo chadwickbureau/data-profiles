@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201806_Spresser"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-06-24"
+url = "https://www.dignitymemorial.com/obituaries/st-clair-shores-mi/robert-spresser-7889354"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Spresser"
+use = "Robert"
+given = "Robert Clarence"
+
+[person.birth]
+date = "1927-02-10"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2018-06-18"
+place.country = "US"
+place.state = "MI"
+place.city = "St. Clair Shores"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

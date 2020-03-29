@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kwak"
+
+[[person.meta.citation]]
+title = "Friedrich_Jones Funeral Home"
+date = "2019-05-27"
+url = "https://www.friedrichjones.com/obituaries/Karol-Ducky-Kwak?obId=4369052#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Kwak"
+use = "Ducky"
+given = "Karol"
+
+[person.death]
+date = "2019-04-28"
+
+[[person.education]]
+school.name = "Crane Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"

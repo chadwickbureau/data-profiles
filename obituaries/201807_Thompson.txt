@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "201807_Thompson"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-08-01"
+url = "https://www.dignitymemorial.com/obituaries/homewood-al/john-thompson-7948481"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Thompson"
+use = "John"
+given = "John Lucius"
+suffix = "Jr."
+
+[person.birth]
+date = "1922-07-31"
+
+[person.death]
+date = "2018-07-29"
+place.country = "US"
+place.state = "AL"
+place.city = "Bay Minette"
+
+[person.burial]
+cemetery.name = "Valhalla Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Midfield"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Jones Valley High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Birmingham"
+
+[[person.education]]
+school.name = "Olivet College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

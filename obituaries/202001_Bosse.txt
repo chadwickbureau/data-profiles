@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202001_Bosse"
+
+[[person.meta.citation]]
+title = "Burrier-Queen Funeral Home"
+date = "2020-01-06"
+url = "https://memorials.burrier-queen.com/louis--bosse/4068358/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Bosse"
+use = "Lou"
+given = "Louis T."
+suffix = "III"
+
+[person.birth]
+date = "1934-12-06"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2020-01-03"
+place.country = "US"
+place.state = "MD"
+place.city = "Westminster"
+
+[[person.education]]
+school.name = "Baltimore City College HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

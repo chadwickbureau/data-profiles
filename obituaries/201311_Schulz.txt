@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201311_Schulz"
+
+[[person.meta.citation]]
+title = "Great Falls Tribune"
+date = "2013-11-21"
+url = "https://www.legacy.com/obituaries/greatfallstribune/obituary.aspx?n=Larry-Schulz&pid=168112844"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-13"
+
+[person.name]
+last = "Schulz"
+use = "Larry"
+given = "Larry Allen"
+nick = "Shag"
+
+[person.birth]
+date = "1936-09-30"
+place.country = "US"
+place.state = "MT"
+place.city = "Sheridan"
+
+[person.death]
+date = "2013-11-17"
+place.country = "US"
+place.state = "MT"
+place.city = "Sheridan"
+
+[[person.education]]
+school.name = "Sheridan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MT"
+school.place.city = "Sheridan"
+
+[[person.education]]
+school.name = "University of Montana"
+school.type = "college"

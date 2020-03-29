@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "Aguilar_Enrique"
+
+[person.name]
+last = "Aguilar"
+use = "Enrique"
+given = "Enrique"
+matrilineal = "Martinez"
+
+[person.birth]
+date = "1956-03-21"
+place.country = "MX"
+place.state = "Veracruz"
+place.city = "Villa Azueta"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "183"

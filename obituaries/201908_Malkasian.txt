@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201908_Malkasian"
+
+[[person.meta.citation]]
+title = "Worcester Telegram & Gazette"
+date = "2019-08-12"
+url = "https://www.legacy.com/obituaries/telegram/obituary.aspx?n=alan-malkasian&pid=193620737&fhid=2811"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-14"
+
+[person.name]
+last = "Malkasian"
+use = "Al"
+given = "Alan E."
+
+[person.birth]
+date = "1938-10-31"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2019-08-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Hyannis"
+
+[[person.education]]
+school.name = "Auburn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Auburn"
+
+[[person.education]]
+school.name = "Worcester Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Nichols College"
+school.type = "college"

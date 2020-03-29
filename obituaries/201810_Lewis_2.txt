@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201810_Lewis_2"
+
+[[person.meta.citation]]
+title = "Phillips Funeral Service"
+date = "2018-11-05"
+url = "https://localonlineobituaries.com/ArticObits/ObitsNew/Landing_Obituary.aspx?oid=146334&view="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-05"
+
+[person.name]
+last = "Lewis"
+use = "Phillip"
+given = "Phillip Franklin"
+
+[person.death]
+date = "2018-10-26"

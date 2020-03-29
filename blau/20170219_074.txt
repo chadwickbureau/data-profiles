@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_074"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-05-05"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-05-18"
+pages = "6"
+
+[person.name]
+last = "Burns"
+use = "Jimmie"
+given = "Jimmie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "West Palm Beach"
+team.league.name = "Florida State League"
+description.bats = "R"
+description.throws = "R"

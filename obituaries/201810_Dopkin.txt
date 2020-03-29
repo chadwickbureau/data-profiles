@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201810_Dopkin"
+
+[[person.meta.citation]]
+title = "Walukiewicz-Oravitz Fell Funeral Home"
+date = "2018-10-14"
+url = "http://www.woffuneralhome.com/2018/10/12/john-p-dopkin/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-14"
+
+[person.name]
+last = "Dopkin"
+use = "John"
+given = "John P."
+
+[person.birth]
+date = "1921-12-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Shenandoah"
+
+[person.death]
+date = "2018-10-12"
+
+[person.burial]
+cemetery.name = "Indiantown Gap National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Annville"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201312_Naton"
+
+[[person.meta.citation]]
+title = "Syracuse Post Standard"
+date = "2013-12-14"
+url = "http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?n=peter-a-naton&pid=168537374"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2013-12-15"
+
+[person.name]
+last = "Naton"
+use = "Pete"
+given = "Peter A."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Flushing"
+
+[person.death]
+date = "2013-12-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Bishop Loughlin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "Holy Cross"
+school.type = "college"

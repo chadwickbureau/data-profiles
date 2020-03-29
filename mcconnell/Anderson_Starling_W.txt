@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Starling_W"
+
+[person.name]
+last = "Anderson"
+use = "Starling"
+given = "Starling W."
+
+[person.birth]
+date = "1896-11-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Trion"
+
+[person.death]
+date = "1982-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Dahlonega"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"

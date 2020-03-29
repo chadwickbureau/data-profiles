@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201405_Marentette"
+
+[[person.meta.citation]]
+title = "Weigel Funeral Homes"
+date = "2014-05-10"
+url = "http://www.weigelfuneralhomes.com/obit/preview.php?id=690&p=&search="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-10"
+
+[person.name]
+last = "Marentette"
+use = "Leo"
+given = "Leo John"
+suffix = "Jr."
+
+[person.birth]
+date = "1941-02-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2014-05-08"
+place.country = "US"
+place.state = "MI"
+place.city = "Lambertville"
+
+[person.burial]
+cemetery.name = "East Swanton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Swanton"
+
+[[person.education]]
+school.name = "Wayne HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Wayne"

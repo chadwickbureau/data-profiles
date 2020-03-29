@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201906_Daskalakis"
+
+[[person.meta.citation]]
+title = "Clavin Funeral Home"
+date = "2019-07-06"
+url = "http://www.clavinfuneralhome.com/memsol.cgi?user_id=2173677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Daskalakis"
+use = "Jim"
+given = "James"
+
+[person.death]
+date = "2019-06-28"
+
+[[person.education]]
+school.name = "Midwood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"

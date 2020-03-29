@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20191201_017"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1920-08-25"
+pages = "5"
+
+[person.name]
+last = "Freeman"
+use = "Joe"
+given = "Joe"
+
+[person.description]
+note = [ "reported to Boston (American)" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Saginaw"
+team.league.name = "Michigan-Ontario League"
+description.throws = "R"

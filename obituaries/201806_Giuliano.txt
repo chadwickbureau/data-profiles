@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201806_Giuliano"
+
+[[person.meta.citation]]
+title = "Joseph W. Sorce Funeral Home"
+date = "2018-06-24"
+url = "https://sorcefuneralhome.com/tribute/details/4105/Thomas-Giuliano/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Giuliano"
+use = "Thomas"
+given = "Thomas J."
+
+[person.birth]
+date = "1929-12-05"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2018-06-19"
+
+[person.burial]
+cemetery.name = "Frederick W. Loescher Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "New Hempstead"

@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_026"
+
+[[person.meta.citation]]
+title = "Aberdeen Journal"
+date = "1922-05-11"
+
+[person.name]
+last = "Lindahl"
+use = "Ernest"
+given = "Ernest"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"

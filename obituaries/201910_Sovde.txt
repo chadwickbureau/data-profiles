@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201910_Sovde"
+
+[[person.meta.citation]]
+title = "Funeral Alternatives of Washington"
+date = "2019-10-14"
+url = "https://funeralalternatives.org/tribute/details/150413/Richard-Sovde/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Sovde"
+use = "Dick"
+given = "Richard"
+
+[person.birth]
+date = "1935-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Burbank"
+
+[person.death]
+date = "2019-10-01"
+
+[[person.education]]
+school.name = "Occidental College"
+school.type = "college"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201405_Bracchitta"
+
+[[person.meta.citation]]
+title = "Desert Sun"
+date = "2014-06-08"
+url = "http://obituaries.desertsun.com/obituaries/thedesertsun/obituary.aspx?n=Joseph-Bracchitta&pid=171241995"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-08"
+
+[person.name]
+last = "Bracchitta"
+use = "Joe"
+given = "Joseph Anthony"
+
+[person.birth]
+date = "1928-04-20"
+place.country = "US"
+place.state = "NJ"
+place.city = "Hackensack"
+
+[person.death]
+date = "2014-05-18"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Hackensack"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

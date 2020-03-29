@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201906_Cauvel"
+
+[[person.meta.citation]]
+title = "Hollenbeck-Cahill Funeral Homes"
+date = "2019-07-07"
+url = "http://hollenbeckcahill.com/Obituary.aspx?id=5142"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Cauvel"
+use = "Lawrence"
+given = "Lawrence C."
+suffix = "Jr."
+
+[person.birth]
+date = "1923-11-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Franklin"
+
+[person.death]
+date = "2019-06-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Bradford"
+
+[person.burial]
+cemetery.name = "McKean County Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Lafayette"
+
+[[person.education]]
+school.name = "Otto HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Duke Center"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "201907_Cromartie"
+
+[[person.meta.citation]]
+title = "Rome News-Tribune"
+date = "2019-07-20"
+url = "http://www.northwestgeorgianews.com/rome/news/obits_death_notices/cromartie-dr-hendrick/article_69f2b9cc-ac02-52e5-b72f-3b4de54f8c50.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-22"
+
+[person.name]
+last = "Cromartie"
+use = "Hendrick"
+given = "Hendrick Lafayette"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-02-05"
+place.country = "US"
+place.state = "GA"
+place.city = "Albany"
+
+[person.death]
+date = "2019-07-13"
+
+[person.burial]
+cemetery.name = "Sunset Hills Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Rome"
+
+[[person.education]]
+school.name = "Leesburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Leesburg"
+
+[[person.education]]
+school.name = "Marion Military Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Marion"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

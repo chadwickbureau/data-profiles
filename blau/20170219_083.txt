@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20170219_083"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1920-07-14"
+pages = "7"
+
+[person.name]
+last = "Masters"
+use = "Orion"
+given = "Orion"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "OK"
+place.city = "Watonga"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.bats = "L"
+description.throws = "L"

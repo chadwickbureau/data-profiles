@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201907_Christy"
+
+[[person.meta.citation]]
+title = "Observer-Reporter"
+date = "2019-07-06"
+url = "https://www.legacy.com/obituaries/observer-reporter/obituary.aspx?n=dominick-christy&pid=193323834&fhid=23242"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Christy"
+use = "Dominick"
+given = "Dominick"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-04-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Orient"
+
+[person.death]
+date = "2019-07-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Uniontown"
+
+[[person.education]]
+school.name = "Cumberland Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Carmichaels"
+
+[[person.education]]
+school.name = "Waynesburg University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

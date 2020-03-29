@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201807_Johnson"
+
+[[person.meta.citation]]
+title = "Schumacher-Kish Funeral Home"
+date = "2018-08-01"
+url = "http://www.schumacher-kish.com/obituary/edward-johnson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Johnson"
+use = "Eddie"
+given = "Edward James"
+
+[person.birth]
+date = "1934-10-21"
+place.country = "US"
+place.state = "WI"
+place.city = "La Crosse"
+
+[person.death]
+date = "2018-07-20"
+place.country = "US"
+place.state = "WI"
+place.city = "La Crosse"
+
+[person.burial]
+cemetery.name = "Oak Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "La Crosse"
+
+[[person.education]]
+school.name = "Logan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "La Crosse"

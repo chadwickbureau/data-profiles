@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201911_Nix"
+
+[[person.meta.citation]]
+title = "DeBerry Funeral Home"
+date = "2019-11-06"
+url = "http://www.deberryfuneraldirectors.com/obituary/franklin-nix"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-06"
+
+[person.name]
+last = "Nix"
+use = "Cotton"
+given = "Franklin D."
+
+[person.birth]
+date = "1933-03-11"
+place.country = "US"
+place.state = "TX"
+place.city = "Aubrey"
+
+[person.death]
+date = "2019-11-01"
+place.country = "US"
+place.state = "TX"
+place.city = "Plano"
+
+[person.burial]
+cemetery.name = "Oak Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Lincoln Park"
+
+[[person.education]]
+school.name = "Denton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Denton"

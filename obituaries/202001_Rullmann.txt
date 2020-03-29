@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202001_Rullmann"
+
+[[person.meta.citation]]
+title = "ClarksvilleNow.com"
+date = "2020-01-09"
+url = "https://clarksvillenow.com/local/edward-r-rullmann/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-13"
+
+[person.name]
+last = "Rullmann"
+use = "Edward"
+given = "Edward R."
+
+[person.birth]
+date = "1925-09-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2020-01-03"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201812_Giggie"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2018-12-12"
+url = "http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=robert-thomas-giggie&pid=190964005&fhid=15844"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Giggie"
+use = "Bob"
+given = "Robert Thomas"
+
+[person.death]
+date = "2018-12-09"
+place.country = "US"
+place.state = "MA"
+place.city = "Braintree"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Roxbury"
+
+[[person.education]]
+school.name = "Charlestown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Charlestown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "200509_Mick"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2005-09-16"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=mf-mick-bunny&pid=15096345"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-03"
+
+[person.name]
+last = "Mick"
+use = "Bunny"
+given = "M. F."
+
+[person.death]
+date = "2005-09-14"
+
+[[person.education]]
+school.name = "Henry B. Plant HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Tampa"
+
+[[person.education]]
+school.name = "University of Tampa"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

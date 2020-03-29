@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201406_Antle"
+
+[[person.meta.citation]]
+title = "News & Record"
+date = "2014-06-22"
+url = "http://www.news-record.com/obituaries/article_20499a75-cec0-52fa-80f9-643b966bb842.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-22"
+
+[person.name]
+last = "Antle"
+use = "Mike"
+given = "Michael Eugene"
+
+[person.birth]
+date = "1960-12-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Pinehurst"
+
+[person.death]
+date = "2014-06-13"
+place.country = "US"
+place.state = "MT"
+place.city = "Billings"
+
+[[person.education]]
+school.name = "Pinecrest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Southern Pines"
+
+[[person.education]]
+school.name = "University of North Carolina-Wilmington"
+school.type = "college"

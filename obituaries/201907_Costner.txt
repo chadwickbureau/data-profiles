@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201907_Costner"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-07-26"
+url = "https://www.dignitymemorial.com/obituaries/woodstock-ga/george-costner-8784929"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "Costner"
+use = "George"
+given = "George Henry"
+suffix = "III"
+
+[person.birth]
+date = "1939-11-08"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2019-07-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Woodstock"
+
+[person.burial]
+cemetery.name = "Georgia Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Marietta"
+
+[[person.education]]
+school.name = "Brown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+[[person.education]]
+school.name = "Georgia State University"
+school.type = "college"

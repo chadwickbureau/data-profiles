@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202003_Webb"
+
+[[person.meta.citation]]
+title = "The News Star"
+date = "2020-03-09"
+url = "https://www.legacy.com/obituaries/thenewsstar/obituary.aspx?n=clyde-webb&pid=195632992&fhid=12536"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Webb"
+use = "Clyde"
+given = "Clyde M."
+nick = "Sonny"
+
+[person.birth]
+date = "1929-01-19"
+place.country = "US"
+place.state = "LA"
+place.city = "West Monroe"
+
+[person.death]
+date = "2020-03-06"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200326_020"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-09-04"
+pages = "5"
+
+[person.name]
+last = "Voss"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portland"
+team.league.name = "New England League"

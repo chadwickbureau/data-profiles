@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201903_Stanton"
+
+[[person.meta.citation]]
+title = "Ideal Funeral Home"
+date = "2019-03-19"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-19"
+
+[person.name]
+last = "Stanton"
+use = "Leroy"
+given = "Leroy"
+
+[person.birth]
+date = "1946-04-10"
+place.country = "US"
+place.state = "SC"
+place.city = "Latta"
+
+[person.death]
+date = "2019-03-13"
+
+[person.burial]
+cemetery.name = "Resthaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Dillon"
+
+[[person.education]]
+school.name = "Latimer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Latta"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

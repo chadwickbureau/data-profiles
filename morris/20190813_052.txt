@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190813_052"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch 1915-03-17"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Richmond"
+use = "Clive"
+given = "Clive"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "P"

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201911_Cuen"
+
+[[person.meta.citation]]
+title = "LMP.mx"
+date = "2019-10-25"
+url = "https://www.lmp.mx/posts/el-beisbol-mexicano-esta-de-luto-fallece-eleno-cuen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-23"
+
+[person.name]
+last = "Cuen"
+use = "Eleno"
+given = "Eleno"
+
+[person.birth]
+date = "1952-08-18"
+place.country = "MX"
+place.city = "Cocorit"
+
+[person.death]
+date = "2019-10-25"
+place.country = "MX"
+place.city = "Esperanza"

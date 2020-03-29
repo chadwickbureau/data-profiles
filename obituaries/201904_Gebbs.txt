@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201904_Gebbs"
+
+[[person.meta.citation]]
+title = "Long Family Funeral Home"
+date = "2019-07-08"
+url = "https://www.longfamilyfuneralhomes.com/obituaries/Donald-Gebbs/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Gebbs"
+use = "Donald"
+given = "Donald Louis"
+
+[person.birth]
+date = "1932-08-08"
+
+[person.death]
+date = "2019-04-19"

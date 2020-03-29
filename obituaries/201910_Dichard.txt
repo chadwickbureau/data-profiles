@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201910_Dichard"
+
+[[person.meta.citation]]
+title = "Paul C. Rogers Funeral Home"
+date = "2019-10-07"
+url = "https://www.paulcrogers.com/obitdesigns/flag2.php?id=2954"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Dichard"
+use = "Al"
+given = "Alfred Joseph"
+
+[person.birth]
+date = "1934-08-23"
+place.country = "US"
+place.state = "MA"
+place.city = "Haverhill"
+
+[person.death]
+date = "2019-10-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Merrimac"
+
+[person.burial]
+cemetery.name = "Locust Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Merrimac"
+
+[[person.military]]
+country = "US"
+branch = "Army"

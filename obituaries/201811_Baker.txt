@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201811_Baker"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "2018-11-11"
+url = "https://www.legacy.com/obituaries/desmoinesregister/obituary.aspx?n=keith-d-baker&pid=190686344&fhid=13196"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-11"
+
+[person.name]
+last = "Baker"
+use = "Keith"
+given = "Keith D."
+
+[person.death]
+date = "2018-11-04"
+place.country = "US"
+place.state = "IA"
+place.city = "Dallas Center"

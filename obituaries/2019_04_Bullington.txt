@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2019_04_Bullington"
+
+[[person.meta.citation]]
+title = "Kraft Funeral Services"
+date = "2020-01-15"
+url = "https://www.dignitymemorial.com/obituaries/new-albany-in/daniel-joseph-bullington-8254968"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-15"
+
+[person.name]
+last = "Bullington"
+use = "Daniel"
+given = "Daniel Joseph"
+suffix = "Sr."
+
+[person.birth]
+date = "1931-01-16"
+place.country = "US"
+place.state = "IN"
+place.city = "Jeffersonville"
+
+[person.death]
+date = "2019-04-18"
+place.country = "US"
+place.state = "IN"
+place.city = "New Albany"
+
+[person.burial]
+cemetery.name = "St. Anthony Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Jeffersonville"
+
+[[person.education]]
+school.name = "St. Anthony Catholic School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Fort Lauderdale"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

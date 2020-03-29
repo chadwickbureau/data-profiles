@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201406_Harkey"
+
+[[person.meta.citation]]
+title = "Gaston Gazette"
+date = "2014-06-15"
+url = "http://www.legacy.com/obituaries/gastongazette/obituary.aspx?n=Calvin-Harkey&pid=171357330"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-15"
+
+[person.name]
+last = "Harkey"
+use = "Calvin"
+given = "Calvin Leander"
+
+[person.birth]
+date = "1928-02-04"
+
+[person.death]
+date = "2014-06-13"
+
+[[person.education]]
+school.name = "Gastonia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Gastonia"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

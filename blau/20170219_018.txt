@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170219_018"
+
+[person.name]
+last = "Pember"
+use = "Herb"
+given = "Herbert Lee"
+
+[person.birth]
+date = "1906-04-19"
+place.country = "US"
+place.state = "VT"
+place.city = "Westminster"
+
+[person.death]
+date = "1932-11-11"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.bats = "L"
+description.throws = "R"
+description.height = "68.5"
+description.weight = "175"

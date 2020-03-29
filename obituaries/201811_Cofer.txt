@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Cofer"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "2018-11-11"
+url = "https://www.richmond.com/obituaries/cofer-hardy/article_fa3ab21b-6926-590d-97bb-2ca73a9f4031.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-12"
+
+[person.name]
+last = "Cofer"
+use = "Hardy"
+given = "Hardy D."
+
+[person.birth]
+date = "1930-11-11"
+place.country = "US"
+place.state = "VA"
+place.city = "Smithfield"
+
+[person.death]
+date = "2018-11-03"
+place.country = "US"
+place.state = "VA"
+place.city = "Richmond"
+
+[[person.education]]
+school.name = "Smithfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Smithfield"
+
+[[person.education]]
+school.name = "College of William and Mary"
+school.type = "college"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201806_Palmer"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2018-06-30"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=edward-lyle-palmer&pid=189424207"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Palmer"
+use = "Lyle"
+given = "Edward Lyle"
+
+[person.birth]
+date = "1925-02-23"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2018-06-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Walnut Creek"
+
+[[person.education]]
+school.name = "Acalanes HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Lafayette"
+
+[[person.education]]
+school.name = "University of California, Berkeley"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

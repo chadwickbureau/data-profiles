@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "202001_Jensen"
+
+[[person.meta.citation]]
+title = "Restland Funeral Home"
+date = "2020-01-08"
+url = "https://www.restlandfuneralhome.com/obituaries/Gerald-Jensen-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-08"
+
+[person.name]
+last = "Jensen"
+use = "Gerald"
+given = "Gerald Lee"
+suffix = "Sr."
+
+[person.birth]
+date = "1926-05-23"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.death]
+date = "2020-01-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.burial]
+cemetery.name = "Restland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Woodrow Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Southern Methodist University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

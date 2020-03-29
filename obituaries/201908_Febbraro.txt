@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201908_Febbraro"
+
+[[person.meta.citation]]
+title = "Rusiewicz Funeral Home"
+date = "2019-08-25"
+url = "https://www.rusiewiczfh.com/obituary/bernard-febbraro"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-25"
+
+[person.name]
+last = "Febbraro"
+use = "Bernard"
+given = "Bernard"
+nick = "Nardy"
+
+[person.birth]
+date = "1932-03-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Salina"
+
+[person.death]
+date = "2019-08-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.burial]
+cemetery.name = "Greenwood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Lower Burrell"

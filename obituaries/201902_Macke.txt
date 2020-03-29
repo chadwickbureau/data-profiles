@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201902_Macke"
+
+[[person.meta.citation]]
+title = "Kentucky Enquirer"
+date = "2019-03-02"
+url = "https://www.legacy.com/obituaries/nky/obituary.aspx?n=jack-macke&pid=191707781&fhid=20599"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Macke"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1930-02-06"
+place.country = "US"
+place.state = "KY"
+place.city = "Covington"
+
+[person.death]
+date = "2019-02-28"
+
+[person.burial]
+cemetery.name = "St. Stephen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Fort Thomas"
+
+[[person.education]]
+school.name = "Newport Catholic High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Newport"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

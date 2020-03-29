@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201204_Cluley"
+
+[[person.meta.citation]]
+title = "Lunn's Funeral Home"
+date = "2018-12-11"
+url = "https://www.lunnscolonial.com/services.asp?locid=1&page=odetail&id=1122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-11"
+
+[person.name]
+last = "Cluley"
+use = "Ken"
+given = "Kenneth Riebel"
+
+[person.birth]
+date = "1928-07-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Rosebush"
+
+[person.death]
+date = "2012-04-04"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Hallettsville"
+
+[[person.education]]
+school.name = "Mount Pleasant HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Mount Pleasant"

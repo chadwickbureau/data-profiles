@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Bryant_Ralph_Wendell"
+
+[person.name]
+last = "Bryant"
+use = "Ralph"
+given = "Ralph Wendell"
+
+[person.birth]
+date = "1961-05-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Port Gaines"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "74"
+weight = "200"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_112"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1926-04-22"
+pages = "2"
+
+[person.name]
+last = "Cronin"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Idaho Falls"
+team.league.name = "Utah-Idaho League"
+description.throws = "L"

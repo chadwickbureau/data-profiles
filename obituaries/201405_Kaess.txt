@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201405_Kaess"
+
+[[person.meta.citation]]
+title = "Picha Funeral Home"
+date = "2014-05-07"
+url = "http://www.pichafuneralhome.com/fh/obituaries/obituary.cfm?o_id=2514477&fh_id=12717"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-07"
+
+[person.name]
+last = "Kaess"
+use = "Dick"
+given = "Richard Joseph"
+
+[person.birth]
+date = "1925-04-05"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[person.death]
+date = "2014-05-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Lake Dalton"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Mendota Heights"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Paul"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202002_Cox_2"
+
+[[person.meta.citation]]
+title = "Crowell Brothers Funeral Home"
+date = "2020-02-19"
+url = "https://www.crowellbrothers.com/obituaries/Charles-Ray-Cox?obId=11184561#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-24"
+
+[person.name]
+last = "Cox"
+use = "Charles"
+given = "Charles Ray"
+
+[person.birth]
+date = "1931-10-16"
+place.country = "US"
+place.state = "GA"
+place.city = "Chamblee"
+
+[person.death]
+date = "2020-02-04"
+place.country = "US"
+place.state = "GA"
+place.city = "Dunwoody"
+
+[[person.education]]
+school.name = "Chamblee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Chamblee"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

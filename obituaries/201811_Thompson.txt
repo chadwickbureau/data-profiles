@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "201811_Thompson"
+
+[[person.meta.citation]]
+title = "Stanley Funeral Home"
+date = "2018-11-27"
+url = "http://www.stanleyfuneralhome.com/obituaries/Young-Hiram-Buddy-Thompson-Jr?obId=3822879#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-27"
+
+[person.name]
+last = "Thompson"
+use = "Buddy"
+given = "Young Hiram"
+suffix = "Jr."
+
+[person.birth]
+date = "1927-08-24"
+place.country = "US"
+place.state = "GA"
+place.city = "Montrose"
+
+[person.death]
+date = "2018-11-24"
+place.country = "US"
+place.state = "GA"
+place.city = "Dublin"
+
+[person.burial]
+cemetery.name = "Dublin Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Dublin"
+
+[[person.education]]
+school.name = "Young Harris Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Young Harris"
+
+[[person.education]]
+school.name = "Middle Georgia State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Georgia Institute of Technology"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

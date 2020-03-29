@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201905_Dorame"
+
+[[person.meta.citation]]
+title = "ElFildeo.com"
+date = "2019-05-06"
+url = "https://elfildeo.com/lmb/randey-dorame-lanzador-muerte-fallecio-reynosa-luto/11776/2019/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-13"
+
+[person.name]
+last = "Dorame"
+use = "Randey"
+given = "Randey"
+
+[person.death]
+date = "2019-05-05"
+place.country = "MX"
+place.state = "Tamaulipas"
+place.city = "Reynosa"

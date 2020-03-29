@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201902_McLaughlin"
+
+[[person.meta.citation]]
+title = "Resthaven Funeral Home"
+date = "2019-02-15"
+url = "https://www.resthavenokc.com/tributes/Howard-McLaughlin"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-15"
+
+[person.name]
+last = "McLaughlin"
+use = "Howard"
+given = "Howard John"
+
+[person.birth]
+date = "1933-09-26"
+place.country = "US"
+place.state = "IN"
+place.city = "Huntingburg"
+
+[person.death]
+date = "2019-02-12"
+
+[person.burial]
+cemetery.name = "Resthaven Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "University of Detroit Mercy"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

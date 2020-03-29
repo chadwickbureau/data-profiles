@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201911_Daniel"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "2019-11-10"
+url = "https://www.legacy.com/obituaries/tucson/obituary.aspx?n=ltc-glenn-daniel-bud&pid=194372452&fhid=2500"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-23"
+
+[person.name]
+last = "Daniel"
+use = "Bud"
+given = "Glenn"
+
+[person.birth]
+date = "1923"
+place.country = "US"
+place.state = "KS"
+place.city = "Belleville"
+
+[person.death]
+date = "2019-11-01"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.burial]
+cemetery.name = "National Memorial Cemetery of the Pacific"
+cemetery.place.country = "US"
+cemetery.place.state = "HI"
+cemetery.place.city = "Honolulu"
+
+[[person.education]]
+school.name = "University of Wyoming"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

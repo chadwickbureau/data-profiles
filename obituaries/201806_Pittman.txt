@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201806_Pittman"
+
+[[person.meta.citation]]
+title = "Masonic Cemetery #2"
+date = "2018-07-08"
+url = "https://www.dignitymemorial.com/obituaries/metairie-la/alvin-sugar-pittman-7900015"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Pittman"
+use = "Alvin"
+given = "Alvin"
+nick = "Sugar"
+
+[person.birth]
+date = "1924-01-13"
+
+[person.death]
+date = "2018-06-28"
+
+[person.burial]
+cemetery.name = "Masonic Cemetery #2"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"

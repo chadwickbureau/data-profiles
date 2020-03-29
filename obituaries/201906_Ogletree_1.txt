@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201906_Ogletree_1"
+
+[[person.meta.citation]]
+title = "The Monitor"
+date = "2019-06-24"
+url = "https://www.themonitor.com/2019/06/24/former-utpa-coach-ogletree-dies-89/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-25"
+
+[person.name]
+last = "Ogletree"
+use = "Al"
+given = "Al"
+
+[person.death]
+date = "2019-06-24"

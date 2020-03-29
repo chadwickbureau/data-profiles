@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Alvis_Roy_Maxwell"
+
+[person.name]
+last = "Alvis"
+use = "Max"
+given = "Roy Maxwell"
+
+[person.birth]
+date = "1938-02-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Jasper"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "187"
+
+[[person.education]]
+school.name = "University of Texas"
+school.type = "college"

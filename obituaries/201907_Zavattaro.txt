@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201907_Zavattaro"
+
+[[person.meta.citation]]
+title = "Berkshire Eagle"
+date = "2019-07-24"
+url = "https://www.berkshireeagle.com/stories/former-mcla-coach-athletic-director-joe-zavattaro-dies-at-86,580352"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "Zavattaro"
+use = "Joe"
+given = "Joseph"
+
+[person.death]
+date = "2019-07-23"
+place.country = "US"
+place.state = "FL"
+place.city = "Naples"
+
+[[person.education]]
+school.name = "Pittsfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Pittsfield"

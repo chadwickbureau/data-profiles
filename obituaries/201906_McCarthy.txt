@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201906_McCarthy"
+
+[[person.meta.citation]]
+title = "Duggan's Serra Mortuary"
+date = "2019-07-07"
+url = "https://www.duggans-serra.com/obituary/William-Bill-McCarthy/San-Francisco-CA/1850844"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "McCarthy"
+use = "Bill"
+given = "William"
+
+[person.birth]
+date = "1925-03-25"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-06-25"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Colma"
+
+[[person.education]]
+school.name = "Mission HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

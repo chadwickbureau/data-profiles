@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Altenburg_Willis_Rudolph"
+
+[person.name]
+last = "Altenburg"
+use = "Bill"
+given = "Willis Rudolph"
+
+[person.birth]
+date = "1915-05-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Lake Zurich"
+
+[person.death]
+date = "2012-08-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Barrington"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69.5"
+weight = "167"
+
+[[person.resides]]
+dates = "1940"
+place.country = "US"
+place.state = "IL"
+place.city = "Barrington"
+place.address = "208 Railroad Street"
+
+
+[[person.education]]
+school.name = "Barrington High School"
+school.type = "secondary"

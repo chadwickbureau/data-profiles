@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "Bistrauf_Joseph_E"
+
+[person.name]
+last = "Bistrauf"
+use = "Joseph"
+given = "Joseph E."
+
+[person.birth]
+date = "1913-10-09"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "72"
+weight = "185"
+
+[[person.alias]]
+name.last = "Murff"
+name.use = "Joseph"
+name.given = "Joseph"
+type = "alias"
+dates = "1940/1942"
+
+[[person.alias]]
+name.last = "Bistrauff"
+name.use = "Joseph"
+name.given = "Joseph E."
+type = "alternate spelling"
+
+[[person.alias]]
+name.last = "Bistruff"
+name.use = "Joseph"
+name.given = "Joseph E."
+type = "alternate spelling"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201909_Stoleson"
+
+[[person.meta.citation]]
+title = "Missoulian"
+date = "2019-09-29"
+url = "https://missoulian.com/news/local/obituaries/roland-ron-marcellus-stoleson/article_dae75648-2f08-5c60-814d-5776ca1d4912.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-30"
+
+[person.name]
+last = "Stoleson"
+use = "Ron"
+given = "Roland Marcellus"
+
+[person.birth]
+date = "1936-03-16"
+place.country = "US"
+place.state = "WI"
+
+[person.death]
+date = "2019-09-09"
+place.country = "US"
+place.state = "UT"
+place.city = "North Ogden"
+
+[[person.education]]
+school.name = "University of Montana-Missoula"
+school.type = "college"

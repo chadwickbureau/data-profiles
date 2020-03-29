@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_007"
+
+[[person.meta.citation]]
+title = "TSN"
+date = "1933-01-05"
+pages = "6"
+
+[person.name]
+last = "Walsh"
+use = "Vince"
+given = "Vince"
+
+[person.death]
+date = "1932-07-30"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201912_Clifford"
+
+[[person.meta.citation]]
+title = "Hines-Rinaldi Funeral Home"
+date = "2019-12-28"
+url = "https://www.dignitymemorial.com/obituaries/silver-spring-md/ernest-clifford-8971698"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Clifford"
+use = "Ernest"
+given = "Ernest Charles"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-02-11"
+
+[person.death]
+date = "2019-12-21"

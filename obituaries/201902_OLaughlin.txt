@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201902_OLaughlin"
+
+[[person.meta.citation]]
+title = "Daily Bulletin"
+date = "2019-02-17"
+url = "https://www.dailybulletin.com/2019/02/17/off-duty-san-bernardino-county-sheriffs-deputy-killed-in-chino-collision/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-06"
+
+[person.name]
+last = "O'Loughlin"
+use = "Nicholas"
+given = "Nicholas"
+
+[person.death]
+date = "2019-02-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Chino"

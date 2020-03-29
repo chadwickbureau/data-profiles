@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "Boone_Raymond_Otis"
+
+[person.name]
+last = "Boone"
+use = "Raymond"
+given = "Raymond Otis"
+
+[person.birth]
+date = "1923-07-27"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.death]
+date = "2004-10-17"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "188"
+
+[[person.relation]]
+relationship = "father of"
+person.name.last = "Boone"
+person.name.use = "Bob"
+person.name.given = "Bob"
+
+[[person.relation]]
+relationship = "grandfather of"
+person.name.last = "Boone"
+person.name.use = "Aaron"
+person.name.given = "Aaron"
+
+[[person.relation]]
+relationship = "grandfather of"
+person.name.last = "Boone"
+person.name.use = "Bret"
+person.name.given = "Bret"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

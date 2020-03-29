@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201805_Swiech"
+
+[[person.meta.citation]]
+title = "Kubaska Funeral Home"
+date = "2018-06-01"
+url = "https://www.kubaskafuneralhome.com/notices/John-Swiech"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-01"
+
+[person.name]
+last = "Swiech"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1934-09"
+place.country = "US"
+place.state = "RI"
+place.city = "Woonsocket"
+
+[person.death]
+date = "2018-05-29"
+
+[person.burial]
+cemetery.name = "St. Stanislaus Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Blackstone"
+
+[[person.education]]
+school.name = "Woonsocket HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Woonsocket"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

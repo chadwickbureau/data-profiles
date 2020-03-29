@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Aaron_Tommie_Lee"
+
+[person.name]
+last = "Aaron"
+use = "Tommie"
+given = "Tommie Lee"
+
+[person.birth]
+date = "1939-08-05"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.death]
+date = "1984-08-16"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "200"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Aaron"
+person.name.use = "Henry"
+person.name.given = "Henry"

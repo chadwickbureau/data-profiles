@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201901_Piedmonte"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2019-01-31"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=richard-e-piedmonte-dick&pid=191404452"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-30"
+
+[person.name]
+last = "Piedmonte"
+use = "Dick"
+given = "Richard E."
+
+[person.birth]
+date = "1928-01-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Concord"
+
+[person.death]
+date = "2019-01-26"
+
+[[person.education]]
+school.name = "Mt. Diablo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Concord"
+
+[[person.education]]
+school.name = "St. Mary’s College of California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

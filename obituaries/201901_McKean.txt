@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201901_McKean"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2019-01-26"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "McKean"
+use = "Jim"
+given = "James Gilbert"
+
+[person.birth]
+date = "1945-05-26"
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+
+[person.death]
+date = "2019-01-24"
+place.country = "US"
+place.state = "FL"
+place.city = "St. Petersburg"
+
+[person.burial]
+cemetery.name = "Calvary Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Clearwater"

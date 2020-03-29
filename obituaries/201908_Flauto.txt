@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201908_Flauto"
+
+[[person.meta.citation]]
+title = "Townley & Wheeler Funeral Home"
+date = "2019-09-01"
+url = "https://www.townleywheelerfh.com/memorials/gilbert-flauto/3947187/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Flauto"
+use = "Gil"
+given = "Gilbert F."
+
+[person.birth]
+date = "1926-05-15"
+place.country = "US"
+place.state = "NJ"
+place.city = "Matawan"
+
+[person.death]
+date = "2019-08-29"
+place.country = "US"
+place.state = "NY"
+place.city = "Malta"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

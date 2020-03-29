@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201906_Wiginton"
+
+[[person.meta.citation]]
+title = "The Oklahoman"
+date = "2019-06-16"
+url = "https://legacy.newsok.com/obituaries/oklahoman/obituary.aspx?n=travis-wiginton&pid=193159537"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-21"
+
+[person.name]
+last = "Wiginton"
+use = "Travis"
+given = "Travis E."
+
+[person.birth]
+date = "1928-07-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Friendship"
+
+[person.death]
+date = "2019-06-04"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

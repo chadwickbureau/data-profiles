@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201404_Powell"
+
+[[person.meta.citation]]
+title = "Florence Times Daily"
+date = "2014-04-29"
+url = "http://www.legacy.com/obituaries/timesdaily/obituary.aspx?n=bob-powell&pid=170838957&fhid=7051&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Powell"
+use = "Bob"
+given = "Robert L."
+
+[person.death]
+date = "2014-04-26"
+
+[person.burial]
+cemetery.name = "Knights of Pythias Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Russellville"
+
+[[person.military]]
+country = "US"
+branch = "Army"

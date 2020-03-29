@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "200109_Hindy"
+
+[[person.meta.citation]]
+title = "911 Living Memorial"
+date = "2019-09-13"
+url = "https://livingmemorial.voicesofseptember11.org/mark-d-hindy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Hindy"
+use = "Mark"
+given = "Mark D."
+
+[person.birth]
+date = "1973-07-20"
+
+[person.death]
+date = "2001-09-11"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[[person.education]]
+school.name = "Xavier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Manhattan"
+
+[[person.education]]
+school.name = "Poly Prep Country Day School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"

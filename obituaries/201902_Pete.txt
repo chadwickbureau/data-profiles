@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Pete"
+
+[[person.meta.citation]]
+title = "The Times"
+date = "2019-02-08"
+url = "https://www.legacy.com/obituaries/nwitimes/obituary.aspx?n=eugene-f-pete&pid=191470593&fhid=19185"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Pete"
+use = "Gene"
+given = "Eugene F."
+
+[person.death]
+date = "2019-02-03"
+
+[person.burial]
+cemetery.name = "St. Mary's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Kouts"
+
+[[person.military]]
+country = "US"
+branch = "Army"

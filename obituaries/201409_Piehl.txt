@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201409_Piehl"
+
+[[person.meta.citation]]
+title = "Petoskey News"
+date = "2014-10-01"
+url = "http://www.petoskeynews.com/obituaries/tracy-allen-piehl/article_438344eb-14d9-5ba3-9b3e-4a4829412a46.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Piehl"
+use = "Tracy"
+given = "Tracy Allen"
+
+[person.birth]
+date = "1970-06-09"
+place.country = "US"
+place.state = "MI"
+place.city = "Petoskey"
+
+[person.death]
+date = "2014-09-29"
+place.country = "US"
+place.state = "MI"
+place.city = "Petoskey"
+
+[[person.education]]
+school.name = "Petoskey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Petoskey"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+[[person.education]]
+school.name = "Oakland University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Rochester"

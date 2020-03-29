@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201911_McKinstry_2"
+
+[[person.meta.citation]]
+title = "Marshall Spoo Funeral Chapel"
+date = "2019-11-17"
+url = "https://www.marshallspoosunsetfuneralchapel.com/notices/John-McKinstry"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-17"
+
+[person.name]
+last = "McKinstry"
+use = "John"
+given = "John Arthur"
+
+[person.birth]
+date = "1935-06-23"
+
+[person.death]
+date = "2019-11-13"

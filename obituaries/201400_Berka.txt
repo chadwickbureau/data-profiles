@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201400_Berka"
+
+[[person.meta.citation]]
+title = "Butherus, Maser & Love Funeral Home"
+date = "2014-08-03"
+url = "http://www.bmlfh.com/obituary.php?id=2418"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-03"
+
+[person.name]
+last = "Berka"
+use = "Mel"
+given = "Melvin A."
+
+[person.birth]
+date = "1931-02-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Charter Oak"
+
+[person.death]
+date = "2014"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Lincoln"

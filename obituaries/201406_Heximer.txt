@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201406_Heximer"
+
+[[person.meta.citation]]
+title = "Patterson Funeral Home"
+date = "2014-07-05"
+url = "http://www.pattersonfuneralhome.com/sitemaker/sites/PATTER2/obit.cgi?user=1346132Heximer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Heximer"
+use = "James"
+given = "James Leo"
+nick = "Bud"
+
+[person.birth]
+date = "1923-12-07"
+place.country = "CA"
+place.state = "ON"
+place.city = "Niagara Falls"
+
+[person.death]
+date = "2014-06-27"
+place.country = "CA"
+place.state = "ON"
+place.city = "Niagara Falls"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "CA"
+cemetery.place.state = "ON"
+cemetery.place.city = "Niagara Falls"
+
+[person.description]
+bats = "L"
+
+[[person.military]]
+country = "CA"
+branch = "Navy"
+conflict = "World War II"

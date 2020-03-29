@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201405_Vargas"
+
+[[person.meta.citation]]
+title = "Primerahora.com"
+date = "2014-05-28"
+url = "http://www.primerahora.com/deportes/beisbol/nota/falleceexlanzadorrobertovargas-1012358/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Vargas"
+use = "Roberto"
+given = "Roberto"
+
+[person.birth]
+date = "1929-05-29"
+
+[person.death]
+date = "2014-05-27"
+
+[person.burial]
+cemetery.name = "Cementerio Borinquen Memorial Park"
+cemetery.place.country = "PR"
+cemetery.place.city = "Caguas"

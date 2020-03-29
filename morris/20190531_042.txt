@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190531_042"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call 1915-04-26"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Snell"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+description.position = "C"

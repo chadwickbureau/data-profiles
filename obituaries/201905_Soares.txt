@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201905_Soares"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2019-07-11"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=richard-donald-soares&pid=193361337"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-13"
+
+[person.name]
+last = "Soares"
+use = "Rich"
+given = "Richard Donald"
+
+[person.birth]
+date = "1936-05-04"
+
+[person.death]
+date = "2019-05-27"

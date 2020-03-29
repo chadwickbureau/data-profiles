@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201811_Koepf"
+
+[[person.meta.citation]]
+title = "Half Moon Bay Review"
+date = "2018-11-28"
+url = "https://www.hmbreview.com/obituaries/harvey-koepf/article_17991bee-f358-11e8-b2f3-3bb28a750bfc.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Koepf"
+use = "Harvey"
+given = "Harvey"
+
+[person.birth]
+date = "1933"
+place.country = "US"
+place.state = "CA"
+place.city = "Alhambra"
+
+[person.death]
+date = "2018-11-10"
+
+[[person.education]]
+school.name = "Burlingame HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Burlingame"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"

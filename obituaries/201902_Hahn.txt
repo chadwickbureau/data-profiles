@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201902_Hahn"
+
+[[person.meta.citation]]
+title = "Speaks Suburban Chapel"
+date = "2019-02-05"
+url = "https://www.speakschapel.com/book-of-memories/3711063/Hahn-Billy/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-05"
+
+[person.name]
+last = "Hahn"
+use = "Billy"
+given = "Bill Dean"
+
+[person.birth]
+date = "1928-10-30"
+place.country = "US"
+place.state = "MO"
+place.city = "Independence"
+
+[person.death]
+date = "2019-02-02"
+place.country = "US"
+place.state = "MO"
+place.city = "Independence"
+
+[person.burial]
+cemetery.name = "Mount Washington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Independence"
+
+[[person.education]]
+school.name = "Northeast HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Kansas City"
+
+[[person.education]]
+school.name = "William Jewell College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

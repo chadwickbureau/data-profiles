@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201810_Santiago_1"
+
+[[person.meta.citation]]
+title = "ElNuevodia.com"
+date = "2018-10-10"
+url = "https://www.elnuevodia.com/deportes/beisbol/nota/fallecepantalonessantiagounodelosinmortalesdelbeisbol-2452056/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-12"
+
+[person.name]
+last = "Santiago"
+use = "Jose"
+given = "Jose Guillermo"
+nick = "Pantalones"
+
+[person.birth]
+place.country = "PR"
+place.city = "Coamo"
+
+[person.death]
+date = "2018-10-09"

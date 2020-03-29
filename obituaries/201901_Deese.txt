@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201901_Deese"
+
+[[person.meta.citation]]
+title = "Ocean County Register"
+date = "2019-01-14"
+url = "https://www.ocregister.com/2019/01/14/former-chapman-baseball-coach-paul-deese-dies-led-panthers-to-ncaa-title-in-1968/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Deese"
+use = "Paul"
+given = "Paul"
+
+[person.death]
+date = "2019-01-11"

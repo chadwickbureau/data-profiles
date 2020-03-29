@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201405_Olsen"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2014-08-18"
+url = "http://www.legacy.com/obituaries/sptimes/obituary.aspx?n=Andy-OLSEN&pid=172152746"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-18"
+
+[person.name]
+last = "Olsen"
+use = "Andy"
+given = "Andy"
+
+[person.death]
+date = "2014-05-23"

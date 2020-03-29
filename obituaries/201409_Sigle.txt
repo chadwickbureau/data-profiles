@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201409_Sigle"
+
+[[person.meta.citation]]
+title = "DeMarco Funeral Home"
+date = "2014-09-15"
+url = "http://www.demarcofuneralhome.com/obituary/Edward-F.-Sigle-Sr./Old-Bridge-NJ/1418160"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Sigle"
+use = "Ed"
+given = "Edward F."
+suffix = "Sr."
+
+[person.birth]
+date = "1925-10-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "South Brunswick Township"
+
+[person.death]
+date = "2014-09-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Old Bridge"
+
+[person.burial]
+cemetery.name = "Holy Cross Burial Park & Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "East Brunswick"
+
+[[person.military]]
+country = "US"
+branch = "Merchant Marines"
+conflict = "World War II"

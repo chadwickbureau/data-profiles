@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201810_Finley"
+
+[[person.meta.citation]]
+title = "Chapel of The Light"
+date = "2018-10-21"
+url = "https://www.chapelofthelight.com/obituaries/Frank-Finley-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Finley"
+use = "Frank"
+given = "Frank Hunter"
+suffix = "II"
+
+[person.birth]
+date = "1945-03-28"
+
+[person.death]
+date = "2018-10-10"

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201911_McKinnis_1"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat Gazette"
+date = "2019-11-04"
+url = "https://www.arkansasonline.com/news/2019/nov/04/outdoors-legend-mckinnis-82-dies-201911-1/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-05"
+
+[person.name]
+last = "McKinnis"
+use = "Jerry"
+given = "Jerry"
+
+[person.death]
+date = "2019-11-03"

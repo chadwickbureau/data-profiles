@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201906_Mantecon"
+
+[[person.meta.citation]]
+title = "MiLB.com"
+date = "2019-06-14"
+url = "https://www.milb.com/mexican/news/fallece-adolfo-tribil237n-cabrera/c-308089402"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-14"
+
+[person.name]
+last = "Mantecon"
+use = "Adolfo"
+given = "Adolfo Alberto"
+matrilineal = "Sanchez"
+
+[person.birth]
+date = "1922-02-24"
+place.country = "CU"
+place.city = "Cienfuegos"
+
+[person.death]
+date = "2019-06-13"
+place.country = "MX"
+place.state = "Jalisco"
+place.city = "Guadalajara"
+
+[[person.alias]]
+name.last = "Cabrera"
+name.use = "Tribilin"
+name.given = "Tribilin"
+type = "alias"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202003_Garabedian"
+
+[[person.meta.citation]]
+title = "Callahan, Fay & Caswell Funeral Home"
+date = "2020-03-11"
+url = "http://callahanfay.tributes.com/obituary/show/H.-Hoover-Garabedian-108270176"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-11"
+
+[person.name]
+last = "Garabedian"
+use = "Hoover"
+given = "H. Hoover"
+
+[person.birth]
+date = "1928-11-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2020-03-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.burial]
+cemetery.name = "Pine Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Northbridge"
+
+[[person.education]]
+school.name = "Northbridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Northbridge"
+
+[[person.education]]
+school.name = "Northeastern University"
+school.type = "college"

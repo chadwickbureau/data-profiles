@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201405_Priest"
+
+[[person.meta.citation]]
+title = "Midland Reporter-Telegram"
+date = "2014-05-13"
+url = "http://www.legacy.com/obituaries/mywesttexas/obituary.aspx?n=Jesse-Priest&pid=171005808"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Priest"
+use = "Jesse"
+given = "Jesse J."
+suffix = "Jr."
+
+[person.birth]
+date = "1929-09-18"
+place.country = "US"
+place.state = "TX"
+place.city = "Briggs"
+
+[person.death]
+date = "2014-05-10"
+place.country = "US"
+place.state = "TX"
+place.city = "Midland"
+
+[person.burial]
+cemetery.name = "Post Mountain Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Burnet"
+
+[[person.education]]
+school.name = "Bertram HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Bertram"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

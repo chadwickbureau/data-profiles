@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201904_Stokoe"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-05-07"
+url = "https://www.dignitymemorial.com/obituaries/concord-nh/john-stokoe-8268440"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-07"
+
+[person.name]
+last = "Stokoe"
+use = "John"
+given = "John C."
+
+[person.birth]
+date = "1935-02-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[person.death]
+date = "2019-04-30"
+place.country = "US"
+place.state = "NH"
+place.city = "Hebron"
+
+[person.burial]
+cemetery.name = "Bethlehem Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Delmar"
+
+[[person.education]]
+school.name = "Bethlehem Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Delmar"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"

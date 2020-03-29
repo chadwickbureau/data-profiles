@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201809_Firestone"
+
+[[person.meta.citation]]
+title = "York Daily Record & York Dispatch"
+date = "2018-09-05"
+url = "https://www.legacy.com/obituaries/york/obituary.aspx?n=leon-c-firestone&pid=190120021&fhid=18225"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-05"
+
+[person.name]
+last = "Firestone"
+use = "Leon"
+given = "Leon C."
+
+[person.birth]
+date = "1927-04-07"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.death]
+date = "2018-09-02"
+
+[person.burial]
+cemetery.name = "Mount Rose Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "York"
+
+[[person.education]]
+school.name = "York HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "York"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

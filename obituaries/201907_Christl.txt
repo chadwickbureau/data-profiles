@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201907_Christl"
+
+[[person.meta.citation]]
+title = "Bolingbrook McCauley Funeral Home"
+date = "2019-07-26"
+url = "https://www.mccauleyfuneralchapel.com/obituaries/Michael-Christl/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "Christl"
+use = "Mike"
+given = "Michael Ryan"
+
+[person.birth]
+date = "1984-09-02"
+
+[person.death]
+date = "2019-07-21"
+place.country = "US"
+place.state = "WI"
+
+[[person.education]]
+school.name = "Bradley University"
+school.type = "college"

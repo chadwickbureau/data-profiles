@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201904_McKinney"
+
+[[person.meta.citation]]
+title = "Rosewood Funeral Home"
+date = "2019-05-02"
+url = "https://www.rosewood.cc/book-of-memories/3822569/McKinney-Jesse/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-02"
+
+[person.name]
+last = "McKinney"
+use = "Tommy"
+given = "Jesse Dean"
+
+[person.birth]
+date = "1929-12-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Washington"
+
+[person.death]
+date = "2019-04-29"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

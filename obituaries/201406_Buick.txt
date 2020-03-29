@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "201406_Buick"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2014-06-20"
+url = "http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=john-buick&pid=171417164&fhid=2515"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-06-20"
+
+[person.name]
+last = "Buick"
+use = "Jack"
+given = "John E."
+suffix = "Jr."
+
+[person.birth]
+date = "1926"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2014-06-17"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Colma"
+
+[[person.education]]
+school.name = "St. Ignatius High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+[[person.education]]
+school.name = "St. Mary's College of California"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Moraga"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

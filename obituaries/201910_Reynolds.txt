@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201910_Reynolds"
+
+[[person.meta.citation]]
+title = "Wharton Funeral Home"
+date = "2019-11-02"
+url = "https://www.whartonfuneralhome.com/obituary/carl-reynolds"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Reynolds"
+use = "Carl"
+given = "Carl Nettles"
+suffix = "Jr."
+
+[person.birth]
+date = "1934-09-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2019-10-31"
+
+[[person.education]]
+school.name = "Wharton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Wharton"
+
+[[person.education]]
+school.name = "Rice University"
+school.type = "college"

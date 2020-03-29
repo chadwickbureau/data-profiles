@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200319_027"
+
+[[person.meta.citation]]
+title = "Brenham Daily Banner-Press"
+date = "1915-06-16"
+pages = "4"
+
+[person.name]
+last = "Trammell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+description.bats = "L"

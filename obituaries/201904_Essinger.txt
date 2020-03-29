@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201904_Essinger"
+
+[[person.meta.citation]]
+title = "Swartz Funeral Home"
+date = "2019-04-25"
+url = "https://www.swartzfuneralhomeinc.com/obituary/jerome-essinger"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-25"
+
+[person.name]
+last = "Essinger"
+use = "Jerome"
+given = "Jerome D."
+
+[person.birth]
+date = "1926-09-14"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2019-04-21"
+
+[person.burial]
+cemetery.name = "Great Lakes National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Holly"
+
+[[person.education]]
+school.name = "Capital University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

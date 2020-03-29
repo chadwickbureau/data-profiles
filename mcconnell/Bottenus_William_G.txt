@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "Bottenus_William_G"
+
+[person.name]
+last = "Bottenus"
+use = "William"
+given = "William G."
+
+[person.birth]
+date = "1866"
+
+[person.death]
+date = "1956-03-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Geneva"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70"
+weight = "160"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bottenus"
+person.name.use = "Ralph"
+person.name.given = "Ralph"

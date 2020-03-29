@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Boyle_John_Anthony"
+
+[person.name]
+last = "Boyle"
+use = "John"
+given = "John Anthony"
+
+[person.birth]
+date = "1866-03-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "1913-01-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "190"

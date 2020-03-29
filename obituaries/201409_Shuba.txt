@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201409_Shuba"
+
+[[person.meta.citation]]
+title = "Associated Press"
+date = "2014-09-30"
+url = "http://www.legacy.com/ns/obituary.aspx?n=george-shuba&pid=172630960"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-30"
+
+[person.name]
+last = "Shuba"
+use = "George"
+given = "George"
+nick = "Shotgun"
+
+[person.birth]
+date = "1924-12-13"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2014-09-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"

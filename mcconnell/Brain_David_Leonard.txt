@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Brain_David_Leonard"
+
+[person.name]
+last = "Brain"
+use = "David"
+given = "David Leonard"
+
+[person.birth]
+date = "1879-01-24"
+place.country = "GB"
+place.city = "Hereford"
+
+[person.death]
+date = "1959-05-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "170"
+note = [ "Hit 3 triples in a game twice during one season to set a major league record, May 29 for St. Louis vs Pittsburgh and August 8 for Pittsburgh vs Boston in the 1905 season", "Missed most of the 1908 season due to illness." ]

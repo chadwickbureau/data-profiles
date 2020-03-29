@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201806_Carpenter"
+
+[[person.meta.citation]]
+title = "E. Alvin Small Funeral Home"
+date = "2018-06-13"
+url = "http://www.ealvinsmall.com/book-of-memories/3532804/Carpenter-James/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Carpenter"
+use = "James"
+given = "James Marshall"
+nick = "Crip"
+
+[person.birth]
+date = "1923-09-25"
+
+[person.death]
+date = "2018-06-09"
+
+[[person.military]]
+country = "US"
+branch = "Army"

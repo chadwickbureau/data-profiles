@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201909_Schulte"
+
+[[person.meta.citation]]
+title = "Examiner"
+date = "2019-09-25"
+url = "https://www.legacy.com/obituaries/examiner/obituary.aspx?n=donald-eugene-schulte&pid=193984430&fhid=11268"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Schulte"
+use = "Don"
+given = "Donald Eugene"
+
+[person.birth]
+date = "1936-04-01"
+
+[person.death]
+date = "2019-09-22"

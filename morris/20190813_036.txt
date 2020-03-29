@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20190813_036"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-03-10"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Johnson"
+use = "Horace"
+given = "Horace"
+nick = "Sailor"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+description.position = "P"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Atkins_Ralph"
+
+[person.name]
+last = "Atkins"
+use = "Ralph"
+given = "Ralph"
+
+[person.birth]
+date = "1925-03-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2000-11-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73.5"
+weight = "175"

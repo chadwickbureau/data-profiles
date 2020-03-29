@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201907_Falk"
+
+[[person.meta.citation]]
+title = "Jennings, Nulton & Mattle Funeral Home"
+date = "2019-07-11"
+url = "https://jenningsnultonmattlefh.com/tribute/details/3070/Thomas-Falk/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-11"
+
+[person.name]
+last = "Falk"
+use = "Tom"
+given = "Thomas C."
+
+[person.birth]
+date = "1930"
+
+[person.death]
+date = "2019-07-06"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Penfield"
+
+[[person.education]]
+school.name = "Aquinas Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Rochester"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

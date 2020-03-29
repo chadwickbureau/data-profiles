@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Friend"
+
+[[person.meta.citation]]
+title = "Burket-Truby Funeral Home"
+date = "2019-02-04"
+url = "http://www.burket-truby.com/obitscurrent.cfm?id=2760"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Friend"
+use = "Bob"
+given = "Robert Bartmess"
+nick = "Warrior"
+
+[person.birth]
+date = "1930-11-24"
+place.country = "US"
+place.state = "IN"
+place.city = "Lafayette"
+
+[person.death]
+date = "2019-02-03"
+place.country = "US"
+place.state = "PA"
+place.city = "O'Hara Township"

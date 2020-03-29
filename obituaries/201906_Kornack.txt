@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201906_Kornack"
+
+[[person.meta.citation]]
+title = "Kraw-Kornack Funeral Home"
+date = "2019-06-25"
+url = "https://www.kraw-kornackfuneralhome.com/obituaries/George-Kornack-Jr?obId=4504146#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-25"
+
+[person.name]
+last = "Kornack"
+use = "George"
+given = "George"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-04-25"
+
+[person.death]
+date = "2019-06-22"
+
+[person.burial]
+cemetery.name = "Highland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Norwood"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

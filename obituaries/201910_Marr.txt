@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201910_Marr"
+
+[[person.meta.citation]]
+title = "Michalik Funeral Home"
+date = "2019-10-13"
+url = "https://www.michalikfuneralhome.com/obituary/james-marr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-13"
+
+[person.name]
+last = "Marr"
+use = "Jim"
+given = "James"
+
+[person.death]
+date = "2019-10-08"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hillside"

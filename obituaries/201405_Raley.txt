@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201405_Raley"
+
+[[person.meta.citation]]
+title = "Vinyard Funeral Home"
+date = "2014-05-12"
+url = "http://www.vinyardfuneralhome.net/obituary.php?idx2=1207"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-12"
+
+[person.name]
+last = "Raley"
+use = "Bob"
+given = "Robert Leon"
+
+[person.birth]
+date = "1927-02-03"
+place.country = "US"
+place.state = "MO"
+place.city = "Festus"
+
+[person.death]
+date = "2014-05-05"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

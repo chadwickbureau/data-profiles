@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202002_Skog"
+
+[[person.meta.citation]]
+title = "Willwerscheid Funeral Home"
+date = "2020-02-23"
+url = "https://willwerscheid.com/obituary/david-michael-skog/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-23"
+
+[person.name]
+last = "Skog"
+use = "Dave"
+given = "David Michael"
+
+[person.death]
+date = "2020-02-19"
+place.country = "US"
+place.state = "MN"
+place.city = "Lutsen"
+
+[[person.education]]
+school.name = "St. Louis Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Louis Park"

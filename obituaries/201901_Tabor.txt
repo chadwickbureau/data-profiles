@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_Tabor"
+
+[[person.meta.citation]]
+title = "North Little Rock Funeral Home"
+date = "2019-01-07"
+url = "https://www.northlittlerockfuneralhome.com/notices/Ernie-Tabor"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Tabor"
+use = "Ernie"
+given = "Ernie Doyle"
+
+[person.birth]
+date = "1936-08-15"
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+[person.death]
+date = "2019-01-01"
+
+[person.burial]
+cemetery.name = "Salem Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Little Rock"
+
+[[person.education]]
+school.name = "Little Rock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Little Rock"

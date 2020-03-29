@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201901_Resovich"
+
+[[person.meta.citation]]
+title = "Skradski Funeral Home"
+date = "2019-01-08"
+url = "http://www.skradskifh-kc.com/obituary/mike-crip-resovich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-08"
+
+[person.name]
+last = "Resovich"
+use = "Mike"
+given = "Mike"
+nick = "Crip"
+
+[person.birth]
+date = "1922-07-08"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+
+[person.death]
+date = "2019-01-04"
+place.country = "US"
+place.state = "KS"
+place.city = "Overland Park"
+
+[person.burial]
+cemetery.name = "Mt. Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Kansas City"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201806_Handley"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2018-08-17"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=hal-h-handley&pid=189967775"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-17"
+
+[person.name]
+last = "Handley"
+use = "Hal"
+given = "Harold H."
+
+[person.birth]
+date = "1924-04-03"
+
+[person.death]
+date = "2018-06-11"
+
+[person.burial]
+cemetery.name = "Mount Soledad Veterans Memorial"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "La Jolla"
+
+[[person.education]]
+school.name = "Los Angeles HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of California, Los Angeles"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

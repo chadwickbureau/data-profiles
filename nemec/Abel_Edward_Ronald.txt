@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "Abel_Edward_Ronald"
+
+[person.name]
+last = "Abel"
+use = "Ed"
+given = "Edward Ronald"
+
+[person.birth]
+date = "1939-06-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2014-01-01"
+place.country = "US"
+place.state = "VA"
+place.city = "Pearisburg"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "175"
+
+[[person.resides]]
+dates = "1962"
+place.country = "US"
+place.state = "NY"
+place.city = "Cazenovia"
+place.address = "112 Auburn St."
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Abel"
+person.name.use = "Glenn"
+person.name.given = "Glenn K."
+
+
+[[person.education]]
+school.name = "West View High School"
+school.type = "secondary"
+dates = "/1957"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Colgate University"
+school.type = "college"
+dates = "/1961"
+degree = "graduated"
+
+
+[[person.playing]]
+season = "1961"
+league.name = "Sophomore League"
+splits.0.team.name = "Carlsbad"
+totals.P_G = "16"
+totals.P_CG = "5"
+totals.P_IP = "77"
+totals.P_W = "5"
+totals.P_L = "4"
+totals.P_PCT = ".556"
+totals.P_H = "82"
+totals.P_BB = "58"
+totals.P_SO = "89"
+totals.P_R = "46"
+totals.P_ER = "34"
+totals.P_ERA = "3.97"
+
+[[person.playing]]
+season = "1962"
+league.name = "Texas League"
+splits.0.team.name = "San Antonio"
+totals.P_G = "6"
+totals.P_CG = "0"
+totals.P_IP = "22"
+totals.P_W = "0"
+totals.P_L = "1"
+totals.P_PCT = ".000"
+totals.P_H = "42"
+totals.P_BB = "13"
+totals.P_SO = "9"
+totals.P_R = "31"
+totals.P_ER = "23"
+totals.P_ERA = "9.41"
+
+[[person.playing]]
+season = "1962"
+league.name = "Northern League"
+splits.0.team.name = "St. Cloud"
+totals.P_G = "27"
+totals.P_CG = "6"
+totals.P_IP = "108"
+totals.P_W = "9"
+totals.P_L = "10"
+totals.P_PCT = ".474"
+totals.P_H = "96"
+totals.P_BB = "78"
+totals.P_SO = "57"
+totals.P_R = "66"
+totals.P_ER = "46"
+totals.P_ERA = "3.83"

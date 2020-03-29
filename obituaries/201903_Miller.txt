@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Miller"
+
+[[person.meta.citation]]
+title = "The Oklahoman"
+date = "2019-03-28"
+url = "https://legacy.newsok.com/obituaries/oklahoman/obituary.aspx?n=alton-b-miller&pid=191982199"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Miller"
+use = "Alton"
+given = "Alton B."
+
+[person.birth]
+date = "1932-04-06"
+place.country = "US"
+place.state = "OK"
+place.city = "Fort Cobb"
+
+[person.death]
+date = "2019-03-21"
+
+[[person.education]]
+school.name = "Capitol Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Central State University"
+school.type = "college"

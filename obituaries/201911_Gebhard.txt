@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201911_Gebhard"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2020-01-12"
+url = "https://www.legacy.com/obituaries/belleville/obituary.aspx?n=john-gebhard&pid=195014953"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Gebhard"
+use = "John"
+given = "John R."
+nick = "Sug"
+
+[person.birth]
+date = "1932-11-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Belleville"
+
+[person.death]
+date = "2019-11-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Myers"
+
+[[person.education]]
+school.name = "Belleville Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Belleville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

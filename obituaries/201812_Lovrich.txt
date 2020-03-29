@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201812_Lovrich"
+
+[[person.meta.citation]]
+title = "Vandenburg Funeral Home"
+date = "2018-12-30"
+url = "https://www.vandenbergfuneralhome.com/obituaries/Peter-Lovrich/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Lovrich"
+use = "Peter"
+given = "Peter"
+suffix = "Jr."
+
+[person.birth]
+date = "1942-10-16"
+
+[person.death]
+date = "2018-12-26"

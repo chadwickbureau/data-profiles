@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201807_Hershner"
+
+[[person.meta.citation]]
+title = "Hartenstein Funeral Home"
+date = "2018-07-11"
+url = "http://hartensteincares.com/book-of-memories/3551445/Hershner-Stephen/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hershner"
+use = "Stephen"
+given = "Stephen T."
+
+[person.birth]
+date = "1938-06-28"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.death]
+date = "2018-07-10"

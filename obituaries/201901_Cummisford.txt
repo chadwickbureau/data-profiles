@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_Cummisford"
+
+[[person.meta.citation]]
+title = "Hartson Funeral Home"
+date = "2020-01-22"
+url = "https://memorials.hartsonfuneralhome.com/richard-cummisford/3801536/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-22"
+
+[person.name]
+last = "Cummisford"
+use = "Richard"
+given = "Richard Harry"
+
+[person.birth]
+date = "1930-12-20"
+
+[person.death]
+date = "2019-01-09"
+
+[[person.education]]
+school.name = "West Division HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Milwaukee"

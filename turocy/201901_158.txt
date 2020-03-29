@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "201901_158"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Burch"
+use = "J."
+given = "J. F."

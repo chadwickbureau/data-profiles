@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201911_Costello_2"
+
+[[person.meta.citation]]
+title = "D'Esopo Funeral Chapel"
+date = "2020-01-05"
+url = "https://www.dignitymemorial.com/obituaries/wethersfield-ct/ryan-costello-8939385"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-05"
+
+[person.name]
+last = "Costello"
+use = "Ryan"
+given = "Ryan Christopher"
+
+[person.birth]
+date = "1996-06-13"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2019-11-18"
+place.country = "NZ"
+
+[[person.education]]
+school.name = "Wethersfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Wethersfield"
+
+[[person.education]]
+school.name = "Central Connecticut State University"
+school.type = "college"

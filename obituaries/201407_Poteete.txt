@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201407_Poteete"
+
+[[person.meta.citation]]
+title = "Las Vegas Review-Journal"
+date = "2014-07-10"
+url = "http://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?n=ROD-POTEETE&pid=171668684"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-10"
+
+[person.name]
+last = "Poteete"
+use = "Rod"
+given = "Rod"
+
+[person.birth]
+date = "1947-05-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2014-07-08"
+
+[[person.education]]
+school.name = "Lutheran HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "Stanford"
+school.type = "college"

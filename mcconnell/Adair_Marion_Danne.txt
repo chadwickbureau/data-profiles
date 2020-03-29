@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Adair_Marion_Danne"
+
+[person.name]
+last = "Adair"
+use = "Bill"
+given = "Marion Danne"
+
+[person.birth]
+date = "1911-02-10"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.death]
+date = "2002-06-17"
+place.country = "US"
+place.state = "AL"
+place.city = "Bay Minette"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "190"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

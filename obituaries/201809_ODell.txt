@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201809_ODell"
+
+[[person.meta.citation]]
+title = "Whitaker Funeral Home"
+date = "2018-09-17"
+url = "http://www.whitakerfuneralhome.com/obituaries/William-Billy-ODell?obId=3302591#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-17"
+
+[person.name]
+last = "O'Dell"
+use = "Billy"
+given = "William"
+nick = "Digger"
+
+[person.birth]
+date = "1932-02-19"
+place.country = "US"
+place.state = "SC"
+place.city = "Whitmire"
+
+[person.death]
+date = "2018-09-12"
+place.country = "US"
+place.state = "SC"
+place.city = "Newberry"
+
+[person.burial]
+cemetery.name = "Newberry Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Newberry"
+
+[[person.education]]
+school.name = "Newberry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Newberry"
+
+[[person.education]]
+school.name = "Clemson University"
+school.type = "college"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201903_Childers"
+
+[[person.meta.citation]]
+title = "Harrelson Funeral Home"
+date = "2019-03-17"
+url = "http://hosting-9639.tributes.com/obituary/read/Jimmy-Chip-Childers-106935136"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Childers"
+use = "Chip"
+given = "Jimmy"
+
+[person.birth]
+date = "1935-02-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Rutherford County"
+
+[person.death]
+date = "2019-03-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Forest City"
+
+[person.burial]
+cemetery.name = "Rutherford County Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Forest City"
+
+[[person.education]]
+school.name = "Tri HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Avondale"

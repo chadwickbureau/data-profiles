@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201910_Davis"
+
+[[person.meta.citation]]
+title = "Brown-Wynne Funeral Home"
+date = "2019-11-02"
+url = "https://www.dignitymemorial.com/obituaries/cary-nc/charles-davis-8907820"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Davis"
+use = "Vic"
+given = "Charles Victor"
+
+[person.birth]
+date = "1936-01-26"
+
+[person.death]
+date = "2019-10-29"
+
+[person.burial]
+cemetery.name = "Raleigh Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Raleigh"
+
+[[person.education]]
+school.name = "Bladenboro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Bladenboro"

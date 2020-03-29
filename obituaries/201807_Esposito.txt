@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201807_Esposito"
+
+[[person.meta.citation]]
+title = "News & Observer"
+date = "2018-07-11"
+url = "https://www.newsobserver.com/sports/article214634235.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Esposito"
+use = "Sam"
+given = "Sam"
+
+[person.death]
+date = "2018-07-10"
+place.country = "US"
+place.state = "NC"
+place.city = "Montezuma"

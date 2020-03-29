@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201903_Lee"
+
+[[person.meta.citation]]
+title = "Good Shepherd Funeral Home"
+date = "2019-03-19"
+url = "https://www.goodshepherdfh.net/obituaries/Morris-Lee/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-19"
+
+[person.name]
+last = "Lee"
+use = "Morris"
+given = "Morris"
+nick = "Tookie"
+
+[person.birth]
+date = "1919-05-03"
+
+[person.death]
+date = "2019-03-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Rome"
+
+[person.burial]
+cemetery.name = "Oaknoll Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Rome"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

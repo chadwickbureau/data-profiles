@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201908_Waters"
+
+[[person.meta.citation]]
+title = "Thomas Poteet & Son Funeral Home"
+date = "2019-08-17"
+url = "https://www.thomaspoteet.com/obituaries/J-Waters/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-17"
+
+[person.name]
+last = "Waters"
+use = "J."
+given = "J. Gary"
+
+[person.birth]
+date = "1946-02-27"
+
+[person.death]
+date = "2019-08-15"
+place.country = "US"
+place.state = "GA"
+place.city = "Grovetown"
+
+[person.burial]
+cemetery.name = "Bellevue Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Grovetown"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

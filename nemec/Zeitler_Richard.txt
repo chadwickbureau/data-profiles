@@ -1,0 +1,76 @@
+[[person]]
+
+[person.meta]
+key = "Zeitler_Richard"
+
+[person.name]
+last = "Zeitler"
+use = "Richard"
+given = "Richard"
+
+[person.birth]
+date = "1940-03-18"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2013-07-29"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "187"
+
+[person.sameas]
+ssn = "057-32-8012"
+
+[[person.resides]]
+dates = "1962"
+place.country = "US"
+place.state = "NY"
+place.city = "Rockaway Park"
+place.address = "224 Beach 146th Street"
+
+
+[[person.education]]
+school.name = "Amherst College"
+school.type = "college"
+dates = "/1961"
+degree = "graduated"
+
+
+[[person.playing]]
+season = "1961"
+league.name = "Carolina League"
+splits.0.team.name = "Raleigh"
+totals.P_G = "17"
+totals.P_CG = "0"
+totals.P_IP = "38"
+totals.P_W = "1"
+totals.P_L = "5"
+totals.P_PCT = ".167"
+totals.P_H = "33"
+totals.P_BB = "19"
+totals.P_SO = "29"
+totals.P_R = "20"
+totals.P_ER = "17"
+totals.P_ERA = "4.03"
+
+[[person.playing]]
+season = "1962"
+league.name = "Midwest League"
+splits.0.team.name = "Quincy"
+totals.P_G = "29"
+totals.P_CG = "2"
+totals.P_IP = "98"
+totals.P_W = "6"
+totals.P_L = "3"
+totals.P_PCT = ".667"
+totals.P_H = "108"
+totals.P_BB = "53"
+totals.P_SO = "92"
+totals.P_R = "85"
+totals.P_ER = "60"
+totals.P_ERA = "5.51"

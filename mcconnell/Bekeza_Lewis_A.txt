@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Bekeza_Lewis_A"
+
+[person.name]
+last = "Bekeza"
+use = "Lewis"
+given = "Lewis A."
+
+[person.birth]
+date = "1917-08-14"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago Heights"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74.5"
+weight = "190"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

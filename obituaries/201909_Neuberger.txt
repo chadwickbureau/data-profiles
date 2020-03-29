@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201909_Neuberger"
+
+[[person.meta.citation]]
+title = ""
+date = "2019-10-07"
+url = "https://www.andersonstributecenter.com/memorials/herman-herm-joseph--neuberger/3975352/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Neuberger"
+use = "Herm"
+given = "Herman Joseph"
+
+[person.birth]
+date = "1924-06-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2019-09-23"
+place.country = "US"
+place.state = "OR"
+place.city = "The Dalles"
+
+[[person.education]]
+school.name = "City College of New York"
+school.type = "college"

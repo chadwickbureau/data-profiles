@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "201908_Santee"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2019-08-16"
+url = "https://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=robert-e-santee-bob&pid=193644141"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Santee"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1924-05-25"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.death]
+date = "2019-08-10"
+
+[person.burial]
+cemetery.name = "Willamette National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Portland"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "University of Oregon"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Vietnam War"

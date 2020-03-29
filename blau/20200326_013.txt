@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200326_013"
+
+[[person.meta.citation]]
+title = "Fall River Globe"
+date = "1915-06-21"
+pages = "7"
+
+[person.name]
+last = "Van Houten"
+
+[person.death]
+date = "1915-06-19"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portland"
+team.league.name = "New England League"

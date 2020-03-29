@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_032"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1922-08-03"
+
+[person.name]
+last = "Dean"
+use = "Everett"
+given = "Everett"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Valley City/Bismarck"
+team.league.name = "Dakota League"

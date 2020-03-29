@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201908_Kovach"
+
+[[person.meta.citation]]
+title = "Fives Funeral Home"
+date = "2019-12-31"
+url = "https://www.fivesfuneralhome.com/obituaries/Stephen-Kovach-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-31"
+
+[person.name]
+last = "Kovach"
+use = "Stephen"
+given = "Stephen T."
+
+[person.birth]
+date = "1925-05-22"
+
+[person.death]
+date = "2019-08-09"
+
+[person.burial]
+cemetery.name = "Calverton National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Calverton"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

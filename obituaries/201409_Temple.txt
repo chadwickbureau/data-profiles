@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201409_Temple"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2014-10-02"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Jim-Temple&lc=2251&pid=172639656&mid=6141326"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-02"
+
+[person.name]
+last = "Temple"
+use = "Jim"
+given = "Jim"
+nick = "Monk"
+
+[person.birth]
+date = "1938-05-01"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.death]
+date = "2014-09-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.burial]
+cemetery.name = "Shepherd's Garden at Lovers Lane UMC"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Fair Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Shreveport"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

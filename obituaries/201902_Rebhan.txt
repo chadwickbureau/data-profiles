@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201902_Rebhan"
+
+[[person.meta.citation]]
+title = "Atlanta Journal-Constitution"
+date = "2019-02-28"
+url = "https://www.ajc.com/sports/college/michael-rebhan-star-georgia-1990-college-world-series-team-dies/9HRkvv8xbO1ga6v33UkD5M/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-03"
+
+[person.name]
+last = "Rebhan"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+place.country = "US"
+place.state = "MD"
+place.city = "Rockville"
+
+[person.death]
+date = "2019-02-27"
+
+[person.description]
+position = "P"
+throws = "R"
+height = "73"
+weight = "190"
+
+[[person.education]]
+school.name = "Florida Gateway College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"

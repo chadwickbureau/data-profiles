@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_Hopkins"
+
+[[person.meta.citation]]
+title = "L. Harold Poole Funeral Home"
+date = "2020-01-20"
+url = "https://www.poolefuneral.com/tributes/Royal-Hopkins"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Hopkins"
+use = "RB"
+given = "Royal Berdon"
+
+[person.birth]
+date = "1922-02-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Wake County"
+
+[person.death]
+date = "2019-01-16"
+
+[person.burial]
+cemetery.name = "Bethlehem Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Knightdale"
+
+[[person.education]]
+school.name = "Wendell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Wendell"

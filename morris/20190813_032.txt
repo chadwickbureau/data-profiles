@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_032"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-04-24"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Cook"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Suffolk"
+team.league.name = "Virginia League"
+description.position = "CF"

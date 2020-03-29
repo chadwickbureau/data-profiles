@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_035"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1925-08-06"
+pages = "10"
+
+[person.name]
+last = "Barron"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Providence"
+team.league.name = "Eastern League"

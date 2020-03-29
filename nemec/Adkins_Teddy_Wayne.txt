@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "Adkins_Teddy_Wayne"
+
+[person.name]
+last = "Adkins"
+use = "Teddy"
+given = "Teddy Wayne"
+
+[person.birth]
+date = "1958-10-15"
+place.country = "US"
+place.state = "WV"
+place.city = "Logan"
+
+[person.death]
+date = "2011-05-21"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "77"
+weight = "205"
+
+[person.sameas]
+ssn = "265-35-9138"
+
+[[person.resides]]
+dates = "1978"
+place.country = "US"
+place.state = "FL"
+place.city = "West Palm Beach"
+place.address = "1612 Georgia Ave."
+
+
+[[person.education]]
+school.name = "Twin Lakes High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "West Palm Beach"
+dates = "/1976"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Palm Beach Junior College"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1978-01"
+type = "drafted"
+join.name = "Seattle"
+join.league.name = "American"
+
+[[person.transaction]]
+date = "1978-05-12"
+type = "signed"
+join.name = "Seattle"
+join.league.name = "American"
+signers.0.name.last = "Pena"
+signers.0.name.use = "Orlando"
+signers.0.name.given = "Orlando"

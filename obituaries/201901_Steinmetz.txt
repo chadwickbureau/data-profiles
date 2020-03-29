@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_Steinmetz"
+
+[[person.meta.citation]]
+title = "Courier Press"
+date = "2019-01-28"
+url = "https://obits.courierpress.com/obituaries/courierpress/obituary.aspx?n=charles-steinmetz&pid=191379101&fhid=5467#_ga=2.38081955.1094577482.1548686083-1165531027.1539284574"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Steinmetz"
+use = "Corky"
+given = "Charles"
+suffix = "Sr."
+
+[person.birth]
+date = "1933-06-07"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.death]
+date = "2019-01-25"
+place.country = "US"
+place.state = "KY"
+place.city = "Owensboro"
+
+[person.burial]
+cemetery.name = "Salem Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Evansville"
+
+[[person.military]]
+country = "US"
+branch = "Army"

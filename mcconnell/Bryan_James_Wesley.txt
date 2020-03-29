@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bryan_James_Wesley"
+
+[person.name]
+last = "Bryan"
+use = "James"
+given = "James Wesley"
+
+[person.birth]
+date = "1904-02-04"
+place.country = "US"
+place.state = "TN"
+place.city = "Dickson"
+
+[person.death]
+date = "1972-09"
+place.country = "US"
+place.state = "TN"
+place.city = "Clarksville"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "71"
+weight = "180"

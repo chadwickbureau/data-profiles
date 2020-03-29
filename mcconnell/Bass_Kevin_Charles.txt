@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Bass_Kevin_Charles"
+
+[person.name]
+last = "Bass"
+use = "Kevin"
+given = "Kevin Charles"
+
+[person.birth]
+date = "1959-05-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Redwood City"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "72"
+weight = "183"

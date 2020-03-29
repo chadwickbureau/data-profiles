@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201907_Daughty"
+
+[[person.meta.citation]]
+title = "The Oklahoman"
+date = "2019-07-14"
+url = "https://legacy.newsok.com/obituaries/oklahoman/obituary.aspx?n=kenneth-r-daughty&pid=193391477#_ga=2.194832170.626560845.1563195924-1850536735.1561646313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-17"
+
+[person.name]
+last = "Daughty"
+use = "Ken"
+given = "Kenneth Ray"
+suffix = "Sr."
+
+[person.birth]
+date = "1952-07-30"
+
+[person.death]
+date = "2019-07-01"
+
+[[person.education]]
+school.name = "McLoud HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "McLoud"
+
+[[person.education]]
+school.name = "Lamar Community College"
+school.type = "college"

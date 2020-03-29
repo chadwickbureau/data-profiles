@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201409_Dunlap_1"
+
+[[person.meta.citation]]
+title = "Occidental College athletics website"
+date = "2014-09-15"
+url = "http://www.oxyathletics.com/othernews/2014-15/dunlap"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Dunlap"
+use = "Grant"
+given = "Grant"
+
+[person.death]
+date = "2014-09-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Vista"
+
+[[person.education]]
+school.name = "Occidental College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

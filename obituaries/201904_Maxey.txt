@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201904_Maxey"
+
+[[person.meta.citation]]
+title = "Kilpatrick’s Rose-Neath Funeral Home"
+date = "2019-05-01"
+url = "http://rose-neath.com/wordpress/obituaries/william-jack-maxey/5498/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-01"
+
+[person.name]
+last = "Maxey"
+use = "Jack"
+given = "William Jack"
+
+[person.birth]
+date = "1932-12-04"
+place.country = "US"
+place.state = "LA"
+place.city = "Yellow Pine"
+
+[person.death]
+date = "2019-04-29"
+place.country = "US"
+place.state = "LA"
+place.city = "Bossier City"
+
+[person.burial]
+cemetery.name = "Lane Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Sibley"
+
+[[person.education]]
+school.name = "Louisiana Tech University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

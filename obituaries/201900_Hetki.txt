@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201900_Hetki"
+
+[[person.meta.citation]]
+title = "Cleveland Plain Dealer"
+date = "2019-01-12"
+url = "http://obits.cleveland.com/obituaries/cleveland/obituary.aspx?n=john-e-hetki&pid=191234764&fhid=17569&fbclid=IwAR2zysQqB2-w_6VlmCgc82VGqzZs0W8v9TI1XXhCTo_NRnRvrpYetFrqckE"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-12"
+
+[person.name]
+last = "Hetki"
+use = "John"
+given = "John E."
+
+[person.death]
+date = "2019"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Brook Park"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

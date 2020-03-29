@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "Zabielski_Donald_John"
+
+[person.name]
+last = "Zabielski"
+use = "Don"
+given = "Donald John"
+nick = "Zeke"
+
+[person.birth]
+date = "1938-02-07"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.death]
+date = "2012-09-17"
+place.country = "US"
+place.state = "DE"
+place.city = "Milford"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "170"
+
+[person.sameas]
+ssn = "221-24-8949"
+
+[[person.resides]]
+dates = "1958"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+place.address = "202 S. Broom St."
+
+
+[[person.education]]
+school.name = "Salesianum High School"
+school.type = "secondary"
+dates = "/1956"
+degree = "graduated"
+
+
+[[person.playing]]
+season = "1958"
+league.name = "New York-Pennsylvania League"
+splits.0.team.name = "Wellsville"
+totals.P_G = "4"
+totals.P_CG = "0"
+totals.P_IP = "7"
+totals.P_W = "0"
+totals.P_L = "1"
+totals.P_PCT = ".000"
+totals.P_H = "2"
+totals.P_BB = "10"
+totals.P_SO = "7"
+totals.P_R = "1"
+totals.P_ER = "1"
+totals.P_ERA = "1.29"

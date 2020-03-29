@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201910_Maggiacomo_1"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Journal"
+date = "2019-10-27"
+url = "https://www.legacy.com/obituaries/poughkeepsiejournal/obituary.aspx?n=al-maggiacomo&pid=194270910&fhid=29053"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Maggiacomo"
+use = "Al"
+given = "Al"
+
+[person.death]
+date = "2019-10-13"
+place.country = "US"
+place.state = "FL"
+place.city = "Naples"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

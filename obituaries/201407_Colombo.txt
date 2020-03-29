@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201407_Colombo"
+
+[[person.meta.citation]]
+title = "Connecticut Post"
+date = "2014-07-26"
+url = "http://www.legacy.com/obituaries/ctpost/obituary.aspx?n=Daniel-Colombo&pid=171855578"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "Colombo"
+use = "Daniel"
+given = "Daniel John"
+
+[person.birth]
+date = "1946-07-23"
+place.country = "US"
+place.state = "NY"
+place.city = "Yonkers"
+
+[person.death]
+date = "2014-07-21"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[[person.education]]
+school.name = "Sewanhaka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Floral Park"
+
+[[person.education]]
+school.name = "Nassau Community College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Garden City"
+
+[[person.education]]
+school.name = "St. John's University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "New York"

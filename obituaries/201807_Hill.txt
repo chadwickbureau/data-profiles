@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201807_Hill"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-08-01"
+url = "https://www.dignitymemorial.com/obituaries/tyler-tx/albert-hill-7946597"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-01"
+
+[person.name]
+last = "Hill"
+use = "Albert"
+given = "Albert Bennett"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-05-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Tyler"
+
+[person.death]
+date = "2018-07-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Tyler"
+
+[person.burial]
+cemetery.name = "Cathedral in the Pines Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Tyler"
+
+[[person.education]]
+school.name = "Tyler HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Tyler"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201910_Fairly"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-11-05"
+url = "https://www.latimes.com/sports/dodgers/story/2019-10-30/ron-fairly-usc-dodgers-world-series-angels-cancer-dead"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-05"
+
+[person.name]
+last = "Fairly"
+use = "Ron"
+given = "Ron"
+
+[person.death]
+date = "2019-10-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Indian Wells"
+
+[[person.education]]
+school.name = "David Starr Jordan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

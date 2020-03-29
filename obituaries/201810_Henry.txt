@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201810_Henry"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2018-10-21"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=john-charles-henry&pid=190531341"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Henry"
+use = "John"
+given = "John Charles"
+
+[person.birth]
+date = "1936-06-18"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "2018-10-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Roseville"
+
+[[person.education]]
+school.name = "Grant Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"

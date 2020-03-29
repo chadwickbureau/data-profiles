@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_075"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-11"
+pages = "21"
+
+[person.name]
+last = "Lewis"
+use = "J."
+given = "J. T."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+description.position = "3B"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"

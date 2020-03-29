@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201908_Rossman"
+
+[[person.meta.citation]]
+title = "DeCarbo Funeral Home"
+date = "2019-09-02"
+url = "https://www.decarbofuneralhome.com/book-of-memories/3957926/Rossman-Bernard/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-02"
+
+[person.name]
+last = "Rossman"
+use = "Bernard"
+given = "Bernard Joseph"
+
+[person.birth]
+date = "1927-10-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2019-08-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Union Township"
+
+[person.burial]
+cemetery.name = "St. Vitus Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Castle"

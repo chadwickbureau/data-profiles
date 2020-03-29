@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201902_Presko"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-02-10"
+url = "https://www.dignitymemorial.com/obituaries/kansas-city-mo/joseph-presko-8151270"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Presko"
+use = "Joe"
+given = "Joseph E."
+suffix = "Sr."
+
+[person.birth]
+date = "1928-10-07"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.death]
+date = "2019-02-05"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Kansas City"

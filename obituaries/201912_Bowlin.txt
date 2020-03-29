@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201912_Bowlin"
+
+[[person.meta.citation]]
+title = "Bumpers Funeral Home"
+date = "2019-12-16"
+url = "https://www.bumpersfuneralhome.com/obituary/hoss-bowlin"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-16"
+
+[person.name]
+last = "Bowlin"
+use = "Hoss"
+given = "Weldon"
+
+[person.birth]
+date = "1940-12-10"
+place.country = "US"
+place.state = "AR"
+place.city = "Stanford"
+
+[person.death]
+date = "2019-12-08"
+
+[person.burial]
+cemetery.name = "Cokes Chapel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Ward"

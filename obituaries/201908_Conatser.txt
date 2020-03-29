@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201908_Conatser"
+
+[[person.meta.citation]]
+title = "McCormick & Son Funeral Home"
+date = "2019-09-02"
+url = "https://www.mccormickandson.com/obituaries/Clinton-Conatser-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-02"
+
+[person.name]
+last = "Conatser"
+use = "Clinton"
+given = "Clinton Astor"
+
+[person.birth]
+date = "1921-07-24"
+
+[person.death]
+date = "2019-08-23"

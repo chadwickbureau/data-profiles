@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20191201_004"
+
+[[person.meta.citation]]
+title = "San Francisco Examiner"
+date = "1926-01-15"
+pages = "31"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Oakland"
+team.league.name = "Pacific Coast League"
+description.throws = "R"
+
+
+[[person.transaction]]
+date = "1926-01-14"
+type = "acquired"
+join.name = "Oakland"
+join.league.name = "Pacific Coast"
+leave.name = "Denver"
+leave.league.name = "Western"
+forconsideration = "cash"

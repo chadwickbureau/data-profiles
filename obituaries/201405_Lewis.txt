@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201405_Lewis"
+
+[[person.meta.citation]]
+title = "Saginaw News"
+date = "2014-06-01"
+url = "http://obits.mlive.com/obituaries/saginaw/obituary.aspx?n=donald-a-lewis&pid=171195665&fhid=10649"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Lewis"
+use = "Don"
+given = "Donald A."
+
+[person.birth]
+date = "1929-06-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.death]
+date = "2014-05-31"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Saginaw"
+
+[[person.education]]
+school.name = "Saginaw HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Saginaw"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

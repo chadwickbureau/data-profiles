@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201908_Buist"
+
+[[person.meta.citation]]
+title = "W. J. Caul Funeral Home"
+date = "2019-09-02"
+url = "https://www.cauls.ca/obituary/michael-buist"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-02"
+
+[person.name]
+last = "Buist"
+use = "Mike"
+given = "Michael"
+
+[person.birth]
+date = "1947-03-17"
+
+[person.death]
+date = "2019-08-25"
+place.country = "CA"
+place.state = "NL"
+place.city = "St. John's"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201807_Page"
+
+[[person.meta.citation]]
+title = "Saul Funeral Home"
+date = "2018-07-25"
+url = "http://www.saulfuneralhomes.com/obituary/John-%E2%80%9CJack%E2%80%9D-R.-Page/Langhorne-PA/1807130"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-25"
+
+[person.name]
+last = "Page"
+use = "Jack"
+given = "John R."
+
+[person.birth]
+date = "1929-12-01"
+place.country = "US"
+place.state = "PA"
+place.city = "Kingston"
+
+[person.death]
+date = "2018-07-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Langhorne"
+
+[person.burial]
+cemetery.name = "Colonial Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Trenton"
+
+[person.description]
+throws = "L"

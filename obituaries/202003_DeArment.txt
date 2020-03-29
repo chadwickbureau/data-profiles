@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202003_DeArment"
+
+[[person.meta.citation]]
+title = "Reed Funeral Home"
+date = "2020-03-13"
+url = "https://www.reedfuneralhome.com/obituary/Travis-James-DeArment/Perry-Twp.-Ohio/1869943"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-13"
+
+[person.name]
+last = "DeArment"
+use = "Travis"
+given = "Travis James"
+
+[person.birth]
+date = "1997-01-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Canton"
+
+[person.death]
+date = "2020-03-11"
+
+[[person.education]]
+school.name = "Perry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Perry"
+
+[[person.education]]
+school.name = "Ohio Wesleyan University"
+school.type = "college"

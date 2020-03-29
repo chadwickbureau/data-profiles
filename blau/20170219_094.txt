@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170219_094"
+
+[[person.meta.citation]]
+title = "SABR biography"
+
+[person.name]
+last = "Beck"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Wichita"
+team.league.name = "Western League"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170219_145"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1922-08-22"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1924-03-16"
+pages = "69"
+
+[person.name]
+last = "Bougeno"
+use = "William"
+given = "William"
+nick = "Wild Bill"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Dyersburg"
+team.league.name = "Kentucky-Illinois-Tennessee League"

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201811_Arredondo"
+
+[[person.meta.citation]]
+title = "SonDeportes.com"
+date = "2018-11-11"
+url = "http://www.sondeportes.com/?p=53322"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Arredondo"
+use = "Blas"
+given = "Blas"
+matrilineal = "Sanchez"
+
+[person.death]
+date = "2018-11-11"

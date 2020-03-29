@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201702_Grose"
+
+[[person.meta.citation]]
+title = "Hutchens Funeral Home"
+date = "2019-10-24"
+url = "https://hutchensfuneralhomes.com/obituary/john-grose/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-24"
+
+[person.name]
+last = "Grose"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2017-02-26"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

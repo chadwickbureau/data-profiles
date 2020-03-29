@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201904_Sanderson"
+
+[[person.meta.citation]]
+title = "Symonds Funeral Home"
+date = "2019-04-22"
+url = "https://symondsfuneralhome.com/scott-sanderson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-22"
+
+[person.name]
+last = "Sanderson"
+use = "Scott"
+given = "Scott"
+
+[person.death]
+date = "2019-04-11"
+place.country = "US"
+place.state = "IL"
+place.city = "Lake Forest"
+
+[[person.education]]
+school.name = "Glenbrook North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Northbrook"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"

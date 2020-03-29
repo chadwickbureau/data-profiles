@@ -1,0 +1,290 @@
+[[person]]
+
+[person.meta]
+key = "Abernethy_Joe_Ray"
+
+[person.name]
+last = "Abernethy"
+use = "Joe"
+given = "Joe Ray"
+
+[person.birth]
+date = "1934-05-21"
+place.country = "US"
+place.state = "NC"
+place.city = "Newton"
+
+[person.death]
+date = "2011-07-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Newton"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73.5"
+weight = "185"
+
+[person.sameas]
+ssn = "241-50-3402"
+
+[[person.resides]]
+dates = "1959"
+place.country = "US"
+place.state = "NC"
+place.city = "Newton"
+place.address = "504 East Street"
+
+
+[[person.education]]
+school.name = "Newton-Conover High School"
+school.type = "secondary"
+
+
+[[person.military]]
+country = "US"
+dates = "1958/1958"
+
+
+[[person.playing]]
+season = "1953"
+league.name = "Mountain States League"
+splits.0.team.name = "Harlan"
+totals.F_POS = "1B"
+totals.B_G = "15"
+totals.B_AB = "54"
+totals.B_R = "9"
+totals.B_H = "13"
+totals.B_TB = "21"
+totals.B_2B = "2"
+totals.B_3B = "2"
+totals.B_HR = "2"
+totals.B_RBI = "7"
+totals.B_SB = "1"
+totals.B_AVG = ".241"
+
+[[person.playing]]
+season = "1953"
+league.name = "Tar Heel League"
+splits.0.team.name = "Lincolnton"
+splits.1.team.name = "Statesville"
+totals.F_POS = "SS-OF-1B"
+totals.B_G = "63"
+totals.B_AB = "189"
+totals.B_R = "15"
+totals.B_H = "3"
+totals.B_TB = "52"
+totals.B_2B = "5"
+totals.B_3B = "2"
+totals.B_HR = "2"
+totals.B_RBI = "15"
+totals.B_SB = "0"
+totals.B_AVG = ".196"
+
+[[person.playing]]
+season = "1954"
+league.name = "Mountain States League"
+splits.0.team.name = "Oak Ridge"
+totals.F_POS = "SS"
+totals.B_G = "78"
+totals.B_AB = "302"
+totals.B_R = "47"
+totals.B_H = "71"
+totals.B_TB = "106"
+totals.B_2B = "17"
+totals.B_3B = "4"
+totals.B_HR = "4"
+totals.B_RBI = "47"
+totals.B_SB = "6"
+totals.B_AVG = ".235"
+
+[[person.playing]]
+season = "1955"
+league.name = "PONY League"
+splits.0.team.name = "Erie"
+totals.F_POS = "SS"
+totals.B_G = "67"
+totals.B_AB = "260"
+totals.B_R = "38"
+totals.B_H = "73"
+totals.B_TB = "123"
+totals.B_2B = "19"
+totals.B_3B = "7"
+totals.B_HR = "7"
+totals.B_RBI = "42"
+totals.B_SB = "1"
+totals.B_AVG = ".281"
+
+[[person.playing]]
+season = "1956"
+league.name = "Pioneer League"
+splits.0.team.name = "Missoula"
+totals.F_POS = "3B-1B-OF-P"
+totals.B_G = "124"
+totals.B_AB = "525"
+totals.B_R = "84"
+totals.B_H = "160"
+totals.B_TB = "213"
+totals.B_2B = "29"
+totals.B_3B = "6"
+totals.B_HR = "6"
+totals.B_RBI = "75"
+totals.B_SB = "8"
+totals.B_AVG = ".305"
+
+[[person.playing]]
+season = "1957"
+league.name = "Pioneer League"
+splits.0.team.name = "Missoula"
+totals.F_POS = "1B-OF"
+totals.B_G = "56"
+totals.B_AB = "234"
+totals.B_R = "39"
+totals.B_H = "79"
+totals.B_TB = "109"
+totals.B_2B = "16"
+totals.B_3B = "4"
+totals.B_HR = "4"
+totals.B_RBI = "39"
+totals.B_SB = "1"
+totals.B_AVG = ".338"
+
+[[person.playing]]
+season = "1959"
+league.name = "Pioneer League"
+splits.0.team.name = "Missoula"
+totals.F_POS = "1B-2B-OF-3B"
+totals.B_G = "73"
+totals.B_AB = "281"
+totals.B_R = "40"
+totals.B_H = "81"
+totals.B_TB = "115"
+totals.B_2B = "20"
+totals.B_3B = "4"
+totals.B_HR = "4"
+totals.B_RBI = "45"
+totals.B_SB = "1"
+totals.B_AVG = ".288"
+
+[[person.playing]]
+season = "1959"
+league.name = "Florida State League"
+splits.0.team.name = "Sanford"
+totals.F_POS = "1B-2B-P"
+totals.B_G = "47"
+totals.B_AB = "143"
+totals.B_R = "16"
+totals.B_H = "31"
+totals.B_TB = "42"
+totals.B_2B = "1"
+totals.B_3B = "2"
+totals.B_HR = "2"
+totals.B_RBI = "12"
+totals.B_SB = "0"
+totals.B_AVG = ".217"
+
+[[person.playing]]
+season = "1960"
+league.name = "Western Carolina League"
+splits.0.team.name = "Hickory"
+totals.F_POS = "1B-OF-P"
+totals.B_G = "74"
+totals.B_AB = "257"
+totals.B_R = "40"
+totals.B_H = "82"
+totals.B_TB = "113"
+totals.B_2B = "13"
+totals.B_3B = "6"
+totals.B_HR = "6"
+totals.B_RBI = "41"
+totals.B_SB = "3"
+totals.B_AVG = ".319"
+
+[[person.playing]]
+season = "1960"
+league.name = "Carolina League"
+splits.0.team.name = "Wilson"
+totals.F_POS = "1B"
+totals.B_G = "3"
+totals.B_AB = "10"
+totals.B_H = "3"
+totals.B_TB = "4"
+totals.B_2B = "1"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "1"
+totals.B_SB = "0"
+totals.B_AVG = ".300"
+
+[[person.playing]]
+season = "1961"
+league.name = "Western Carolina League"
+splits.0.team.name = "Newton-Conover"
+totals.F_POS = "OF-1B-3B-P"
+totals.B_G = "83"
+totals.B_AB = "283"
+totals.B_R = "39"
+totals.B_H = "69"
+totals.B_TB = "84"
+totals.B_2B = "10"
+totals.B_3B = "1"
+totals.B_HR = "1"
+totals.B_RBI = "42"
+totals.B_SB = "1"
+totals.B_AVG = ".244"
+
+[[person.playing]]
+season = "1962"
+league.name = "Western Carolina League"
+splits.0.team.name = "Shelby"
+totals.F_POS = "OF-P"
+totals.B_G = "33"
+totals.B_AB = "118"
+totals.B_R = "17"
+totals.B_H = "33"
+totals.B_TB = "45"
+totals.B_2B = "7"
+totals.B_3B = "1"
+totals.B_HR = "1"
+totals.B_RBI = "14"
+totals.B_SB = "1"
+totals.B_AVG = ".280"
+
+[[person.playing]]
+season = "1963"
+league.name = "Western Carolinas League"
+splits.0.team.name = "Statesville"
+totals.F_POS = "3B_P"
+totals.B_G = "3"
+totals.B_AB = "8"
+totals.B_R = "1"
+totals.B_H = "2"
+totals.B_TB = "2"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "0"
+totals.B_SB = "0"
+totals.B_AVG = ".250"
+
+
+[[person.managing]]
+season = "1959"
+team.name = "Sanford"
+league.name = "Florida State League"
+
+[[person.managing]]
+season = "1960"
+team.name = "Hickory"
+league.name = "Western Carolina League"
+
+[[person.managing]]
+season = "1961"
+team.name = "Newton-Conover"
+league.name = "Western Carolina League"
+
+[[person.managing]]
+season = "1962"
+team.name = "Shelby"
+league.name = "Western Carolina League"

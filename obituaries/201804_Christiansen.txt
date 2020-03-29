@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201804_Christiansen"
+
+[[person.meta.citation]]
+title = "Portland Tribune"
+date = "2018-05-29"
+url = "https://portlandtribune.com/obits/187-cby-obituaries/396801-290960-robert-lee-christiansen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Christiansen"
+use = "Bob"
+given = "Robert Lee"
+
+[person.birth]
+date = "1940-04-01"
+place.country = "US"
+place.state = "NE"
+place.city = "Hardy"
+
+[person.death]
+date = "2018-04-18"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Benson Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "University of Oregon"
+school.type = "college"

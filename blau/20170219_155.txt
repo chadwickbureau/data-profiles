@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_155"
+
+[[person.meta.citation]]
+title = "Winnipeg Free Press"
+date = "1919-05-26"
+pages = "6"
+
+[person.name]
+last = "Donovan"
+use = "Gus"
+given = "Gus"
+nick = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Winnipeg"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Saskatoon"
+team.league.name = "Western Canada League"

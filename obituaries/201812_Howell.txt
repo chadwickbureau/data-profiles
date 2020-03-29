@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201812_Howell"
+
+[[person.meta.citation]]
+title = "Express Times"
+date = "2018-12-20"
+url = "http://obits.lehighvalleylive.com/obituaries/etpa/obituary.aspx?n=william-howell&pid=191043177&fhid=27090"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Howell"
+use = "William"
+given = "William L."
+suffix = "Jr."
+
+[person.birth]
+date = "1941-01-18"
+place.country = "US"
+place.state = "NJ"
+place.city = "Phillipsburg"
+
+[person.death]
+date = "2018-12-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Bangor"

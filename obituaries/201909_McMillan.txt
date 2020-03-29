@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_McMillan"
+
+[[person.meta.citation]]
+title = "Mitchell Funeral Home"
+date = "2019-09-09"
+url = "https://www.dignitymemorial.com/obituaries/raleigh-nc/rex-mcmillan-8849008"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-09"
+
+[person.name]
+last = "McMillan"
+use = "Rex"
+given = "Rex Dean"
+
+[person.birth]
+date = "1937-12-11"
+
+[person.death]
+date = "2019-09-08"
+
+[[person.education]]
+school.name = "Hugh Morson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Raleigh"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

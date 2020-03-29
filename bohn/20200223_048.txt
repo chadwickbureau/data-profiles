@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_048"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1920-04-29"
+
+[person.name]
+last = "Chervinco"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Redfield"
+team.league.name = "South Dakota League"

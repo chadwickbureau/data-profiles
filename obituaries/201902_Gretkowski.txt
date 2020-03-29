@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201902_Gretkowski"
+
+[[person.meta.citation]]
+title = "James J. Terry Funeral Home"
+date = "2019-03-03"
+url = "https://www.jamesterryfuneralhome.com/tributes/Walter-Gretkowski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-03"
+
+[person.name]
+last = "Gretkowski"
+use = "Mike"
+given = "Walter J."
+
+[person.birth]
+date = "1921-10-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Dickson City"
+
+[person.death]
+date = "2019-02-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Exton"
+
+[person.burial]
+cemetery.name = "Laurelwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Stroudsburg"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

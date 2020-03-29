@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201809_Domikaitis"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2018-11-02"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=stanley-edward-domikaitis&pid=190637701"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Domikaitis"
+use = "Stan"
+given = "Stanley E."
+suffix = "Jr."
+
+[person.birth]
+date = "1934-03-20"
+
+[person.death]
+date = "2018-09-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Orlando"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

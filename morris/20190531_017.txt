@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190531_017"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-05-04"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Dougherty"
+use = "J."
+given = "J. A."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"

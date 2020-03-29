@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "Bissonette_Delphia_Louis"
+
+[person.name]
+last = "Bissonette"
+use = "Del"
+given = "Delphia Louis"
+
+[person.birth]
+date = "1899-09-06"
+place.country = "US"
+place.state = "ME"
+place.city = "Winthrop"
+
+[person.death]
+date = "1972-06-09"
+place.country = "US"
+place.state = "ME"
+place.city = "Augusta"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "71"
+weight = "180"
+
+[[person.education]]
+school.name = "New Hampshire State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Georgetown University"
+school.type = "college"

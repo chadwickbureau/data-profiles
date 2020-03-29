@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201810_Lewis_1"
+
+[[person.meta.citation]]
+title = "Bristol Press"
+date = "2018-10-30"
+url = "http://www.bristolpress.com/BP-Bristol+News/338098/bristol-bits-remembering-former-bristol-resident-phil-lewis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-05"
+
+[person.name]
+last = "Lewis"
+use = "Phil"
+given = "Phil"
+
+[person.death]
+date = "2018-10-26"
+
+[[person.education]]
+school.name = "Bristol Eastern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Bristol"

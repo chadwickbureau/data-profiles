@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "201901_098"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "McEvoy"
+use = "L."
+given = "L. C."

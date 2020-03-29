@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201812_Anderson"
+
+[[person.meta.citation]]
+title = "Hayworth-Miller Funeral Homes"
+date = "2018-12-31"
+url = "https://www.hayworth-miller.com/notices/GarlandPaige-AndersonJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-31"
+
+[person.name]
+last = "Anderson"
+use = "Garland"
+given = "Garland Paige"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-03-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[person.death]
+date = "2018-12-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

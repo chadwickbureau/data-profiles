@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "201901_066"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-11"
+pages = "21"
+
+[person.name]
+last = "Holland"
+use = "John"
+given = "John"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201911_May"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2019-12-06"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=kenneth-w-may&pid=194642368"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "May"
+use = "Kenny"
+given = "Kenneth W."
+
+[person.death]
+date = "2019-11-10"
+
+[[person.education]]
+school.name = "California State University, Sacramento"
+school.type = "college"

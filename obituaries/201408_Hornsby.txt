@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201408_Hornsby"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2014-08-23"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Andrew-Hornsby&lc=4944&pid=172210991&mid=6094282"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Hornsby"
+use = "Andy"
+given = "Andrew Thomas"
+nick = "A. T."
+
+[person.birth]
+date = "1915-08-21"
+
+[person.death]
+date = "2014-08-21"
+
+[person.burial]
+cemetery.name = "Westview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Atlanta"
+
+[[person.education]]
+school.name = "Tech HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

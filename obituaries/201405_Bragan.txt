@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201405_Bragan"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2014-05-28"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Lionel-Bragan&lc=4391&pid=171153368&uuid=ce78c717-2273-46a6-860f-ca92d001a293"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-28"
+
+[person.name]
+last = "Bragan"
+use = "Lionel"
+given = "Lionel Linwood"
+
+[person.birth]
+date = "1922-02-02"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.death]
+date = "2014-05-27"
+
+[[person.education]]
+school.name = "Phillips HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Birmingham"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

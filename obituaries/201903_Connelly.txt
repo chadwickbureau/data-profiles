@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201903_Connelly"
+
+[[person.meta.citation]]
+title = "Cox Funeral Home"
+date = "2019-05-27"
+url = "https://www.coxfuneralhomeamarillo.com/notices/Robert-Connelly"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Connelly"
+use = "Bob"
+given = "Robert Lee"
+
+[person.birth]
+date = "1943-01-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Phillips"
+
+[person.death]
+date = "2019-03-08"

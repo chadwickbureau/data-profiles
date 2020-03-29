@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202003_Dunlap"
+
+[[person.meta.citation]]
+title = "Stumpff Funeral Home"
+date = "2020-03-10"
+url = "https://www.stumpff.org/obituaries/Kenneth-Dunlap-6/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Dunlap"
+use = "Ken"
+given = "Kenneth Joe"
+
+[person.birth]
+date = "1931-01-26"
+place.country = "US"
+place.state = "AR"
+place.city = "Hardy"
+
+[person.death]
+date = "2020-03-07"
+place.country = "US"
+place.state = "OK"
+place.city = "Bartlesville"
+
+[[person.education]]
+school.name = "College HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Bartlesville"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"

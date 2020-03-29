@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201909_Walsh"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-10-05"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=charles-sarto-walsh&pid=194080778"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Walsh"
+use = "Charlie"
+given = "Charles Sarto"
+
+[person.birth]
+date = "1928-09-09"
+
+[person.death]
+date = "2019-09-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Woodland Hills"
+
+[[person.education]]
+school.name = "Winchester HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Winchester"
+
+[[person.education]]
+school.name = "The Choate School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Wallingford"
+
+[[person.education]]
+school.name = "Harvard University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

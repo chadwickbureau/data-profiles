@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201404_Parker"
+
+[[person.meta.citation]]
+title = "Henneke Funeral Home"
+date = "2014-05-04"
+url = "http://www.hennekefuneralhome.com/services.asp?page=odetail&id=577&locid=0#.U2bRo7dOXX4"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-04"
+
+[person.name]
+last = "Parker"
+use = "Harry"
+given = "Harry L."
+
+[person.birth]
+date = "1925-03-20"
+place.country = "US"
+place.state = "IL"
+place.city = "East Alton"
+
+[person.death]
+date = "2014-04-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Columbus"
+
+[person.burial]
+cemetery.name = "Odd Fellows Rest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Columbus"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

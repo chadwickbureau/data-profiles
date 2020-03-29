@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_Strohmayer_2"
+
+[[person.meta.citation]]
+title = "Redding Record Searchlight"
+date = "2019-12-11"
+url = "https://www.legacy.com/obituaries/redding/obituary.aspx?n=john-emery-strohmayer&pid=194682060"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Strohmayer"
+use = "John"
+given = "John Emery"
+
+[person.birth]
+date = "1946-10-13"
+place.country = "US"
+place.state = "SD"
+place.city = "Belle Fourche"
+
+[person.death]
+date = "2019-11-28"
+
+[[person.education]]
+school.name = "Center Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Ceres"
+
+[[person.education]]
+school.name = "University of the Pacific"
+school.type = "college"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202001_Castro"
+
+[[person.meta.citation]]
+title = "Hardesty Funeral Home"
+date = "2020-01-31"
+url = "https://www.hardestyfuneralhome.com/obituaries/John-Jack-Edward-Castro?obId=10733751#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Castro"
+use = "Jack"
+given = "John Edward"
+
+[person.birth]
+date = "1927-11-28"
+
+[person.death]
+date = "2020-01-26"
+
+[[person.education]]
+school.name = "Western HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DC"
+school.place.city = "Washington"

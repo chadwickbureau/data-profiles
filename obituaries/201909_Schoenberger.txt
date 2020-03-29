@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201909_Schoenberger"
+
+[[person.meta.citation]]
+title = "Doulin Newburgh Funeral Home"
+date = "2019-09-13"
+url = "https://www.doulinfh.com/obituaries/John-Schoenberger?obId=7215507#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Schoenberger"
+use = "John"
+given = "John Nash"
+
+[person.birth]
+date = "1937-07-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Cornwall"
+
+[person.death]
+date = "2019-09-11"
+
+[[person.education]]
+school.name = "Newburgh Free Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Newburgh"
+
+[[person.education]]
+school.name = "Manhattan College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

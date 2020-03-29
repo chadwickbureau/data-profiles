@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "Zawlocki_Anthony_John"
+
+[person.name]
+last = "Zawlocki"
+use = "Anthony"
+given = "Anthony John"
+
+[person.birth]
+date = "1916-09-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.death]
+date = "2011-10-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "185"
+ancestry = "Polish"
+
+[[person.resides]]
+dates = "1939"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+place.address = "1511 So. Main Street"
+
+
+[[person.education]]
+school.name = "St. Thomas High School"
+school.type = "secondary"
+dates = "/1935"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Polish National Alliance"
+team.caliber = "amateur"
+
+
+[[person.playing]]
+season = "1939"
+league.name = "Florida State League"
+splits.0.team.name = "Daytona Beach"
+totals.F_POS = "P"
+totals.B_G = "18"
+totals.B_AB = "33"
+totals.B_R = "3"
+totals.B_H = "3"
+totals.B_TB = "4"
+totals.B_2B = "1"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "3"
+totals.B_SB = "0"
+totals.B_AVG = ".091"
+totals.P_G = "18"
+totals.P_CG = "6"
+totals.P_IP = "90"
+totals.P_W = "7"
+totals.P_L = "4"
+totals.P_PCT = ".636"
+totals.P_H = "106"
+totals.P_BB = "29"
+totals.P_SO = "42"
+totals.P_R = "49"
+totals.P_ER = "39"
+totals.P_ERA = "3.90"

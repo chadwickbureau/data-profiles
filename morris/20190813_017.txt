@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20190813_017"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch 1915-08-21"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Craft"
+use = "Molly"
+given = "Molly"
+
+[[person.education]]
+school.name = "Portsmouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Portsmouth"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+description.position = "P"

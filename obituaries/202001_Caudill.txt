@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "202001_Caudill"
+
+[[person.meta.citation]]
+title = "Vernon Family Funeral Home"
+date = "2020-01-31"
+url = "https://www.vernonfh.com/obituary/charles-dudley-caudill/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Caudill"
+use = "Charles"
+given = "Charles Dudley"
+
+[person.birth]
+date = "1937-03-29"
+place.country = "US"
+place.state = "KY"
+place.city = "Morehead"
+
+[person.death]
+date = "2020-01-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Urbana"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "De Graff"
+
+[[person.education]]
+school.name = "Breckinridge Training School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Morehead"
+
+[[person.education]]
+school.name = "Morehead State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

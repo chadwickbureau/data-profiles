@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201901_Green"
+
+[[person.meta.citation]]
+title = "Detroit News"
+date = "2019-01-06"
+url = "https://www.detroitnews.com/story/sports/mlb/tigers/2019/01/06/former-detroit-tigers-outfielder-lenny-green-dies-age-86/2497327002/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Green"
+use = "Lenny"
+given = "Lenny"
+
+[person.death]
+date = "2019-01-06"
+
+[[person.education]]
+school.name = "Pershing HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"

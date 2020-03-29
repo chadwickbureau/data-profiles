@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201808_Pawenski"
+
+[[person.meta.citation]]
+title = "Geisen Funeral Home"
+date = "2018-08-05"
+url = "http://www.geisenfuneralhome.com/memsol.cgi?user_id=2126855"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-05"
+
+[person.name]
+last = "Pawenski"
+use = "Stan"
+given = "Stanley"
+nick = "Squeezer"
+
+[person.birth]
+date = "1929-12-24"
+
+[person.death]
+date = "2018-08-04"
+
+[person.burial]
+cemetery.name = "Chapel Lawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Schererville"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

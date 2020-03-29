@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201903_Fossen"
+
+[[person.meta.citation]]
+title = "Kalamazoo Gazette"
+date = "2019-04-21"
+url = "http://obits.mlive.com/obituaries/kalamazoo/obituary.aspx?n=manley-g-fossen-bud&pid=192268167"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Fossen"
+use = "Bud"
+given = "Manley G."
+
+[person.birth]
+date = "1928-07-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside"
+
+[person.death]
+date = "2019-03-20"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[[person.education]]
+school.name = "Glenwood City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Glenwood City"
+
+[[person.education]]
+school.name = "University of Wisconsin-River Falls"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201802_Takakura"
+
+[[person.meta.citation]]
+title = "GraveyardBaseball"
+date = "2018-09-14"
+url = "https://graveyardbaseball.blogspot.com/2018/02/report-nishitetsu-lion-teruyuki.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-14"
+
+[person.name]
+last = "Takakura"
+use = "Terayuki"
+given = "Terayuki"
+
+[person.death]
+date = "2018-02-12"
+place.country = "JP"
+place.city = "Fukuoka"

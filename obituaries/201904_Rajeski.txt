@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201904_Rajeski"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2019-04-14"
+url = "https://www.legacy.com/obituaries/sfgate/obituary.aspx?n=joseph-paul-rajeski&pid=192332331&fhid=14232"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Rajeski"
+use = "Joseph"
+given = "Joseph Paul"
+
+[person.birth]
+date = "1926-01-14"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-04-10"
+
+[[person.military]]
+country = "US"
+branch = "Army"

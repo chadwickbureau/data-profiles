@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201810_Fischer"
+
+[[person.meta.citation]]
+title = "mlb.com"
+date = "2018-10-31"
+url = "https://www.mlb.com/royals/news/royals-pitching-advisor-bill-fischer-dies/c-300041870"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Fischer"
+use = "Bill"
+given = "Bill"
+
+[person.death]
+date = "2018-10-30"
+place.country = "US"
+place.state = "IA"
+place.city = "Council Bluffs"

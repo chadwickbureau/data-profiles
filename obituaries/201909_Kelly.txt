@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201909_Kelly"
+
+[[person.meta.citation]]
+title = "Gillooly Funeral Home"
+date = "2019-09-03"
+url = "https://www.dignitymemorial.com/obituaries/norwood-ma/stephen-kelly-8841716"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-03"
+
+[person.name]
+last = "Kelly"
+use = "Mike"
+given = "Stephen E."
+
+[person.birth]
+date = "1927-12-07"
+
+[person.death]
+date = "2019-09-01"

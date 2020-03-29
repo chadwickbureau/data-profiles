@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_Colombo"
+
+[[person.meta.citation]]
+title = "Sun Chronicle"
+date = "2019-01-25"
+url = "https://www.legacy.com/obituaries/thesunchronicle/obituary.aspx?n=richard-m-colombo-richie&pid=191351567&fhid=15454"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Colombo"
+use = "Richie"
+given = "Richard M."
+
+[person.birth]
+date = "1929-02-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Brockton"
+
+[person.death]
+date = "2019-01-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Norton"
+
+[person.burial]
+cemetery.name = "St. Mary’s Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Mansfield"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

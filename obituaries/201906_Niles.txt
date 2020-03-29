@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201906_Niles"
+
+[[person.meta.citation]]
+title = "Chipman Funeral Home"
+date = "2019-06-10"
+url = "https://www.chipmanfuneralhome.ca/niles-harry-a-fredericton-nb/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-10"
+
+[person.name]
+last = "Niles"
+use = "Harry"
+given = "Harry A."
+
+[person.birth]
+date = "1936-06-26"
+place.country = "CA"
+place.state = "NB"
+place.city = "Fredericton"
+
+[person.death]
+date = "2019-06-07"
+place.country = "CA"
+place.state = "NB"
+place.city = "Fredericton"

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201912_McBee"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2019-12-16"
+url = "https://www.heritagebattlefield.com/tributes/George-McBee"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-16"
+
+[person.name]
+last = "McBee"
+use = "George"
+given = "George Riley"
+
+[person.birth]
+date = "1929-10-18"
+place.country = "US"
+place.state = "GA"
+place.city = "Chickamauga"
+
+[person.death]
+date = "2019-12-12"
+
+[person.burial]
+cemetery.name = "Forest Hills Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Forest Park"
+
+[[person.education]]
+school.name = "Chattanooga Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Flintstone"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "Adkins_Theo"
+
+[person.name]
+last = "Adkins"
+use = "Ted"
+given = "Theo"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-02-19"
+place.country = "US"
+place.state = "MS"
+place.city = "Greenville"
+
+[person.death]
+date = "2014-01-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Petaluma"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "71"
+weight = "175"
+
+[person.sameas]
+ssn = "572-30-5977"
+
+[[person.resides]]
+dates = "1955"
+place.country = "US"
+place.state = "CA"
+place.city = "Tuolumne"
+place.address = "Box 582"
+
+
+[[person.education]]
+school.name = "College of Pacific"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Stockton"
+
+
+[[person.military]]
+country = "US"
+dates = "1952/1953"

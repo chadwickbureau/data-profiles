@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Alotta_Phillip"
+
+[person.name]
+last = "Alotta"
+use = "Phillip"
+given = "Phillip"
+
+[person.birth]
+date = "1925-05-06"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1998-12-04"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"

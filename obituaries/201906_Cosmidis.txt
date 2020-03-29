@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201906_Cosmidis"
+
+[[person.meta.citation]]
+title = "Bright Funeral Home"
+date = "2019-07-07"
+url = "https://www.brightfunerals.com/tributes/Alex-Cosmidis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Cosmidis"
+use = "Alex"
+given = "Alex Nicholas"
+
+[person.birth]
+date = "1928-09-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Fayetteville"
+
+[person.death]
+date = "2019-06-26"
+
+[person.burial]
+cemetery.name = "Pine Forest Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Wake Forest"

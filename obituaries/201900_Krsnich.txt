@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201900_Krsnich"
+
+[[person.meta.citation]]
+title = "Wichita Eagle"
+date = "2019-02-16"
+url = "https://www.legacy.com/obituaries/kansas/obituary.aspx?n=rocky-krsnich&pid=191569154"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Krsnich"
+use = "Rocky"
+given = "Rocky"
+
+[person.birth]
+date = "1927-08-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2019"

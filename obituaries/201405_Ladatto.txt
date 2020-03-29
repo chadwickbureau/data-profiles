@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201405_Ladatto"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "2014-05-30"
+url = "http://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=Sammy-Ladatto&pid=171163141"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Ladatto"
+use = "Sammy"
+given = "Sammy Anthony"
+
+[person.birth]
+date = "1941-07-09"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.death]
+date = "2014-05-25"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.burial]
+cemetery.name = "Forest Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Shreveport"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Fair Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Shreveport"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"

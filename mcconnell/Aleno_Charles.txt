@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Aleno_Charles"
+
+[person.name]
+last = "Aleno"
+use = "Chuck"
+given = "Charles"
+
+[person.birth]
+date = "1917-02-19"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2003-02-10"
+place.country = "US"
+place.state = "FL"
+place.city = "DeLand"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73.5"
+weight = "215"

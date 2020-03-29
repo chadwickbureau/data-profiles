@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201911_Womack"
+
+[[person.meta.citation]]
+title = "Daly Leach Memorial Chapel"
+date = "2019-11-11"
+url = "https://www.dalyleachchapel.com/notices/Dallas-Womack"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-11"
+
+[person.name]
+last = "Womack"
+use = "Dallas"
+given = "Dallas"
+
+[person.birth]
+date = "1927-11-23"
+place.country = "US"
+place.state = "AR"
+place.city = "Guy"
+
+[person.death]
+date = "2019-11-03"
+place.country = "US"
+place.state = "MT"
+place.city = "Hamilton"
+
+[[person.education]]
+school.name = "Guy-Perkins High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Guy"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

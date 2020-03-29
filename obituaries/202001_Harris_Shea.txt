@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202001_Harris_Shea"
+
+[[person.meta.citation]]
+title = "Smith Funeral Home"
+date = "2020-01-12"
+url = "https://www.smithfhmantua.com/memorials/shea-matthew-harris/4070201/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Harris"
+use = "Shea"
+given = "Shea Matthew"
+
+[person.birth]
+date = "1984-08-28"
+
+[person.death]
+date = "2020-01-06"
+
+[person.burial]
+cemetery.name = "Eglington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Clarksboro"
+
+[[person.education]]
+school.name = "Washington Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Sewell"
+
+[[person.education]]
+school.name = "Gardner-Webb University"
+school.type = "college"

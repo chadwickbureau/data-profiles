@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201812_Camacho"
+
+[[person.meta.citation]]
+title = "Saunders-Dwyer Funeral Home"
+date = "2018-12-29"
+url = "https://www.saundersdwyer.com/ObituariesNB.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Camacho"
+use = "Joe"
+given = "Joseph Gomes"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-05-29"
+place.country = "US"
+place.state = "MA"
+place.city = "New Bedford"
+
+[person.death]
+date = "2018-12-27"
+place.country = "US"
+place.state = "MA"
+place.city = "Fairhaven"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Fairhaven"
+
+[[person.education]]
+school.name = "New Bedford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "New Bedford"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

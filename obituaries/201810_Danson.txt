@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201810_Danson"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-11-06"
+url = "https://www.dignitymemorial.com/obituaries/jacksonville-fl/john-danson-8035254"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11"
+
+[person.name]
+last = "Danson"
+use = "Danny"
+given = "John Elwyn"
+
+[person.birth]
+date = "1927-04-07"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.death]
+date = "2018-10-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.burial]
+cemetery.name = "San Mateo Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Jackson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Jacksonville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

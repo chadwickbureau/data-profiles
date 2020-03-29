@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201904_Wagner"
+
+[[person.meta.citation]]
+title = "Schantz Funeral Home"
+date = "2019-04-17"
+url = "https://www.schantzfh.com/obituary/bruce-wagner"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-17"
+
+[person.name]
+last = "Wagner"
+use = "Bruce"
+given = "Bruce C."
+
+[person.birth]
+date = "1931-09-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Emmaus"
+
+[person.death]
+date = "2019-04-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+
+[person.burial]
+cemetery.name = "Solomons United Church of Christ Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Macungie"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

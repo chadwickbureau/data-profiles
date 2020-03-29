@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20191215_005"
+
+[[person.meta.citation]]
+title = "Washington Times"
+date = "1913-05-04"
+pages = "18"
+
+[person.name]
+last = "Williams"
+use = "Rebel"
+given = "Rebel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Atlanta"
+team.league.name = "Southern Association"

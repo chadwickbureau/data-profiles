@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202003_Hammett"
+
+[[person.meta.citation]]
+title = "J. Henry Stuhr Funeral Home"
+date = "2020-03-10"
+url = "http://hosting-24912.tributes.com/obituary/show/Miles-Wood-Hammett-108264802"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Hammett"
+use = "Miles"
+given = "Miles Wood"
+
+[person.birth]
+date = "1925-07-15"
+place.country = "US"
+place.state = "SC"
+place.city = "Gaffney"
+
+[person.death]
+date = "2020-03-07"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

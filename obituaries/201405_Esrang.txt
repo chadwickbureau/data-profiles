@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201405_Esrang"
+
+[[person.meta.citation]]
+title = "Times News"
+date = "2014-05-27"
+url = "http://www.legacy.com/obituaries/tnonline/obituary.aspx?n=ronald-m-esrang&pid=171139651&fhid=9568&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-27"
+
+[person.name]
+last = "Esrang"
+use = "Ron"
+given = "Ronald Miller"
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2014-05-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Lehighton"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Jim Thorpe"
+
+[[person.education]]
+school.name = "Mauch Chunk HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Mauch Chunk"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

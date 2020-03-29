@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201407_Sell"
+
+[[person.meta.citation]]
+title = "Commercial News"
+date = "2014-07-22"
+url = "http://www.commercial-news.com/obituaries/x1927876808/Wesley-Elmer-Sell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "Sell"
+use = "Wes"
+given = "Wesley Elmer"
+
+[person.birth]
+date = "1928-11-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-07-20"
+place.country = "US"
+place.state = "IL"
+place.city = "Danville"
+
+[[person.education]]
+school.name = "Hirsch HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "University of Illinois"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201812_MacLeod"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-12-20"
+url = "https://www.dignitymemorial.com/obituaries/marblehead-ma/william-macleod-8086723"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "MacLeod"
+use = "Bill"
+given = "William Daniel"
+
+[person.birth]
+date = "1942-05-13"
+place.country = "US"
+place.state = "MA"
+place.city = "Gloucester"
+
+[person.death]
+date = "2018-12-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Marblehead"
+
+[[person.education]]
+school.name = "Gloucester HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Gloucester"

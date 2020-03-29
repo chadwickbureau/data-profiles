@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201901_Smay"
+
+[[person.meta.citation]]
+title = "Dimond Funeral Home"
+date = "2019-02-04"
+url = "https://www.dimondfuneralhome.com/obituaries/Kevin-Smay/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Smay"
+use = "Kevin"
+given = "Kevin J."
+
+[person.birth]
+date = "1957-12-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[person.death]
+date = "2019-01-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.burial]
+cemetery.name = "St. Michael Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Fryburg"
+
+[[person.education]]
+school.name = "Forest Hills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Sidman"
+
+[[person.education]]
+school.name = "University of Pittsburgh at Johnstown"
+school.type = "college"

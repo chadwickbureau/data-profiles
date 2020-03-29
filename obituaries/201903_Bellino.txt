@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201903_Bellino"
+
+[[person.meta.citation]]
+title = "Lane Funeral Home"
+date = "2019-04-03"
+url = "https://lanefuneral.com/book-of-memories/3785786/Bellino-Joseph/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-03"
+
+[person.name]
+last = "Bellino"
+use = "Joe"
+given = "Joseph M."
+
+[person.birth]
+date = "1938-03-13"
+place.country = "US"
+place.state = "MA"
+place.city = "Winchester"
+
+[person.death]
+date = "2019-03-27"
+
+[person.sameas]
+sr_nfl = "BellJo00"
+
+[[person.education]]
+school.name = "Winchester HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Winchester"
+
+[[person.education]]
+school.name = "US Naval Academy"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"

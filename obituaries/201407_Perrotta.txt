@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201407_Perrotta"
+
+[[person.meta.citation]]
+title = "Boston Herald"
+date = "2014-07-27"
+url = "http://www.legacy.com/obituaries/bostonherald/obituary.aspx?n=Anthony-Perrotta&pid=171873996"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "Perrotta"
+use = "Tony"
+given = "Anthony J."
+
+[person.birth]
+date = "1933-02-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2014-07-24"
+place.country = "US"
+place.state = "MA"
+place.city = "West Roxbury"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

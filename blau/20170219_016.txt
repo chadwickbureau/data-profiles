@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170219_016"
+
+[[person.meta.citation]]
+title = "TSN"
+date = "1911-04-22"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Chicago Inter Ocean"
+date = "1911-02-28"
+pages = "4"
+
+[person.name]
+last = "Ball"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Adrian"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"

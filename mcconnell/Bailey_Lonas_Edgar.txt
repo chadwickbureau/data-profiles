@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "Bailey_Lonas_Edgar"
+
+[person.name]
+last = "Bailey"
+use = "Ed"
+given = "Lonas Edgar"
+
+[person.birth]
+date = "1931-04-15"
+place.country = "US"
+place.state = "TN"
+place.city = "Strawberry Plains"
+
+[person.death]
+date = "2007-03-23"
+place.country = "US"
+place.state = "TN"
+place.city = "Knoxville"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "74"
+weight = "205"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bailey"
+person.name.use = "Jim"
+person.name.given = "Jim"
+
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201906_Sauer"
+
+[[person.meta.citation]]
+title = "St. Cloud Times"
+date = "2019-06-30"
+url = "https://www.legacy.com/obituaries/sctimes/obituary.aspx?n=thomas-p-sauer&pid=193271349"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-07"
+
+[person.name]
+last = "Sauer"
+use = "Tom"
+given = "Thomas P."
+
+[person.birth]
+date = "1928-09-22"
+place.country = "US"
+place.state = "MN"
+place.city = "Waite Park"
+
+[person.death]
+date = "2019-06-26"
+
+[person.burial]
+cemetery.name = "Fort Snelling National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[[person.education]]
+school.name = "Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Cloud"
+
+[[person.education]]
+school.name = "St. Cloud State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

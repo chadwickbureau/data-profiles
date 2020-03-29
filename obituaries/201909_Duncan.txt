@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201909_Duncan"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2019-09-07"
+url = "https://www.stltoday.com/sports/baseball/professional/chris-duncan-dies-at-sparked-cardinals-to-title-became-a/article_4730d7e6-71d1-5094-8fa2-7281ce6433e8.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-09"
+
+[person.name]
+last = "Duncan"
+use = "Chris"
+given = "Chris"
+
+[person.birth]
+date = "1981-05-05"
+
+[person.death]
+date = "2019-09-06"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"

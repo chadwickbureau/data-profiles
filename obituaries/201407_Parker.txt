@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201407_Parker"
+
+[[person.meta.citation]]
+title = "NWA Online"
+date = "2014-08-07"
+url = "http://www.nwaonline.com/news/2014/aug/07/state-sports-briefs-20140807/?sports-prep"
+
+[[person.meta.contributor]]
+name.last = "Worth"
+name.use = "Fred"
+email = "worthf@hsu.edu"
+date = "2014-08-07"
+
+[person.name]
+last = "Parker"
+use = "Clarence"
+given = "Clarence"
+nick = "Ace"
+
+[person.death]
+date = "2014-07-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Amarillo"
+
+[[person.education]]
+school.name = "Oklahoma A&M"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

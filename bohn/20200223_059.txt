@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_059"
+
+[[person.meta.citation]]
+title = "Valley City (ND) Times-Record"
+date = "1922-08-10"
+
+[person.name]
+last = "Brindza"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Aberdeen"
+team.league.name = "Dakota League"

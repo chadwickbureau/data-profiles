@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201409_Belcher"
+
+[[person.meta.citation]]
+title = "Rosewood-Kellum Funeral Home"
+date = "2019-11-12"
+url = "https://www.dignitymemorial.com/obituaries/virginia-beach-va/gene-belcher-6120262"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-12"
+
+[person.name]
+last = "Belcher"
+use = "Gene"
+given = "Dorcy Gene"
+
+[person.birth]
+date = "1932-05-06"
+place.country = "US"
+place.state = "VA"
+place.city = "Grundy"
+
+[person.death]
+date = "2014-09-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Moyock"
+
+[[person.education]]
+school.name = "Maury HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Norfolk"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

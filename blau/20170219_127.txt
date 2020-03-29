@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_127"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1928-09-10"
+pages = "21"
+
+[person.name]
+last = "Blessing"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Binghamton"
+team.league.name = "New York-Pennsylvania League"

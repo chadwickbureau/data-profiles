@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Bonura_Henry_John"
+
+[person.name]
+last = "Bonura"
+use = "Zeke"
+given = "Henry John"
+
+[person.birth]
+date = "1908-09-20"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "1987-03-09"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "210"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

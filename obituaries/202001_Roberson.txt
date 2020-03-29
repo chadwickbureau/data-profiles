@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202001_Roberson"
+
+[[person.meta.citation]]
+title = "Hill Funeral Home"
+date = "2020-01-15"
+url = "https://www.dignitymemorial.com/obituaries/grand-blanc-mi/marvin-roberson-8995205"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-15"
+
+[person.name]
+last = "Roberson"
+use = "Joe"
+given = "Marvin Joseph"
+
+[person.birth]
+date = "1935-09-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Flint"
+
+[person.death]
+date = "2020-01-13"
+
+[[person.education]]
+school.name = "Flint Northern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Flint"

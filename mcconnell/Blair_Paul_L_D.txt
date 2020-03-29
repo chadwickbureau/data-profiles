@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Blair_Paul_L_D"
+
+[person.name]
+last = "Blair"
+use = "Paul"
+given = "Paul L. D."
+
+[person.birth]
+date = "1944-02-01"
+place.country = "US"
+place.state = "OK"
+place.city = "Cushing"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "171"

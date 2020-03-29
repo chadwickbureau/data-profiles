@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "201901_160"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Abbott"
+use = "Spencer"
+given = "Spencer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"

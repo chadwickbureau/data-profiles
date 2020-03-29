@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201901_Enderle"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-01-21"
+url = "https://www.dignitymemorial.com/obituaries/scottsbluff-ne/william-enderle-8129159"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-21"
+
+[person.name]
+last = "Enderle"
+use = "Bill"
+given = "William Frederick"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-08-12"
+place.country = "US"
+place.state = "NE"
+place.city = "Henderson"
+
+[person.death]
+date = "2019-01-15"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Cairo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Cairo"

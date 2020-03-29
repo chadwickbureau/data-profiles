@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201409_Tietz"
+
+[[person.meta.citation]]
+title = "Leader-Telegram"
+date = "2014-09-21"
+url = "http://www.leadertelegram.com/people/obituaries/article_5923c412-420c-11e4-843e-c32e4942b1f6.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-22"
+
+[person.name]
+last = "Tietz"
+use = "Harry"
+given = "Harrison E."
+
+[person.birth]
+date = "1920-03-11"
+place.country = "US"
+place.state = "WI"
+place.city = "Sand Creek"
+
+[person.death]
+date = "2014-09-19"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.burial]
+cemetery.name = "Lakeview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Eau Claire"
+
+[[person.education]]
+school.name = "Chippewa Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Chippewa Falls"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,13 @@
+[[person]]
+
+[person.meta]
+key = "Askland_Frank"
+
+[person.name]
+last = "Askland"
+use = "Frank"
+given = "Frank"
+
+[person.description]
+bats = "L"
+note = [ "Hit 4 home runs in a game against Wessington Springs on August 31, 1920", "Broke leg in second game of 1923 season (May 17) and this ended career" ]

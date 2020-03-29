@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Blaylock_Marvin_Edward"
+
+[person.name]
+last = "Blaylock"
+use = "Marvin"
+given = "Marvin Edward"
+
+[person.birth]
+date = "1929-09-30"
+place.country = "US"
+place.state = "AR"
+place.city = "Fort Smith"
+
+[person.death]
+date = "1993-10-23"
+place.country = "US"
+place.state = "AR"
+place.city = "Conway"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73.5"
+weight = "175"

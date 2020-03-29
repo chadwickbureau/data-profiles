@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201909_Lagano"
+
+[[person.meta.citation]]
+title = "Ocala Star-Banner"
+date = "2019-10-09"
+url = "https://www.legacy.com/obituaries/ocala/obituary.aspx?n=albert-lagano&pid=194111901"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-09"
+
+[person.name]
+last = "Lagano"
+use = "Wimpy"
+given = "Albert J."
+
+[person.birth]
+date = "1933-01-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Gainesville"
+
+[person.death]
+date = "2019-09-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Fruitland Park"
+
+[[person.education]]
+school.name = "Gulf HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "New Port Richey"
+
+[[person.education]]
+school.name = "University of Florida"
+school.type = "college"

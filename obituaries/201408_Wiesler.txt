@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201408_Wiesler"
+
+[[person.meta.citation]]
+title = "Hutchens Mortuary"
+date = "2014-08-12"
+url = "http://www.hutchensmortuary.com/obituaries/Robert-Wiesler/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-12"
+
+[person.name]
+last = "Wiesler"
+use = "Bob"
+given = "Robert G."
+
+[person.birth]
+date = "1930-08-13"
+
+[person.death]
+date = "2014-08-10"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"

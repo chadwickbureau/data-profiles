@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201407_Grammas"
+
+[[person.meta.citation]]
+title = "Birmingham News"
+date = "2014-07-31"
+url = "http://obits.al.com/obituaries/birmingham/obituary.aspx?n=Cameron-Grammas&pid=171929099"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-02"
+
+[person.name]
+last = "Grammas"
+use = "Pete"
+given = "Cameron Peter"
+
+[person.birth]
+date = "1924-12-24"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.death]
+date = "2014-07-31"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Grammas"
+person.name.use = "Alex"
+person.name.given = "Alex"
+
+
+[[person.education]]
+school.name = "Phillips HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Birmingham"
+
+[[person.education]]
+school.name = "Mississippi State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

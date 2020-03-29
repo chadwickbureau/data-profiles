@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201808_Borowy"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2018-08-06"
+url = "http://www.baltimoresun.com/news/obituaries/bs-md-ob-joseph-borowy-20180806-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-08"
+
+[person.name]
+last = "Borowy"
+use = "Joseph"
+given = "Joseph L."
+
+[person.birth]
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2018-08-04"
+place.country = "US"
+place.state = "MD"
+place.city = "Towson"
+
+[[person.education]]
+school.name = "Patterson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

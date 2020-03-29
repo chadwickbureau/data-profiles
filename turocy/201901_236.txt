@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201901_236"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1912-05-09"
+pages = "12"
+
+[person.name]
+last = "Corbin"
+use = "Biff"
+given = "Biff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Dallas"
+team.league.name = "Texas League"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201409_Wilson"
+
+[[person.meta.citation]]
+title = "Alliance Review"
+date = "2014-09-30"
+url = "http://www.the-review.com/obituaries/2014/09/29/george-junior-wilson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-30"
+
+[person.name]
+last = "Wilson"
+use = "George"
+given = "George Junior"
+
+[person.birth]
+date = "1923-12-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Sebring"
+
+[person.death]
+date = "2014-09-27"
+
+[[person.education]]
+school.name = "Sebring HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Sebring"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

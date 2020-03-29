@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201408_Hoggarth"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "2014-09-28"
+url = "http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=Jimmy-Hoggarth&pid=172600746"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-30"
+
+[person.name]
+last = "Hoggarth"
+use = "Jimmy"
+given = "Jimmy Ray"
+
+[person.death]
+date = "2014-08-13"
+
+[[person.education]]
+school.name = "DuPont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Old Hickory"
+
+[[person.education]]
+school.name = "Oglethorpe University"
+school.type = "college"

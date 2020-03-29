@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202003_Marinko"
+
+[[person.meta.citation]]
+title = "Adzima Funeral Home"
+date = "2020-03-11"
+url = "https://www.adzimafuneralhome.com/obituary/michael-marinko"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-11"
+
+[person.name]
+last = "Marinko"
+use = "Michael"
+given = "Michael G."
+
+[person.birth]
+date = "1932-02-22"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.death]
+date = "2020-03-08"
+place.country = "US"
+place.state = "CT"
+place.city = "West Haven"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

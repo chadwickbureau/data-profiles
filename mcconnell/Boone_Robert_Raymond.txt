@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Boone_Robert_Raymond"
+
+[person.name]
+last = "Boone"
+use = "Robert"
+given = "Robert Raymond"
+
+[person.birth]
+date = "1947-11-19"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "202"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Boone"
+person.name.use = "Ray"
+person.name.given = "Ray"
+
+[[person.relation]]
+relationship = "father of"
+person.name.last = "Boone"
+person.name.use = "Aaron"
+person.name.given = "Aaron"
+
+[[person.relation]]
+relationship = "father of"
+person.name.last = "Boone"
+person.name.use = "Bret"
+person.name.given = "Bret"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190813_021"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-04-22"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Malcomson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Southern Michigan League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "(Carolina"
+team.name = "Association)"

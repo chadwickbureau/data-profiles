@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201810_Stille"
+
+[[person.meta.citation]]
+title = "Farber & Otteman Funeral Home"
+date = "2018-11-05"
+url = "http://www.farberotteman.com/obituary.php?view=1069"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-05"
+
+[person.name]
+last = "Stille"
+use = "Marvin"
+given = "Marvin A."
+
+[person.birth]
+date = "1930-02-07"
+place.country = "US"
+place.state = "IA"
+place.city = "Schaller"
+
+[person.death]
+date = "2018-10-28"
+place.country = "US"
+place.state = "IA"
+place.city = "Fort Dodge"
+
+[[person.education]]
+school.name = "Hayes Consolidated HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Storm Lake"
+
+[[person.education]]
+school.name = "Buena Vista University"
+school.type = "college"

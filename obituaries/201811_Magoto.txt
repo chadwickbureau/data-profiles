@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201811_Magoto"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-11-12"
+url = "https://www.dignitymemorial.com/obituaries/versailles-oh/david-magoto-8049009"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-12"
+
+[person.name]
+last = "Magoto"
+use = "Dave"
+given = "David C."
+
+[person.birth]
+date = "1927-12-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Versailles"
+
+[person.death]
+date = "2018-11-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Versailles"
+
+[person.burial]
+cemetery.name = "St. Valbert Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Versailles"
+
+[[person.education]]
+school.name = "Versailles HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Versailles"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

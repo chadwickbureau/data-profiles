@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170219_137"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Rapp"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+description.throws = "L"

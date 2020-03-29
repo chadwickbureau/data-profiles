@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201910_Lincoln"
+
+[[person.meta.citation]]
+title = "Langeland Family Funeral Home"
+date = "2019-10-20"
+url = "https://www.langelands.com/notices/Alan-Lincoln"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Lincoln"
+use = "Al"
+given = "Alan Robert"
+
+[person.birth]
+date = "1928-08-07"
+place.country = "US"
+place.state = "MI"
+place.city = "Kalamazoo"
+
+[person.death]
+date = "2019-10-15"
+
+[person.burial]
+cemetery.name = "Mount Ever-Rest Memorial Park South"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Kalamazoo"
+
+[[person.education]]
+school.name = "Kalamazoo Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Kalamazoo"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

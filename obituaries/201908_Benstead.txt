@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201908_Benstead"
+
+[[person.meta.citation]]
+title = "Monroe Funeral Home"
+date = "2019-08-19"
+url = "https://delavanfuneralhome.com/obits/dr-wayne-g-benstead"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-19"
+
+[person.name]
+last = "Benstead"
+use = "Wayne"
+given = "Wayne G."
+
+[person.birth]
+date = "1932-08-29"
+place.country = "US"
+place.state = "WI"
+place.city = "Beloit"
+
+[person.death]
+date = "2019-08-10"
+place.country = "US"
+place.state = "WI"
+place.city = "Delavan"
+
+[person.burial]
+cemetery.name = "Clinton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Clinton"
+
+[[person.education]]
+school.name = "Delavan-Darien HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Delavan"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201908_Getter"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2019-08-29"
+url = "https://www.dallasnews.com/opinion/commentary/2019/08/29/farewell-to-minor-league-baseball-great-dick-getter-one-of-the-last-dallas-eagles/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Getter"
+use = "Dick"
+given = "Dick"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Bethlehem"
+
+[person.death]
+date = "2019-08-24"

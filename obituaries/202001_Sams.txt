@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202001_Sams"
+
+[[person.meta.citation]]
+title = "Observer-Reporter"
+date = "2020-01-25"
+url = "https://www.legacy.com/obituaries/observer-reporter/obituary.aspx?n=william-sams&pid=195157239"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-25"
+
+[person.name]
+last = "Sams"
+use = "Bill"
+given = "William"
+
+[person.birth]
+date = "1923-07-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Washington"
+
+[person.death]
+date = "2020-01-08"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "McMurray"
+
+[[person.education]]
+school.name = "Trinity HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Washington"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

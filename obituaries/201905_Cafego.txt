@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201905_Cafego"
+
+[[person.meta.citation]]
+title = "Sellars Funeral Home"
+date = "2019-05-12"
+url = "https://sellarsfuneralservices.com/tribute/details/7935/Gary-Cafego/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-12"
+
+[person.name]
+last = "Cafego"
+use = "Gary"
+given = "Gary"
+
+[person.birth]
+date = "1944-10-31"
+place.country = "US"
+place.state = "AR"
+place.city = "Fayetteville"
+
+[person.death]
+date = "2019-05-09"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Nashville"

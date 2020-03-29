@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "Zaug_Kevin_M"
+
+[person.name]
+last = "Zaug"
+use = "Kevin"
+given = "Kevin M."
+
+[person.birth]
+date = "1978-12-15"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2012-12-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Carmel"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "190"
+
+[[person.playing]]
+season = "2000"
+league.name = "Arizona League"
+splits.0.team.name = "Tucson White Sox"
+totals.P_G = "22"
+totals.P_CG = "0"
+totals.P_IP = "46.2"
+totals.P_W = "3"
+totals.P_L = "6"
+totals.P_PCT = ".333"
+totals.P_H = "58"
+totals.P_BB = "26"
+totals.P_SO = "29"
+totals.P_R = "41"
+totals.P_ER = "31"
+totals.P_ERA = "5.98"
+
+
+[[person.transaction]]
+date = "2012-06-14"
+type = "signed"
+join.name = "Chicago"
+join.league.name = "American"

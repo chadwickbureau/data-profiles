@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201904_Campise"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-04-21"
+url = "https://www.dignitymemorial.com/obituaries/bryan-tx/joe-campise-8252693"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Campise"
+use = "Joe"
+given = "Joe S."
+suffix = "Jr."
+
+[person.birth]
+date = "1938-08-17"
+
+[person.death]
+date = "2019-04-17"
+
+[person.burial]
+cemetery.name = "Aggie Field of Honor Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "College Station"
+
+[[person.education]]
+school.name = "Stephen F. Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Bryan"
+
+[[person.education]]
+school.name = "Sam Houston State University"
+school.type = "college"

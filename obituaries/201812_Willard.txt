@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201812_Willard"
+
+[[person.meta.citation]]
+title = "Richmond.com"
+date = "2018-12-16"
+url = "https://www.richmond.com/obituaries/willard-stanley/article_95160a79-d748-5053-8be8-9216704b4587.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-03"
+
+[person.name]
+last = "Willard"
+use = "Joe"
+given = "Stanley C."
+suffix = "Jr."
+
+[person.death]
+date = "2018-12-14"

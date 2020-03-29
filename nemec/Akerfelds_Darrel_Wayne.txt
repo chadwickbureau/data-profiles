@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "Akerfelds_Darrel_Wayne"
+
+[person.name]
+last = "Akerfelds"
+use = "Darrel"
+given = "Darrel Wayne"
+
+[person.birth]
+date = "1962-06-12"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+[person.death]
+date = "2012-06-24"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "210"
+note = [ "Was a San Diego Padres coach at the time of his death" ]
+
+[person.sameas]
+ssn = "522-11-2035"
+
+[[person.resides]]
+dates = "2003"
+place.country = "US"
+place.state = "CO"
+place.city = "Aurora"
+place.address = "4136 So. Mobile Circle #D"
+place.zip = "80013"
+
+
+[[person.education]]
+school.name = "Columbine High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Littleton"
+dates = "/1980"
+degree = "graduated"
+
+
+[[person.transaction]]
+date = "1983-06"
+type = "drafted"
+join.name = "Seattle"
+join.league.name = "American"
+
+[[person.transaction]]
+date = "1983-06-11"
+type = "signed"
+join.name = "Seattle"
+join.league.name = "American"
+signers.0.name.last = "Malinoff"
+signers.0.name.use = "Jeff"
+signers.0.name.given = "Jeff"

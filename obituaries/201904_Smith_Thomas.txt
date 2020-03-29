@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201904_Smith_Thomas"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-08-04"
+url = "https://www.dignitymemorial.com/obituaries/omaha-ne/thomas-smith-8266993"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Smith"
+use = "Tom"
+given = "Thomas Jefferson"
+
+[person.birth]
+date = "1924-03-19"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.death]
+date = "2019-04-28"
+
+[[person.education]]
+school.name = "Omaha South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Omaha"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

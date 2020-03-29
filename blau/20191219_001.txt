@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20191219_001"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1917-03-26"
+pages = "10"
+
+[person.name]
+last = "Parker"
+use = "Clarence"
+given = "Clarence"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "NJ"
+place.city = "Beach Haven"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"

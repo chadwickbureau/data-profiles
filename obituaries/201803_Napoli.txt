@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201803_Napoli"
+
+[[person.meta.citation]]
+title = "Greenwood Funeral Home"
+date = "2018-07-17"
+url = "http://www.greenwoodfuneralhomes.com/obituaries/Michael-Napoli/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Napoli"
+use = "Mike"
+given = "Michael Angelo"
+
+[person.birth]
+date = "1932-03-06"
+
+[person.death]
+date = "2018-03-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[[person.military]]
+country = "US"
+branch = "Army"

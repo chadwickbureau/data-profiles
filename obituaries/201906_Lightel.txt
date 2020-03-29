@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201906_Lightel"
+
+[[person.meta.citation]]
+title = "Columbia Basin Herald"
+date = "2019-06-25"
+url = "https://www.columbiabasinherald.com/obituaries/20190625/alvin_robert_bob_lightel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-03"
+
+[person.name]
+last = "Lightel"
+use = "Bob"
+given = "Alvin Robert"
+
+[person.birth]
+date = "1937-05-08"
+place.country = "US"
+place.state = "WA"
+place.city = "Wenatchee"
+
+[person.death]
+date = "2019-06-19"
+place.country = "US"
+place.state = "WA"
+place.city = "Moses Lake"
+
+[[person.military]]
+country = "US"
+branch = "Army"

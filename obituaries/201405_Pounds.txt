@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201405_Pounds"
+
+[[person.meta.citation]]
+title = "EasyFHweb.com"
+date = "2014-05-17"
+url = "http://easyfhweb.com/restinpeace.aspx?MemberId=134487&MName=Ed Bo Pounds&FLVId="
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-17"
+
+[person.name]
+last = "Pounds"
+use = "Ed"
+given = "Ed"
+nick = "Bo"
+
+[person.birth]
+date = "1936-05-10"
+
+[person.death]
+date = "2014-05-16"
+
+[person.burial]
+cemetery.name = "Kennesaw Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Marietta"
+
+[[person.education]]
+school.name = "Academy of Richmond County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Augusta"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

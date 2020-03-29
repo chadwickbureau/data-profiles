@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201408_Brechtel"
+
+[[person.meta.citation]]
+title = "Ridgway Record"
+date = "2014-09-03"
+url = "http://www.ridgwayrecord.com/content/wayne-c-brechtel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-16"
+
+[person.name]
+last = "Brechtel"
+use = "Wayne"
+given = "Wayne C."
+
+[person.birth]
+date = "1949-03-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Ridgway"
+
+[person.death]
+date = "2014-08-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnsonburg"
+
+[person.burial]
+cemetery.name = "Holy Rosary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Johnsonburg"
+
+[[person.education]]
+school.name = "Johnsonburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Johnsonburg"

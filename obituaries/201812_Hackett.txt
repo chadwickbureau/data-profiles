@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201812_Hackett"
+
+[[person.meta.citation]]
+title = "Fayetteville Observer"
+date = "2018-12-15"
+url = "https://www.legacy.com/obituaries/fayettevilleobserver/obituary.aspx?n=roger-floyd-hackett&pid=190996106"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hackett"
+use = "Roger"
+given = "Roger Floyd"
+
+[person.death]
+date = "2018-12-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Fayetteville"

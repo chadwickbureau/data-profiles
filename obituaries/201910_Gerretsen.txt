@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201910_Gerretsen"
+
+[[person.meta.citation]]
+title = "Naples Daily News"
+date = "2019-11-12"
+url = "https://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=gerret-gerretsen-john&pid=194421613"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-12"
+
+[person.name]
+last = "Gerretsen"
+use = "John"
+given = "Gerret John"
+
+[person.birth]
+date = "1925-07-12"
+place.country = "US"
+place.state = "NY"
+place.city = "Queens"
+
+[person.death]
+date = "2019-10-31"
+
+[[person.education]]
+school.name = "John Adams HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Queens"
+
+[[person.education]]
+school.name = "Wagner College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

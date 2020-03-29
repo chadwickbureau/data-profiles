@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201806_Sylvester"
+
+[[person.meta.citation]]
+title = "Lownes Family Funeral Home"
+date = "2018-07-08"
+url = "https://lownes.com/tribute/details/2198/Frank-Sylvester/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Sylvester"
+use = "Frank"
+given = "Frank J."
+nick = "Rail"
+
+[person.birth]
+date = "1933"
+place.country = "US"
+place.state = "PA"
+place.city = "Plymouth Township"
+
+[person.death]
+date = "2018-06-30"
+place.country = "US"
+place.state = "PA"
+place.city = "Lafayette Hill"
+
+[[person.education]]
+school.name = "Norristown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Norristown"
+
+[[person.education]]
+school.name = "Temple"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

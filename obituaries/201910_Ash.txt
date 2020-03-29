@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201910_Ash"
+
+[[person.meta.citation]]
+title = "Ridout's Valley Chapel"
+date = "2019-10-09"
+url = "https://www.dignitymemorial.com/obituaries/homewood-al/george-bill-ash-8883952"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-09"
+
+[person.name]
+last = "Ash"
+use = "Bill"
+given = "George William"
+
+[person.birth]
+date = "1929-12-25"
+
+[person.death]
+date = "2019-10-07"
+
+[person.burial]
+cemetery.name = "Elmwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Birmingham"
+
+[[person.education]]
+school.name = "Samford University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

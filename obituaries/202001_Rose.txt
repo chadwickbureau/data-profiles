@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202001_Rose"
+
+[[person.meta.citation]]
+title = "McEwen Funeral Home of Monroe"
+date = "2020-01-13"
+url = "https://www.dignitymemorial.com/obituaries/monroe-nc/george-rose-8992854"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-13"
+
+[person.name]
+last = "Rose"
+use = "George"
+given = "George Alvin"
+suffix = "Sr."
+nick = "Porky"
+
+[person.birth]
+date = "1930-07-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Monroe"
+
+[person.death]
+date = "2020-01-10"
+
+[person.burial]
+cemetery.name = "Lakeland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Monroe"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201901_Viola_2"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-01-09"
+url = "https://www.dignitymemorial.com/obituaries/port-st-lucie-fl/emilio-viola-8110458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-09"
+
+[person.name]
+last = "Viola"
+use = "Emilio"
+given = "Emilio"
+
+[person.birth]
+date = "1937-06-04"
+
+[person.death]
+date = "2019-01-04"

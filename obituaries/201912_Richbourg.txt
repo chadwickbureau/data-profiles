@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201912_Richbourg"
+
+[[person.meta.citation]]
+title = "Stewart Family Funeral"
+date = "2020-01-03"
+url = "https://www.stewartfamilyfuneral.com/obituaries/Vincent-Richbourg/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-03"
+
+[person.name]
+last = "Richbourg"
+use = "Vince"
+given = "Vincent J."
+
+[person.birth]
+date = "1939-03-23"
+place.country = "US"
+place.state = "TX"
+place.city = "Tyler"
+
+[person.death]
+date = "2019-12-30"
+
+[person.burial]
+cemetery.name = "Cathedral in the Pines Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Tyler"
+
+[[person.education]]
+school.name = "St. Edward's University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

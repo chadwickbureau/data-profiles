@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201309_Ketcher"
+
+[[person.meta.citation]]
+title = "Roberts-Reed-Culver Funeral Home"
+date = "2019-11-14"
+url = "https://stilwell.robertsreedculverfuneraldirectors.com/notices/Michael-Ketcher"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-14"
+
+[person.name]
+last = "Ketcher"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1948-09-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Tahlequah"
+
+[person.death]
+date = "2013-09-06"
+
+[person.burial]
+cemetery.name = "Tyler Spring Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Stilwell"
+
+[[person.education]]
+school.name = "Stilwell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Stilwell"
+
+[[person.education]]
+school.name = "Bacone College"
+school.type = "college"

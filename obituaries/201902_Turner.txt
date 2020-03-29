@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201902_Turner"
+
+[[person.meta.citation]]
+title = "Rose and Quesenberry Funeral Home"
+date = "2019-02-11"
+url = "https://www.roseandquesenberry.net/obituary/jack-turner"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-11"
+
+[person.name]
+last = "Turner"
+use = "Jack"
+given = "Jack Wesley"
+
+[person.birth]
+date = "1926-02-23"
+place.country = "US"
+place.state = "AL"
+place.city = "Palos"
+
+[person.death]
+date = "2019-02-05"
+
+[person.burial]
+cemetery.name = "Blue Ridge Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Prosperity"
+
+[[person.education]]
+school.name = "Woodrow Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Beckley"
+
+[[person.education]]
+school.name = "West Virginia University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

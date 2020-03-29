@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201409_Polasky"
+
+[[person.meta.citation]]
+title = "McLaughlin Funeral Home"
+date = "2014-09-03"
+url = "http://www.mclaughlinfuneralhome.net/obituary_entry.php?entry=http://www.enduringmemories.com/store/199/-1/7/obituary_1541900015713.txt.php&list=http://www.enduringmemories.com/store/199/-1/5/rem_book_entries_3241.php&action=http://www.enduringmemories.com/edumem/remembranceBookEntrySubmitEntryAction.do?cid=199&oid=3241"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-08"
+
+[person.name]
+last = "Polasky"
+use = "George"
+given = "George L."
+
+[person.birth]
+date = "1917-10-14"
+
+[person.death]
+date = "2014-09-03"
+place.country = "US"
+place.state = "NJ"
+place.city = "Allenwood"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "North Arlington"
+
+[[person.education]]
+school.name = "Dickinson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Jersey City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

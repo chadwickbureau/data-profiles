@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190531_001"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader 1915-06-23"
+pages = "14"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kelly"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "New York"
+team.league.name = "American League"

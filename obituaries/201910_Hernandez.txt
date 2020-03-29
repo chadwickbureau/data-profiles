@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201910_Hernandez"
+
+[[person.meta.citation]]
+title = "TribLive.com"
+date = "2019-10-16"
+url = "https://triblive.com/sports/ex-pirates-ss-jackie-hernandez-member-of-1971-world-series-champs-dies/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-16"
+
+[person.name]
+last = "Hernandez"
+use = "Jackie"
+given = "Jackie"
+
+[person.birth]
+place.country = "CU"
+place.city = "Central Tinguaro"
+
+[person.death]
+date = "2019-10-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"

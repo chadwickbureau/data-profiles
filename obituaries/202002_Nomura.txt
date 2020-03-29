@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202002_Nomura"
+
+[[person.meta.citation]]
+title = "Japan News"
+date = "2020-02-13"
+url = "https://the-japan-news.com/news/article/0006348470"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Nomura"
+use = "Katsuya"
+given = "Katsuya"
+
+[person.death]
+date = "2020-02-11"
+place.country = "JP"
+place.city = "Tokyo"
+
+[[person.education]]
+school.name = "Mineyama HS"
+school.type = "secondary"
+school.place.country = "JP"
+school.place.city = "Kyoto"

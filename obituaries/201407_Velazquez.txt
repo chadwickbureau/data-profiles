@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201407_Velazquez"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2014-08-06"
+url = "http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=nestor-velazquez&pid=171998617&fhid=29515&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-06"
+
+[person.name]
+last = "Velazquez"
+use = "Nestor"
+given = "Nestor"
+nick = "Goose"
+
+[person.death]
+date = "2014-07-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201805_Timmerman"
+
+[[person.meta.citation]]
+title = "Summersett Funeral Home"
+date = "2018-06-24"
+url = "http://www.summersettfuneralhome.com/obituaries/George-Timmerman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-24"
+
+[person.name]
+last = "Timmerman"
+use = "Ralph"
+given = "George Ralph"
+
+[person.birth]
+date = "1940-09-02"
+place.country = "US"
+place.state = "SC"
+place.city = "Saluda"
+
+[person.death]
+date = "2018-05-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Kingwood"
+
+[person.burial]
+cemetery.name = "Salisbury National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Salisbury"
+
+[[person.military]]
+country = "US"
+branch = "Army"

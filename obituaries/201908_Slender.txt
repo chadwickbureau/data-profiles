@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201908_Slender"
+
+[[person.meta.citation]]
+title = "Press Democrat"
+date = "2019-09-07"
+url = "https://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=george-dewey-slender&pid=193833513"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Slender"
+use = "George"
+given = "George Dewey"
+
+[person.death]
+date = "2019-08-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Rancho Santa Fe"
+
+[person.burial]
+cemetery.name = "Fairhaven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Santa Ana"
+
+[[person.education]]
+school.name = "Santa Rosa Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Oregon"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

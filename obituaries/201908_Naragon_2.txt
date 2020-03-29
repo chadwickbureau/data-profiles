@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201908_Naragon_2"
+
+[[person.meta.citation]]
+title = "Campfield-Hickman-Collier Funeral Home"
+date = "2019-09-04"
+url = "https://www.campfield-hickman-collier.com/notices/Harold-Naragon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-04"
+
+[person.name]
+last = "Naragon"
+use = "Hal"
+given = "Harold Richard"
+
+[person.birth]
+date = "1928-10-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.death]
+date = "2019-08-31"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Akron"
+
+[[person.education]]
+school.name = "Barberton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Barberton"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

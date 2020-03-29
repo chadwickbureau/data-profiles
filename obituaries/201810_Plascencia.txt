@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201810_Plascencia"
+
+[[person.meta.citation]]
+title = "milb.com"
+date = "2018-11-30"
+url = "https://www.milb.com/mexican/news/condolencias-a-la-familia-de-obed-plascencia/c-296906654"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Plascencia"
+use = "Obed"
+given = "Obed"
+matrilineal = "Verdugo"
+nick = "Gordo de Oro"
+
+[person.birth]
+date = "1944-10-19"
+place.country = "MX"
+place.state = "Baja California Sur"
+place.city = "Santa Rosalia"
+
+[person.death]
+date = "2018-10-02"
+place.country = "MX"
+place.state = "Sonora"
+place.city = "Hermosillo"

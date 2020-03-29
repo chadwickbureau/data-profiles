@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201407_Newton"
+
+[[person.meta.citation]]
+title = "Inland Valley Daily Bulletin"
+date = "2014-08-06"
+url = "http://www.legacy.com/obituaries/ivdailybulletin/obituary.aspx?n=Marty-Newton&pid=171996064"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-06"
+
+[person.name]
+last = "Newton"
+use = "Marty"
+given = "Marty B."
+
+[person.birth]
+date = "1964-12-01"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[person.death]
+date = "2014-07-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Calimesa"

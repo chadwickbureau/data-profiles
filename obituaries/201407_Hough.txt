@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201407_Hough"
+
+[[person.meta.citation]]
+title = "Waco Tribune"
+date = "2014-07-24"
+url = "http://www.wacotrib.com/obituaries/hough-percy-l/article_ccf587f7-a55a-5e7c-be33-fe36b906299f.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "Hough"
+use = "Percy"
+given = "Percy Lamar"
+
+[person.birth]
+date = "1929-07-17"
+place.country = "US"
+place.state = "NC"
+place.city = "Wadesboro"
+
+[person.death]
+date = "2014-07-19"
+
+[person.burial]
+cemetery.name = "Bosqueville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Waco"
+
+[[person.education]]
+school.name = "Waco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Waco"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

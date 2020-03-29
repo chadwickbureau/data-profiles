@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201810_Morrell"
+
+[[person.meta.citation]]
+title = "Russon Mortuary"
+date = "2018-10-23"
+url = "https://www.russonmortuary.com/notices/McRaeMac-Morrell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-23"
+
+[person.name]
+last = "Morrell"
+use = "Mac"
+given = "McRae W."
+
+[person.birth]
+date = "1935-05-06"
+place.country = "US"
+place.state = "WY"
+place.city = "Lovell"
+
+[person.death]
+date = "2018-10-18"
+
+[person.burial]
+cemetery.name = "Bountiful City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Bountiful"
+
+[[person.education]]
+school.name = "West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Salt Lake City"

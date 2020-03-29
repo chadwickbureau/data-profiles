@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Eberle"
+
+[[person.meta.citation]]
+title = "Claremont Courier"
+date = "2014-08-26"
+url = "https://www.claremont-courier.com/articles/obituaries/t12706-eberle"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Eberle"
+use = "Ray"
+given = "Raymond Paul"
+
+[person.birth]
+date = "1941-04-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2014-08-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Azusa"
+
+[[person.education]]
+school.name = "St. Joseph's Collegiate Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Tonawanda"

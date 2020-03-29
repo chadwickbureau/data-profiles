@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_060"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Smith"
+use = "Cam"
+given = "Cam"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"

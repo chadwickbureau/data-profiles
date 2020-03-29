@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201902_Mann"
+
+[[person.meta.citation]]
+title = "Holt Funeral Home"
+date = "2019-05-27"
+url = "https://www.holtfh.com/obituary/george-mann"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Mann"
+use = "George"
+given = "George Williamson"
+
+[person.birth]
+date = "1934-09-23"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2019-02-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Boerne"
+
+[[person.education]]
+school.name = "Miami University"
+school.type = "college"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201807_Williamson"
+
+[[person.meta.citation]]
+title = "The Progress-Index"
+date = "2018-07-25"
+url = "http://www.legacy.com/obituaries/progress-index/obituary.aspx?n=james-clyde-williamson&pid=189677883&fhid=31873"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-25"
+
+[person.name]
+last = "Williamson"
+use = "James"
+given = "James Clyde"
+suffix = "Jr."
+nick = "Wimpy"
+
+[person.death]
+date = "2018-07-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Hopewell"
+
+[[person.education]]
+school.name = "Hopewell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Hopewell"
+
+[[person.education]]
+school.name = "University of Richmond"
+school.type = "college"

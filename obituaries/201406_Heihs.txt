@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201406_Heihs"
+
+[[person.meta.citation]]
+title = "Peoria Journal Star"
+date = "2014-06-18"
+url = "http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=richard-f-heihs&pid=171382632&fhid=17635&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-19"
+
+[person.name]
+last = "Heihs"
+use = "Dick"
+given = "Richard F."
+
+[person.birth]
+date = "1933-02-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Pekin"
+
+[person.death]
+date = "2014-06-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+[[person.education]]
+school.name = "Pekin Community HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Pekin"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Bowen_Ronald_Clay"
+
+[person.name]
+last = "Bowen"
+use = "Ronald"
+given = "Ronald Clay"
+
+[person.birth]
+date = "1925-11-16"
+place.country = "US"
+place.state = "WA"
+place.city = "Centralia"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "200"

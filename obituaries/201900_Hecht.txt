@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201900_Hecht"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2019-08-04"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=marvin-hecht&pid=193550647&fhid=2000"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Hecht"
+use = "Marvin"
+given = "Marvin"
+
+[person.death]
+date = "2019"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Skokie"
+
+[[person.education]]
+school.name = "Northwestern University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Northern Illinois University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

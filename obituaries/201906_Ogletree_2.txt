@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201906_Ogletree_2"
+
+[[person.meta.citation]]
+title = "Kreidler Funeral Home"
+date = "2019-06-27"
+url = "https://www.kreidlerfuneralhome.com/obituaries/Alfred-Ogletree/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-27"
+
+[person.name]
+last = "Ogletree"
+use = "Al"
+given = "Alfred Hill"
+
+[person.birth]
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.death]
+date = "2019-06-24"
+place.country = "US"
+place.state = "TX"
+place.city = "McAllen"
+
+[person.burial]
+cemetery.name = "Rio Grande Valley State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Mission"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "San Antonio"
+
+[[person.education]]
+school.name = "Texas A&M University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201808_Boynton"
+
+[[person.meta.citation]]
+title = "Hobbs Funeral Home"
+date = "2018-08-27"
+url = "http://www.hobbsfuneralhome.com/memsol.cgi?user_id=2131209"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-27"
+
+[person.name]
+last = "Boynton"
+use = "Lloyd"
+given = "Lloyd Russell"
+
+[person.birth]
+date = "1925-03-26"
+place.country = "US"
+place.state = "ME"
+place.city = "Portland"
+
+[person.death]
+date = "2018-08-04"
+place.country = "CA"
+place.state = "QC"
+place.city = "Sherbrooke"
+
+[[person.education]]
+school.name = "Portland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Portland"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

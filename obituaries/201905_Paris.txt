@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201905_Paris"
+
+[[person.meta.citation]]
+title = "Palmetto Funeral Home"
+date = "2019-05-31"
+url = "https://www.tributearchive.com/obituaries/4434675/Kelly-Jay-Paris"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-31"
+
+[person.name]
+last = "Paris"
+use = "Kelly"
+given = "Kelly Jay"
+
+[person.birth]
+date = "1957-10-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Encino"
+
+[person.death]
+date = "2019-05-27"
+
+[[person.education]]
+school.name = "Taft HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Woodland Hills"

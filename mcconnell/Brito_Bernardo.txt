@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "Brito_Bernardo"
+
+[person.name]
+last = "Brito"
+use = "Bernardo"
+given = "Bernardo"
+
+[person.birth]
+date = "1963-12-04"
+place.country = "DO"
+place.city = "San Cristobal"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "190"

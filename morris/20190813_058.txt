@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190813_058"
+
+[[person.meta.citation]]
+title = "Baltimore Sun 1915-03-15"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hasson"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"

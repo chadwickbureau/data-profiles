@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201712_Forney_1"
+
+[[person.meta.citation]]
+title = "Gaston Gazette"
+date = "2017-12-23"
+url = "http://www.gastongazette.com/sports/20171223/gaston-countys-last-homegrown-negro-league-alumnus-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-16"
+
+[person.name]
+last = "Forney"
+use = "Carl"
+given = "Carl"
+nick = "Satch"
+
+[person.death]
+date = "2017-12-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Gastonia"

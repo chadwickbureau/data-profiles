@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_071"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1924-04-18"
+pages = "9"
+
+[person.name]
+last = "Snowden"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "Amoriello_Clarence"
+
+[person.name]
+last = "Amoriello"
+use = "Clarence"
+given = "Clarence"
+
+[person.birth]
+date = "1924-11-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Tyler"
+
+[person.death]
+date = "2013-01-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Reidsville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "190"
+
+[person.sameas]
+ssn = "200-16-9558"
+
+[[person.resides]]
+dates = "1951"
+place.country = "US"
+place.state = "PA"
+place.city = "Weedville"
+place.address = "RFD #2"
+
+
+[[person.education]]
+school.name = "Penfield High School"
+school.type = "secondary"
+dates = "/1943"
+degree = "graduated"

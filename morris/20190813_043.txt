@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190813_043"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel 1915-05-18"
+pages = "6"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Baumgartner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+description.position = "P"

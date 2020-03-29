@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_White_1"
+
+[[person.meta.citation]]
+title = "Newcomer Funeral Home"
+date = "2019-11-26"
+url = "https://www.newcomerdenver.com/Obituary/178395/Charles-White/Denver-CO"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-26"
+
+[person.name]
+last = "White"
+use = "Charles"
+given = "Charles Willard"
+
+[person.birth]
+date = "1941-07-21"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.death]
+date = "2019-11-25"
+
+[[person.education]]
+school.name = "Lake Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Kirkland"
+
+[[person.education]]
+school.name = "University of Idaho"
+school.type = "college"

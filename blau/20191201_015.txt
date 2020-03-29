@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20191201_015"
+
+[[person.meta.citation]]
+title = "Waterloo Courier"
+date = "1925-07-30"
+pages = "10"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Marshalltown"
+team.league.name = "Mississippi Valley League"
+
+
+[[person.transaction]]
+date = "1925-05"
+type = "released"
+leave.name = "Waterloo"
+leave.league.name = "Mississippi Valley"

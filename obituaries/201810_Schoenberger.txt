@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201810_Schoenberger"
+
+[[person.meta.citation]]
+title = "Mastapeter Funeral Home"
+date = "2018-10-23"
+url = "http://www.mastapeterfuneralhome.com/book-of-memories/3634707/Schoenberger-Charles/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-23"
+
+[person.name]
+last = "Schoenberger"
+use = "Charles"
+given = "Charles Albert"
+
+[person.birth]
+date = "1925-04-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2018-10-19"
+
+[person.burial]
+cemetery.name = "Whiting Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Manchester"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

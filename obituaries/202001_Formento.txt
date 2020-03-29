@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202001_Formento"
+
+[[person.meta.citation]]
+title = "Laughlin Funeral Home"
+date = "2020-01-31"
+url = "https://www.laughlinfuneralhome.com/obituary/Stephen-Formento"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Formento"
+use = "Steve"
+given = "Stephen P."
+
+[person.birth]
+date = "1931-03-08"
+
+[person.death]
+date = "2020-01-27"
+
+[person.burial]
+cemetery.name = "Deer Creek Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Cheswick"
+
+[[person.education]]
+school.name = "Indiana University of Pennsylvania"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

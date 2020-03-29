@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Blauser_Jeffrey_Michael"
+
+[person.name]
+last = "Blauser"
+use = "Jeffrey"
+given = "Jeffrey Michael"
+
+[person.birth]
+date = "1965-11-08"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Gatos"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "170"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201405_Boyce"
+
+[[person.meta.citation]]
+title = "Meierhoffer Funeral Home"
+date = "2014-05-19"
+url = "http://www.meierhoffer.com/23809/obituaries/burl-l-boyce/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-19"
+
+[person.name]
+last = "Boyce"
+use = "Burl"
+given = "Burl Leroy"
+
+[person.birth]
+date = "1927-03-28"
+place.country = "US"
+place.state = "OK"
+place.city = "Shawnee"
+
+[person.death]
+date = "2014-05-14"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+[person.burial]
+cemetery.name = "St. Joseph Memorial Park Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Joseph"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

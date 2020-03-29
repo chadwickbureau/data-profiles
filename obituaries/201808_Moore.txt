@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201808_Moore"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2018-08-21"
+url = "http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=william-k-moore&pid=190006774"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Moore"
+use = "Bill"
+given = "William K."
+
+[person.birth]
+date = "1941-02-11"
+
+[person.death]
+date = "2018-08-14"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"

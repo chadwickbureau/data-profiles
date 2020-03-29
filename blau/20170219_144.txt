@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170219_144"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Miller"
+use = "Cy"
+given = "Cy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Bridgeport"
+team.league.name = "Connecticut State League"

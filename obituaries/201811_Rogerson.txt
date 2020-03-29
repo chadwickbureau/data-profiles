@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201811_Rogerson"
+
+[[person.meta.citation]]
+title = "Biggs Funeral Home"
+date = "2018-11-16"
+url = "http://www.biggsfuneral.com/obituary/jesse-rogerson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-16"
+
+[person.name]
+last = "Rogerson"
+use = "Jesse"
+given = "Jesse Norman"
+
+[person.birth]
+date = "1928-07-25"
+
+[person.death]
+date = "2018-11-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Greenville"
+
+[person.burial]
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Robersonville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

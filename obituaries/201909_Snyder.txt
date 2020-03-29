@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201909_Snyder"
+
+[[person.meta.citation]]
+title = "Reno Gazette-Journal"
+date = "2019-10-23"
+url = "https://www.legacy.com/obituaries/rgj/obituary.aspx?n=orrin-e-snyder&pid=194254363"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-25"
+
+[person.name]
+last = "Snyder"
+use = "Orrin"
+given = "Orrin E."
+suffix = "Sr."
+
+[person.birth]
+date = "1924-09-06"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.death]
+date = "2019-09-14"
+place.country = "US"
+place.state = "NV"
+place.city = "Reno"
+
+[[person.education]]
+school.name = "Reno HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NV"
+school.place.city = "Reno"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

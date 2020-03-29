@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201806_Kline"
+
+[[person.meta.citation]]
+title = "Precht & Barnes Funeral Home"
+date = "2018-06-09"
+url = "http://www.prechtrose.com/obituaries/Steven-Kline-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kline"
+use = "Steve"
+given = "Steven Jack"
+
+[person.birth]
+date = "1947-10-06"
+place.country = "US"
+place.state = "WA"
+place.city = "Wenatchee"
+
+[person.death]
+date = "2018-06-04"
+place.country = "US"
+place.state = "WA"
+place.city = "Chelan"
+
+[[person.education]]
+school.name = "Chelan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Chelan"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

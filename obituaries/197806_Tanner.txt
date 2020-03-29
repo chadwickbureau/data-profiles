@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "197806_Tanner"
+
+[[person.meta.citation]]
+title = "Tampa Tribune"
+date = "1978-06-07"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Tanner"
+use = "Buck"
+given = "William"
+
+[person.death]
+date = "1978-06-06"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Tampa"

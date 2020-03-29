@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201908_Wynne"
+
+[[person.meta.citation]]
+title = "Joseph Paul Funeral Home"
+date = "2019-09-01"
+url = "http://josephpaulfdl.tributes.com/obituary/show/Ronnie-Harrison-Wynne-107443595"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Wynne"
+use = "Ronnie"
+given = "Ronnie Harrison"
+
+[person.birth]
+date = "1950-11-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Martin County"
+
+[person.death]
+date = "2019-08-25"
+
+[[person.education]]
+school.name = "Williamston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Williamston"

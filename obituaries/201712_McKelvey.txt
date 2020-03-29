@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201712_McKelvey"
+
+[[person.meta.citation]]
+title = "Wages & Sons Funeral Home"
+date = "2018-07-17"
+url = "https://www.wagesandsons.com/obit/joe-miller-mckelvey-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "McKelvey"
+use = "Joe"
+given = "Joe Miller"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-03-16"
+place.country = "US"
+place.state = "GA"
+place.city = "Duluth"
+
+[person.death]
+date = "2017-12-23"
+
+[person.burial]
+cemetery.name = "White Chapel Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Duluth"
+
+[[person.education]]
+school.name = "Duluth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Duluth"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201810_Winters"
+
+[[person.meta.citation]]
+title = "Herald Palladium"
+date = "2019-01-13"
+url = "https://www.heraldpalladium.com/obituaries/daniel-bernard-winters/article_ddce7c1e-d972-5a91-9983-2ee6fb6a022b.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Winters"
+use = "Daniel"
+given = "Daniel Bernard"
+
+[person.birth]
+date = "1963-04-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2018-10-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Burbank"

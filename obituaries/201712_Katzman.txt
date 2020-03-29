@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201712_Katzman"
+
+[[person.meta.citation]]
+title = "NorthJersey.com"
+date = "2017-12-22"
+url = "http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=eric-katzman&pid=187599895&fhid=17105"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-22"
+
+[person.name]
+last = "Katzman"
+use = "Eric"
+given = "Eric"
+
+[person.death]
+date = "2017-12-20"
+
+[[person.education]]
+school.name = "Northern Valley Regional HS at Old Tappan"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Old Tappan"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"

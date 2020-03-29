@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201405_Thompson"
+
+[[person.meta.citation]]
+title = "Rockford Register Star"
+date = "2014-06-03"
+url = "http://www.legacy.com/obituaries/rrstar/obituary.aspx?n=Darrell-Thompson&pid=171213104"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-03"
+
+[person.name]
+last = "Thompson"
+use = "Darrell"
+given = "Darrell C."
+
+[person.birth]
+date = "1931-08-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Belleville"
+
+[person.death]
+date = "2014-05-29"
+
+[[person.education]]
+school.name = "Southern Illinois University Carbondale"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

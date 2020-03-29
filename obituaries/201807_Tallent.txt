@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201807_Tallent"
+
+[[person.meta.citation]]
+title = "Caggiano Funeral Home"
+date = "2019-02-16"
+url = "https://www.caggianofuneralhome.com/notices/Ronald-Tallent"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Tallent"
+use = "Ronnie"
+given = "Ronald"
+
+[person.birth]
+date = "1970-12-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Malden"
+
+[person.death]
+date = "2018-07-15"
+
+[[person.education]]
+school.name = "Winthrop HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Winthrop"

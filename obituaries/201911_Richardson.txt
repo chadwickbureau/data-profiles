@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Richardson"
+
+[[person.meta.citation]]
+title = "Kilgore Green Funeral Home"
+date = "2019-11-18"
+url = "https://www.dignitymemorial.com/obituaries/jasper-al/edward-richardson-8924389"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Richardson"
+use = "Ed"
+given = "Edward Earl"
+
+[person.birth]
+date = "1933-05-24"
+place.country = "US"
+place.state = "AL"
+place.city = "Jasper"
+
+[person.death]
+date = "2019-11-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Jasper"
+
+[person.burial]
+cemetery.name = "Walker Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Jasper"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

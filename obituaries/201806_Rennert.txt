@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201806_Rennert"
+
+[[person.meta.citation]]
+title = "St. John's Family Funeral Home"
+date = "2018-06-19"
+url = "http://www.stjohnsfamilyfuneralhome.com/memsol.cgi?user_id=2114387"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Rennert"
+use = "Dutch"
+given = "Laurence H."
+suffix = "Jr."
+
+[person.birth]
+date = "1930-06-12"
+place.country = "US"
+place.state = "WI"
+place.city = "Oshkosh"
+
+[person.death]
+date = "2018-06-17"
+
+[[person.education]]
+school.name = "Oshkosh HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Oshkosh"

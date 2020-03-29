@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_VanDeHey"
+
+[[person.meta.citation]]
+title = "Marshfield News Herald"
+date = "2019-10-11"
+url = "https://www.legacy.com/obituaries/marshfieldnewsherald/obituary.aspx?n=leonard-e-vandehey&pid=194118762&fhid=7574"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-11"
+
+[person.name]
+last = "VanDeHey"
+use = "Len"
+given = "Leonard E."
+
+[person.birth]
+date = "1932-04-01"
+place.country = "US"
+place.state = "MI"
+place.city = "Iron Mountain"
+
+[person.death]
+date = "2019-10-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Ashtabula"
+
+[[person.education]]
+school.name = "Loyal HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Loyal"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

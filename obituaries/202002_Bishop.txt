@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202002_Bishop"
+
+[[person.meta.citation]]
+title = "Butler Funeral Home"
+date = "2020-02-20"
+url = "https://www.butlerfuneralhome.com/obituaries/Danny-Bishop-6/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-20"
+
+[person.name]
+last = "Bishop"
+use = "Danny"
+given = "Danny Rex"
+
+[person.birth]
+date = "1938-07-13"
+
+[person.death]
+date = "2020-02-16"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Springfield"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201904_Hanta"
+
+[[person.meta.citation]]
+title = "Star-Advertiser"
+date = "2019-04-22"
+url = "https://obits.staradvertiser.com/2019/04/21/carlton-haruo-hanta/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-22"
+
+[person.name]
+last = "Hanta"
+use = "Carlton"
+given = "Carlton Haruo"
+
+[person.birth]
+date = "1931-04-20"
+place.country = "US"
+place.state = "HI"
+place.city = "Kaaawa"
+
+[person.death]
+date = "2019-04-01"
+place.country = "US"
+place.state = "HI"
+place.city = "Honolulu County"
+
+[[person.education]]
+school.name = "Mid-Pacific Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "HI"
+school.place.city = "Honolulu"
+
+[[person.education]]
+school.name = "University of Houston"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

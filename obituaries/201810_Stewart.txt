@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201810_Stewart"
+
+[[person.meta.citation]]
+title = "Bermudez Family Funeral Home"
+date = "2018-10-21"
+url = "https://www.bermudezfamilyfunerals.com/notices/Archie-Stewart"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Stewart"
+use = "Archie"
+given = "Archie Lloyd"
+
+[person.birth]
+date = "1941-11-08"
+place.country = "US"
+place.state = "KS"
+place.city = "Hutchinson"
+
+[person.death]
+date = "2018-10-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Pebble Beach"
+
+[person.burial]
+cemetery.name = "San Carlos Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Monterey"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Pacific Grove HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Pacific Grove"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

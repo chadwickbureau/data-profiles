@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201908_Bowman"
+
+[[person.meta.citation]]
+title = "Snyder's Memorial Gardens"
+date = "2019-08-06"
+url = "https://www.snydersmemorialgardens.com/obits/obituary.php?id=677019"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-06"
+
+[person.name]
+last = "Bowman"
+use = "Ferrell"
+given = "Earnest Ferrell"
+
+[person.birth]
+date = "1935-07-28"
+place.country = "US"
+place.state = "TN"
+place.city = "Johnson City"
+
+[person.death]
+date = "2019-08-04"
+place.country = "US"
+place.state = "TN"
+place.city = "Johnson City"
+
+[person.burial]
+cemetery.name = "Snyder's Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Gray"
+
+[[person.education]]
+school.name = "Science Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Johnson City"
+
+[[person.education]]
+school.name = "East Tennessee State University"
+school.type = "college"

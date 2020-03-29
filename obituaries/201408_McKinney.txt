@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201408_McKinney"
+
+[[person.meta.citation]]
+title = "Spokesman-Review"
+date = "2014-08-24"
+url = "http://www.legacy.com/obituaries/spokesman/obituary.aspx?n=Lynn-MCKINNEY&pid=172228622"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-25"
+
+[person.name]
+last = "McKinney"
+use = "Lynn"
+given = "Lynn Evan"
+
+[person.birth]
+date = "1950-11-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Pasadena"
+
+[person.death]
+date = "2014-08-20"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+[[person.education]]
+school.name = "California HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Whittier"
+
+[[person.education]]
+school.name = "Rio Hondo College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Whittier"
+
+[[person.education]]
+school.name = "University of California, Santa Barbara"
+school.type = "college"

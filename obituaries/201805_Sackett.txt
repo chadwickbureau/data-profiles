@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201805_Sackett"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2018-06-03"
+url = "http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=gene-b-sackett&pid=189181353"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-03"
+
+[person.name]
+last = "Sackett"
+use = "Gene"
+given = "Gene B."
+
+[person.death]
+date = "2018-05-31"
+
+[[person.education]]
+school.name = "McClatchy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"
+
+[[person.education]]
+school.name = "Sacramento City College"
+school.type = "college"

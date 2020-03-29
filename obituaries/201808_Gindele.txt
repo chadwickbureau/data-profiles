@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201808_Gindele"
+
+[[person.meta.citation]]
+title = "Callaghan & Hughes Funeral Home"
+date = "2018-09-14"
+url = "http://www.callahanandhughes.com/obituaries/Albert-Gindele?obId=3246961#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-14"
+
+[person.name]
+last = "Gindele"
+use = "Albert"
+given = "Albert J."
+
+[person.birth]
+date = "1924-12-18"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2018-08-16"
+place.country = "US"
+place.state = "IN"
+place.city = "Terre Haute"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

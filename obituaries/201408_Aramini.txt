@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201408_Aramini"
+
+[[person.meta.citation]]
+title = "Union Leader"
+date = "2014-08-24"
+url = "http://www.legacy.com/obituaries/unionleader/obituary.aspx?n=Julio-Aramini&pid=172225311"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-25"
+
+[person.name]
+last = "Aramini"
+use = "Julio"
+given = "Julio Daniel"
+
+[person.birth]
+date = "1932-09-20"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2014-08-22"
+
+[[person.education]]
+school.name = "Canton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Collinsville"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

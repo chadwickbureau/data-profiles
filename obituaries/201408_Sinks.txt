@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Sinks"
+
+[[person.meta.citation]]
+title = "Daily Tribune"
+date = "2014-08-23"
+url = "http://www.legacy.com/obituaries/dailytribune/obituary.aspx?n=michael-gordon-sinks&pid=172209448&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Sinks"
+use = "Mickey"
+given = "Michael Gordon"
+
+[person.birth]
+date = "1939-09-14"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2014-08-07"
+
+[[person.education]]
+school.name = "Cooley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"

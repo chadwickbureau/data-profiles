@@ -1,0 +1,138 @@
+[[person]]
+
+[person.meta]
+key = "120584"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/120584"
+title = "The Sporting News Player Contract Cards, ScanID: 1046002703"
+
+[person.name]
+last = "Voss"
+given = "John D."
+
+[person.description]
+position = "P"
+height = "73.5"
+weight = "175"
+
+[person.birth]
+date = "1891-10-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Tennille"
+
+
+[[person.transaction]]
+date = "1909"
+type = "signed"
+join.name = "Mercer"
+note = "Mercer 1909"
+
+[[person.transaction]]
+date = "1910"
+type = "reserved"
+join.name = "Mercer"
+
+[[person.transaction]]
+date = "1911"
+type = "reserved"
+join.name = "Mercer"
+
+[[person.transaction]]
+date = "1912"
+type = "reserved"
+join.name = "Mercer"
+
+[[person.transaction]]
+date = "1912-05"
+type = "signed"
+join.name = "Macon"
+note = "Macon 1912-05"
+
+[[person.transaction]]
+date = "1913-04"
+type = "reserved"
+join.name = "Macon"
+
+[[person.transaction]]
+date = "1913-08"
+type = "purchased"
+leave.name = "Macon"
+join.name = "Atlanta"
+note = "rel by pur to Atlanta 1913-08"
+
+[[person.transaction]]
+date = "1914-03"
+type = "optioned"
+leave.name = "Atlanta"
+join.name = "Macon"
+note = "rel opt to Macon 1914-03"
+
+[[person.transaction]]
+date = "1914-08"
+type = "recalled"
+leave.name = "Macon"
+join.name = "Atlanta"
+note = "rec by Atlanta 1914-08"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Columbus (GA)"
+note = "Columbus (GA) 1915-04"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Columbus (GA)"
+note = "rel 1915-07"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Portland (ME)"
+note = "Portland (ME) 1915-07"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Portland (ME)"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "Topeka"
+note = "Topeka 1916-04"
+
+[[person.transaction]]
+date = "1916-04"
+type = "released"
+leave.name = "Topeka"
+note = "rel 1916-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Newport News"
+note = "Newport News 1916-05"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Newport News"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1919-08"
+type = "signed"
+join.name = "Norfolk"
+note = "Norfolk 1919-08"
+
+[[person.transaction]]
+date = "1919-09"
+type = "released"
+leave.name = "Norfolk"
+note = "rel 1919-09"
+

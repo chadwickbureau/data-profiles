@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202002_Antonelli"
+
+[[person.meta.citation]]
+title = "Anthony Chapels"
+date = "2020-03-01"
+url = "https://www.anthonychapels.com/obituaries/John-A-Antonelli?obId=12122348#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "Antonelli"
+use = "John"
+given = "John A."
+
+[person.birth]
+date = "1930-04-12"
+
+[person.death]
+date = "2020-02-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Pittsford"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201810_Santiago_2"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-10-12"
+url = "https://www.dignitymemorial.com/es-es/obituaries/san-juan-pr/jose-santiago-guzman-8020647"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-12"
+
+[person.name]
+last = "Santiago"
+use = "Jose"
+given = "Jose Guillermo"
+matrilineal = "Guzman"
+
+[person.birth]
+date = "1928-09-04"
+
+[person.death]
+date = "2018-10-09"

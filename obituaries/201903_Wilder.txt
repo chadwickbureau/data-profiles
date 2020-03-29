@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201903_Wilder"
+
+[[person.meta.citation]]
+title = "Ideal Funeral Parlor"
+date = "2019-05-27"
+url = "https://www.idealfuneral.com/obituaries/John--Wesley-Wilder?obId=4242539"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Wilder"
+use = "John"
+given = "John Wesley"
+
+[person.birth]
+date = "1970-10-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2019-03-22"
+
+[[person.education]]
+school.name = "South Florence HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Florence"

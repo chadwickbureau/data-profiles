@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201907_Moon"
+
+[[person.meta.citation]]
+title = "Ripley Bee"
+date = "2019-07-22"
+url = "https://www.ripleybee.com/2019/07/22/eric-moon-76/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-03"
+
+[person.name]
+last = "Moon"
+use = "Eric"
+given = "Eric Virgil"
+
+[person.birth]
+date = "1943-06-18"
+
+[person.death]
+date = "2019-07-14"
+
+[person.burial]
+cemetery.name = "Mount Orab Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Mount Orab"
+
+[[person.military]]
+country = "US"
+branch = "Army"

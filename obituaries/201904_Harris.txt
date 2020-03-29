@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201904_Harris"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-04-04"
+url = "https://www.dignitymemorial.com/obituaries/nashville-tn/robert-harris-8237409"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-04"
+
+[person.name]
+last = "Harris"
+use = "Robert"
+given = "Robert Lawrence"
+
+[person.death]
+date = "2019-04-01"
+
+[[person.education]]
+school.name = "Montgomery Bell Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Nashville"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"

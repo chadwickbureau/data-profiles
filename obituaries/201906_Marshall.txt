@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201906_Marshall"
+
+[[person.meta.citation]]
+title = "Press-Telegram"
+date = "2019-06-13"
+url = "https://www.presstelegram.com/2019/06/13/dave-marshal-former-mlb-player-and-downtown-long-beach-parking-czar-dies-less-than-48-hours-after-his-wife/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-14"
+
+[person.name]
+last = "Marshall"
+use = "Dave"
+given = "Dave"
+
+[person.birth]
+date = "1943-01-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Artesia"
+
+[person.death]
+date = "2019-06-06"
+
+[[person.education]]
+school.name = "Lakewood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Lakewood"

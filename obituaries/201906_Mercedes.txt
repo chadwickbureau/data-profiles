@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201906_Mercedes"
+
+[[person.meta.citation]]
+title = "Diario Libre"
+date = "2019-06-30"
+url = "https://www.diariolibre.com/deportes/beisbol/muere-el-ex-pelotero-luis-mercedes-IE13240293"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Mercedes"
+use = "Luis"
+given = "Luis"
+
+[person.death]
+date = "2019-06-30"
+place.country = "DO"
+place.city = "San Pedro de Macoris"

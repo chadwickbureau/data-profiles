@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201905_Velazquez"
+
+[[person.meta.citation]]
+title = "Escogido.com"
+date = "2019-05-22"
+url = "http://escogido.com/?p=4944"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-22"
+
+[person.name]
+last = "Velazquez"
+use = "Federico"
+given = "Federico Antonio"
+
+[person.death]
+date = "2019-05-21"
+place.country = "DO"
+place.city = "Villa Altagracia"

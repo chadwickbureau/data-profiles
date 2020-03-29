@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "199101_Ellison"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "1991-01-18"
+pages = "26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Ellison"
+use = "Bobby"
+given = "Bobby Floyd"
+
+[person.death]
+date = "1991-01-17"
+
+[person.burial]
+cemetery.name = "Manda Methodist Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Austin"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Austin"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201909_Jeffries"
+
+[[person.meta.citation]]
+title = "Smith Funeral Home"
+date = "2019-09-09"
+url = "https://www.smithfuneralhomebroadway.com/obituary/jay-jeffries"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-09"
+
+[person.name]
+last = "Jeffries"
+use = "Jay"
+given = "Jay Beal"
+
+[person.birth]
+date = "1929-11-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Montgomery County"
+
+[person.death]
+date = "2019-09-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Sanford"
+
+[person.burial]
+cemetery.name = "Mount Pisgah Presbyterian Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Barbecue"

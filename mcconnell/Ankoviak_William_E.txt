@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Ankoviak_William_E"
+
+[person.name]
+last = "Ankoviak"
+use = "William"
+given = "William E."
+
+[person.birth]
+date = "1924-03-09"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "185"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20190531_030"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-04-16"
+pages = "20"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "O'Connor"
+use = "Edward"
+given = "Edward"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Peekskill"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Harrisburg"
+team.league.name = "Tri-State League"

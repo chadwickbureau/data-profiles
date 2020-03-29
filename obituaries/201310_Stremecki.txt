@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201310_Stremecki"
+
+[[person.meta.citation]]
+title = "Toronto Star"
+date = "2019-12-12"
+url = "https://www.legacy.com/obituaries/thestar/obituary.aspx?n=alex-stremecki&pid=167768721&fhid=2881&eid=sp_ommatch&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-12"
+
+[person.name]
+last = "Stremecki"
+use = "Alex"
+given = "Alex"
+
+[person.death]
+date = "2013-10-26"

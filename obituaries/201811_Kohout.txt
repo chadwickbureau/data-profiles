@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Kohout"
+
+[[person.meta.citation]]
+title = "Tacoma News Tribune"
+date = "2019-01-05"
+url = "https://www.legacy.com/obituaries/tribnet/obituary.aspx?n=vernon-arthur-kohout&pid=191173386"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-05"
+
+[person.name]
+last = "Kohout"
+use = "Vern"
+given = "Vernon Arthur"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-08-13"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.death]
+date = "2018-11-23"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Tacoma"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

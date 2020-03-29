@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201909_Mitchell_Stephen"
+
+[[person.meta.citation]]
+title = "Robbins Brothers Funeral Home"
+date = "2019-09-25"
+url = "https://www.robbinsbrothersfh.com/notices/Stephen-Mitchell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Mitchell"
+use = "Stephen"
+given = "Stephen Edward"
+
+[person.birth]
+date = "1948-03-11"
+place.country = "US"
+place.state = "MI"
+place.city = "Benton Harbor"
+
+[person.death]
+date = "2019-09-17"
+place.country = "US"
+place.state = "MI"
+place.city = "St. Joseph"
+
+[person.burial]
+cemetery.name = "Crystal Springs Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Benton Harbor"
+
+[[person.education]]
+school.name = "Benton Harbor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Benton Harbor"

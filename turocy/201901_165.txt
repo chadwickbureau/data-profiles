@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_165"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Holt"
+use = "Goldie"
+given = "Goldie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "SS"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"

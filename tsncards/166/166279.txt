@@ -1,0 +1,112 @@
+[[person]]
+
+[person.meta]
+key = "166279"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/166279"
+title = "The Sporting News Player Contract Cards, ScanID: 1033005841"
+
+[person.name]
+last = "Ordway"
+given = "Hammond H."
+use = "Harry"
+
+[person.description]
+position = "3B-2B"
+
+[person.birth]
+date = "1890"
+place.country = "US"
+place.state = "MA"
+place.city = "So. Boston"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MA"
+place.city = "Dorchester"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Lowell"
+note = "Lowell 1910"
+
+[[person.transaction]]
+date = "1910-05"
+type = "suspended"
+join.name = "Lowell"
+note = "susp 1910-05"
+
+[[person.transaction]]
+date = "1910-05"
+type = "reinstated"
+join.name = "Lowell"
+note = "rein 1910-05"
+
+[[person.transaction]]
+date = "1910-05"
+type = "released"
+leave.name = "Lowell"
+note = "rel 1910-05"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Elgin"
+note = "Elgin 1910"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Portsmouth (OH)"
+note = "Portsmouth (OH) 1911"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Chillicothe"
+note = "Chillicothe 1911"
+
+[[person.transaction]]
+date = "1912"
+type = "reserved"
+join.name = "Chillicothe"
+
+[[person.transaction]]
+date = "1913"
+type = "signed"
+join.name = "Scranton"
+note = "Scranton 1913"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Wheeling"
+note = "Wheeling 1913-05"
+
+[[person.transaction]]
+date = "1914"
+type = "signed"
+join.name = "Trenton"
+note = "Trenton 1914"
+
+[[person.transaction]]
+date = "1915-02"
+type = "signed"
+join.name = "Fitchburg"
+note = "Fitchburg 1915-02"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Lynn"
+note = "Lynn 1915"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Lynn"
+note = "res for 1916"
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201806_Tingle"
+
+[[person.meta.citation]]
+title = "Hazel Green Funeral Home"
+date = "2018-07-17"
+url = "https://www.hazelgreenfuneralhome.com/notices/Thomas-Tingle"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Tingle"
+use = "Thomas"
+given = "Thomas Theodore"
+
+[person.birth]
+date = "1931-10-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Haleyville"
+
+[person.death]
+date = "2018-06-07"
+place.country = "US"
+place.state = "AL"
+place.city = "Huntsville"
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201312_Jones"
+
+[[person.meta.citation]]
+title = "Rader Funeral Home"
+date = "2013-12-13"
+url = "http://www.raderfh.com/obituaries/Maurice-Jones-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-13"
+
+[person.name]
+last = "Jones"
+use = "Maurice"
+given = "Maurice Dempsey"
+
+[person.birth]
+date = "1926-07-19"
+place.country = "US"
+place.state = "TX"
+place.city = "White Oak"
+
+[person.death]
+date = "2013-12-09"
+
+[person.burial]
+cemetery.name = "Hallsville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Hallsville"
+
+[[person.education]]
+school.name = "Hallsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Hallsville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

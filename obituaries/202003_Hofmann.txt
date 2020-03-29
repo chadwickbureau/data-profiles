@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202003_Hofmann"
+
+[[person.meta.citation]]
+title = "MLive.com"
+date = "2020-03-16"
+url = "https://www.mlive.com/highschoolsports/2020/03/longtime-coach-official-tom-hofmann-passes-its-time-to-celebrate-his-life.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Hofmann"
+use = "Tom"
+given = "Tom"
+
+[person.death]
+date = "2020-03-10"
+
+[[person.education]]
+school.name = "Catholic Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Grand Rapids"
+
+[[person.education]]
+school.name = "Aquinas College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Grand Rapids"

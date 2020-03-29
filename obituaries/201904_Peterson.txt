@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201904_Peterson"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-04-21"
+url = "https://www.dignitymemorial.com/obituaries/union-nj/harding-peterson-8250577"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Peterson"
+use = "Pete"
+given = "Harding William"
+
+[person.birth]
+date = "1929-10-17"
+place.country = "US"
+place.state = "NJ"
+place.city = "Perth Amboy"
+
+[person.death]
+date = "2019-04-16"
+
+[[person.education]]
+school.name = "Rutgers, the State University of New Jersey"
+school.type = "college"

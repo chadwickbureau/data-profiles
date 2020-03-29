@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201902_Gibbon"
+
+[[person.meta.citation]]
+title = "Newton County Funeral Home"
+date = "2019-02-21"
+url = "https://www.meaningfulfunerals.net/obituary/joseph-joe-gibbon?fh_id=11773"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-21"
+
+[person.name]
+last = "Gibbon"
+use = "Joe"
+given = "Joseph Charles"
+
+[person.birth]
+date = "1935-04-10"
+place.country = "US"
+place.state = "MS"
+place.city = "Hickory"
+
+[person.death]
+date = "2019-02-20"
+place.country = "US"
+place.state = "MS"
+place.city = "Newton"
+
+[person.burial]
+cemetery.name = "Garlandville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Rose Hill"
+
+[[person.education]]
+school.name = "Hickory HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Hickory"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"

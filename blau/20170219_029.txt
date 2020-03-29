@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170219_029"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1928-05-16"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1928-03-14"
+pages = "27"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1928-03-17"
+pages = "9"
+
+[person.name]
+last = "Barciewicz"
+use = "Frankie"
+given = "Frankie"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "MA"
+place.city = "Danvers"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Portland"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"

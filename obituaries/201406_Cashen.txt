@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201406_Cashen"
+
+[[person.meta.citation]]
+title = "AP obituary"
+date = "2014-07-05"
+url = "http://www.legacy.com/ns/obituary.aspx?n=frank-cashen&pid=171557620"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Cashen"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1925-09-13"
+
+[person.death]
+date = "2014-06-30"
+place.country = "US"
+place.state = "MD"
+place.city = "Easton"

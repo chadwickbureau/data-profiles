@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201010_White"
+
+[[person.meta.citation]]
+title = "MainStreetNews.com"
+date = "2010-10-04"
+url = "https://www.mainstreetnews.com/obits/billy-ray-b-r-white/article_cba889e4-8ee3-5c2c-86b8-e7b5ed9af1af.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "White"
+use = "Billy"
+given = "Billy Ray"
+nick = "B. R."
+
+[person.death]
+date = "2010-10-01"
+
+[[person.education]]
+school.name = "Winder-Barrow HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Winder"
+
+[[person.education]]
+school.name = "Mercer University"
+school.type = "college"

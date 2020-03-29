@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201804_Fulton"
+
+[[person.meta.citation]]
+title = "Shoshone Funeral Home"
+date = "2018-06-24"
+url = "https://www.shoshonefuneralservice.com/notices/Roger-Fulton/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-24"
+
+[person.name]
+last = "Fulton"
+use = "Roger"
+given = "Roger Lloyd"
+
+[person.birth]
+date = "1931-08-28"
+place.country = "US"
+place.state = "SD"
+place.city = "Lead"
+
+[person.death]
+date = "2018-04-23"
+place.country = "US"
+place.state = "ID"
+place.city = "Kellogg"
+
+[[person.education]]
+school.name = "Rose Lake HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ID"
+school.place.city = "Rose Lake"
+
+[[person.education]]
+school.name = "Lewis-Clark State College"
+school.type = "college"

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201800_Finley"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2018-10-21"
+url = "https://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=frank-h-finley&pid=190522204&fhid=20267"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Finley"
+use = "Frank"
+given = "Frank H."
+suffix = "II"
+
+[person.birth]
+date = "1945-03-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2018"
+
+[[person.education]]
+school.name = "Rooseevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fresno"

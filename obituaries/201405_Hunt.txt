@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201405_Hunt"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2014-05-22"
+url = "http://www.legacy.com/obituaries/dallasmorningnews/obituary.aspx?n=Chester-Hunt&pid=171100440"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-22"
+
+[person.name]
+last = "Hunt"
+use = "Chester"
+given = "Chester R."
+
+[person.birth]
+date = "1921-09-03"
+place.country = "US"
+place.state = "TX"
+place.city = "Pine Hill"
+
+[person.death]
+date = "2014-05-19"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.burial]
+cemetery.name = "Grove Hill Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

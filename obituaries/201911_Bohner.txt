@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201911_Bohner"
+
+[[person.meta.citation]]
+title = "Monahan Funeral Home"
+date = "2019-12-16"
+url = "https://www.monahanfuneralhome.com/obituaries/Dean-A-Bohner?obId=9283802#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-16"
+
+[person.name]
+last = "Bohner"
+use = "Dean"
+given = "Dean A."
+
+[person.birth]
+date = "1929-03-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Hebe"
+
+[person.death]
+date = "2019-11-27"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.burial]
+cemetery.name = "Woodlawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Harrisburg"
+
+[[person.education]]
+school.name = "Line Mountain HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Herndon"

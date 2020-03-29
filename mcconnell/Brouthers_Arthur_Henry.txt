@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Brouthers_Arthur_Henry"
+
+[person.name]
+last = "Brouthers"
+use = "Arthur"
+given = "Arthur Henry"
+
+[person.birth]
+date = "1882-11-25"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.death]
+date = "1959-09-28"
+place.country = "US"
+place.state = "SC"
+place.city = "Charleston"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"

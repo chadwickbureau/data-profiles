@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201911_Staton"
+
+[[person.meta.citation]]
+title = "Bass-Smith Funeral Home"
+date = "2019-11-11"
+url = "https://www.bass-smithfuneralhome.com/obituaries/Gene-Cline-Staton?obId=8676779#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-11"
+
+[person.name]
+last = "Staton"
+use = "Gene"
+given = "Gene Cline"
+nick = "Chee Chee"
+
+[person.birth]
+date = "1934-03-17"
+place.country = "US"
+place.state = "NC"
+place.city = "Ansonville"
+
+[person.death]
+date = "2019-11-03"

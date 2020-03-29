@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20191215_002"
+
+[[person.meta.citation]]
+title = "Knoxville Journal and Tribune"
+date = "1915-08-28"
+pages = "3"
+
+[person.name]
+last = "Anderson"
+use = "Vic"
+given = "Vic"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Florida-Alabama-Georgia League"

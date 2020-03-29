@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201903_Mainieri_2"
+
+[[person.meta.citation]]
+title = "Resthaven Funeral Home"
+date = "2019-03-17"
+url = "https://www.resthavenbatonrouge.com/notices/Demie-Mainieri"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Mainieri"
+use = "Demie"
+given = "Demie John"
+
+[person.birth]
+date = "1928-10-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2019-03-13"
+
+[person.burial]
+cemetery.name = "Louisiana National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Baton Rouge"
+
+[[person.education]]
+school.name = "West Virginia University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

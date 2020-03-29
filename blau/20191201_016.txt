@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20191201_016"
+
+[[person.meta.citation]]
+title = "Alma (MI) Record"
+date = "1920-08-12"
+pages = "3"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Saginaw"
+team.league.name = "Michigan-Ontario League"
+
+
+[[person.transaction]]
+date = "1920-08"
+type = "acquired"
+join.name = "Boston"
+join.league.name = "American"
+leave.name = "Saginaw"
+leave.league.name = "Michigan-Ontario"
+forconsideration = "cash"

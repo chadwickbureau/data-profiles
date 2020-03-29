@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201409_Walton_2"
+
+[[person.meta.citation]]
+title = "Bellingham Herald"
+date = "2014-09-18"
+url = "http://www.bellinghamherald.com/2014/09/18/3864515_legendary-coach-mal-walton-dies.html?sp=/99/110/&rh=1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-19"
+
+[person.name]
+last = "Walton"
+use = "Mal"
+given = "Malcolm Edward"
+
+[person.death]
+date = "2014-09-18"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

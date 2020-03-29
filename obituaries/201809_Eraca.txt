@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201809_Eraca"
+
+[[person.meta.citation]]
+title = "Riverview Funeral Home"
+date = "2018-09-17"
+url = "https://www.riverviewbyhalvey.com/obituaries/Francis-Frank-Eraca/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-17"
+
+[person.name]
+last = "Eraca"
+use = "Frank"
+given = "Francis Joseph"
+
+[person.birth]
+date = "1929-05-16"
+
+[person.death]
+date = "2018-09-11"
+place.country = "US"
+place.state = "NY"
+place.city = "Fishkill"
+
+[person.burial]
+cemetery.name = "Fishkill Rural Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Fishkill"

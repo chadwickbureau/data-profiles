@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201406_Welch"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2014-06-11"
+url = "http://www.legacy.com/ns/obituary.aspx?n=bob-welch&pid=171291991"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-11"
+
+[person.name]
+last = "Welch"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+date = "1956-11-03"
+
+[person.death]
+date = "2014-06-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Seal Beach"
+
+[[person.education]]
+school.name = "Eastern Michigan University"
+school.type = "college"

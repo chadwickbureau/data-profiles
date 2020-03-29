@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201901_Caldwell"
+
+[[person.meta.citation]]
+title = "Raymer Funeral Home"
+date = "2019-02-04"
+url = "http://www.raymerfh.com/obituary/kenneth-caldwell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Caldwell"
+use = "Buddy"
+given = "Kenneth Wayne"
+
+[person.birth]
+date = "1949-02-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Mooresville"
+
+[person.death]
+date = "2019-01-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Cornelius"
+
+[person.burial]
+cemetery.name = "Mount Zion Community Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Cornelius"
+
+[[person.education]]
+school.name = "North Mecklenburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Huntersville"
+
+[[person.education]]
+school.name = "University of South Carolina"
+school.type = "college"

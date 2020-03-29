@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "197912_Smith"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1979-12-31"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Smith"
+use = "Red"
+given = "R. L."
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Murphysboro"
+
+[person.death]
+date = "1979-12-28"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202002_Zammit"
+
+[[person.meta.citation]]
+title = "Taylor & Modeen Funeral Home"
+date = "2020-02-18"
+url = "https://www.taylorandmodeenflorida.com/obituaries/Robert-Zammit/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-18"
+
+[person.name]
+last = "Zammit"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+date = "1938-08-01"
+place.country = "US"
+place.state = "FL"
+place.city = "West Palm Beach"
+
+[person.death]
+date = "2020-02-11"
+
+[person.burial]
+cemetery.name = "Riverside Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Jupiter"
+
+[[person.education]]
+school.name = "Palm Beach HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "West Palm Beach"
+
+[[person.education]]
+school.name = "Florida Southern College"
+school.type = "college"

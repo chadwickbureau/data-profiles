@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Babe_Loren_Rolland"
+
+[person.name]
+last = "Babe"
+use = "Loren"
+given = "Loren Rolland"
+
+[person.birth]
+date = "1928-01-11"
+place.country = "US"
+place.state = "IA"
+place.city = "Pisgah"
+
+[person.death]
+date = "1984-02-14"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70"
+weight = "180"
+
+[[person.military]]
+country = "US"
+dates = "1946/1946"

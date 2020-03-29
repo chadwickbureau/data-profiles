@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200319_021"
+
+[[person.meta.citation]]
+title = "Brenham Daily Banner-Press"
+date = "1915-05-18"
+pages = "3"
+
+[person.name]
+last = "Angel"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"

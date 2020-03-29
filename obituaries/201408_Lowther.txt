@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201408_Lowther"
+
+[[person.meta.citation]]
+title = "News-Leader"
+date = "2014-08-31"
+url = "http://www.legacy.com/obituaries/news-leader/obituary.aspx?n=gerald-halbert-lowther&pid=172280479&fhid=21349&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Lowther"
+use = "Jerry"
+given = "Gerald Halbert"
+
+[person.birth]
+date = "1924-02-18"
+place.country = "US"
+place.state = "LA"
+place.city = "Slagle"
+
+[person.death]
+date = "2014-08-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Burbank"
+
+[[person.education]]
+school.name = "Lebanon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Lebanon"
+
+[[person.education]]
+school.name = "Missouri State University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Pepperdine University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Malibu"

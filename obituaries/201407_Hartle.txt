@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201407_Hartle"
+
+[[person.meta.citation]]
+title = "Minnich Funeral Home"
+date = "2014-07-20"
+url = "http://obit.minnichfh.com/obitdisplay.html?id=1401066&listing=Current"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Hartle"
+use = "Russ"
+given = "Russell Earl"
+
+[person.birth]
+date = "1927-11-29"
+place.country = "US"
+place.state = "MD"
+place.city = "Leitersburg"
+
+[person.death]
+date = "2014-07-12"
+place.country = "US"
+place.state = "MD"
+place.city = "Hagerstown"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Hagerstown"
+
+[person.description]
+throws = "R"
+
+[[person.education]]
+school.name = "Hagerstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Hagerstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

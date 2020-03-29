@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201904_McCarthy"
+
+[[person.meta.citation]]
+title = "Las Vegas Review Journal"
+date = "2019-04-14"
+url = "https://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?n=john-mccarthy&pid=192330769&fhid=21899"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "McCarthy"
+use = "John"
+given = "John Charles"
+
+[person.birth]
+date = "1928"
+place.country = "US"
+place.state = "NV"
+place.city = "McGill"
+
+[person.death]
+date = "2019-04-03"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[[person.education]]
+school.name = "White Pine HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NV"
+school.place.city = "Ely"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

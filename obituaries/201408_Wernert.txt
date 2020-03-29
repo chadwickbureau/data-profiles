@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201408_Wernert"
+
+[[person.meta.citation]]
+title = "Evergreen Mortuary Cemetery"
+date = "2014-08-28"
+url = "http://www.evergreenmortuary-cemetery.com/obituaries/Richard-Wernert/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-25"
+
+[person.name]
+last = "Wernert"
+use = "Dick"
+given = "Richard George"
+suffix = "Sr."
+
+[person.birth]
+date = "1924-08-19"
+
+[person.death]
+date = "2014-08-25"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

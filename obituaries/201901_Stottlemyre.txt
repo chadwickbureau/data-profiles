@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_Stottlemyre"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-01-16"
+url = "https://www.dignitymemorial.com/obituaries/bellevue-wa/melvin-stottlemyre-8129050"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Stottlemyre"
+use = "Melvin"
+given = "Melvin Leon"
+suffix = "Sr."
+
+[person.birth]
+date = "1941-11-13"
+
+[person.death]
+date = "2019-01-13"
+
+[person.burial]
+cemetery.name = "New Salem Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Salem"

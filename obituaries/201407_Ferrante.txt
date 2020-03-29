@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201407_Ferrante"
+
+[[person.meta.citation]]
+title = "Valley Funeral Home"
+date = "2014-07-29"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Nicholas-Ferrante&lc=4092&pid=171879097&mid=6062078"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-29"
+
+[person.name]
+last = "Ferrante"
+use = "Nick"
+given = "Nicholas James"
+
+[person.birth]
+date = "1932-11-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Akron"
+
+[person.death]
+date = "2014-07-24"
+
+[person.burial]
+cemetery.name = "San Fernando Mission Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Mission Hills"
+
+[[person.education]]
+school.name = "Loyola HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "California"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

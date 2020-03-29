@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201908_Jordan"
+
+[[person.meta.citation]]
+title = "Roswell Daily Record"
+date = "2019-08-31"
+url = "https://www.rdrnews.com/2019/08/31/thomas-jefferson-jordan-sr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-02"
+
+[person.name]
+last = "Jordan"
+use = "Tom"
+given = "Thomas Jefferson"
+suffix = "Sr."
+
+[person.birth]
+date = "1919-09-05"
+place.country = "US"
+place.state = "OK"
+place.city = "Lawton"
+
+[person.death]
+date = "2019-08-26"
+
+[[person.education]]
+school.name = "Faxon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Faxon"

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201406_Zimmer"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2014-06-04"
+url = "http://www.nytimes.com/2014/06/05/sports/baseball/don-zimmer-dies-at-83-after-a-lifetime-in-baseball.html?_r=0"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-06"
+
+[person.name]
+last = "Zimmer"
+use = "Don"
+given = "Donald William"
+
+[person.birth]
+date = "1931-01-17"
+
+[person.death]
+date = "2014-06-04"
+place.country = "US"
+place.state = "FL"
+place.city = "Dunedin"

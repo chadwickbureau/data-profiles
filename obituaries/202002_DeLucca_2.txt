@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_DeLucca_2"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2020-02-26"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=joseph-delucca&pid=195506917"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-02"
+
+[person.name]
+last = "DeLucca"
+use = "Joseph"
+given = "Joseph M."
+
+[person.death]
+date = "2020-02-24"

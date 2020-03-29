@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201912_Goodwin"
+
+[[person.meta.citation]]
+title = "Eugene Register-Guard"
+date = "2020-01-14"
+url = "https://www.legacy.com/obituaries/registerguard/obituary.aspx?n=bradley-john-goodwin&pid=195022038&fhid=27978"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-14"
+
+[person.name]
+last = "Goodwin"
+use = "Brad"
+given = "Bradley John"
+
+[person.birth]
+date = "1963-03-08"
+place.country = "US"
+place.state = "OR"
+place.city = "Eugene"
+
+[person.death]
+date = "2019-12-29"
+place.country = "US"
+place.state = "OR"
+place.city = "Fall Creek"
+
+[[person.education]]
+school.name = "North Eugene HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Eugene"
+
+[[person.education]]
+school.name = "Umpqua Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Texas at El Paso"
+school.type = "college"

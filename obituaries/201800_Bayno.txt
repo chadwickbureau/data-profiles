@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201800_Bayno"
+
+[[person.meta.citation]]
+title = "Donovan Funeral Home"
+date = "2018-12-09"
+url = "https://donovanfunerals.com/tribute/details/1293/Joseph-Bayno/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-09"
+
+[person.name]
+last = "Bayno"
+use = "Joe"
+given = "Joseph F."
+
+[person.birth]
+date = "1934-10-10"
+place.country = "US"
+place.state = "NY"
+place.city = "Florida"
+
+[person.death]
+date = "2018"
+place.country = "US"
+place.state = "NY"
+place.city = "Middletown"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Florida"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "S. S. Seward Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Florida"

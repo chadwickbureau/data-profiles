@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201806_Oliphant"
+
+[[person.meta.citation]]
+title = "Smith Family Funeral Home"
+date = "2018-07-08"
+url = "http://www.smithfamilymortuaries.com/book-of-memories/3546302/Oliphant-Kenneth/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Oliphant"
+use = "Ken"
+given = "Kenneth"
+
+[person.birth]
+date = "1935-12-01"
+place.country = "US"
+place.state = "KS"
+place.city = "Iola"
+
+[person.death]
+date = "2018-06-29"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Derby"
+
+[[person.education]]
+school.name = "Iola HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Iola"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,93 @@
+[[person]]
+
+[person.meta]
+key = "Abadie_Bernard_E"
+
+[person.name]
+last = "Abadie"
+use = "Ben"
+given = "Bernard E."
+
+[person.birth]
+date = "1921-11-18"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2011-08-20"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73.5"
+weight = "187"
+note = [ "Baseball coach at Tulane University for many years" ]
+
+[[person.playing]]
+season = "1949"
+league.name = "Georgia-Florida League"
+splits.0.team.name = "Waycross"
+totals.F_POS = "OF"
+totals.B_G = "76"
+totals.B_AB = "289"
+totals.B_R = "45"
+totals.B_H = "84"
+totals.B_TB = "123"
+totals.B_2B = "14"
+totals.B_3B = "5"
+totals.B_HR = "5"
+totals.B_RBI = "57"
+totals.B_SB = "7"
+totals.B_AVG = ".291"
+
+[[person.playing]]
+season = "1950"
+league.name = "Evangeline League"
+splits.0.team.name = "Thibodaux"
+totals.F_POS = "OF"
+totals.B_G = "96"
+totals.B_AB = "374"
+totals.B_R = "64"
+totals.B_H = "126"
+totals.B_TB = "178"
+totals.B_2B = "14"
+totals.B_3B = "4"
+totals.B_HR = "10"
+totals.B_RBI = "82"
+totals.B_SB = "8"
+totals.B_AVG = ".337"
+
+[[person.playing]]
+season = "1951"
+league.name = "Evangeline League"
+splits.0.team.name = "Thibodaux"
+totals.F_POS = "OF"
+totals.B_G = "87"
+totals.B_AB = "318"
+totals.B_R = "54"
+totals.B_H = "112"
+totals.B_TB = "182"
+totals.B_2B = "21"
+totals.B_3B = "2"
+totals.B_HR = "15"
+totals.B_RBI = "62"
+totals.B_SB = "4"
+totals.B_AVG = ".352"
+
+[[person.playing]]
+season = "1951"
+league.name = "Florida International League"
+splits.0.team.name = "Miami Beach"
+totals.F_POS = "OF"
+totals.B_G = "25"
+totals.B_AB = "68"
+totals.B_R = "5"
+totals.B_H = "18"
+totals.B_TB = "25"
+totals.B_2B = "4"
+totals.B_3B = "0"
+totals.B_HR = "1"
+totals.B_RBI = "10"
+totals.B_SB = "2"
+totals.B_AVG = ".265"

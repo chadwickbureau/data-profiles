@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Gallagher"
+
+[[person.meta.citation]]
+title = "News Observer"
+date = "2018-12-07"
+url = "https://www.newsobserver.com/latest-news/article222789640.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Gallagher"
+use = "Al"
+given = "Allan Mitchell Edward George Patrick Henry"
+nick = "Dirty Al"
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2018-12-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"

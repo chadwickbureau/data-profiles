@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201908_Oleschuk"
+
+[[person.meta.citation]]
+title = "Kane Fetterly"
+date = "2019-11-12"
+url = "https://www.kanefetterly.qc.ca/fr/funerailles/avis-de-deces.php?cnd=17116"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-12"
+
+[person.name]
+last = "Oleschuk"
+use = "Steve"
+given = "Steve"
+
+[person.death]
+date = "2019-08-13"
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+
+[person.burial]
+cemetery.name = "Cimetiere Mont-Royal"
+cemetery.place.country = "CA"
+cemetery.place.state = "QC"
+cemetery.place.city = "Outremont"

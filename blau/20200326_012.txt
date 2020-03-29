@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200326_012"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch"
+date = "1915-07-04"
+pages = "13"
+
+[person.name]
+last = "Johnson"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+
+[[person.transaction]]
+date = "<=1915-07-04"
+type = "option-returned"
+join.name = "Philadelphia"
+join.league.name = "American"
+leave.name = "Norfolk"
+leave.league.name = "Virginia"

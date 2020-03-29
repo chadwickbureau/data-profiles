@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201904_Piscotty"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2019-04-11"
+url = "https://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=john-m-piscotty-jack&pid=192257379&fhid=4082"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Piscotty"
+use = "Jack"
+given = "John M."
+
+[person.birth]
+date = "1920-04-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Plymouth"
+
+[person.death]
+date = "2019-04-10"
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Hartford"
+
+[[person.education]]
+school.name = "Plymouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Plymouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

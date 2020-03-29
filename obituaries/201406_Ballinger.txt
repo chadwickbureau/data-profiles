@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201406_Ballinger"
+
+[[person.meta.citation]]
+title = "MeaningfulFunerals.net"
+date = "2014-06-14"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2560234&fh_id=10647"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-14"
+
+[person.name]
+last = "Ballinger"
+use = "Mark"
+given = "Mark Alan"
+
+[person.birth]
+date = "1949-01-31"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "2014-06-13"

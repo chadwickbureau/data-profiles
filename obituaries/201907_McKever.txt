@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201907_McKever"
+
+[[person.meta.citation]]
+title = "Mooney Funeral Home"
+date = "2019-07-26"
+url = "https://mooneyfuneralhome.com/tribute/details/487/William-McKever/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-26"
+
+[person.name]
+last = "McKever"
+use = "Bill"
+given = "William D."
+
+[person.birth]
+date = "1928-02-10"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[person.death]
+date = "2019-07-23"
+
+[person.burial]
+cemetery.name = "Nassau-Schodack Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Nassau"
+
+[[person.education]]
+school.name = "St. Lawrence University"
+school.type = "college"

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201810_Schwartz"
+
+[[person.meta.citation]]
+title = "Staab Funeral Home"
+date = "2018-10-24"
+url = "http://www.staabfuneralhomes.com/obituary/frank-g-beaver-schwartz-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-24"
+
+[person.name]
+last = "Schwartz"
+use = "Frank"
+given = "Frank G."
+suffix = "Jr."
+nick = "Beaver"
+
+[person.birth]
+date = "1934-02-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2018-10-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "University of Illinois"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

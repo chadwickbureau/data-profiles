@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Andrew_Albert"
+
+[person.name]
+last = "Anderson"
+use = "Andrew"
+given = "Andrew Albert"
+
+[person.birth]
+date = "1896-04-25"
+place.country = "US"
+place.state = "NJ"
+place.city = "Dover"
+
+[person.death]
+date = "1968-02-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "155"

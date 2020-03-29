@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201907_007"
+
+[[person.meta.citation]]
+title = "southernillinoisminers.com"
+date = "2019-07-26"
+url = "https://southernillinoisminers.com/sports/bsb/2015-16/bios/schildt_c.j._ior5?view=bio"
+
+[person.name]
+last = "Schildt"
+use = "C."
+given = "C. J."
+
+[person.birth]
+date = "1994-09-20"
+
+[[person.education]]
+school.name = "Molloy"
+school.type = "college"
+
+[[person.education]]
+school.name = "Bowling Green"
+school.type = "college"
+
+[[person.education]]
+school.name = "Kaskaskia CC"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IL"
+
+[[person.education]]
+school.name = "Stony Brook"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Southern Illinois"
+team.league.name = "Fronter League"
+description.bats = "L"
+description.throws = "L"
+description.height = "72"
+description.weight = "200"

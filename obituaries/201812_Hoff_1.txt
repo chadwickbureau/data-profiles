@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201812_Hoff_1"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2018-12-11"
+url = "https://www.tampabay.com/blogs/rays/2018/12/11/longtime-rays-field-coordinator-jim-hoff-dies-at-age-73/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hoff"
+use = "Jim"
+given = "Jim"
+
+[person.death]
+date = "2018-12-10"
+
+[[person.education]]
+school.name = "University of Detroit Jesuit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+[[person.education]]
+school.name = "Xavier University"
+school.type = "college"

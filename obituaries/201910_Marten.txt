@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201910_Marten"
+
+[[person.meta.citation]]
+title = "Meredith Funeral Home"
+date = "2019-10-20"
+url = "https://meredithfuneralhome.com/obituaries/frank-h-the-weed-marten.129052"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Marten"
+use = "Frank"
+given = "Frank Henry"
+nick = "The Weed"
+
+[person.birth]
+date = "1929-07-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[person.death]
+date = "2019-10-08"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[person.burial]
+cemetery.name = "West Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Racine"

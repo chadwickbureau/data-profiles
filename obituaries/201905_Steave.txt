@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201905_Steave"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-05-15"
+url = "https://www.dignitymemorial.com/obituaries/hixson-tn/james-steave-8710643"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-15"
+
+[person.name]
+last = "Steave"
+use = "Johnny"
+given = "James L."
+
+[person.birth]
+date = "1928-06-01"
+
+[person.death]
+date = "2019-05-13"
+
+[person.burial]
+cemetery.name = "Hamilton Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Hixson"

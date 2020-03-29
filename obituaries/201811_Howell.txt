@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201811_Howell"
+
+[[person.meta.citation]]
+title = "GwinnettDailyPost.com"
+date = "2018-11-10"
+url = "https://www.gwinnettprepsports.com/sportsxchange/former-dodgers-reliever-howell-dies-at/article_868862b4-907b-5702-861b-eed7a96454c0.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-12"
+
+[person.name]
+last = "Howell"
+use = "Ken"
+given = "Ken"
+
+[person.death]
+date = "2018-11-09"
+place.country = "US"
+place.state = "MI"
+place.city = "West Bloomfield"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201811_Sutter"
+
+[[person.meta.citation]]
+title = "Oklahoman"
+date = "2018-11-18"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Sutter"
+use = "Dick"
+given = "Richard Michael"
+
+[person.death]
+date = "2018-11-14"
+
+[person.description]
+note = [ "Reported as the former K-O-M player by K-O-M expert John Hall" ]

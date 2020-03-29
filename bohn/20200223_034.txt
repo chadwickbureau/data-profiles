@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_034"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-08-09"
+
+[person.name]
+last = "Throckmorton"
+use = "Jimmie"
+given = "Jimmie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bismarck"
+team.league.name = "North Dakota League"

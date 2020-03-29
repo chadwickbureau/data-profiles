@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201404_Matthews"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2014-04-30"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Walter-Matthews&lc=1888&pid=170851247&mid=5948408"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Matthews"
+use = "Walt"
+given = "Walter Ray"
+
+[person.birth]
+date = "1934-10-19"
+place.country = "US"
+place.state = "AR"
+place.city = "Ashdown"
+
+[person.death]
+date = "2014-04-28"
+place.country = "US"
+place.state = "AR"
+
+[person.burial]
+cemetery.name = "Ashdown Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Ashdown"

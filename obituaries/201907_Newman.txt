@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201907_Newman"
+
+[[person.meta.citation]]
+title = "Yost & Webb Funeral Home"
+date = "2019-07-22"
+url = "https://www.yostandwebb.com/obituary/robert-newman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-22"
+
+[person.name]
+last = "Newman"
+use = "Bob"
+given = "Robert David"
+
+[person.birth]
+date = "1937-10-20"
+
+[person.death]
+date = "2019-07-13"
+
+[person.burial]
+cemetery.name = "St. Peter's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Fresno"

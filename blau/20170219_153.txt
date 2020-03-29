@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_153"
+
+[[person.meta.citation]]
+title = "Dothan Eagle"
+date = "1946-06-30"
+pages = "15"
+
+[person.name]
+last = "Brasher"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1946"
+team.name = "Dothan"
+team.league.name = "Alabama State League"

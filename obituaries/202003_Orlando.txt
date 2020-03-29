@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202003_Orlando"
+
+[[person.meta.citation]]
+title = ""
+date = "2020-03-16"
+url = "https://www.dignitymemorial.com/obituaries/bel-air-md/angelo-orlando-9080985"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Orlando"
+use = "Dick"
+given = "Angelo Richard"
+
+[person.birth]
+date = "1932-07-09"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[person.death]
+date = "2020-03-11"
+
+[[person.education]]
+school.name = "New Castle HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "New Castle"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201900_Hensley"
+
+[[person.meta.citation]]
+title = "Matthews Funeral Home"
+date = "2019-10-14"
+url = "https://matthewsfuneralhome.com/mike-hensley/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Hensley"
+use = "Mike"
+given = "William Michael"
+
+[person.birth]
+date = "1946-12-09"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.death]
+date = "2019"
+
+[[person.education]]
+school.name = "Del City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Del City"

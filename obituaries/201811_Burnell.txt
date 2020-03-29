@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201811_Burnell"
+
+[[person.meta.citation]]
+title = "Press Republican"
+date = "2018-11-05"
+url = "http://obituaries.pressrepublican.com/obituary/robert-burnell-1937-2018-1071168646"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Burnell"
+use = "Red"
+given = "Robert"
+
+[person.birth]
+date = "1937-06-29"
+place.country = "US"
+place.state = "NY"
+place.city = "Plattsburgh"
+
+[person.death]
+date = "2018-11-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Plattsburgh"
+
+[[person.education]]
+school.name = "Mount Assumption Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Plattsburgh"

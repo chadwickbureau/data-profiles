@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201809_Gilman"
+
+[[person.meta.citation]]
+title = "Hernandez Funeral Home"
+date = "2018-10-03"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=11e8c0fe-7070-405b-be99-896148ad8c20&CFTOKEN=0&o_id=5291839&fh_id=14092"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Gilman"
+use = "Teddy"
+given = "Richard Theodore"
+
+[person.birth]
+date = "1950-08-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2018-09-22"
+
+[[person.education]]
+school.name = "Lamar HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"

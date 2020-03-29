@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201907_Caye"
+
+[[person.meta.citation]]
+title = "DeBor Funeral Home"
+date = "2019-08-04"
+url = "https://www.deborfuneralhome.com/notices/William-Caye"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Caye"
+use = "Billy"
+given = "William F."
+
+[person.birth]
+date = "1931-05-02"
+
+[person.death]
+date = "2019-07-30"
+
+[person.burial]
+cemetery.name = "National Cemetery of the Alleghenies"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Bridgeville"
+
+[[person.education]]
+school.name = "Central Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittsburgh"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

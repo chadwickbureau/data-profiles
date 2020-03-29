@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201909_Silvera"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2019-09-10"
+url = "https://www.nytimes.com/2019/09/10/sports/baseball/charlie-silvera-dead.html?fbclid=IwAR1TVPxjYnw7BjKLhfLpyNiECIUAQPrbZuaQFXbIyBW7hLlfcTPsupNSL40"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Silvera"
+use = "Charlie"
+given = "Charles Anthony Ryan"
+
+[person.birth]
+date = "1924-10-12"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-09-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Millbrae"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

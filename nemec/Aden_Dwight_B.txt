@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "Aden_Dwight_B"
+
+[person.name]
+last = "Aden"
+use = "Dwight"
+given = "Dwight B."
+
+[person.birth]
+date = "1915-03-01"
+place.country = "US"
+place.state = "OR"
+place.city = "Wilsonville"
+
+[person.death]
+date = "2008-07-13"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "71"
+weight = "165"
+note = [ "Aden was business manager of the Spokane club in 1946 when nine players lost their lives when the bus carrying the players careened off a narrow mountain road and plunged 350 feet down the side of a mountain on June 24, 1946. The three games Aden played that year were after the accident." ]
+
+[[person.resides]]
+dates = "1937"
+place.country = "US"
+place.state = "OR"
+place.city = "Wilsonville"
+
+
+[[person.education]]
+school.name = "West Linn High School"
+school.type = "secondary"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"
+dates = "/1937"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Salem Senators"
+team.place.country = "US"
+team.place.state = "OR"
+team.place.city = "Salem"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "administrator"
+title = "Business Manager"
+dates = "1946"
+team.name = "Spokane"
+team.league.name = "Western International"

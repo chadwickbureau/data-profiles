@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201407_Gabrys"
+
+[[person.meta.citation]]
+title = "Herald News"
+date = "2014-07-13"
+url = "http://www.legacy.com/obituaries/jolietheraldnews/obituary.aspx?n=francis-j-gabrys&pid=171685069&fhid=16289&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-13"
+
+[person.name]
+last = "Gabrys"
+use = "Francis"
+given = "Francis J."
+suffix = "Jr."
+nick = "Gabe"
+
+[person.birth]
+date = "1926"
+
+[person.death]
+date = "2014-07-09"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Joliet"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

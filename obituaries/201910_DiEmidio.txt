@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201910_DiEmidio"
+
+[[person.meta.citation]]
+title = "King Funeral Service"
+date = "2020-02-03"
+url = "https://www.kingfuneralservice.com/obituary/Chester-DiEmidioSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-03"
+
+[person.name]
+last = "DiEmidio"
+use = "Chet"
+given = "Chester G."
+suffix = "Sr."
+
+[person.birth]
+date = "1930-09-13"
+
+[person.death]
+date = "2019-10-12"
+
+[person.burial]
+cemetery.name = "Saints Peter & Paul Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Springfield"

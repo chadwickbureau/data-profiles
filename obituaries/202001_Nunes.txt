@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202001_Nunes"
+
+[[person.meta.citation]]
+title = "Fremont Chapel of the Roses"
+date = "2020-01-12"
+url = "https://www.fremontchapeloftheroses.com/obituaries/Melvin-Nunes/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Nunes"
+use = "Mel"
+given = "Melvin E."
+
+[person.birth]
+date = "1925-01-13"
+
+[person.death]
+date = "2020-01-08"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fremont"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

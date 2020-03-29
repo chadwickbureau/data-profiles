@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201808_Spasoff"
+
+[[person.meta.citation]]
+title = "Times Free Press"
+date = "2018-09-03"
+url = "https://www.timesfreepress.com/obits/2018/sep/03/peter-spasoff/100065/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Spasoff"
+use = "Peter"
+given = "Peter"
+
+[person.birth]
+date = "1933-02-12"
+place.country = "US"
+place.state = "MI"
+place.city = "Battle Creek"
+
+[person.death]
+date = "2018-08-30"
+
+[[person.military]]
+country = "US"
+branch = "Army"

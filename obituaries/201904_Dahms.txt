@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201904_Dahms"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2019-04-16"
+url = "https://www.sandiegouniontribune.com/sports/high-school-preps/story/2019-04-16/preps-jerry-dahms-obituary-cavers-san-diego-high"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Dahms"
+use = "Jerry"
+given = "Jerry"
+
+[person.death]
+date = "2019-04"
+
+[[person.education]]
+school.name = "San Diego HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"

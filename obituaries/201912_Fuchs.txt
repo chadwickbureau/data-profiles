@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201912_Fuchs"
+
+[[person.meta.citation]]
+title = "Jackson Funeral Home"
+date = "2019-12-27"
+url = "https://www.jacksonfh.net/obituary/george-fuchs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-27"
+
+[person.name]
+last = "Fuchs"
+use = "George"
+given = "George M."
+
+[person.birth]
+date = "1933-12-05"
+
+[person.death]
+date = "2019-12-24"
+
+[person.burial]
+cemetery.name = "Harleigh Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Camden"
+
+[[person.education]]
+school.name = "Collingswood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Collingswood"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

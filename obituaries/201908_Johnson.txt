@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201908_Johnson"
+
+[[person.meta.citation]]
+title = "Northern Virginia Daily"
+date = "2019-08-15"
+url = "https://www.legacy.com/obituaries/nvdaily/obituary.aspx?n=robert-l-johnson-bob&pid=193642739&fhid=13109"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Johnson"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1944-04-22"
+place.country = "US"
+place.state = "WV"
+place.city = "Clarksburg"
+
+[person.death]
+date = "2019-08-12"
+place.country = "US"
+place.state = "VA"
+place.city = "Front Royal"
+
+[person.burial]
+cemetery.name = "Floral Hills Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Clarksburg"
+
+[[person.education]]
+school.name = "Roosevelt-Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Clarksburg"
+
+[[person.education]]
+school.name = "Salem University"
+school.type = "college"

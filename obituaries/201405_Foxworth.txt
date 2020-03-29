@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201405_Foxworth"
+
+[[person.meta.citation]]
+title = "News & Record"
+date = "2014-05-30"
+url = "http://www.news-record.com/obituaries/article_93581821-f125-54a5-8b75-349afda05a66.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Foxworth"
+use = "Jim"
+given = "James Melton"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-03-03"
+place.country = "US"
+place.state = "SC"
+place.city = "Johnsonville"
+
+[person.death]
+date = "2014-05-23"
+
+[[person.education]]
+school.name = "High Point University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

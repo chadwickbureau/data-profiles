@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_040"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-05-24"
+
+[person.name]
+last = "Condon"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bismarck"
+team.league.name = "North Dakota League"

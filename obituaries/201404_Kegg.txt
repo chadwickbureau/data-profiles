@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201404_Kegg"
+
+[[person.meta.citation]]
+title = "James Funeral Home"
+date = "2014-04-28"
+url = "http://www.jamesfuneralhome.org/book-of-memories/1856196/Kegg-James/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-28"
+
+[person.name]
+last = "Kegg"
+use = "James"
+given = "James F."
+suffix = "Jr."
+
+[person.birth]
+date = "1927"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[person.death]
+date = "2014-04-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Bethlehem"
+
+[person.burial]
+cemetery.name = "Nisky Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Bethlehem"
+
+[[person.education]]
+school.name = "Johnstown Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Johnstown"

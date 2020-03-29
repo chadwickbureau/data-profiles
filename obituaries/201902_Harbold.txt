@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201902_Harbold"
+
+[[person.meta.citation]]
+title = "Maddux Fuqua-Hinton Funeral Home"
+date = "2019-02-18"
+url = "https://www.madduxfuquahinton.com/tributes/Peter-Harbold"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-18"
+
+[person.name]
+last = "Harbold"
+use = "Pete"
+given = "Peter Clayton"
+
+[person.birth]
+date = "1935-03-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.death]
+date = "2019-02-12"
+place.country = "US"
+place.state = "KY"
+place.city = "Hopkinsville"
+
+[person.burial]
+cemetery.name = "Green Hill Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Hopkinsville"
+
+[[person.military]]
+country = "US"
+branch = "Army"

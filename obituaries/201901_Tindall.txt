@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201901_Tindall"
+
+[[person.meta.citation]]
+title = "Koschek & Porter Funeral Home"
+date = "2019-01-17"
+url = "https://koschekandporterfuneralhome.com/tribute/details/699/Richard-Tindall/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-17"
+
+[person.name]
+last = "Tindall"
+use = "Dick"
+given = "Richard H."
+
+[person.birth]
+date = "1932"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "2019-01-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "Mount Holly"
+
+[person.burial]
+cemetery.name = "Holy Assumption Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Roebling"
+
+[[person.education]]
+school.name = "Bordentown Military Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Bordentown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

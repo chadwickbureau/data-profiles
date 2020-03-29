@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201408_DeMarco"
+
+[[person.meta.citation]]
+title = "Press Democrat"
+date = "2014-08-13"
+url = "http://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=Ralph-DeMARCO&pid=172083888"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-16"
+
+[person.name]
+last = "DeMarco"
+use = "Ralph"
+given = "Ralph Joseph"
+
+[person.birth]
+date = "1926-05-05"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2014-08-10"
+
+[person.burial]
+cemetery.name = "Santa Rosa Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Santa Rosa"
+
+[[person.education]]
+school.name = "Santa Rosa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Rosa"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

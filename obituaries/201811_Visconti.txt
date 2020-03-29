@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201811_Visconti"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2018-11-09"
+url = "https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=ernest-visconti&pid=190685443"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-09"
+
+[person.name]
+last = "Visconti"
+use = "Ernie"
+given = "Ernest"
+
+[person.death]
+date = "2018-11-04"
+
+[[person.education]]
+school.name = "Wood-Ridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Wood-Ridge"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

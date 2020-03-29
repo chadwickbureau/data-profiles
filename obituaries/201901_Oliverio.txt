@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201901_Oliverio"
+
+[[person.meta.citation]]
+title = "Linnemann Funeral Home"
+date = "2019-01-07"
+url = "https://www.linnemannfuneralhomes.com/obituary/steve-oliverio/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Oliverio"
+use = "Steve"
+given = "Steve J."
+
+[person.birth]
+date = "1961-12-19"
+
+[person.death]
+date = "2019-01-04"
+place.country = "US"
+place.state = "KY"
+place.city = "Florence"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"
+
+[[person.education]]
+school.name = "Oak Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cincinnati"
+
+[[person.education]]
+school.name = "Cumberland University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of South Alabama"
+school.type = "college"

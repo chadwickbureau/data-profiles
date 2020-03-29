@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201904_Rislove"
+
+[[person.meta.citation]]
+title = "Virgil T. Golden Funeral Home"
+date = "2020-01-08"
+url = "https://www.vtgolden.com/keith-barrett-rislove"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-08"
+
+[person.name]
+last = "Rislove"
+use = "Keith"
+given = "Keith Barrett"
+
+[person.birth]
+date = "1930-09-17"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2019-04-27"
+place.country = "US"
+place.state = "OR"
+place.city = "Salem"
+
+[person.burial]
+cemetery.name = "Willamette National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Happy Valley"
+
+[[person.education]]
+school.name = "Milwaukie HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Milwaukie"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

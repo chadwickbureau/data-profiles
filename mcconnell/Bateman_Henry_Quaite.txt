@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Bateman_Henry_Quaite"
+
+[person.name]
+last = "Bateman"
+use = "Clyde"
+given = "Henry Quaite"
+nick = "Sis"
+
+[person.birth]
+date = "1875-12-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Melissa"
+
+[person.death]
+date = "1937-01-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.description]
+bats = "R"
+note = [ "Hit 4 home runs in a game on May 14, 1903 for Paris at Corsicana. Also hit a triple in the game.", "Pitched a no-hitter in game on July 11, 1903 for Waco against Fort Worth." ]

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201800_Stepp"
+
+[[person.meta.citation]]
+title = "Houston Chronicle"
+date = "2018-07-20"
+url = "https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=thomas-stepp&pid=189623703"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Stepp"
+use = "Tom"
+given = "Thomas E."
+
+[person.birth]
+date = "1940-08-15"
+place.country = "US"
+place.state = "WV"
+place.city = "Welch"
+
+[person.death]
+date = "2018"
+place.country = "US"
+place.state = "CA"
+place.city = "San Ramon"
+
+[[person.education]]
+school.name = "West Virginia University"
+school.type = "college"

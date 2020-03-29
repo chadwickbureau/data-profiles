@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_062"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1922-07-26"
+pages = "9"
+
+[person.name]
+last = "Dougherty"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+description.throws = "R"

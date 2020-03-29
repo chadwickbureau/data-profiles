@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201805_Stevens"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2018-06-02"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=charles-stevens-chuck&pid=189173688"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-02"
+
+[person.name]
+last = "Stevens"
+use = "Chuck"
+given = "Charles"
+
+[person.birth]
+date = "1918-07-10"
+place.country = "US"
+place.state = "NM"
+place.city = "Van Houten"
+
+[person.death]
+date = "2018-05-28"
+
+[[person.education]]
+school.name = "Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

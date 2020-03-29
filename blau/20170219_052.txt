@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170219_052"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Purpura"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"

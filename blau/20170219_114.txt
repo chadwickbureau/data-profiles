@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_114"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1926-04-22"
+pages = "2"
+
+[person.name]
+last = "Boyer"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Pocatello"
+team.league.name = "Utah-Idaho League"

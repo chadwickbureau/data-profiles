@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Herring"
+
+[[person.meta.citation]]
+title = "Denton Wood Funeral Home"
+date = "2018-11-30"
+url = "https://www.dentonwood.com/notices/Arthur-Herring"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Herring"
+use = "Arthur"
+given = "Arthur D."
+
+[person.birth]
+date = "1930-05-02"
+place.country = "US"
+place.state = "OK"
+place.city = "Alt"
+
+[person.death]
+date = "2018-11-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.burial]
+cemetery.name = "Carlsbad Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Carlsbad"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

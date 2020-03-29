@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Boggs_Wade_Anthony"
+
+[person.name]
+last = "Boggs"
+use = "Wade"
+given = "Wade Anthony"
+
+[person.birth]
+date = "1958-06-15"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "74"
+weight = "197"

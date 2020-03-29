@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201405_Digby"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "2014-05-03"
+url = "http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=George-Digby&pid=170898899"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-04"
+
+[person.name]
+last = "Digby"
+use = "George"
+given = "George J."
+
+[person.birth]
+date = "1917-08-31"
+
+[person.death]
+date = "2014-05-02"
+
+[person.burial]
+cemetery.name = "Crestview Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Gallatin"

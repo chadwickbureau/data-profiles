@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201912_Hickman"
+
+[[person.meta.citation]]
+title = "Hattiesburg American"
+date = "2020-01-02"
+url = "https://www.legacy.com/obituaries/hattiesburgamerican/obituary.aspx?n=harry-v-hickman&pid=194899173"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Hickman"
+use = "Harry"
+given = "Harry V."
+suffix = "Jr."
+
+[person.death]
+date = "2019-12-31"
+place.country = "US"
+place.state = "MS"
+place.city = "Hattiesburg"
+
+[person.burial]
+cemetery.name = "Highland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Hattiesburg"
+
+[[person.education]]
+school.name = "Hattiesburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Hattiesburg"
+
+[[person.education]]
+school.name = "University of Southern Mississippi"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

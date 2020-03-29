@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201902_OConnor"
+
+[[person.meta.citation]]
+title = "Delhomme Funeral Home"
+date = "2019-02-05"
+url = "https://www.delhommefuneralhome.com/obituaries/Garrett-O-Connor/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-05"
+
+[person.name]
+last = "O'Connor"
+use = "Garrett"
+given = "Garrett Wayne"
+
+[person.birth]
+date = "1962-10-10"
+
+[person.death]
+date = "2019-02-04"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Broussard"
+
+[[person.education]]
+school.name = "Lafayette HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Lafayette"
+
+[[person.education]]
+school.name = "University of Louisiana at Lafayette"
+school.type = "college"

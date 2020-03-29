@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201910_Taylor"
+
+[[person.meta.citation]]
+title = "Powles Station Funeral Home"
+date = "2019-10-29"
+url = "http://www.powlesfuneralhome.com/obituary/Byron-Jack-Clay-Taylor/Rockwell-North-Carolina/1860885"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-29"
+
+[person.name]
+last = "Taylor"
+use = "Jack"
+given = "Byron Clay"
+
+[person.birth]
+date = "1927-10-07"
+
+[person.death]
+date = "2019-10-26"
+
+[person.burial]
+cemetery.name = "Ursinus United Church of Christ Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Rockwell"
+
+[[person.education]]
+school.name = "Oak Ridge Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Oak Ridge"
+
+[[person.education]]
+school.name = "Catawba College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_Mullis"
+
+[[person.meta.citation]]
+title = "Vaughn Funeral Home"
+date = "2020-01-20"
+url = "https://www.vaughnfh.com/notices/Quinton-Mullis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Mullis"
+use = "Quinton"
+given = "Quinton Wayne"
+
+[person.birth]
+date = "1939-01-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Cadwell"
+
+[person.death]
+date = "2019-01-15"
+
+[person.burial]
+cemetery.name = "Telfair Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "McRae"

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201908_Hoffman"
+
+[[person.meta.citation]]
+title = "Sherbrooke Record"
+date = "2019-09-03"
+url = "https://www.legacy.com/obituaries/sherbrookerecord/obituary.aspx?n=walter-frederick-hoffman-wally&pid=193798578&fhid=41254"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Hoffman"
+use = "Wally"
+given = "Walter Frederick"
+
+[person.birth]
+date = "1935"
+
+[person.death]
+date = "2019-08-21"
+place.country = "CA"
+place.state = "QC"
+place.city = "Cowansville"

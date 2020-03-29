@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20191215_008"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1915-05-06"
+pages = "6"
+
+[person.name]
+last = "Bartels"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+description.throws = "R"

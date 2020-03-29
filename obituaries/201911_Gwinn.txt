@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201911_Gwinn"
+
+[[person.meta.citation]]
+title = "John M Ireland & Son Funeral Home"
+date = "2019-11-14"
+url = "https://www.fhwsolutions.com/obituaries/john-m-ireland-funeral-home-and-chapel/tony-gwinn-obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-14"
+
+[person.name]
+last = "Gwinn"
+use = "Tony"
+given = "James Anthony"
+
+[person.birth]
+date = "1964-07-10"
+
+[person.death]
+date = "2019-11-08"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.burial]
+cemetery.name = "Sunny Lane Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Del City"
+
+[[person.education]]
+school.name = "Newcastle HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Newcastle"
+
+[[person.education]]
+school.name = "Seminole State College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Oklahoma City University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"

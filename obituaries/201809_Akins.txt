@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201809_Akins"
+
+[[person.meta.citation]]
+title = "Ledger"
+date = "2018-09-12"
+url = "https://www.legacy.com/obituaries/theledger/obituary.aspx?n=harvey-jackson-akins-jack&pid=190196953"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Akins"
+use = "Jack"
+given = "Harvey Jackson"
+suffix = "Jr."
+
+[person.birth]
+date = "1936-11-04"
+
+[person.death]
+date = "2018-09-11"
+
+[[person.education]]
+school.name = "Lakeland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Lakeland"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

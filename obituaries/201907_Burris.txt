@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201907_Burris"
+
+[[person.meta.citation]]
+title = "Doan & Mills Funeral Home"
+date = "2019-08-04"
+url = "https://www.doanmillsfuneralhome.com/obituaries/William-Burris-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Burris"
+use = "Bill"
+given = "William C."
+
+[person.birth]
+date = "1936-05-11"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+[person.death]
+date = "2019-07-30"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+[person.burial]
+cemetery.name = "Bryan Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Centerville"
+
+[[person.education]]
+school.name = "Centerville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Centerville"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

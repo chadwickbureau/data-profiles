@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201809_Huwer"
+
+[[person.meta.citation]]
+title = "Miller Funeral Home"
+date = "2018-09-17"
+url = "https://www.millerfuneralhomes.net/notices/Charles-Huwer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-17"
+
+[person.name]
+last = "Huwer"
+use = "Chuck"
+given = "Charles E."
+
+[person.birth]
+date = "1928-04-01"
+place.country = "US"
+place.state = "OH"
+place.city = "St. Marys"
+
+[person.death]
+date = "2018-09-14"
+place.country = "US"
+place.state = "OH"
+place.city = "St. Marys"
+
+[person.burial]
+cemetery.name = "Gethsemane Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "St. Marys"
+
+[[person.education]]
+school.name = "St. Marys Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "St. Marys"
+
+[[person.education]]
+school.name = "The Ohio State University"
+school.type = "college"

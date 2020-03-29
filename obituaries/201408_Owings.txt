@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Owings"
+
+[[person.meta.citation]]
+title = "Herald And News"
+date = "2014-08-19"
+url = "http://www.legacy.com/obituaries/heraldandnews/obituary.aspx?n=mark-owings&pid=172162332&fhid=7070&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-19"
+
+[person.name]
+last = "Owings"
+use = "Andy"
+given = "Mark Andrew"
+
+[person.birth]
+date = "1960-09-24"
+place.country = "US"
+place.state = "OR"
+place.city = "Klamath Falls"
+
+[person.death]
+date = "2014-08-15"
+place.country = "US"
+place.state = "OR"
+place.city = "Klamath Falls"
+
+[[person.education]]
+school.name = "Klamath Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Klamath Falls"

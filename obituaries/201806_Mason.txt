@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201806_Mason"
+
+[[person.meta.citation]]
+title = "Morris, O'Connor & Blute Funeral Home"
+date = "2018-08-03"
+url = "https://www.ccgfuneralhome.com/obit/donald-s.-mason"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-03"
+
+[person.name]
+last = "Mason"
+use = "Don"
+given = "Donald S."
+
+[person.birth]
+date = "1944"
+
+[person.death]
+date = "2018-06-19"
+
+[person.burial]
+cemetery.name = "Newton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Newton"
+
+[[person.education]]
+school.name = "Newton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Newton"

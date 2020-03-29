@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_046"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Downey"
+use = "Al"
+given = "Al L."
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "MO"
+place.city = "Macon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"

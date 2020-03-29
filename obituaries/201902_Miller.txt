@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201902_Miller"
+
+[[person.meta.citation]]
+title = "Schmidt & Bartelt Funeral Home"
+date = "2019-02-13"
+url = "https://www.schmidtandbartelt.com/obituaries/detail.aspx?id=12441"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-13"
+
+[person.name]
+last = "Miller"
+use = "Don"
+given = "Donald Charles"
+
+[person.birth]
+date = "1933-07-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Ironton"
+
+[person.death]
+date = "2019-02-04"
+
+[[person.education]]
+school.name = "Ironton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Ironton"
+
+[[person.education]]
+school.name = "University of Dayton"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

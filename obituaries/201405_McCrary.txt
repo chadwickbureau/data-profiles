@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201405_McCrary"
+
+[[person.meta.citation]]
+title = "The Dispatch"
+date = "2014-05-29"
+url = "http://www.the-dispatch.com/article/20140529/OBITUARIES/305299978/-1/sports?Title=James-Earnest-Grampy-McCrary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-02"
+
+[person.name]
+last = "McCrary"
+use = "James"
+given = "James Earnest"
+nick = "Grampy"
+
+[person.birth]
+date = "1929-10-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Lexington"
+
+[person.death]
+date = "2014-05-25"
+place.country = "US"
+place.state = "NC"
+place.city = "Lexington"
+
+[[person.education]]
+school.name = "Lexington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Lexington"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

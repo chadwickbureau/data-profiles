@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201407_Strichek"
+
+[[person.meta.citation]]
+title = "Sun News"
+date = "2014-07-29"
+url = "http://www.legacy.com/obituaries/myrtlebeachonline/obituary.aspx?n=Edward-Strichek&pid=171884514"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-29"
+
+[person.name]
+last = "Strichek"
+use = "Ed"
+given = "Edward Richard"
+
+[person.birth]
+date = "1935-07-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2014-07-26"
+place.country = "US"
+place.state = "SC"
+place.city = "Myrtle Beach"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Conway"

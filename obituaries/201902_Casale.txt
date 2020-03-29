@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201902_Casale"
+
+[[person.meta.citation]]
+title = "EverLoved.com"
+date = "2019-02-19"
+url = "https://everloved.com/life-of/jerry-casale/obituary/?flow=201&fbclid=IwAR0N9eRQ3zAjjECYtQ4g-e3m0vyZGcQ5LaO2aVK3IewWkTl6zjowiQtEOGg"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-19"
+
+[person.name]
+last = "Casale"
+use = "Jerry"
+given = "Gennaro"
+
+[person.birth]
+date = "1933-09-27"
+
+[person.death]
+date = "2019-02-09"
+
+[person.burial]
+cemetery.name = "Moravian Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Staten Island"

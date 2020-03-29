@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201907_Scott"
+
+[[person.meta.citation]]
+title = "Williams Funeral Homes"
+date = "2019-07-08"
+url = "https://www.williamsfuneralhomes.com/notices/Hickie-Scott"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Scott"
+use = "Hickie"
+given = "Thomas Hickman"
+
+[person.birth]
+date = "1930-12-29"
+
+[person.death]
+date = "2019-07-02"
+place.country = "US"
+place.state = "FL"
+place.city = "Sarasota"
+
+[person.burial]
+cemetery.name = "Parksley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Parksley"
+
+[[person.education]]
+school.name = "Bloxom HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Bloxom"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

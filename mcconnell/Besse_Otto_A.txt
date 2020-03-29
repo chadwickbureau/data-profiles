@@ -1,0 +1,12 @@
+[[person]]
+
+[person.meta]
+key = "Besse_Otto_A"
+
+[person.name]
+last = "Besse"
+use = "Otto"
+given = "Otto A."
+
+[person.birth]
+date = "1877-08-29"

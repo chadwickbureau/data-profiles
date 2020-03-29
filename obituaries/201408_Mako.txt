@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201408_Mako"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2014-09-11"
+url = "http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=Henry-Mako&pid=172438049"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-15"
+
+[person.name]
+last = "Mako"
+use = "Hank"
+given = "Henry"
+
+[person.birth]
+date = "1924-06-09"
+place.country = "US"
+place.state = "WA"
+place.city = "Centralia"
+
+[person.death]
+date = "2014-08-31"
+
+[person.burial]
+cemetery.name = "Willamette National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Portland"
+
+[[person.education]]
+school.name = "Benson Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

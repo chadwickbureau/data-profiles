@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202001_Smith_Hal"
+
+[[person.meta.citation]]
+title = "Henneke Funeral Home"
+date = "2020-01-12"
+url = "https://www.hennekefuneralhome.com/services.asp?page=odetail&id=1300&locid=0"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Smith"
+use = "Hal"
+given = "Harold Wayne"
+
+[person.birth]
+date = "1930-12-07"
+place.country = "US"
+place.state = "IL"
+place.city = "West Frankfort"
+
+[person.death]
+date = "2020-01-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Columbus"

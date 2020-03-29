@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "198100_McDowell"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1981-12-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-08"
+
+[person.name]
+last = "McDowell"
+use = "J. L."
+given = "James L."
+suffix = "Sr."
+
+[person.death]
+date = "1981"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Brookhaven"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

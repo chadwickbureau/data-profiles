@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201906_Hal"
+
+[[person.meta.citation]]
+title = "Portland Press Herald/Maine Sunday Telegram"
+date = "2019-06-28"
+url = "https://obituaries.pressherald.com/obituaries/mainetoday-pressherald/obituary.aspx?n=richard-m-hall-rick&pid=193263461&fhid=31990"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-28"
+
+[person.name]
+last = "Hall"
+use = "Rick"
+given = "Richard M."
+
+[person.birth]
+date = "1929-04-24"
+place.country = "US"
+place.state = "ME"
+place.city = "Portland"
+
+[person.death]
+date = "2019-06-24"

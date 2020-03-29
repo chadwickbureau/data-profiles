@@ -1,0 +1,150 @@
+[[person]]
+
+[person.meta]
+key = "79275"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/79275"
+title = "The Sporting News Player Contract Cards, ScanID: 1015000355"
+
+[person.name]
+last = "Fletcher"
+given = "O. Frank"
+
+[[person.alias]]
+name.last = "Franks"
+type = "alias"
+dates = "1914/1914"
+
+
+[person.description]
+position = "IF"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "165"
+note = [ "played for Syracuse as Franks" ]
+
+[person.birth]
+date = "1891"
+
+[person.death]
+date = "1974-10-07"
+place.country = "US"
+place.state = "FL"
+place.city = "St. Petersburg"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Ridge Farm"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Lincoln (IL)"
+note = "Lincoln (IL) 1910"
+
+[[person.transaction]]
+date = "1910-05"
+type = "released"
+leave.name = "Lincoln (IL)"
+note = "rel 1910-05"
+
+[[person.transaction]]
+date = "1912-03"
+type = "signed"
+join.name = "Muscatine"
+note = "Muscatine 1912-03"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Clarksville"
+note = "Clarksville 1913-05"
+
+[[person.transaction]]
+date = "1914-05"
+type = "reserved"
+join.name = "Clarksville"
+
+[[person.transaction]]
+date = "1914-08"
+type = "signed"
+join.name = "Philadelphia (NL)"
+note = "Philadelphia (NL) 1914-08"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Philadelphia (NL)"
+
+[[person.transaction]]
+date = "opt to Syracuse 1914"
+type = "released"
+leave.name = "Philadelphia (NL)"
+note = "rel opt to Syracuse 1914"
+
+[[person.transaction]]
+date = "1915-01"
+type = "recalled"
+leave.name = "Philadelphia (NL)"
+join.name = "Philadelphia (NL)"
+note = "rec by Philadelphia (NL) 1915-01"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Philadelphia (NL)"
+join.name = "Manchester"
+note = "rel to Manchester 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Manchester"
+note = "rel 1915-05"
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Cedar Rapids"
+note = "Cedar Rapids 1915-06"
+
+[[person.transaction]]
+date = "1919-05"
+type = "signed"
+join.name = "Battle Creek"
+note = "Battle Creek 1919-05"
+
+[[person.transaction]]
+date = "1919-06"
+type = "released"
+leave.name = "Battle Creek"
+note = "rel 1919-06"
+
+[[person.transaction]]
+date = "1920-05"
+type = "signed"
+join.name = "Orlando"
+note = "Orlando 1920-05"
+
+[[person.transaction]]
+date = "1920-07"
+type = "released"
+leave.name = "Orlando"
+note = "rel 1920-07"
+
+[[person.transaction]]
+date = "1921-05"
+type = "signed"
+join.name = "St. Petersburg"
+note = "St. Petersburg 1921-05"
+
+[[person.transaction]]
+date = "1922-08"
+type = "signed"
+join.name = "Danville (IL)"
+note = "Danville (IL) 1922-08"
+

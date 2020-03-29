@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Brummitt_Richard_Hobart"
+
+[person.name]
+last = "Brummitt"
+use = "Hobe"
+given = "Richard Hobart"
+
+[person.birth]
+date = "1900-12-26"
+place.country = "US"
+place.state = "TN"
+place.city = "Oliver Springs"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "180"

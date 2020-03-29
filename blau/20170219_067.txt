@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170219_067"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1920-04-28"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1922-05-13"
+pages = "11"
+
+[person.name]
+last = "O'Connor"
+use = "Dick"
+given = "Dick"
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Portland"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Memphis"
+team.league.name = "Southern Association"

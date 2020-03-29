@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201905_Collie"
+
+[[person.meta.citation]]
+title = "Richard Boles Funeral Service"
+date = "2019-05-27"
+url = "https://www.richardbolesfuneralservice.com/notices/Ronald-Collie"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Collie"
+use = "Ronald"
+given = "Ronald Hampton"
+
+[person.birth]
+date = "1935-01-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Danville"
+
+[person.death]
+date = "2019-05-24"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"

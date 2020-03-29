@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Blasingame_Don_Lee"
+
+[person.name]
+last = "Blasingame"
+use = "Don"
+given = "Don Lee"
+
+[person.birth]
+date = "1932-03-16"
+place.country = "US"
+place.state = "MS"
+place.city = "Corinth"
+
+[person.death]
+date = "2005-04-13"
+place.country = "US"
+place.state = "AZ"
+place.city = "Fountain Hills"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70"
+weight = "165"
+
+[[person.relation]]
+relationship = "son-in-law of"
+person.name.last = "Cooper"
+person.name.use = "Walker"
+person.name.given = "Walker"

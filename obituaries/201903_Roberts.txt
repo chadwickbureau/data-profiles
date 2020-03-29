@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201903_Roberts"
+
+[[person.meta.citation]]
+title = "Daytona Beach News-Journal"
+date = "2019-03-10"
+url = "https://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=robert-dean-roberts&pid=191772131&fhid=5897"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Roberts"
+use = "Bobby"
+given = "Robert Dean"
+
+[person.birth]
+date = "1934-05-07"
+
+[person.death]
+date = "2019-03-07"
+
+[[person.education]]
+school.name = "Pierson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Pierson"

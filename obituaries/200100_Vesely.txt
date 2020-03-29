@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "200100_Vesely"
+
+[[person.meta.citation]]
+title = "Ottawa Funeral Home"
+date = "2019-12-10"
+url = "https://www.ottawafuneralhome.com/obituary/dorothy-vesely"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Vesely"
+use = "Edwin"
+given = "Edwin"
+
+[person.death]
+date = "2001"
+
+[[person.affiliation]]
+type = "player"
+dates = "1948"
+team.name = "Visalia"
+team.league.name = "California League"

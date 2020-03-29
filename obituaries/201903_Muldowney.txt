@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201903_Muldowney"
+
+[[person.meta.citation]]
+title = "Maurer Funeral Home"
+date = "2019-03-13"
+url = "http://www.maurerfuneralhome.com/obituary/william-bill-muldowney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-13"
+
+[person.name]
+last = "Muldowney"
+use = "Bill"
+given = "William J."
+
+[person.birth]
+date = "1929-08-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Pottsville"
+
+[person.death]
+date = "2019-03-11"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Syracuse"
+
+[[person.education]]
+school.name = "Minersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Minersville"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

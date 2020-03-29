@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200319_002"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1907-09-07"
+pages = "1"
+
+[person.name]
+last = "Culver"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1898"
+team.name = "Reading"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Tamaqua"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Birmingham"
+team.league.name = "Southern Association"

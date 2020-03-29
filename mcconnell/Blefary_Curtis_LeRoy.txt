@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Blefary_Curtis_LeRoy"
+
+[person.name]
+last = "Blefary"
+use = "Curtis"
+given = "Curtis LeRoy"
+
+[person.birth]
+date = "1943-07-05"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2001-01-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Pompano Beach"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "74"
+weight = "195"
+
+[[person.education]]
+school.name = "Wagner College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Staten Island"
+
+[[person.education]]
+school.name = "Towson State College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"

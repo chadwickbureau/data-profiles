@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201812_Scherfel"
+
+[[person.meta.citation]]
+title = "Schumacher & Benner Funeral Home"
+date = "2019-01-21"
+url = "https://webcache.googleusercontent.com/search?q=cache:xYgMGyHDrZ4J:https://www.schumacherandbenner.com/pottstown/funeral-home/obit.aspx%3FObitID%3D3317+&cd=25&hl=en&ct=clnk&gl=us"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-21"
+
+[person.name]
+last = "Scherfel"
+use = "William"
+given = "William"
+suffix = "III"
+
+[person.death]
+date = "2018-12-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Pottstown"
+
+[[person.education]]
+school.name = "Owen J. Roberts HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pottstown"
+
+[[person.education]]
+school.name = "Valley Forge Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Wayne"
+
+[[person.education]]
+school.name = "Tarleton State University"
+school.type = "college"

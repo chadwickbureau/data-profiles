@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201808_Boyer"
+
+[[person.meta.citation]]
+title = "George Funeral Home"
+date = "2018-09-03"
+url = "https://georgefuneralhomes.com/tribute/details/108072/Donald-Boyer/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Boyer"
+use = "Don"
+given = "Donald Blaine"
+
+[person.birth]
+date = "1934-07-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Ironton"
+
+[person.death]
+date = "2018-08-19"
+
+[[person.education]]
+school.name = "Ironton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Ironton"
+
+[[person.education]]
+school.name = "Eastern Kentucky University"
+school.type = "college"

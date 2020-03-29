@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201903_Ziegemeier"
+
+[[person.meta.citation]]
+title = "Pitman Funeral Home"
+date = "2019-03-25"
+url = "http://www.pitmanfuneralhome.com/view.php?id=4096"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-25"
+
+[person.name]
+last = "Ziegemeier"
+use = "Jack"
+given = "John Paul"
+
+[person.death]
+date = "2019-03-21"
+
+[person.burial]
+cemetery.name = "St. Paul Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Paul"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

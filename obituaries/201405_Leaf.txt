@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201405_Leaf"
+
+[[person.meta.citation]]
+title = "Star Tribune"
+date = "2014-06-01"
+url = "http://www.startribune.com/obituaries/detail/14093222/?fullname=gust-richard-dick-leaf"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-02"
+
+[person.name]
+last = "Leaf"
+use = "Dick"
+given = "Gust Richard"
+
+[person.death]
+date = "2014-05-29"
+
+[person.burial]
+cemetery.name = "Lakewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Minneapolis"

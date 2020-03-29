@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201312_Willis"
+
+[[person.meta.citation]]
+title = "The Arizona Republic"
+date = "2013-12-15"
+url = "http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=William-Willis&pid=168538122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-16"
+
+[person.name]
+last = "Willis"
+use = "Blake"
+given = "William Blake"
+suffix = "Sr."
+
+[person.birth]
+date = "1929-07-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Paducah"
+
+[person.death]
+date = "2013-12-08"
+
+[person.burial]
+cemetery.name = "National Memorial Cemetery of Arizona"
+cemetery.place.country = "US"
+cemetery.place.state = "AZ"
+cemetery.place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Phoenix Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Arizona State"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Bell_Roy_Chester"
+
+[person.name]
+last = "Bell"
+use = "Roy"
+given = "Roy Chester"
+nick = "Beau"
+
+[person.birth]
+date = "1907-08-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Bellville"
+
+[person.death]
+date = "1977-09-14"
+place.country = "US"
+place.state = "TX"
+place.city = "College Station"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "185"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

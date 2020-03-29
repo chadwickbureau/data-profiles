@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201904_Woodward"
+
+[[person.meta.citation]]
+title = "Spicer-Mullikin Funeral Home"
+date = "2019-04-29"
+url = "https://spicermullikin.com/david-woodward/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-29"
+
+[person.name]
+last = "Woodward"
+use = "Dave"
+given = "David"
+
+[person.birth]
+date = "1933-03-25"
+
+[person.death]
+date = "2019-04-21"
+
+[[person.education]]
+school.name = "Henry C. Conrad HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Wilmington"
+
+[[person.education]]
+school.name = "University of Delaware"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201809_Stange"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2018-09-23"
+url = "https://www.bostonglobe.com/sports/redsox/2018/09/23/lee-stange-pitcher-red-sox-staff-dies/VGZ0b2nDwleWE6gQq4xoVM/story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Stange"
+use = "Lee"
+given = "Lee"
+
+[person.death]
+date = "2018-09-21"

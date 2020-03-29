@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201400_Tuma"
+
+[[person.meta.citation]]
+title = "Newcomer Funeral Home"
+date = "2014-10-07"
+url = "http://www.newcomercasper.com/obituary.aspx?src=value&obitid=88785&fname=Harold+Edward&lname=Tuma&city=Casper&st=WY"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Tuma"
+use = "Hal"
+given = "Harold Edward"
+
+[person.birth]
+date = "1923-03-15"
+place.country = "US"
+place.state = "NE"
+place.city = "Cotesfield"
+
+[person.death]
+date = "2014"
+place.country = "US"
+place.state = "WY"
+place.city = "Casper"
+
+[[person.education]]
+school.name = "Glenrock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WY"
+school.place.city = "Glenrock"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

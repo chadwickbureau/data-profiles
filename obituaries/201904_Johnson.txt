@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201904_Johnson"
+
+[[person.meta.citation]]
+title = "McClure Funeral Home"
+date = "2019-04-25"
+url = "https://www.mcclurefuneralservice.net/notices/DrAllenMonroe-Johnson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-25"
+
+[person.name]
+last = "Johnson"
+use = "Monroe"
+given = "Allen Monroe"
+
+[person.birth]
+date = "1928-09-25"
+place.country = "US"
+place.state = "NC"
+place.city = "Mebane"
+
+[person.death]
+date = "2019-04-21"
+
+[person.burial]
+cemetery.name = "Oak Grove Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Mebane"
+
+[[person.education]]
+school.name = "Hillsborough HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Hillsborough"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

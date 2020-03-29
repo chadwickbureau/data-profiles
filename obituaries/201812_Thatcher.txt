@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Thatcher"
+
+[[person.meta.citation]]
+title = "Deseret News"
+date = "2018-12-20"
+url = "http://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=aaron-vere-thatcher&pid=191040316"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Thatcher"
+use = "Aaron"
+given = "Aaron Vere"
+
+[person.birth]
+date = "1974-05-18"
+place.country = "US"
+place.state = "UT"
+place.city = "Logan"
+
+[person.death]
+date = "2018-12-18"
+place.country = "US"
+place.state = "UT"
+place.city = "Ogden"

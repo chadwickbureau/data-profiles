@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20191215_004"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1916-04-13"
+pages = "8"
+
+[person.name]
+last = "Edny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Montgomery"
+team.league.name = "South Atlantic League"
+description.throws = "L"

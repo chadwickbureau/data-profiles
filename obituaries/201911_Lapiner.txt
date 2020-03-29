@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201911_Lapiner"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-11-19"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=victor-bruce-lapiner&pid=194485527&fhid=12214"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-19"
+
+[person.name]
+last = "Lapiner"
+use = "Vic"
+given = "Victor Bruce"
+
+[person.birth]
+date = "1934-09-26"
+
+[person.death]
+date = "2019-11-16"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"

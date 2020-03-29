@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_110"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "Kelley"
+use = "Herb't"
+given = "Herb't"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "R"
+description.throws = "R"
+description.age = "23"

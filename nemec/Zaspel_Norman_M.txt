@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "Zaspel_Norman_M"
+
+[person.name]
+last = "Zaspel"
+use = "Norm"
+given = "Norman M."
+
+[person.birth]
+date = "1923-05-10"
+place.country = "US"
+place.state = "MN"
+place.city = "North St. Paul"
+
+[person.death]
+date = "2009-12-11"
+place.country = "US"
+place.state = "WI"
+place.city = "Green Bay"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.resides]]
+dates = "1942"
+place.country = "US"
+place.state = "MN"
+place.city = "North St. Paul"
+place.address = "30 14th Ave."
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Zaspel"
+person.name.use = "Donald"
+person.name.given = "Donald Fred"
+
+
+[[person.education]]
+school.name = "North St. Paul High School"
+school.type = "secondary"
+
+
+[[person.playing]]
+season = "1942"
+league.name = "Northern League"
+splits.0.team.name = "Fargo-Moorhead"
+totals.P_G = "2"
+totals.P_CG = "0"
+totals.P_IP = "9"
+totals.P_W = "0"
+totals.P_L = "0"
+totals.P_PCT = ".000"
+
+[[person.playing]]
+season = "1942"
+league.name = "Wisconsin State League"
+splits.0.team.name = "Sheboygan"
+totals.P_G = "2"
+totals.P_CG = "0"
+totals.P_IP = "6"
+totals.P_W = "0"
+totals.P_L = "1"
+totals.P_PCT = ".000"
+totals.P_H = "16"
+totals.P_BB = "3"
+totals.P_SO = "1"
+totals.P_R = "10"
+totals.P_ER = "9"
+totals.P_ERA = "13.50"

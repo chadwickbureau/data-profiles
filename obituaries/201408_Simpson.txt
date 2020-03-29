@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201408_Simpson"
+
+[[person.meta.citation]]
+title = "Reid Funeral Home"
+date = "2014-09-01"
+url = "http://reidleamington.frontrunnerpro.com/book-of-memories/1936838/Simpson-Robert/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Simpson"
+use = "Bob"
+given = "Robert W."
+
+[person.birth]
+date = "1932-02-12"
+
+[person.death]
+date = "2014-08-26"
+place.country = "CA"
+place.state = "ON"
+place.city = "Leamington"
+
+[person.burial]
+cemetery.name = "Windsor Memorial Gardens Cemetery & Crematorium"
+cemetery.place.country = "CA"
+cemetery.place.state = "ON"
+cemetery.place.city = "Windsor"

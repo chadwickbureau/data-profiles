@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201910_Tiernan"
+
+[[person.meta.citation]]
+title = "Kurrus Funeral Home"
+date = "2019-10-07"
+url = "https://kurrusfh.com/obituaries/thomas-soucy-tiernan-sr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Tiernan"
+use = "Tom"
+given = "Thomas Soucy"
+suffix = "Sr."
+
+[person.birth]
+date = "1928-08-24"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2019-10-02"
+
+[person.burial]
+cemetery.name = "Mount Carmel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Belleville"
+
+[[person.education]]
+school.name = "East St. Louis HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "East St. Louis"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

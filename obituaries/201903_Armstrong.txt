@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201903_Armstrong"
+
+[[person.meta.citation]]
+title = "Mather Hodge Funeral Home"
+date = "2020-01-18"
+url = "https://matherhodge.com/tribute/details/1647/Reverend-Dr-Richard-Armstrong/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Armstrong"
+use = "Dick"
+given = "Richard Stoll"
+
+[person.birth]
+date = "1924-03-29"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2019-03-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Plainsboro Township"
+
+[[person.education]]
+school.name = "McDonogh School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Owings Mill"
+
+[[person.education]]
+school.name = "Princeton University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

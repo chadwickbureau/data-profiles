@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Brown_Ollie_Lee"
+
+[person.name]
+last = "Brown"
+use = "Ollie"
+given = "Ollie Lee"
+
+[person.birth]
+date = "1944-02-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Tuscaloosa"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "200"

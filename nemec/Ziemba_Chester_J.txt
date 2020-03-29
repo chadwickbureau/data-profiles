@@ -1,0 +1,104 @@
+[[person]]
+
+[person.meta]
+key = "Ziemba_Chester_J"
+
+[person.name]
+last = "Ziemba"
+use = "Chet"
+given = "Chester J."
+
+[person.birth]
+date = "1919-11-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2002-08-27"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "195"
+
+[person.sameas]
+ssn = "357-07-5317"
+
+[[person.resides]]
+dates = "1941"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+place.address = "1700 W. 14th Street"
+
+
+[[person.education]]
+school.name = "Crane Tech High School"
+school.type = "secondary"
+
+[[person.education]]
+school.name = "University of Illinois"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"
+
+
+[[person.playing]]
+season = "1941"
+league.name = "Michigan State League"
+splits.0.team.name = "Saginaw"
+totals.F_POS = "OF-C-2B"
+totals.B_G = "68"
+totals.B_AB = "176"
+totals.B_R = "37"
+totals.B_H = "48"
+totals.B_TB = "87"
+totals.B_2B = "10"
+totals.B_3B = "1"
+totals.B_HR = "9"
+totals.B_RBI = "40"
+totals.B_SB = "3"
+totals.B_AVG = ".273"
+
+[[person.playing]]
+season = "1942"
+league.name = "Western Association"
+splits.0.team.name = "Muskogee"
+totals.F_POS = "OF-C"
+totals.B_G = "85"
+totals.B_AB = "251"
+totals.B_R = "44"
+totals.B_H = "75"
+totals.B_TB = "130"
+totals.B_2B = "16"
+totals.B_3B = "9"
+totals.B_HR = "7"
+totals.B_RBI = "41"
+totals.B_SB = "1"
+totals.B_AVG = ".299"
+
+[[person.playing]]
+season = "1946"
+league.name = "Eastern League"
+splits.0.team.name = "Scranton"
+splits.1.team.name = "Albany"
+totals.F_POS = "C"
+totals.B_G = "50"
+totals.B_AB = "130"
+totals.B_R = "22"
+totals.B_H = "34"
+totals.B_TB = "47"
+totals.B_2B = "5"
+totals.B_3B = "1"
+totals.B_HR = "2"
+totals.B_RBI = "18"
+totals.B_SB = "0"
+totals.B_AVG = ".262"

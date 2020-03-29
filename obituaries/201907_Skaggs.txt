@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201907_Skaggs"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2019-07-02"
+url = "https://www.espn.com/mlb/story/_/id/27099081/angels-pitcher-tyler-skaggs-27-dies-texas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Skaggs"
+use = "Tyler"
+given = "Tyler"
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "Woodland Hills"
+
+[person.death]
+date = "2019-07-01"
+place.country = "US"
+place.state = "TX"
+place.city = "Southlake"

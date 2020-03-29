@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Bernazard_Antonio"
+
+[person.name]
+last = "Bernazard"
+use = "Tony"
+given = "Antonio"
+matrilineal = "Garcia"
+
+[person.birth]
+date = "1956-08-24"
+place.country = "PR"
+place.city = "Caguas"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "69"
+weight = "160"

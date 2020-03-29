@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201910_Landis"
+
+[[person.meta.citation]]
+title = "San Luis Obispo County Tribune"
+date = "2019-10-09"
+url = "https://www.legacy.com/obituaries/sanluisobispo/obituary.aspx?n=jack-lee-landis&pid=194112157&fhid=20254"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-09"
+
+[person.name]
+last = "Landis"
+use = "Jack"
+given = "Jack Lee"
+
+[person.birth]
+date = "1930-01-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Macomb"
+
+[person.death]
+date = "2019-10-05"
+
+[[person.education]]
+school.name = "Western HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Macomb"
+
+[[person.education]]
+school.name = "Western Illinois University"
+school.type = "college"

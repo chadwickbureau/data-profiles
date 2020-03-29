@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201905_King"
+
+[[person.meta.citation]]
+title = "Mercury News"
+date = "2019-05-16"
+url = "https://www.mercurynews.com/2019/05/16/remembering-coach-tom-king-an-extraordinary-baseball-man/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-16"
+
+[person.name]
+last = "King"
+use = "Tom"
+given = "Tom"
+
+[person.death]
+date = "2019-05-02"
+
+[[person.education]]
+school.name = "Galileo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"

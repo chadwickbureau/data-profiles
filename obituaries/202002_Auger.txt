@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202002_Auger"
+
+[[person.meta.citation]]
+title = "Becker Ritter Funeral Home"
+date = "2020-02-25"
+url = "https://www.beckerritter.com/tributes/DrGeraldJerry-Auger"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-25"
+
+[person.name]
+last = "Auger"
+use = "Jerry"
+given = "Gerald E."
+
+[person.birth]
+date = "1939-09-21"
+
+[person.death]
+date = "2020-02-20"
+
+[person.burial]
+cemetery.name = "St. Mary's Visitation Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Elm Grove"
+
+[[person.education]]
+school.name = "Wauwatosa East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Wauwatosa"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

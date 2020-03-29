@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_027"
+
+[[person.meta.citation]]
+title = "Aberdeen Journal"
+date = "1922-05-11"
+
+[person.name]
+last = "Guerney"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"

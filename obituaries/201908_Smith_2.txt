@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201908_Smith_2"
+
+[[person.meta.citation]]
+title = "Winfield Funeral Home"
+date = "2019-08-16"
+url = "https://www.winnfieldfuneralhome-batonrouge.com/obituary/samuel-smith"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Smith"
+use = "Samuel"
+given = "Samuel Albert"
+
+[person.birth]
+date = "1938-05-11"
+
+[person.death]
+date = "2019-08-04"

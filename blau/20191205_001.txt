@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20191205_001"
+
+[[person.meta.citation]]
+title = "Knoxville Journal and Tribune"
+date = "1915-08-28"
+pages = "3"
+
+[person.name]
+last = "Bales"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Valdosta"
+team.league.name = "Florida-Alabama-Georgia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Appalachian League"

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201808_Christie"
+
+[[person.meta.citation]]
+title = "Neptune Society"
+date = "2018-08-24"
+url = "http://www.legacy.com/obituaries/neptune-society/obituary.aspx?n=FRANK-CHRISTIE&lc=8212&pid=190030098&mid=7966614"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-24"
+
+[person.name]
+last = "Christie"
+use = "Frank"
+given = "Frank Edward"
+
+[person.birth]
+date = "1922-08-08"
+place.country = "US"
+place.state = "GA"
+place.city = "Dawson"
+
+[person.death]
+date = "2018-08-19"
+place.country = "US"
+place.state = "FL"
+place.city = "Tallahassee"
+
+[person.burial]
+cemetery.name = "Tallahassee National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Tallahassee"
+
+[[person.education]]
+school.name = "Middle Georgia State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

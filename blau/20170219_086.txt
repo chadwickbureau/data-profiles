@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170219_086"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[person.name]
+last = "Cherry"
+use = "Bud"
+given = "Bud"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.bats = "R"
+description.throws = "R"

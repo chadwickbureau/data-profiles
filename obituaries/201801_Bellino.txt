@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201801_Bellino"
+
+[[person.meta.citation]]
+title = "Clayton & McGirr Funeral Home"
+date = "2018-07-17"
+url = "https://claytonfuneralhome.com/tribute/details/2968/Raymond-Bellino/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Bellino"
+use = "Raymond"
+given = "Raymond A."
+
+[person.birth]
+date = "1932"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2018-01-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "Edison"
+
+[person.burial]
+cemetery.name = "Brigadier General William C. Doyle Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Wrightstown"
+
+[[person.military]]
+country = "US"
+branch = "Army"

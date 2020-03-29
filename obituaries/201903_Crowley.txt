@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201903_Crowley"
+
+[[person.meta.citation]]
+title = "Marley Funeral Home"
+date = "2019-04-01"
+url = "https://www.marleyfuneralhome.com/obituaries/Robert-Bob-E-Crowley?obId=4262799#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-01"
+
+[person.name]
+last = "Crowley"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1931-07-14"
+place.country = "US"
+place.state = "NY"
+place.city = "Salamanca"
+
+[person.death]
+date = "2019-03-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Batavia"
+
+[person.burial]
+cemetery.name = "St. Vincent's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Attica"

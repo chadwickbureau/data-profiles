@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201810_OReilly"
+
+[[person.meta.citation]]
+title = "Clancy-Gernon Funeral Home"
+date = "2018-10-21"
+url = "https://www.clancygernon.com/obituaries/Henry-O-Reilly/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "O'Reilly"
+use = "Henry"
+given = "Henry Marshall"
+nick = "Irish"
+
+[person.birth]
+date = "1944-09-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Kankakee"
+
+[person.death]
+date = "2018-10-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Kankakee"
+
+[[person.education]]
+school.name = "Illinois State University"
+school.type = "college"

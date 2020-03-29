@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201312_Renninger"
+
+[[person.meta.citation]]
+title = "Laubenthal-Mercado Funeral Home"
+date = "2013-12-10"
+url = "http://www.laubenthalmercado.com/webcast/17294"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-10"
+
+[person.name]
+last = "Renninger"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1949-05-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Elyria"
+
+[person.death]
+date = "2013-12-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[[person.education]]
+school.name = "Keystone HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "La Grange"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

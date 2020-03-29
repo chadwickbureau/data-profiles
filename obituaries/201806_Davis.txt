@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201806_Davis"
+
+[[person.meta.citation]]
+title = "Albany Herald"
+date = "2018-06-20"
+url = "https://www.albanyherald.com/james-wheeler-buddy-davis/article_83b474d0-7757-5522-8a5d-cf2345d415c3.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-16"
+
+[person.name]
+last = "Davis"
+use = "James"
+given = "James Wheeler"
+nick = "Buddy"
+
+[person.death]
+date = "2018-06-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Hopeful"
+
+[person.burial]
+cemetery.name = "Hopeful Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Camilla"
+
+[[person.education]]
+school.name = "Georgia Southwestern State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

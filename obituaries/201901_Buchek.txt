@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201901_Buchek"
+
+[[person.meta.citation]]
+title = "Walnutlawn Funeral Home"
+date = "2019-01-10"
+url = "http://www.walnutlawnfuneralhome.com/obituary/gerald-bucheck?fbclid=IwAR3eR1PE_nfHcJV2I12NUuRqGozfTiI8EQ57fbgbf5hh1csMdpj4a9JYgTM"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-10"
+
+[person.name]
+last = "Buchek"
+use = "Gerald"
+given = "Gerald Peter"
+
+[person.birth]
+date = "1942-05-09"
+
+[person.death]
+date = "2019-01-02"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"

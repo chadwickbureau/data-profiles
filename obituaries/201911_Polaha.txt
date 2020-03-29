@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Polaha"
+
+[[person.meta.citation]]
+title = "Morning Call"
+date = "2019-11-22"
+url = "https://www.legacy.com/obituaries/mcall/obituary.aspx?n=joseph-p-polaha&pid=194511282&fhid=9585"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-22"
+
+[person.name]
+last = "Polaha"
+use = "Joe"
+given = "Joseph P."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+
+[person.death]
+date = "2019-11-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+
+[[person.education]]
+school.name = "Allentown Central Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Allentown"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

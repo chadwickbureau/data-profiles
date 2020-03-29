@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201902_Wilderman"
+
+[[person.meta.citation]]
+title = "Koepsell Funeral Home"
+date = "2019-05-27"
+url = "http://hosting-22669.tributes.com/obituary/show/Carl-Dean-Wilderman-106803213"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Wilderman"
+use = "Dean"
+given = "Carl Dean"
+
+[person.birth]
+date = "1938-10-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Browns Corner"
+
+[person.death]
+date = "2019-02-03"
+place.country = "US"
+place.state = "WI"
+place.city = "Beaver Dam"
+
+[[person.education]]
+school.name = "Mayville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Mayville"

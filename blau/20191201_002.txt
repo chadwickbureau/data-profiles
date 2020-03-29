@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20191201_002"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-12-29"
+pages = "1"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[person.description]
+note = [ "didn't report after Cubs traded him to Wichita Falls, just reinstated by Cubs" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"

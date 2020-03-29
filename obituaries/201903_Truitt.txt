@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201903_Truitt"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-03-17"
+url = "https://www.dignitymemorial.com/obituaries/salisbury-md/billy-truitt-8205285"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Truitt"
+use = "Billy"
+given = "Billy B."
+
+[person.birth]
+date = "1933-05-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Hebron"
+
+[person.death]
+date = "2019-03-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Salisbury"
+
+[person.burial]
+cemetery.name = "Hebron Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Hebron"
+
+[[person.education]]
+school.name = "Hebron HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Hebron"

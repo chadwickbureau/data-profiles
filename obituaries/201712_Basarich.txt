@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201712_Basarich"
+
+[[person.meta.citation]]
+title = "Herr Funeral Home"
+date = "2017-12-22"
+url = "http://www.herrfuneral.com/book-of-memories/3378800/Basarich-John/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-22"
+
+[person.name]
+last = "Basarich"
+use = "John"
+given = "John"
+nick = "Yonko"
+
+[person.birth]
+date = "1939-08-01"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2017-12-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Maryville"
+
+[[person.education]]
+school.name = "East Side HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "East St. Louis"
+
+[[person.education]]
+school.name = "Huron University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "SD"
+school.place.city = "Huron"

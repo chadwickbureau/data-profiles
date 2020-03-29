@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201810_Christianson"
+
+[[person.meta.citation]]
+title = "Press-Enterprise"
+date = "2018-11-11"
+url = "https://www.legacy.com/obituaries/pe/obituary.aspx?n=lyle-edgar-christianson&pid=190713117"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-11"
+
+[person.name]
+last = "Christianson"
+use = "Lyle"
+given = "Lyle Edgar"
+
+[person.birth]
+date = "1927-05-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Ana"
+
+[person.death]
+date = "2018-10-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside"
+
+[[person.education]]
+school.name = "Santa Ana HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Ana"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

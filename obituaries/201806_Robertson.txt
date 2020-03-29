@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201806_Robertson"
+
+[[person.meta.citation]]
+title = "Barry Wilson Funeral Home"
+date = "2018-06-24"
+url = "http://www.barrywilsonfuneralhome.com/index.aspx?news=542"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Robertson"
+use = "Michael"
+given = "Michael Dean"
+
+[person.birth]
+date = "1962-06-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.death]
+date = "2018-06-18"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.burial]
+cemetery.name = "St. John Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Collinsville"
+
+[[person.education]]
+school.name = "Southern Illinois University Carbondale"
+school.type = "college"
+
+[[person.education]]
+school.name = "Southern Illinois University Edwardsville"
+school.type = "college"

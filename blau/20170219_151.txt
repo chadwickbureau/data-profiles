@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170219_151"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1923-05-09"
+pages = "23"
+
+[person.name]
+last = "Duryea"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Binghamton"
+team.league.name = "New York-Pennsylvania League"
+description.bats = "L"
+description.throws = "L"
+description.height = "73.5"
+description.weight = "175"

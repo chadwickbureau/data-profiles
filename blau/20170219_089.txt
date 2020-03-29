@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170219_089"
+
+[[person.meta.citation]]
+title = "Bridgeport Evening Farmer"
+date = "1916-05-13"
+
+[person.name]
+last = "Hoffman"
+use = "Danny"
+given = "Danny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "New York"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"

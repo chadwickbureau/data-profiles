@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201808_Kennedy"
+
+[[person.meta.citation]]
+title = "CCBFuneral.com"
+date = "2018-08-17"
+url = "https://ccbfuneral.com/wp-content/plugins/funeralworks_obituary_plugin/ajax-obituary2.php?Counter=6289&mn=23"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-17"
+
+[person.name]
+last = "Kennedy"
+use = "John"
+given = "John E."
+nick = "Super Sub"
+
+[person.birth]
+date = "1941-05-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2018-08-09"
+place.country = "US"
+place.state = "MA"
+place.city = "Peabody"
+
+[[person.education]]
+school.name = "Harper HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"

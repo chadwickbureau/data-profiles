@@ -1,0 +1,76 @@
+[[person]]
+
+[person.meta]
+key = "20170219_034"
+
+[[person.meta.citation]]
+title = "Waco News Tribune"
+date = "1925-04-21"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1925-06-22"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1925-08-21"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1925-07-07"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1927-08-05"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1927-06-02"
+pages = "17"
+
+[person.name]
+last = "Barrett"
+use = "Steve"
+given = "Steve"
+nick = "Son"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Corsicana"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Alexandria"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Hattiesburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Alexandria"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Hattiesburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Texarkana"
+team.league.name = "Lone Star League"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201911_McCallum"
+
+[[person.meta.citation]]
+title = "Ferguson Funeral Home"
+date = "2019-11-27"
+url = "https://www.fergusonfhc.com/obituaries/Richard-Mccallum-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-27"
+
+[person.name]
+last = "McCallum"
+use = "Dick"
+given = "Richard E."
+nick = "Yakey"
+
+[person.birth]
+date = "1928-12-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Coal Center"
+
+[person.death]
+date = "2019-11-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Monongahela"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

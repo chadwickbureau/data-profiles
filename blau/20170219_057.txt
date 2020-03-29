@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170219_057"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Carisch"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"

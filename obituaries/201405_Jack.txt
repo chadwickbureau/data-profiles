@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201405_Jack"
+
+[[person.meta.citation]]
+title = "The Oklahoman"
+date = "2014-06-01"
+url = "http://www.legacy.com/obituaries/oklahoman/obituary.aspx?n=BOBBY-JACK&pid=171193531"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Jack"
+use = "Bobby"
+given = "Robert Dean"
+
+[person.birth]
+date = "1950-10-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Ponca City"
+
+[person.death]
+date = "2014-05-23"
+
+[[person.education]]
+school.name = "Ponca City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Ponca City"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"

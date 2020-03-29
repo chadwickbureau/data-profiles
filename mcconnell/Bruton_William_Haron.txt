@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Bruton_William_Haron"
+
+[person.name]
+last = "Bruton"
+use = "William"
+given = "William Haron"
+
+[person.birth]
+date = "1925-11-09"
+place.country = "US"
+place.state = "AL"
+place.city = "Panola"
+
+[person.death]
+date = "1995-12-05"
+place.country = "US"
+place.state = "DE"
+place.city = "Marshallton"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72.5"
+weight = "169"
+
+[[person.relation]]
+relationship = "son-in-law of"
+person.name.last = "Johnson"
+person.name.use = "Judy"
+person.name.given = "Judy"

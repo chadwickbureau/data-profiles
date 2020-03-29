@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170219_102"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1920-07-15"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1921-09-13"
+pages = "4"
+
+[person.name]
+last = "Bennett"
+use = "Herschel"
+given = "Herschel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"

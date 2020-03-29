@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "Brower_Frank_Willard"
+
+[person.name]
+last = "Brower"
+use = "Frank"
+given = "Frank Willard"
+
+[person.birth]
+date = "1893-03-26"
+place.country = "US"
+place.state = "VA"
+place.city = "Gainesville"
+
+[person.death]
+date = "1960-11-20"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72"
+weight = "180"
+
+[[person.education]]
+school.name = "University of Virginia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1918/1918"

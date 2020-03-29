@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Lovett"
+
+[[person.meta.citation]]
+title = "Baldwin Brothers Funeral Home"
+date = "2019-05-27"
+url = "https://baldwincremation.com/obituaries/william-lovett-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Lovett"
+use = "William"
+given = "William Lloyd"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-08-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2019-02-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Orlando"

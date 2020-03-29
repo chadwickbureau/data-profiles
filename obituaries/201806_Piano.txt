@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201806_Piano"
+
+[[person.meta.citation]]
+title = "Dignity Memorial.com"
+date = "2018-06-04"
+url = "https://www.dignitymemorial.com/obituaries/westwood-nj/edmund-piano-7868818"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-04"
+
+[person.name]
+last = "Piano"
+use = "Ed"
+given = "Edmund Michael"
+
+[person.birth]
+date = "1927-11-30"
+
+[person.death]
+date = "2018-06-01"
+
+[person.burial]
+cemetery.name = "George Washington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Paramus"
+
+[[person.education]]
+school.name = "Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "West New York"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

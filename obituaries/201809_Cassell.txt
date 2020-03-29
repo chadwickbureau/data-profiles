@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201809_Cassell"
+
+[[person.meta.citation]]
+title = "Hathaway Funeral Home"
+date = "2018-10-05"
+url = "https://www.hathawayfunerals.com/obituaries/Lewis-Cassell/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Cassell"
+use = "Dean"
+given = "Lewis Dean"
+
+[person.birth]
+date = "1928-03-29"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2018-09-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Dartmouth"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

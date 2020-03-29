@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_Kuhl"
+
+[[person.meta.citation]]
+title = "Toledo Blade"
+date = "2019-01-08"
+url = "https://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=terry-walter-kuhl&pid=191192238"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-08"
+
+[person.name]
+last = "Kuhl"
+use = "Terry"
+given = "Terry Walter"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[person.death]
+date = "2019-01-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[[person.education]]
+school.name = "Scott HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Toledo"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

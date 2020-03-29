@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201910_Chronopoulos"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "2019-10-17"
+url = "https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=charles-c-chronopoulos&pid=194186678&fhid=2434"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Chronopoulos"
+use = "Charlie"
+given = "Charles C."
+
+[person.birth]
+date = "1932-08-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2019-10-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Brooksville"
+
+[person.burial]
+cemetery.name = "New Hampshire State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Boscawen"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

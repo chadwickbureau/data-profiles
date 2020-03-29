@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "196712_Dilger"
+
+[[person.meta.citation]]
+title = "Indianapolis News"
+date = "1967-12-21"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-17"
+
+[person.name]
+last = "Dilger"
+use = "Fred"
+given = "Fred C."
+
+[person.death]
+date = "1967-12-19"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Indianapolis"
+
+[[person.military]]
+country = "US"
+conflict = "World War I"

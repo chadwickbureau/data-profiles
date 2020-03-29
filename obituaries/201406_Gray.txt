@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201406_Gray"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat Gazette"
+date = "2014-06-12"
+
+[[person.meta.contributor]]
+name.last = "Worth"
+name.use = "Fred"
+email = "worthf@hsu.edu"
+date = "2014-06-16"
+
+[person.name]
+last = "Gray"
+use = "Charles"
+given = "Charles S."
+
+[person.birth]
+date = "1932-02-01"
+place.country = "US"
+place.state = "AR"
+place.city = "North Little Rock"
+
+[person.death]
+date = "2014-06-10"
+
+[[person.education]]
+school.name = "North Little Rock"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "North Little Rock"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

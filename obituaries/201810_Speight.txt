@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201810_Speight"
+
+[[person.meta.citation]]
+title = "Cumby Funeral Home"
+date = "2018-10-21"
+url = "https://www.cumbyfuneral.com/tributes/James-SpeightJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Speight"
+use = "James"
+given = "James Cornelius"
+
+[person.birth]
+date = "1942-05-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Rocky Mount"
+
+[person.death]
+date = "2018-10-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Raleigh"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"

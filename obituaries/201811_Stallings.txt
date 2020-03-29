@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201811_Stallings"
+
+[[person.meta.citation]]
+title = "Dunklin & Daniels Funeral Home"
+date = "2018-11-26"
+url = "https://www.dunklinanddanielsfh.com/notices/Wayne-Stallings"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Stallings"
+use = "Wayne"
+given = "Edward Wayne"
+
+[person.birth]
+date = "1939-01-12"
+
+[person.death]
+date = "2018-11-23"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.burial]
+cemetery.name = "Liberty Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Greenville"
+
+[[person.education]]
+school.name = "Dozier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Dozier"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

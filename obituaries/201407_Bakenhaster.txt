@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201407_Bakenhaster"
+
+[[person.meta.citation]]
+title = "Kauber-Sammons Funeral home"
+date = "2014-07-31"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=David-Bakenhaster&lc=6817&pid=171928538&mid=6068388"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-31"
+
+[person.name]
+last = "Bakenhaster"
+use = "David"
+given = "David Lee"
+
+[person.birth]
+date = "1945-03-05"
+
+[person.death]
+date = "2014-07-30"
+
+[person.burial]
+cemetery.name = "Jersey Universalist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Pataskala"
+
+[[person.education]]
+school.name = "Dublin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Dublin"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

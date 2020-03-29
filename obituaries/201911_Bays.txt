@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Bays"
+
+[[person.meta.citation]]
+title = "Halbritter Wickens Funeral Service"
+date = "2020-01-15"
+url = "https://www.halbritterwickens.com/notices/David-Bays"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-15"
+
+[person.name]
+last = "Bays"
+use = "Dave"
+given = "David Jacob"
+
+[person.birth]
+date = "1930-01-17"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+[person.death]
+date = "2019-11-20"
+place.country = "US"
+place.state = "MI"
+place.city = "Niles"
+
+[person.burial]
+cemetery.name = "Silverbrook Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Niles"
+
+[[person.military]]
+country = "US"
+branch = "Army"

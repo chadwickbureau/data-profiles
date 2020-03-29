@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201808_Keller"
+
+[[person.meta.citation]]
+title = "Tres Hewell Mortuary"
+date = "2018-09-03"
+url = "http://www.treshewell.com/obituary/buzzy-keller"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Keller"
+use = "Buzzy"
+given = "Carlton"
+
+[person.birth]
+date = "1933-09-03"
+place.country = "US"
+place.state = "TX"
+place.city = "Loyal Valley"
+
+[person.death]
+date = "2018-08-27"
+
+[[person.education]]
+school.name = "Mason HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Mason"
+
+[[person.education]]
+school.name = "Texas A&M University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Texas Lutheran University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

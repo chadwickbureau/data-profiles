@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201406_Brosnan"
+
+[[person.meta.citation]]
+title = "Simkins Funeral Home"
+date = "2014-07-02"
+url = "http://www.simkinsfh.com/obits/obituary.php?id=481797"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Brosnan"
+use = "James"
+given = "James P."
+
+[person.birth]
+date = "1929-10-24"
+
+[person.death]
+date = "2014-06-28"

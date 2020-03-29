@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201901_Barker"
+
+[[person.meta.citation]]
+title = "Hillsboro Memorial Funeral Home"
+date = "2020-01-20"
+url = "https://www.dignitymemorial.com/obituaries/brandon-fl/william-barker-8147312"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Barker"
+use = "Bill"
+given = "William Carl"
+
+[person.birth]
+date = "1932-01-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Lake Mary"
+
+[person.death]
+date = "2019-01-31"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Jacksonville"
+
+[[person.education]]
+school.name = "Andrew Jackson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Jacksonville"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

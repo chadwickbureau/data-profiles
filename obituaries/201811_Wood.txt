@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201811_Wood"
+
+[[person.meta.citation]]
+title = "The Arizona Republic"
+date = "2018-12-01"
+url = "https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=bobby-donald-wood&pid=190873372"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-01"
+
+[person.name]
+last = "Wood"
+use = "Bobby"
+given = "Bobby Donald"
+
+[person.birth]
+date = "1932-05-24"
+place.country = "US"
+place.state = "AL"
+place.city = "Etowah County"
+
+[person.death]
+date = "2018-11-06"
+
+[[person.education]]
+school.name = "Hokes Bluff HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Hokes Bluff"

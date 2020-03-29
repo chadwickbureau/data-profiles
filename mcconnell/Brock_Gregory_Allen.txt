@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Brock_Gregory_Allen"
+
+[person.name]
+last = "Brock"
+use = "Gregory"
+given = "Gregory Allen"
+
+[person.birth]
+date = "1957-06-14"
+place.country = "US"
+place.state = "OR"
+place.city = "McMinnville"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "75"
+weight = "205"

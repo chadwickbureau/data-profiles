@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Gough"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "2019-11-30"
+url = "https://www.legacy.com/obituaries/dailypress/obituary.aspx?n=frank-keller-gough&pid=194577588"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Gough"
+use = "Frank"
+given = "Frank Keller"
+suffix = "Jr."
+
+[person.birth]
+date = "1924-02-25"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2019-11-28"
+
+[[person.education]]
+school.name = "Hampton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Hampton"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

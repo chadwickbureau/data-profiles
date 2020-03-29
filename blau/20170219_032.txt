@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170219_032"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1922-03-28"
+pages = "25"
+
+[person.name]
+last = "Wimer"
+use = "Irving"
+given = "Irving"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Lansing"
+team.league.name = "Central League"
+description.bats = "R"
+description.throws = "R"

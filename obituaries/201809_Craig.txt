@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201809_Craig"
+
+[[person.meta.citation]]
+title = "L. A. Muhleisen & Son Funeral Home"
+date = "2018-10-05"
+url = "https://www.muhleisen.com/obituaries/Charles-Craig-14/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Craig"
+use = "Charles"
+given = "Charles Spurgeon"
+nick = "Spud"
+
+[person.birth]
+date = "1931-10-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+[person.death]
+date = "2018-09-19"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.burial]
+cemetery.name = "Maplewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Durham"

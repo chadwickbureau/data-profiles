@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201405_Wilson"
+
+[[person.meta.citation]]
+title = "Times Herald"
+date = "2014-05-07"
+url = "http://www.legacy.com/obituaries/thetimesherald/obituary.aspx?n=Jack-Wilson&pid=170929916"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-07"
+
+[person.name]
+last = "Wilson"
+use = "Jack"
+given = "Jack E."
+
+[person.birth]
+date = "1927-07-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.death]
+date = "2014-05-03"
+place.country = "US"
+place.state = "MI"
+place.city = "Lexington"
+
+[[person.education]]
+school.name = "East Detroit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Eastpointe"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

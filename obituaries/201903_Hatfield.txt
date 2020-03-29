@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hatfield"
+
+[[person.meta.citation]]
+title = "Elmore-Cannon-Stephens Funeral Home"
+date = "2019-03-17"
+url = "https://ecsfuneralhome.com/book-of-memories/3772757/Hatfield-Burton/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Hatfield"
+use = "Mac"
+given = "Burton McPherson"
+
+[person.birth]
+date = "1930-02-26"
+place.country = "US"
+place.state = "SC"
+place.city = "Sumter"
+
+[person.death]
+date = "2019-03-13"
+place.country = "US"
+place.state = "SC"
+place.city = "Sumter"
+
+[person.burial]
+cemetery.name = "Evergreen Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Sumter"
+
+[[person.military]]
+country = "US"
+branch = "Army"

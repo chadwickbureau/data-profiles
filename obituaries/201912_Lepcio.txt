@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201912_Lepcio"
+
+[[person.meta.citation]]
+title = "Utica Observer-Dispatch"
+date = "2019-12-30"
+url = "https://www.uticaod.com/sports/20191230/utica-native-ted-lepcio-former-boston-red-sox-infielder-dies-at-90"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Lepcio"
+use = "Ted"
+given = "Ted"
+
+[person.death]
+date = "2019-12-11"
+place.country = "US"
+place.state = "MA"
+place.city = "Dedham"
+
+[[person.education]]
+school.name = "Proctor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Utica"
+
+[[person.education]]
+school.name = "Seton Hall University"
+school.type = "college"

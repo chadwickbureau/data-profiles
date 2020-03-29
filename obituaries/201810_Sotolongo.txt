@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201810_Sotolongo"
+
+[[person.meta.citation]]
+title = "Porterfield-Scheid Funeral Home"
+date = "2019-05-28"
+url = "https://www.centralpaprofessionalservices.com/obituaries/Roberto-Sotolongo-Prieto/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-28"
+
+[person.name]
+last = "Sotolongo"
+use = "Roberto"
+given = "Roberto"
+matrilineal = "Prieto"
+
+[person.birth]
+date = "1982-08-18"
+place.country = "CU"
+place.city = "Aguate"
+
+[person.death]
+date = "2018-10-18"

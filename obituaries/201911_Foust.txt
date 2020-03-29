@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_Foust"
+
+[[person.meta.citation]]
+title = "Rich & Thompson Funeral Home"
+date = "2019-11-10"
+url = "https://www.richandthompson.com/tributes/John-FoustSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-10"
+
+[person.name]
+last = "Foust"
+use = "Lou"
+given = "John Louis"
+
+[person.birth]
+date = "1928-09-27"
+
+[person.death]
+date = "2019-11-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Graham"
+
+[person.burial]
+cemetery.name = "Cedar Cliff United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Graham"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

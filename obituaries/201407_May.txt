@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "201407_May"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "2014-07-27"
+url = "http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Edward-May&pid=171851394"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "May"
+use = "Ed"
+given = "Edward A."
+suffix = "Sr."
+
+[person.birth]
+date = "1920-04-15"
+place.country = "US"
+place.state = "CT"
+place.city = "Glastonbury"
+
+[person.death]
+date = "2014-07-23"
+
+[person.burial]
+cemetery.name = "Mount St. Benedict Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Bloomfield"
+
+[[person.alias]]
+name.last = "Maslauskas"
+name.use = "Ed"
+name.given = "Edward A."
+name.suffix = "Sr."
+type = "birth"
+
+
+[[person.education]]
+school.name = "Hartford Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Hartford"
+
+[[person.education]]
+school.name = "Hillyer College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Hartford"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

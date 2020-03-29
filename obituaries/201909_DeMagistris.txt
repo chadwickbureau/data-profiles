@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201909_DeMagistris"
+
+[[person.meta.citation]]
+title = "Dykstra Funeral Home"
+date = "2019-09-17"
+url = "https://dykstrafuneralhome.com/obituaries/vincent-demagistris.128652"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-17"
+
+[person.name]
+last = "DeMagistris"
+use = "Vincent"
+given = "Vincent E."
+
+[person.birth]
+date = "1923-07-05"
+
+[person.death]
+date = "2019-09-11"
+place.country = "US"
+place.state = "MI"
+place.city = "Holland"
+
+[person.burial]
+cemetery.name = "Lakeview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Ludington"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

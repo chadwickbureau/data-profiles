@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "202001_Luers"
+
+[[person.meta.citation]]
+title = "Linnemann Funeral Home"
+date = "2020-01-12"
+url = "https://www.linnemannfuneralhomes.com/obituary/paul-luers/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-12"
+
+[person.name]
+last = "Luers"
+use = "Paul"
+given = "Paul A."
+
+[person.birth]
+date = "1932-08-18"
+
+[person.death]
+date = "2020-01-09"

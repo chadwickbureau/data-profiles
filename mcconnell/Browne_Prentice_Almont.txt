@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Browne_Prentice_Almont"
+
+[person.name]
+last = "Browne"
+use = "Pidge"
+given = "Prentice Almont"
+
+[person.birth]
+date = "1929-03-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Peekskill"
+
+[person.death]
+date = "1997-06-03"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "190"

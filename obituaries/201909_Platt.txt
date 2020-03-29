@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Platt"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News"
+date = "2019-09-17"
+url = "https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=charles-roger-platt&pid=193895358"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-17"
+
+[person.name]
+last = "Platt"
+use = "Charlie"
+given = "Charles Roger"
+suffix = "II"
+
+[person.birth]
+date = "1935-04-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Fillmore"
+
+[person.death]
+date = "2019-09-03"
+
+[[person.education]]
+school.name = "Fillmore HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fillmore"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

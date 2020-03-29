@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20191226_008"
+
+[[person.meta.citation]]
+title = "Frank Stewart biography"
+url = "SABR bio-https://sabr.org/bioproj/person/1963578b#_edn3"
+
+[person.name]
+last = "Stewart"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Fort Wayne"
+team.league.name = "Central League"

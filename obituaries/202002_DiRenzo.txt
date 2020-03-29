@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202002_DiRenzo"
+
+[[person.meta.citation]]
+title = "Savage-Demarco Funeral Service"
+date = "2020-03-01"
+url = "https://www.savagefs.com/obituary/Joseph-DiRenzo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "DiRenzo"
+use = "Joe"
+given = "Joseph Charles"
+suffix = "Sr."
+
+[person.death]
+date = "2020-02-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Vestal"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201905_Rider"
+
+[[person.meta.citation]]
+title = "Desnoyer Funeral Home"
+date = "2019-05-30"
+url = "https://www.desnoyerfuneralhome.com/obituary/elwyn-c-rider-rabbit"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-30"
+
+[person.name]
+last = "Rider"
+use = "Rabbit"
+given = "Elwyn C."
+
+[person.birth]
+date = "1925-09-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Jackson"
+
+[person.death]
+date = "2019-05-27"
+place.country = "US"
+place.state = "MI"
+place.city = "Jackson"
+
+[person.burial]
+cemetery.name = "Hillcrest Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Jackson"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

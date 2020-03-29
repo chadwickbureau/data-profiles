@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Mielke"
+
+[[person.meta.citation]]
+title = "Pioneer Press"
+date = "2019-04-14"
+url = "https://www.legacy.com/obituaries/twincities/obituary.aspx?n=richard-lee-mielke-dick&pid=192372048"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Mielke"
+use = "Dick"
+given = "Richard Lee"
+
+[person.death]
+date = "2019-03-29"
+
+[person.burial]
+cemetery.name = "Green Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Roswell"
+
+[[person.education]]
+school.name = "Hutchinson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Hutchinson"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"

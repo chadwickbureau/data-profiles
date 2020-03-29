@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201809_Bott"
+
+[[person.meta.citation]]
+title = "Winnipeg Free Press"
+date = "2018-09-11"
+url = "https://passages.winnipegfreepress.com/passage-details/id-258108/BOTT_GLENN"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-11"
+
+[person.name]
+last = "Bott"
+use = "Glenn"
+given = "Glenn Shawn"
+
+[person.birth]
+place.country = "US"
+place.state = "LA"
+place.city = "Lafayette"
+
+[person.death]
+date = "2018-09-02"
+place.country = "CA"
+place.state = "MB"
+place.city = "St. Anne"

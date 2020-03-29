@@ -1,0 +1,239 @@
+[[person]]
+
+[person.meta]
+key = "10525"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10525"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008464"
+
+[person.name]
+last = "Becker"
+given = "Martin H."
+
+[person.description]
+position = "UT"
+bats = "S"
+throws = "R"
+height = "68"
+weight = "150"
+
+[person.birth]
+date = "1889-12-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Tiffin"
+
+[person.death]
+date = "1957-09-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[[person.resides]]
+place.country = "US"
+place.state = "OH"
+place.city = "Tiffin"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Youngstown"
+note = "Youngstown 1910"
+
+[[person.transaction]]
+date = "1910-05"
+type = "suspended"
+join.name = "Youngstown"
+note = "susp 1910-05"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Youngstown"
+note = "Youngstown 1911"
+
+[[person.transaction]]
+date = "1911-05"
+type = "released"
+leave.name = "Youngstown"
+note = "rel 1911-05"
+
+[[person.transaction]]
+date = "1911-05"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1911-05"
+
+[[person.transaction]]
+date = "1911-07"
+type = "signed"
+join.name = "Charleston"
+note = "Charleston 1911-07"
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Bridgeport"
+note = "Bridgeport 1912"
+
+[[person.transaction]]
+date = "1912-05"
+type = "released"
+leave.name = "Bridgeport"
+note = "rel 1912-05"
+
+[[person.transaction]]
+date = "1912-06"
+type = "signed"
+join.name = "Charleston"
+note = "Charleston 1912-06"
+
+[[person.transaction]]
+date = "1912-07"
+type = "signed"
+join.name = "Kalamazoo"
+note = "Kalamazoo 1912-07"
+
+[[person.transaction]]
+date = "1913-10"
+type = "drafted"
+leave.name = "Kalamazoo"
+join.name = "New London"
+note = "New London 1913-10"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "New London"
+note = "res for 1914"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "New London"
+join.name = "Binghamton"
+note = "rel to Binghamton 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Binghamton"
+join.name = "Lewiston"
+note = "rel to Lewiston 1915-05"
+
+[[person.transaction]]
+date = "1915-08"
+type = "sold"
+leave.name = "New York (NL)"
+note = "sold to New York (NL) 1915-08"
+
+[[person.transaction]]
+date = "1915-11"
+type = "released"
+leave.name = "New York (NL)"
+join.name = "Lewiston"
+note = "rel to Lewiston 1915-11"
+
+[[person.transaction]]
+date = "1916-02"
+type = "released"
+leave.name = "Lewiston"
+join.name = "Toronto"
+note = "rel to Toronto 1916-02"
+
+[[person.transaction]]
+date = "opt to New London 1916-04"
+type = "released"
+leave.name = "Toronto"
+note = "rel opt to New London 1916-04"
+
+[[person.transaction]]
+date = "1916-04"
+type = "reserved"
+join.name = "Toronto"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Toronto"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1917-08"
+type = "released"
+leave.name = "Toronto"
+join.name = "Springfield"
+note = "rel to Springfield 1917-08"
+
+[[person.transaction]]
+date = "1918"
+type = "reserved"
+join.name = "Springfield"
+note = "res for 1918"
+
+[[person.transaction]]
+date = "1918-06"
+type = "suspended"
+join.name = "Springfield"
+note = "susp 1918-06"
+
+[[person.transaction]]
+date = "1919-05"
+type = "suspended"
+join.name = "Springfield"
+note = "susp 1919-05"
+
+[[person.transaction]]
+date = "1919-10"
+type = "reserved"
+join.name = "Springfield"
+
+[[person.transaction]]
+date = "1920"
+type = "reserved"
+join.name = "Springfield"
+note = "res for 1920"
+
+[[person.transaction]]
+date = "1921-05"
+type = "reserved"
+join.name = "Springfield"
+
+[[person.transaction]]
+date = "1922-02"
+type = "released"
+leave.name = "Springfield"
+join.name = "Kalamazoo"
+note = "rel to Kalamazoo 1922-02"
+
+[[person.transaction]]
+date = "1922-06"
+type = "reserved"
+join.name = "Kalamazoo"
+note = "res 1922-06"
+
+[[person.transaction]]
+date = "1923-02"
+type = "reserved"
+join.name = "Kalamazoo"
+note = "res 1923-02"
+
+[[person.transaction]]
+date = "1924-09"
+type = "reserved"
+join.name = "Kalamazoo"
+
+[[person.transaction]]
+date = "1925-07"
+type = "signed"
+join.name = "Springfield (MA)"
+note = "Springfield (MA) 1925-07"
+
+[[person.transaction]]
+date = "1925-08"
+type = "released"
+leave.name = "Springfield (MA)"
+note = "rel 1925-08"
+

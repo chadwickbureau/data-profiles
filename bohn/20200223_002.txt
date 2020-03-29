@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_002"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1921-04-24"
+
+[person.name]
+last = "Corbett"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"

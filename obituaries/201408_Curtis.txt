@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Curtis"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "2014-09-02"
+url = "http://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?n=AL-Curtis&pid=172326397"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Curtis"
+use = "A."
+given = "A. L."
+
+[person.birth]
+date = "1930-03-16"
+place.country = "US"
+place.state = "SC"
+place.city = "Gaffney"
+
+[person.death]
+date = "2014-08-31"
+place.country = "US"
+place.state = "SC"
+place.city = "Gaffney"
+
+[[person.education]]
+school.name = "Duke University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Furman"
+school.type = "college"

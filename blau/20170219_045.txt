@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170219_045"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Wilson"
+use = "Paul"
+given = "Paul"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "IL"
+place.city = "Milan"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"

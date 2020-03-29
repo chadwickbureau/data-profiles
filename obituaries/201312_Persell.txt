@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201312_Persell"
+
+[[person.meta.citation]]
+title = "Daily Bulletin"
+date = "2013-12-14"
+url = "http://www.dailybulletin.com/general-news/20131214/former-alta-loma-high-school-baseball-coach-dies-in-car-crash"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-18"
+
+[person.name]
+last = "Persell"
+use = "Ted"
+given = "Theodore Eugene"
+
+[person.death]
+date = "2013-12-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Rancho Cucamonga"

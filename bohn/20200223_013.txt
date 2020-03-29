@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_013"
+
+[[person.meta.citation]]
+title = "Aberdeen Daily News"
+date = "1921-04-24"
+
+[person.name]
+last = "McGrath"
+use = "Matt"
+given = "Matt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Mitchell"
+team.league.name = "Dakota League"

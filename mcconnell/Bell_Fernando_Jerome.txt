@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bell_Fernando_Jerome"
+
+[person.name]
+last = "Bell"
+use = "Fern"
+given = "Fernando Jerome"
+
+[person.birth]
+date = "1913-01-21"
+place.country = "US"
+place.state = "OK"
+place.city = "Ada"
+
+[person.death]
+date = "2000-08-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Rancho Mirage"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"

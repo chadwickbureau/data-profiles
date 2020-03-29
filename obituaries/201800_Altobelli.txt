@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201800_Altobelli"
+
+[[person.meta.citation]]
+title = "Lawn Funeral Home"
+date = "2019-05-27"
+url = "http://lawnfh.com/vis_detail.asp?ID=3252"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Altobelli"
+use = "Michael"
+given = "Michael Adam"
+
+[person.death]
+date = "2018"

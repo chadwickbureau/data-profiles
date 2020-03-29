@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201410_Peck"
+
+[[person.meta.citation]]
+title = "Vondel Smith Mortuary"
+date = "2014-10-07"
+url = "http://www.vondelsmithmortuary.com/book-of-memories/1958413/Peck--Robert/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Peck"
+use = "Bob"
+given = "Robert Paul"
+
+[person.birth]
+date = "1933-12-19"
+place.country = "US"
+place.state = "OK"
+place.city = "Cement"
+
+[person.death]
+date = "2014-10-03"
+
+[person.burial]
+cemetery.name = "Cement Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Cement"
+
+[[person.education]]
+school.name = "Cement HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Cement"

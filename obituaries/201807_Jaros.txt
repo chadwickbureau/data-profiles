@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201807_Jaros"
+
+[[person.meta.citation]]
+title = "Irwin Chapel"
+date = "2018-09-03"
+url = "http://www.irwinchapel.com/obituary/Lawrence-T.-Jaros/Granite-City-Illinois/1807026"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Jaros"
+use = "Lawrence"
+given = "Lawrence T."
+nick = "Baldy"
+
+[person.birth]
+date = "1928-08-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Glen Carbon"
+
+[person.death]
+date = "2018-07-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.burial]
+cemetery.name = "Sunset Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Glen Carbon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "20170219_146"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1930-02-26"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Hagerstown Morning Herald"
+date = "1929-09-05"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1930-09-04"
+
+[person.name]
+last = "Bowman"
+use = "Norwood"
+given = "Norwood"
+nick = "Whitey"
+
+[[person.resides]]
+dates = "1929"
+place.country = "US"
+place.state = "PA"
+place.city = "Halifax"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Jersey City"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Manchester"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"

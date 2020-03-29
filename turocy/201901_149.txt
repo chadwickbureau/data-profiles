@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_149"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Lingle"
+use = "Cy"
+given = "Cy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "32"

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201905_Houk"
+
+[[person.meta.citation]]
+title = "Rattermans Funeral Home"
+date = "2019-05-19"
+url = "https://www.rattermanbrothers.com/obituaries/Robert-Houk/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-19"
+
+[person.name]
+last = "Houk"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1931-08-17"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2019-05-17"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Louisville"
+
+[[person.education]]
+school.name = "Flaget HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"

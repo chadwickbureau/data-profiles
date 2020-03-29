@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201012_Saar_2"
+
+[[person.meta.citation]]
+title = "Donza Funeral Home"
+date = "2019-12-30"
+url = "https://donzafuneralhome.com/2019/12/25/william-r-saar/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-30"
+
+[person.name]
+last = "Saar"
+use = "William"
+given = "William R."
+
+[person.birth]
+date = "1932-01-20"
+
+[person.death]
+date = "2019-12-24"

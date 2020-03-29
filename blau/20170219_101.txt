@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170219_101"
+
+[[person.meta.citation]]
+title = "Ottawa Journal"
+date = "1922-08-23"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1923-05-03"
+pages = "5"
+
+[person.name]
+last = "Benard"
+use = "William"
+given = "William"
+nick = "Benny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Three Rivers"
+team.league.name = "Eastern Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Eastern League"

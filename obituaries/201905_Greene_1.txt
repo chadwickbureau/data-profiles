@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201905_Greene_1"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2019-05-22"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=james-e-greene&pid=192946634&fhid=5054"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-22"
+
+[person.name]
+last = "Greene"
+use = "James"
+given = "James E."
+
+[person.death]
+date = "2019-05-20"
+
+[person.burial]
+cemetery.name = "Calverton National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Calverton"
+
+[[person.education]]
+school.name = "Manhattan College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

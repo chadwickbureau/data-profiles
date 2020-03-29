@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202001_West"
+
+[[person.meta.citation]]
+title = "Billings Funeral Home"
+date = "2020-02-03"
+url = "https://www.billingsfuneralhomewoodward.com/obituaries/Dwaine-West?obId=10772861#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-03"
+
+[person.name]
+last = "West"
+use = "Dwaine"
+given = "Cecil Dwaine"
+
+[person.birth]
+date = "1936-11-03"
+place.country = "US"
+place.state = "OK"
+place.city = "Harmon"
+
+[person.death]
+date = "2020-01-28"
+place.country = "US"
+place.state = "OK"
+place.city = "Woodward"
+
+[[person.military]]
+country = "US"
+branch = "Army"

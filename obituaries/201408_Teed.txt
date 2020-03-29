@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201408_Teed"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2014-08-20"
+url = "http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Richard-Teed&pid=172178632"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-20"
+
+[person.name]
+last = "Teed"
+use = "Dick"
+given = "Richard L."
+
+[person.birth]
+date = "1926-03-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2014-08-17"
+place.country = "US"
+place.state = "RI"
+place.city = "Newport"
+
+[person.burial]
+cemetery.name = "Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Windsor"
+
+[[person.education]]
+school.name = "Windsor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Windsor"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

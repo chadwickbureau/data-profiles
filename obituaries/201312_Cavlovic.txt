@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201312_Cavlovic"
+
+[[person.meta.citation]]
+title = "Omaha World-Herald"
+date = "2013-12-18"
+url = "http://www.legacy.com/obituaries/omaha/obituary.aspx?n=steve-cavlovic&pid=168613765&fhid=15196"
+
+[[person.meta.contributor]]
+name.last = "Hall"
+name.use = "John"
+email = "j03.john@gmail.com"
+date = "2013-12-18"
+
+[person.name]
+last = "Cavlovic"
+use = "Steve"
+given = "Steve"
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2013-12-17"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Omaha"

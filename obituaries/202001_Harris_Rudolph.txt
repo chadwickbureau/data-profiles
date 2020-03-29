@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202001_Harris_Rudolph"
+
+[[person.meta.citation]]
+title = "Post Tribune"
+date = "2020-01-29"
+url = "https://www.legacy.com/obituaries/post-tribune/obituary.aspx?n=donald-rudolph-harris&pid=195175594&fhid=4993"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-31"
+
+[person.name]
+last = "Harris"
+use = "Rudolph"
+given = "Donald Rudolph"
+
+[person.birth]
+date = "1935-12-03"
+place.country = "US"
+place.state = "KY"
+place.city = "Uniontown"
+
+[person.death]
+date = "2020-01-21"
+
+[person.burial]
+cemetery.name = "Evergreen Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Hobart"
+
+[[person.education]]
+school.name = "Blessed Martin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Waverly"

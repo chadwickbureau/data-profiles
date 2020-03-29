@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201809_Olson"
+
+[[person.meta.citation]]
+title = "Oregonian"
+date = "2018-10-01"
+url = "https://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=robert-louis-olson&pid=190366176"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-28"
+
+[person.name]
+last = "Olson"
+use = "Bob"
+given = "Robert Louis"
+
+[person.birth]
+date = "1941-01-17"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.death]
+date = "2018-09-21"

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201906_Dihigo"
+
+[[person.meta.citation]]
+title = "CiberCuba"
+date = "2019-06-18"
+url = "https://www.cibercuba.com/noticias/2019-06-18-u1-e199291-s27066-fallece-martin-dihigo-jr-hijo-pelotero-cubano-completo-todos"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Dihigo"
+use = "Martin"
+given = "Martin Francisco"
+matrilineal = "Reina"
+
+[person.death]
+date = "2019-06-17"

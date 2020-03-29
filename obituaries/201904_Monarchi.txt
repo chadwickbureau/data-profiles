@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201904_Monarchi"
+
+[[person.meta.citation]]
+title = "Arthur A. Albini Funeral Home"
+date = "2019-04-28"
+url = "https://albinifh.com/book-of-memories/3820853/Monarchi-Gino/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-28"
+
+[person.name]
+last = "Monarchi"
+use = "Gino"
+given = "Gino"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Jessup"
+
+[person.death]
+date = "2019-04-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Dunmore"
+
+[person.burial]
+cemetery.name = "St. John’s Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Jessup"
+
+[[person.education]]
+school.name = "Jessup HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Jessup"
+
+[[person.education]]
+school.name = "Lackawanna College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "Adlam_James_A"
+
+[person.name]
+last = "Adlam"
+use = "James"
+given = "James A."
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

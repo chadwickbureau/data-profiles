@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201806_Smeltzly"
+
+[[person.meta.citation]]
+title = "Heath Funeral Home"
+date = "2018-06-16"
+url = "http://www.heathfuneralchapel.com/obituaries/Harold-Hal-Meloy-Smeltzly?obId=3114704#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Smeltzly"
+use = "Hal"
+given = "Harold Meloy"
+
+[person.birth]
+date = "1931-10-24"
+place.country = "US"
+place.state = "MN"
+place.city = "Minneapolis"
+
+[person.death]
+date = "2018-06-15"
+
+[[person.education]]
+school.name = "Florida Southern"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

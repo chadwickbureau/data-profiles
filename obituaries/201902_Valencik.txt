@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201902_Valencik"
+
+[[person.meta.citation]]
+title = "Wojciechowski Funeral Home"
+date = "2019-02-10"
+url = "https://www.wojciechowskifh.com/notices/Edward-Valencik"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Valencik"
+use = "Ed"
+given = "Edward A."
+
+[person.death]
+date = "2019-02-07"
+
+[person.burial]
+cemetery.name = "New St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "North Versailles"

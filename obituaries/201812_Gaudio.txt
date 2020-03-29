@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201812_Gaudio"
+
+[[person.meta.citation]]
+title = "Dalfonso-Billick Funeral Home"
+date = "2018-12-10"
+url = "https://www.dalfonso-billick.com/cnb/notices/Frank-Gaudio"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Gaudio"
+use = "Frank"
+given = "Frank Salvatore"
+
+[person.birth]
+date = "1929-08-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Monessen"
+
+[person.death]
+date = "2018-12-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Monessen"
+
+[person.burial]
+cemetery.name = "Grandview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Monessen"
+
+[[person.education]]
+school.name = "Monessen HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Monessen"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

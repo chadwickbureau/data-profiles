@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201407_Tretiak"
+
+[[person.meta.citation]]
+title = "Smith Funeral Home"
+date = "2014-07-27"
+url = "http://smithfuneralhomeandchapel.com/?pagetype=obitlink&obit_id=1363422"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-27"
+
+[person.name]
+last = "Tretiak"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1926-09-08"
+place.country = "US"
+place.state = "MO"
+place.city = "Ilasco"
+
+[person.death]
+date = "2014-07-23"
+place.country = "US"
+place.state = "MO"
+place.city = "Hannibal"
+
+[person.burial]
+cemetery.name = "Grand View Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Hannibal"
+
+[[person.education]]
+school.name = "Ilasco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Ilasco"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

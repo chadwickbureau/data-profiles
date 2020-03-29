@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201906_Costello"
+
+[[person.meta.citation]]
+title = "Porter Funeral Homes"
+date = "2019-06-27"
+url = "https://www.porterfuneralhome.com/ObituaryDetails.aspx?id=59555&Name=Vince_Costello"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-27"
+
+[person.name]
+last = "Costello"
+use = "Vince"
+given = "Vince"
+
+[person.birth]
+date = "1932-08-04"
+
+[person.death]
+date = "2019-06-23"
+place.country = "US"
+place.state = "KS"
+place.city = "Overland Park"
+
+[[person.education]]
+school.name = "Magnolia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Magnolia"
+
+[[person.education]]
+school.name = "Ohio University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

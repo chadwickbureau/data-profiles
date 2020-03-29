@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201904_McConnell_2"
+
+[[person.meta.citation]]
+title = "Whitney & Murphy Funeral Home"
+date = "2019-04-30"
+url = "https://www.whitneymurphyfuneralhome.com/mcconnell-richard-deane/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-30"
+
+[person.name]
+last = "McConnell"
+use = "Dick"
+given = "Richard Deane"
+
+[person.birth]
+date = "1930"
+place.country = "US"
+place.state = "KS"
+place.city = "Topeka"
+
+[person.death]
+date = "2019-04-23"
+
+[[person.education]]
+school.name = "Topeka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Topeka"
+
+[[person.education]]
+school.name = "Washburn University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

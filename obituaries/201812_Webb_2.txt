@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201812_Webb_2"
+
+[[person.meta.citation]]
+title = "Oakey & Son Funeral Home"
+date = "2018-12-09"
+url = "http://www.johnmoakey.com/book-of-memories/3668823/Webb-Samuel/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Webb"
+use = "Sam"
+given = "Samuel Richmond"
+
+[person.birth]
+date = "1926-02-12"
+
+[person.death]
+date = "2018-12-01"
+place.country = "US"
+place.state = "VA"
+place.city = "Salem"

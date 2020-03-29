@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201812_LaSala"
+
+[[person.meta.citation]]
+title = "Lloyd Maxcy & Sons Funeral Home"
+date = "2018-12-02"
+url = "http://www.lloydmaxcy.com/obituaries/2018/12/james-f-lasala/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "LaSala"
+use = "James"
+given = "James F."
+
+[person.birth]
+date = "1984-05-12"
+place.country = "US"
+place.state = "NY"
+place.city = "New Rochelle"
+
+[person.death]
+date = "2018-12-01"

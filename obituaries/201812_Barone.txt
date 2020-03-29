@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Barone"
+
+[[person.meta.citation]]
+title = "Silverton Memorial Funeral Home"
+date = "2018-12-30"
+url = "https://www.silvertonmemorial.com/obituaries/Lester-Barone/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Barone"
+use = "Lester"
+given = "Lester J."
+
+[person.birth]
+date = "1935-03-30"
+place.country = "US"
+place.state = "NY"
+place.city = "Staten Island"
+
+[person.death]
+date = "2018-12-28"
+place.country = "US"
+place.state = "NJ"
+place.city = "Toms River"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201406_Pittman"
+
+[[person.meta.citation]]
+title = "Columbus Ledger-Enquirer"
+date = "2014-06-19"
+url = "http://www.legacy.com/obituaries/ledger-enquirer/obituary.aspx?n=Joseph-Pittman&pid=171406486"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-19"
+
+[person.name]
+last = "Pittman"
+use = "Joe"
+given = "Joseph Wayne"
+nick = "Shoes"
+
+[person.birth]
+date = "1953-01-01"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2014-06-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Lake Jackson"
+
+[[person.education]]
+school.name = "Kashmere HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"
+
+[[person.education]]
+school.name = "Southern University and A&M College"
+school.type = "college"

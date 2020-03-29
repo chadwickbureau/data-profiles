@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_004"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch 1915-06-24"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Gaston"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Suffolk"
+team.league.name = "Virginia League"
+description.position = "P"

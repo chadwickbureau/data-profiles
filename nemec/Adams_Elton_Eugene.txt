@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Elton_Eugene"
+
+[person.name]
+last = "Adams"
+use = "Gene"
+given = "Elton Eugene"
+
+[person.birth]
+date = "1928-06-12"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+[person.death]
+date = "2012-09-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Caseyville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "170"
+
+[person.sameas]
+ssn = "352-20-1409"
+
+[[person.resides]]
+dates = "1948"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+place.address = "1343 N. 37th Street"
+
+
+[[person.education]]
+school.name = "East St. Louis High School"
+school.type = "secondary"
+dates = "/1947"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1947"
+team.name = "Rhodes-Burford"
+team.place.country = "US"
+team.place.state = "IL"
+team.place.city = "East St. Louis"
+team.caliber = "semipro"

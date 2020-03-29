@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202002_Spangler"
+
+[[person.meta.citation]]
+title = "Taylor Funeral Home"
+date = "2020-02-20"
+url = "https://www.mytaylorfuneralhome.com/obituary/Edgar-Spangler"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-20"
+
+[person.name]
+last = "Spangler"
+use = "Ed"
+given = "Edgar R."
+
+[person.birth]
+date = "1939-11-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Lancaster"
+
+[person.death]
+date = "2020-02-18"
+place.country = "US"
+place.state = "OH"
+place.city = "Lancaster"
+
+[person.burial]
+cemetery.name = "Amanda Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Amanda"
+
+[[person.education]]
+school.name = "Lancaster HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Lancaster"

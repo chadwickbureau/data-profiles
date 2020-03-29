@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201404_Kamenski"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "2014-04-30"
+url = "http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=BERNARD-KAMENSKI&pid=170860401"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Kamenski"
+use = "Bernard"
+given = "Bernard P."
+
+[person.birth]
+date = "1933"
+
+[person.death]
+date = "2014-04-28"
+
+[person.burial]
+cemetery.name = "National Cemetery of the Alleghenies"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Bridgeville"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

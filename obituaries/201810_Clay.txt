@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201810_Clay"
+
+[[person.meta.citation]]
+title = "Courier-Journal"
+date = "2018-11-08"
+url = "https://www.legacy.com/obituaries/louisville/obituary.aspx?n=cassius-morton-clay&pid=190683035&fhid=16681"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11"
+
+[person.name]
+last = "Clay"
+use = "Cassius"
+given = "Cassius Morton"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-03-02"
+place.country = "US"
+place.state = "KY"
+place.city = "Ashland"
+
+[person.death]
+date = "2018-10-20"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[[person.education]]
+school.name = "duPont Manual HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"

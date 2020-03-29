@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201708_Sules"
+
+[[person.meta.citation]]
+title = "Ippolito Funeral Homes"
+date = "2019-12-10"
+url = "https://www.ippolitofuneralhomes.com/obituaries/John-Thomas-Sules?obId=3335592#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Sules"
+use = "John"
+given = "John Thomas"
+
+[person.birth]
+date = "1930-03-27"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2017-08-10"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "East Hanover"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

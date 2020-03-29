@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20190531_025"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin 1915-06-30"
+pages = "4"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Millman"
+use = "Guy"
+given = "Guy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Binghamton"
+team.league.name = "New York State League"

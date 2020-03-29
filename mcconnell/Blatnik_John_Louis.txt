@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Blatnik_John_Louis"
+
+[person.name]
+last = "Blatnik"
+use = "John"
+given = "John Louis"
+
+[person.birth]
+date = "1921-03-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Bridgeport"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "195"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

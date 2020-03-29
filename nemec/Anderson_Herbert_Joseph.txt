@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Herbert_Joseph"
+
+[person.name]
+last = "Anderson"
+use = "Herb"
+given = "Herbert Joseph"
+
+[person.birth]
+date = "1936-07-15"
+place.country = "US"
+place.state = "WA"
+place.city = "Everett"
+
+[person.death]
+date = "2014-02-04"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Haven"
+
+[person.description]
+bats = "R"
+throws = "L"
+height = "72"
+weight = "180"
+
+[person.sameas]
+ssn = "536-34-6254"
+
+[[person.resides]]
+dates = ""
+place.country = "US"
+place.state = "WA"
+place.city = "Everett"
+place.address = "2602 Everett Ave."
+
+
+[[person.education]]
+school.name = "Everett High School"
+school.type = "secondary"
+dates = "/1954"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Everett Junior College"
+school.type = "college"

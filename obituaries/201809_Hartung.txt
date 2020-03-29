@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201809_Hartung"
+
+[[person.meta.citation]]
+title = "Anderson-Bryant Funeral Home"
+date = "2018-10-03"
+url = "http://www.andersonbryantfuneralhome.com/obituary/arthur-hartung"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Hartung"
+use = "Arthur"
+given = "Arthur Albert"
+
+[person.birth]
+date = "1933-04-17"
+place.country = "US"
+place.state = "NY"
+
+[person.death]
+date = "2018-09-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Bedford"
+
+[[person.education]]
+school.name = "Brighton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Brighton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

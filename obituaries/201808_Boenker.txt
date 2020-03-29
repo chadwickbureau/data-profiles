@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201808_Boenker"
+
+[[person.meta.citation]]
+title = "Lensing Funeral Home"
+date = "2018-08-05"
+url = "http://www.lensingfuneral.com/obituaries/Donald-E-Boenker?obId=3184676#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-05"
+
+[person.name]
+last = "Boenker"
+use = "Don"
+given = "Donald E."
+
+[person.birth]
+date = "1931-05-02"
+place.country = "US"
+place.state = "MO"
+place.city = "Robertson"
+
+[person.death]
+date = "2018-08-03"
+place.country = "US"
+place.state = "IA"
+place.city = "Iowa City"
+
+[person.burial]
+cemetery.name = "Memory Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Iowa City"
+
+[[person.education]]
+school.name = "Normandy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Wellston"
+
+[[person.education]]
+school.name = "University of Missouri Columbia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

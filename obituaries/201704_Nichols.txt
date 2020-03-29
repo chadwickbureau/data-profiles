@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201704_Nichols"
+
+[[person.meta.citation]]
+title = "Evanston Funeral Home"
+date = "2018-11-17"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-17"
+
+[person.name]
+last = "Nichols"
+use = "George"
+given = "George Morrill"
+
+[person.birth]
+date = "1928-07-17"
+
+[person.death]
+date = "2017-04-19"

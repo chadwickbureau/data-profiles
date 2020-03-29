@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202003_Golczewski"
+
+[[person.meta.citation]]
+title = "McComas Family Funeral Homes"
+date = "2020-03-15"
+url = "https://www.mccomasfuneralhome.com/obituaries/Matthew-G-Golczewski?obId=12400096#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-15"
+
+[person.name]
+last = "Golczewski"
+use = "Matt"
+given = "Matthew G."
+
+[person.birth]
+date = "1994-05-02"
+place.country = "US"
+place.state = "MD"
+place.city = "Towson"
+
+[person.death]
+date = "2020-03-10"
+place.country = "US"
+place.state = "MD"
+place.city = "Bel Air"
+
+[[person.education]]
+school.name = "Patterson Mill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Bel Air"
+
+[[person.education]]
+school.name = "Towson University"
+school.type = "college"

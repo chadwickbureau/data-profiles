@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201408_Gifton"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2014-08-23"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=James-Gifton&lc=6818&pid=172187057&mid=6092137"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Gifton"
+use = "Jim"
+given = "James"
+
+[person.birth]
+date = "1931-07-02"
+
+[person.death]
+date = "2014-08-20"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Clinton Township"

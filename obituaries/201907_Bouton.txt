@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201907_Bouton"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2019-07-10"
+url = "https://www.nytimes.com/2019/07/10/sports/baseball/jim-bouton-dead-ball-four.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-13"
+
+[person.name]
+last = "Bouton"
+use = "Jim"
+given = "James Alan"
+
+[person.birth]
+date = "1939-03-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2019-07-10"
+place.country = "US"
+place.state = "MA"
+
+[[person.education]]
+school.name = "Bloom HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago Heights"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"

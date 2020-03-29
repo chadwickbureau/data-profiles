@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201904_Boyd"
+
+[[person.meta.citation]]
+title = "Nalley-Pickle & Welch Funeral Home"
+date = "2019-04-21"
+url = "https://www.npwelch.com/obituary/foy-william-boyd-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Boyd"
+use = "Foy"
+given = "Foy William"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-01-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Galveston"
+
+[person.death]
+date = "2019-04-16"
+place.country = "US"
+place.state = "TX"
+place.city = "Midland"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "El Paso"
+
+[[person.education]]
+school.name = "University of Houston"
+school.type = "college"

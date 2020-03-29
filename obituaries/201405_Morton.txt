@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201405_Morton"
+
+[[person.meta.citation]]
+title = "The Morning Journal"
+date = "2014-05-13"
+url = "http://www.legacy.com/obituaries/morningjournal/obituary.aspx?n=Guy-Morton&pid=170998459"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Morton"
+use = "Guy"
+given = "Guy"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-11-04"
+place.country = "US"
+place.state = "AL"
+place.city = "Tuscaloosa"
+
+[person.death]
+date = "2014-05-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Lorain"
+
+[person.burial]
+cemetery.name = "Maple Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Vermilion"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

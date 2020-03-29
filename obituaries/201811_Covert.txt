@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201811_Covert"
+
+[[person.meta.citation]]
+title = "Ivers & Alcorn Funeral Home"
+date = "2018-11-12"
+url = "https://www.iversandalcorn.com/notices/Jim-Covert"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-12"
+
+[person.name]
+last = "Covert"
+use = "Jim"
+given = "James Lee"
+
+[person.birth]
+date = "1936-02-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Calvin"
+
+[person.death]
+date = "2018-11-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Atwater"
+
+[[person.education]]
+school.name = "Livingston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Livingston"

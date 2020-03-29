@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201807_Anderlik"
+
+[[person.meta.citation]]
+title = "Spokesman-Review"
+date = "2018-07-15"
+url = "http://www.legacy.com/obituaries/spokesman/obituary.aspx?n=robert-e-anderlik-bob&pid=189595998&fhid=32104"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Anderlik"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1927-08-29"
+
+[person.death]
+date = "2018-07-06"
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201808_Rogers"
+
+[[person.meta.citation]]
+title = "Lewiston Tribune"
+date = "2018-08-22"
+url = "https://lmtribune.com/obituaries/robert-morgan-rogers/article_797a6717-2a90-52ba-ac83-a629e32d3c5c.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-27"
+
+[person.name]
+last = "Rogers"
+use = "Bob"
+given = "Robert Morgan"
+
+[person.birth]
+date = "1934-11-30"
+place.country = "US"
+place.state = "WA"
+place.city = "Lewiston"
+
+[person.death]
+date = "2018-08-16"
+place.country = "US"
+place.state = "WA"
+place.city = "Clarkston"
+
+[person.burial]
+cemetery.name = "Vineland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Clarkston"
+
+[[person.education]]
+school.name = "Lewiston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Lewiston"

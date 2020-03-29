@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201811_Massimo"
+
+[[person.meta.citation]]
+title = "Money & King Funeral Home"
+date = "2018-12-10"
+url = "https://www.moneyandking.com/obituaries/Ryan-Neal-Massimo?obId=3513280#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Massimo"
+use = "Ryan"
+given = "Ryan Neal"
+
+[person.birth]
+date = "1975-02-01"
+place.country = "US"
+place.state = "FL"
+place.city = "Bradenton"
+
+[person.death]
+date = "2018-11-11"
+
+[person.burial]
+cemetery.name = "Fairfax Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Fairfax"
+
+[[person.education]]
+school.name = "Charles E. Jordan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Durham"
+
+[[person.education]]
+school.name = "North Carolina State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "East Carolina University"
+school.type = "college"

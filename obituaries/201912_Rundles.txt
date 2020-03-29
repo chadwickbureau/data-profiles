@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201912_Rundles"
+
+[[person.meta.citation]]
+title = "Bumpers Funeral Home"
+date = "2019-12-21"
+url = "https://www.bumpersfuneralhome.com/obituary/richard-rundles"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-21"
+
+[person.name]
+last = "Rundles"
+use = "Richard"
+given = "Richard Lambert"
+
+[person.birth]
+date = "1981-06-03"
+
+[person.death]
+date = "2019-12-16"
+
+[[person.education]]
+school.name = "Jefferson County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Dandridge"

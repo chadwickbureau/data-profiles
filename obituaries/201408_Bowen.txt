@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Bowen"
+
+[[person.meta.citation]]
+title = "U-T San Diego"
+date = "2014-08-10"
+url = "http://www.legacy.com/obituaries/utsandiego/obituary.aspx?n=martin-e-bowen&pid=172045930&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-10"
+
+[person.name]
+last = "Bowen"
+use = "Marty"
+given = "Martin E."
+
+[person.birth]
+date = "1990-12-30"
+place.country = "US"
+place.state = "CA"
+place.city = "La Jolla"
+
+[person.death]
+date = "2014-08-02"
+
+[[person.education]]
+school.name = "El Camino HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oceanside"
+
+[[person.education]]
+school.name = "California State University, Northridge"
+school.type = "college"

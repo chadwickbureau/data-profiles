@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "Amrhein_Michael_Kevin"
+
+[person.name]
+last = "Amrhein"
+use = "Mike"
+given = "Michael Kevin"
+
+[person.birth]
+date = "1975-06-14"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2012-07-05"
+
+[person.description]
+bats = "R"
+height = "74"
+weight = "220"
+
+[[person.resides]]
+dates = "2002"
+place.country = "US"
+place.state = "IL"
+place.city = "Oak Park"
+
+
+[[person.education]]
+school.name = "Oak Park-River Forest High School"
+school.type = "secondary"
+
+[[person.education]]
+school.name = "University of Norte Dame"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1997-06"
+type = "drafted"
+join.name = "Chicago"
+join.league.name = "National"
+
+[[person.transaction]]
+date = "1997-06-04"
+type = "signed"
+join.name = "Chicago"
+join.league.name = "National"

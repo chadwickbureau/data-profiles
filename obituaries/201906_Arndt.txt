@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201906_Arndt"
+
+[[person.meta.citation]]
+title = "Bass-Smith Funeral Home"
+date = "2019-06-19"
+url = "http://www.bass-smithfuneralhome.com/obituary/Leonard-Flash-Arndt/Hickory-North-Carolina/1849536"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Arndt"
+use = "Flash"
+given = "Leonard"
+
+[person.birth]
+date = "1922-05-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Long Island"
+
+[person.death]
+date = "2019-06-13"
+
+[[person.education]]
+school.name = "Hickory HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Hickory"
+
+[[person.education]]
+school.name = "Lenoir-Rhyne College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

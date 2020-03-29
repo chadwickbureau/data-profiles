@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201407_Sanders"
+
+[[person.meta.citation]]
+title = "Sullivan's Highland Funeral Home"
+date = "2014-07-20"
+url = "http://www.sullivanshighland.com/obits/obituary.php?id=484680"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Sanders"
+use = "Pete"
+given = "Carol Victor"
+
+[person.birth]
+date = "1929-02-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Richlands"
+
+[person.death]
+date = "2014-07-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Eastover"
+
+[person.burial]
+cemetery.name = "Salem United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Eastover"

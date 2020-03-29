@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201903_Mersky"
+
+[[person.meta.citation]]
+title = "Snyder Funeral Home"
+date = "2019-03-31"
+url = "https://www.snyderfuneralhome.com/obituary/edward-doc-mersky-vmd/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Mersky"
+use = "Edward"
+given = "Edward"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2019-03-25"
+
+[[person.education]]
+school.name = "New Holland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "New Holland"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

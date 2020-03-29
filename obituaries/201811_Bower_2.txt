@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Bower_2"
+
+[[person.meta.citation]]
+title = "Clarion Ledger"
+date = "2018-12-15"
+url = "https://www.legacy.com/obituaries/clarionledger/obituary.aspx?n=frederick-john-bower&pid=190997733"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Bower"
+use = "Fred"
+given = "Frederick John"
+
+[person.birth]
+date = "1936-12-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Waukegan"
+
+[person.death]
+date = "2018-11-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Bryan"
+
+[[person.education]]
+school.name = "San Pedro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Pedro"
+
+[[person.education]]
+school.name = "California State University, Long Beach"
+school.type = "college"

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Robert_Henry"
+
+[person.name]
+last = "Adams"
+use = "Robert"
+given = "Robert Henry"
+
+[person.birth]
+date = "1921-12-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Tuolumne"
+
+[person.death]
+date = "1997-02-13"
+place.country = "US"
+place.state = "WA"
+place.city = "Gig Harbor"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "170"
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

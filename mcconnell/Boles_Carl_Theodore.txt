@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Boles_Carl_Theodore"
+
+[person.name]
+last = "Boles"
+use = "Carl"
+given = "Carl Theodore"
+
+[person.birth]
+date = "1934-10-31"
+place.country = "US"
+place.state = "AR"
+place.city = "Center Point"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "185"

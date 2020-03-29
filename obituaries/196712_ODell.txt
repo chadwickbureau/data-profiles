@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "196712_ODell"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1967-12-19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-11"
+
+[person.name]
+last = "O'Dell"
+use = "Alfred"
+given = "Alfred Thomas"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+[person.death]
+date = "1967-12-18"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"

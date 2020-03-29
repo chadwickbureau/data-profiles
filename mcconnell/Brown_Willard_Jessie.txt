@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Brown_Willard_Jessie"
+
+[person.name]
+last = "Brown"
+use = "Willard"
+given = "Willard Jessie"
+
+[person.birth]
+date = "1915-06-26"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.death]
+date = "1996-08-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "200"

@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "Ainsmith_Edward_Wilbur"
+
+[person.name]
+last = "Ainsmith"
+use = "Edward"
+given = "Edward Wilbur"
+
+[person.birth]
+date = "1890-02-04"
+place.country = "RU"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "180"

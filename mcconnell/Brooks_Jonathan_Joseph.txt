@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Brooks_Jonathan_Joseph"
+
+[person.name]
+last = "Brooks"
+use = "Mandy"
+given = "Jonathan Joseph"
+
+[person.birth]
+date = "1897-08-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "1962-06-17"
+place.country = "US"
+place.state = "MO"
+place.city = "Kirkwood"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "165"
+
+[[person.alias]]
+name.last = "Brozek"
+name.use = "Jonathan"
+name.given = "Jonathan Joseph"
+type = "legal"

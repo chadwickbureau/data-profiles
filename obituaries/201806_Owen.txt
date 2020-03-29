@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "201806_Owen"
+
+[[person.meta.citation]]
+title = "Tidd Family Funeral Home"
+date = "2018-06-09"
+url = "http://www.tiddfuneralservice.com/obituary/larry-owen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Owen"
+use = "Larry"
+given = "Lawrence"
+
+[person.death]
+date = "2018-06-06"

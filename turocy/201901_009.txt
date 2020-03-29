@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_009"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-08"
+pages = "9"
+
+[person.name]
+last = "Parker"
+use = "Ernie"
+given = "Ernie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Denver"
+team.league.name = "Western League"
+description.position = "OF"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"

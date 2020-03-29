@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201903_Ward"
+
+[[person.meta.citation]]
+title = "Coronado Times"
+date = "2019-03-12"
+url = "https://coronadotimes.com/news/2019/03/12/obituary-kevin-michael-ward-1961-2019/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-12"
+
+[person.name]
+last = "Ward"
+use = "Kevin"
+given = "Kevin Michael"
+
+[person.birth]
+date = "1961-09-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Lansdale"
+
+[person.death]
+date = "2019-03-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Coronado"
+
+[[person.education]]
+school.name = "Central Bucks West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Doylestown"
+
+[[person.education]]
+school.name = "University of Arizona"
+school.type = "college"

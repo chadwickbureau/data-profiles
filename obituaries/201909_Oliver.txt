@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201909_Oliver"
+
+[[person.meta.citation]]
+title = "Idaho Statesman"
+date = "2019-10-10"
+url = "https://www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=willard-roy-oliver&pid=194117130"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-11"
+
+[person.name]
+last = "Oliver"
+use = "Bill"
+given = "Willard Roy"
+
+[person.birth]
+date = "1932-01-06"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+[person.death]
+date = "2019-09-02"
+place.country = "US"
+place.state = "ID"
+place.city = "Boise"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

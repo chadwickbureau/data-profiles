@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202002_Bodnar"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2020-02-21"
+url = "https://www.heritagefuneralandcremation.com/obituaries/Elmer-AL-Bodnar?obId=11435908#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-21"
+
+[person.name]
+last = "Bodnar"
+use = "Al"
+given = "Elmer Alex"
+
+[person.birth]
+date = "1928-06-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2020-02-19"

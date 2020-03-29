@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bool_Albert"
+
+[person.name]
+last = "Bool"
+use = "Albert"
+given = "Albert"
+
+[person.birth]
+date = "1897-08-24"
+place.country = "US"
+place.state = "NE"
+place.city = "Lincoln"
+
+[person.death]
+date = "1981-09-27"
+place.country = "US"
+place.state = "NE"
+place.city = "Lincoln"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "180"

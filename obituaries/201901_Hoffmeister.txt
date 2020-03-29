@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201901_Hoffmeister"
+
+[[person.meta.citation]]
+title = "ConstantContact.com"
+date = "2019-01-04"
+url = "http://web-extract.constantcontact.com/v1/social_annotation?permalink_uri=2F4x2uU&image_url=https%3A%2F%2Fmlsvc01-prod.s3.amazonaws.com%2F03168e12701%2Fbb8ea7fc-b6bd-429e-9bf4-6469e4b06ca2.jpg%3Fver%3D1533238148000"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-04"
+
+[person.name]
+last = "Hoffmeister"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1928-12-23"
+
+[person.death]
+date = "2019-01-02"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Bolick_Frank_Charles"
+
+[person.name]
+last = "Bolick"
+use = "Frank"
+given = "Frank Charles"
+
+[person.birth]
+date = "1966-11-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Ashland"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "70"
+weight = "180"
+
+[[person.education]]
+school.name = "Georgia Tech"
+school.type = "college"

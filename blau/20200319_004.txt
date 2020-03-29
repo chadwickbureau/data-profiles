@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200319_004"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-01-01"
+pages = "7"
+
+[person.name]
+last = "Scott"
+use = "Chas."
+given = "Chas. W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+description.bats = "R"
+description.throws = "R"
+description.height = "70"
+description.weight = "172"

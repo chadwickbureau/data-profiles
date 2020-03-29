@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201907_Roarke"
+
+[[person.meta.citation]]
+title = "Gallogly Funeral Home"
+date = "2019-07-29"
+url = "https://www.pratagallogly.com/notices/MichaelMike-Roarke"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-29"
+
+[person.name]
+last = "Roarke"
+use = "Mike"
+given = "Michael Thomas"
+
+[person.birth]
+date = "1930-11-08"
+place.country = "US"
+place.state = "RI"
+place.city = "West Warwick"
+
+[person.death]
+date = "2019-07-27"
+
+[[person.education]]
+school.name = "West Warwick HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "West Warwick"
+
+[[person.education]]
+school.name = "Boston College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

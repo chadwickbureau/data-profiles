@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Tate"
+
+[[person.meta.citation]]
+title = "Broussard's Funeral Home"
+date = "2019-02-10"
+url = "https://broussards1889.com/index.php/memorials/item/teddy-tate?category_id=4"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Tate"
+use = "Teddy"
+given = "Teddy Westbrook"
+
+[person.birth]
+date = "1932-06-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Colmesneil"
+
+[person.death]
+date = "2019-02-01"
+
+[[person.education]]
+school.name = "University of Texas"
+school.type = "college"

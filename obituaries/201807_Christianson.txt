@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201807_Christianson"
+
+[[person.meta.citation]]
+title = "Gunderson Funeral Home"
+date = "2018-07-08"
+url = "http://www.gundersonfh.com/obituaries/David-Simon-Christianson?obId=3144958#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Christianson"
+use = "David"
+given = "David Simon"
+
+[person.birth]
+date = "1931-08-25"
+place.country = "US"
+place.state = "WI"
+place.city = "DeForest"
+
+[person.death]
+date = "2018-07-04"
+place.country = "US"
+place.state = "WI"
+place.city = "Middleton"
+
+[[person.education]]
+school.name = "DeForest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "DeForest"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

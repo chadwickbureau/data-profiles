@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201901_Brodowski"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2019-01-27"
+url = "http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=richard-s-brodowski-dick&pid=191339603&fhid=3736"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-23"
+
+[person.name]
+last = "Brodowski"
+use = "Dick"
+given = "Richard S."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Bayonne"
+
+[person.death]
+date = "2019-01-14"

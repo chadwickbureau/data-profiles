@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "198301_Ahtipis"
+
+[[person.meta.citation]]
+title = "Reno Gazette-Journal"
+date = "2019-10-07"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Ahtipis"
+use = "Dan"
+given = "Dan S."
+
+[person.birth]
+date = "1930-04-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "1983-01-12"
+
+[person.burial]
+cemetery.name = "Mountain View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NV"
+cemetery.place.city = "Reno"
+
+[[person.military]]
+country = "US"
+branch = "Army"

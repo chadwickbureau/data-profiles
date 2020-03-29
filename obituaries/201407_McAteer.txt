@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201407_McAteer"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2014-07-06"
+url = "http://www.legacy.com/obituaries/belleville/obituary.aspx?n=Raymond-McAteer&pid=171622974"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "McAteer"
+use = "Ray"
+given = "Raymond Oliver"
+suffix = "Sr."
+
+[person.birth]
+date = "1928-08-15"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2014-07-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Urbana"
+
+[[person.education]]
+school.name = "Central Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "East St. Louis"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

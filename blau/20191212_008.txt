@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20191212_008"
+
+[[person.meta.citation]]
+title = "Tuscaloosa News"
+date = "1913-07-11"
+pages = "3"
+
+[person.name]
+last = "Moody"
+use = "Farley"
+given = "Farley"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "AL"
+place.city = "Tuscaloosa"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Talladega"
+team.league.name = "Georgia-Alabama League"

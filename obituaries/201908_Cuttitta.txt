@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201908_Cuttitta"
+
+[[person.meta.citation]]
+title = "Covington Memorial Funeral Home"
+date = "2019-08-11"
+url = "https://www.covingtonmemorial.com/obituary/salvatore-sal-cuttitta"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-11"
+
+[person.name]
+last = "Cuttitta"
+use = "Sal"
+given = "Salvatore Frederick"
+
+[person.birth]
+date = "1923-07-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.death]
+date = "2019-08-05"
+
+[person.burial]
+cemetery.name = "Covington Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Fort Wayne"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202002_Rizzo"
+
+[[person.meta.citation]]
+title = "Beidelman-Kunsch Funeral Home"
+date = "2020-02-06"
+url = "https://www.beidelmankunschfh.com/obituaries/Phillip-Butch-A--Rizzo?obId=10830325#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-06"
+
+[person.name]
+last = "Rizzo"
+use = "Phillip"
+given = "Phillip A."
+nick = "Butch"
+
+[person.birth]
+date = "1929-11-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-02-01"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hillside"

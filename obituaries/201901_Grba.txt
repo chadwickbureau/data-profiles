@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201901_Grba"
+
+[[person.meta.citation]]
+title = "Williams Funeral Home"
+date = "2019-01-16"
+url = "https://sprywilliams.com/obituary/2019-1-14-grba-eli/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Grba"
+use = "Eli"
+given = "Eli"
+
+[person.birth]
+date = "1934-08-09"
+
+[person.death]
+date = "2019-01-14"
+
+[[person.military]]
+country = "US"
+branch = "Army"

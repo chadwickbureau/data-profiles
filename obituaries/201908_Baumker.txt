@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201908_Baumker"
+
+[[person.meta.citation]]
+title = "The Missourian"
+date = "2019-08-21"
+url = "https://www.legacy.com/obituaries/emissourian/obituary.aspx?n=wilbert-baumker-wil&pid=193688609"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-25"
+
+[person.name]
+last = "Baumker"
+use = "Wil"
+given = "Wilbert"
+
+[person.birth]
+date = "1938-10-25"
+
+[person.death]
+date = "2019-08-14"
+
+[[person.education]]
+school.name = "St. Francis Borgia Regional HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Washington"

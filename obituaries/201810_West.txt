@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201810_West"
+
+[[person.meta.citation]]
+title = "Strode Funeral Home"
+date = "2018-11-05"
+url = "https://strodefh.com/book-of-memories/3642975/West-Harold/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-05"
+
+[person.name]
+last = "West"
+use = "Jim"
+given = "Harold James"
+nick = "Tricky"
+
+[person.birth]
+date = "1926-11-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Ponca City"
+
+[person.death]
+date = "2018-10-31"
+place.country = "US"
+place.state = "OK"
+place.city = "Stillwater"
+
+[[person.education]]
+school.name = "Ponca City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Ponca City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

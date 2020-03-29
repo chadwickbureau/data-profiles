@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201908_Howser"
+
+[[person.meta.citation]]
+title = "McMillan-Small Funeral Home"
+date = "2019-08-19"
+url = "https://www.msfh.net/cb-profile/robertehowser.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-19"
+
+[person.name]
+last = "Howser"
+use = "Bob"
+given = "Robert Ellis"
+
+[person.birth]
+date = "1945-05-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"
+
+[person.death]
+date = "2019-08-16"
+
+[[person.education]]
+school.name = "East Mecklenburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Charlotte"

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201904_Spike"
+
+[[person.meta.citation]]
+title = "Reichlin Roberts Funeral Home"
+date = "2020-01-18"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=cfe52c65-f5f4-4297-a696-027bc1af80b7&CFTOKEN=0&o_id=6219993&fh_id=16156"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Spike"
+use = "Les"
+given = "Lester"
+
+[person.birth]
+date = "1931-03-19"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2019-04-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Elyria"
+
+[person.burial]
+cemetery.name = "Resthaven Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Avon"
+
+[[person.education]]
+school.name = "Elyria HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Elyria"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

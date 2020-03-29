@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Avila_Roberto_Francisco"
+
+[person.name]
+last = "Avila"
+use = "Bobby"
+given = "Roberto Francisco"
+
+[person.birth]
+date = "1924-04-02"
+place.country = "MX"
+place.city = "Veracruz"
+
+[person.death]
+date = "2004-10-26"
+place.country = "MX"
+place.city = "Veracruz"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "175"

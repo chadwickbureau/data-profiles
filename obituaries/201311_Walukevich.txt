@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201311_Walukevich"
+
+[[person.meta.citation]]
+title = "Delaney & Son Funeral Home"
+date = "2019-12-12"
+url = "https://www.delaneyfuneral.com/notices/Edmund-Walukevich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-12"
+
+[person.name]
+last = "Walukevich"
+use = "Edmund"
+given = "Edmund Leo"
+
+[person.birth]
+date = "1924-12-23"
+place.country = "US"
+place.state = "MA"
+place.city = "East Walpole"
+
+[person.death]
+date = "2013-11-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Brockton"
+
+[person.burial]
+cemetery.name = "Highland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Norwood"
+
+[[person.education]]
+school.name = "Walpole HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Walpole"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

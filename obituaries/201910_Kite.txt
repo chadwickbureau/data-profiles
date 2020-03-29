@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201910_Kite"
+
+[[person.meta.citation]]
+title = "Daily Progress"
+date = "2019-10-22"
+url = "https://www.dailyprogress.com/obituaries/kite-james-jim-p/article_dad10b69-6ffb-50af-8359-e45951a6fbec.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-22"
+
+[person.name]
+last = "Kite"
+use = "Jim"
+given = "James P."
+
+[person.birth]
+date = "1931-07-12"
+
+[person.death]
+date = "2019-10-20"
+
+[[person.education]]
+school.name = "Fork Union Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Fork Union"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Curtis"
+
+[[person.meta.citation]]
+title = "Rich & Thompson Funeral Home"
+date = "2019-11-25"
+url = "https://www.richandthompson.com/tributes/James-Edward-Curtis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-25"
+
+[person.name]
+last = "Curtis"
+use = "Jim"
+given = "James E."
+
+[person.birth]
+date = "1925-12-16"
+
+[person.death]
+date = "2019-11-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Burlington"
+
+[person.burial]
+cemetery.name = "Pine Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Burlington"
+
+[[person.education]]
+school.name = "Eli Whitney HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Graham"

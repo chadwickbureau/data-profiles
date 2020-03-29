@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201407_Knutson"
+
+[[person.meta.citation]]
+title = "WalworthCountyToday.com"
+date = "2014-07-31"
+url = "http://www.walworthcountytoday.com/20140731/richard_d_cheeks_knutson_janesville_wi_1938_2014"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-03"
+
+[person.name]
+last = "Knutson"
+use = "Richard"
+given = "Richard D."
+nick = "Cheeks"
+
+[person.birth]
+date = "1938-02-10"
+
+[person.death]
+date = "2014-07-28"
+place.country = "US"
+place.state = "WI"
+place.city = "Janesville"
+
+[[person.education]]
+school.name = "Janesville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Janesville"

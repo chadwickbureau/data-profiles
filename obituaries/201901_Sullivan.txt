@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201901_Sullivan"
+
+[[person.meta.citation]]
+title = "Mercer-Adams Funeral Home"
+date = "2019-02-16"
+url = "https://www.mercer-adams.com/obituary/david-sullivan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Sullivan"
+use = "David"
+given = "David"
+
+[person.birth]
+date = "1958-06-26"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.death]
+date = "2019-01-03"
+
+[[person.education]]
+school.name = "James Monroe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "New York"
+
+[[person.education]]
+school.name = "Yavapai College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"

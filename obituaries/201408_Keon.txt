@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201408_Keon"
+
+[[person.meta.citation]]
+title = "Journal News"
+date = "2014-08-10"
+url = "http://www.legacy.com/obituaries/lohud/obituary.aspx?n=Edward-Keon&pid=172042042"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-10"
+
+[person.name]
+last = "Keon"
+use = "Ed"
+given = "Edward J."
+suffix = "Jr."
+
+[person.birth]
+date = "1928-12-07"
+
+[person.death]
+date = "2014-08-08"
+
+[person.burial]
+cemetery.name = "Assumption Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Cortlandt Manor"
+
+[[person.education]]
+school.name = "Hendrick Hudson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Montrose"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

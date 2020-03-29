@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202002_McCoy"
+
+[[person.meta.citation]]
+title = "Goldfinch Funeral Home"
+date = "2020-03-01"
+url = "https://www.goldfinchfuneralhome.com/obituaries/Norman-Mccoy/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "McCoy"
+use = "Norman"
+given = "Norman E."
+
+[person.birth]
+date = "1922-08-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Midland"
+
+[person.death]
+date = "2020-02-24"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

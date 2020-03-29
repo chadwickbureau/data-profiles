@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201902_Duncan"
+
+[[person.meta.citation]]
+title = "Courier-Journal"
+date = "2019-02-11"
+url = "https://www.legacy.com/obituaries/louisville/obituary.aspx?n=eddie-l-duncan&pid=191510968&fhid=4751"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-11"
+
+[person.name]
+last = "Duncan"
+use = "Eddie"
+given = "Eddie L."
+
+[person.birth]
+date = "1935-08-10"
+
+[person.death]
+date = "2019-02-09"
+
+[person.burial]
+cemetery.name = "Louisville Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Louisville"
+
+[[person.education]]
+school.name = "duPont Manual HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

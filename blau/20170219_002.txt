@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170219_002"
+
+[person.name]
+last = "O'Hara"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Utica"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Utica"
+team.league.name = "New York State League"

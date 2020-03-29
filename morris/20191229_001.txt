@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20191229_001"
+
+[[person.meta.citation]]
+title = "Burlington Free Press"
+date = "1955-05-30"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-29"
+
+[person.name]
+last = "Quinn"
+use = "Bob"
+given = "Bob"
+
+[[person.education]]
+school.name = "West Chester State Teachers College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1955"
+team.name = "Burlington"
+team.league.name = "Provincial League"
+description.position = "P-OF"
+description.bats = "L"
+description.throws = "L"
+description.height = "70"
+description.weight = "170"

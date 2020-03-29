@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201912_Freeman"
+
+[[person.meta.citation]]
+title = "Gethsemani Funeral Home"
+date = "2020-01-07"
+url = "http://ccpdxor.tributes.com/obituary/show/Robert-L.-Freeman-107887456"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-07"
+
+[person.name]
+last = "Freeman"
+use = "Bob"
+given = "Robert Laverne"
+
+[person.birth]
+date = "1922-10-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[person.death]
+date = "2019-12-04"
+place.country = "US"
+place.state = "NV"
+place.city = "Henderson"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

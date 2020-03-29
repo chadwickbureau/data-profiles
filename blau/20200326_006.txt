@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200326_006"
+
+[[person.meta.citation]]
+title = "Temple Daily Telegram"
+date = "1915-06-19"
+pages = "8"
+
+[person.name]
+last = "Gaines"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Belton"
+team.league.name = "Middle Texas League"

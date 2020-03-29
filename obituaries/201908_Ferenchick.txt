@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201908_Ferenchick"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "2019-08-16"
+url = "https://www.legacy.com/obituaries/readingeagle/obituary.aspx?n=john-ferenchick&pid=193654172&fhid=6802"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-16"
+
+[person.name]
+last = "Ferenchick"
+use = "John"
+given = "John J."
+
+[person.birth]
+date = "1942-12-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Pottsville"
+
+[person.death]
+date = "2019-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Flying Hills"
+
+[person.burial]
+cemetery.name = "Indiantown Gap National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Annville"
+
+[[person.education]]
+school.name = "Minersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Minersville"
+
+[[person.education]]
+school.name = "Goldey-Beacom College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

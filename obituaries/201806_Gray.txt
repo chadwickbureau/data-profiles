@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201806_Gray"
+
+[[person.meta.citation]]
+title = "Tucker Funeral Home"
+date = "2018-06-18"
+url = "http://tuckerfuneralhomes.tributes.com/obituary/show/Elza-Tommy-Gray-106183391"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Gray"
+use = "Tommy"
+given = "Elza Tommy"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-12-25"
+place.country = "US"
+place.state = "KY"
+place.city = "Muhlenberg County"
+
+[person.death]
+date = "2018-06-14"
+place.country = "US"
+place.state = "KY"
+place.city = "Central City"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Central City"

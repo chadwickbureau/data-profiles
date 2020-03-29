@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "111349"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/111349"
+title = "The Sporting News Player Contract Cards, ScanID: 1023000099"
+
+[person.name]
+last = "Johnson"
+given = "Robert"
+
+[person.description]
+position = "P"
+throws = "R"
+
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Manchester"
+note = "Manchester 1915"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Worcester"
+note = "Worcester 1915-04"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Worcester"
+join.name = "Philadelphia (AL)"
+note = "rel to Philadelphia (AL) 1915-06"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Philadelphia (AL)"
+note = "res for 1916"
+

@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201708_Sobota"
+
+[[person.meta.citation]]
+title = "Edison Funeral Home"
+date = "2018-07-17"
+url = "http://www.edisonfuneralhome.com/obituary/ralph-sobota"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Sobota"
+use = "Ralph"
+given = "Ralph Albert"
+
+[person.birth]
+date = "1928-01-23"
+place.country = "US"
+place.state = "WI"
+place.city = "Independence"
+
+[person.death]
+date = "2017-08-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Alma Center"
+
+[person.burial]
+cemetery.name = "Sts. Peter & Paul Catholic Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Independence"
+
+[[person.education]]
+school.name = "Independence HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Independence"
+
+[[person.education]]
+school.name = "University of Wisconsin-La Crosse"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

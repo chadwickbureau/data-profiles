@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190813_053"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News 1915-03-13"
+pages = "6"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Doyle"
+use = "Frank"
+given = "Frank"
+nick = "Rabbit"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Durham"
+team.league.name = "North Carolina State League"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201407_Bjornberg"
+
+[[person.meta.citation]]
+title = "The Record-Journal"
+date = "2014-07-09"
+url = "http://www.legacy.com/obituaries/record-journal/obituary.aspx?n=Philip-Bjornberg&pid=171654852"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-09"
+
+[person.name]
+last = "Bjornberg"
+use = "Philip"
+given = "Philip J."
+
+[person.birth]
+date = "1929-09-06"
+place.country = "US"
+place.state = "CT"
+place.city = "North Haven"
+
+[person.death]
+date = "2014-07-08"
+place.country = "US"
+place.state = "CT"
+place.city = "Middletown"
+
+[person.burial]
+cemetery.name = "New Center Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "North Haven"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

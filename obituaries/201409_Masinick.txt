@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201409_Masinick"
+
+[[person.meta.citation]]
+title = "A. J. Desmond & Sons Funeral Home"
+date = "2018-07-20"
+url = "https://www.desmondfuneralhome.com/obituary/Julius-Bud-Masinick/_/1419562"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Masinick"
+use = "Bud"
+given = "Julius"
+
+[person.birth]
+date = "1925-02-05"
+
+[person.death]
+date = "2014-09-10"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

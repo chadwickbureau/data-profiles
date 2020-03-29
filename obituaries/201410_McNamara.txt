@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201410_McNamara"
+
+[[person.meta.citation]]
+title = "Worcester Telegram & Gazette"
+date = "2014-10-02"
+url = "http://www.legacy.com/obituaries/telegram/obituary.aspx?n=John-McNamara&pid=172648156"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-02"
+
+[person.name]
+last = "McNamara"
+use = "John"
+given = "John J."
+
+[person.birth]
+date = "1923-02-03"
+place.country = "US"
+place.state = "MA"
+place.city = "Millville"
+
+[person.death]
+date = "2014-10-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Millville"
+
+[person.burial]
+cemetery.name = "St. Paul's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Blackstone"
+
+[[person.education]]
+school.name = "St. Mary's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Milford"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

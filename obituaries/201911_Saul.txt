@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "201911_Saul"
+
+[[person.meta.citation]]
+title = "Quinn-Hopping Funeral Home"
+date = "2019-11-26"
+url = "https://www.dignitymemorial.com/obituaries/livingston-nj/frank-saul-8920621"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-26"
+
+[person.name]
+last = "Saul"
+use = "Pep"
+given = "Frank"
+
+[person.birth]
+date = "1924-02-16"
+place.country = "US"
+place.state = "NJ"
+place.city = "Oradell"
+
+[person.death]
+date = "2019-11-07"
+
+[person.sameas]
+sr_nba = "saulpe01"
+
+[[person.education]]
+school.name = "Holy Trinity HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Hackensack"
+
+[[person.education]]
+school.name = "Seton Hall Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "West Orange"
+
+[[person.education]]
+school.name = "Seton Hall University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

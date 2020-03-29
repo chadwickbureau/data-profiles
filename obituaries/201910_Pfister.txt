@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201910_Pfister"
+
+[[person.meta.citation]]
+title = "Short Funeral Home"
+date = "2019-10-22"
+url = "https://www.shortfh.com/obituaries/Joseph-Pfister-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-22"
+
+[person.name]
+last = "Pfister"
+use = "Joe"
+given = "Joseph J."
+
+[person.birth]
+date = "1933-01-11"
+place.country = "US"
+place.state = "DE"
+place.city = "Lewes"
+
+[person.death]
+date = "2019-10-19"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

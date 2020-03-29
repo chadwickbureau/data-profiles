@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201908_Moroski"
+
+[[person.meta.citation]]
+title = "Reyers North Valley Chapel"
+date = "2019-12-28"
+url = "https://www.dignitymemorial.com/obituaries/grand-rapids-mi/william-moroski-8818364"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Moroski"
+use = "Bill"
+given = "William Henry"
+
+[person.birth]
+date = "1929-01-02"
+
+[person.death]
+date = "2019-08-13"
+
+[[person.education]]
+school.name = "Creston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Grand Rapids"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

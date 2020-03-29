@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170219_132"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1929-06-12"
+pages = "25"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1928-08-24"
+pages = "30"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1929-11-28"
+pages = "8"
+
+[person.name]
+last = "Bosco"
+use = "Mike"
+given = "Mike"
+
+[person.description]
+note = [ "see 6/12/1929 Akron Beacon Journal, p. 25", "see 8/24/1928 Akron Beacon Journal, p. 30" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Akron"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Providence"
+team.league.name = "Eastern League"

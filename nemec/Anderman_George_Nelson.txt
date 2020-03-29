@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "Anderman_George_Nelson"
+
+[person.name]
+last = "Anderman"
+use = "George"
+given = "George Nelson"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-06-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2011-09-25"
+
+[person.description]
+bats = "R"
+throws = "L"
+height = "72"
+weight = "175"
+
+[person.sameas]
+ssn = "209-14-5055"
+
+[[person.resides]]
+dates = "1950"
+place.country = "US"
+place.state = "PA"
+place.city = "Melrose Park"
+place.address = "911 Melrose Avenue"
+
+
+[[person.education]]
+school.name = "Cheltenham High School"
+school.type = "secondary"
+dates = "/1946"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Lafayette College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"

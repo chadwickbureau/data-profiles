@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201407_Quevreaux"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2014-07-02"
+url = "http://www.legacy.com/obituaries/dallasmorningnews/obituary.aspx?n=Kenneth-Quevreaux&pid=171577868"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Quevreaux"
+use = "Ken"
+given = "Kenneth Edward"
+
+[person.birth]
+date = "1921-10-07"
+place.country = "US"
+place.state = "MO"
+place.city = "Webster Groves"
+
+[person.death]
+date = "2014-07-01"
+
+[person.burial]
+cemetery.name = "Restland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "University of Missouri"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

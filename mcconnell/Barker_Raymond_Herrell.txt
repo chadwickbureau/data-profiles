@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Barker_Raymond_Herrell"
+
+[person.name]
+last = "Barker"
+use = "Raymond"
+given = "Raymond Herrell"
+
+[person.birth]
+date = "1936-03-12"
+place.country = "US"
+place.state = "WV"
+place.city = "Martinsburg"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72"
+weight = "192"

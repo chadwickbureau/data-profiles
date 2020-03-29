@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201805_Shoblom"
+
+[[person.meta.citation]]
+title = "Amico Funeral Home"
+date = "2018-06-04"
+url = "http://www.amicofuneralhome.com/obituaries/Donald-Shoblom/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-04"
+
+[person.name]
+last = "Shoblom"
+use = "Donald"
+given = "Donald E."
+
+[person.birth]
+date = "1932-05-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Gloversville"
+
+[person.death]
+date = "2018-05-24"
+place.country = "US"
+place.state = "NY"
+place.city = "Amsterdam"
+
+[person.burial]
+cemetery.name = "Mount Carmel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Johnstown"
+
+[[person.education]]
+school.name = "Gloversville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Gloversville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

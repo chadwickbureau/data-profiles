@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Arlett_Alexander_Benjamin"
+
+[person.name]
+last = "Arlett"
+use = "Pop"
+given = "Alexander Benjamin"
+
+[person.birth]
+date = "1890-03-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "1944-11-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Hayward"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "168"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Arlett"
+person.name.use = "Buzz"
+person.name.given = "Russell"

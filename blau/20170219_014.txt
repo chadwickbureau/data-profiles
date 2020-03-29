@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_014"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-04-02"
+pages = "6"
+
+[person.name]
+last = "Roberts"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.throws = "R"

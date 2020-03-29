@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170219_126"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1905-03-16"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1906-10-06"
+pages = "18"
+
+[person.name]
+last = "Blake"
+use = "Bill"
+given = "Frank William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "New Orleans"
+team.league.name = "Southern Association"

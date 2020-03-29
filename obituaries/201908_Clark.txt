@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201908_Clark"
+
+[[person.meta.citation]]
+title = "Minshall Shropshire-Bleyler Funeral Home"
+date = "2019-12-28"
+url = "https://msbfh.com/tribute/details/1543/James-Clark/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Clark"
+use = "James"
+given = "James C."
+
+[person.birth]
+date = "1926-08-13"
+
+[person.death]
+date = "2019-08-02"
+
+[person.burial]
+cemetery.name = "Edgewood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Glen Mills"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

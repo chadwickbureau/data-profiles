@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201911_Banks"
+
+[[person.meta.citation]]
+title = "Macon Memorial Park Funeral Home"
+date = "2019-11-19"
+url = "https://www.dignitymemorial.com/obituaries/macon-ga/james-banks-8926258"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-19"
+
+[person.name]
+last = "Banks"
+use = "Wenford"
+given = "James Wenford"
+
+[person.birth]
+date = "1937-09-06"
+place.country = "US"
+place.state = "AL"
+place.city = "Dadeville"
+
+[person.death]
+date = "2019-11-14"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"

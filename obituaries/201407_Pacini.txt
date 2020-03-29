@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201407_Pacini"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2014-07-16"
+url = "http://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=DENI-PACINI&pid=171741073"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Pacini"
+use = "Deni"
+given = "Deni John"
+
+[person.birth]
+date = "1933-03-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Kerman"
+
+[person.death]
+date = "2014-07-11"
+
+[[person.education]]
+school.name = "Kerman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Kerman"

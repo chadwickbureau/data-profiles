@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201406_Wlodarczyk"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2014-06-26"
+url = "http://www.buffalonews.com/city-region/obituaries/henry-wlodarczyk-gm-engine-plant-retiree-20140626"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-25"
+
+[person.name]
+last = "Wlodarczyk"
+use = "Henry"
+given = "Henry"
+
+[person.birth]
+date = "1927-07-17"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2014-06-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Williamsville"
+
+[[person.education]]
+school.name = "Seneca Vocational HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Buffalo"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

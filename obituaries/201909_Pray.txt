@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201909_Pray"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2019-09-24"
+url = "https://buffalonews.com/2019/09/19/donald-p-pray-84-grocery-store-owner-pro-ballplayer/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-24"
+
+[person.name]
+last = "Pray"
+use = "Don"
+given = "Donald P."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Ridgway"
+
+[person.death]
+date = "2019-09-09"
+place.country = "US"
+place.state = "NY"
+place.city = "Tonawanda"
+
+[[person.education]]
+school.name = "Kenmore HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Tonawanda"

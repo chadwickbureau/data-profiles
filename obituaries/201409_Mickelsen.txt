@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201409_Mickelsen"
+
+[[person.meta.citation]]
+title = "U-T San Diego"
+date = "2014-10-02"
+url = "http://www.utsandiego.com/news/2014/oct/02/noel-mickelsen-obituary-aztecs-grossmont-college/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Mickelsen"
+use = "Noel"
+given = "Noel"
+
+[person.birth]
+date = "1934-08-15"
+
+[person.death]
+date = "2014-09-28"
+
+[[person.education]]
+school.name = "San Diego State University"
+school.type = "college"

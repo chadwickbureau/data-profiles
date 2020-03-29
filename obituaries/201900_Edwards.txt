@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201900_Edwards"
+
+[[person.meta.citation]]
+title = "Porterville Recorder"
+date = "2019-03-20"
+url = "https://www.legacy.com/obituaries/recorderonline/obituary.aspx?n=glenn-arthur-edwards&pid=191875061"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Edwards"
+use = "Glenn"
+given = "Glenn Arthur"
+
+[person.birth]
+date = "1923-11-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Tulare"
+
+[person.death]
+date = "2019"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

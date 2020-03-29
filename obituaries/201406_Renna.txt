@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201406_Renna"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News/San Mateo County Times"
+date = "2014-07-15"
+url = "http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=William-Renna&pid=171736198"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-15"
+
+[person.name]
+last = "Renna"
+use = "Bill"
+given = "William Beneditto"
+
+[person.birth]
+date = "1924-10-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Hanford"
+
+[person.death]
+date = "2014-06-19"
+
+[[person.education]]
+school.name = "Hanford Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Hanford"
+
+[[person.education]]
+school.name = "University of San Francisco"
+school.type = "college"
+
+[[person.education]]
+school.name = "Menlo College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Santa Clara University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

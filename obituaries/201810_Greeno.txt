@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201810_Greeno"
+
+[[person.meta.citation]]
+title = "Rumsey-Yost Funeral Home"
+date = "2018-11-12"
+url = "https://rumsey-yost.com/2018/10/kenneth-lewis-ken-greeno/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-12"
+
+[person.name]
+last = "Greeno"
+use = "Ken"
+given = "Kenneth Lewis"
+
+[person.birth]
+date = "1940-08-17"
+place.country = "US"
+place.state = "NM"
+place.city = "Carlsbad"
+
+[person.death]
+date = "2018-10-26"
+place.country = "US"
+place.state = "KS"
+place.city = "Lawrence"
+
+[[person.education]]
+school.name = "Kearney HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Kearney"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

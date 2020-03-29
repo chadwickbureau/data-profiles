@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201810_Eddy"
+
+[[person.meta.citation]]
+title = "Hogan-Bremer-Moore Funeral Home"
+date = "2018-10-21"
+url = "https://www.colonialchapels.com/obituaries/Donald-Eddy-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Eddy"
+use = "Don"
+given = "Donald Eugene"
+
+[person.birth]
+date = "1946-10-25"
+place.country = "US"
+place.state = "IA"
+place.city = "Mason City"
+
+[person.death]
+date = "2018-10-10"
+place.country = "US"
+place.state = "IA"
+place.city = "Rockwell"
+
+[person.burial]
+cemetery.name = "Rockwell Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Rockwell"
+
+[[person.education]]
+school.name = "Rockwell-Swaledale HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Rockwell"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201811_Dziedzic_2"
+
+[[person.meta.citation]]
+title = "Kozlak-Radulovich Funderal Home"
+date = "2018-11-26"
+url = "https://memorials.kozlakradulovich.com/walter-dziedzic/3665304/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Dziedzic"
+use = "Walter"
+given = "Walter Paul"
+
+[person.birth]
+date = "1932-11-29"
+
+[person.death]
+date = "2018-11-24"
+place.country = "US"
+place.state = "MN"
+place.city = "Robbinsdale"
+
+[person.burial]
+cemetery.name = "Hillside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"

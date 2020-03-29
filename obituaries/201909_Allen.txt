@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Allen"
+
+[[person.meta.citation]]
+title = "Edo Miller & Sons Funeral Home"
+date = "2019-09-25"
+url = "https://www.dignitymemorial.com/obituaries/brunswick-ga/william-allen-8862705"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Allen"
+use = "Bill"
+given = "William Demarvin"
+nick = "Lefty"
+
+[person.birth]
+date = "1931-05-14"
+
+[person.death]
+date = "2019-09-19"
+place.country = "US"
+place.state = "GA"
+place.city = "St. Simons"
+
+[[person.education]]
+school.name = "Glynn Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Brunswick"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

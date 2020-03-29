@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201406_Noto"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2014-06-29"
+url = "http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Edward-Noto&pid=171537088"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-05"
+
+[person.name]
+last = "Noto"
+use = "Ed"
+given = "Edward R."
+
+[person.birth]
+date = "1934-03-16"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+[person.death]
+date = "2014-06-18"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

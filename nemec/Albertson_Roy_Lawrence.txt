@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "Albertson_Roy_Lawrence"
+
+[person.name]
+last = "Albertson"
+use = "Roy"
+given = "Roy Lawrence"
+
+[person.birth]
+date = "1930-06-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2011-12-07"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "72"
+weight = "168"
+
+[[person.resides]]
+dates = "1951"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tuscon"
+
+
+[[person.education]]
+school.name = "Tuscon High School"
+school.type = "secondary"
+dates = "/1948"
+degree = "graduated"
+
+[[person.education]]
+school.name = "University of Arizona"
+school.type = "college"

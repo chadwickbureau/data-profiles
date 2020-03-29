@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_168"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Najo"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "CF"
+description.bats = "R"
+description.throws = "R"
+description.age = "28"

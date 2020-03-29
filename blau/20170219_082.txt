@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20170219_082"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[person.name]
+last = "Hazen"
+use = "Eddie"
+given = "Eddie"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.bats = "L"
+description.throws = "L"

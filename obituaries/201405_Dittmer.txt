@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201405_Dittmer"
+
+[[person.meta.citation]]
+title = "The Gazette"
+date = "2014-06-02"
+url = "http://thegazette.com/article/20140602/Obituaries/306029986"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-02"
+
+[person.name]
+last = "Dittmer"
+use = "Jack"
+given = "John D."
+
+[person.birth]
+date = "1928-01-10"
+place.country = "US"
+place.state = "IA"
+place.city = "Elkader"
+
+[person.death]
+date = "2014-05-31"
+place.country = "US"
+place.state = "IA"
+place.city = "Strawberry Point"
+
+[person.burial]
+cemetery.name = "St. Joseph Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Elkader"
+
+[[person.education]]
+school.name = "Elkader HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Elkader"
+
+[[person.education]]
+school.name = "University of Iowa"
+school.type = "college"

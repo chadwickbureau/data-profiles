@@ -1,0 +1,130 @@
+[[person]]
+
+[person.meta]
+key = "Zar_John_Andrew"
+
+[person.name]
+last = "Zar"
+use = "John"
+given = "John Andrew"
+nick = "Red"
+
+[person.birth]
+date = "1920-11-25"
+place.country = "US"
+place.state = "CA"
+place.city = "San Pedro"
+
+[person.death]
+date = "2008-10-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Palm Springs"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "76"
+weight = "205"
+ancestry = "Croatian"
+
+[[person.resides]]
+dates = "1940"
+place.country = "US"
+place.state = "CA"
+place.city = "San Pedro"
+place.address = "721 26th Street"
+
+
+[[person.education]]
+school.name = "San Pedro High School"
+school.type = "secondary"
+dates = "/1938"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"
+
+
+[[person.playing]]
+season = "1939"
+league.name = "Arizona-Texas League"
+splits.0.team.name = "El Paso"
+totals.P_G = "7"
+totals.P_CG = "0"
+totals.P_IP = "22"
+totals.P_W = "1"
+totals.P_L = "2"
+totals.P_PCT = ".333"
+totals.P_H = "31"
+totals.P_BB = "23"
+totals.P_SO = "17"
+totals.P_R = "33"
+totals.P_ER = "31"
+totals.P_ERA = "12.68"
+
+[[person.playing]]
+season = "1940"
+league.name = "Pioneer League"
+splits.0.team.name = "Idaho Falls"
+totals.P_G = "29"
+totals.P_CG = "14"
+totals.P_IP = "199"
+totals.P_W = "17"
+totals.P_L = "6"
+totals.P_PCT = ".739"
+totals.P_H = "196"
+totals.P_BB = "97"
+totals.P_SO = "153"
+totals.P_R = "102"
+totals.P_ER = "71"
+totals.P_ERA = "3.21"
+
+[[person.playing]]
+season = "1941"
+league.name = "Piedmont League"
+splits.0.team.name = "Norfolk"
+totals.P_G = "22"
+totals.P_CG = "7"
+totals.P_IP = "148"
+totals.P_W = "7"
+totals.P_L = "8"
+totals.P_PCT = ".467"
+totals.P_H = "140"
+totals.P_BB = "65"
+totals.P_SO = "64"
+totals.P_R = "69"
+totals.P_ER = "58"
+totals.P_ERA = "3.53"
+
+[[person.playing]]
+season = "1942"
+league.name = "Pacific Coast League"
+splits.0.team.name = "Seattle"
+totals.P_G = "2"
+totals.P_CG = "0"
+totals.P_IP = "5"
+totals.P_W = "0"
+totals.P_L = "0"
+totals.P_PCT = ".000"
+totals.P_H = "10"
+totals.P_BB = "6"
+totals.P_SO = "2"
+totals.P_R = "13"
+
+[[person.playing]]
+season = "1942"
+league.name = "Texas League"
+splits.0.team.name = "Fort Worth"
+totals.P_G = "4"
+totals.P_CG = "0"
+totals.P_IP = "14"
+totals.P_W = "1"
+totals.P_L = "2"
+totals.P_PCT = ".333"
+totals.P_H = "13"
+totals.P_BB = "10"
+totals.P_SO = "5"
+totals.P_R = "9"

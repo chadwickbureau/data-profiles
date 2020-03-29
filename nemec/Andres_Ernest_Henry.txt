@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "Andres_Ernest_Henry"
+
+[person.name]
+last = "Andres"
+use = "Ernie"
+given = "Ernest Henry"
+
+[person.birth]
+date = "1918-01-11"
+place.country = "US"
+place.state = "IN"
+place.city = "Jeffersonville"
+
+[person.death]
+date = "2008-09-19"
+place.country = "US"
+place.state = "FL"
+place.city = "Bradenton"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "200"
+
+[person.sameas]
+ssn = "406-05-2632"
+
+[[person.resides]]
+dates = "2003"
+place.country = "US"
+place.state = "FL"
+place.city = "Bradenton"
+place.address = "5714 Garden Lakes Drive"
+place.zip = "34203"
+
+
+[[person.education]]
+school.name = "Jefferson High School"
+school.type = "secondary"
+dates = "/1935"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Indiana University"
+school.type = "college"
+dates = "/1930"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201901_041"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Graham"
+use = "Hugh"
+given = "Hugh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "3B"
+description.bats = "S"
+description.throws = "R"
+description.age = "22"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201904_Smith_George"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "2019-05-26"
+url = "https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=george-f-smith&pid=192973149"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-17"
+
+[person.name]
+last = "Smith"
+use = "George"
+given = "George F."
+suffix = "Jr."
+
+[person.birth]
+date = "1930-07-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2019-04-15"
+
+[[person.education]]
+school.name = "Tilden Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

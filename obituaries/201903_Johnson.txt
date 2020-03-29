@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201903_Johnson"
+
+[[person.meta.citation]]
+title = "Little Rock Funeral Home"
+date = "2019-03-11"
+url = "https://www.littlerockfuneralhome.com/obituaries/John-Johnson-149/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-11"
+
+[person.name]
+last = "Johnson"
+use = "John"
+given = "John Charles"
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+[person.death]
+date = "2019-03-01"
+
+[[person.education]]
+school.name = "Little Rock Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Little Rock"

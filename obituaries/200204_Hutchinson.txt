@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "200204_Hutchinson"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-10"
+url = "http://www.tributes.com/obituary/show/James-Hutch-Hutchinson-1664677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Hutchinson"
+use = "James"
+given = "James C."
+
+[person.birth]
+date = "1927-02-14"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2002-04-05"
+place.country = "US"
+place.state = "NH"
+place.city = "Manchester"
+
+[person.burial]
+cemetery.name = "Mount Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Manchester"

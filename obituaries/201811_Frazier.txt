@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201811_Frazier"
+
+[[person.meta.citation]]
+title = "Wichita Eagle"
+date = "2018-12-02"
+url = "https://www.legacy.com/obituaries/kansas/obituary.aspx?n=william-frazier-bill&pid=190885050"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-02"
+
+[person.name]
+last = "Frazier"
+use = "Bill"
+given = "William"
+
+[person.death]
+date = "2018-11-30"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

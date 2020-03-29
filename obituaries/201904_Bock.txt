@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201904_Bock"
+
+[[person.meta.citation]]
+title = "Greenlawn Funeral Homes"
+date = "2019-04-30"
+url = "https://memorials.greenlawnmortuaryandcemetery.com/brian-bock/3820480/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-30"
+
+[person.name]
+last = "Bock"
+use = "Brian"
+given = "Brian Patrick"
+
+[person.birth]
+date = "1981-08-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Bakersfield"
+
+[person.death]
+date = "2019-04-22"
+
+[person.burial]
+cemetery.name = "Greenlawn Cemetery and Mortuary"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Bakersfield"
+
+[[person.education]]
+school.name = "Garces Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Bakersfield"
+
+[[person.education]]
+school.name = "University of Hawaii at Manoa"
+school.type = "college"

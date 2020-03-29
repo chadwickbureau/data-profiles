@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170219_139"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Adams"
+use = "Quincy"
+given = "Quincy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"

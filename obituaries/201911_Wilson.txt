@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201911_Wilson"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2019-12-06"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=ward-wilson&pid=194632516"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "Wilson"
+use = "Ward"
+given = "Ward"
+
+[person.birth]
+date = "1935-01-02"
+place.country = "US"
+place.state = "NY"
+
+[person.death]
+date = "2019-11-28"
+place.country = "US"
+place.state = "GA"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Tampa"

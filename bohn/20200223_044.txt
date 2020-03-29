@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_044"
+
+[[person.meta.citation]]
+title = "Grand Forks Daily Herald"
+date = "1922-09-06"
+
+[person.name]
+last = "Duff"
+use = "Cecil"
+given = "Cecil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Mitchell"
+team.league.name = "Dakota League"

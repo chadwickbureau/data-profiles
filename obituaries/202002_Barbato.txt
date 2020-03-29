@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202002_Barbato"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2020-03-01"
+url = "https://www.dignitymemorial.com/obituaries/madison-ct/joseph-barbato-9051002"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "Barbato"
+use = "Joe"
+given = "Joseph Anthony"
+
+[person.birth]
+date = "1931-01-11"
+
+[person.death]
+date = "2020-02-25"
+
+[person.burial]
+cemetery.name = "West Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Madison"
+
+[[person.education]]
+school.name = "Hillhouse HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New Haven"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

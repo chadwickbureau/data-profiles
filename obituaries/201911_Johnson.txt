@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_Johnson"
+
+[[person.meta.citation]]
+title = "Apfel Funeral Home"
+date = "2019-12-10"
+url = "http://www.apfelfuneralhome.com/obituaries/Ray--Johnson?obId=9381964#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Johnson"
+use = "Ray"
+given = "Ray A."
+
+[person.birth]
+date = "1924-02-11"
+place.country = "US"
+place.state = "NE"
+place.city = "Dannebrog"
+
+[person.death]
+date = "2019-11-21"
+
+[person.burial]
+cemetery.name = "Westlawn Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Grand Island"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

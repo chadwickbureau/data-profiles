@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201405_Harrington"
+
+[[person.meta.citation]]
+title = "Moore Funeral Service"
+date = "2014-05-13"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2521062&fh_id=12448"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-14"
+
+[person.name]
+last = "Harrington"
+use = "Ronnie"
+given = "Ronnie"
+
+[person.birth]
+date = "1954-12-28"
+
+[person.death]
+date = "2014-05-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "Highland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Hattiesburg"
+
+[[person.education]]
+school.name = "Petal HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Petal"
+
+[[person.education]]
+school.name = "William Carey College"
+school.type = "college"

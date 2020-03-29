@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201907_Jones"
+
+[[person.meta.citation]]
+title = "McCully Funeral Home"
+date = "2019-08-04"
+url = "https://www.mccullyfuneral.com/notices/David-JonesSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-04"
+
+[person.name]
+last = "Jones"
+use = "David"
+given = "David John"
+suffix = "Sr."
+
+[person.birth]
+date = "1940-10-25"
+
+[person.death]
+date = "2019-07-29"
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Brooklyn Park"
+
+[[person.education]]
+school.name = "Calvert Hall College HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+[[person.education]]
+school.name = "Villanova University"
+school.type = "college"

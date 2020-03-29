@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_Down_2"
+
+[[person.meta.citation]]
+title = "Heritage Newspapers"
+date = "2019-01-16"
+url = "https://www.legacy.com/obituaries/heritage/obituary.aspx?n=richard-john-down-rick&pid=191234585"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-12"
+
+[person.name]
+last = "Down"
+use = "Rick"
+given = "Richard John"
+
+[person.birth]
+place.country = "US"
+place.state = "MI"
+place.city = "Wyandotte"
+
+[person.death]
+date = "2019-01-05"
+
+[[person.education]]
+school.name = "Southgate HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Southgate"

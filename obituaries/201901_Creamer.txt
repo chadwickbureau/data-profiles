@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201901_Creamer"
+
+[[person.meta.citation]]
+title = "Farley, Estes & Dowdle Funeral Home"
+date = "2019-01-28"
+url = "http://farleyestesdowdle.tributes.com/obituary/show/David-Staley-Dave-Creamer-II-106772117"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Creamer"
+use = "Dave"
+given = "David Staley"
+suffix = "II"
+
+[person.birth]
+date = "1932-07-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.death]
+date = "2019-01-23"
+place.country = "US"
+place.state = "MI"
+place.city = "Richland"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

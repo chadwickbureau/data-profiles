@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201900_Romano"
+
+[[person.meta.citation]]
+title = "Cleveland.com"
+date = "2019-03-04"
+url = "https://www.cleveland.com/tribe/2019/03/john-romano-cleveland-indians-all-star-catcher-in-the-1960s-dies-at-age-84.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-06"
+
+[person.name]
+last = "Romano"
+use = "John"
+given = "John"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Hoboken"
+
+[person.death]
+date = "2019"

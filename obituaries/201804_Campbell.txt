@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201804_Campbell"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-06-24"
+url = "https://www.dignitymemorial.com/obituaries/rochester-mi/kenneth-campbell-7823007"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-24"
+
+[person.name]
+last = "Campbell"
+use = "Ken"
+given = "Kenneth J."
+
+[person.birth]
+date = "1927-10-26"
+place.country = "US"
+place.state = "MI"
+place.city = "Pontiac"
+
+[person.death]
+date = "2018-04-15"
+
+[person.burial]
+cemetery.name = "Van Hoosen Jones Stoney Creek Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Rochester"
+
+[[person.education]]
+school.name = "Lake Orion HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Lake Orion"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

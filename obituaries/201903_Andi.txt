@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201903_Andi"
+
+[[person.meta.citation]]
+title = "New Comer Funeral Home"
+date = "2019-03-10"
+url = "https://www.newcomeralbany.com/Obituary/169374/Timothy-Andi/Albany-New-York"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Andi"
+use = "Tim"
+given = "Timothy P."
+
+[person.birth]
+date = "1955"
+
+[person.death]
+date = "2019-03-03"
+
+[person.burial]
+cemetery.name = "Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Colonie"
+
+[[person.education]]
+school.name = "LeMoyne College"
+school.type = "college"

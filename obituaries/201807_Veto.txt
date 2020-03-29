@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201807_Veto"
+
+[[person.meta.citation]]
+title = "Curran-Jones Funeral Home"
+date = "2018-07-17"
+url = "http://www.curranjones.com/obituary/edward-veto"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Veto"
+use = "Ed"
+given = "Edward R."
+
+[person.birth]
+date = "1923-11-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2018-07-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Westfield"
+
+[person.burial]
+cemetery.name = "Massachusetts Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Agawam"
+
+[[person.education]]
+school.name = "West Springfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "West Springfield"
+
+[[person.education]]
+school.name = "American International College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

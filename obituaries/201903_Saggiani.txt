@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201903_Saggiani"
+
+[[person.meta.citation]]
+title = "Green Hills Mortuary"
+date = "2019-04-03"
+url = "https://www.greenhillsmortuary.com/obituaries/Nello-Saggiani/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-03"
+
+[person.name]
+last = "Saggiani"
+use = "Nello"
+given = "Nello Albert"
+
+[person.birth]
+date = "1928-01-21"
+place.country = "US"
+place.state = "CA"
+place.city = "San Pedro"
+
+[person.death]
+date = "2019-03-28"
+
+[person.burial]
+cemetery.name = "Green Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Rachos Palos Verdes"
+
+[[person.education]]
+school.name = "San Pedro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Pedro"
+
+[[person.education]]
+school.name = "Compton College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

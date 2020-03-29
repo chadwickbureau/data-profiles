@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201912_Jones"
+
+[[person.meta.citation]]
+title = "Harper Funeral Home"
+date = "2019-12-08"
+url = "https://www.harper-funeralhome.com/obituaries/Ronnie-Jones?obId=9398309#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-08"
+
+[person.name]
+last = "Jones"
+use = "Ronnie"
+given = "Ronnie"
+
+[person.birth]
+date = "1942-07-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Mexia"
+
+[person.death]
+date = "2019-12-05"
+place.country = "US"
+place.state = "TX"
+place.city = "San Angelo"
+
+[[person.education]]
+school.name = "Odessa College"
+school.type = "college"

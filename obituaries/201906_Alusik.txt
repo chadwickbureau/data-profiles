@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201906_Alusik"
+
+[[person.meta.citation]]
+title = "Chubenko Funeral Homes"
+date = "2019-07-06"
+url = "https://www.chubenkofh.com/obituary/joseph-alusik"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Alusik"
+use = "Joseph"
+given = "Joseph"
+
+[person.birth]
+date = "1929-01-14"
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "2019-06-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Edison"
+
+[person.burial]
+cemetery.name = "St. Gertrude Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Colonia"
+
+[[person.military]]
+country = "US"
+branch = "Army"

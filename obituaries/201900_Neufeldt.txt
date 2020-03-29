@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201900_Neufeldt"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2019-06-03"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=james-henry-neufeldt&pid=193041610"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-03"
+
+[person.name]
+last = "Neufeldt"
+use = "Jim"
+given = "James Henry"
+
+[person.death]
+date = "2019"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Myers"
+
+[[person.education]]
+school.name = "Marshall Metropolitan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

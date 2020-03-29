@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201903_McDuff"
+
+[[person.meta.citation]]
+title = "Lake Ridge Funeral Home"
+date = "2019-03-17"
+url = "https://memorialdesigners.net/obituary/28103/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "McDuff"
+use = "George"
+given = "George Glenn"
+
+[person.birth]
+date = "1932-01-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[person.death]
+date = "2019-03-14"
+
+[person.description]
+position = "P"
+throws = "R"
+
+[[person.education]]
+school.name = "Grandview HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Grandview"
+
+[[person.education]]
+school.name = "Baylor University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

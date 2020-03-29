@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201906_Belkin_1"
+
+[[person.meta.citation]]
+title = "Cleveland Jewish News"
+date = "2019-06-26"
+url = "https://www.clevelandjewishnews.com/news/local_news/myron-mike-belkin-sr-sept-june/article_92cd17ac-9862-11e9-b782-23d5945d760a.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-27"
+
+[person.name]
+last = "Belkin"
+use = "Mike"
+given = "Myron"
+suffix = "Sr."
+
+[person.birth]
+date = "1935-09-19"
+
+[person.death]
+date = "2019-06-26"

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "195907_Query"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1959-07-08"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-03"
+
+[person.name]
+last = "Query"
+use = "Wray"
+given = "Wray"
+
+[person.death]
+date = "1959-07-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Temple"
+
+[person.burial]
+cemetery.name = "Waco Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Waco"
+
+[[person.military]]
+country = "US"
+conflict = "World War I"

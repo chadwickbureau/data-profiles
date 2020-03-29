@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "200208_Davis"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-10"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Davis"
+use = "Hank"
+given = "Henry Clark"
+
+[person.birth]
+date = "1924-02-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Greenville"
+
+[person.death]
+date = "2002-08-13"
+
+[person.burial]
+cemetery.name = "Mount Pleasant Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Mount Pleasant"
+
+[[person.education]]
+school.name = "Charles L. Coon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Wilson"
+
+[[person.education]]
+school.name = "Barton College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

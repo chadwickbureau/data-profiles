@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Arlitt_Adolph"
+
+[person.name]
+last = "Arlitt"
+use = "Adolph"
+given = "Adolph"
+nick = "Buzz"
+
+[person.birth]
+date = "1912-04-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Kincaid"
+
+[person.death]
+date = "1992-11-10"
+place.country = "US"
+place.state = "OR"
+place.city = "Roseburg"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "78"
+weight = "230"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

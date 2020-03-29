@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Briggs_John_Edward"
+
+[person.name]
+last = "Briggs"
+use = "John"
+given = "John Edward"
+
+[person.birth]
+date = "1944-03-10"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "73"
+weight = "195"
+
+[[person.education]]
+school.name = "Seton Hall University"
+school.type = "college"

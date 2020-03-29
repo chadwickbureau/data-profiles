@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202002_Stratton"
+
+[[person.meta.citation]]
+title = "Dorr & Clark Funeral Home"
+date = "2020-02-24"
+url = "https://www.dorrandclark.com/obituary/John-Stratton"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-24"
+
+[person.name]
+last = "Stratton"
+use = "John"
+given = "John W."
+
+[person.birth]
+date = "1932-12-13"
+place.country = "US"
+place.state = "CA"
+place.city = "San Jose"
+
+[person.death]
+date = "2020-02-17"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.burial]
+cemetery.name = "Falls City Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Falls City"

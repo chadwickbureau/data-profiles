@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201911_Demattio"
+
+[[person.meta.citation]]
+title = "Geib Funeral Home"
+date = "2020-01-09"
+url = "https://www.geibfuneral.com/obituary/theodore-j-ted-demattio/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-09"
+
+[person.name]
+last = "Demattio"
+use = "Ted"
+given = "Theodore J."
+
+[person.birth]
+date = "1930-12-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Midvale"
+
+[person.death]
+date = "2019-11-28"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "New Philadelphia"
+
+[[person.education]]
+school.name = "New Philadelphia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "New Philadelphia"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

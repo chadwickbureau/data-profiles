@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201901_Pelath"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "2019-02-04"
+url = "https://www.legacy.com/obituaries/statesman/obituary.aspx?n=robert-pelath&pid=191443241"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-04"
+
+[person.name]
+last = "Pelath"
+use = "Robert"
+given = "Robert"
+
+[person.death]
+date = "2019-01-26"
+
+[[person.military]]
+country = "US"
+branch = "Army"

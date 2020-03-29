@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "200907_Crnkovich"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2019-03-10"
+url = "http://www.tributes.com/obituary/show/Fred-Crnkovich-86394909"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Crnkovich"
+use = "Fred"
+given = "Fred"
+
+[person.birth]
+date = "1919-04-22"
+place.country = "US"
+place.state = "IA"
+place.city = "Zook Spur"
+
+[person.death]
+date = "2009-07-23"
+
+[[person.education]]
+school.name = "Slater HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Slater"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201811_Masley"
+
+[[person.meta.citation]]
+title = "The Times"
+date = "2018-12-03"
+url = "https://www.mywebtimes.com/2018/12/03/richard-j-masley/aq7zrvu/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Masley"
+use = "Dick"
+given = "Richard John"
+
+[person.birth]
+date = "1932"
+
+[person.death]
+date = "2018-11-29"
+
+[[person.education]]
+school.name = "Streator HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Streator"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201909_Kovalsky"
+
+[[person.meta.citation]]
+title = "Trenton Times"
+date = "2019-09-05"
+url = "https://obits.nj.com/obituaries/trenton/obituary.aspx?n=james-howard-kovalsky&pid=193820200"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-06"
+
+[person.name]
+last = "Kovalsky"
+use = "Jim"
+given = "James Howard"
+
+[person.birth]
+date = "1948-04-14"
+
+[person.death]
+date = "2019-09-01"
+place.country = "US"
+place.state = "NJ"
+place.city = "Ewing"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Washington"
+
+[[person.education]]
+school.name = "Rowan University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

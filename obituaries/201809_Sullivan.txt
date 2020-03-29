@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201809_Sullivan"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2018-09-21"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=joseph-sullivan&pid=190279918&fhid=22099"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Sullivan"
+use = "Joseph"
+given = "Joseph W."
+
+[person.death]
+date = "2018-09-15"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "Ackermann_Richard_John"
+
+[person.name]
+last = "Ackermann"
+use = "Richard"
+given = "Richard John"
+
+[person.birth]
+date = "1929-05-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-01-09"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "165"
+
+[person.sameas]
+ssn = "351-20-7889"
+
+[[person.resides]]
+dates = "1948"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+place.address = "2729 Fullerton Ave."
+
+[[person.resides]]
+dates = "1954"
+place.country = "US"
+place.state = "IL"
+place.city = "Morton Grove"
+place.address = "5405 Cleveland Ave."
+
+
+[[person.education]]
+school.name = "Lane Tech High School"
+school.type = "secondary"
+dates = "/1947"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"

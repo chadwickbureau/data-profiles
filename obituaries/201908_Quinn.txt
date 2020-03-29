@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201908_Quinn"
+
+[[person.meta.citation]]
+title = "The Intelligencer"
+date = "2019-08-18"
+url = "https://www.legacy.com/obituaries/theintell/obituary.aspx?n=robert-h-quinn&pid=193670477&fhid=4495"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-29"
+
+[person.name]
+last = "Quinn"
+use = "Bob"
+given = "Robert H."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2019-08-12"
+
+[person.burial]
+cemetery.name = "St. Andrew Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Newtown"
+
+[[person.education]]
+school.name = "West Chester University"
+school.type = "college"

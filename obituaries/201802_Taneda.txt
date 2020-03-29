@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201802_Taneda"
+
+[[person.meta.citation]]
+title = "Mainichi.jp"
+date = "2018-03-13"
+url = "https://mainichi.jp/articles/20180214/k00/00m/050/063000c"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-14"
+
+[person.name]
+last = "Taneda"
+use = "Hiroshi"
+given = "Hiroshi"
+
+[person.death]
+date = "2018-02-12"

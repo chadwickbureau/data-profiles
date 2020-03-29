@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Barber_Tyrus_Tyrone"
+
+[person.name]
+last = "Barber"
+use = "Tyrus"
+given = "Tyrus Tyrone"
+
+[person.birth]
+date = "1893-07-09"
+place.country = "US"
+place.state = "TN"
+place.city = "Lavinia"
+
+[person.death]
+date = "1968-10-20"
+place.country = "US"
+place.state = "TN"
+place.city = "Milan"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "71"
+weight = "170"

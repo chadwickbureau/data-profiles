@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201400_Theodore"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2014-04-29"
+url = "http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=HARRY-THEODORE&pid=170834052"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Theodore"
+use = "Harry"
+given = "Harry G."
+
+[person.birth]
+date = "1920-11-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2014"
+
+[person.burial]
+cemetery.name = "Forest Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Boston"

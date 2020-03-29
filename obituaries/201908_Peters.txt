@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201908_Peters"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "2019-08-29"
+url = "https://www.legacy.com/obituaries/desmoinesregister/obituary.aspx?n=daniel-peters&pid=193763467&fhid=6919"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Peters"
+use = "Dan"
+given = "John Daniel"
+
+[person.birth]
+date = "1936-12-21"
+place.country = "US"
+place.state = "IA"
+place.city = "Lanesboro"
+
+[person.death]
+date = "2019-08-22"
+place.country = "US"
+place.state = "IA"
+place.city = "West Branch"
+
+[[person.education]]
+school.name = "Rippey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Rippey"

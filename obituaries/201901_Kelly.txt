@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_Kelly"
+
+[[person.meta.citation]]
+title = "Loomis Funeral Home"
+date = "2019-01-28"
+url = "https://www.loomisfuneralhomes.com/mr-olin-c-kelly/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Kelly"
+use = "Olin"
+given = "Olin C."
+
+[person.birth]
+date = "1922-10-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Bomarton"
+
+[person.death]
+date = "2019-01-17"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

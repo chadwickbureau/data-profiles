@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201812_Troiano"
+
+[[person.meta.citation]]
+title = "Iovanne Funeral Home"
+date = "2018-12-20"
+url = "https://www.iovanne.com/obituary/John-Thomas-Troiano/Wallingford-CT/1827187"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Troiano"
+use = "John"
+given = "John Thomas"
+
+[person.birth]
+date = "1931-08-15"
+place.country = "US"
+place.state = "CT"
+place.city = "West Haven"
+
+[person.death]
+date = "2018-12-15"
+place.country = "US"
+place.state = "CT"
+place.city = "West Haven"
+
+[person.burial]
+cemetery.name = "All Saints Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "North Haven"
+
+[[person.education]]
+school.name = "Hamden HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Hamden"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_003"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch 1913-01-31"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Tignor"
+use = "M."
+given = "M. Rex"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "C"

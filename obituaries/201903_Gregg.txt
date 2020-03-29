@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Gregg"
+
+[[person.meta.citation]]
+title = "Oliver Cheek Funeral Home"
+date = "2019-03-22"
+url = "https://www.olivercheekfuneralhome.com/notices/Russell-Gregg"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-22"
+
+[person.name]
+last = "Gregg"
+use = "Russ"
+given = "Russell Edward"
+
+[person.birth]
+date = "1928-01-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Ashville"
+
+[person.death]
+date = "2019-03-18"
+
+[[person.education]]
+school.name = "Ashville Harrison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Ashville"
+
+[[person.education]]
+school.name = "Ohio University"
+school.type = "college"

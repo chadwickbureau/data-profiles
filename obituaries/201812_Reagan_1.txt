@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "201812_Reagan_1"
+
+[[person.meta.citation]]
+title = "Murray Ledger & Times"
+date = "2018-12-15"
+url = "https://www.murrayledger.com/sports/murray-state-legend-johnny-reagan-passes-away/article_b82e5c2a-002a-11e9-91ec-3f3ad550075e.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Reagan"
+use = "Johnny"
+given = "Johnny"
+
+[person.death]
+date = "2018-12-14"

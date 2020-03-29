@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201808_Cox_2"
+
+[[person.meta.citation]]
+title = "Hoffman Funeral Home"
+date = "2018-08-18"
+url = "https://www.hoffmanfuneralhomes.net/obituaries/Aaron-Cox-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-17"
+
+[person.name]
+last = "Cox"
+use = "Aaron"
+given = "Aaron Joseph"
+
+[person.birth]
+date = "1994-08-05"
+place.country = "US"
+place.state = "NJ"
+place.city = "Vineland"
+
+[person.death]
+date = "2018-08-15"
+place.country = "US"
+place.state = "NJ"
+place.city = "Atlantic City"
+
+[[person.education]]
+school.name = "Millville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Millville"
+
+[[person.education]]
+school.name = "Gannon University"
+school.type = "college"

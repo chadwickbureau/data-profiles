@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201812_Harrison"
+
+[[person.meta.citation]]
+title = "Blanchard St. Denis Funeral Home"
+date = "2018-12-31"
+url = "https://www.blanchardstdenisfuneralhome.com/obituary/thomas-o-tommy-harrison"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-31"
+
+[person.name]
+last = "Harrison"
+use = "Tommy"
+given = "Thomas O."
+suffix = "Jr."
+
+[person.birth]
+date = "1928-03-24"
+place.country = "US"
+place.state = "LA"
+place.city = "Verda"
+
+[person.death]
+date = "2018-12-28"
+place.country = "US"
+place.state = "LA"
+place.city = "Alexandria"
+
+[[person.education]]
+school.name = "University of Louisiana at Lafayette"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "209111_Pearce"
+
+[[person.meta.citation]]
+title = "Tennessean"
+date = "2019-11-19"
+url = "https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=rex-c-pearce&pid=194475951"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-19"
+
+[person.name]
+last = "Pearce"
+use = "Rex"
+given = "Rex C."
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Cotton Plant"
+
+[person.death]
+date = "2019-11-12"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Central Arkansas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

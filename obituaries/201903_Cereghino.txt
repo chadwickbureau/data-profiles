@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201903_Cereghino"
+
+[[person.meta.citation]]
+title = "Cherokee Memorial"
+date = "2019-03-17"
+url = "https://www.cherokeememorial.com/services-obituaries/2019/3/12/edward-cereghino"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Cereghino"
+use = "Edward"
+given = "Edward James"
+
+[person.birth]
+date = "1933-11-24"
+
+[person.death]
+date = "2019-03-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Lodi"
+
+[person.burial]
+cemetery.name = "Cherokee Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Lodi"

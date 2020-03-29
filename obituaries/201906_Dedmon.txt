@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201906_Dedmon"
+
+[[person.meta.citation]]
+title = "Burton Funeral Home"
+date = "2019-06-25"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=dc56fc14-14d4-4d56-8147-1b77613a2dc8&CFTOKEN=0&o_id=6387986&fh_id=16118"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-25"
+
+[person.name]
+last = "Dedmon"
+use = "Hal"
+given = "Thomas"
+
+[person.birth]
+date = "1922-01-16"
+
+[person.death]
+date = "2019-06-20"
+
+[[person.education]]
+school.name = "Fallston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Fallston"
+
+[[person.education]]
+school.name = "Gardner-Webb University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

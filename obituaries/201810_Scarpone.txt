@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201810_Scarpone"
+
+[[person.meta.citation]]
+title = "Pulliam Funeral Home"
+date = "2018-12-09"
+url = "https://www.pulliamfuneralhomes.com/obits/obituary.php?id=668369"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-09"
+
+[person.name]
+last = "Scarpone"
+use = "Sam"
+given = "Samuel Anthony"
+
+[person.birth]
+date = "1929-11-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Berwyn"
+
+[person.death]
+date = "2018-10-10"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.burial]
+cemetery.name = "Oblong Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Oblong"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

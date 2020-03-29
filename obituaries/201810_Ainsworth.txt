@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201810_Ainsworth"
+
+[[person.meta.citation]]
+title = "Bailey Funeral Home"
+date = "2018-10-22"
+url = "https://www.baileyfuneralhome.net/obituaries/Harold-Ainsworth/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-22"
+
+[person.name]
+last = "Ainsworth"
+use = "Harold"
+given = "Harold Dean"
+
+[person.birth]
+date = "1937-10-18"
+place.country = "US"
+place.state = "AR"
+place.city = "El Dorado"
+
+[person.death]
+date = "2018-10-16"
+place.country = "US"
+place.state = "TX"
+place.city = "Plano"
+
+[person.burial]
+cemetery.name = "Roselawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Junction City"
+
+[[person.education]]
+school.name = "El Dorado HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "El Dorado"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

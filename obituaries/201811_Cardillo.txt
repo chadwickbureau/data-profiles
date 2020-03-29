@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201811_Cardillo"
+
+[[person.meta.citation]]
+title = "Codey & Jones Funeral Home"
+date = "2018-11-06"
+url = "https://codeyjonesfh.com/tribute/details/302/Fred-Cardillo/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-06"
+
+[person.name]
+last = "Cardillo"
+use = "Fred"
+given = "Fred J."
+
+[person.birth]
+date = "1927"
+place.country = "US"
+place.state = "NJ"
+place.city = "Orange"
+
+[person.death]
+date = "2018-11-02"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "East Hanover"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

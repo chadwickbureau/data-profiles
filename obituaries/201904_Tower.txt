@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201904_Tower"
+
+[[person.meta.citation]]
+title = "Messinger Funeral Home"
+date = "2019-04-21"
+url = "https://www.messingermortuary.com/notices/Carl-Raymond-Tower"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-21"
+
+[person.name]
+last = "Tower"
+use = "Carl"
+given = "Carl Raymond"
+
+[person.birth]
+date = "1937-08-23"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+[person.death]
+date = "2019-04-15"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Phoenix"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201406_Catalanotto"
+
+[[person.meta.citation]]
+title = "John C. Bryant Funeral Home"
+date = "2014-06-19"
+url = "http://www.johncbryantfuneralhome.com/johncbryantfuneralhome.com/Current_Funeral_Arrangements.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-19"
+
+[person.name]
+last = "Catalanotto"
+use = "Stephen"
+given = "Stephen J."
+
+[person.birth]
+date = "1925-10-31"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2014-06-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Wayland"
+
+[person.burial]
+cemetery.name = "Lakeview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Wayland"
+
+[[person.education]]
+school.name = "Belmont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Belmont"

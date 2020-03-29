@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201806_Steen"
+
+[[person.meta.citation]]
+title = "Speaks Chapel"
+date = "2018-06-27"
+url = "http://www.speakschapel.com/book-of-memories/3542628/Steen-Robert/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Steen"
+use = "Bob"
+given = "Robert Lee"
+
+[person.birth]
+date = "1932-11-06"
+place.country = "US"
+place.state = "MO"
+place.city = "Chillicothe"
+
+[person.death]
+date = "2018-06-25"
+place.country = "US"
+place.state = "MO"
+place.city = "Independence"
+
+[person.burial]
+cemetery.name = "Floral Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Kansas City"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

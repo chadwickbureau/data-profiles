@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201006_Gowey"
+
+[[person.meta.citation]]
+title = "La Crosse Tribune"
+date = "2018-11-30"
+url = "https://lacrossetribune.com/lifestyles/announcements/obituaries/jeremiah-james-h-c-gowey/article_4045a750-8611-11df-9c9f-001cc4c03286.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Gowey"
+use = "Jeremiah"
+given = "Jeremiah James H. C."
+
+[person.birth]
+date = "1982-08-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Madison"
+
+[person.death]
+date = "2010-06-28"
+
+[[person.education]]
+school.name = "Logan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "La Crosse"
+
+[[person.education]]
+school.name = "University of Wisconsin-Oshkosh"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

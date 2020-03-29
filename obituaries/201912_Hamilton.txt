@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201912_Hamilton"
+
+[[person.meta.citation]]
+title = "Santa Cruz Sentinel"
+date = "2020-01-01"
+url = "https://www.legacy.com/obituaries/santacruzsentinel/obituary.aspx?n=f-dean-hamilton&pid=194870356"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-31"
+
+[person.name]
+last = "Hamilton"
+use = "Dean"
+given = "F. Dean"
+
+[person.birth]
+date = "1924-09-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Alameda"
+
+[person.death]
+date = "2019-12-28"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

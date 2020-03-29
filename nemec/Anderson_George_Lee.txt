@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_George_Lee"
+
+[person.name]
+last = "Anderson"
+use = "Sparky"
+given = "George Lee"
+
+[person.birth]
+date = "1934-02-22"
+place.country = "US"
+place.state = "SD"
+place.city = "Bridgewater"
+
+[person.death]
+date = "2010-11-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Thousand Oaks"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "164"
+
+[person.sameas]
+ssn = "572-42-2094"
+
+[[person.resides]]
+dates = "2001"
+place.country = "US"
+place.state = "CA"
+place.city = "Thousand Oaks"
+place.address = "P. O. Box 6415"
+place.zip = "91360"
+
+
+[[person.education]]
+school.name = "Dorsey High School"
+school.type = "secondary"
+dates = "/1952"
+degree = "graduated"
+
+
+[[person.transaction]]
+date = "1953-01-30"
+type = "signed"
+join.name = "Brooklyn"
+join.league.name = "National"
+signers.0.name.last = "Phillips"
+signers.0.name.use = "Harold"
+signers.0.name.given = "Harold"

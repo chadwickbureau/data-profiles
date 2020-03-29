@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201907_Pounds"
+
+[[person.meta.citation]]
+title = "Pelan Funeral Home"
+date = "2019-07-29"
+url = "https://www.pelanfuneralservices.com/obituaries/Roy-B-Pounds?obId=5248426#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-29"
+
+[person.name]
+last = "Pounds"
+use = "Roy"
+given = "Roy B."
+
+[person.birth]
+date = "1927-11-10"
+place.country = "US"
+place.state = "NE"
+place.city = "Lyons"
+
+[person.death]
+date = "2019-07-14"
+place.country = "US"
+place.state = "NE"
+place.city = "Pender"
+
+[person.burial]
+cemetery.name = "Lyons Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Lyons"
+
+[[person.education]]
+school.name = "Lyons HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Lyons"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

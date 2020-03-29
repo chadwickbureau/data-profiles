@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201808_Campione"
+
+[[person.meta.citation]]
+title = "Delhomme Funeral Home"
+date = "2018-08-17"
+url = "https://www.delhommefuneralhome.com/obituaries/Jack-Campione-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-17"
+
+[person.name]
+last = "Campione"
+use = "Jack"
+given = "Jack Anthony"
+
+[person.birth]
+date = "1932-02-13"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2018-08-15"
+place.country = "US"
+place.state = "LA"
+place.city = "Lafayette"
+
+[[person.education]]
+school.name = "Jesuit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "Tulane University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

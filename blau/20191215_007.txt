@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20191215_007"
+
+[[person.meta.citation]]
+title = "Winston-Salem Twin-City Daily Sentinel"
+date = "1915-05-08"
+pages = "12"
+
+[person.name]
+last = "Bartels"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Manistee"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"

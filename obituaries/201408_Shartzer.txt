@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201408_Shartzer"
+
+[[person.meta.citation]]
+title = "Highlands Funeral Home"
+date = "2014-08-16"
+url = "http://www.highlandsfuneralhome.com/book-of-memories/1929179/Shartzer-Philip/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-16"
+
+[person.name]
+last = "Shartzer"
+use = "Phil"
+given = "Philip E."
+
+[person.birth]
+date = "1935"
+
+[person.death]
+date = "2014-08-13"
+
+[[person.education]]
+school.name = "duPont Manual HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"

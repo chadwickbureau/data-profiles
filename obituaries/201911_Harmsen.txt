@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201911_Harmsen"
+
+[[person.meta.citation]]
+title = "Wilson's Funeral Home"
+date = "2019-12-11"
+url = "https://www.wilsonsfuneralhome.net/obituary/harold-harmsen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-11"
+
+[person.name]
+last = "Harmsen"
+use = "Harold"
+given = "Harold F."
+nick = "Hattie"
+
+[person.birth]
+date = "1931-07-04"
+
+[person.death]
+date = "2019-11-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Sparta"
+
+[person.burial]
+cemetery.name = "Peace Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Steeleville"
+
+[[person.education]]
+school.name = "Campbell Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Campbell Hill"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

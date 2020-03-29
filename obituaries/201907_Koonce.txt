@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201907_Koonce"
+
+[[person.meta.citation]]
+title = "Fayetteville Observer"
+date = "2019-07-17"
+url = "https://www.legacy.com/obituaries/fayettevilleobserver/obituary.aspx?n=donald-clayton-koonce&pid=193409328"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-17"
+
+[person.name]
+last = "Koonce"
+use = "Don"
+given = "Donald Clayton"
+
+[person.death]
+date = "2019-07-15"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Koonce"
+person.name.use = "Cal"
+person.name.given = "Cal"
+
+
+[[person.education]]
+school.name = "Hope Mills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Hope Mills"

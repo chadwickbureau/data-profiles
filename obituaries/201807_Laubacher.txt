@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201807_Laubacher"
+
+[[person.meta.citation]]
+title = "Idaho Stateman"
+date = "2018-07-22"
+url = "https://www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=robert-russell-laubacher&pid=189638653&fhid=3937"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Laubacher"
+use = "Bob"
+given = "Robert Russell"
+
+[person.birth]
+date = "1933-03-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Oxnard"
+
+[person.death]
+date = "2018-07-15"
+place.country = "US"
+place.state = "ID"
+place.city = "Fruitland"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Ontario"
+
+[[person.education]]
+school.name = "Santa Clara HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Clara"
+
+[[person.education]]
+school.name = "Santa Clara University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

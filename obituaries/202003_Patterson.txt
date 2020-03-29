@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202003_Patterson"
+
+[[person.meta.citation]]
+title = "Martin Funeral Home"
+date = "2020-03-16"
+url = "https://www.martinfuneralhomeinc.com/obituaries/Jarrod-Zane-Patterson?obId=12414776&fbclid=IwAR0JEU8po542HxKHGFP0KQpwRig75ngOQLxHeMiTIy6m36x2Ro_7bvUkAw8#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Patterson"
+use = "Jarrod"
+given = "Jarrod Zane"
+
+[person.birth]
+date = "1973-09-07"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.death]
+date = "2020-03-11"
+
+[person.burial]
+cemetery.name = "Martin Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Clanton"
+
+[[person.education]]
+school.name = "Chilton County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Clanton"
+
+[[person.education]]
+school.name = "Coastal Alabama Community College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Brewton"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kennard"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-04-14"
+url = "https://www.dignitymemorial.com/obituaries/dayton-oh/jeffrey-kennard-8246632"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Kennard"
+use = "Jeff"
+given = "Jeffrey Donald"
+
+[person.birth]
+date = "1981-07-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Centerville"
+
+[person.death]
+date = "2019-04-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Centrerville"
+
+[[person.education]]
+school.name = "Centerville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Centerville"

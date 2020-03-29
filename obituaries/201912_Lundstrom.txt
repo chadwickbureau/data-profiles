@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201912_Lundstrom"
+
+[[person.meta.citation]]
+title = "Horan & McConaty Funeral Home"
+date = "2020-01-05"
+url = "https://horancares.com/obits/james-delano-lundstrom/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-05"
+
+[person.name]
+last = "Lundstrom"
+use = "Jim"
+given = "James Delano"
+
+[person.birth]
+date = "1934-06-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.death]
+date = "2019-12-30"
+
+[person.burial]
+cemetery.name = "Fort Logan National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CO"
+cemetery.place.city = "Denver"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

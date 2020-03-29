@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201807_Allen"
+
+[[person.meta.citation]]
+title = "Cornerstone of Muskogee Funeral Home"
+date = "2019-12-10"
+url = "https://www.cornerstoneofmuskogee.com/obituaries/Joel-Allen-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-10"
+
+[person.name]
+last = "Allen"
+use = "Joe"
+given = "Joel R."
+suffix = "Sr."
+
+[person.birth]
+date = "1929-05-22"
+place.country = "US"
+place.state = "OK"
+place.city = "Okmulgee"
+
+[person.death]
+date = "2018-07-04"
+place.country = "US"
+place.state = "OK"
+place.city = "Broken Arrow"
+
+[person.burial]
+cemetery.name = "Fort Gibson National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Fort Gibson"
+
+[[person.education]]
+school.name = "Muskogee Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Muskogee"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

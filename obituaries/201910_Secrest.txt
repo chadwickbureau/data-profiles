@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201910_Secrest"
+
+[[person.meta.citation]]
+title = "Bohn Funeral Home"
+date = "2019-10-14"
+url = "https://www.bohnfuneralhome.com/notices/Charles-BuckwheatSecrest"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Secrest"
+use = "Charles"
+given = "Charles J."
+nick = "Buckwheat"
+
+[person.birth]
+date = "1935-01-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Mount Union"
+
+[person.death]
+date = "2019-10-10"
+
+[[person.education]]
+school.name = "Captain Jack Joint HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Mount Union"

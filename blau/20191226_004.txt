@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20191226_004"
+
+[[person.meta.citation]]
+title = "Greenville Daily News"
+date = "1912-07-14"
+pages = "2"
+
+[person.name]
+last = "McFarlin"
+
+[person.description]
+note = [ "quitting baseball" ]
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "AL"
+place.city = "Jacksonville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"

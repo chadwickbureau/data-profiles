@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201406_Thompson"
+
+[[person.meta.citation]]
+title = "Butler Eagle"
+date = "2014-06-19"
+url = "http://www.legacy.com/obituaries/butlereagle/obituary.aspx?n=William-Thompson&pid=171413403"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-21"
+
+[person.name]
+last = "Thompson"
+use = "Bill"
+given = "William K."
+
+[person.birth]
+date = "1932-01-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Hooker"
+
+[person.death]
+date = "2014-06-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Cabot"

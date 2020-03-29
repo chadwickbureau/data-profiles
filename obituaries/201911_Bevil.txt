@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_Bevil"
+
+[[person.meta.citation]]
+title = "Lux Funeral Home"
+date = "2019-11-18"
+url = "https://www.luxfhcares.com/obituaries/John-Embry-Bevil?obId=8942182#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Bevil"
+use = "John"
+given = "John Embry"
+
+[person.birth]
+date = "1946-05-22"
+place.country = "US"
+place.state = "TX"
+place.city = "Alice"
+
+[person.death]
+date = "2019-11-14"
+
+[[person.education]]
+school.name = "A. C. Jones HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Beeville"
+
+[[person.education]]
+school.name = "Baylor University"
+school.type = "college"

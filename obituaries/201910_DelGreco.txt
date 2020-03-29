@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201910_DelGreco"
+
+[[person.meta.citation]]
+title = "DeBor Funeral Home"
+date = "2019-10-16"
+url = "https://www.deborfuneralhome.com/notices/Robert-DelGreco"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-16"
+
+[person.name]
+last = "Del Greco"
+use = "Robert"
+given = "Robert G."
+
+[person.birth]
+date = "1933-04-07"
+
+[person.death]
+date = "2019-10-13"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "McMurray"

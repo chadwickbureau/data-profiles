@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202001_Elble"
+
+[[person.meta.citation]]
+title = "Kibler Brady Ruestman Memorial Home"
+date = "2020-01-23"
+url = "https://www.kiblerbradyruestman.com/obituaries/Joseph-Elble/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-23"
+
+[person.name]
+last = "Elble"
+use = "Joseph"
+given = "Joseph B."
+suffix = "Sr."
+
+[person.birth]
+date = "1932-04-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[person.death]
+date = "2020-01-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Bloomington"
+
+[[person.military]]
+country = "US"
+branch = "Army"

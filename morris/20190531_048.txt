@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190531_048"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican 1915-06-07"
+pages = "4"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Troy"
+use = "Bun"
+given = "Bun"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "New York State League"

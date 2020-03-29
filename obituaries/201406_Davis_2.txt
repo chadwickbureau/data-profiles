@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201406_Davis_2"
+
+[[person.meta.citation]]
+title = "Wichita Eagle"
+date = "2014-06-08"
+url = "http://www.legacy.com/obituaries/kansas/obituary.aspx?n=Glenn-Davis&pid=171265668"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-08"
+
+[person.name]
+last = "Davis"
+use = "Glenn"
+given = "Glenn E."
+
+[person.birth]
+date = "1940"
+
+[person.death]
+date = "2014-06-05"

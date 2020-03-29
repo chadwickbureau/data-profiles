@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201312_Rajkowski"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2013-12-06"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=Bernard-Rajkowski&pid=168360482"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-14"
+
+[person.name]
+last = "Rajkowski"
+use = "Bernard"
+given = "Bernard V."
+
+[person.birth]
+date = "1915-09-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2013-12-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Libertyville"
+
+[person.burial]
+cemetery.name = "St. Adalbert Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Niles"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

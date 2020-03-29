@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201904_McConnell"
+
+[[person.meta.citation]]
+title = "AZCentral.com"
+date = "2019-04-23"
+url = "https://www.azcentral.com/story/sports/high-school/2019/04/23/legendary-arizona-high-school-basketball-coach-dick-mcconnell-dies/3555060002/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-28"
+
+[person.name]
+last = "McConnell"
+use = "Dick"
+given = "Dick"
+
+[person.death]
+date = "2019-04-23"
+
+[[person.education]]
+school.name = "Topeka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Topeka"

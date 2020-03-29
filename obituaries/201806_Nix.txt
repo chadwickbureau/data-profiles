@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201806_Nix"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-07-08"
+url = "https://www.dignitymemorial.com/obituaries/evansville-in/david-nix-7900265"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Nix"
+use = "David"
+given = "David Christopher"
+
+[person.birth]
+date = "1971-10-01"
+place.country = "US"
+place.state = "CT"
+place.city = "Greenwich"
+
+[person.death]
+date = "2018-06-27"
+
+[person.burial]
+cemetery.name = "Immanuel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Mount Vernon"
+
+[[person.education]]
+school.name = "Harrison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Evansville"

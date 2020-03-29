@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201909_Bills"
+
+[[person.meta.citation]]
+title = "Jenkins-Soffe Funeral Home"
+date = "2019-09-06"
+url = "https://www.jenkins-soffe.com/obituaries/L-Kent-Bills?obId=7079921#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-06"
+
+[person.name]
+last = "Bills"
+use = "Kent"
+given = "Leo Kent"
+
+[person.birth]
+date = "1933-04-08"
+place.country = "US"
+place.state = "UT"
+place.city = "Riverton"
+
+[person.death]
+date = "2019-09-03"
+
+[person.burial]
+cemetery.name = "Wasatch Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Salt Lake City"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Salt Lake City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

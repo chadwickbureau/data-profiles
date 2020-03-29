@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201909_Hinds"
+
+[[person.meta.citation]]
+title = "Yost & Webb Funeral Care"
+date = "2020-02-13"
+url = "https://www.ywcares.com/obituary/samuel-hinds?fbclid=IwAR2hPEEMFJ0LQCCw64P_BxIf3LdW3WWQNP7hXL4R4GKNYK3WGRHjP5ovi_E"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-13"
+
+[person.name]
+last = "Hinds"
+use = "Samuel"
+given = "Samuel Russell"
+
+[person.birth]
+date = "1953-07-11"
+place.country = "US"
+place.state = "MD"
+
+[person.death]
+date = "2019-09-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Hanford"

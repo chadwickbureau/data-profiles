@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201910_Nemchik"
+
+[[person.meta.citation]]
+title = "John J. Lopatich Funeral Home"
+date = "2019-10-11"
+url = "https://www.lopatich.com/obituary/john-nemchik"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-11"
+
+[person.name]
+last = "Nemchik"
+use = "John"
+given = "John R."
+
+[person.birth]
+date = "1935-06-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Salemville"
+
+[person.death]
+date = "2019-10-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Latrobe"
+
+[person.burial]
+cemetery.name = "Calvary Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Crabtree"

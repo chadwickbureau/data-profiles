@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201911_Tinney"
+
+[[person.meta.citation]]
+title = ""
+date = "2019-12-16"
+url = "https://www.jenkinskingfh.com/notices/Charles-Tinney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-16"
+
+[person.name]
+last = "Tinney"
+use = "Charles"
+given = "Charles Edward"
+suffix = "III"
+nick = "Chubby"
+
+[person.birth]
+date = "1932"
+
+[person.death]
+date = "2019-11-17"
+place.country = "US"
+place.state = "CT"
+place.city = "West Haven"
+
+[[person.education]]
+school.name = "Ansonia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Ansonia"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

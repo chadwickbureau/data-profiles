@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201905_Marrs"
+
+[[person.meta.citation]]
+title = "Covenant Funeral Service"
+date = "2019-05-27"
+url = "https://www.covenantfuneralservice.com/tributes/William-A-Marrs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Marrs"
+use = "Billy"
+given = "William A."
+
+[person.birth]
+date = "1935-01-14"
+
+[person.death]
+date = "2019-05-21"
+
+[person.burial]
+cemetery.name = "Laurel Hill Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Spotsylvania Courthouse"
+
+[[person.education]]
+school.name = "Spotsylvania HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Spotsylvania Courthouse"

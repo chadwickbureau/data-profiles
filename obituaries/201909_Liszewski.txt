@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Liszewski"
+
+[[person.meta.citation]]
+title = "Gosselin Funeral Home"
+date = "2019-09-23"
+url = "https://www.gosselinfuneralhome.com/notices/JosephLiss-Liszewski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-23"
+
+[person.name]
+last = "Liszewski"
+use = "Joseph"
+given = "Joseph"
+
+[person.birth]
+date = "1932-11-16"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2019-09-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Edison"
+
+[person.burial]
+cemetery.name = "Clover Leaf Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Woodbridge"
+
+[[person.military]]
+country = "US"
+branch = "Army"

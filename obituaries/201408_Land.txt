@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Land"
+
+[[person.meta.citation]]
+title = "Columbus Ledger-Enquirer"
+date = "2014-08-08"
+url = "http://www.legacy.com/obituaries/ledger-enquirer/obituary.aspx?n=Dick-Land&pid=172021848"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-06"
+
+[person.name]
+last = "Land"
+use = "Dick"
+given = "Dick Madison"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-12-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Columbus"
+
+[person.death]
+date = "2014-08-06"
+place.country = "US"
+place.state = "AL"
+place.city = "Smiths Station"
+
+[person.burial]
+cemetery.name = "Lakeview Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Phenix City"

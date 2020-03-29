@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201406_Barrett"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2014-06-14"
+url = "http://www.legacy.com/obituaries/latimes/obituary.aspx?n=James-Barrett&pid=171331052"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-14"
+
+[person.name]
+last = "Barrett"
+use = "Jim"
+given = "James Michael"
+
+[person.birth]
+date = "1933-08-20"
+place.country = "US"
+place.state = "IA"
+place.city = "Sioux City"
+
+[person.death]
+date = "2014-06-09"
+
+[person.burial]
+cemetery.name = "Forest Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "Notre Dame HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sherman Oaks"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

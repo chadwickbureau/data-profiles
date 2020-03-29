@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202002_Serviente"
+
+[[person.meta.citation]]
+title = "Johnson City Press"
+date = "2020-02-14"
+url = "https://www.johnsoncitypress.com/Obituary/2020/02/14/Michael-Alan-Serviente-Big-Mike.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-17"
+
+[person.name]
+last = "Serviente"
+use = "Michael"
+given = "Michael Alan"
+
+[person.birth]
+date = "1963-08-27"
+
+[person.death]
+date = "2020-02-06"
+
+[[person.education]]
+school.name = "Trinity HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Euless"
+
+[[person.education]]
+school.name = "Northwood University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Cedar Hill"

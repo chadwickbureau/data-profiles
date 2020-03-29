@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201906_Gatewood"
+
+[[person.meta.citation]]
+title = "Everhere"
+date = "2019-06-19"
+url = "https://www.everhere.com/us/obituary-north-little-rock-aubrey-gatewood-9296965"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Gatewood"
+use = "Aubrey"
+given = "Aubrey"
+
+[person.birth]
+date = "1938-11-17"
+
+[person.death]
+date = "2019-06-05"

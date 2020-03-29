@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201310_Markey"
+
+[[person.meta.citation]]
+title = "Doan & Mills Funeral Home"
+date = "2019-12-12"
+url = "https://www.doanmillsfuneralhome.com/obituaries/Duane-Markley/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-12"
+
+[person.name]
+last = "Markley"
+use = "Duane"
+given = "Duane"
+
+[person.birth]
+date = "1929-05-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+[person.death]
+date = "2013-10-11"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+[[person.education]]
+school.name = "Richmond HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Richmond"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201405_Werner"
+
+[[person.meta.citation]]
+title = "The Wichita Eagle"
+date = "2014-06-01"
+url = "http://www.legacy.com/obituaries/kansas/obituary.aspx?n=W-Werner&pid=171190497"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-01"
+
+[person.name]
+last = "Werner"
+use = "Gene"
+given = "W. Eugene"
+
+[person.birth]
+date = "1931-05-07"
+place.country = "US"
+place.state = "KS"
+place.city = "Paxico"
+
+[person.death]
+date = "2014-05-30"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Newbury"
+
+[[person.education]]
+school.name = "Paxico HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Paxico"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

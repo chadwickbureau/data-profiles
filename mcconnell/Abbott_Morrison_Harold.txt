@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Abbott_Morrison_Harold"
+
+[person.name]
+last = "Abbott"
+use = "Morry"
+given = "Morrison Harold"
+
+[person.birth]
+date = "1913-08-04"
+place.country = "CA"
+place.state = "BC"
+place.city = "Duncan"
+
+[person.death]
+date = "1993-08-12"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "190"
+
+[[person.education]]
+school.name = "University of Washington"
+school.type = "college"

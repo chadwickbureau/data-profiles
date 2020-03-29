@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201901_Ward"
+
+[[person.meta.citation]]
+title = "Fellows, Helfenbein & Newnam Funeral Home"
+date = "2019-01-07"
+url = "https://www.fhnfuneralhome.com/obituaries/Roland-Ward/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-07"
+
+[person.name]
+last = "Ward"
+use = "Doug"
+given = "Roland Douglas"
+
+[person.birth]
+date = "1947-01-16"
+place.country = "US"
+place.state = "MD"
+place.city = "Annapolis"
+
+[person.death]
+date = "2019-01-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Centreville"
+
+[[person.education]]
+school.name = "Annapolis HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Annapolis"

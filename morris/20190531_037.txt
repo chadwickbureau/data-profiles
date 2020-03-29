@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190531_037"
+
+[[person.meta.citation]]
+title = "Albany Evening Journal 1915-08-30"
+pages = "14"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Herman"
+use = "Joey"
+given = "Joey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "RF"

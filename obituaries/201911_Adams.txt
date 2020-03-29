@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201911_Adams"
+
+[[person.meta.citation]]
+title = "Lanham-Schanhofer Funeral Home"
+date = "2019-11-25"
+url = "https://www.schanhoferfh.com/notices/Dan-Adams"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-25"
+
+[person.name]
+last = "Adams"
+use = "Dan"
+given = "Daniel G."
+
+[person.birth]
+date = "1943-08-07"
+place.country = "US"
+place.state = "WI"
+place.city = "La Crosse"
+
+[person.death]
+date = "2019-11-22"
+place.country = "US"
+place.state = "WI"
+place.city = "Melrose"
+
+[person.burial]
+cemetery.name = "Melrose Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Melrose"
+
+[[person.education]]
+school.name = "Onalaska HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Onalaska"

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "20200223_042"
+
+[[person.meta.citation]]
+title = "unpublished SABR biography of John Michaelson"
+
+[person.name]
+last = "Michaelson"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Valley City/Bismarck"
+team.league.name = "Dakota League"

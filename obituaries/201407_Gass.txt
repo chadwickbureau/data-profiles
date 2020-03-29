@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201407_Gass"
+
+[[person.meta.citation]]
+title = "Lincoln Courier"
+date = "2014-08-01"
+url = "http://www.legacy.com/obituaries/lincolncourier/obituary.aspx?n=Elza-GASS&pid=171928976"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-02"
+
+[person.name]
+last = "Gass"
+use = "Leroy"
+given = "Elza Leroy"
+
+[person.birth]
+date = "1920-08-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Dawson"
+
+[person.death]
+date = "2014-07-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Mount Pulaski"
+
+[person.burial]
+cemetery.name = "Long Point Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Niantic"
+
+[[person.education]]
+school.name = "Niantic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Niantic"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

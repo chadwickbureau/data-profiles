@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201405_Cale"
+
+[[person.meta.citation]]
+title = "Jefferson Memorial Gardens"
+date = "2014-05-04"
+url = "http://www.jmgardens.com/book-of-memories/1861390/Cale-Jr-William/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-04"
+
+[person.name]
+last = "Cale"
+use = "Bill"
+given = "William Russell"
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2014-05-02"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.burial]
+cemetery.name = "Jefferson Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Trussville"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

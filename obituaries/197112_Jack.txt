@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "197112_Jack"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1971-12-25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Jack"
+use = "Zelman"
+given = "Zelman"
+
+[person.death]
+date = "1971-12-23"
+place.country = "MX"
+place.state = "Sinaloa"
+place.city = "Guasave"

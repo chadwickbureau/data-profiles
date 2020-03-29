@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201810_James"
+
+[[person.meta.citation]]
+title = "National Cremation"
+date = "2018-10-24"
+url = "http://www.legacy.com/obituaries/national-cremation/obituary.aspx?n=William-James&lc=2880&pid=190551573&mid=8030836"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-24"
+
+[person.name]
+last = "James"
+use = "Bill"
+given = "William Joseph"
+
+[person.birth]
+date = "1946-09-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "Toms River"
+
+[person.death]
+date = "2018-10-19"
+
+[[person.education]]
+school.name = "Clemson University"
+school.type = "college"

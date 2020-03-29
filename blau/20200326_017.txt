@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200326_017"
+
+[[person.meta.citation]]
+title = "Berkshire Eagle"
+date = "1915-05-18"
+pages = "2"
+
+[person.name]
+last = "Phillips"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lewiston"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pittsfield"
+team.league.name = "Eastern Association"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190531_052"
+
+[[person.meta.citation]]
+title = "Buffalo Times 1915-07-03"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kelliher"
+use = "Maurice"
+given = "Maurice"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "1B"

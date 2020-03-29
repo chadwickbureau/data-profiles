@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20190813_061"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch 1915-03-07"
+pages = "11"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Leibs"
+use = "Russell"
+given = "Russell"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "VA"
+place.city = "Richmond"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+description.position = "C"

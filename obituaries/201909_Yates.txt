@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201909_Yates"
+
+[[person.meta.citation]]
+title = "Newcomer Funeral Home"
+date = "2019-12-25"
+url = "https://www.newcomerdayton.com/Obituary/175601/Richard-Yates%2c-Jr/Dayton-OH"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-25"
+
+[person.name]
+last = "Yates"
+use = "Dick"
+given = "Richard Warner"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-11-20"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2019-09-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Springboro"

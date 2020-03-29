@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170219_141"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Shea"
+use = "Timothy"
+given = "Timothy"
+nick = "One Hoss"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"

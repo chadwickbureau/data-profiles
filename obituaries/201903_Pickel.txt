@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201903_Pickel"
+
+[[person.meta.citation]]
+title = "Nashville Funeral & Cremation"
+date = "2019-03-11"
+url = "https://nashvillefuneralandcremation.com/obit/harold-walter-pickel/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-11"
+
+[person.name]
+last = "Pickel"
+use = "Harold"
+given = "Harold Walter"
+
+[person.birth]
+date = "1936-08-21"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"
+
+[person.death]
+date = "2019-03-06"
+
+[[person.education]]
+school.name = "Belmont University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Birmingham-Southern College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

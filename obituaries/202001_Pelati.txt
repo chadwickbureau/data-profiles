@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202001_Pelati"
+
+[[person.meta.citation]]
+title = "Prophett-Chapman Cole & Gleason Funeral Home"
+date = "2020-01-19"
+url = "https://www.ccgfuneralhome.com/obit/george-p.-pelati"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-19"
+
+[person.name]
+last = "Pelati"
+use = "George"
+given = "George P."
+
+[person.birth]
+date = "1921"
+place.country = "US"
+place.state = "MA"
+place.city = "Bridgewater"
+
+[person.death]
+date = "2020-01-14"
+
+[person.burial]
+cemetery.name = "St. Thomas Aquinas Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Bridgewater"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201809_Carlson"
+
+[[person.meta.citation]]
+title = "Hays Memorial Chapel"
+date = "2018-10-03"
+url = "https://www.haysmemorial.com/notices/Vance-Carlson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Carlson"
+use = "Vance"
+given = "Walter Vance"
+
+[person.birth]
+date = "1925-11-14"
+place.country = "US"
+place.state = "KS"
+place.city = "Falun"
+
+[person.death]
+date = "2018-09-17"
+place.country = "US"
+place.state = "KS"
+place.city = "Ellis"
+
+[person.burial]
+cemetery.name = "McPherson Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "McPherson"
+
+[[person.education]]
+school.name = "McPherson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "McPherson"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

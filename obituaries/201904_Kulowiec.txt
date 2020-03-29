@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201904_Kulowiec"
+
+[[person.meta.citation]]
+title = "Bosak Funeral Home"
+date = "2019-04-28"
+url = "https://www.bosakfuneralhome.com/obituaries/Walter-Kulowiec/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-28"
+
+[person.name]
+last = "Kulowiec"
+use = "Walter"
+given = "Walter G."
+nick = "Flea"
+
+[person.birth]
+date = "1924-04-23"
+place.country = "US"
+place.state = "CT"
+place.city = "Stamford"
+
+[person.death]
+date = "2019-04-18"
+place.country = "US"
+place.state = "CT"
+place.city = "Mansfield"
+
+[person.burial]
+cemetery.name = "Woodland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Stamford"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

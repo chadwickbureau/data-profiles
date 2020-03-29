@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170219_017"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Murphy"
+use = "Frank"
+given = "J. Franklin"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "MO"
+place.city = "Joliet"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Ottawa"
+team.league.name = "Bi-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"

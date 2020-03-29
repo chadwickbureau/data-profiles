@@ -1,0 +1,14 @@
+[[person]]
+
+[person.meta]
+key = "201901_211"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Philley"
+use = "C."
+given = "C. U."

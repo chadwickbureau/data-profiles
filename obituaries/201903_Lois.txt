@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201903_Lois"
+
+[[person.meta.citation]]
+title = "ChispasDeActualidad.com"
+date = "2019-03-12"
+url = "http://chispasdeactualidad.com/2019/03/12/fallece-alberto-lois-exjardinero-de-las-aguilas/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-12"
+
+[person.name]
+last = "Lois"
+use = "Alberto"
+given = "Alberto"
+matrilineal = "Pie"
+
+[person.birth]
+date = "1956-05-06"
+place.country = "DO"
+place.city = "Hato Mayor del Rey"
+
+[person.death]
+date = "2019-03-12"
+place.country = "DO"
+place.city = "San Pedro de Macoris"

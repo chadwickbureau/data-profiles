@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202003_Janssen"
+
+[[person.meta.citation]]
+title = "Haskell Funeral Home"
+date = "2020-03-06"
+url = "https://www.haskellfuneral.com/obituaries/Mitchell-W--Janssen?obId=12306002#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-06"
+
+[person.name]
+last = "Janssen"
+use = "Mitchell"
+given = "Mitchell W."
+
+[person.birth]
+date = "1997-08-11"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+[person.death]
+date = "2020-03-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Logan County"
+
+[[person.education]]
+school.name = "Princeville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Princeville"
+
+[[person.education]]
+school.name = "Bradley University"
+school.type = "college"

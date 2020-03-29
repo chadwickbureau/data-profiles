@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_John_Maurice"
+
+[person.name]
+last = "Anderson"
+use = "John"
+given = "John Maurice"
+
+[person.birth]
+date = "1898-08-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69.5"
+weight = "174"

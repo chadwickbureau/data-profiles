@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "Berardino_John"
+
+[person.name]
+last = "Berardino"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1917-05-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "1996-05-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"
+note = [ "Became well known TV actor after playing career" ]
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"

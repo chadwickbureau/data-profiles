@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201903_Curley"
+
+[[person.meta.citation]]
+title = "DignityMemrial.com"
+date = "2019-03-31"
+url = "https://www.dignitymemorial.com/obituaries/dallas-tx/thomas-curley-8229947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Curley"
+use = "Tom"
+given = "Thomas James"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-02-24"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[person.death]
+date = "2019-03-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"

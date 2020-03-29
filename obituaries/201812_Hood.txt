@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201812_Hood"
+
+[[person.meta.citation]]
+title = "Panebaker Funeral Home"
+date = "2019-01-05"
+url = "https://www.panebakerfuneralhome.com/obituaries/Woodrow-Hood-Jr/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-05"
+
+[person.name]
+last = "Hood"
+use = "Woody"
+given = "Woodrow L."
+suffix = "Jr."
+
+[person.birth]
+date = "1943-05-01"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2018-12-26"
+place.country = "US"
+place.state = "PA"
+place.city = "York"

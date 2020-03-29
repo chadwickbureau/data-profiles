@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201908_Getter_2"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2019-09-05"
+url = "https://obits.dallasnews.com/obituaries/dallasmorningnews/obituary.aspx?n=richard-t-getter-dick&pid=193819744"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-06"
+
+[person.name]
+last = "Getter"
+use = "Dick"
+given = "Richard T."
+
+[person.birth]
+date = "1928-10-28"
+
+[person.death]
+date = "2019-08-24"

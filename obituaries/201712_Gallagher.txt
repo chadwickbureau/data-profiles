@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201712_Gallagher"
+
+[[person.meta.citation]]
+title = "Herman Funeral Home"
+date = "2017-12-19"
+url = "http://www.hermanfh.com/memsol.cgi?user_id=2049271"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-19"
+
+[person.name]
+last = "Gallagher"
+use = "Doug"
+given = "Douglas Eugene"
+
+[person.birth]
+date = "1940-02-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Fremont"
+
+[person.death]
+date = "2017-12-17"
+place.country = "US"
+place.state = "OH"
+place.city = "Fremont"
+
+[person.burial]
+cemetery.name = "Greenlawn Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Clyde"
+
+[[person.education]]
+school.name = "Fremont Ross HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Fremont"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

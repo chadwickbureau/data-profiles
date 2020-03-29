@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Biletnikoff"
+
+[[person.meta.citation]]
+title = "Davis Watkins Funeral Home"
+date = "2018-11-28"
+url = "https://www.daviswatkins.com/notices/Robert-Biletnikoff"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-28"
+
+[person.name]
+last = "Biletnikoff"
+use = "Bob"
+given = "Robert Nathan"
+
+[person.birth]
+date = "1944-08-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.death]
+date = "2018-11-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Crestview"
+
+[[person.education]]
+school.name = "Technical Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Erie"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"

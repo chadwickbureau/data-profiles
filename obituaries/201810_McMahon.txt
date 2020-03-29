@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201810_McMahon"
+
+[[person.meta.citation]]
+title = "Dwyer Funeral Home"
+date = "2019-05-28"
+url = "https://www.dwyerfuneral.com/obituaries/Edward-Mcmahon-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-28"
+
+[person.name]
+last = "McMahon"
+use = "Edward"
+given = "Edward Anthony"
+
+[person.birth]
+date = "1931-06-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Pittsfield"
+
+[person.death]
+date = "2018-10-13"
+place.country = "US"
+place.state = "MA"
+place.city = "Pittsfield"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Pittsfield"
+
+[[person.education]]
+school.name = "Pittsfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Pittsfield"

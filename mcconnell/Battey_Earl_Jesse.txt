@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Battey_Earl_Jesse"
+
+[person.name]
+last = "Battey"
+use = "Earl"
+given = "Earl Jesse"
+
+[person.birth]
+date = "1935-01-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2003-11-15"
+place.country = "US"
+place.state = "FL"
+place.city = "Gainesville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "205"

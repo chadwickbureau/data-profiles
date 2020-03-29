@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201901_Herrero"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News"
+date = "2019-01-20"
+url = "https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=joaquin-herrero-babe&pid=191290503&fhid=24141"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Herrero"
+use = "Babe"
+given = "Joaquin"
+
+[person.birth]
+date = "1922-08-03"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2019-01-09"
+
+[[person.education]]
+school.name = "Fremont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sunnyvale"
+
+[[person.education]]
+school.name = "College of San Mateo"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201809_Miller"
+
+[[person.meta.citation]]
+title = "Bolton Funeral Home"
+date = "2018-09-18"
+url = "https://www.boltonfuneralhome.com/obituaries/William-Hoot-Miller/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-18"
+
+[person.name]
+last = "Miller"
+use = "Hoot"
+given = "William Frederick"
+
+[person.birth]
+date = "1931-10-16"
+place.country = "US"
+place.state = "AL"
+place.city = "Wilsonville"
+
+[person.death]
+date = "2018-09-14"
+
+[person.burial]
+cemetery.name = "Wilsonville City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Wilsonville"
+
+[[person.education]]
+school.name = "Jones County Junior College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"

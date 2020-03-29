@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201405_Fiore"
+
+[[person.meta.citation]]
+title = "The Repository"
+date = "2014-05-18"
+url = "http://www.legacy.com/obituaries/cantonrep/obituary.aspx?n=Carl-Fiore&pid=171058424"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-18"
+
+[person.name]
+last = "Fiore"
+use = "Carl"
+given = "Carl Joseph"
+
+[person.birth]
+date = "1920-03-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2014-05-04"
+
+[person.burial]
+cemetery.name = "North Shore Memory Garden"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Coloma"
+
+[[person.education]]
+school.name = "McKinley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Canton"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201902_Wilson"
+
+[[person.meta.citation]]
+title = "Miami Herald"
+date = "2019-03-03"
+url = "https://www.legacy.com/obituaries/herald/obituary.aspx?n=larry-james-wilson&pid=191719176"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-03"
+
+[person.name]
+last = "Wilson"
+use = "Larry"
+given = "Larry James"
+
+[person.birth]
+date = "1940-02-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2019-02-05"
+
+[[person.education]]
+school.name = "Archbishop Curley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Miami"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

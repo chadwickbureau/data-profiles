@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201405_Curl"
+
+[[person.meta.citation]]
+title = "Jackson Sun"
+date = "2014-05-07"
+url = "http://www.legacy.com/obituaries/jacksonsun/obituary.aspx?n=Kedy-Curl&pid=170934248"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-07"
+
+[person.name]
+last = "Curl"
+use = "Kedy"
+given = "Kedy A."
+
+[person.birth]
+date = "1934-09-07"
+place.country = "US"
+place.state = "AL"
+place.city = "Garden City"
+
+[person.death]
+date = "2014-05-05"
+place.country = "US"
+place.state = "TN"
+place.city = "Jackson"
+
+[person.burial]
+cemetery.name = "Ridgecrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Jackson"

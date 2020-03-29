@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201406_Kissane"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2014-06-20"
+url = "http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=Dennis-Kissane&pid=171421946"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-22"
+
+[person.name]
+last = "Kissane"
+use = "Dennis"
+given = "Dennis J."
+
+[person.death]
+date = "2014-06-17"
+
+[[person.education]]
+school.name = "Oak Park and River Forest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Oak Park"

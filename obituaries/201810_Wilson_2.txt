@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201810_Wilson_2"
+
+[[person.meta.citation]]
+title = "Santa Maria Times"
+date = "2018-10-12"
+url = "https://santamariatimes.com/sports/high-school/kyle-wilson-former-righetti-and-cal-poly-baseball-player-dies/article_d00b851d-ee7e-57f7-ac5e-dcd3547dd8a8.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-13"
+
+[person.name]
+last = "Wilson"
+use = "Kyle"
+given = "Kyle"
+
+[person.birth]
+date = "1982-08-23"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Maria"
+
+[person.death]
+date = "2018-10-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Clovis"
+
+[[person.education]]
+school.name = "Righetti HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Maria"
+
+[[person.education]]
+school.name = "California State University, San Luis Obispo"
+school.type = "college"
+
+[[person.education]]
+school.name = "California State University Fresno"
+school.type = "college"

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201409_Seid"
+
+[[person.meta.citation]]
+title = "Milwaukee Journal Sentinel"
+date = "2014-09-03"
+url = "http://www.jsonline.com/blogs/sports/273745741.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-08"
+
+[person.name]
+last = "Seid"
+use = "Bruce"
+given = "Bruce"
+
+[person.death]
+date = "2014-09-02"

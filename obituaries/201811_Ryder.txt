@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Ryder"
+
+[[person.meta.citation]]
+title = "McCarthy, McKinney & Lawler"
+date = "2018-11-04"
+url = "https://www.mccarthyfh.com/notices/Stephen-Ryder"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Ryder"
+use = "Steve"
+given = "Stephen C."
+
+[person.birth]
+date = "1939-02-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Framingham"
+
+[person.death]
+date = "2018-11-02"
+
+[person.burial]
+cemetery.name = "St. Stephen's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Framingham"
+
+[[person.education]]
+school.name = "Framingham HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Framingham"

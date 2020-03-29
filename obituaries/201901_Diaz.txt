@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201901_Diaz"
+
+[[person.meta.citation]]
+title = "McCune Garden Chapel"
+date = "2019-01-19"
+url = "https://www.mccunechapel.com/obituaries/Alphonso-Diaz?obId=4037574#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-19"
+
+[person.name]
+last = "Diaz"
+use = "Alphonso"
+given = "Alphonso"
+nick = "Legs"
+
+[person.birth]
+date = "1923-01-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Richmond"
+
+[person.death]
+date = "2019-01-08"
+
+[person.burial]
+cemetery.name = "Sacramento Valley National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Dixon"
+
+[[person.education]]
+school.name = "Richmond HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Richmond"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

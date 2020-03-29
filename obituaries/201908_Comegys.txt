@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201908_Comegys"
+
+[[person.meta.citation]]
+title = "Page Funeral Home"
+date = "2019-12-28"
+url = "https://www.pagefuneralhome.com/obituaries/Ellwood-Comegys/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Comegys"
+use = "Woody"
+given = "Ellwood W."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Beverly"
+
+[person.death]
+date = "2019-08-10"
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201405_Kanagy"
+
+[[person.meta.citation]]
+title = "U-T San Diego"
+date = "2014-06-15"
+url = "http://www.legacy.com/obituaries/UTSanDiego/obituary.aspx?n=Warren-Kanagy&pid=171358358"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-15"
+
+[person.name]
+last = "Kanagy"
+use = "Warren"
+given = "Warren H."
+
+[person.birth]
+date = "1921-05-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Hemet"
+
+[person.death]
+date = "2014-05-21"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Herbert Hoover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Glendale"
+
+[[person.education]]
+school.name = "Glendale HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Glendale"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

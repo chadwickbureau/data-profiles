@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "196307_Crowther"
+
+[[person.meta.citation]]
+title = "Boston Herald"
+date = "1963-07-24"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-04"
+
+[person.name]
+last = "Crowther"
+use = "George"
+given = "George M."
+
+[person.death]
+date = "1963-07-23"
+place.country = "US"
+place.state = "MA"
+place.city = "Fitchburg"
+
+[person.description]
+note = [ "All-American football player at Brown" ]
+
+[[person.education]]
+school.name = "Brown University"
+school.type = "college"

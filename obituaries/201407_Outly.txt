@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201407_Outly"
+
+[[person.meta.citation]]
+title = "Daily Journal"
+date = "2014-07-17"
+url = "http://www.daily-journal.com/people/obituaries/frank-outly/article_8f7e58d0-c3cc-5f35-b60a-6b967bd10b1e.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Outly"
+use = "Frank"
+given = "Frank L."
+
+[person.birth]
+date = "1924-05-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-07-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Bradley"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

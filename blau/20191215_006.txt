@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20191215_006"
+
+[[person.meta.citation]]
+title = "Raleigh News and Observer"
+date = "1915-07-27"
+pages = "3"
+
+[person.name]
+last = "Turner"
+use = "Sam"
+given = "Sam"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dothan"
+team.league.name = "Florida-Alabama-Georgia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+description.position = "RF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"

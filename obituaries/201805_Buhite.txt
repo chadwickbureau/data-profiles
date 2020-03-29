@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201805_Buhite"
+
+[[person.meta.citation]]
+title = "Norman Transcript"
+date = "2018-05-31"
+url = "http://obituaries.normantranscript.com/obituary/russell-buhite-1938-2018-1064140939"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-16"
+
+[person.name]
+last = "Buhite"
+use = "Russell"
+given = "Russell Devere"
+
+[person.birth]
+date = "1938-07-19"
+
+[person.death]
+date = "2018-05-27"

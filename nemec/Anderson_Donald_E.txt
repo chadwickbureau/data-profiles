@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Donald_E"
+
+[person.name]
+last = "Anderson"
+use = "Don"
+given = "Donald E."
+
+[person.birth]
+date = "1918-10-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2010-11-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Hemet"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "165"
+
+[person.sameas]
+ssn = "389-18-8160"
+
+[[person.resides]]
+dates = "1951"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+place.address = "436 Alexander"
+
+
+[[person.education]]
+school.name = "Bowen High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+conflict = "1942/1945"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Chicago"
+team.place.country = "US"
+team.place.state = "IL"
+team.place.city = "Chicago"
+team.caliber = "semipro"

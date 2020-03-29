@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201904_Stephens"
+
+[[person.meta.citation]]
+title = "Wiley Funeral Home"
+date = "2019-05-01"
+url = "https://www.wileyfuneralhome.com/obituary/glenn-stephens/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-01"
+
+[person.name]
+last = "Stephens"
+use = "Gene"
+given = "Glenn Eugene"
+
+[person.birth]
+date = "1933-01-20"
+place.country = "US"
+place.state = "AR"
+place.city = "Hiwassee"
+
+[person.death]
+date = "2019-04-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Granbury"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"

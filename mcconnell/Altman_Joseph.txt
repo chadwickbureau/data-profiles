@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Altman_Joseph"
+
+[person.name]
+last = "Altman"
+use = "Joseph"
+given = "Joseph"
+nick = "Dutch"
+
+[person.birth]
+date = "1883-01-29"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+[person.death]
+date = "1959-02-28"
+place.country = "US"
+place.state = "WA"
+place.city = "Snohomish"
+
+[person.description]
+bats = "R"
+throws = "R"

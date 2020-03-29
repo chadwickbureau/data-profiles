@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Agganis_Harry"
+
+[person.name]
+last = "Agganis"
+use = "Harry"
+given = "Harry"
+
+[person.birth]
+date = "1929-04-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Lynn"
+
+[person.death]
+date = "1955-06-27"
+place.country = "US"
+place.state = "MA"
+place.city = "Cambridge"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "74"
+weight = "200"
+
+[[person.education]]
+school.name = "Boston University"
+school.type = "college"
+dates = "/1954"
+degree = "graduated"

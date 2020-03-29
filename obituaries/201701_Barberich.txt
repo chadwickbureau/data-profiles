@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201701_Barberich"
+
+[[person.meta.citation]]
+title = "Merlin Funeral Home"
+date = "2018-07-20"
+url = "https://www.merlinfuneralhome.com/notices/Joseph-Barberich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Barberich"
+use = "Joseph"
+given = "Joseph P."
+
+[person.birth]
+date = "1935-10-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Brenizer"
+
+[person.death]
+date = "2017-01-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Latrobe"
+
+[person.burial]
+cemetery.name = "Unity Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Latrobe"
+
+[[person.military]]
+country = "US"
+branch = "Army"

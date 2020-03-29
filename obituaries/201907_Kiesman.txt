@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201907_Kiesman"
+
+[[person.meta.citation]]
+title = "Conway Daily Sun"
+date = "2019-08-11"
+url = "https://www.conwaydailysun.com/community/obituaries/obituary-robert-bob-kiesman/article_fcddac48-b93b-11e9-b524-f7ce305cb7e6.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-11"
+
+[person.name]
+last = "Kiesman"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1939-01-24"
+place.country = "US"
+place.state = "ME"
+place.city = "Fryeburg"
+
+[person.death]
+date = "2019-07-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Rosa"
+
+[[person.education]]
+school.name = "Fryeburg Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Fryeburg"

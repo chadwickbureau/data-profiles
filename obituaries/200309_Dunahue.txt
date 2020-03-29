@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "200309_Dunahue"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2018-09-30"
+url = "https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=gary-dunahue&pid=190355196"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Dunahue"
+use = "Gary"
+given = "Gary"
+
+[person.birth]
+date = "1956-02-07"
+
+[person.death]
+date = "2003-09-30"

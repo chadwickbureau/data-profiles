@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201807_Smullen"
+
+[[person.meta.citation]]
+title = "Burlington Free Press"
+url = "https://www.legacy.com/obituaries/burlingtonfreepress/obituary.aspx?n=richard-smullen-dick&pid=189600846"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Smullen"
+use = "Dick"
+given = "Richard"
+
+[person.death]
+date = "2018-07-14"
+place.country = "US"
+place.state = "VT"
+place.city = "South Burlington"
+
+[[person.education]]
+school.name = "Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Yonkers"
+
+[[person.education]]
+school.name = "University of Notre Dame"
+school.type = "college"

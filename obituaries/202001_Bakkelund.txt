@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202001_Bakkelund"
+
+[[person.meta.citation]]
+title = "Sunset Funeral Home"
+date = "2020-02-03"
+url = "https://www.dignitymemorial.com/obituaries/machesney-park-il/donald-bakkelund-9018262"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-03"
+
+[person.name]
+last = "Bakkelund"
+use = "Donald"
+given = "Donald"
+
+[person.birth]
+date = "1920-11-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.death]
+date = "2020-01-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Machesney Park"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

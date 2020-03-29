@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201902_Welch"
+
+[[person.meta.citation]]
+title = "Musgrove Funeral Home"
+date = "2019-02-17"
+url = "https://www.musgroves.com/obituary.cfm?name=MiltonWelch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-17"
+
+[person.name]
+last = "Welch"
+use = "Milt"
+given = "Milton Edward"
+
+[person.birth]
+date = "1924-07-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Farmersville"
+
+[person.death]
+date = "2019-02-09"

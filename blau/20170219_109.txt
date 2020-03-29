@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_109"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1922-03-22"
+pages = "14"
+
+[person.name]
+last = "Bankhead"
+use = "Toots"
+given = "Toots"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"

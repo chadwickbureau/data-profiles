@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201406_Dugger"
+
+[[person.meta.citation]]
+title = "Herald Democrat"
+date = "2014-06-11"
+url = "http://www.legacy.com/obituaries/heralddemocrat/obituary.aspx?n=Frank-Dugger&pid=171299699"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-11"
+
+[person.name]
+last = "Dugger"
+use = "Frank"
+given = "Frank Ervin"
+
+[person.birth]
+date = "1930-10-10"
+place.country = "US"
+place.state = "TX"
+place.city = "Allen"
+
+[person.death]
+date = "2014-06-09"
+
+[person.burial]
+cemetery.name = "Van Alstyne Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Van Alstyne"
+
+[[person.education]]
+school.name = "Allen HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Allen"

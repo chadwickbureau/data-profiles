@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201806_Mattingly"
+
+[[person.meta.citation]]
+title = "Barbara Falowski Funeral Home"
+date = "2018-07-08"
+url = "http://www.obituarymanager.com/pro/print_condolence.php?cust_id=37&obit_id=36978"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Mattingly"
+use = "JoJo"
+given = "Joseph Bernard"
+
+[person.birth]
+date = "1974-11-30"
+place.country = "US"
+place.state = "IN"
+place.city = "Vincennes"
+
+[person.death]
+date = "2018-06-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Lauderdale"
+
+[[person.education]]
+school.name = "Vero Beach HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Vero Beach"
+
+[[person.education]]
+school.name = "Indian River State College"
+school.type = "college"

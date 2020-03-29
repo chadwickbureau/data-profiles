@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201907_Davis"
+
+[[person.meta.citation]]
+title = "Republican Herald"
+date = "2019-07-07"
+url = "https://www.legacy.com/obituaries/schuylkill/obituary.aspx?n=donald-e-davis&pid=193332934"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Davis"
+use = "Don"
+given = "Donald E."
+
+[person.birth]
+date = "1928-08-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Cressona"
+
+[person.death]
+date = "2019-07-04"
+
+[[person.education]]
+school.name = "Pottsville Area HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pottsville"
+
+[[person.education]]
+school.name = "Seton Hall Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "West Orange"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190531_011"
+
+[[person.meta.citation]]
+title = "Waco Morning News 1915-05-18"
+pages = "16"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Hill"
+use = "Cliff"
+given = "Cliff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Waco"
+team.league.name = "Texas League"

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201810_Gehris"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-10-28"
+url = "https://www.dignitymemorial.com/obituaries/reiffton-pa/stewart-gehris-8034307"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-28"
+
+[person.name]
+last = "Gehris"
+use = "Stewart"
+given = "Stewart Henry"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-02-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.death]
+date = "2018-10-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.burial]
+cemetery.name = "Forest Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Reiffton"
+
+[[person.education]]
+school.name = "Reading HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Reading"

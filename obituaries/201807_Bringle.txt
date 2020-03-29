@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201807_Bringle"
+
+[[person.meta.citation]]
+title = "Summersett Funeral Home"
+date = "2018-07-25"
+url = "https://www.summersettfuneralhome.com/obituaries/Lester-Bringle/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-25"
+
+[person.name]
+last = "Bringle"
+use = "Elwood"
+given = "Lester Elwood"
+
+[person.birth]
+date = "1927-05-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Rowan County"
+
+[person.death]
+date = "2018-07-24"
+
+[person.burial]
+cemetery.name = "Rowan Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Salisbury"

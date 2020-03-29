@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201909_Mitchell_Bobby"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2019-10-27"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=robert-mitchell-bobby&pid=194276663"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Mitchell"
+use = "Bobby"
+given = "Robert"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Norristown"
+
+[person.death]
+date = "2019-09-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"

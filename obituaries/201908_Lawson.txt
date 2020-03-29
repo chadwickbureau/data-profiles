@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201908_Lawson"
+
+[[person.meta.citation]]
+title = "Evan J. Strong Funeral Home"
+date = "2019-08-11"
+url = "https://www.evanjstrong.com/notices/James-Lawson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-11"
+
+[person.name]
+last = "Lawson"
+use = "Jim"
+given = "James Lawrence"
+
+[person.birth]
+date = "1966-09-05"
+
+[person.death]
+date = "2019-08-08"
+
+[[person.education]]
+school.name = "Huntington University"
+school.type = "college"

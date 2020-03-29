@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201903_Bumstead"
+
+[[person.meta.citation]]
+title = "Naples Daily News"
+date = "2019-03-24"
+url = "https://www.legacy.com/obituaries/naplesnews/obituary.aspx?n=daniel-downs-bumstead&pid=191901476"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-24"
+
+[person.name]
+last = "Bumstead"
+use = "Dan"
+given = "Daniel Downs"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Bucyrus"
+
+[person.death]
+date = "2019-03-11"
+place.country = "US"
+place.state = "FL"
+place.city = "Naples"
+
+[[person.education]]
+school.name = "Bucyrus HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Bucyrus"
+
+[[person.education]]
+school.name = "Kenyon College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

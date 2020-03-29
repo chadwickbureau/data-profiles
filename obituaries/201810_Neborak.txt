@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201810_Neborak"
+
+[[person.meta.citation]]
+title = "Moore, Snear & Ruggiero Funeral Home"
+date = "2018-10-15"
+url = "https://mooreandsnear.com/tribute/details/7595/John-Neborak/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-15"
+
+[person.name]
+last = "Neborak"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1929-09-01"
+place.country = "US"
+place.state = "PA"
+place.city = "East Coventry Township"
+
+[person.death]
+date = "2018-10-11"
+
+[person.burial]
+cemetery.name = "Zion Lutheran Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Spring City"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

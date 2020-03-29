@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201904_Duncan"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2019-07-19"
+url = "https://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=paul-edward-duncan&pid=193418556"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-19"
+
+[person.name]
+last = "Duncan"
+use = "Paul"
+given = "Paul Edward"
+
+[person.birth]
+date = "1954-05-19"
+
+[person.death]
+date = "2019-04-17"
+
+[[person.education]]
+school.name = "Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "Portland State University"
+school.type = "college"

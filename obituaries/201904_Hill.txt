@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201904_Hill"
+
+[[person.meta.citation]]
+title = "Lininger-Fries Funeral Home"
+date = "2020-01-18"
+url = "https://www.lininger-fries.com/memorials/john-grubby-hill-jr/3791947/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Hill"
+use = "John"
+given = "John D."
+nick = "Grubby"
+
+[person.birth]
+date = "1932-04-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.death]
+date = "2019-04-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.burial]
+cemetery.name = "Spring Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Lemasters"
+
+[[person.education]]
+school.name = "Lemasters HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Lemasters"

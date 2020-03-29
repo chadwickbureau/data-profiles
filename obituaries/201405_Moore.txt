@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201405_Moore"
+
+[[person.meta.citation]]
+title = "The News & Observer"
+date = "2014-05-23"
+url = "http://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=Harold-Moore&pid=171105980"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-23"
+
+[person.name]
+last = "Moore"
+use = "Harold"
+given = "Harold Hooks"
+suffix = "Sr."
+
+[person.birth]
+date = "1934-12-13"
+
+[person.death]
+date = "2014-05-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Asheville"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Balaz_John_Lawrence"
+
+[person.name]
+last = "Balaz"
+use = "John"
+given = "John Lawrence"
+
+[person.birth]
+date = "1950-11-24"
+place.country = "CA"
+place.state = "ON"
+place.city = "Toronto"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "180"

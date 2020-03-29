@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20191201_006"
+
+[[person.meta.citation]]
+title = "Amarillo Globe"
+date = "1928-04-23"
+pages = "13"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Amarillo"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1927"
+team.name = "Denver"
+team.league.name = "Western League"

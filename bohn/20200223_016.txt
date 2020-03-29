@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_016"
+
+[[person.meta.citation]]
+title = "Aberdeen Daily News"
+date = "1920-08-24"
+
+[person.name]
+last = "Boyd"
+use = "Hugh"
+given = "Hugh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"

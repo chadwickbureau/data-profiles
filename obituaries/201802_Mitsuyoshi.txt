@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201802_Mitsuyoshi"
+
+[[person.meta.citation]]
+title = "Adobe Creek Funeral Home"
+date = "2018-07-17"
+url = "http://adobecreekfuneralhome.com/obituaries-2/ben-mitsuyoshi/995/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Mitsuyoshi"
+use = "Ben"
+given = "Ben"
+
+[person.birth]
+date = "1928-05-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Armona"
+
+[person.death]
+date = "2018-02-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Rosa"
+
+[person.burial]
+cemetery.name = "Hanford Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Hanford"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

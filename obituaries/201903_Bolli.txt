@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201903_Bolli"
+
+[[person.meta.citation]]
+title = "Farmington Daily Times"
+date = "2019-04-03"
+url = "https://www.legacy.com/obituaries/daily-times/obituary.aspx?n=richard-eugene-bolli-dick&pid=192056768"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-03"
+
+[person.name]
+last = "Bolli"
+use = "Dick"
+given = "Richard Eugene"
+
+[person.birth]
+date = "1941-07-29"
+place.country = "US"
+place.state = "MO"
+place.city = "Columbia"
+
+[person.death]
+date = "2019-03-13"
+
+[[person.education]]
+school.name = "Hickman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Columbia"

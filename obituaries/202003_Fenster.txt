@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202003_Fenster"
+
+[[person.meta.citation]]
+title = "Berger Memorial Chapel"
+date = "2020-03-10"
+url = "https://www.dignitymemorial.com/obituaries/olivette-mo/aaron-fenster-9078495"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Fenster"
+use = "Aaron"
+given = "Aaron David"
+
+[person.birth]
+date = "1933-01-10"
+
+[person.death]
+date = "2020-03-08"
+
+[person.burial]
+cemetery.name = "Chesed Shel Emeth Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "University City"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

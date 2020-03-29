@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201907_Mickens"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-07-12"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=glenn-mickens-mick&pid=193374963&fbclid=IwAR1N-OylsLT56OQz8FehIQzX9I8ovh1tna2mWelDBamQDt4_PgBCXnNNxMs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-13"
+
+[person.name]
+last = "Mickens"
+use = "Glenn"
+given = "Glenn"
+nick = "Mick"
+
+[person.birth]
+date = "1930-07-26"
+
+[person.death]
+date = "2019-07-09"

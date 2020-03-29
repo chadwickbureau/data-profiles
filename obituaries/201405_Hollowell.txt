@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201405_Hollowell"
+
+[[person.meta.citation]]
+title = "Ledger"
+date = "2014-05-20"
+url = "http://www.legacy.com/obituaries/theledger/obituary.aspx?n=bud-hollowell&pid=171099233&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-20"
+
+[person.name]
+last = "Hollowell"
+use = "Bud"
+given = "Bud"
+
+[person.birth]
+date = "1943-01-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2014-05-16"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"

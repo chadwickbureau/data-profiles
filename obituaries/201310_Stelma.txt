@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201310_Stelma"
+
+[[person.meta.citation]]
+title = "Times Leader"
+date = "2013-01-04"
+url = "http://www.legacy.com/obituaries/timesleader/obituary.aspx?n=michael-stelma-cactus&pid=167331502&fhid=22983"
+
+[[person.meta.contributor]]
+name.last = "Hall"
+name.use = "John"
+email = "j03.john@gmail.com"
+date = "2013-12-10"
+
+[person.name]
+last = "Stelma"
+use = "Mike"
+given = "Michael"
+nick = "Cactus"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Swoyersville"
+
+[person.death]
+date = "2013-10-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Larksville"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Swoyersville"
+
+[[person.education]]
+school.name = "Swoyersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Swoyersville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Aderholt_Morris_Woodrow"
+
+[person.name]
+last = "Aderholt"
+use = "Morris"
+given = "Morris Woodrow"
+
+[person.birth]
+date = "1915-09-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Mount Olive"
+
+[person.death]
+date = "1955-03-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Sarasota"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "73"
+weight = "188"
+
+[[person.education]]
+school.name = "Wake Forest College"
+school.type = "college"
+dates = "/1938"
+degree = "graduated"

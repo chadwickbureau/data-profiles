@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20191201_003"
+
+[[person.meta.citation]]
+title = "Lincoln State Journal"
+date = "1924-05-26"
+pages = "9"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Denver"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "<=1924-05-26"
+type = "acquired"
+join.name = "Denver"
+join.league.name = "Western"
+leave.name = "Chicago"
+leave.league.name = "National"

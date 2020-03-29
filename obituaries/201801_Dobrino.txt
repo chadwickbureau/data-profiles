@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201801_Dobrino"
+
+[[person.meta.citation]]
+title = "Becker & Son Funeral Home"
+date = "2018-07-20"
+url = "https://www.beckerandson.com/notices/Thomas-Dobrino"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Dobrino"
+use = "Thomas"
+given = "Thomas Michael"
+
+[person.birth]
+date = "1931-05-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Mount Olive"
+
+[person.death]
+date = "2018-01-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Escondido"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Mount Olive"
+
+[[person.education]]
+school.name = "Mount Olive HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Mount Olive"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

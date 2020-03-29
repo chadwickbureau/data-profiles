@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201807_Norley"
+
+[[person.meta.citation]]
+title = "Connell Funeral Home"
+date = "2018-07-08"
+url = "http://www.connellfuneral.com/obituaries/Walter-Norley/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Norley"
+use = "Walt"
+given = "Walter Nelson"
+suffix = "III"
+
+[person.birth]
+date = "1939-03-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Drexel Hill"
+
+[person.death]
+date = "2018-07-01"
+
+[[person.education]]
+school.name = "Haverford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Haverford"

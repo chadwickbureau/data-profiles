@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_Clarence_Eldon"
+
+[person.name]
+last = "Anderson"
+use = "Clarence"
+given = "Clarence Eldon"
+
+[person.birth]
+date = "1923-04-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Ludlow"
+
+[person.death]
+date = "2010-08-19"
+place.country = "US"
+place.state = "VA"
+place.city = "Virginia Beach"
+
+[person.description]
+bats = "R"
+throws = "L"
+height = "76"
+weight = "175"
+
+[person.sameas]
+ssn = "195-14-2193"
+
+[[person.resides]]
+dates = "1950"
+place.country = "US"
+place.state = "PA"
+place.city = "Kane"
+place.address = "Route 2, Box 292"
+
+
+[[person.education]]
+school.name = "Ludlow High School"
+school.type = "secondary"
+dates = "/1942"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1946"
+team.name = "Niagara Falls"
+team.place.country = "US"
+team.place.state = "NY"
+team.place.city = "Niagara Falls"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1946"
+team.name = "Ludlow"
+team.place.country = "US"
+team.place.state = "PA"
+team.place.city = "Ludlow"
+team.caliber = "semipro"

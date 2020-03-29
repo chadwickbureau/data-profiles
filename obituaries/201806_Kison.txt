@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201806_Kison"
+
+[[person.meta.citation]]
+title = "Brown & Sons Funeral Home"
+date = "2018-06-06"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=11e8c0fe-7070-405b-be99-896148ad8c20&CFTOKEN=0&o_id=4868727&fh_id=14772"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kison"
+use = "Bruce"
+given = "Bruce"
+
+[person.birth]
+date = "1950"
+place.country = "US"
+place.state = "WA"
+place.city = "Pasco"
+
+[person.death]
+date = "2018-06-02"

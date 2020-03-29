@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201909_Jondle"
+
+[[person.meta.citation]]
+title = "Long Beach Press-Telegram"
+date = "2019-09-25"
+url = "https://www.legacy.com/obituaries/lbpresstelegram/obituary.aspx?n=kevin-jondle&pid=193981930&fhid=4502"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Jondle"
+use = "Kevin"
+given = "Kevin Joseph"
+
+[person.birth]
+date = "1958-03-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2019-09-13"
+
+[[person.education]]
+school.name = "St. John Bosco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Bellflower"

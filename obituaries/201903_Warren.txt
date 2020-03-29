@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201903_Warren"
+
+[[person.meta.citation]]
+title = "Seymour Funeral Home"
+date = "2019-03-25"
+url = "https://www.seymourfuneralhome.com/obituaries/Robert-Creech-Warren?obId=4233516#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-25"
+
+[person.name]
+last = "Warren"
+use = "Bob"
+given = "Robert Creech"
+
+[person.birth]
+date = "1925-07-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Goldsboro"
+
+[person.death]
+date = "2019-03-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[person.burial]
+cemetery.name = "Willowdale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Goldsboro"
+
+[[person.education]]
+school.name = "Goldsboro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Goldsboro"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

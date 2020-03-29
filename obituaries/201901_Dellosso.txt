@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201901_Dellosso"
+
+[[person.meta.citation]]
+title = "Leber_Lakeside Funeral Home"
+date = "2019-01-28"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-28"
+
+[person.name]
+last = "Dellosso"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1936"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2019-01-25"
+place.country = "US"
+place.state = "NJ"
+place.city = "Denville"

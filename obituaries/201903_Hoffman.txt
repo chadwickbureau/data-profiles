@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hoffman"
+
+[[person.meta.citation]]
+title = "Godfrey Funeral Home"
+date = "2019-04-14"
+url = "https://godfreyfuneralhome.com/tribute/details/1518/Frederick-Hoffman/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-14"
+
+[person.name]
+last = "Hoffman"
+use = "Fred"
+given = "Frederick James"
+
+[person.birth]
+date = "1933"
+place.country = "US"
+place.state = "NJ"
+place.city = "Wildwood"
+
+[person.death]
+date = "2019-03-27"
+place.country = "US"
+place.state = "NJ"
+place.city = "Ocean City"
+
+[[person.education]]
+school.name = "West Chester University"
+school.type = "college"

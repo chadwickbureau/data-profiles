@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201905_Massey"
+
+[[person.meta.citation]]
+title = "J. T. Morriss & Son Funeral Home"
+date = "2019-05-27"
+url = "https://www.jtmorriss.com/obituaries/Walter-Massey-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Massey"
+use = "Walter"
+given = "Walter Rufus"
+suffix = "Jr."
+nick = "Stick"
+
+[person.birth]
+date = "1934-09-03"
+place.country = "US"
+place.state = "NC"
+place.city = "Roanoke Rapids"
+
+[person.death]
+date = "2019-05-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Disputanta"
+
+[person.burial]
+cemetery.name = "Southlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Petersburg"
+
+[[person.education]]
+school.name = "Petersburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Petersburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

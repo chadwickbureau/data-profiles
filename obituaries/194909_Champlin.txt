@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "194909_Champlin"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer 1949-09-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-26"
+
+[person.name]
+last = "Champlin"
+use = "Harry"
+given = "Harry J."
+nick = "Happy"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Elmwood Place"
+
+[person.death]
+date = "1949-09-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.burial]
+cemetery.name = "Vine Street Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"

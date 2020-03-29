@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201910_Curtiss"
+
+[[person.meta.citation]]
+title = "Dykstra Funeral Home"
+date = "2019-10-07"
+url = "https://dykstrafuneralhome.com/obituaries/leland-gene-curtiss.128911"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Curtiss"
+use = "Gene"
+given = "Leland Eugene"
+
+[person.birth]
+date = "1936-05-13"
+place.country = "US"
+place.state = "MI"
+place.city = "Mount Pleasant"
+
+[person.death]
+date = "2019-10-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Holland"
+
+[person.burial]
+cemetery.name = "Port Sheldon Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Port Sheldon"
+
+[[person.education]]
+school.name = "Traverse City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Traverse City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

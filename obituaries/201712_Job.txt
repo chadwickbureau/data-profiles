@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201712_Job"
+
+[[person.meta.citation]]
+title = "Montville Funeral Home"
+date = "2017-12-26"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=MARCUS-JOB&lc=2080&pid=187549927&mid=7681617"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-26"
+
+[person.name]
+last = "Job"
+use = "Marcus"
+given = "Marcus P."
+
+[person.birth]
+date = "1929-03-09"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2017-12-16"
+
+[person.burial]
+cemetery.name = "St. Patrick Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Uncasville"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

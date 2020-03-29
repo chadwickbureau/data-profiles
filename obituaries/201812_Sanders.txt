@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Sanders"
+
+[[person.meta.citation]]
+title = "Ponte Vedra Valley Funeral Home"
+date = "2018-12-14"
+url = "https://www.pontevedravalley.com/obituaries/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Sanders"
+use = "Blake"
+given = "Blake Julian"
+
+[person.birth]
+date = "1988-03-23"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.death]
+date = "2018-12-11"
+
+[[person.education]]
+school.name = "Nease HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Ponte Vedra Beach"
+
+[[person.education]]
+school.name = "Marshall University"
+school.type = "college"

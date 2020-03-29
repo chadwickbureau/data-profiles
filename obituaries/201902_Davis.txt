@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201902_Davis"
+
+[[person.meta.citation]]
+title = "Ridge Funeral Home"
+date = "2019-03-10"
+url = "https://www.ridgefuneralhome.com/obituaries/Larry-Davis-38/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Davis"
+use = "Larry"
+given = "Larry Glenn"
+
+[person.birth]
+date = "1941-08-26"
+place.country = "US"
+place.state = "NC"
+place.city = "Randolph County"
+
+[person.death]
+date = "2019-02-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Asheboro"

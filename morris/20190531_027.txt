@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190531_027"
+
+[[person.meta.citation]]
+title = "Scranton Times-Tribune 1915-08-26"
+pages = "1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Neher"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "South Scranton Sunsets"
+team.caliber = "semipro"

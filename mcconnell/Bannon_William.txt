@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "Bannon_William"
+
+[person.name]
+last = "Bannon"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1875-12-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Amesbury"
+
+[person.death]
+date = "1938-09-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Lynn"
+
+[person.description]
+throws = "R"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Jim"
+person.name.given = "Jim"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Tom"
+person.name.given = "Tom"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "George"
+person.name.given = "George"

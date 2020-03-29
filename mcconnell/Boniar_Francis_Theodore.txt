@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "Boniar_Francis_Theodore"
+
+[person.name]
+last = "Boniar"
+use = "Francis"
+given = "Francis Theodore"
+
+[person.birth]
+date = "1932-10-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Uniontown"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "195"
+
+[[person.military]]
+country = "US"

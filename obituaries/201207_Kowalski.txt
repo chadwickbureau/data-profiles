@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201207_Kowalski"
+
+[[person.meta.citation]]
+title = "Snow Funeral Home"
+date = "2018-12-11"
+url = "https://www.snowfuneralhome.net/obituaries/Edwin-Kowalski-15476/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-11"
+
+[person.name]
+last = "Kowalski"
+use = "Edwin"
+given = "Edwin C."
+
+[person.birth]
+date = "1923-12-05"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.death]
+date = "2012-07-16"
+place.country = "US"
+place.state = "MI"
+place.city = "Bridgeport"
+
+[person.burial]
+cemetery.name = "Oakwood Memorial Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Saginaw"
+
+[[person.education]]
+school.name = "Arthur Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Saginaw"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

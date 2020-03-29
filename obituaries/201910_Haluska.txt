@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201910_Haluska"
+
+[[person.meta.citation]]
+title = "Draeger-Langendorf Funeral Home"
+date = "2019-12-23"
+url = "https://www.draeger-langendorf.com/obituaries/rudy-peter-haluska-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-23"
+
+[person.name]
+last = "Haluska"
+use = "Rudy"
+given = "Rudy Peter"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-04-29"
+
+[person.death]
+date = "2019-10-26"

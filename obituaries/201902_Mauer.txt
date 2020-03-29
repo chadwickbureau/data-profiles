@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201902_Mauer"
+
+[[person.meta.citation]]
+title = "Kessler & Maguire Funeral Home"
+date = "2019-03-06"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-06"
+
+[person.name]
+last = "Mauer"
+use = "Ken"
+given = "Kenneth J."
+
+[person.birth]
+date = "1927-08-11"
+place.country = "US"
+place.state = "ND"
+place.city = "Hankinson"
+
+[person.death]
+date = "2019-02-26"

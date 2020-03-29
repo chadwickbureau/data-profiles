@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201911_Towns"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2019-12-06"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=walter-stanford-towns&pid=194620713"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-06"
+
+[person.name]
+last = "Towns"
+use = "Walter"
+given = "Walter Stanford"
+
+[person.birth]
+date = "1932-01-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2019-11-02"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "Loyola Marymount University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

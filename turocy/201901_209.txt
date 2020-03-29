@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_209"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Gorcheck"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wichita"
+team.place.country = "US"
+team.place.state = "KS"
+team.place.city = "Wichita"
+team.caliber = "semipro"

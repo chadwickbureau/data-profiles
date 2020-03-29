@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201409_McDonough"
+
+[[person.meta.citation]]
+title = "Heeney-Sundquist Funeral Home"
+date = "2014-09-03"
+url = "http://www.heeney-sundquist.com/sitemaker/sites/Heeney1/obit.cgi?user=1392869McDonough"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-08"
+
+[person.name]
+last = "McDonough"
+use = "Leo"
+given = "Leo R."
+
+[person.birth]
+date = "1926-07-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Swissvale"
+
+[person.death]
+date = "2014-09-05"
+
+[[person.education]]
+school.name = "Central Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittsburgh"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

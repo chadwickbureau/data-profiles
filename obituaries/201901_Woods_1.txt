@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201901_Woods_1"
+
+[[person.meta.citation]]
+title = "Kalamazoo Gazette"
+date = "2019-01-12"
+url = "http://obits.mlive.com/obituaries/kalamazoo/obituary.aspx?n=ralph-woods&pid=191238228&fhid=21006#_ga=2.23913018.1064658060.1547165340-1087388670.1515542837"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-12"
+
+[person.name]
+last = "Woods"
+use = "Ralph"
+given = "Ralph"
+
+[person.birth]
+date = "1941-06-29"
+place.country = "US"
+place.state = "TN"
+place.city = "Knoxville"
+
+[person.death]
+date = "2019-01-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Kalamazoo"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

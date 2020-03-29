@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201409_Staples"
+
+[[person.meta.citation]]
+title = "Pioneer Press"
+date = "2014-09-10"
+url = "http://www.legacy.com/obituaries/twincities/obituary.aspx?n=kenneth-arthur-staples&pid=172412885&fhid=9270&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-08"
+
+[person.name]
+last = "Staples"
+use = "Ken"
+given = "Kenneth Arthur"
+
+[person.birth]
+date = "1926-11-09"
+
+[person.death]
+date = "2014-09-08"
+
+[person.burial]
+cemetery.name = "Fort Snelling National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[[person.education]]
+school.name = "Humboldt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Paul"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

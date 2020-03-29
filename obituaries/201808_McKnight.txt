@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201808_McKnight"
+
+[[person.meta.citation]]
+title = "Williams & Bluitt Funeral Home"
+date = "2018-09-14"
+url = "http://www.williamsandbluitt.com/memsol.cgi?user_id=2133941"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-14"
+
+[person.name]
+last = "McKnight"
+use = "Ira"
+given = "Ira"
+
+[person.birth]
+date = "1935-08-05"
+place.country = "US"
+place.state = "TN"
+place.city = "Trenton"
+
+[person.death]
+date = "2018-08-28"

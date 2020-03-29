@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201904_Eckstine"
+
+[[person.meta.citation]]
+title = "Muellers Funeral Home"
+date = "2019-05-07"
+url = "https://www.muellersfuneralhomes.com/obituaries/Orville-Eckstine/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-07"
+
+[person.name]
+last = "Eckstine"
+use = "Jolty"
+given = "Orville N."
+
+[person.birth]
+date = "1928-09-16"
+place.country = "US"
+place.state = "IA"
+place.city = "Webster City"
+
+[person.death]
+date = "2019-04-25"
+place.country = "US"
+place.state = "WA"
+place.city = "Burbank"
+
+[person.burial]
+cemetery.name = "Logan Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Sioux City"
+
+[[person.education]]
+school.name = "Webster City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Webster City"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201901_Flory"
+
+[[person.meta.citation]]
+title = "Brainard Funeral Home"
+date = "2019-01-16"
+url = "https://www.brainardfuneral.com/notices/RGTurk-Flory"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Flory"
+use = "Turk"
+given = "R. G."
+
+[person.birth]
+date = "1932-02-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[person.death]
+date = "2019-01-11"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[[person.education]]
+school.name = "Wausau HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Wausau"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

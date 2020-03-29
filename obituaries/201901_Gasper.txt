@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_Gasper"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2019-02-01"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=ronald-gasper&pid=191416923&fhid=20284"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-01"
+
+[person.name]
+last = "Gasper"
+use = "Ron"
+given = "Ronald"
+
+[person.birth]
+date = "1939-07-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2019-01-30"
+
+[person.burial]
+cemetery.name = "Holy Sepulchre Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Hayward"
+
+[[person.education]]
+school.name = "Castlemont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"

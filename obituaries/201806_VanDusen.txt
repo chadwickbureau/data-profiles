@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201806_VanDusen"
+
+[[person.meta.citation]]
+title = "Austin Funeral Home"
+date = "2018-10-04"
+url = "ttp://www.austinfuneralservice.com/deceased/fred-van-dusen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Van Dusen"
+use = "Fred"
+given = "Frederick William"
+
+[person.birth]
+date = "1937-07-31"
+place.country = "US"
+place.state = "NY"
+place.city = "Jackson Heights"
+
+[person.death]
+date = "2018-06-01"

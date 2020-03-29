@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201906_Ballard"
+
+[[person.meta.citation]]
+title = "Spezzi Funeral Home"
+date = "2019-06-19"
+url = "https://www.spezzifuneralhome.com/memorials/robert--ballard/3875167/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Ballard"
+use = "Dan"
+given = "Robert Daniel"
+
+[person.birth]
+date = "1956-04-28"
+place.country = "US"
+place.state = "MI"
+place.city = "Northville"
+
+[person.death]
+date = "2019-06-14"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Brunswick"

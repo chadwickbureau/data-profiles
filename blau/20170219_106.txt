@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170219_106"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1929-07-24"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1932-04-03"
+pages = "18"
+
+[person.name]
+last = "Binder"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Topeka"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Denver"
+team.league.name = "Western League"

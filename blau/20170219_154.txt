@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170219_154"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1919-04-04"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Winnipeg Free Press"
+date = "1919-05-27"
+pages = "3"
+
+[person.name]
+last = "Brautigan"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Superior"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Saskatoon"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Saskatoon"
+team.league.name = "Western Canada League"

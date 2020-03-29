@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201911_Petrazzolo"
+
+[[person.meta.citation]]
+title = "Casey Funeral Home"
+date = "2019-11-22"
+url = "https://www.dignitymemorial.com/obituaries/staten-island-ny/edwin-petrazzolo-8934670"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-22"
+
+[person.name]
+last = "Petrazzolo"
+use = "Ed"
+given = "Edwin T."
+
+[person.birth]
+date = "1924-11-28"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2019-11-20"
+place.country = "US"
+place.state = "NY"
+place.city = "Staten Island"
+
+[person.burial]
+cemetery.name = "Moravian Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Staten Island"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

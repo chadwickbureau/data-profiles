@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "Andrews_Hubert_Carl"
+
+[person.name]
+last = "Andrews"
+use = "Hub"
+given = "Hubert Carl"
+
+[person.birth]
+date = "1922-08-31"
+place.country = "US"
+place.state = "OK"
+place.city = "Burbank"
+
+[person.death]
+date = "2012-03-11"
+place.country = "US"
+place.state = "OK"
+place.city = "Dodge City"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "170"
+
+[[person.alias]]
+name.last = "Andrews"
+name.use = "Hubert"
+name.given = "Hubert Henry"
+type = "alias"
+
+[[person.alias]]
+name.last = "Andrews"
+name.use = "Herbert"
+name.given = "Herbert Carl"
+type = "alias"
+
+
+[[person.resides]]
+dates = "2001"
+place.country = "US"
+place.state = "KS"
+place.city = "Dodge City"
+place.address = "2035 2nd Street"
+place.zip = "67801"
+
+
+[[person.education]]
+school.name = "Ponca City High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Ponca City"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Independence College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "KS"
+
+
+[[person.military]]
+country = "US"
+dates = "1943/1945"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1941"
+team.name = "Independence"
+team.league.name = "Ban Johnson League"
+team.place.country = "US"
+team.place.state = "KS"
+team.place.city = "Independence"

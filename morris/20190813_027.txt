@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190813_027"
+
+[[person.meta.citation]]
+title = "Chambersburg Public Opinion 1916-06-08"
+pages = "6"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Spencer"
+use = "Ben"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"

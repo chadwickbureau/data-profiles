@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201904_Sullivan"
+
+[[person.meta.citation]]
+title = "Develin-Rosmos-Kepp-Gatcha Funeral Home"
+date = "2019-05-01"
+url = "https://www.gatchafuneral.com/notices/LucasLuke-Sullivan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-01"
+
+[person.name]
+last = "Sullivan"
+use = "Luke"
+given = "Lucas McCall"
+
+[person.birth]
+date = "1975-07-10"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+[person.death]
+date = "2019-04-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Limerick"
+
+[[person.education]]
+school.name = "Longmont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Longmont"
+
+[[person.education]]
+school.name = "New Mexico State University"
+school.type = "college"

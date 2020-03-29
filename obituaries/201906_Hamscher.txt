@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201906_Hamscher"
+
+[[person.meta.citation]]
+title = "Brubaker Funeral Home"
+date = "2019-06-19"
+url = "https://www.brubakerfuneralhome.com/obituaries/Richard--R-Dick-Hamscher?obId=4498148#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Hamscher"
+use = "Dick"
+given = "Richard E."
+
+[person.birth]
+date = "1933-11-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Emmaus"
+
+[person.death]
+date = "2019-06-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Lower Saucon Township"
+
+[person.burial]
+cemetery.name = "St. Peter's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Coplay"
+
+[[person.education]]
+school.name = "Emmaus HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Emmaus"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201905_Farmer"
+
+[[person.meta.citation]]
+title = "Seawright Funeral Home"
+date = "2019-05-21"
+url = "http://seawrightfuneralhome.tributes.com/obituary/show/David-Eugene-Farmer-107117501"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-21"
+
+[person.name]
+last = "Farmer"
+use = "David"
+given = "David Eugene"
+
+[person.birth]
+date = "1934-03-13"
+place.country = "US"
+place.state = "SC"
+place.city = "Spartanburg"
+
+[person.death]
+date = "2019-05-20"
+place.country = "US"
+place.state = "SC"
+place.city = "Inman"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

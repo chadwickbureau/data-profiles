@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201905_Raccuglia"
+
+[[person.meta.citation]]
+title = "Mueller Funeral Home"
+date = "2019-05-22"
+url = "https://www.muellerfh.com/obituaries/Anthony-C-Raccuglia?obId=4416396#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-22"
+
+[person.name]
+last = "Raccuglia"
+use = "Anthony"
+given = "Anthony C."
+
+[person.birth]
+date = "1933-09-04"
+place.country = "US"
+place.state = "IL"
+place.city = "La Salle"
+
+[person.death]
+date = "2019-05-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.burial]
+cemetery.name = "St. Vincent Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "La Salle"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

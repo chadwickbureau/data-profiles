@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201807_Gentry"
+
+[[person.meta.citation]]
+title = "Oakley-Cook Funeral Home"
+date = "2018-08-03"
+url = "http://www.oakley-cook.com/obituaries/Harvey-Gentry/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-03"
+
+[person.name]
+last = "Gentry"
+use = "Harvey"
+given = "Harvey William"
+
+[person.birth]
+date = "1926-05-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston Salem"
+
+[person.death]
+date = "2018-07-01"
+
+[person.burial]
+cemetery.name = "Glenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Bristol"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201407_Zych"
+
+[[person.meta.citation]]
+title = "Kansas City Star"
+date = "2014-07-17"
+url = "http://www.legacy.com/obituaries/kansascity/obituary.aspx?n=ALEXANDER-ZYCH&pid=171753677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-17"
+
+[person.name]
+last = "Zych"
+use = "Alex"
+given = "Alexander"
+
+[person.birth]
+date = "1926-09-12"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+
+[person.death]
+date = "2014-07-14"
+place.country = "US"
+place.state = "MO"
+place.city = "Columbia"
+
+[[person.education]]
+school.name = "Wyandotte HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Kansas City"

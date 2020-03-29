@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201812_Scott_Jon"
+
+[[person.meta.citation]]
+title = "Myers Mortuary"
+date = "2018-12-31"
+url = "https://www.myersmortuary.com/obituaries/Jon-Scott-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-31"
+
+[person.name]
+last = "Scott"
+use = "Jon"
+given = "Jon Carlton"
+
+[person.birth]
+date = "1942-08-08"
+
+[person.death]
+date = "2018-12-23"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[[person.education]]
+school.name = "Lebanon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Lebanon"

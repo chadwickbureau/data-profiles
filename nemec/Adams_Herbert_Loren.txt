@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Herbert_Loren"
+
+[person.name]
+last = "Adams"
+use = "Herb"
+given = "Herbert Loren"
+
+[person.birth]
+date = "1928-04-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Hollywood"
+
+[person.death]
+date = "2012-02-01"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "69"
+weight = "165"
+
+[person.sameas]
+ssn = "329-22-4999"
+
+[[person.resides]]
+dates = "2003"
+place.country = "US"
+place.state = "IL"
+place.city = "Wheaton"
+place.address = "903 South Williston"
+place.zip = "60167"
+
+
+[[person.education]]
+school.name = "Northern Illinois State Teachers College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "DeKalb"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"

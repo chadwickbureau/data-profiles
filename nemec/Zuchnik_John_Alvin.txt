@@ -1,0 +1,118 @@
+[[person]]
+
+[person.meta]
+key = "Zuchnik_John_Alvin"
+
+[person.name]
+last = "Zuchnik"
+use = "John"
+given = "John Alvin"
+
+[person.birth]
+date = "1928-06-01"
+place.country = "US"
+place.state = "MI"
+place.city = "Pinconning"
+
+[person.death]
+date = "2013-11-29"
+place.country = "US"
+place.state = "MI"
+place.city = "Sterling"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "185"
+
+[person.sameas]
+ssn = "371-28-4538"
+
+[[person.resides]]
+dates = "1950"
+place.country = "US"
+place.state = "MI"
+place.city = "Bay City"
+place.address = "1211 N. Jackson"
+
+
+[[person.education]]
+school.name = "Pinconning High School"
+school.type = "secondary"
+dates = "/1947"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"
+
+
+[[person.playing]]
+season = "1947"
+league.name = "Ohio State League"
+splits.0.team.name = "Lima"
+totals.P_G = "12"
+totals.P_CG = "2"
+totals.P_IP = "53"
+totals.P_W = "2"
+totals.P_L = "3"
+totals.P_PCT = ".400"
+totals.P_H = "70"
+totals.P_BB = "27"
+totals.P_SO = "29"
+totals.P_R = "55"
+totals.P_ER = "47"
+totals.P_ERA = "7.98"
+
+[[person.playing]]
+season = "1948"
+league.name = "Wisconsin State League"
+splits.0.team.name = "Wisconsin Rapids"
+totals.P_G = "38"
+totals.P_CG = "4"
+totals.P_IP = "132"
+totals.P_W = "12"
+totals.P_L = "5"
+totals.P_PCT = ".706"
+totals.P_H = "148"
+totals.P_BB = "43"
+totals.P_SO = "75"
+totals.P_R = "82"
+totals.P_ER = "57"
+totals.P_ERA = "3.89"
+
+[[person.playing]]
+season = "1949"
+league.name = "Northern League"
+splits.0.team.name = "Superior"
+totals.P_G = "24"
+totals.P_CG = "0"
+totals.P_IP = "45"
+totals.P_W = "5"
+totals.P_L = "4"
+totals.P_PCT = ".556"
+totals.P_H = "47"
+totals.P_BB = "15"
+totals.P_SO = "20"
+totals.P_R = "22"
+totals.P_ER = "20"
+totals.P_ERA = "4.00"
+
+[[person.playing]]
+season = "1950"
+league.name = "Three-I League"
+splits.0.team.name = "Waterloo"
+totals.P_G = "43"
+totals.P_CG = "0"
+totals.P_IP = "100"
+totals.P_W = "8"
+totals.P_L = "7"
+totals.P_PCT = ".533"
+totals.P_H = "100"
+totals.P_BB = "31"
+totals.P_SO = "44"
+totals.P_R = "56"
+totals.P_ER = "44"
+totals.P_ERA = "3.96"

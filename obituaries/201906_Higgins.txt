@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "201906_Higgins"
+
+[[person.meta.citation]]
+title = "Bruce A. Nalesnik Funeral Home"
+date = "2019-06-19"
+url = "https://www.nalesnikfh.com/notices/Louis-HigginsJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-19"
+
+[person.name]
+last = "Higgins"
+use = "Lou"
+given = "Louis"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-03-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Nesquehoning"
+
+[person.death]
+date = "2019-06-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Lehighton"
+
+[person.burial]
+cemetery.name = "Sky-View Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Hometown"
+
+[[person.education]]
+school.name = "Nesquehoning HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Nesquehoning"
+
+[[person.education]]
+school.name = "Duke University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"

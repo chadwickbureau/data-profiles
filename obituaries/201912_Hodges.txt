@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201912_Hodges"
+
+[[person.meta.citation]]
+title = "Victoria Times Colonist"
+date = "2020-01-02"
+url = "https://www.legacy.com/obituaries/timescolonist/obituary.aspx?n=steven-lowell-hodges&pid=194893809&fhid=7253"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Hodges"
+use = "Steven"
+given = "Steven Lowell"
+
+[person.birth]
+date = "1966-02-23"
+place.country = "US"
+place.state = "CO"
+place.city = "Colorado Springs"
+
+[person.death]
+date = "2019-12-27"
+
+[[person.education]]
+school.name = "Parkland SS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "BC"
+school.place.city = "Sidney"
+
+[[person.education]]
+school.name = "Hawaii Pacific University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Lewis-Clark State College"
+school.type = "college"

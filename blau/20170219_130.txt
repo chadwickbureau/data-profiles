@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170219_130"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1928-10-29"
+pages = "14"
+
+[[person.meta.citation]]
+title = "1920 U. S. Census"
+
+[person.name]
+last = "Bolen"
+use = "Jarvis"
+given = "Jarvis M."
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bolen"
+person.name.use = "Charlie"
+person.name.given = "Charlie"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "York"
+team.league.name = "Nebraska State League"

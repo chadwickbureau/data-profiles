@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201908_Duffy"
+
+[[person.meta.citation]]
+title = "Hull Funeral Home"
+date = "2019-09-01"
+url = "https://www.hullfuneralservice.com/notices/Thomas-Duffy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Duffy"
+use = "Thomas"
+given = "Thomas Michael"
+
+[person.birth]
+date = "1933-05-10"
+place.country = "US"
+place.state = "NY"
+place.city = "Yonkers"
+
+[person.death]
+date = "2019-08-22"
+place.country = "US"
+place.state = "CT"
+place.city = "Danbury"
+
+[person.burial]
+cemetery.name = "St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Bethel"
+
+[[person.military]]
+country = "US"
+branch = "Army"

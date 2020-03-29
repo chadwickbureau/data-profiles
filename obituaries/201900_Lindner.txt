@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201900_Lindner"
+
+[[person.meta.citation]]
+title = "Hansen Mortuaries & Cemetery"
+date = "2019-11-06"
+url = "https://www.hansenmortuary.com/william-robert-lindner/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-06"
+
+[person.name]
+last = "Lindner"
+use = "Bill"
+given = "William Robert"
+
+[person.birth]
+date = "1941-03-20"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+[person.death]
+date = "2019"
+
+[[person.education]]
+school.name = "West Phoenix HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Phoenix"

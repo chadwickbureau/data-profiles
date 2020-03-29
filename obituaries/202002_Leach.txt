@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202002_Leach"
+
+[[person.meta.citation]]
+title = "Calfee Funeral Home"
+date = "2020-02-03"
+url = "https://www.tributearchive.com/obituaries/10816631/Eugene-Spot-Leach"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-03"
+
+[person.name]
+last = "Leach"
+use = "Spot"
+given = "Eugene"
+
+[person.birth]
+date = "1927-08-26"
+place.country = "US"
+place.state = "WV"
+place.city = "Monroe County"
+
+[person.death]
+date = "2020-02-02"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Beckley"
+
+[[person.education]]
+school.name = "James Monroe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Lindside"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

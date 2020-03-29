@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "197106_Maloney"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1971-06-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-10"
+
+[person.name]
+last = "Maloney"
+use = "John"
+given = "John T."
+
+[person.death]
+date = "1971-06-24"
+place.country = "US"
+place.state = "MA"
+place.city = "North Cambridge"
+
+[person.description]
+note = [ "Husband of Claire (Gervais) Maloney" ]

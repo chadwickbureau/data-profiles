@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201903_Hersha"
+
+[[person.meta.citation]]
+title = "Gorsline Runciman Funeral Homes"
+date = "2020-01-18"
+url = "https://www.dignitymemorial.com/obituaries/lansing-mi/james-hersha-8207468"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-18"
+
+[person.name]
+last = "Hersha"
+use = "James"
+given = "James Henry"
+
+[person.birth]
+date = "1928-01-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Woodbridge Township"
+
+[person.death]
+date = "2019-03-15"
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Ledge"
+
+[person.burial]
+cemetery.name = "Maple Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Reading"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "200901_Allen"
+
+[[person.meta.citation]]
+title = "Biloxi Sun Herald"
+date = "2009-01-09"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+date = "2014-06-04"
+
+[person.name]
+last = "Allen"
+use = "Gene"
+given = "Herman Eugene"
+
+[person.birth]
+date = "1951-08-26"
+place.country = "US"
+place.state = "MS"
+place.city = "Biloxi"
+
+[person.death]
+date = "2009-01-07"
+place.country = "US"
+place.state = "MS"
+place.city = "Southaven"
+
+[[person.education]]
+school.name = "Biloxi HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Biloxi"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"

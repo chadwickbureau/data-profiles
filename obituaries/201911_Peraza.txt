@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201911_Peraza"
+
+[[person.meta.citation]]
+title = "Vanguardia.com.mx"
+date = "2019-11-05"
+url = "https://vanguardia.com.mx/articulo/muere-el-ex-lanzador-mexicano-jose-indio-peraza"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-23"
+
+[person.name]
+last = "Peraza"
+use = "Jose"
+given = "Jose"
+nick = "Indio"
+
+[person.birth]
+date = "1928-08-10"
+place.country = "MX"
+place.city = "Merida"
+
+[person.death]
+date = "2019-11-04"

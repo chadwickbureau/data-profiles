@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_060"
+
+[[person.meta.citation]]
+title = "Hartford Courant 1915-08-06"
+pages = "16"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Keliher"
+use = "Mickey"
+given = "Mickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "1B"

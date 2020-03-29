@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201901_Hession"
+
+[[person.meta.citation]]
+title = "Morris, O'Connor & Blute Funeral Home"
+date = "2020-01-20"
+url = "https://www.ccgfuneralhome.com/obit/michael-augustine-hession-iii"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Hession"
+use = "Michael"
+given = "Michael Augustine"
+suffix = "III"
+
+[person.birth]
+date = "1927-10-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Millville"
+
+[person.death]
+date = "2019-01-27"
+
+[[person.education]]
+school.name = "Dean Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Franklin"
+
+[[person.education]]
+school.name = "St. Anselm College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

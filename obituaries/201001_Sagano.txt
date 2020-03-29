@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201001_Sagano"
+
+[[person.meta.citation]]
+title = "OB News"
+date = "2010"
+url = "http://search.obclub.or.jp/201206kara/backnumber/45.pdf"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Sagano"
+use = "Noboru"
+given = "Noboru"
+
+[person.death]
+date = "2010-01-31"

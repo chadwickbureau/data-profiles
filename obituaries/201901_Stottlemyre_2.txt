@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_Stottlemyre_2"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2019-01-18"
+url = "https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=mel-stottlemyre&pid=191288732&fhid=11546"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-18"
+
+[person.name]
+last = "Stottlemyre"
+use = "Mel"
+given = "Melvin Leon"
+suffix = "Sr."
+
+[person.birth]
+date = "1941-11-13"
+place.country = "US"
+place.state = "MO"
+place.city = "Hazleton"
+
+[person.death]
+date = "2019-01-13"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"

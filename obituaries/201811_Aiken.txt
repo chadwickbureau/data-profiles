@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201811_Aiken"
+
+[[person.meta.citation]]
+title = "Daily Astorian"
+date = "2018-11-28"
+url = "http://www.dailyastorian.com/obituaries/20181128/obituary-ernest-william-aiken"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Aiken"
+use = "Ernie"
+given = "Ernest William"
+
+[person.birth]
+date = "1931-11-12"
+place.country = "US"
+place.state = "WA"
+
+[person.death]
+date = "2018-11-20"
+place.country = "US"
+place.state = "OR"
+place.city = "Astoria"
+
+[[person.education]]
+school.name = "Raymond HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Raymond"

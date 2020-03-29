@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_059"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Miller"
+use = "Clayton"
+given = "Clayton"
+nick = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"

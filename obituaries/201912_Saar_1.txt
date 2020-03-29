@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201912_Saar_1"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2019-12-27"
+url = "https://www.newsday.com/long-island/obituaries/east-rockaway-s-william-saar-1.39917108"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-30"
+
+[person.name]
+last = "Saar"
+use = "William"
+given = "William R."
+
+[person.death]
+date = "2019-12-24"
+
+[person.burial]
+cemetery.name = "St. Charles Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "East Farmingdale"
+
+[[person.education]]
+school.name = "John Adams HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Queens"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"

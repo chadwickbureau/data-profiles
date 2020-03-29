@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201904_DeJohn"
+
+[[person.meta.citation]]
+title = "Palm Funeral Home"
+date = "2019-04-25"
+url = "https://palmfh.com/tribute/details/713/O-Neil-DeJohn/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-25"
+
+[person.name]
+last = "DeJohn"
+use = "O’Neil"
+given = "O’Neil Michael"
+
+[person.birth]
+date = "1929-11-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Geneva"
+
+[person.death]
+date = "2019-04-07"
+place.country = "US"
+place.state = "NY"
+place.city = "Waterloo"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201808_Freeman"
+
+[[person.meta.citation]]
+title = "Hamlett-Dobson Funeral Home"
+date = "2018-08-12"
+url = "https://www.hamlettdobson.com/obituaries/Guerney-Freeman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-12"
+
+[person.name]
+last = "Freeman"
+use = "Gus"
+given = "Guerney"
+
+[person.birth]
+date = "1923-07-15"
+
+[person.death]
+date = "2018-08-06"
+place.country = "US"
+place.state = "TN"
+place.city = "Knoxville"
+
+[person.burial]
+cemetery.name = "Zion United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Baileyton"
+
+[[person.education]]
+school.name = "Dobyns-Bennett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Kingsport"
+
+[[person.education]]
+school.name = "College of William & Mary"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

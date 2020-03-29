@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201903_Pearson"
+
+[[person.meta.citation]]
+title = "Stufflebean-Coffey Funeral Home"
+date = "2019-03-25"
+url = "https://www.stufflebeanfuneralhome.com/obituary/lloyd-pearson?lud=6C6FCBEFD494C706A954F734895FFCDD"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-25"
+
+[person.name]
+last = "Pearson"
+use = "Lloyd"
+given = "Lloyd"
+
+[person.birth]
+date = "1922-10-28"
+place.country = "US"
+place.state = "OK"
+place.city = "Stratford"
+
+[person.death]
+date = "2019-03-19"
+place.country = "US"
+place.state = "OK"
+place.city = "Pauls Valley"
+
+[person.burial]
+cemetery.name = "Mt. Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Pauls Valley"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

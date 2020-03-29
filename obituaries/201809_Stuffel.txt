@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201809_Stuffel"
+
+[[person.meta.citation]]
+title = "Gordon Funeral Home"
+date = "2018-09-11"
+url = "https://www.gordonfuneralhomes.com/notices/Paul-Stuffel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-11"
+
+[person.name]
+last = "Stuffel"
+use = "Paul"
+given = "Paul H."
+
+[person.birth]
+date = "1927-03-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Canton"
+
+[person.death]
+date = "2018-09-09"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Canton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

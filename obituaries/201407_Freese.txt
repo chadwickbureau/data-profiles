@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201407_Freese"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2014-08-02"
+url = "http://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=George-Freese&pid=171945193"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-02"
+
+[person.name]
+last = "Freese"
+use = "George"
+given = "George Walter"
+nick = "Bud"
+
+[person.birth]
+date = "1926-09-12"
+place.country = "US"
+place.state = "WV"
+place.city = "Wheeling"
+
+[person.death]
+date = "2014-07-27"
+
+[[person.education]]
+school.name = "University of Pittsburgh"
+school.type = "college"
+
+[[person.education]]
+school.name = "West Virginia University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

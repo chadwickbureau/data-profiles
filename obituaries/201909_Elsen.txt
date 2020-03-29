@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201909_Elsen"
+
+[[person.meta.citation]]
+title = "Hillcrest Memorial Center"
+date = "2019-09-17"
+url = "https://www.hillcrestmemorialcenter.com/obituaries/James-Elsen/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-17"
+
+[person.name]
+last = "Elsen"
+use = "Jim"
+given = "James Reginald"
+
+[person.birth]
+date = "1940-09-08"
+place.country = "US"
+place.state = "WI"
+place.city = "Kenosha"
+
+[person.death]
+date = "2019-09-05"

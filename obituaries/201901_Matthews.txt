@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_Matthews"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2019-01-06"
+url = "https://www.dignitymemorial.com/obituaries/charlotte-nc/luther-matthews-8109402"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-06"
+
+[person.name]
+last = "Matthews"
+use = "Buster"
+given = "Luther Hubert"
+
+[person.birth]
+date = "1926-07-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Asheville"
+
+[person.death]
+date = "2019-01-04"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

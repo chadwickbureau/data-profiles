@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Barrett_John_Joseph"
+
+[person.name]
+last = "Barrett"
+use = "John"
+given = "John Joseph"
+
+[person.birth]
+date = "1915-12-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[person.death]
+date = "1974-08-17"
+place.country = "US"
+place.state = "NH"
+place.city = "Seabrook"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "70.5"
+weight = "170"

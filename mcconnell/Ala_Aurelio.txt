@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Ala_Aurelio"
+
+[person.name]
+last = "Ala"
+use = "Aurelio"
+given = "Aurelio"
+matrilineal = "Hechavarria"
+
+[person.birth]
+date = "1930-08-03"
+place.country = "CU"
+place.city = "Santiago de Cuba"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "200"

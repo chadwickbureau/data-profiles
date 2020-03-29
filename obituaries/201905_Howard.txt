@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201905_Howard"
+
+[[person.meta.citation]]
+title = "kdMiner.com"
+date = "2019-05-18"
+url = "https://kdminer.com/news/2019/may/18/obituary-notice-lawrence-rayford-larry-howard/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-12"
+
+[person.name]
+last = "Howard"
+use = "Larry"
+given = "Lawrence Rayford"
+
+[person.birth]
+date = "1945-06-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.death]
+date = "2019-05-11"
+place.country = "US"
+place.state = "AZ"
+place.city = "Kingman"

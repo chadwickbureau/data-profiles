@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201907_Barry"
+
+[[person.meta.citation]]
+title = "The Intelligencer"
+date = "2019-07-28"
+url = "https://www.legacy.com/obituaries/theintell/obituary.aspx?n=thomas-j-barry&pid=193497973&fhid=4634"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Barry"
+use = "Tom"
+given = "Thomas J."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Jenkintown"
+
+[person.death]
+date = "2019-07-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Spring City"
+
+[person.burial]
+cemetery.name = "Washington Crossing National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Newtown"
+
+[[person.education]]
+school.name = "Jenkintown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Jenkintown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

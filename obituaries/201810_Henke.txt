@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201810_Henke"
+
+[[person.meta.citation]]
+title = "Gorman Funeral Home"
+date = "2018-10-22"
+url = "https://www.gormanfh.com/obits/obituary.php?id=668475"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-22"
+
+[person.name]
+last = "Henke"
+use = "Larry"
+given = "Lawrence C."
+
+[person.birth]
+date = "1934-01-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Fashing"
+
+[person.death]
+date = "2018-10-12"
+place.country = "US"
+place.state = "WY"
+place.city = "Douglas"
+
+[[person.education]]
+school.name = "St. John's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "San Antonio"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_108"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1922-03-22"
+pages = "14"
+
+[person.name]
+last = "Hanley"
+use = "Ed"
+given = "Ed"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"

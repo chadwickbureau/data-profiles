@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_056"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1920-09-16"
+
+[person.name]
+last = "Erwin"
+use = "Loren"
+given = "Loren"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Mitchell"
+team.league.name = "South Dakota League"

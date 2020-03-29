@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "Zander_Joseph_Hugh"
+
+[person.name]
+last = "Zander"
+use = "Joe"
+given = "Joseph Hugh"
+
+[person.birth]
+date = "1923-01-10"
+place.country = "US"
+place.state = "OR"
+place.city = "Salem"
+
+[person.death]
+date = "2012-10-15"
+place.country = "US"
+place.state = "CA"
+place.city = "El Segundo"
+
+[person.description]
+bats = "L"
+throws = "L"
+
+[[person.playing]]
+season = "1947"
+league.name = "Florida International League"
+splits.0.team.name = "St. Petersburg"
+totals.F_POS = "1B"
+totals.B_G = "4"
+totals.B_AB = "11"
+totals.B_R = "3"
+totals.B_H = "3"
+totals.B_AVG = ".273"
+
+[[person.playing]]
+season = "1947"
+league.name = "Florida State League"
+splits.0.team.name = "Daytona Beach"
+totals.F_POS = "1B"
+totals.B_G = "121"
+totals.B_AB = "479"
+totals.B_R = "71"
+totals.B_H = "125"
+totals.B_TB = "151"
+totals.B_2B = "18"
+totals.B_3B = "4"
+totals.B_HR = "0"
+totals.B_RBI = "70"
+totals.B_SB = "23"
+totals.B_AVG = ".261"
+
+[[person.playing]]
+season = "1948"
+league.name = "Florida State League"
+splits.0.team.name = "Daytona Beach"
+totals.F_POS = "OF"
+totals.B_G = "138"
+totals.B_AB = "547"
+totals.B_R = "93"
+totals.B_H = "154"
+totals.B_TB = "196"
+totals.B_2B = "20"
+totals.B_3B = "8"
+totals.B_HR = "2"
+totals.B_RBI = "54"
+totals.B_SB = "18"
+totals.B_AVG = ".282"

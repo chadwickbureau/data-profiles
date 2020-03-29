@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170219_031"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1922-03-28"
+pages = "25"
+
+[person.name]
+last = "Pierotti"
+use = "Adolph"
+given = "Adolph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Houston"
+team.league.name = "Texas League"
+description.bats = "R"
+description.throws = "R"

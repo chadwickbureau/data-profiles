@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "201409_Harred"
+
+[[person.meta.citation]]
+title = "Becker Funeral Home"
+date = "2014-10-07"
+url = "http://www.beckerfuneral.com/memsol.cgi?user_id=1427156#"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-07"
+
+[person.name]
+last = "Harred"
+use = "Phil"
+given = "Ronald Phillip"
+
+[person.birth]
+date = "1947-11-24"
+place.country = "US"
+place.state = "OK"
+place.city = "Fletcher"
+
+[person.death]
+date = "2014-09-30"
+place.country = "US"
+place.state = "OK"
+place.city = "Elgin"
+
+[person.burial]
+cemetery.name = "Fletcher Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Fletcher"
+
+[[person.education]]
+school.name = "Fletcher HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Fletcher"
+
+[[person.education]]
+school.name = "Bacone College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Muskogee"
+
+[[person.education]]
+school.name = "Southwestern Oklahoma State University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Weatherford"

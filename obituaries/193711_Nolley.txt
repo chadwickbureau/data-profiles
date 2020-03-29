@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "193711_Nolley"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1937-11-14"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-15"
+
+[person.name]
+last = "Nolley"
+use = "Rufus"
+given = "Rufus L."
+
+[person.death]
+date = "1937-11-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.burial]
+cemetery.name = "McGehee Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Hope Hull"

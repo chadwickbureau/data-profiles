@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Jaber"
+
+[[person.meta.citation]]
+title = "Uecker-Witt Funeral Home"
+date = "2018-12-30"
+url = "https://www.ueckerwitt.com/obituaries/Donald-T-Jaber?obId=3973924#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Jaber"
+use = "Don"
+given = "Donald Thomas"
+
+[person.birth]
+date = "1933-12-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Fond du Lac"
+
+[person.death]
+date = "2018-12-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Fond du Lac"

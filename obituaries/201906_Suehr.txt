@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201906_Suehr"
+
+[[person.meta.citation]]
+title = "Pittsburgh Cremation & Funeral Care"
+date = "2019-06-25"
+url = "https://www.pittsburghcremation.com/obituaries/scott-james-suehr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-25"
+
+[person.name]
+last = "Suehr"
+use = "Scott"
+given = "Scott James"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2019-06-22"

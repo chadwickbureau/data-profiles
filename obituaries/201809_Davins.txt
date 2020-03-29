@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201809_Davins"
+
+[[person.meta.citation]]
+title = "New Haven Register"
+date = "2018-09-25"
+url = "https://www.legacy.com/obituaries/nhregister/obituary.aspx?n=james-robert-davins&pid=190305960"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Davins"
+use = "James"
+given = "James Robert"
+
+[person.birth]
+date = "1933-09-28"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+[person.death]
+date = "2018-09-17"
+
+[[person.education]]
+school.name = "Hillhouse HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New Haven"
+
+[[person.education]]
+school.name = "Arnold College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Milford"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

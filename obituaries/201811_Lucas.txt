@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201811_Lucas"
+
+[[person.meta.citation]]
+title = "Westfield Funeral Home"
+date = "2018-11-21"
+url = "https://www.westfieldfuneralhome.com/notices/Wiliam-LucasJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-21"
+
+[person.name]
+last = "Lucas"
+use = "Bill"
+given = "William Edward"
+suffix = "Jr."
+
+[person.birth]
+date = "1950-12-11"
+place.country = "US"
+place.state = "MA"
+place.city = "Westfield"
+
+[person.death]
+date = "2018-11-14"
+place.country = "US"
+place.state = "MA"
+place.city = "Westfield"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Westfield"
+
+[[person.education]]
+school.name = "Westfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Westfield"

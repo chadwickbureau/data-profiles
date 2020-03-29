@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201406_Davis"
+
+[[person.meta.citation]]
+title = "The Kansan"
+date = "2014-06-11"
+url = "http://www.legacy.com/obituaries/thekansan/obituary.aspx?n=Glenn-Davis&pid=171281888"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-11"
+
+[person.name]
+last = "Davis"
+use = "Glenn"
+given = "Glenn E."
+
+[person.birth]
+date = "1940-08-26"
+place.country = "US"
+place.state = "AR"
+place.city = "Springdale"
+
+[person.death]
+date = "2014-06-05"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"

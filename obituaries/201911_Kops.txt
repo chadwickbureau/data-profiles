@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Kops"
+
+[[person.meta.citation]]
+title = "Linnemann Funeral Home"
+date = "2019-11-22"
+url = "https://www.linnemannfuneralhomes.com/obituary/will-kops/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-22"
+
+[person.name]
+last = "Kops"
+use = "Will"
+given = "Will"
+
+[person.birth]
+date = "1926-12-31"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2019-11-18"
+place.country = "US"
+place.state = "KY"
+place.city = "Edgewood"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Fort Mitchell"
+
+[[person.education]]
+school.name = "Indiana University"
+school.type = "college"

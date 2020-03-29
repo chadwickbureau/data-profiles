@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202003_Howard"
+
+[[person.meta.citation]]
+title = "Island Funeral Home"
+date = "2020-03-11"
+url = "https://islandfuneralhome.com/tribute/details/178875/Roger-Howard/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-11"
+
+[person.name]
+last = "Howard"
+use = "Roger"
+given = "Roger Earl"
+
+[person.birth]
+date = "1931-08-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[person.death]
+date = "2020-03-06"
+
+[[person.education]]
+school.name = "Ferndale HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Ferndale"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

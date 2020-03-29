@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201811_Joffe"
+
+[[person.meta.citation]]
+title = "Desert Sun"
+date = "2018-11-28"
+url = "https://obituaries.desertsun.com/obituaries/thedesertsun/obituary.aspx?n=milton-joffe&pid=190841908"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-28"
+
+[person.name]
+last = "Joffe"
+use = "Milt"
+given = "Milton"
+
+[person.birth]
+date = "1927-02-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2018-11-08"
+
+[person.burial]
+cemetery.name = "Riverside National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Riverside"
+
+[[person.education]]
+school.name = "Franklin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

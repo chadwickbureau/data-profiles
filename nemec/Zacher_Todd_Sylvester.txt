@@ -1,0 +1,132 @@
+[[person]]
+
+[person.meta]
+key = "Zacher_Todd_Sylvester"
+
+[person.name]
+last = "Zacher"
+use = "Todd"
+given = "Todd Sylvester"
+
+[person.birth]
+date = "1959-08-18"
+place.country = "US"
+place.state = "ND"
+place.city = "Bowman"
+
+[person.death]
+date = "2013-09-02"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "71"
+weight = "150"
+
+[person.sameas]
+ssn = "502-88-5926"
+
+[[person.resides]]
+dates = "1983"
+place.country = "US"
+place.state = "ND"
+place.city = "Bismarck"
+place.address = "916 W. Owens"
+place.zip = "58501"
+
+
+[[person.education]]
+school.name = "Century High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ND"
+school.place.city = "Bismarck"
+dates = "/1977"
+degree = "graduated"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"
+
+
+[[person.playing]]
+season = "1981"
+league.name = "Midwest League"
+splits.0.team.name = "Clinton"
+totals.F_POS = "3B-2B"
+totals.B_G = "59"
+totals.B_AB = "207"
+totals.B_R = "31"
+totals.B_H = "39"
+totals.B_TB = "44"
+totals.B_2B = "3"
+totals.B_3B = "1"
+totals.B_HR = "0"
+totals.B_RBI = "19"
+totals.B_SB = "4"
+totals.B_AVG = ".188"
+
+[[person.playing]]
+season = "1982"
+league.name = "Midwest League"
+splits.0.team.name = "Clinton"
+totals.F_POS = "SS-2B-3B"
+totals.B_G = "134"
+totals.B_AB = "482"
+totals.B_R = "88"
+totals.B_H = "115"
+totals.B_TB = "149"
+totals.B_2B = "14"
+totals.B_3B = "4"
+totals.B_HR = "4"
+totals.B_RBI = "40"
+totals.B_SB = "36"
+totals.B_AVG = ".239"
+
+[[person.playing]]
+season = "1983"
+league.name = "California League"
+splits.0.team.name = "Fresno"
+totals.F_POS = "3B-2B-SS-OF"
+totals.B_G = "94"
+totals.B_AB = "326"
+totals.B_R = "48"
+totals.B_H = "70"
+totals.B_TB = "89"
+totals.B_2B = "11"
+totals.B_3B = "4"
+totals.B_HR = "0"
+totals.B_RBI = "40"
+totals.B_SB = "24"
+totals.B_AVG = ".215"
+
+[[person.playing]]
+season = "1983"
+league.name = "Pacific Coast League"
+splits.0.team.name = "Phoenix"
+totals.F_POS = "2B"
+totals.B_G = "12"
+totals.B_AB = "34"
+totals.B_R = "8"
+totals.B_H = "9"
+totals.B_TB = "16"
+totals.B_2B = "2"
+totals.B_3B = "1"
+totals.B_HR = "0"
+totals.B_RBI = "2"
+totals.B_SB = "2"
+totals.B_AVG = ".265"
+
+
+[[person.transaction]]
+date = "1981-06"
+type = "drafted"
+join.name = "San Francisco"
+join.league.name = "National"
+round = "23"
+
+[[person.transaction]]
+date = "1981-06-16"
+type = "signed"
+join.name = "San Francisco"
+join.league.name = "National"

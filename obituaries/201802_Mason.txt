@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201802_Mason"
+
+[[person.meta.citation]]
+title = "The House of Wright Funeral Home"
+date = "2018-10-04"
+url = "https://houseofwrightmortuary.com/tribute/details/2926/Frederick-Mason/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-04"
+
+[person.name]
+last = "Mason"
+use = "Fred"
+given = "Frederick A."
+
+[person.birth]
+date = "1936-02-06"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.death]
+date = "2018-02-20"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[[person.education]]
+school.name = "Howard HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Wilmington"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

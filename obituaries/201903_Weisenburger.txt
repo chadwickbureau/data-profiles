@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201903_Weisenburger"
+
+[[person.meta.citation]]
+title = "Clark Funeral Home"
+date = "2019-03-31"
+url = "https://memorials.clarkfuneralchapel.com/john-weisenburger/3784595/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-31"
+
+[person.name]
+last = "Weisenburger"
+use = "Jack"
+given = "John E."
+
+[person.birth]
+date = "1926-08-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Muskegon"
+
+[person.death]
+date = "2019-03-25"
+place.country = "US"
+place.state = "MI"
+place.city = "Mount Pleasant"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Mount Pleasant"
+
+[[person.education]]
+school.name = "Muskegon Heights HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Muskegon Heights"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"

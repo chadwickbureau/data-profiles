@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_Metz"
+
+[[person.meta.citation]]
+title = "Cotter Funeral Home"
+date = "2019-01-18"
+url = "https://www.cotterfuneralhome.com/obituaries/Nicholas-J-Metz?obId=4020391#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-18"
+
+[person.name]
+last = "Metz"
+use = "Nic"
+given = "Nicholas J."
+
+[person.birth]
+date = "1952-10-15"
+
+[person.death]
+date = "2019-01-14"
+place.country = "US"
+place.state = "WI"
+place.city = "Cooperstown"
+
+[[person.education]]
+school.name = "Denmark HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Denmark"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

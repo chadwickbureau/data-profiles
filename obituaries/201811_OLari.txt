@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201811_OLari"
+
+[[person.meta.citation]]
+title = "Witty Funeral Home"
+date = "2018-11-16"
+url = "https://www.wittyfuneralhome.com/notices/JohnT-OLariSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-16"
+
+[person.name]
+last = "O'Lari"
+use = "John"
+given = "John Timothy"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-09-25"
+place.country = "US"
+place.state = "MA"
+place.city = "Athol"
+
+[person.death]
+date = "2018-11-11"
+place.country = "US"
+place.state = "MA"
+place.city = "Orange"
+
+[person.burial]
+cemetery.name = "Silver Lake Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Athol"
+
+[[person.education]]
+school.name = "Orange HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Orange"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

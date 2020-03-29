@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201907_Kinney"
+
+[[person.meta.citation]]
+title = "WILX.com"
+date = "2019-07-08"
+url = "https://www.wilx.com/content/sports/Former-MSU-Alumni-Director-Kinney-Dies-512431001.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Kinney"
+use = "Jack"
+given = "Jack"
+
+[person.death]
+date = "2019-07-02"
+place.country = "US"
+place.state = "AZ"
+
+[[person.education]]
+school.name = "Morrice HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Morrice"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"

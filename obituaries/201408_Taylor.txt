@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201408_Taylor"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2014-08-28"
+url = "http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=jay-john-taylor&pid=172270384&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-28"
+
+[person.name]
+last = "Taylor"
+use = "Jay"
+given = "Jay John"
+
+[person.birth]
+date = "1988-07-16"
+place.country = "US"
+place.state = "WA"
+place.city = "Yakima"
+
+[person.death]
+date = "2014-08-22"
+
+[[person.education]]
+school.name = "West Seattle HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Seattle"
+
+[[person.education]]
+school.name = "Bellevue College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Bellevue"

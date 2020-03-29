@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201911_Burgin"
+
+[[person.meta.citation]]
+title = "Knoxville News Sentinel"
+date = "2019-11-10"
+url = "https://www.legacy.com/obituaries/knoxnews/obituary.aspx?n=sherrill-burgin&pid=194407546&fhid=19267"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-18"
+
+[person.name]
+last = "Burgin"
+use = "Shirley"
+given = "Sherrill Lewis"
+
+[person.birth]
+date = "1935-03-25"
+place.country = "US"
+place.state = "TN"
+place.city = "Knox County"
+
+[person.death]
+date = "2019-11-08"
+
+[person.burial]
+cemetery.name = "East Tennessee State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Knoxville"
+
+[[person.education]]
+school.name = "Powell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Powell"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+[[person.education]]
+school.name = "Wofford College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

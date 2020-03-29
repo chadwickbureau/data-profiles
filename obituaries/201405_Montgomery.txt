@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201405_Montgomery"
+
+[[person.meta.citation]]
+title = "Idaho Statesman"
+date = "2014-05-18"
+url = "http://www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=James-Montgomery&pid=171060872"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-18"
+
+[person.name]
+last = "Montgomery"
+use = "Jim"
+given = "James"
+
+[person.birth]
+date = "1934-11-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Bakersfield"
+
+[person.death]
+date = "2014-05-15"
+
+[[person.education]]
+school.name = "Arvin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Arvin"

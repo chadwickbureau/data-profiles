@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201810_Iorg"
+
+[[person.meta.citation]]
+title = "Hullinger Mortuary"
+date = "2018-10-15"
+url = "https://www.hullingermortuary.com/notices/Alan-Iorg"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-15"
+
+[person.name]
+last = "Iorg"
+use = "Alan"
+given = "Alan"
+
+[person.birth]
+date = "1940-04-12"
+place.country = "US"
+place.state = "UT"
+place.city = "Fort Duchesne"
+
+[person.death]
+date = "2018-10-06"
+place.country = "US"
+place.state = "UT"
+place.city = "Havana"
+
+[person.burial]
+cemetery.name = "Cedarview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Roosevelt"

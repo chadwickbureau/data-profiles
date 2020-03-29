@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201903_Finnegan"
+
+[[person.meta.citation]]
+title = "Lupton Chapel"
+date = "2019-03-22"
+url = "http://www.luptonchapel.com/obituary/frank-finnegan-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-22"
+
+[person.name]
+last = "Finnegan"
+use = "Frank"
+given = "Frank R."
+suffix = "Jr."
+
+[person.birth]
+date = "1926-06-01"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2019-03-15"
+place.country = "US"
+place.state = "MO"
+place.city = "University City"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.education]]
+school.name = "St. Louis University HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

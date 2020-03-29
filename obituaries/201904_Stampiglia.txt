@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201904_Stampiglia"
+
+[[person.meta.citation]]
+title = "Flynn Funeral Home"
+date = "2019-04-10"
+url = "https://www.flynnfuneral.com/obituary/jerry-stampiglia"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-10"
+
+[person.name]
+last = "Stampiglia"
+use = "Jerry"
+given = "Jerry P."
+
+[person.birth]
+date = "1930-02-09"
+place.country = "US"
+place.state = "NJ"
+place.city = "Perth Amboy"
+
+[person.death]
+date = "2019-04-07"
+place.country = "US"
+place.state = "NJ"
+place.city = "Edison"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Perth Amboy"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

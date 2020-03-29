@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "Baxes_Dimitrios_Speros"
+
+[person.name]
+last = "Baxes"
+use = "Jim"
+given = "Dimitrios Speros"
+
+[person.birth]
+date = "1928-07-05"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "1996-11-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Garden Grove"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "190"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Baxes"
+person.name.use = "Mike"
+person.name.given = "Mike"
+
+
+[[person.military]]
+country = "US"
+dates = "1951/1952"

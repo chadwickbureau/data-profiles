@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201907_Grzenda_1"
+
+[[person.meta.citation]]
+title = "Citizens Voice"
+date = "2019-07-14"
+url = "https://www.citizensvoice.com/sports/grzenda-was-part-of-major-league-baseball-lore-1.2508197"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-14"
+
+[person.name]
+last = "Grzenda"
+use = "Joe"
+given = "Joe"
+
+[person.death]
+date = "2019-07-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Covington Township"
+
+[[person.education]]
+school.name = "Moosic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Moosic"

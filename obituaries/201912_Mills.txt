@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201912_Mills"
+
+[[person.meta.citation]]
+title = "Keefe Funeral Home"
+date = "2019-12-27"
+url = "https://www.keefefuneralhome.com/memorials/harvey-j-mills/4062801/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-27"
+
+[person.name]
+last = "Mills"
+use = "Harvey"
+given = "Harvey J."
+
+[person.birth]
+date = "1935-06-29"
+
+[person.death]
+date = "2019-12-24"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Everett"

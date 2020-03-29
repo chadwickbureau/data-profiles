@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201904_Calcagni"
+
+[[person.meta.citation]]
+title = "Arbor Memorial"
+date = "2019-05-27"
+url = "https://www.arbormemorial.ca/scott-brampton/obituaries/matthew-calcagni/32671"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Calcagni"
+use = "Matt"
+given = "Matthew Alexander"
+
+[person.birth]
+date = "1984-08-11"
+
+[person.death]
+date = "2019-04-09"
+
+[[person.education]]
+school.name = "High Point University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Graceland University"
+school.type = "college"

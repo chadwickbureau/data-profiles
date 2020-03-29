@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201909_Wohltjen"
+
+[[person.meta.citation]]
+title = "Staten Island Advance"
+date = "2019-09-29"
+url = "https://obits.silive.com/obituaries/siadvance/obituary.aspx?n=henry-wohltjen-henny&pid=194027692"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-29"
+
+[person.name]
+last = "Wohltjen"
+use = "Henny"
+given = "Henry"
+suffix = "II"
+
+[person.birth]
+date = "1924-01-16"
+
+[person.death]
+date = "2019-09-27"
+
+[[person.education]]
+school.name = "Tottenville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Staten Island"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

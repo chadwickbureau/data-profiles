@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201809_Welke"
+
+[[person.meta.citation]]
+title = "Saunders & McFarlin Funeral Home"
+date = "2018-10-05"
+url = "https://www.saundersmcfarlin.net/notices/Don-Welke"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Welke"
+use = "Don"
+given = "Don"
+
+[person.death]
+date = "2018-09-19"
+place.country = "US"
+place.state = "CA"
+place.city = "La Jolla"
+
+[person.burial]
+cemetery.name = "Mount Auburn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Harvard"
+
+[[person.education]]
+school.name = "Harvard HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Harvard"
+
+[[person.education]]
+school.name = "Carthage College"
+school.type = "college"

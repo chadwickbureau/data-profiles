@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201812_Soldo"
+
+[[person.meta.citation]]
+title = "Derby Funeral Home"
+date = "2019-01-08"
+url = "https://deryfuneralhome.com/book-of-memories/3691965/Soldo-Edward/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-08"
+
+[person.name]
+last = "Soldo"
+use = "Ed"
+given = "Edward N."
+
+[person.birth]
+date = "1930-04-29"
+place.country = "US"
+place.state = "VT"
+place.city = "Winooski"
+
+[person.death]
+date = "2018-12-28"
+place.country = "US"
+place.state = "MA"
+place.city = "Pittsfield"
+
+[person.burial]
+cemetery.name = "Cheshire Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Cheshire"
+
+[[person.military]]
+country = "US"
+branch = "Army"

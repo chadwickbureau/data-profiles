@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201807_Esposito_2"
+
+[[person.meta.citation]]
+title = "News & Observer"
+date = "2018-07-15"
+url = "https://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=samuel-donato-esposito&pid=189587741"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Esposito"
+use = "Sam"
+given = "Samuel Donato"
+
+[person.birth]
+date = "1931-12-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2018-07-10"
+place.country = "US"
+place.state = "NC"
+place.city = "Newland"
+
+[[person.education]]
+school.name = "Indiana University"
+school.type = "college"

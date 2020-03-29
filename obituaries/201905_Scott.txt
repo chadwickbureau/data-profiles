@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201905_Scott"
+
+[[person.meta.citation]]
+title = "Starbuck-Lind Mortuary"
+date = "2019-05-10"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=cfe52c65-f5f4-4297-a696-027bc1af80b7&CFTOKEN=0&o_id=6274911&fh_id=10898"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-10"
+
+[person.name]
+last = "Scott"
+use = "Jim"
+given = "James Clarke"
+
+[person.birth]
+date = "1942-09-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Huntington Park"
+
+[person.death]
+date = "2019-05-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Lompoc"
+
+[person.burial]
+cemetery.name = "Lompoc Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Lompoc"
+
+[[person.education]]
+school.name = "Huntington Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Huntington Park"

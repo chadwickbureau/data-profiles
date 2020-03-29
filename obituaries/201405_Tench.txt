@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201405_Tench"
+
+[[person.meta.citation]]
+title = "Trail Daily Times"
+date = "2014-06-08"
+url = "http://www.traildailytimes.ca/mobile/obits/?id=10019790"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-08"
+
+[person.name]
+last = "Tench"
+use = "Gordie"
+given = "Gordon Gregory"
+
+[person.birth]
+date = "1931-08-10"
+place.country = "CA"
+place.state = "BC"
+place.city = "Trail"
+
+[person.death]
+date = "2014-05-18"
+place.country = "CA"
+place.state = "BC"
+place.city = "Castlegar"
+
+[[person.education]]
+school.name = "Trail HS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "BC"
+school.place.city = "Trail"

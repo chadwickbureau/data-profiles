@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Costello"
+
+[[person.meta.citation]]
+title = "CTPost.com"
+date = "2019-11-18"
+url = "https://www.ctpost.com/local/article/Pro-baseball-player-from-CT-found-dead-in-New-14842895.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Costello"
+use = "Ryan"
+given = "Ryan"
+
+[person.birth]
+date = "1996-06-13"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2019-11-18"
+place.country = "NZ"
+place.city = "Auckland"
+
+[[person.education]]
+school.name = "Wethersfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Wethersfield"
+
+[[person.education]]
+school.name = "Central Connecticut State University"
+school.type = "college"

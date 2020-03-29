@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bloxsom_Daniel_Edgar"
+
+[person.name]
+last = "Bloxsom"
+use = "Daniel"
+given = "Daniel Edgar"
+
+[person.birth]
+date = "1904-08-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "1994-05-12"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "150"

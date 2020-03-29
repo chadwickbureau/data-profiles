@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201908_Stanford"
+
+[[person.meta.citation]]
+title = "Cedar Memorial"
+date = "2019-08-19"
+url = "https://www.cedarmemorial.com/Obituary/2019/Aug/Richard-D-Stanford/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-19"
+
+[person.name]
+last = "Stanford"
+use = "Richard"
+given = "Richard Dale"
+
+[person.birth]
+date = "1935-10-31"
+place.country = "US"
+place.state = "IA"
+place.city = "Rowley"
+
+[person.death]
+date = "2019-08-15"
+place.country = "US"
+place.state = "IA"
+place.city = "Hiawatha"
+
+[[person.military]]
+country = "US"
+branch = "Army"

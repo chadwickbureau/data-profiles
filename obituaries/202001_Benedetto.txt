@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202001_Benedetto"
+
+[[person.meta.citation]]
+title = "Jackson Citizen Patriot"
+date = "2020-01-19"
+url = "https://obits.mlive.com/obituaries/jackson/obituary.aspx?n=arthur-benedetto&pid=195089507"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-19"
+
+[person.name]
+last = "Benedetto"
+use = "Art"
+given = "Arthur"
+
+[person.birth]
+date = "1933-09-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-01-17"
+place.country = "US"
+place.state = "MI"
+place.city = "Jackson"

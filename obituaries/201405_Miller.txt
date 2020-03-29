@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201405_Miller"
+
+[[person.meta.citation]]
+title = "Bucks County Courier Times"
+date = "2014-06-08"
+url = "http://www.buckscountycouriertimes.com/obituaries/intell/james-w-miller/article_bd20d1c1-5c04-50e0-8794-094028399b8c.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-08"
+
+[person.name]
+last = "Miller"
+use = "Jim"
+given = "James W."
+
+[person.birth]
+date = "1928"
+place.country = "US"
+place.state = "PA"
+place.city = "Doylestown"
+
+[person.death]
+date = "2014-05-31"
+
+[[person.military]]
+country = "US"
+branch = "Army"

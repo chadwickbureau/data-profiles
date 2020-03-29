@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201404_Nordberg"
+
+[[person.meta.citation]]
+title = "Mercadante Funeral Home"
+date = "2014-04-30"
+url = "http://www.mercadantefuneral.com/sitemaker/sites/mercad0/obit.cgi?user=1299570Nordberg"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Nordberg"
+use = "Al"
+given = "Alan G."
+
+[person.birth]
+date = "1944-03-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2014-04-27"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.burial]
+cemetery.name = "Old Dominion Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Roanoke"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Worcester"
+
+[[person.education]]
+school.name = "University of Massachusetts"
+school.type = "college"

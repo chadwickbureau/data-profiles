@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201803_Figueroa"
+
+[[person.meta.citation]]
+title = "Dodo Mortuary"
+date = "2019-03-17"
+url = "http://www.dodomortuary.com/obituary/rodolfo-figueroa"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Figueroa"
+use = "Rudy"
+given = "Rodolfo Frank"
+
+[person.birth]
+date = "1935-09-20"
+place.country = "US"
+place.state = "AZ"
+
+[person.death]
+date = "2018-03-17"
+place.country = "US"
+place.state = "HI"
+place.city = "Hilo"
+
+[person.burial]
+cemetery.name = "Alae Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "HI"
+cemetery.place.city = "Hilo"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

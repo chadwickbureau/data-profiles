@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201409_Smith"
+
+[[person.meta.citation]]
+title = "The Fresno Bee"
+date = "2014-10-02"
+url = "http://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=EARL-SMITH&pid=172648647"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-10-02"
+
+[person.name]
+last = "Smith"
+use = "Earl"
+given = "Earl"
+
+[person.birth]
+date = "1928-03-14"
+place.country = "US"
+place.state = "WA"
+place.city = "Sunnyside"
+
+[person.death]
+date = "2014-09-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.burial]
+cemetery.name = "Fresno Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Fresno"
+
+[[person.education]]
+school.name = "Bonita High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "LaVerne"
+
+[[person.education]]
+school.name = "Fresno State College"
+school.type = "college"

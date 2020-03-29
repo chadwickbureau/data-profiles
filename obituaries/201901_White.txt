@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201901_White"
+
+[[person.meta.citation]]
+title = "James Crowder Funeral Home"
+date = "2019-05-27"
+url = "https://www.crowderfuneralhome.com/obituaries/steven-michael-white/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "White"
+use = "Steven"
+given = "Steven Michael"
+
+[person.birth]
+date = "1981-06-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Texas City"
+
+[person.death]
+date = "2019-01-24"
+place.country = "US"
+place.state = "TX"
+place.city = "Webster"
+
+[[person.education]]
+school.name = "Clear Creek HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "League City"
+
+[[person.education]]
+school.name = "Baylor University"
+school.type = "college"

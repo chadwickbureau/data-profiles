@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201409_Welborn"
+
+[[person.meta.citation]]
+title = "The Tribune"
+date = "2014-09-22"
+url = "http://www.legacy.com/obituaries/elkintribune/obituary.aspx?n=Todd-Welborn&pid=172547952"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-22"
+
+[person.name]
+last = "Welborn"
+use = "Todd"
+given = "Todd"
+
+[person.birth]
+date = "1963-11-10"
+place.country = "US"
+place.state = "NC"
+place.city = "Guilford County"
+
+[person.death]
+date = "2014-09-21"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[person.burial]
+cemetery.name = "Temple Hill United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Ronda"

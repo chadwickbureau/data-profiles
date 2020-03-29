@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Barnes_Emile_Deering"
+
+[person.name]
+last = "Barnes"
+use = "Red"
+given = "Emile Deering"
+
+[person.birth]
+date = "1903-12-25"
+place.country = "US"
+place.state = "AL"
+place.city = "Suggsville"
+
+[person.death]
+date = "1959-07-03"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70.5"
+weight = "158"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"

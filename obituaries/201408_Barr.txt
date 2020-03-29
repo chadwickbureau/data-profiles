@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201408_Barr"
+
+[[person.meta.citation]]
+title = "LancasterOnline"
+date = "2014-08-28"
+url = "http://lancasteronline.com/obituaries/richard-k-barr/article_838e674d-9484-5f88-bb51-37b2ff573a82.html?mode=jqm"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Barr"
+use = "Dick"
+given = "Richard K."
+
+[person.birth]
+date = "1932-09-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Lancaster"
+
+[person.death]
+date = "2014-08-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Columbia"
+
+[person.burial]
+cemetery.name = "Conestoga Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Lancaster"
+
+[[person.military]]
+country = "US"
+branch = "Army"

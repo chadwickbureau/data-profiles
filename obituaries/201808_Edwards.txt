@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201808_Edwards"
+
+[[person.meta.citation]]
+title = "San Angelo Standard-Times"
+date = "2018-08-21"
+url = "https://www.gosanangelo.com/story/sports/2018/08/20/longtime-san-angelo-colts-manager-doc-edwards-dies/1043332002/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-21"
+
+[person.name]
+last = "Edwards"
+use = "Doc"
+given = "Howard Rodney"
+
+[person.death]
+date = "2018-08-20"
+
+[[person.military]]
+country = "US"
+branch = "Navy"

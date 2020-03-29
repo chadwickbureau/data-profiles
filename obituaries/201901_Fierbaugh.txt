@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201901_Fierbaugh"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2019-01-16"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=randy-fierbaugh&pid=191271790"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-16"
+
+[person.name]
+last = "Fierbaugh"
+use = "Randy"
+given = "Randy"
+
+[person.death]
+date = "2019-01-10"
+
+[[person.education]]
+school.name = "Ashland University"
+school.type = "college"

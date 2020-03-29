@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20191226_010"
+
+[[person.meta.citation]]
+title = "Thomasville Times Enterprise"
+date = "1915-07-02"
+pages = "7"
+
+[person.name]
+last = "Cooper"
+use = "Ty"
+given = "Ty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brunswick"
+team.league.name = "Florida-Alabama-Georgia League"

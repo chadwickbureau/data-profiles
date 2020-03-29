@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "200201_Ketcher"
+
+[[person.meta.citation]]
+title = "Deseret News"
+date = "2002-01-27"
+url = "https://www.deseret.com/2002/1/27/19633620/obituary-james-ketcher"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-14"
+
+[person.name]
+last = "Ketcher"
+use = "James"
+given = "Simeon Balleu"
+
+[person.birth]
+date = "1913-07-03"
+place.country = "US"
+place.state = "OK"
+place.city = "Cherokee County"
+
+[person.death]
+date = "2002-01-25"
+
+[person.burial]
+cemetery.name = "Valley View Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "West Valley City"

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201903_Yarborough"
+
+[[person.meta.citation]]
+title = "Bailey & Foster Funeral Home"
+date = "2019-03-19"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=cfe52c65-f5f4-4297-a696-027bc1af80b7&CFTOKEN=0&o_id=6122532&fh_id=11982"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-19"
+
+[person.name]
+last = "Yarborough"
+use = "Louis"
+given = "Louis G."
+suffix = "Jr."
+
+[person.birth]
+date = "1921-03-19"
+place.country = "US"
+place.state = "TX"
+place.city = "Freestone County"
+
+[person.death]
+date = "2019-03-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.burial]
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Oakwood"
+
+[[person.education]]
+school.name = "Amarillo College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Texas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

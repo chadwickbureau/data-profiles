@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Bower_1"
+
+[[person.meta.citation]]
+title = "Callaway-Jones Funeral Home"
+date = "2018-12-09"
+url = "https://www.callawayjones.com/fred-bower/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Bower"
+use = "Fred"
+given = "Fred"
+
+[person.birth]
+date = "1936-12-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Waukegan"
+
+[person.death]
+date = "2018-11-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Bryan"
+
+[[person.education]]
+school.name = "San Pedro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Pedro"
+
+[[person.education]]
+school.name = "California State University, Long Beach"
+school.type = "college"

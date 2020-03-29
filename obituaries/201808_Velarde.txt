@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201808_Velarde"
+
+[[person.meta.citation]]
+title = "Lewallen-Garcia-Pipkin Funeral Home"
+date = "2018-08-07"
+url = "http://www.lewallengarciapipkinfh.com/obituary/elias-mali-velarde-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-07"
+
+[person.name]
+last = "Velarde"
+use = "Lee"
+given = "Elias Q."
+suffix = "Jr."
+nick = "El Caballon; Mali"
+
+[person.birth]
+date = "1933-05-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Midland"
+
+[person.death]
+date = "2018-08-04"
+
+[person.burial]
+cemetery.name = "Resthaven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Midland"

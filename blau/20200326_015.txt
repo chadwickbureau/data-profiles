@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20200326_015"
+
+[[person.meta.citation]]
+title = "Fitchburg Sentinel"
+date = "1915-10-25"
+pages = "6"
+
+[person.name]
+last = "Herndon"
+use = "H."
+given = "H. T."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portland"
+team.league.name = "New England League"

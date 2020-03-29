@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bartelli_Arthur_Raymond"
+
+[person.name]
+last = "Bartelli"
+use = "Arthur"
+given = "Arthur Raymond"
+
+[person.birth]
+date = "1914-08-24"
+place.country = "US"
+place.state = "KS"
+place.city = "Frontenac"
+
+[person.death]
+date = "1992-12-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Harlingen"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"

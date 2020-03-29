@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202001_Hall"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2020-01-24"
+url = "https://www.baltimoresun.com/obituaries/bs-md-ob-donald-hall-20200124-pcvjggflkzgk7kxar6653e26yq-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-25"
+
+[person.name]
+last = "Hall"
+use = "Don"
+given = "Donald Earl"
+
+[person.birth]
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2020-01-14"
+place.country = "US"
+place.state = "MD"
+place.city = "Windsor Mill"
+
+[[person.education]]
+school.name = "Southern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"

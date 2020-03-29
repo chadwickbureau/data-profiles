@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_072"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-11"
+pages = "21"
+
+[person.name]
+last = "McMahan"
+use = "Johnnie"
+given = "Johnnie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+description.position = "2B"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wellington"
+team.place.country = "US"
+team.place.state = "TX"
+team.place.city = "Wellington"
+team.caliber = "semipro"

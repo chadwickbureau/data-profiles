@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201712_Arendas"
+
+[[person.meta.citation]]
+title = "James Funeral Home"
+date = "2018-07-20"
+url = "http://jamesfuneralhomelkn.com/daniel-arendas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Arendas"
+use = "Dan"
+given = "Daniel Paul"
+
+[person.death]
+date = "2017-12-11"
+
+[[person.education]]
+school.name = "West Windsor-Plainsboro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Princeton Junction"
+
+[[person.education]]
+school.name = "Princeton University"
+school.type = "college"

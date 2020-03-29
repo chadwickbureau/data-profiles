@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170219_136"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Mulvey"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "York"
+team.league.name = "Nebraska State League"

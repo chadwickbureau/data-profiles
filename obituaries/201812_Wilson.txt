@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201812_Wilson"
+
+[[person.meta.citation]]
+title = "McHoul Funeral Home"
+date = "2018-12-28"
+url = "https://www.mchoulfuneralhome.com/book-of-memories/3683876/Wilson-Walter/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Wilson"
+use = "Walter"
+given = "Walter J."
+
+[person.birth]
+date = "1924-11-19"
+
+[person.death]
+date = "2018-12-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Newburgh"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

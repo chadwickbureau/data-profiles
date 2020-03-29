@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201910_Brown"
+
+[[person.meta.citation]]
+title = "Kraeer Funeral Home"
+date = "2019-10-20"
+url = "https://www.dignitymemorial.com/obituaries/margate-fl/william-brown-8892852"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Brown"
+use = "Bill"
+given = "William Joseph"
+
+[person.birth]
+date = "1931-11-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Uniontown"
+
+[person.death]
+date = "2019-10-17"
+
+[person.burial]
+cemetery.name = "Our Lady Queen of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Fort Lauderdale"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

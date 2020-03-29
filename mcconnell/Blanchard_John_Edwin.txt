@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Blanchard_John_Edwin"
+
+[person.name]
+last = "Blanchard"
+use = "John"
+given = "John Edwin"
+
+[person.birth]
+date = "1933-02-26"
+place.country = "US"
+place.state = "MN"
+place.city = "Minneapolis"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "73"
+weight = "198"
+note = [ "Hit home runs in four consecutive at bats on July 21, 22 and 26, 1961" ]
+
+[[person.military]]
+country = "US"
+dates = "1953/1954"

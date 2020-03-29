@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201910_Cowden"
+
+[[person.meta.citation]]
+title = "Greco-Hertnick Funeral Home"
+date = "2019-10-20"
+url = "https://www.grecohertnick.com/obituaries/Robert-S-Cowden?obId=8263743#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-20"
+
+[person.name]
+last = "Cowden"
+use = "Bob"
+given = "Robert S."
+
+[person.birth]
+date = "1933-12-17"
+place.country = "US"
+place.state = "PA"
+place.city = "Burgettstown"
+
+[person.death]
+date = "2019-10-19"
+place.country = "US"
+place.state = "WV"
+place.city = "Weirton"
+
+[person.burial]
+cemetery.name = "Grandview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Florence"
+
+[[person.education]]
+school.name = "Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Burgettstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

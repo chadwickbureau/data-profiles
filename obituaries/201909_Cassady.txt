@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201909_Cassady"
+
+[[person.meta.citation]]
+title = "Schoedinger Funeral Home"
+date = "2019-09-25"
+url = "https://www.schoedinger.com/obituaries/Howard-Cassady/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-25"
+
+[person.name]
+last = "Cassady"
+use = "Hopalong"
+given = "Howard"
+
+[person.birth]
+date = "1934-03-02"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.death]
+date = "2019-09-20"
+place.country = "US"
+place.state = "FL"
+place.city = "Tampa"
+
+[person.burial]
+cemetery.name = "Dublin Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Dublin"
+
+[[person.education]]
+school.name = "The Ohio State University"
+school.type = "college"

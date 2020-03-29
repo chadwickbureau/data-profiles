@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bell_Lester_Rowland"
+
+[person.name]
+last = "Bell"
+use = "Lester"
+given = "Lester Rowland"
+
+[person.birth]
+date = "1901-12-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Harrisburg"
+
+[person.death]
+date = "1985-12-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Hershey"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "165"

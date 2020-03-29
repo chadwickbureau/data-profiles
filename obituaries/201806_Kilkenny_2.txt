@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201806_Kilkenny_2"
+
+[[person.meta.citation]]
+title = "The Globe & Mail"
+date = "2018-07-16"
+url = "https://www.theglobeandmail.com/sports/baseball/article-pitcher-mike-kilkenny-threw-for-four-teams-in-one-season/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-08"
+
+[person.name]
+last = "Kilkenny"
+use = "Mike"
+given = "Michael David"
+nick = "Killer"
+
+[person.birth]
+date = "1945-04-11"
+place.country = "CA"
+place.state = "ON"
+place.city = "Bradford"
+
+[person.death]
+date = "2018-06-28"
+place.country = "CA"
+place.state = "ON"
+place.city = "London"

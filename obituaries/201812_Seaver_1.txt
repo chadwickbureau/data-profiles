@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "201812_Seaver_1"
+
+[[person.meta.citation]]
+title = "Rose Mortuary"
+date = "2018-12-09"
+url = "https://www.rosemortuary.com/obituaries/George-Seaver/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Seaver"
+use = "Joey"
+given = "George Fulton"
+suffix = "Jr."
+
+[person.death]
+date = "2018-12-03"
+
+[[person.education]]
+school.name = "Walters State Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"

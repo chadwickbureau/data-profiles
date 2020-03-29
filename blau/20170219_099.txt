@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170219_099"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1922-05-24"
+pages = "11"
+
+[person.name]
+last = "Beecher"
+use = "Oscar"
+given = "Oscar"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Brantford"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Brantford"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201807_Rogers"
+
+[[person.meta.citation]]
+title = "Cozine Memorial Group"
+url = "https://www.cozinememorial.com/notices/Eugene-Rogers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Rogers"
+use = "Gene"
+given = "Eugene Douglas"
+
+[person.birth]
+date = "1927-12-14"
+place.country = "US"
+place.state = "KS"
+place.city = "Newton"
+
+[person.death]
+date = "2018-07-07"
+
+[[person.education]]
+school.name = "Newton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Newton"
+
+[[person.education]]
+school.name = "University of Colorado"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

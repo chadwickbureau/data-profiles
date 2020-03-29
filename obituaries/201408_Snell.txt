@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201408_Snell"
+
+[[person.meta.citation]]
+title = "Scranton Times"
+date = "2014-08-13"
+url = "http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=Luke-Snell&pid=172086022"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-16"
+
+[person.name]
+last = "Snell"
+use = "Luke"
+given = "Luke J."
+
+[person.birth]
+date = "1932-11-07"
+
+[person.death]
+date = "2014-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+
+[person.burial]
+cemetery.name = "St. Francis Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Eynon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

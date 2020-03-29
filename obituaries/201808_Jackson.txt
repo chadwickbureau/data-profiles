@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201808_Jackson"
+
+[[person.meta.citation]]
+title = "Memorial Park Funeral Home"
+date = "2018-09-03"
+url = "https://www.memorialparkfuneralandcemetery.com/obits/sonny-j-b-jackson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-03"
+
+[person.name]
+last = "Jackson"
+use = "Sonny"
+given = "J. B."
+suffix = "Jr."
+
+[person.birth]
+date = "1947-09-10"
+place.country = "US"
+place.state = "TX"
+place.city = "Paris"
+
+[person.death]
+date = "2018-08-30"
+place.country = "US"
+place.state = "TN"
+place.city = "Germantown"
+
+[[person.education]]
+school.name = "Roxton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Roxton"

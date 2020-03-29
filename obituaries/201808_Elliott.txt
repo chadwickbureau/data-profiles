@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201808_Elliott"
+
+[[person.meta.citation]]
+title = "Las Vegas Review Journal"
+date = "2018-08-24"
+url = "http://obits.reviewjournal.com/obituaries/lvrj/obituary.aspx?n=kent-eliott-deacon&pid=190020818"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-24"
+
+[person.name]
+last = "Elliott"
+use = "Kent"
+given = "Kent"
+
+[person.birth]
+date = "1936-02-25"
+place.country = "US"
+place.state = "CO"
+place.city = "Golden"
+
+[person.death]
+date = "2018-08-09"
+
+[[person.military]]
+country = "US"
+branch = "Marines"

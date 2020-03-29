@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201912_Cochran"
+
+[[person.meta.citation]]
+title = "AP News"
+date = "2019-12-02"
+url = "https://apnews.com/8df9508533e9418fa752acc216e8859f"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-03"
+
+[person.name]
+last = "Cochran"
+use = "Nielsen"
+given = "Nielsen"
+
+[person.birth]
+place.country = "US"
+place.state = "MS"
+place.city = "Pontotoc"
+
+[person.death]
+date = "2019-12-02"

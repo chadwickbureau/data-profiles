@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201908_Nageleisen"
+
+[[person.meta.citation]]
+title = "Conley Brothers Funeral Home"
+date = "2019-09-01"
+url = "https://www.connleybrothersfuneralhome.com/obituary/karl-v-nageleisen/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-01"
+
+[person.name]
+last = "Nageleisen"
+use = "Karl"
+given = "Karl V."
+
+[person.birth]
+date = "1935-11-24"
+
+[person.death]
+date = "2019-08-23"
+place.country = "US"
+place.state = "KY"
+place.city = "Taylor Mill"
+
+[person.burial]
+cemetery.name = "Mother of God Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Covington"
+
+[[person.education]]
+school.name = "Covington Latin School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Covington"

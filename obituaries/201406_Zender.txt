@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201406_Zender"
+
+[[person.meta.citation]]
+title = "Bellingham Herald"
+date = "2014-06-06"
+url = "http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=Richard-Zender&pid=171239706"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-08"
+
+[person.name]
+last = "Zender"
+use = "Dick"
+given = "Richard Anthony"
+
+[person.birth]
+date = "1922-11-27"
+place.country = "US"
+place.state = "WA"
+place.city = "Bellingham"
+
+[person.death]
+date = "2014-06-03"
+place.country = "US"
+place.state = "WA"
+place.city = "Bellingham"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

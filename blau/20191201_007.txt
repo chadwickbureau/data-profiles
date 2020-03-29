@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20191201_007"
+
+[[person.meta.citation]]
+title = "Fort Collins Colorodoan"
+date = "1929-03-29"
+pages = "10"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Amarillo"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.throws = "R"

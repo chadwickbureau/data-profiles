@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201809_Coville"
+
+[[person.meta.citation]]
+title = "Kalkaska Funeral Home"
+date = "2018-10-05"
+url = "https://www.kalkaskafuneralhome.com/obituaries/Ronald-Coville/?utm_source=facebook&utm_medium=social&utm_campaign=autopost#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-05"
+
+[person.name]
+last = "Coville"
+use = "Ron"
+given = "Ronald Marvin"
+
+[person.birth]
+date = "1937-01-13"
+place.country = "US"
+place.state = "MI"
+place.city = "Lansing"
+
+[person.death]
+date = "2018-09-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Traverse City"
+
+[[person.education]]
+school.name = "Nashville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Nashville"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

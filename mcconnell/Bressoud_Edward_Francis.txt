@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "Bressoud_Edward_Francis"
+
+[person.name]
+last = "Bressoud"
+use = "Edward"
+given = "Edward Francis"
+
+[person.birth]
+date = "1932-05-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+
+[[person.education]]
+school.name = "Los Angeles City College"
+school.type = "college"
+degree = "graduated"
+
+[[person.education]]
+school.name = "San Jose State College"
+school.type = "college"
+degree = "masters"
+
+
+[[person.military]]
+country = "US"
+dates = "1953/1954"

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Pobiak"
+
+[[person.meta.citation]]
+title = "Barranco & Sons Funeral Home"
+date = "2018-12-17"
+url = "https://prod2.meaningfulfunerals.net/obituary/albert-pobiak?fh_id=12483"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Pobiak"
+use = "Al"
+given = "Albert David"
+
+[person.birth]
+date = "1926-06-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Harwick"
+
+[person.death]
+date = "2018-12-11"
+
+[person.burial]
+cemetery.name = "Our Lady of the Fields Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Millersville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

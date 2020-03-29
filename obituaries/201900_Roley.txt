@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201900_Roley"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "2019-05-01"
+url = "https://www.legacy.com/obituaries/cincinnati/obituary.aspx?n=eugene-roley&pid=192747911&fhid=15497"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-30"
+
+[person.name]
+last = "Roley"
+use = "Eugene"
+given = "Eugene"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-01-16"
+
+[person.death]
+date = "2019"

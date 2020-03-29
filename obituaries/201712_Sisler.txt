@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201712_Sisler"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2017-12-19"
+url = "http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=ray-lee-sisler&pid=187569812"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-19"
+
+[person.name]
+last = "Sisler"
+use = "Ray"
+given = "Ray Lee"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-02-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "2017-12-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Elverta"
+
+[[person.education]]
+school.name = "Grant Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"

@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_001"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1921-04-01"
+
+[person.name]
+last = "Rasmussen"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"

@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201808_Griesheimer"
+
+[[person.meta.citation]]
+title = "Ware Funeral Home"
+date = "2018-08-07"
+url = "http://www.warefh.com/obituary/raymond-griesheimer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-07"
+
+[person.name]
+last = "Griesheimer"
+use = "Scotty"
+given = "Raymond Scott"
+
+[person.birth]
+date = "1933-05-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Henderson"
+
+[person.death]
+date = "2018-08-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Chillicothe"
+
+[person.burial]
+cemetery.name = "St. Margaret Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Chillicothe"
+
+[[person.education]]
+school.name = "Chillicothe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Chillicothe"
+
+[[person.education]]
+school.name = "Ohio University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

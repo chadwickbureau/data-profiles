@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201811_Altobelli"
+
+[[person.meta.citation]]
+title = "Exhibit City News"
+date = "2019-02-06"
+url = "https://exhibitcitynews.com/in-memoriam-michael-altobelli/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Altobelli"
+use = "Mike"
+given = "Michael"
+
+[person.birth]
+date = "1957-04-11"
+
+[person.death]
+date = "2018-11-21"

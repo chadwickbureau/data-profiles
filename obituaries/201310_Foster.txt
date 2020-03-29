@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201310_Foster"
+
+[[person.meta.citation]]
+title = "Mulhearn Funeral Homes"
+date = "2019-12-13"
+url = "https://www.mulhearnfuneralhome.com/obituaries/Charles-Harry-Foster?obId=1050456#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-13"
+
+[person.name]
+last = "Foster"
+use = "Charles"
+given = "Charles Harry"
+
+[person.birth]
+date = "1927-07-01"
+
+[person.death]
+date = "2013-10-30"
+place.country = "US"
+place.state = "LA"
+place.city = "Downsville"
+
+[person.burial]
+cemetery.name = "Mount Ararat Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Point"

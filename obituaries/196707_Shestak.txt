@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "196707_Shestak"
+
+[[person.meta.citation]]
+title = "Lincoln Star-Journal"
+date = "1967-07-30"
+pages = "32"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-12"
+
+[person.name]
+last = "Shestak"
+use = "George"
+given = "George W."
+
+[person.death]
+date = "1967-07-29"
+place.country = "US"
+place.state = "NE"
+place.city = "Lincoln"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"

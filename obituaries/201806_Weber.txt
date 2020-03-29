@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201806_Weber"
+
+[[person.meta.citation]]
+title = "Kutis Funeral Home"
+date = "2018-07-08"
+url = "http://www.kutisfuneralhomes.com/10995"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Weber"
+use = "Martin"
+given = "Martin L."
+
+[person.death]
+date = "2018-06-26"
+
+[person.burial]
+cemetery.name = "Park Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Lemay"

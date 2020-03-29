@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190813_019"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-08-03"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Stinson"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Orphans"
+team.league.name = "Virginia League"

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201901_Simpson"
+
+[[person.meta.citation]]
+title = "Long Beach Press-Telegram"
+date = "2019-03-14"
+url = "https://www.legacy.com/obituaries/lbpresstelegram/obituary.aspx?n=bill-simpson&pid=191824881"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-17"
+
+[person.name]
+last = "Simpson"
+use = "Bill"
+given = "William Ray"
+
+[person.birth]
+date = "1954-10-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2019-01-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Seal Beach"
+
+[[person.education]]
+school.name = "Millikan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+[[person.education]]
+school.name = "Long Beach City College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Arizona"
+school.type = "college"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "200607_Kimber"
+
+[[person.meta.citation]]
+title = "Central New Jersey Home News"
+date = "2006-07-06"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Kimber"
+use = "Ray"
+given = "Raymond"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Milltown"
+
+[person.death]
+date = "2006-07-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Brunswick"
+
+[person.burial]
+cemetery.name = "St. Mary’s Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "East Brunswick"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

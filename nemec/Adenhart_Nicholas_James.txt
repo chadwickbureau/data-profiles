@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "Adenhart_Nicholas_James"
+
+[person.name]
+last = "Adenhart"
+use = "Nick"
+given = "Nicholas James"
+
+[person.birth]
+date = "1986-08-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Hagerstown"
+
+[person.death]
+date = "2009-04-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Orange"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "76"
+weight = "190"
+
+[[person.resides]]
+dates = "2005"
+place.country = "US"
+place.state = "MD"
+place.city = "Williamsport"
+
+
+[[person.education]]
+school.name = "Williamsport High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Williamsport"
+
+
+[[person.transaction]]
+date = "2004-06"
+type = "drafted"
+join.name = "Anaheim"
+join.league.name = "American"
+round = "14"
+
+[[person.transaction]]
+date = "2004-07-28"
+type = "signed"
+join.name = "Anaheim"
+join.league.name = "American"

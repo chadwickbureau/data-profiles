@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Boles_Howard_Wesley"
+
+[person.name]
+last = "Boles"
+use = "Howard"
+given = "Howard Wesley"
+
+[person.birth]
+date = "1927-03-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Amboy"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "76"
+weight = "202"
+
+[[person.military]]
+country = "US"
+dates = "1946/1946"

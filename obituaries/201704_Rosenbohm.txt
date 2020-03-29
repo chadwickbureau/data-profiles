@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201704_Rosenbohm"
+
+[[person.meta.citation]]
+title = "John A. Gentleman Funeral Home"
+date = "2018-11-30"
+url = "https://www.johnagentleman.com/obituaries/James-R-Jim-Rosenbohm?obId=2819077#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Rosenbohm"
+use = "Jim"
+given = "James R."
+
+[person.birth]
+date = "1973-09-19"
+
+[person.death]
+date = "2017-04-17"

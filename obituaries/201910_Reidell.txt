@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_Reidell"
+
+[[person.meta.citation]]
+title = "Roupp Funeral Home"
+date = "2019-10-27"
+url = "https://www.rouppfuneralhome.com/notices/CharlesSkeet-Reidell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Reidell"
+use = "Skeet"
+given = "Charles W."
+
+[person.birth]
+date = "1939-01-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Mifflinburg"
+
+[person.death]
+date = "2019-10-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Mifflinburg"
+
+[person.burial]
+cemetery.name = "Mifflinburg Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Mifflinburg"
+
+[[person.education]]
+school.name = "Mifflinburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Mifflinburg"

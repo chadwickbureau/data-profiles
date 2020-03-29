@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201810_McCovey"
+
+[[person.meta.citation]]
+title = "mlb.com"
+date = "2018-10-31"
+url = "https://www.mlb.com/giants/news/hall-of-famer-willie-mccovey-dies/c-300075672"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11"
+
+[person.name]
+last = "McCovey"
+use = "Willie"
+given = "Willie"
+nick = "Stretch"
+
+[person.birth]
+date = "1938-01-10"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.death]
+date = "2018-10-31"

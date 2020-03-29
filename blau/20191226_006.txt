@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20191226_006"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1932-06-11"
+pages = "9"
+
+[person.name]
+last = "Stewart"
+use = "Stuffy"
+given = "Stuffy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Knoxville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Oklahoma City"
+team.league.name = "Western League"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202002_Huddleston"
+
+[[person.meta.citation]]
+title = "Chiles-Laman Funeral Home"
+date = "2020-02-17"
+url = "https://www.chiles-lamanfh.com/obituaries/robert-e-bob-huddleston/4733/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-17"
+
+[person.name]
+last = "Huddleston"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1925-11-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[person.death]
+date = "2020-02-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Lima"
+
+[person.burial]
+cemetery.name = "Gethsemani Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Lima"
+
+[[person.education]]
+school.name = "Scott HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Toledo"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

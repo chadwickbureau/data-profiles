@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201808_Bauernfeind"
+
+[[person.meta.citation]]
+title = "Halbritter Wicken Funeral Home"
+date = "2018-08-24"
+url = "https://www.halbritterfunerals.com/notices/William-Bauernfeind"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-24"
+
+[person.name]
+last = "Bauernfeind"
+use = "Bill"
+given = "William S."
+
+[person.birth]
+date = "1932-02-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Green Bay"
+
+[person.death]
+date = "2018-08-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Stevensville"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Niles"
+
+[[person.education]]
+school.name = "Niles HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Niles"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

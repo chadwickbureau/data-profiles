@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201911_Benedetto"
+
+[[person.meta.citation]]
+title = "Abriola Parkview Funeral Home"
+date = "2019-11-09"
+url = "https://abriola.com/tribute/details/4944/Leonard-Benedetto/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-09"
+
+[person.name]
+last = "Benedetto"
+use = "Butch"
+given = "Leonard R."
+
+[person.birth]
+date = "1940"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.death]
+date = "2019-11-04"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Trumbull"
+
+[[person.education]]
+school.name = "Fairfield College Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Fairfield"

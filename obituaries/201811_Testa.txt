@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201811_Testa"
+
+[[person.meta.citation]]
+title = "Sinatra Funeral Home"
+date = "2018-11-23"
+url = "https://sinatraffh.com/tribute/details/3305/Nicholas-Testa/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-23"
+
+[person.name]
+last = "Testa"
+use = "Nick"
+given = "Nicholas"
+
+[person.death]
+date = "2018-11-16"
+
+[person.burial]
+cemetery.name = "St. Raymond's Cemetery (New)"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Bronx"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

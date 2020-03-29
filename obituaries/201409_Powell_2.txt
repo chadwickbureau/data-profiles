@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201409_Powell_2"
+
+[[person.meta.citation]]
+title = "Anderson-Ragsdale Mortuary"
+date = "2014-09-08"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2662078&fh_id=14456"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-08"
+
+[person.name]
+last = "Powell"
+use = "Charlie"
+given = "Charlie"
+
+[person.birth]
+date = "1932-04-04"
+
+[person.death]
+date = "2014-09-01"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.burial]
+cemetery.name = "Cypress View Mausoleum & Crematory"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "San Diego"

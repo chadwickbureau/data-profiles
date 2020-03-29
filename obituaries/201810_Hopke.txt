@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201810_Hopke"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-10-21"
+url = "https://www.dignitymemorial.com/obituaries/toms-river-nj/fred-hopke-8029243"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Hopke"
+use = "Fred"
+given = "Fred"
+
+[person.birth]
+date = "1937-01-25"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+[person.death]
+date = "2018-10-19"

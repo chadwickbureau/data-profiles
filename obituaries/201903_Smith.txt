@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201903_Smith"
+
+[[person.meta.citation]]
+title = "Schoppenhorst Underwood and Brooks Funeral Home"
+date = "2019-03-10"
+url = "https://www.subfuneralhome.com/obituary/george-smith"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Smith"
+use = "George"
+given = "George Selby"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-03-26"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2019-03-08"

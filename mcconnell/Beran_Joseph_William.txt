@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Beran_Joseph_William"
+
+[person.name]
+last = "Beran"
+use = "Joseph"
+given = "Joseph William"
+
+[person.birth]
+date = "1928-08-16"
+place.country = "US"
+place.state = "KS"
+place.city = "Larned"
+
+[person.death]
+date = "2000-05-06"
+place.country = "US"
+place.state = "KS"
+place.city = "Hoisington"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "175"

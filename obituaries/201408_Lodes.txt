@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201408_Lodes"
+
+[[person.meta.citation]]
+title = "The Oklahoman"
+date = "2014-08-31"
+url = "http://www.legacy.com/obituaries/oklahoman/obituary.aspx?n=CHARLES-LODES&pid=172306246"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Lodes"
+use = "Charley"
+given = "Charles Richard"
+
+[person.birth]
+date = "1941-11-06"
+place.country = "US"
+place.state = "OK"
+place.city = "Vinita"
+
+[person.death]
+date = "2014-08-27"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.burial]
+cemetery.name = "Chapel Hill Memorial Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Sacred Heart Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Vinita"
+
+[[person.education]]
+school.name = "Connors State College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Warner"

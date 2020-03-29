@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201806_Ketter"
+
+[[person.meta.citation]]
+title = "Brant Funeral Home"
+date = "2018-06-17"
+url = "https://www.brantfuneralservice.com/notices/Stephen-Ketter"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Ketter"
+use = "Steve"
+given = "Stephen Lowell"
+
+[person.birth]
+date = "1947-04-22"
+
+[person.death]
+date = "2018-06-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Franklin Furnace"
+
+[[person.education]]
+school.name = "East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Portsmouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"

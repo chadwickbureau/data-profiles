@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201812_Zenimura"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2018-12-19"
+url = "https://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=howard-kenso-zenimura&pid=191028835&fhid=11234"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Zenimura"
+use = "Howard"
+given = "Howard Kenso"
+
+[person.birth]
+date = "1927-05-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2018-12-13"
+
+[[person.education]]
+school.name = "California State University, Fresno"
+school.type = "college"

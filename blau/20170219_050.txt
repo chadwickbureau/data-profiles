@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170219_050"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1924-08-01"
+pages = "9"
+
+[person.name]
+last = "Beall"
+use = "Roger"
+given = "Roger"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Wichita"
+team.league.name = "Western League"

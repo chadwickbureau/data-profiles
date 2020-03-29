@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201612_Shell"
+
+[[person.meta.citation]]
+title = "Ramsey Funeral Home"
+date = "2018-07-20"
+url = "http://www.ramseyfuneral.com/memsol.cgi?user_id=1896699"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Shell"
+use = "George"
+given = "George Marion"
+
+[person.birth]
+date = "1921-08-22"
+place.country = "US"
+place.state = "TX"
+place.city = "DeBerry"
+
+[person.death]
+date = "2016-12-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Carthage HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Carthage"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

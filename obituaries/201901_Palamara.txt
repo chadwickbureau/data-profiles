@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201901_Palamara"
+
+[[person.meta.citation]]
+title = "News-Herald"
+date = "2019-01-21"
+url = "http://www.thenewsherald.com/news/sam-palamara-community-leader-led-wyandotte-recreation-department-for-years/article_224ec21c-1d8a-11e9-ae21-d74e72a95b5b.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Palamara"
+use = "Sam"
+given = "Santo"
+
+[person.birth]
+date = "1928-11-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2019-01-10"
+
+[person.burial]
+cemetery.name = "Michigan Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Flat Rock"
+
+[[person.education]]
+school.name = "Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Wyandotte"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

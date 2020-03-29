@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201312_Cook"
+
+[[person.meta.citation]]
+title = "The Telegraph"
+date = "2013-12-20"
+url = "http://www.legacy.com/obituaries/macon/obituary.aspx?n=George-Cook&pid=168640617"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-20"
+
+[person.name]
+last = "Cook"
+use = "George"
+given = "George Edwin"
+suffix = "Jr."
+
+[person.birth]
+date = "1927-03-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Rahway"
+
+[person.death]
+date = "2013-12-19"
+
+[person.burial]
+cemetery.name = "Baldwin Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Milledgeville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "Adams_James_Byron"
+
+[person.name]
+last = "Adams"
+use = "Jim"
+given = "James Byron"
+
+[person.birth]
+date = "1940-12-31"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2013-11-09"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "72"
+weight = "180"
+
+[person.sameas]
+ssn = "259-64-3073"
+
+[[person.resides]]
+dates = "1965"
+place.country = "US"
+place.state = "GA"
+place.city = "Decatur"
+place.address = "484 Pensadale Road"
+
+
+[[person.education]]
+school.name = "Druid Hills High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+dates = "/1961"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Georgia Tech University"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1965-06-18"
+type = "signed"
+join.name = "Chicago"
+join.league.name = "National"

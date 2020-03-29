@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201808_Benda"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "2018-08-14"
+url = "https://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=robert-james-benda&pid=189907216&eid=sp_ommatch&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-14"
+
+[person.name]
+last = "Benda"
+use = "Bobby"
+given = "Robert James"
+
+[person.birth]
+date = "1956"
+place.country = "US"
+place.state = "IL"
+place.city = "Villa Park"
+
+[person.death]
+date = "2018-08-08"
+place.country = "US"
+place.state = "FL"
+place.city = "Jupiter"
+
+[[person.education]]
+school.name = "Palm Beach Gardens Community HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Palm Beach Gardens"
+
+[[person.education]]
+school.name = "Palm Beach State College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Florida State University"
+school.type = "college"

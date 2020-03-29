@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "Accardo_Thomas_Joseph"
+
+[person.name]
+last = "Accardo"
+use = "Tom"
+given = "Thomas Joseph"
+
+[person.birth]
+date = "1922-08-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2009-02-28"
+place.country = "US"
+place.state = "MN"
+place.city = "Bemidji"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "175"
+
+[person.sameas]
+ssn = "336-12-7531"
+
+[[person.resides]]
+dates = ""
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+place.address = "727 N. Hamlin"
+
+
+[[person.education]]
+school.name = "Washburne Trade School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1942"
+team.name = "Keeshin Motors"
+team.place.country = "US"
+team.place.state = "IL"
+team.place.city = "Chicago"
+team.caliber = "semipro"

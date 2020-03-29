@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201300_Stangvik"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2013-12-05"
+url = "http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Perry-Stangvik&pid=168360247"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-10"
+
+[person.name]
+last = "Stangvik"
+use = "Perry"
+given = "Perry Grendahl"
+
+[person.birth]
+date = "1930-02-05"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.death]
+date = "2013"
+
+[[person.education]]
+school.name = "Ballard HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Seattle"
+
+[[person.education]]
+school.name = "Seattle Pacific"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

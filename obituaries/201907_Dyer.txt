@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201907_Dyer"
+
+[[person.meta.citation]]
+title = "Biega Funeral Home"
+date = "2019-07-23"
+url = "https://www.biegafuneralhome.com/obituary/leroy-lee-dyer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-23"
+
+[person.name]
+last = "Dyer"
+use = "Lee"
+given = "LeRoy Eugene"
+
+[person.birth]
+date = "1934-02-21"
+place.country = "US"
+place.state = "ME"
+place.city = "Bar Harbor"
+
+[person.death]
+date = "2019-07-19"
+place.country = "US"
+place.state = "CT"
+place.city = "Middletown"
+
+[person.burial]
+cemetery.name = "Ledgelawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ME"
+cemetery.place.city = "Bar Harbor"
+
+[[person.education]]
+school.name = "Bowdoin College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

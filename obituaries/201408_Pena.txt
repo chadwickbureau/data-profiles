@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201408_Pena"
+
+[[person.meta.citation]]
+title = "Hernandez-Lopez Funeral Home"
+date = "2014-08-10"
+url = "http://www.hernandezlopezfh.com/memsol.cgi?user_id=1369851"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-10"
+
+[person.name]
+last = "Pena"
+use = "Carlos"
+given = "Carlos P."
+nick = "Chale"
+
+[person.birth]
+place.country = "MX"
+place.state = "Tamaulipas"
+place.city = "Nuevo Laredo"
+
+[person.death]
+date = "2014-08-02"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.burial]
+cemetery.name = "Calvary Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Laredo"

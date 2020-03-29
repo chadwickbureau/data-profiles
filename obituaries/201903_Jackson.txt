@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201903_Jackson"
+
+[[person.meta.citation]]
+title = "Athens Banner-Herald"
+date = "2019-03-20"
+url = "https://www.onlineathens.com/news/20190320/handsome-ransom-jackson-dead-at-93"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-22"
+
+[person.name]
+last = "Jackson"
+use = "Ransom"
+given = "Ransom"
+suffix = "Jr."
+nick = "Handsome"
+
+[person.birth]
+date = "1926-02-10"
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+[person.death]
+date = "2019-03-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Athens"

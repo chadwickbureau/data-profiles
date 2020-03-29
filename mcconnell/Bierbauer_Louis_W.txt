@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Bierbauer_Louis_W"
+
+[person.name]
+last = "Bierbauer"
+use = "Louis"
+given = "Louis W."
+
+[person.birth]
+date = "1865-09-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.death]
+date = "1926-01-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "68"
+weight = "140"

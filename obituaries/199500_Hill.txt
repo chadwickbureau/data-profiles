@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "199500_Hill"
+
+[[person.meta.citation]]
+title = "San Diego Union Tribune"
+date = "2018-08-19"
+url = "https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=jewell-ann-hill&pid=189986889"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-19"
+
+[person.name]
+last = "Hill"
+use = "Dave"
+given = "David W."
+
+[person.death]
+date = "1995"
+
+[[person.education]]
+school.name = "Southwest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+[[person.education]]
+school.name = "Washington University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201911_McKinnis_2"
+
+[[person.meta.citation]]
+title = "Roller-Chenal Funeral Home"
+date = "2019-11-11"
+url = "https://www.rollerfuneralhomes.com/services.asp?locid=17&page=odetail&id=53560"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-11"
+
+[person.name]
+last = "McKinnis"
+use = "Jerry"
+given = "Jerry"
+
+[person.birth]
+date = "1937-06-14"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2019-11-03"
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"

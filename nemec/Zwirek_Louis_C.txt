@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "Zwirek_Louis_C"
+
+[person.name]
+last = "Zwirek"
+use = "Louis"
+given = "Louis C."
+
+[person.birth]
+date = "1919-12-28"
+
+[person.death]
+date = "2011-03-16"
+place.country = "US"
+place.state = "NJ"
+place.city = "Ridgewood"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[person.sameas]
+ssn = "203-05-2564"
+
+[[person.playing]]
+season = "1941"
+league.name = "Inter-State League"
+splits.0.team.name = "Bridgeport"
+totals.F_POS = "2B"
+totals.B_G = "1"
+totals.B_AB = "4"
+totals.B_R = "0"
+totals.B_H = "1"
+totals.B_TB = "1"
+totals.B_2B = "0"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "1"
+totals.B_SB = "0"
+totals.B_AVG = ".250"
+totals.dates = "1941-07-17/1941-07-17"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201406_Knezevich"
+
+[[person.meta.citation]]
+title = "Daily Nonpareil"
+date = "2014-06-30"
+url = "http://m.nonpareilonline.com/obituaries/robert-ray-knezevich/article_09eed513-a6a9-5f3f-a936-00d72ae6bcb4.html?mode=jqm"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Knezevich"
+use = "Bob"
+given = "Robert Ray"
+
+[person.birth]
+date = "1957-04-20"
+
+[person.death]
+date = "2014-06-26"
+place.country = "US"
+place.state = "IA"
+place.city = "Council Bluffs"
+
+[[person.education]]
+school.name = "Thomas Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Council Bluffs"
+
+[[person.education]]
+school.name = "Southern Illinois University, Carbondale"
+school.type = "college"

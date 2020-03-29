@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202002_Coan"
+
+[[person.meta.citation]]
+title = "Moore-Blanchard Funeral Home"
+date = "2020-02-09"
+url = "https://www.moore-fh.com/obituary/GilbertGil-Coan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-09"
+
+[person.name]
+last = "Coan"
+use = "Gil"
+given = "Gilbert Fitzgerald"
+
+[person.birth]
+date = "1922-05-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Monroe"
+
+[person.death]
+date = "2020-02-05"
+
+[[person.education]]
+school.name = "Brevard College"
+school.type = "college"

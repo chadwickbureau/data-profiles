@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "201712_Castas"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2017-12-31"
+url = "http://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=nick-a-castas&pid=187690837&fhid=19677&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-31"
+
+[person.name]
+last = "Castas"
+use = "Nick"
+given = "Nickolas Alexander"
+
+[person.birth]
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.death]
+date = "2017-12-23"
+place.country = "US"
+place.state = "WA"
+place.city = "Issaquah"
+
+[person.burial]
+cemetery.name = "Evergreen Washelli Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Seattle"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Seattle"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

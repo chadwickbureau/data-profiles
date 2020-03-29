@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201911_White_2"
+
+[[person.meta.citation]]
+title = "Anchorage Daily News"
+date = "2019-11-26"
+url = "https://www.adn.com/sports/high-school-sports/2019/11/26/chuck-white-winner-of-18-alaska-basketball-championships-dies-at-age-78/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-26"
+
+[person.name]
+last = "White"
+use = "Chuck"
+given = "Chuck"
+
+[person.death]
+date = "2019-11-25"
+place.country = "US"
+place.state = "CO"

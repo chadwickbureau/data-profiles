@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201902_Brown"
+
+[[person.meta.citation]]
+title = "Baker Funeral Home"
+date = "2019-03-12"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=cfe52c65-f5f4-4297-a696-027bc1af80b7&CFTOKEN=0&o_id=6096002&fh_id=14035"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-12"
+
+[person.name]
+last = "Brown"
+use = "Lee"
+given = "Levi H."
+
+[person.birth]
+date = "1940-04-25"
+place.country = "US"
+place.state = "VT"
+place.city = "Vergennes"
+
+[person.death]
+date = "2019-02-16"
+
+[[person.education]]
+school.name = "Norwich HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Norwich"
+
+[[person.education]]
+school.name = "University of Vermont"
+school.type = "college"

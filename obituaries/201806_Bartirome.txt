@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201806_Bartirome"
+
+[[person.meta.citation]]
+title = "Brown & Sons Funeral Home"
+date = "2018-06-25"
+url = "http://www.brownandsonsfuneral.com/obituary/anthony-bartirome"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Bartirome"
+use = "Tony"
+given = "Anthony Joseph"
+
+[person.birth]
+date = "1932-05-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2018-06-22"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

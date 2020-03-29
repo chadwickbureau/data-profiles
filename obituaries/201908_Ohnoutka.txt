@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201908_Ohnoutka"
+
+[[person.meta.citation]]
+title = "Butherus, Maser & Love Funeral Home"
+date = "2019-12-28"
+url = "https://www.bmlfh.com/obituary/dwain-ohnoutka"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Ohnoutka"
+use = "Dwain"
+given = "Dwain"
+
+[person.birth]
+date = "1933-12-31"
+place.country = "US"
+place.state = "NE"
+place.city = "Touhy"
+
+[person.death]
+date = "2019-08-14"
+
+[person.burial]
+cemetery.name = "St. Vitus Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Touhy"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

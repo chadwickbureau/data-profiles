@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_Mahlmann"
+
+[[person.meta.citation]]
+title = "Pasadena Star-News"
+date = "2019-02-20"
+url = "https://www.legacy.com/obituaries/pasadenastarnews/obituary.aspx?n=richard-mahlmann-moose&pid=191603795&fhid=24089"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-20"
+
+[person.name]
+last = "Mahlmann"
+use = "Rich"
+given = "Richard"
+nick = "Moose"
+
+[person.birth]
+date = "1950-01-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Woodland"
+
+[person.death]
+date = "2019-01-28"
+
+[[person.education]]
+school.name = "California State University Fresno"
+school.type = "college"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201809_Letteri"
+
+[[person.meta.citation]]
+title = "Keefe Funeral Home"
+date = "2018-09-08"
+url = "https://memorials.keefefuneralhome.com/laurence-letteri/3602546/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-08"
+
+[person.name]
+last = "Letteri"
+use = "Laurence"
+given = "Laurence F."
+
+[person.birth]
+date = "1919-11-19"
+
+[person.death]
+date = "2018-09-06"
+place.country = "US"
+place.state = "MA"
+place.city = "Cambridge"
+
+[person.burial]
+cemetery.name = "Mount Auburn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Cambridge"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201812_LaSalata"
+
+[[person.meta.citation]]
+title = "Carl J. Mowell & Son Funeral Home"
+date = "2019-01-04"
+url = "http://www.mowellfuneralhome.com/obituaries/Francis-Anthony-Lasalata?obId=3975544#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-04"
+
+[person.name]
+last = "LaSalata"
+use = "Tony"
+given = "Francis Anthony"
+
+[person.birth]
+date = "1933-05-08"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+[person.death]
+date = "2018-12-30"
+
+[person.burial]
+cemetery.name = "Forest Hills Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Forest Park"
+
+[person.description]
+bats = "L"

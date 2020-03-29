@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201907_010"
+
+[[person.meta.citation]]
+title = "empireproleague.com"
+date = "2019-07-26"
+url = "http://empireproleague.com/player/john-tierney-jr/"
+
+[person.name]
+last = "Tierney"
+use = "John"
+given = "John"
+suffix = "Jr."
+
+[person.birth]
+date = "1996-02-23"
+
+[[person.education]]
+school.name = "Centenary University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "New York"
+team.league.name = "Empire League"
+description.bats = "L"
+description.throws = "R"
+description.height = "73"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "2018"
+team.name = "Saranac Lake"
+team.league.name = "Empire League"

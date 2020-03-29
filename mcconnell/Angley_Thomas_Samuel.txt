@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Angley_Thomas_Samuel"
+
+[person.name]
+last = "Angley"
+use = "Thomas"
+given = "Thomas Samuel"
+
+[person.birth]
+date = "1904-10-02"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "1952-10-26"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "68"
+weight = "190"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+degree = "graduated"

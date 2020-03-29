@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201905_Fegley"
+
+[[person.meta.citation]]
+title = "Malpezzi Funeral Home"
+date = "2019-05-07"
+url = "https://www.malpezzifuneralhome.com/obituary/larry-fegley"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-07"
+
+[person.name]
+last = "Fegley"
+use = "Larry"
+given = "Larry"
+
+[person.birth]
+date = "1938-06-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+
+[person.death]
+date = "2019-05-05"
+
+[[person.education]]
+school.name = "Pennsylvania State University"
+school.type = "college"

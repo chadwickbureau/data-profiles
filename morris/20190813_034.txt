@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20190813_034"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press 1915-07-06"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Dean"
+
+[[person.education]]
+school.name = "Newport News HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Newport News"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "1B"
+description.throws = "L"
+description.bats = "L"

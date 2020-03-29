@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "201901_Fischer"
+
+[[person.meta.citation]]
+title = "Peterson Kraemer Funeral Home"
+date = "2019-01-06"
+url = "https://www.petersonkraemer.com/notices/Gary-Fischer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-06"
+
+[person.name]
+last = "Fischer"
+use = "Gary"
+given = "Gary Arthur"
+
+[person.birth]
+date = "1942-07-11"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[person.death]
+date = "2019-01-03"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Marathon"
+
+[[person.education]]
+school.name = "Marathon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Marathon"
+
+[[person.education]]
+school.name = "Bradley University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

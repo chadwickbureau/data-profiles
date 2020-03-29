@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201912_Bockelmann"
+
+[[person.meta.citation]]
+title = "Glueckert Funeral Home"
+date = "2020-01-01"
+url = "https://www.glueckertfuneralhome.com/obituaries/Richard-Werner-Bokelmann?obId=10267828"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Bockelmann"
+use = "Dick"
+given = "Richard Werner"
+
+[person.birth]
+date = "1926-10-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Arlington Heights"
+
+[person.death]
+date = "2019-12-27"
+
+[[person.education]]
+school.name = "Northwestern University"
+school.type = "college"

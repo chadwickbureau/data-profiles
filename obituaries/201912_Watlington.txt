@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201912_Watlington"
+
+[[person.meta.citation]]
+title = "Harrelson Funeral Services"
+date = "2020-01-06"
+url = "https://www.harrelsonfs.com/obits/obituary.php?id=680028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-06"
+
+[person.name]
+last = "Watlington"
+use = "Neal"
+given = "Julius Neal"
+
+[person.birth]
+date = "1922-12-25"
+
+[person.death]
+date = "2019-12-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Yanceyville"
+
+[person.burial]
+cemetery.name = "Yanceyville Presbyterian Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Yanceyville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

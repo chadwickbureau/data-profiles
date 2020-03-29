@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "201405_McCullough"
+
+[[person.meta.citation]]
+title = "Florida Times-Union"
+date = "2014-05-05"
+url = "http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=Wilber-McCullough&pid=170919307"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-05"
+
+[person.name]
+last = "McCullough"
+use = "Wilber"
+given = "Wilber Seth"
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.death]
+date = "2014-05-02"
+
+[person.burial]
+cemetery.name = "Riverside Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Jacksonville"
+
+[[person.education]]
+school.name = "Robert E. Lee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Jacksonville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

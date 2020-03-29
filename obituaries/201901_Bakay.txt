@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201901_Bakay"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2019-03-22"
+url = "https://www.legacy.com/obituaries/belleville/obituary.aspx?n=john-bakay&pid=191889130"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-23"
+
+[person.name]
+last = "Bakay"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2019-01-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Belleville"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

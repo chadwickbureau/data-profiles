@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Bratschi_Frederick_Oscar"
+
+[person.name]
+last = "Bratschi"
+use = "Frederick"
+given = "Frederick Oscar"
+
+[person.birth]
+date = "1892-01-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Alliance"
+
+[person.death]
+date = "1962-01-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Massillon"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "170"
+
+[[person.alias]]
+name.last = "Bratche"
+name.use = "Frederick"
+name.given = "Frederick Oscar"
+type = "alternate spelling"
+
+[[person.alias]]
+name.last = "Bratchi"
+name.use = "Frederick"
+name.given = "Frederick Oscar"
+type = "alternate spelling"

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201105_Hathaway"
+
+[[person.meta.citation]]
+title = "Burnside Funeral Home"
+date = "2019-10-24"
+url = "https://burnsidefuneralhome.com/book-of-memories/1458942/Hathaway-Robert/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-24"
+
+[person.name]
+last = "Hathaway"
+use = "Robert"
+given = "Robert B."
+
+[person.birth]
+date = "1932-04-21"
+place.country = "US"
+place.state = "WV"
+place.city = "Anmoore"
+
+[person.death]
+date = "2011-05-23"
+place.country = "US"
+place.state = "WV"
+place.city = "Bridgeport"
+
+[person.burial]
+cemetery.name = "Bridgeport Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Bridgeport"
+
+[[person.education]]
+school.name = "Bridgeport HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Bridgeport"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

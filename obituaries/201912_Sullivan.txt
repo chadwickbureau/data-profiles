@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201912_Sullivan"
+
+[[person.meta.citation]]
+title = "Herald News"
+date = "2019-12-24"
+url = "https://www.heraldnews.com/sports/20191223/remembering-barry-sullivan-pc-somerset-high-hall-of-famer-dies-at-65"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-02"
+
+[person.name]
+last = "Sullivan"
+use = "Barry"
+given = "Barry"
+
+[person.death]
+date = "2019-12-22"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[[person.education]]
+school.name = "Somerset HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Somerset"
+
+[[person.education]]
+school.name = "Providence College"
+school.type = "college"

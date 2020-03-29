@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "Atz_John_Jacob"
+
+[person.name]
+last = "Atz"
+use = "Jake"
+given = "John Jacob"
+
+[person.birth]
+date = "1879-07-01"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.death]
+date = "1945-05-22"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "150"
+
+[[person.alias]]
+name.last = "Atz"
+name.use = "Jacob"
+name.given = "Jacob Henry"
+type = "birth"

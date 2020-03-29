@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201909_Burda"
+
+[[person.meta.citation]]
+title = "Halligan-McCabe-DeVries Funeral Home"
+date = "2019-09-13"
+url = "https://www.hmdfuneralhome.com/notices/JacqueJack-Burda"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-13"
+
+[person.name]
+last = "Burda"
+use = "Jack"
+given = "Jacque Alger"
+
+[person.birth]
+date = "1919-12-11"
+place.country = "US"
+place.state = "IA"
+place.city = "Davenport"
+
+[person.death]
+date = "2019-09-09"
+place.country = "US"
+place.state = "IA"
+place.city = "Bettendorf"
+
+[person.burial]
+cemetery.name = "Davenport Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Davenport"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

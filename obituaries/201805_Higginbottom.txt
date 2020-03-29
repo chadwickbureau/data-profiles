@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201805_Higginbottom"
+
+[[person.meta.citation]]
+title = "Qualls Funeral Home"
+date = "2018-06-19"
+url = "http://www.quallsfh.com/obituary/dizzy-higginbottom"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-19"
+
+[person.name]
+last = "Higginbottom"
+use = "Dizzy"
+given = "Dizzy Dean"
+
+[person.birth]
+date = "1935-10-19"
+place.country = "US"
+place.state = "AR"
+place.city = "Poughkeepsie"
+
+[person.death]
+date = "2018-05-07"
+
+[person.burial]
+cemetery.name = "Evening Shade Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Evening Shade"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Earl_John"
+
+[person.name]
+last = "Adams"
+use = "Sparky"
+given = "Earl John"
+
+[person.birth]
+date = "1894-08-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Zerbe"
+
+[person.death]
+date = "1989-02-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Pottsville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "65.5"
+weight = "151"

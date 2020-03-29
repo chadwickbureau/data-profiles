@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Barnes_Roscoe_Charles"
+
+[person.name]
+last = "Barnes"
+use = "Ross"
+given = "Roscoe Charles"
+
+[person.birth]
+date = "1850-05-08"
+place.country = "US"
+place.state = "NY"
+place.city = "Mount Morris"
+
+[person.death]
+date = "1915-02-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68.5"
+weight = "145"
+note = [ "Missed part of 1877 season due to serious illness" ]

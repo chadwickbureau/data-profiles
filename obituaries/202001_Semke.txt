@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202001_Semke"
+
+[[person.meta.citation]]
+title = "Schoedinger Funeral Home"
+date = "2020-01-26"
+url = "https://www.schoedinger.com/obituaries/Jay-Semke/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-26"
+
+[person.name]
+last = "Semke"
+use = "Jay"
+given = "Jay Andrew"
+
+[person.birth]
+date = "1966-12-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2020-01-19"
+
+[[person.education]]
+school.name = "Ohio State University"
+school.type = "college"

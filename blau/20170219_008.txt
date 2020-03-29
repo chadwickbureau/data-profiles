@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_008"
+
+[[person.meta.citation]]
+title = "San Antonio Light"
+date = "1927-08-08"
+pages = "6"
+
+[person.name]
+last = "Arzatti"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Laredo"
+team.league.name = "Texas Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "San Antonio"
+team.league.name = "Texas League"

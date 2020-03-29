@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201907_Kolb"
+
+[[person.meta.citation]]
+title = "Cooke Funeral Home"
+date = "2019-07-08"
+url = "http://www.cookefuneralhome.com/sitemaker/sites/COOKEP1/obit.cgi?user=85803231_GKolb"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Kolb"
+use = "Gary"
+given = "Gary Alan"
+
+[person.birth]
+date = "1940-03-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Rock Falls"
+
+[person.death]
+date = "2019-07-03"
+
+[[person.education]]
+school.name = "Rock Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Rock Falls"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"

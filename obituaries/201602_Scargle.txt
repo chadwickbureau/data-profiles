@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201602_Scargle"
+
+[[person.meta.citation]]
+title = "Sylvan Abbey Funeral Home"
+date = "2019-10-24"
+url = "https://www.dignitymemorial.com/obituaries/clearwater-fl/john-scargle-6790997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-24"
+
+[person.name]
+last = "Scargle"
+use = "John"
+given = "John Gordon"
+
+[person.birth]
+date = "1932-10-02"
+
+[person.death]
+date = "2016-02-05"

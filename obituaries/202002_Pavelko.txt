@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202002_Pavelko"
+
+[[person.meta.citation]]
+title = "Connell Funeral Home"
+date = "2020-02-09"
+url = "https://www.connellfuneral.com/obituaries/Paul-Sonny-Pavelko/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-09"
+
+[person.name]
+last = "Pavelko"
+use = "Paul"
+given = "Paul F."
+nick = "Sonny"
+
+[person.birth]
+date = "1943-10-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Fountain Hill"
+
+[person.death]
+date = "2020-02-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Bethlehem"
+
+[person.burial]
+cemetery.name = "Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Hellertown"
+
+[[person.education]]
+school.name = "Bethlehem Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Bethlehem"

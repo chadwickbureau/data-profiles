@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201806_Newton_Stan"
+
+[[person.meta.citation]]
+title = "Humphrey Funeral Home"
+date = "2018-10-03"
+url = "http://www.humphreyfuneral.com/obituaries/William-Newton-13/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-03"
+
+[person.name]
+last = "Newton"
+use = "Stan"
+given = "William Stanley"
+
+[person.birth]
+date = "1979-05-16"
+place.country = "US"
+place.state = "AR"
+place.city = "Russellville"
+
+[person.death]
+date = "2018-06-17"
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+[person.burial]
+cemetery.name = "Rest Haven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Russellville"
+
+[[person.education]]
+school.name = "Russellville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Russellville"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"

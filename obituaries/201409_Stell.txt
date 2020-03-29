@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201409_Stell"
+
+[[person.meta.citation]]
+title = "News & Observer"
+date = "2014-09-16"
+url = "http://www.legacy.com/obituaries/newsobserver/obituary.aspx?n=Samuel-Stell&pid=172474769"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-16"
+
+[person.name]
+last = "Stell"
+use = "Sam"
+given = "Samuel Cameron"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-08-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Raleigh"
+
+[person.death]
+date = "2014-09-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Whiteville"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Tarboro"
+
+[[person.education]]
+school.name = "East Carolina University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201104_Barnes"
+
+[[person.meta.citation]]
+title = "Oakdale Mortuary & Oakdale Memorial Park"
+date = "2019-10-07"
+url = "https://www.dignitymemorial.com/obituaries/glendora-ca/craig-barnes-4656553"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Barnes"
+use = "Craig"
+given = "Craig Kevin"
+
+[person.birth]
+date = "1951-10-26"
+
+[person.death]
+date = "2011-04-25"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201907_Swain"
+
+[[person.meta.citation]]
+title = "Nalley-Pickle & Welch Funeral Home"
+date = "2019-07-08"
+url = "https://www.npwelch.com/obituary/peter-swain-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-08"
+
+[person.name]
+last = "Swain"
+use = "Pete"
+given = "Peter"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-05-11"
+place.country = "US"
+place.state = "NE"
+place.city = "Laurel"
+
+[person.death]
+date = "2019-07-03"
+
+[[person.education]]
+school.name = "Long Beach Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201811_Gorman"
+
+[[person.meta.citation]]
+title = "Codey & Mackey Funeral Home"
+date = "2018-11-26"
+url = "https://codeymackeyfh.com/tribute/details/555/Leigh-Gorman-Sr/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-26"
+
+[person.name]
+last = "Gorman"
+use = "Leigh"
+given = "Leigh"
+suffix = "Sr."
+
+[person.birth]
+date = "1939"
+place.country = "US"
+place.state = "NJ"
+place.city = "Boonton"
+
+[person.death]
+date = "2018-11-22"
+
+[[person.education]]
+school.name = "Boonton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Boonton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

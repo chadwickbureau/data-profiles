@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201906_Tuggle"
+
+[[person.meta.citation]]
+title = "Jones-Wynn Funeral Home"
+date = "2019-06-20"
+url = "https://www.jones-wynn.com/obituaries/William-H-Tuggle/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-20"
+
+[person.name]
+last = "Tuggle"
+use = "Jerry"
+given = "William H."
+suffix = "Jr."
+
+[person.birth]
+date = "1934-03-15"
+
+[person.death]
+date = "2019-06-18"
+
+[[person.education]]
+school.name = "Douglas County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Douglasville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"

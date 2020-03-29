@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202003_Howe"
+
+[[person.meta.citation]]
+title = "Frain Mortuary"
+date = "2020-03-16"
+url = "https://frainmortuary.com/tribute/details/3467/Jerry-Howe/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-16"
+
+[person.name]
+last = "Howe"
+use = "Jerry"
+given = "Jerry R."
+
+[person.birth]
+date = "1931-03-27"
+place.country = "US"
+place.state = "IN"
+place.city = "Winamac"
+
+[person.death]
+date = "2020-03-10"
+place.country = "US"
+place.state = "IN"
+place.city = "Winamac"
+
+[person.burial]
+cemetery.name = "Winamac Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Winamac"
+
+[[person.education]]
+school.name = "Winamac HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Winamac"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"

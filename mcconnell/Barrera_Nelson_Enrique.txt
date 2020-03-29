@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "Barrera_Nelson_Enrique"
+
+[person.name]
+last = "Barrera"
+use = "Nelson"
+given = "Nelson Enrique"
+matrilineal = "Romellon"
+
+[person.birth]
+date = "1957-10-17"
+place.country = "MX"
+place.state = "Campeche"
+place.city = "Ciudad del Carmen"
+
+[person.death]
+date = "2002-07-14"
+place.country = "MX"
+place.state = "Campeche"
+place.city = "Campeche"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201404_Hemmerly"
+
+[[person.meta.citation]]
+title = "Bringman Clark & Shields Funeral Home"
+date = "2014-05-04"
+url = "http://www.bringmanclark.com/obituaries/Henry-Ohlin-Hank-Hemmerly/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-04"
+
+[person.name]
+last = "Hemmerly"
+use = "Hank"
+given = "Henry Ohlin"
+
+[person.birth]
+date = "1935-02-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Wyandot County"
+
+[person.death]
+date = "2014-04-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Forest"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Forest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Forest"

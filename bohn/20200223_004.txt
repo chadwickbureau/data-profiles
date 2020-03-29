@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_004"
+
+[[person.meta.citation]]
+title = "Aberdeen American"
+date = "1922-04-28"
+
+[person.name]
+last = "Higgins"
+use = "Gerald"
+given = "Gerald"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Watertown"
+team.league.name = "Dakota League"

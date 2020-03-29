@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "Agee_Joseph_Ryan"
+
+[person.name]
+last = "Agee"
+use = "Joe"
+given = "Joseph Ryan"
+suffix = "Jr."
+
+[person.birth]
+date = "1917-02-12"
+place.country = "US"
+place.state = "AL"
+place.city = "Courtland"
+
+[person.death]
+date = "2011-03-24"
+place.country = "US"
+place.state = "AL"
+place.city = "Huntsville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"
+
+[person.sameas]
+ssn = "499-18-2021"
+
+[[person.resides]]
+dates = "1939"
+place.country = "US"
+place.state = "AL"
+place.city = "Courtland"
+
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"
+dates = "/1939"
+degree = "graduated"

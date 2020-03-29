@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Bauer_Henry_Albert"
+
+[person.name]
+last = "Bauer"
+use = "Hank"
+given = "Henry Albert"
+
+[person.birth]
+date = "1922-07-31"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2007-02-09"
+place.country = "US"
+place.state = "KS"
+place.city = "Lenexa"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "192"
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"

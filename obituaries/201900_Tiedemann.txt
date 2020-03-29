@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201900_Tiedemann"
+
+[[person.meta.citation]]
+title = "The Reporter"
+date = "2019-02-24"
+url = "https://www.legacy.com/obituaries/thereporter/obituary.aspx?n=william-patrick-martin-tiedemann-pat&pid=191644680"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-24"
+
+[person.name]
+last = "Tiedemann"
+use = "Pat"
+given = "William Patrick Martin"
+
+[person.birth]
+date = "1954-05-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2019"
+
+[[person.education]]
+school.name = "Vacaville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Vacaville"
+
+[[person.education]]
+school.name = "University of Nevada, Las Vegas"
+school.type = "college"

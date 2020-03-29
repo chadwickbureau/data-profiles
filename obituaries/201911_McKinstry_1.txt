@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201911_McKinstry_1"
+
+[[person.meta.citation]]
+title = "San Luis Obispo County Tribune"
+date = "2019-11-17"
+url = "https://www.legacy.com/obituaries/sanluisobispo/obituary.aspx?n=john-arthur-mckinstry&pid=194469368&fhid=20254"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-17"
+
+[person.name]
+last = "McKinstry"
+use = "John"
+given = "John Arthur"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Marion"
+
+[person.death]
+date = "2019-11-12"

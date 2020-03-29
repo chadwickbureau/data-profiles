@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "197601_Flynn"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "1976-01-17"
+url = "https://www.dignitymemorial.com/obituaries/tampa-fl/louis-marcano-8085458"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-04"
+
+[person.name]
+last = "Flynn"
+use = "Thomas"
+given = "Thomas B."
+
+[person.birth]
+date = "1906-04-23"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "1976-01-15"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Sacramento City College"
+school.type = "college"

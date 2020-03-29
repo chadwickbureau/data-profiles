@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_054"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1920-06-15"
+
+[person.name]
+last = "Marquard"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Madison"
+team.league.name = "South Dakota League"

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202003_Hamet"
+
+[[person.meta.citation]]
+title = "Kalamazoo Gazette"
+date = "2020-03-15"
+url = "https://obits.mlive.com/obituaries/kalamazoo/obituary.aspx?n=robert-p-hamet-bob&pid=195694650&fhid=21006"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-15"
+
+[person.name]
+last = "Hamet"
+use = "Bob"
+given = "Robert Philip"
+
+[person.birth]
+date = "1939-06-28"
+place.country = "US"
+place.state = "OH"
+place.city = "Wauseon"
+
+[person.death]
+date = "2020-03-11"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Bryan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Bryan"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"

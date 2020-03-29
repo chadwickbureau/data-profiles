@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201901_Kimbrell"
+
+[[person.meta.citation]]
+title = "Birmingham News"
+date = "2019-03-24"
+url = "http://obits.al.com/obituaries/birmingham/obituary.aspx?n=mike-kimbrell&pid=191866206#_ga=2.162668414.333766748.1553104002-1165531027.1539284574"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-22"
+
+[person.name]
+last = "Kimbrell"
+use = "Mike"
+given = "Michael Troy"
+
+[person.death]
+date = "2019-01-31"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[[person.education]]
+school.name = "Ensley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Birmingham"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"

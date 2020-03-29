@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Baker_Johnnie_B"
+
+[person.name]
+last = "Baker"
+use = "Dusty"
+given = "Johnnie B."
+
+[person.birth]
+date = "1949-06-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "187"

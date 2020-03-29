@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201908_Clevenger"
+
+[[person.meta.citation]]
+title = "Myers Funeral Service"
+date = "2019-08-29"
+url = "https://www.myersfuneral.com/obituaries/Truman-Clevenger/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-08-29"
+
+[person.name]
+last = "Clevenger"
+use = "Truman"
+given = "Truman E."
+
+[person.birth]
+date = "1932-07-09"
+
+[person.death]
+date = "2019-08-24"

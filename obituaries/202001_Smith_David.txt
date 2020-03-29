@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202001_Smith_David"
+
+[[person.meta.citation]]
+title = "The Record"
+date = "2020-01-16"
+url = "https://www.legacy.com/obituaries/troyrecord/obituary.aspx?n=david-carl-smith&pid=195047617&fhid=39889"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-16"
+
+[person.name]
+last = "Smith"
+use = "David"
+given = "David Carl"
+
+[person.birth]
+date = "1946-11-18"
+place.country = "US"
+place.state = "VT"
+place.city = "Burlington"
+
+[person.death]
+date = "2020-01-14"
+place.country = "US"
+place.state = "NY"
+place.city = "East Greenbush"
+
+[person.burial]
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Winchendon"
+
+[[person.education]]
+school.name = "Hoosic Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Schaghticoke"

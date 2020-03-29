@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "Adams_Ricky_Lee"
+
+[person.name]
+last = "Adams"
+use = "Ricky"
+given = "Ricky Lee"
+
+[person.birth]
+date = "1959-01-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Upland"
+
+[person.death]
+date = "2011-10-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Rancho Cucamonga"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "180"
+
+[person.sameas]
+ssn = "555-27-2170"
+
+[[person.resides]]
+dates = "2003"
+place.country = "US"
+place.state = "CA"
+place.city = "Alta Loma"
+place.address = "6437 Garret St."
+place.zip = "91701"
+
+
+[[person.education]]
+school.name = "Montclair High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Montclair"
+dates = "/1977"
+degree = "graduated"
+
+
+[[person.transaction]]
+date = "1977-06"
+type = "drafted"
+join.name = "Houston"
+join.league.name = "National"
+round = "1"
+pick = "14"
+
+[[person.transaction]]
+date = "1977-06-24"
+type = "signed"
+join.name = "Houston"
+join.league.name = "National"
+signers.0.name.last = "Stalling"
+signers.0.name.use = "Lynwood"
+signers.0.name.given = "Lynwood"

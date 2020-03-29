@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201902_Romano"
+
+[[person.meta.citation]]
+title = "Fuller Funeral Home"
+date = "2019-03-10"
+url = "https://www.fullernaples.com/tributes/John-Romano"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-10"
+
+[person.name]
+last = "Romano"
+use = "John"
+given = "John A."
+nick = "Honey"
+
+[person.birth]
+date = "1934-08-23"
+place.country = "US"
+place.state = "NJ"
+place.city = "Hoboken"
+
+[person.death]
+date = "2019-02-24"
+place.country = "US"
+place.state = "FL"
+place.city = "Naples"

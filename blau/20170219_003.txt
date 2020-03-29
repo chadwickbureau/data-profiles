@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170219_003"
+
+[[person.meta.citation]]
+title = "TSN"
+date = "1933-01-05"
+pages = "6"
+
+[person.name]
+last = "Sparger"
+use = "Bill"
+given = "Bill"
+
+[person.death]
+date = "1932-08"
+place.country = "US"
+place.state = "OK"
+place.city = "Durant"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Dallas"
+team.league.name = "Texas League"

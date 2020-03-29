@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170219_015"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-08-23"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Eugene Guard"
+date = "1928-02-02"
+pages = "8"
+
+[person.name]
+last = "Baker"
+use = "Loris"
+given = "Loris"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "San Francisco"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Des Moines"
+team.league.name = "Western League"

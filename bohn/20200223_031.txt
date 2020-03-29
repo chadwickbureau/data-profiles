@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_031"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-08-23"
+
+[person.name]
+last = "Leifert"
+use = "Elmer"
+given = "Elmer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Minot"
+team.league.name = "North Dakota League"

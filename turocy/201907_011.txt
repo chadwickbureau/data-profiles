@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201907_011"
+
+[[person.meta.citation]]
+title = "ottawachampions.com"
+date = "2019-07-26"
+url = "http://ottawachampions.com/en/team/roster/matt-valin"
+
+[person.name]
+last = "Valin"
+use = "Matt"
+given = "Matt"
+
+[person.birth]
+date = "1997-07-07"
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Ottawa"
+team.league.name = "Canadian-American Assocation League"
+description.bats = "L"
+description.throws = "L"
+description.height = "74"
+description.weight = "200"

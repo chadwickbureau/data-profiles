@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201806_Massuch"
+
+[[person.meta.citation]]
+title = "Pederson-Nowatka Funeral Home"
+date = "2018-06-18"
+url = "https://www.pn-fh.com/notices/RichardDick-Massuch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Massuch"
+use = "Dick"
+given = "Richard Carl"
+
+[person.birth]
+date = "1926-05-13"
+place.country = "US"
+place.state = "MI"
+place.city = "Lansing"
+
+[person.death]
+date = "2018-06-12"
+place.country = "US"
+place.state = "WI"
+place.city = "Madison"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Lansing"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

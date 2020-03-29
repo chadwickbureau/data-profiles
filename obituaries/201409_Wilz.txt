@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201409_Wilz"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "2014-09-17"
+url = "http://www.legacy.com/obituaries/dayton/obituary.aspx?n=Charles-WILZ&pid=172486196"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-17"
+
+[person.name]
+last = "Wilz"
+use = "Chuck"
+given = "Charles Michael"
+suffix = "Sr."
+
+[person.birth]
+date = "1948-06-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2014-09-06"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Belmont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Dayton"

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20191219_003"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1915-05-19"
+pages = "10"
+
+[person.name]
+last = "Jordan"
+use = "Otto"
+given = "Otto"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Valdosta"
+team.league.name = "Florida-Alabama-Georgia League"

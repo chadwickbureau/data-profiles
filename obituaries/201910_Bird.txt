@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201910_Bird"
+
+[[person.meta.citation]]
+title = "The Island Funeral Home"
+date = "2019-10-27"
+url = "https://theislandfuneralhome.com/tribute/details/154342/James-Bird/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Bird"
+use = "Bill"
+given = "James William"
+
+[person.birth]
+date = "1928-09-21"
+place.country = "US"
+place.state = "VA"
+place.city = "Fredericksburg"
+
+[person.death]
+date = "2019-10-22"
+
+[[person.education]]
+school.name = "Davidson College"
+school.type = "college"

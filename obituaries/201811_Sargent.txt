@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201811_Sargent"
+
+[[person.meta.citation]]
+title = "Flint Journal"
+date = "2018-12-02"
+url = "http://obits.mlive.com/obituaries/flint/obituary.aspx?n=william-sargent-larry&pid=190865897"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-30"
+
+[person.name]
+last = "Sargent"
+use = "Larry"
+given = "William"
+
+[person.birth]
+date = "1937-11-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Flint"
+
+[person.death]
+date = "2018-11-25"
+place.country = "US"
+place.state = "AZ"
+place.city = "Fountain Hills"
+
+[[person.education]]
+school.name = "Flint Northern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Flint"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"

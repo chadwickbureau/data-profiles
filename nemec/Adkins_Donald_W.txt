@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "Adkins_Donald_W"
+
+[person.name]
+last = "Adkins"
+use = "Dennis"
+given = "Donald W."
+
+[person.birth]
+date = "1932-11-01"
+place.country = "US"
+place.state = "MO"
+place.city = "Burlington Junction"
+
+[person.death]
+date = "2008-08-08"
+
+[person.description]
+bats = "S"
+throws = "R"
+height = "74"
+weight = "200"
+
+[[person.resides]]
+dates = "1955"
+place.country = "US"
+place.state = "MO"
+place.city = "Burlington Junction"
+
+
+[[person.education]]
+school.name = "Elmo Consolidated High School"
+school.type = "secondary"
+dates = "/1950"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+
+
+[[person.transaction]]
+date = "1954-09-15"
+type = "signed"
+join.name = "Welch"
+join.league.name = "Appalachian"
+
+[[person.transaction]]
+date = "1955-04-22"
+type = "released"
+leave.name = "Welch"
+leave.league.name = "Appalachian"
+
+[[person.transaction]]
+date = "1957-01-16"
+type = "signed"
+join.name = "Fort Walton Beach"
+join.league.name = "Alabama-Florida"
+
+[[person.transaction]]
+date = "1959-01-19"
+type = "released"
+leave.name = "Fort Walton Beach"
+leave.league.name = "Alabama-Florida"

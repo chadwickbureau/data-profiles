@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170219_118"
+
+[[person.meta.citation]]
+title = "Richmond Item"
+date = "1930-05-01"
+pages = "13"
+
+[person.name]
+last = "Moss"
+use = "Kenneth"
+given = "Kenneth"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Richmond"
+team.league.name = "Central League"
+description.bats = "R"
+description.throws = "R"
+description.height = "70"
+description.weight = "170"

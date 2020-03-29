@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201810_Rashead"
+
+[[person.meta.citation]]
+title = "Swartz Funeral Home"
+date = "2018-10-23"
+url = "http://www.swartzfuneralhomeinc.com/sitemaker/memsol.cgi?user_id=2143427"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-23"
+
+[person.name]
+last = "Rashead"
+use = "Philip"
+given = "Philip Norman"
+
+[person.birth]
+date = "1949-08-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Flint"
+
+[person.death]
+date = "2018-10-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Flint"
+
+[[person.education]]
+school.name = "St. Agnes HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Flint"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"

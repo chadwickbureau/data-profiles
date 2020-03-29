@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201409_Powell_3"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2014-09-01"
+url = "http://www.utsandiego.com/news/2014/sep/01/charlie-powell-death-athlete/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-01"
+
+[person.name]
+last = "Powell"
+use = "Charlie"
+given = "Charlie"
+
+[person.death]
+date = "2014-09-01"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[[person.education]]
+school.name = "San Diego HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"

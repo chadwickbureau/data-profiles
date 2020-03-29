@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170219_078"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[person.name]
+last = "Maltby"
+use = "Clyde"
+given = "Clyde"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "FL"
+place.city = "St. Petersburg"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.bats = "R"
+description.throws = "R"

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20191226_005"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1911-07-04"
+pages = "3"
+
+[person.name]
+last = "Stouch"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Lober"
+
+[[person.meta.citation]]
+title = "Hurd Family Funeral Home"
+date = "2019-10-07"
+url = "https://www.hurdfamilyfunerals.com/obituaries/Dale-Lober/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Lober"
+use = "Dale"
+given = "Dale E."
+
+[person.birth]
+date = "1926-01-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Cissna Park"
+
+[person.death]
+date = "2019-03-01"
+
+[person.burial]
+cemetery.name = "Chillicothe City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Chillicothe"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

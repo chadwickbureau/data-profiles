@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201406_Taranto"
+
+[[person.meta.citation]]
+title = "Sun Herald"
+date = "2014-07-02"
+url = "http://www.legacy.com/obituaries/sunherald/obituary.aspx?n=Anthony-Taranto&pid=171574622"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Taranto"
+use = "Chris"
+given = "Anthony Christopher"
+suffix = "Sr."
+
+[person.birth]
+date = "1942"
+place.country = "US"
+place.state = "MS"
+place.city = "Biloxi"
+
+[person.death]
+date = "2014-06-21"
+
+[[person.education]]
+school.name = "Notre Dame HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Biloxi"

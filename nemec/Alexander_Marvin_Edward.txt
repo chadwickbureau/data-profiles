@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "Alexander_Marvin_Edward"
+
+[person.name]
+last = "Alexander"
+use = "Marvin"
+given = "Marvin Edward"
+
+[person.birth]
+date = "1925-03-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+
+[person.death]
+date = "2013-01-05"
+place.country = "US"
+place.state = "TX"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74.5"
+weight = "190"
+
+[person.sameas]
+ssn = "460-20-9057"
+
+[[person.resides]]
+dates = "1949"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+place.address = "832 4th Ave."
+
+
+[[person.education]]
+school.name = "Dallas Tech High School"
+school.type = "secondary"
+dates = "/1942"
+degree = "graduated"

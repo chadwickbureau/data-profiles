@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190813_012"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch 1915-06-29"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Snyder"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "1B"

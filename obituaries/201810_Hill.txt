@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201810_Hill"
+
+[[person.meta.citation]]
+title = "Ledger"
+date = "2018-10-19"
+url = "http://www.legacy.com/obituaries/theledger/obituary.aspx?n=david-burnham-hill&pid=190514678"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-21"
+
+[person.name]
+last = "Hill"
+use = "Dave"
+given = "David Burnham"
+
+[person.birth]
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2018-10-16"
+
+[[person.education]]
+school.name = "Northwestern University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

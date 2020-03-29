@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202001_Davis"
+
+[[person.meta.citation]]
+title = "Cisco Funeral Home"
+date = "2020-01-20"
+url = "https://www.ciscofuneralhome.com/obituaries/Hazen-Davis/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-20"
+
+[person.name]
+last = "Davis"
+use = "Hazen"
+given = "Hazen E."
+
+[person.birth]
+date = "1935-07-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Mercer County"
+
+[person.death]
+date = "2020-01-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Celina"
+
+[person.burial]
+cemetery.name = "Swamp College Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Celina"
+
+[[person.education]]
+school.name = "Celina HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Celina"

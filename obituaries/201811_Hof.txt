@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Hof"
+
+[[person.meta.citation]]
+title = "Express-News"
+date = "2018-12-02"
+url = "https://www.legacy.com/obituaries/sanantonio/obituary.aspx?n=allen-h-hof&pid=190883661"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-02"
+
+[person.name]
+last = "Hof"
+use = "Al"
+given = "Allen H."
+
+[person.birth]
+date = "1932-07-07"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "2018-11-23"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.burial]
+cemetery.name = "Fort Sam Houston National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "San Antonio"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

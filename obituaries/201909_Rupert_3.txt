@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201909_Rupert_3"
+
+[[person.meta.citation]]
+title = "Huntingdon County Daily News"
+date = "2019-10-24"
+url = "https://www.huntingdondailynews.com/obituaries/rex-gary-rupert/article_124cc87d-3c12-54cf-8cb8-f12ed1c9b63b.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-27"
+
+[person.name]
+last = "Rupert"
+use = "Rex"
+given = "Rex Gary"
+
+[person.birth]
+date = "1933-09-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Petersburg"
+
+[person.death]
+date = "2019-09-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Grand Forks"
+
+[[person.education]]
+school.name = "Juniata Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Alexandria"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

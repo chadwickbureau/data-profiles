@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20191212_011"
+
+[[person.meta.citation]]
+title = "Winston-Salem Twin-City Daily Sentinel"
+date = "1915-03-27"
+pages = "10"
+
+[person.name]
+last = "Spaugh"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"

@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "Alworth_Frederick_Joseph"
+
+[person.name]
+last = "Alworth"
+use = "Fred"
+given = "Frederick Joseph"
+
+[person.birth]
+date = "1941-11-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "Montclair"
+
+[person.death]
+date = "2010-11-29"
+place.country = "US"
+place.state = "NJ"
+place.city = "Rockaway Township"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "180"
+
+[person.sameas]
+ssn = "157-32-8744"
+
+[[person.resides]]
+dates = "1961"
+place.country = "US"
+place.state = "NJ"
+place.city = "Glen Ridge"
+place.address = "4 Midland Avenue"
+
+
+[[person.education]]
+school.name = "Glen Ridge High School"
+school.type = "secondary"
+dates = "/1959"
+degree = "graduated"
+
+[[person.education]]
+school.name = "Villanova University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1960"
+team.name = "Montclair Orioles"
+team.caliber = "semipro"

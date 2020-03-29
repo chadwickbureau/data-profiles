@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170219_133"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/286-RUMPLE_Shine.pdf"
+
+[person.name]
+last = "Rumple"
+use = "Eugene"
+given = "Eugene"
+nick = "Shine"
+
+[person.death]
+date = "1942-09-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Odessa"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"

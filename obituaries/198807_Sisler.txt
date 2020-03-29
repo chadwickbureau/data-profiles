@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "198807_Sisler"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "1988-07-10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-12"
+
+[person.name]
+last = "Sisler"
+use = "William"
+given = "William F."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+[person.death]
+date = "1988-07-06"
+place.country = "US"
+place.state = "FL"
+place.city = "St. Petersburg"

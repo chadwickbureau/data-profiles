@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201907_Anderson"
+
+[[person.meta.citation]]
+title = "Scottsbluff Star-Herald"
+date = "2019-07-23"
+url = "https://www.starherald.com/obituaries/clyde-andy-anderson/article_f4bfea7d-7bb8-501c-a5a9-80932d0ba0c2.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-01"
+
+[person.name]
+last = "Anderson"
+use = "Andy"
+given = "Clyde"
+
+[person.birth]
+date = "1926-07-31"
+place.country = "US"
+place.state = "NE"
+place.city = "Minatare"
+
+[person.death]
+date = "2019-07-16"
+place.country = "US"
+place.state = "NE"
+place.city = "Chadron"
+
+[person.burial]
+cemetery.name = "Gering West Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Gering"
+
+[[person.education]]
+school.name = "Minatare HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Minatare"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

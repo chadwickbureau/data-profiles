@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Booker"
+
+[[person.meta.citation]]
+title = "Rich & Thompson Funeral Home"
+date = "2019-04-01"
+url = "https://www.richandthompson.com/tributes/Gregory-Booker"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-01"
+
+[person.name]
+last = "Booker"
+use = "Greg"
+given = "Gregory Scott"
+
+[person.birth]
+date = "1960-06-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Burlington"
+
+[person.death]
+date = "2019-03-30"
+
+[[person.education]]
+school.name = "Hugh M. Cummings HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Burlington"
+
+[[person.education]]
+school.name = "Elon University"
+school.type = "college"

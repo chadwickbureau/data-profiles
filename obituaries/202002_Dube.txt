@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202002_Dube"
+
+[[person.meta.citation]]
+title = "Tacoma News Tribune"
+date = "2020-03-08"
+url = "https://www.legacy.com/obituaries/tribnet/obituary.aspx?n=william-h-dube&pid=195630553"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-08"
+
+[person.name]
+last = "Dube"
+use = "Bill"
+given = "William Herbert"
+
+[person.birth]
+date = "1937-05-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.death]
+date = "2020-02-15"
+
+[[person.education]]
+school.name = "University of Texas at Austin"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"

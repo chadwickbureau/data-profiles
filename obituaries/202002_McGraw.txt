@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202002_McGraw"
+
+[[person.meta.citation]]
+title = "TheAdvocate.com"
+date = "2020-02-23"
+url = "https://obits.theadvocate.com/obituaries/theadvocate/obituary.aspx?n=w-leon-mcgraw-coach&pid=195490537&fhid=17442"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-23"
+
+[person.name]
+last = "McGraw"
+use = "Leon"
+given = "W. Leon"
+
+[person.birth]
+date = "1928-10-25"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.death]
+date = "2020-02-19"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.burial]
+cemetery.name = "Roselawn Memorial Park and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Baton Rouge"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

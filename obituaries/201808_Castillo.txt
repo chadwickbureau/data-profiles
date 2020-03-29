@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201808_Castillo"
+
+[[person.meta.citation]]
+title = "El Diario"
+date = "2018-08-09"
+url = "http://www.eldiariodecoahuila.com.mx/accion/2018/8/9/fallece-bombero-castillo-751602.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-18"
+
+[person.name]
+last = "Castillo"
+use = "Enrique"
+given = "Enrique"
+matrilineal = "Tello"
+nick = "El Bombero"
+
+[person.death]
+date = "2018-08-07"

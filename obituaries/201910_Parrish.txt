@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201910_Parrish"
+
+[[person.meta.citation]]
+title = "Herman H. Lohmeyer Funeral Home"
+date = "2019-11-02"
+url = "https://www.hhlohmeyer.com/memorials/bernard-parrish/3698010/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-02"
+
+[person.name]
+last = "Parrish"
+use = "Bernie"
+given = "Bernard Paul"
+suffix = "Sr."
+
+[person.birth]
+date = "1936-04-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2019-10-23"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "PK Yonge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Gainesville"
+
+[[person.education]]
+school.name = "University of Florida"
+school.type = "college"

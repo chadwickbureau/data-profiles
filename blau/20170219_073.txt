@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170219_073"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-05-05"
+pages = "8"
+
+[person.name]
+last = "Butler"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "West Palm Beach"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Daytona Beach"
+team.league.name = "Florida State League"
+description.throws = "L"

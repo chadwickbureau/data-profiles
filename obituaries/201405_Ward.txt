@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201405_Ward"
+
+[[person.meta.citation]]
+title = "Hornbeak Funeral Chapel"
+date = "2014-05-26"
+url = "http://www.hornbeakfuneralchapel.com/fh/obituaries/obituary.cfm?o_id=2527765&fh_id=10731"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-26"
+
+[person.name]
+last = "Ward"
+use = "Walter"
+given = "Walter Howard"
+
+[person.birth]
+date = "1920-02-10"
+
+[person.death]
+date = "2014-05-21"
+place.country = "US"
+place.state = "TN"
+place.city = "Union City"
+
+[person.burial]
+cemetery.name = "Cayce Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Cayce"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

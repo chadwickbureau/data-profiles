@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170219_009"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Lord"
+use = "Carlton"
+given = "Carlton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Philadelphia"
+team.league.name = "National League"

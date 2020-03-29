@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "20170219_038"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1920-04-21"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1920-04-18"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1921-09-10"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1921-05-25"
+pages = "4"
+
+[[person.meta.citation]]
+title = "(Greenwood SC) Index-Journal"
+date = "1923-05-08"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1923-04-20"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1924-05-21"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1922-08-06"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1923-04-20"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Cardner"
+use = "Irwin"
+given = "Irwin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.height = "78"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Worcester"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Albany"
+team.league.name = "Eastern League"

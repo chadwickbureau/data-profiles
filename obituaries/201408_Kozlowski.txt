@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "201408_Kozlowski"
+
+[[person.meta.citation]]
+title = "Burns Funeral Home"
+date = "2014-08-23"
+url = "http://www.burnsfuneral.com/obituaries/Michael-Kozlowski-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-23"
+
+[person.name]
+last = "Kozlowski"
+use = "Mike"
+given = "Michael Stephen"
+
+[person.birth]
+date = "1990-08-25"
+
+[person.death]
+date = "2014-08-16"
+
+[person.description]
+bats = "R"
+
+[[person.education]]
+school.name = "Crown Point HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Crown Point"
+
+[[person.education]]
+school.name = "John A. Logan College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Carterville"
+
+[[person.education]]
+school.name = "Murray State University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Murray"

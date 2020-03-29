@@ -1,0 +1,68 @@
+[[person]]
+
+[person.meta]
+key = "158788"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/158788"
+title = "The Sporting News Player Contract Cards, ScanID: 1032000189"
+
+[person.name]
+last = "Moyer"
+given = "Chas. E."
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+
+[person.birth]
+date = "1889"
+place.country = "US"
+place.state = "OH"
+place.city = "Andover"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Youngstown"
+note = "Youngstown 1910"
+
+[[person.transaction]]
+date = "1910-07"
+type = "sold"
+leave.name = "Washington"
+note = "sold to Washington 1910-07"
+
+[[person.transaction]]
+date = "1911-05"
+type = "released"
+leave.name = "Washington"
+note = "rel 1911-05"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "to Youngstown"
+note = "to Youngstown 1911"
+
+[[person.transaction]]
+date = "1911-05"
+type = "suspended"
+join.name = "to Youngstown"
+note = "susp 1911-05"
+
+[[person.transaction]]
+date = "1912-01"
+type = "signed"
+join.name = "Toledo"
+note = "Toledo 1912-01"
+
+[[person.transaction]]
+date = "1912-05"
+type = "released"
+leave.name = "Toledo"
+join.name = "Troy"
+note = "rel to Troy 1912-05"
+

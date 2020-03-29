@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201410_Hayes"
+
+[[person.meta.citation]]
+title = "CaursoCare.com"
+date = "2014-10-06"
+url = "http://www.carusocare.com/obituaries.cfm?ID=300760"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-10-06"
+
+[person.name]
+last = "Hayes"
+use = "Greg"
+given = "Gregory T."
+
+[person.birth]
+date = "1924-11-18"
+place.country = "CA"
+place.state = "NL"
+place.city = "Brigus"
+
+[person.death]
+date = "2014-10-02"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Cherry Hill"
+
+[[person.education]]
+school.name = "Camden HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Camden"

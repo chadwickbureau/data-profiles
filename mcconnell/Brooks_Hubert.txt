@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "Brooks_Hubert"
+
+[person.name]
+last = "Brooks"
+use = "Hubert"
+given = "Hubert"
+
+[person.birth]
+date = "1956-09-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "200"

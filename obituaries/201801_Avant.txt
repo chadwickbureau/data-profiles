@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201801_Avant"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2018-09-11"
+url = "https://www.dignitymemorial.com/obituaries/texarkana-tx/william-avant-7746848"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-11"
+
+[person.name]
+last = "Avant"
+use = "Willie"
+given = "William Ray"
+
+[person.birth]
+date = "1932-09-22"
+place.country = "US"
+place.state = "AR"
+place.city = "Hampton"
+
+[person.death]
+date = "2018-01-31"
+
+[person.description]
+throws = "L"

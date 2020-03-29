@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20170219_075"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1923-06-25"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1928-01-20"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1928-09-09"
+pages = "47"
+
+[person.name]
+last = "Beasley"
+use = "Hoke"
+given = "Hoke Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Sanford"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Sanford"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Erie"
+team.league.name = "Central League"

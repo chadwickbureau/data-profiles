@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Bochte_Bruce_Anton"
+
+[person.name]
+last = "Bochte"
+use = "Bruce"
+given = "Bruce Anton"
+
+[person.birth]
+date = "1950-11-12"
+place.country = "US"
+place.state = "CA"
+place.city = "Pasadena"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "75"
+weight = "200"
+
+[[person.education]]
+school.name = "University of Santa Clara"
+school.type = "college"
+degree = "graduated"

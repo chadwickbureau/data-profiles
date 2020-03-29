@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Beall_John_Woolf"
+
+[person.name]
+last = "Beall"
+use = "John"
+given = "John Woolf"
+
+[person.birth]
+date = "1882-03-12"
+place.country = "US"
+place.state = "MD"
+place.city = "Beltsville"
+
+[person.death]
+date = "1926-06-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Beltsville"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "72"
+weight = "180"

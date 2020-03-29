@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "201908_Mickey"
+
+[[person.meta.citation]]
+title = "Salem Funeral Home"
+date = "2019-12-28"
+url = "https://www.salemfh.com/obituaries/Ted-Andrew-Mickey?obId=5630856#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Mickey"
+use = "Ted"
+given = "Ted Andrew"
+
+[person.birth]
+date = "1928-12-11"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[person.death]
+date = "2019-08-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[person.burial]
+cemetery.name = "Forsyth Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Winston-Salem"
+
+[[person.education]]
+school.name = "Mineral Springs HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Winston-Salem"
+
+[[person.education]]
+school.name = "High Point University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

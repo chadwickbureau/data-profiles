@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201902_Surma"
+
+[[person.meta.citation]]
+title = "Church & Chapel"
+date = "2019-05-27"
+url = "https://www.churchandchapel.com/obituary/Stanley-Surma/Milwaukee-Wisconsin/1833690"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Surma"
+use = "Stan"
+given = "Stanley"
+
+[person.birth]
+date = "1923-05-08"
+
+[person.death]
+date = "2019-02-02"
+
+[person.burial]
+cemetery.name = "St. Adalbert Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Milwaukee"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

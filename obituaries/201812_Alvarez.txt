@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201812_Alvarez"
+
+[[person.meta.citation]]
+title = "Scanio-Harper Funeral Home"
+date = "2019-01-03"
+url = "http://www.scanioharperfuneralhome.com/obituary/joseph-m-joey-alvarez"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-03"
+
+[person.name]
+last = "Alvarez"
+use = "Joey"
+given = "Joseph M."
+
+[person.birth]
+date = "1978-10-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Bellflower"
+
+[person.death]
+date = "2018-12-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Temple"
+
+[person.burial]
+cemetery.name = "Bellwood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Temple"
+
+[[person.education]]
+school.name = "Temple HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Temple"
+
+[[person.education]]
+school.name = "Texas State University"
+school.type = "college"

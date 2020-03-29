@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201812_Taylor"
+
+[[person.meta.citation]]
+title = "TurnTo23.com"
+date = "2018-12-25"
+url = "https://www.turnto23.com/news/local-news/coroner-identifies-victim-of-traffic-fatality-in-california-city"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Taylor"
+use = "Carlos"
+given = "Carlos Javier"
+
+[person.death]
+date = "2018-12-15"
+place.country = "US"
+place.state = "CA"
+place.city = "California City"

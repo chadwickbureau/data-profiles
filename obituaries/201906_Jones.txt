@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201906_Jones"
+
+[[person.meta.citation]]
+title = "Herald Tribune"
+date = "2019-06-11"
+url = "https://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=larry-k-jones&pid=193108282"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-06-11"
+
+[person.name]
+last = "Jones"
+use = "Larry"
+given = "Larry K."
+
+[person.birth]
+date = "1955-02-05"
+
+[person.death]
+date = "2019-06-03"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[[person.education]]
+school.name = "Seminole HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Seminole"
+
+[[person.education]]
+school.name = "Florida State University"
+school.type = "college"

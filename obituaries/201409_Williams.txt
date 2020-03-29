@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201409_Williams"
+
+[[person.meta.citation]]
+title = "Roanoke Times"
+date = "2014-09-30"
+url = "http://www.roanoke.com/obituaries/williams-sr-robert-tennant/article_6e3bc875-af7e-5c46-8943-581a99d8be58.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-09-30"
+
+[person.name]
+last = "Williams"
+use = "Bob"
+given = "Robert Tennant"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-11-21"
+place.country = "US"
+place.state = "MD"
+place.city = "Cumberland"
+
+[person.death]
+date = "2014-09-27"
+
+[person.burial]
+cemetery.name = "Birchlawn Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Pearisburg"
+
+[[person.education]]
+school.name = "Allegany HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Cumberland"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"

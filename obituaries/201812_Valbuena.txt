@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "201812_Valbuena"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2018-12-07"
+url = "https://www.nytimes.com/2018/12/07/sports/luis-valbuena-jose-castillo-.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Valbuena"
+use = "Luis"
+given = "Luis"
+
+[person.death]
+date = "2018-12-06"
+place.country = "VE"
+place.state = "Yaracuy"
+place.city = "Yaracuy"

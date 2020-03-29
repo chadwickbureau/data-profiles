@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "201908_Vedder"
+
+[[person.meta.citation]]
+title = "Reeves & Baskerville Funeral Homes"
+date = "2019-12-25"
+url = "https://www.reevesfuneralhomes.com/notices/Charles-VedderSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-25"
+
+[person.name]
+last = "Vedder"
+use = "Chuck"
+given = "Charles T."
+suffix = "Sr."
+
+[person.birth]
+date = "1923-04-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Beardstown"
+
+[person.death]
+date = "2019-08-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Wilmington"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+
+[[person.education]]
+school.name = "Wilmington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Wilmington"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "201911_Moir"
+
+[[person.meta.citation]]
+title = "John M. Oakey & Son Funeral Home"
+date = "2019-11-18"
+url = "https://memorials.johnmoakey.com/charles-moir/4029548/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Moir"
+use = "Charles"
+given = "Charles Robert"
+
+[person.birth]
+date = "1930-11-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Stokes County"
+
+[person.death]
+date = "2019-11-15"
+place.country = "US"
+place.state = "VA"
+place.city = "Salem"
+
+[person.burial]
+cemetery.name = "Sherwood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Salem"

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201408_Gray"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "2014-08-20"
+url = "http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=ELMER-GRAY&pid=172178202"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-20"
+
+[person.name]
+last = "Gray"
+use = "Elmer"
+given = "Elmer B."
+nick = "Dutch"
+
+[person.death]
+date = "2014-08-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Dormont"
+
+[person.burial]
+cemetery.name = "Mount Lebanon Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Pittsburgh"
+
+[[person.education]]
+school.name = "South Hills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittsburgh"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

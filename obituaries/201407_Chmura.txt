@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201407_Chmura"
+
+[[person.meta.citation]]
+title = "The Republican"
+date = "2014-07-08"
+url = "http://obits.masslive.com/obituaries/masslive/obituary.aspx?n=Bruno-Chmura&pid=171641500"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-08"
+
+[person.name]
+last = "Chmura"
+use = "Bruno"
+given = "Bruno J."
+
+[person.birth]
+date = "1923"
+
+[person.death]
+date = "2014-07-03"
+
+[person.burial]
+cemetery.name = "St. Aloysius Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Springfield Trade HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Springfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202003_Hinds"
+
+[[person.meta.citation]]
+title = "Reigle Funeral Home"
+date = "2020-03-09"
+url = "https://www.dignitymemorial.com/obituaries/flushing-mi/john-hinds-9075927"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Hinds"
+use = "John"
+given = "John Lewis"
+
+[person.birth]
+date = "1942-04-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Flushing"
+
+[person.death]
+date = "2020-03-06"

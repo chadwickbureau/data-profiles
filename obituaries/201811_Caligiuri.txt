@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201811_Caligiuri"
+
+[[person.meta.citation]]
+title = "Bauer Funeral Home"
+date = "2018-12-09"
+url = "https://bauerfuneral.com/viewObit.php?oID=2188&fbclid=IwAR0YaormjaDrVL26r4dZhy_gtGN59vmMyN23hJ-UTpjgQYu5ka5L2SVPNN8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Caligiuri"
+use = "Fred"
+given = "Fred J."
+
+[person.birth]
+date = "1918-10-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Endeavor"
+
+[person.death]
+date = "2018-11-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"
+
+[person.burial]
+cemetery.name = "Knox Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Knox"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"

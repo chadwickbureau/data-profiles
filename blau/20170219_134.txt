@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170219_134"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Aubrey"
+use = "Harry"
+given = "Harry"
+nick = "Chub"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Boston"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"

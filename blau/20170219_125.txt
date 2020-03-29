@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170219_125"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-03-25"
+pages = "3"
+
+[person.name]
+last = "Sapp"
+use = "Charley"
+given = "Charley"
+
+[[person.alias]]
+name.last = "Blake"
+name.use = "Otto"
+name.given = "Otto"
+dates = "1910/1910"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lancaster"
+team.league.name = "Ohio State League"

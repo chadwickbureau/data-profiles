@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201905_Cary"
+
+[[person.meta.citation]]
+title = "James H Davis Funeral Home"
+date = "2019-05-27"
+url = "https://www.davisfuneralhome.com/obituary/Larry-Drake-Cary/Owensboro-Kentucky/1846924"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-27"
+
+[person.name]
+last = "Cary"
+use = "Larry"
+given = "Larry Drake"
+nick = "L. D."
+
+[person.birth]
+date = "1941-04-04"
+place.country = "US"
+place.state = "KY"
+place.city = "Weir"
+
+[person.death]
+date = "2019-05-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Augusta"
+
+[person.burial]
+cemetery.name = "Lone Star Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Greenville"
+
+[[person.education]]
+school.name = "Muhlenberg Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Greenville"

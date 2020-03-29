@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_Scharnick"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2019-02-10"
+url = "https://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=jeff-scharnick&pid=191497532"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-10"
+
+[person.name]
+last = "Scharnick"
+use = "Chet"
+given = "Chet"
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "Sanger"
+
+[person.death]
+date = "2019-01-18"
+
+[person.burial]
+cemetery.name = "Sanger Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Sanger"

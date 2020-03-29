@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201911_Brooks"
+
+[[person.meta.citation]]
+title = "Emerson Funeral Home"
+date = "2019-11-18"
+url = "https://www.emersonfuneralhome.com/obituary/bearl-brooks"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-18"
+
+[person.name]
+last = "Brooks"
+use = "Bearl"
+given = "Bearl"
+
+[person.birth]
+date = "1926-06-28"
+
+[person.death]
+date = "2019-11-10"
+place.country = "US"
+place.state = "AR"
+place.city = "Jonesboro"
+
+[person.burial]
+cemetery.name = "Jonesboro Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Jonesboro"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

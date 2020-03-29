@@ -1,0 +1,100 @@
+[[person]]
+
+[person.meta]
+key = "Zelenak_Nicholas_Steven"
+
+[person.name]
+last = "Zelenak"
+use = "Nicholas"
+given = "Nicholas Steven"
+
+[person.birth]
+date = "1940-01-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2013-05-08"
+place.country = "US"
+place.state = "MT"
+place.city = "Libby"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "70"
+weight = "180"
+
+[person.sameas]
+ssn = "363-40-9314"
+
+[[person.resides]]
+dates = "1961"
+place.country = "US"
+place.state = "MI"
+place.city = "Lincoln Park"
+place.address = "669 Riverbank"
+
+
+[[person.education]]
+school.name = "Lincoln Park High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"
+
+
+[[person.playing]]
+season = "1959"
+league.name = "New York-Pennsylvania League"
+splits.0.team.name = "Erie"
+totals.F_POS = "OF-3B"
+totals.B_G = "25"
+totals.B_AB = "93"
+totals.B_R = "15"
+totals.B_H = "24"
+totals.B_TB = "39"
+totals.B_2B = "6"
+totals.B_3B = "0"
+totals.B_HR = "3"
+totals.B_RBI = "10"
+totals.B_SB = "0"
+totals.B_AVG = ".258"
+
+[[person.playing]]
+season = "1960"
+league.name = "Midwest League"
+splits.0.team.name = "Kokomo"
+totals.F_POS = "OF-3B"
+totals.B_G = "119"
+totals.B_AB = "441"
+totals.B_R = "64"
+totals.B_H = "117"
+totals.B_TB = "171"
+totals.B_2B = "17"
+totals.B_3B = "2"
+totals.B_HR = "11"
+totals.B_RBI = "74"
+totals.B_SB = "3"
+totals.B_AVG = ".265"
+
+[[person.playing]]
+season = "1961"
+league.name = "New York-Pennsylvania League"
+splits.0.team.name = "Jamestown"
+totals.F_POS = "OF-3B"
+totals.B_G = "15"
+totals.B_AB = "53"
+totals.B_R = "8"
+totals.B_H = "10"
+totals.B_TB = "12"
+totals.B_2B = "2"
+totals.B_3B = "0"
+totals.B_HR = "0"
+totals.B_RBI = "6"
+totals.B_SB = "0"
+totals.B_AVG = ".189"

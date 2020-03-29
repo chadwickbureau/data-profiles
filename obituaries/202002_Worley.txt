@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202002_Worley"
+
+[[person.meta.citation]]
+title = "Lamiell Funeral Home"
+date = "2020-02-09"
+url = "https://www.lamiellfuneralhome.com/obituaries/Kenneth-M-Worley?obId=10959023#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-09"
+
+[person.name]
+last = "Worley"
+use = "Kenneth"
+given = "Kenneth M."
+
+[person.birth]
+date = "1930-07-11"
+place.country = "US"
+place.state = "VA"
+place.city = "Bristol"
+
+[person.death]
+date = "2020-02-07"
+
+[person.burial]
+cemetery.name = "Forest Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Canton"

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "201910_Kay"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2019-10-07"
+url = "https://www.legacy.com/obituaries/northjersey/obituary.aspx?n=william-m-kay&pid=194084352&fhid=17136"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Kay"
+use = "William"
+given = "William M."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Bergenfield"
+
+[person.death]
+date = "2019-10-02"
+
+[person.burial]
+cemetery.name = "Brigadier General William C. Doyle Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Arneytown"
+
+[[person.education]]
+school.name = "Fordham University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201601_Sautter"
+
+[[person.meta.citation]]
+title = "Anderson Stevenson Wilke Funeral Home"
+date = "2018-07-20"
+url = "http://helenafuneralhome.com/obituaries/jack-sautter-age-85-of-townsend/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Sautter"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1930-04-06"
+place.country = "US"
+place.state = "MT"
+place.city = "Piedmont"
+
+[person.death]
+date = "2016-01-23"
+
+[person.burial]
+cemetery.name = "Deep Creek Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MT"
+cemetery.place.city = "Townsend"
+
+[[person.education]]
+school.name = "Broadwater HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MT"
+school.place.city = "Townsend"
+
+[[person.education]]
+school.name = "Montana State University"
+school.type = "college"

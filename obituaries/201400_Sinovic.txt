@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201400_Sinovic"
+
+[[person.meta.citation]]
+title = "OregonLive.com"
+date = "2014-03-04"
+url = "http://blog.oregonlive.com/my-portland/2014/03/my_friend_dick.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-12-11"
+
+[person.name]
+last = "Sinovic"
+use = "Dick"
+given = "Richard"
+
+[person.birth]
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.death]
+date = "2014"
+
+[[person.education]]
+school.name = "Commerce HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "Bolling_Frank_Elmore"
+
+[person.name]
+last = "Bolling"
+use = "Frank"
+given = "Frank Elmore"
+
+[person.birth]
+date = "1931-11-16"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "175"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bolling"
+person.name.use = "Milt"
+person.name.given = "Milt"
+
+
+[[person.education]]
+school.name = "Spring Hill College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Mobile"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1955/1955"

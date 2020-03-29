@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201405_Gordon"
+
+[[person.meta.citation]]
+title = "The Enterprise"
+date = "2014-05-28"
+url = "http://www.legacy.com/obituaries/southofboston-enterprise/obituary.aspx?n=Michael-Gordon&pid=171147392"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-05-28"
+
+[person.name]
+last = "Gordon"
+use = "Mike"
+given = "Michael W."
+
+[person.birth]
+date = "1953-09-11"
+place.country = "US"
+place.state = "MA"
+place.city = "Leominster"
+
+[person.death]
+date = "2014-05-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.burial]
+cemetery.name = "Pine Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "West Bridgewater"
+
+[[person.education]]
+school.name = "Brockton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Brockton"

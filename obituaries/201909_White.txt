@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "201909_White"
+
+[[person.meta.citation]]
+title = "WhoPassedOn.com"
+date = "2019-12-25"
+url = "https://whopassedon.com/david-white-obituary/1770551551/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-25"
+
+[person.name]
+last = "White"
+use = "Dean"
+given = "David Dean"
+
+[person.birth]
+date = "1933-01-05"
+place.country = "US"
+place.state = "SC"
+place.city = "Clover"
+
+[person.death]
+date = "2019-09-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Kings Mountain"
+
+[person.burial]
+cemetery.name = "Woodside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Clover"
+
+[[person.education]]
+school.name = "Clover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Clover"
+
+[[person.education]]
+school.name = "Oak Ridge Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Oak Ridge"
+
+[[person.education]]
+school.name = "Belmont Abbey College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

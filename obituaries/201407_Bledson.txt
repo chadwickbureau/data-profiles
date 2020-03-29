@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201407_Bledson"
+
+[[person.meta.citation]]
+title = "Watson-Hunt Funeral Home"
+date = "2014-07-20"
+url = "http://www.watsonhunt.com/sitemaker/sites/WATSON5/obit.cgi?user=1359817Bledsoe"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-20"
+
+[person.name]
+last = "Bledsoe"
+use = "Billy"
+given = "William Franklin"
+
+[person.birth]
+date = "1930-08-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Perry"
+
+[person.death]
+date = "2014-07-16"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Perry"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

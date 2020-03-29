@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "201910_Radley"
+
+[[person.meta.citation]]
+title = "McAndrew Funeral Home"
+date = "2019-10-14"
+url = "https://www.mcandrewfuneralhomes.net/obituary/robert-radley"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-14"
+
+[person.name]
+last = "Radley"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1931-01-29"
+place.country = "US"
+place.state = "NY"
+place.city = "Batavia"
+
+[person.death]
+date = "2019-10-06"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Batavia"
+
+[[person.education]]
+school.name = "Batavia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Batavia"

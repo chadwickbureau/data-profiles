@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "Brown_Robert_William"
+
+[person.name]
+last = "Brown"
+use = "Robert"
+given = "Robert William"
+
+[person.birth]
+date = "1924-10-25"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "73"
+weight = "180"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+[[person.education]]
+school.name = "UCLA"
+school.type = "college"
+
+[[person.education]]
+school.name = "Tulane University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+dates = "1953/1953"

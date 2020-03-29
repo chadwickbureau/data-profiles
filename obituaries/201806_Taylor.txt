@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201806_Taylor"
+
+[[person.meta.citation]]
+title = "Woodfin Chapel"
+date = "2018-06-06"
+url = "http://www.woodfinchapel.com/memsol.cgi?user_id=2110622"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Taylor"
+use = "Chuck"
+given = "Chuck"
+
+[person.birth]
+date = "1942-04-18"
+
+[person.death]
+date = "2018-06-05"
+place.country = "US"
+place.state = "TN"
+place.city = "Murfreesboro"
+
+[[person.education]]
+school.name = "Middle Tennessee State"
+school.type = "college"

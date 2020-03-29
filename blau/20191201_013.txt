@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20191201_013"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-07-01"
+pages = "20"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Dallas"
+team.league.name = "Texas League"

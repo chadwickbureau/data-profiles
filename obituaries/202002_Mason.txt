@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202002_Mason"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2020-03-01"
+url = "https://www.legacy.com/obituaries/name/charles-mason-obituary?pid=195528075"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "Mason"
+use = "Chuck"
+given = "Charles W."
+
+[person.birth]
+date = "1929-09-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Elyria"
+
+[person.death]
+date = "2020-02-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Elyria"
+
+[person.burial]
+cemetery.name = "St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Elyria"
+
+[[person.education]]
+school.name = "Elyria HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Elyria"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

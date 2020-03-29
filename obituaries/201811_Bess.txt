@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201811_Bess"
+
+[[person.meta.citation]]
+title = "BachmanHebble Funeral Home"
+date = "2018-11-04"
+url = "http://www.bachmanhebble.com/book-of-memories/3642024/Bess-Michael/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Bess"
+use = "Mike"
+given = "Michael D."
+
+[person.birth]
+date = "1951-12-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Battle Creek"
+
+[person.death]
+date = "2018-11-01"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[[person.education]]
+school.name = "Battle Creek Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Battle Creek"
+
+[[person.education]]
+school.name = "Kellogg Community College"
+school.type = "college"

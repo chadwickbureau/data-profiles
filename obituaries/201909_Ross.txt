@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "201909_Ross"
+
+[[person.meta.citation]]
+title = "Harper Funeral Home"
+date = "2019-09-17"
+url = "https://www.harper-funeralhome.com/obituaries/Johnny-Ross?obId=7217855#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-17"
+
+[person.name]
+last = "Ross"
+use = "Johnny"
+given = "Johnny"
+
+[person.birth]
+date = "1931-12-05"
+place.country = "US"
+place.state = "KY"
+place.city = "Stearns"
+
+[person.death]
+date = "2019-09-11"
+place.country = "US"
+place.state = "TX"
+place.city = "San Angelo"
+
+[person.burial]
+cemetery.name = "Calvary Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "San Angelo"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

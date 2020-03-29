@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Allington_William_Baird"
+
+[person.name]
+last = "Allington"
+use = "William"
+given = "William Baird"
+
+[person.birth]
+date = "1903-10-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Cambridge"
+
+[person.death]
+date = "1966-08-17"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.description]
+bats = "L"
+throws = "R"
+height = "69"
+weight = "160"

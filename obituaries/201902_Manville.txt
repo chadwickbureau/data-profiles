@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "201902_Manville"
+
+[[person.meta.citation]]
+title = "Ann Arbor News"
+date = "2019-03-07"
+url = "http://obits.mlive.com/obituaries/annarbor/obituary.aspx?n=richard-manville&pid=191737573"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-06"
+
+[person.name]
+last = "Manville"
+use = "Dick"
+given = "Richard Wesley"
+
+[person.birth]
+date = "1925-12-31"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.death]
+date = "2019-02-13"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Springs"
+
+[[person.education]]
+school.name = "Harvard University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Yale University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "201904_Wankier"
+
+[[person.meta.citation]]
+title = "Anderson & Sons Mortuary"
+date = "2019-04-17"
+url = "https://www.andersonmortuary.com/notices/Sherman-Wankier"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-04-17"
+
+[person.name]
+last = "Wankier"
+use = "Sherman"
+given = "Sherman Russell"
+
+[person.birth]
+date = "1930-04-21"
+place.country = "US"
+place.state = "UT"
+place.city = "Levan"
+
+[person.death]
+date = "2019-04-11"
+place.country = "US"
+place.state = "UT"
+place.city = "American Fork"

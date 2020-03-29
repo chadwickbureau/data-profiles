@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201408_Naughton"
+
+[[person.meta.citation]]
+title = "Trinka-Faustini Funeral Service"
+date = "2014-08-28"
+url = "http://www.trinkafaustini.com/fh/obituaries/obituary.cfm?o_id=2657977&fh_id=12270"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-08-25"
+
+[person.name]
+last = "Naughton"
+use = "Tom"
+given = "Thomas G."
+
+[person.birth]
+date = "1930-10-13"
+
+[person.death]
+date = "2014-08-26"
+place.country = "US"
+place.state = "NJ"
+place.city = "Maywood"
+
+[person.burial]
+cemetery.name = "George Washington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Paramus"
+
+[[person.military]]
+country = "US"
+branch = "Army"

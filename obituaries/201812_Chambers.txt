@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201812_Chambers"
+
+[[person.meta.citation]]
+title = "Burkey-Truby Funeral Home"
+date = "2018-12-30"
+url = "http://www.burket-truby.com/obitscurrent.cfm?id=2739"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Chambers"
+use = "Doug"
+given = "Douglas Reed"
+
+[person.birth]
+date = "1943-10-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[person.death]
+date = "2018-12-27"
+
+[[person.education]]
+school.name = "Johnstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Johnstown"
+
+[[person.education]]
+school.name = "University of Pittsburgh"
+school.type = "college"

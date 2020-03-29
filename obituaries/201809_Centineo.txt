@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201809_Centineo"
+
+[[person.meta.citation]]
+title = "VanderPlaat Funeral Home"
+date = "2018-09-14"
+url = "https://vanderplaatfuneralhome.com/tribute/details/3640/Philip-Centineo/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-14"
+
+[person.name]
+last = "Centineo"
+use = "Phil"
+given = "Philip A."
+
+[person.birth]
+date = "1934"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2018-09-03"
+place.country = "US"
+place.state = "NJ"
+place.city = "Galloway Township"
+
+[[person.education]]
+school.name = "Lafayette HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "Brooklyn College"
+school.type = "college"

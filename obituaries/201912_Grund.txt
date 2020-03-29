@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201912_Grund"
+
+[[person.meta.citation]]
+title = "Milwaukee Journal Sentinel"
+date = "2019-12-26"
+url = "https://www.legacy.com/obituaries/jsonline/obituary.aspx?n=raymond-roy-grund&pid=194847473"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-28"
+
+[person.name]
+last = "Grund"
+use = "Ray"
+given = "Raymond Roy"
+
+[person.birth]
+date = "1932-09-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2019-12-24"
+
+[[person.education]]
+school.name = "Lane Tech College Prep HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"

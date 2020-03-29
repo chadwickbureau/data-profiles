@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201903_Wiltsee"
+
+[[person.meta.citation]]
+title = "O’Riley Funeral Home"
+date = "2019-03-11"
+url = "https://www.orileyfuneralhome.com/obituaries/Edward-Lewis-Wiltsee?obId=4216043"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-03-11"
+
+[person.name]
+last = "Wiltsee"
+use = "Ed"
+given = "Edward Lewis"
+
+[person.birth]
+date = "1927-06-15"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2019-03-06"
+
+[person.burial]
+cemetery.name = "Washington Park East Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Indianapolis"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

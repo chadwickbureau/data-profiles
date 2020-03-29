@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "20200223_039"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1923-05-22"
+
+[person.name]
+last = "Hennessey"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Minot"
+team.league.name = "North Dakota League"

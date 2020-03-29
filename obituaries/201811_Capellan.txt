@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "201811_Capellan"
+
+[[person.meta.citation]]
+title = "SI.com"
+date = "2018-11-04"
+url = "https://www.si.com/mlb/2018/11/03/reds-pitcher-killed-car-crash-dominican-republic"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-11-04"
+
+[person.name]
+last = "Capellan"
+use = "Jairo"
+given = "Jairo"
+
+[person.death]
+date = "2018-11-03"
+place.country = "DO"

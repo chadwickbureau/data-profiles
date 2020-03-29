@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "Anderson_James_Robert"
+
+[person.name]
+last = "Anderson"
+use = "James"
+given = "James Robert"
+
+[person.birth]
+date = "1930"
+place.country = "US"
+place.state = "OK"
+place.city = "Manetta"
+
+[person.death]
+date = "2011-01-31"
+place.country = "US"
+place.state = "FL"
+place.city = "Lakeland"
+
+[person.description]
+bats = "R"
+throws = "R"

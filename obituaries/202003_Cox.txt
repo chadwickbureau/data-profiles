@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202003_Cox"
+
+[[person.meta.citation]]
+title = "Barnes Friederich Funeral Home"
+date = "2020-03-12"
+url = "https://www.bffuneralhome.com/obituaries/Ted-Cox?obId=12400590#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-12"
+
+[person.name]
+last = "Cox"
+use = "Ted"
+given = "William Ted"
+
+[person.birth]
+date = "1955-01-24"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.death]
+date = "2020-03-11"
+
+[[person.education]]
+school.name = "Midwest City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"

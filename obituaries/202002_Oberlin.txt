@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202002_Oberlin"
+
+[[person.meta.citation]]
+title = "Cunningham Funeral Home"
+date = "2020-02-18"
+url = "https://www.cunninghamfhgc.com/obituary/roger-l-oberlin"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-18"
+
+[person.name]
+last = "Oberlin"
+use = "Roger"
+given = "Roger L."
+
+[person.birth]
+date = "1928-07-13"
+place.country = "US"
+place.state = "MI"
+place.city = "Hillsdale"
+
+[person.death]
+date = "2020-02-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Grove City"
+
+[[person.education]]
+school.name = "Hillsdale College"
+school.type = "college"

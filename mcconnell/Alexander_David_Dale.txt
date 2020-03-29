@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "Alexander_David_Dale"
+
+[person.name]
+last = "Alexander"
+use = "David"
+given = "David Dale"
+
+[person.birth]
+date = "1903-04-26"
+place.country = "US"
+place.state = "TN"
+place.city = "Greenville"
+
+[person.death]
+date = "1979-03-02"
+place.country = "US"
+place.state = "TN"
+place.city = "Greenville"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "210"

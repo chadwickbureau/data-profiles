@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "201912_Jacobs_Robert"
+
+[[person.meta.citation]]
+title = "Penttila's Chapel By The Sea"
+date = "2020-01-27"
+url = "https://www.penttilaschapel.com/obituary/robert-jacobs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-27"
+
+[person.name]
+last = "Jacobs"
+use = "Robert"
+given = "Robert J."
+nick = "Jake"
+
+[person.birth]
+date = "1937-03-12"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2019-12-23"

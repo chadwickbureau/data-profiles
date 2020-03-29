@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201907_Aldama"
+
+[[person.meta.citation]]
+title = "La Verdad"
+date = "2019-07-01"
+url = "https://www.yucatan.com.mx/deportes/luto-en-el-beisbol-fallece-leonel-el-coronel-aldana"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-07-06"
+
+[person.name]
+last = "Aldama"
+use = "Leonel"
+given = "Leonel"
+matrilineal = "Rossel"
+nick = "El Coronel"
+
+[person.death]
+date = "2019-07-01"
+place.country = "MX"
+place.city = "Merida"

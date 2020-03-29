@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201404_Hunt"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "2014-04-28"
+url = "http://siouxcityjournal.com/sports/baseball/college/former-briar-cliff-baseball-player-dies-in-accident/article_07a36d26-bf26-54b0-802a-ff7fb90c2ed2.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-30"
+
+[person.name]
+last = "Hunt"
+use = "Timothy"
+given = "Timothy Michael"
+
+[person.death]
+date = "2014-04-26"
+place.country = "US"
+place.state = "CA"
+place.city = "San Bernardino County"
+
+[[person.education]]
+school.name = "Fullerton College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fullerton"
+
+[[person.education]]
+school.name = "Briar Cliff University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Sioux City"

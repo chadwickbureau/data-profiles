@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202002_Echevarria"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2020-02-09"
+url = "https://www.espn.com/mlb/story/_/id/28661210/former-outfielder-angel-echevarria-dies-48"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-09"
+
+[person.name]
+last = "Echevarria"
+use = "Angel"
+given = "Angel"
+
+[person.death]
+date = "2020-02-07"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[[person.education]]
+school.name = "Rutgers University"
+school.type = "college"

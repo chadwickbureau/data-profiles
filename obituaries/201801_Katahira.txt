@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201801_Katahira"
+
+[[person.meta.citation]]
+title = "Graveyard Baseball"
+date = "2018-09-11"
+url = "https://graveyardbaseball.blogspot.com/2018/01/former-lions-player-and-coach-shinsaku.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-09-11"
+
+[person.name]
+last = "Katahira"
+use = "Shinsaku"
+given = "Shinsaku"
+
+[person.death]
+date = "2018-01-22"

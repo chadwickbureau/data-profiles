@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "20170219_066"
+
+[[person.meta.citation]]
+title = "Rock Island Argus"
+date = "1921-08-29"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1921-10-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-09-16"
+pages = "7"
+
+[person.name]
+last = "Bogart"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Detroit"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "New Haven"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Pawhuska"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "McAlester"
+team.league.name = "Western Association"

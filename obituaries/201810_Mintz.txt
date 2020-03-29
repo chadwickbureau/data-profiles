@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "201810_Mintz"
+
+[[person.meta.citation]]
+title = "Olson Funeral Home"
+date = "2018-10-15"
+url = "https://www.olsonfuneral.com/obituaries/Dwain-Mintz/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-10-15"
+
+[person.name]
+last = "Mintz"
+use = "Dwain"
+given = "Dwain Paul"
+
+[person.birth]
+date = "1928-03-01"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[person.death]
+date = "2018-10-11"
+
+[person.burial]
+cemetery.name = "St. Paul's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Menomonie"
+
+[[person.education]]
+school.name = "Rockford West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Rockford"
+
+[[person.education]]
+school.name = "Bethany Lutheran HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Mankato"
+
+[[person.education]]
+school.name = "Bethany Lutheran College"
+school.type = "college"

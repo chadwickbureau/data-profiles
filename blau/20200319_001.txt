@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200319_001"
+
+[[person.meta.citation]]
+title = "Philadelphia Times"
+date = "1898-05-29"
+pages = "15"
+
+[person.name]
+last = "Culver"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1898"
+team.name = "Allentown"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1898"
+team.name = "Derby"
+team.league.name = "Connecticut State League"

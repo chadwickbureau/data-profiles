@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201407_Rogers"
+
+[[person.meta.citation]]
+title = "Home News Tribune"
+date = "2014-07-02"
+url = "http://www.legacy.com/obituaries/mycentraljersey/obituary.aspx?n=Kenneth-Rogers&pid=171573054"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-06"
+
+[person.name]
+last = "Rogers"
+use = "Ken"
+given = "Kenneth"
+
+[person.birth]
+date = "1925"
+place.country = "US"
+place.state = "NJ"
+place.city = "South Amboy"
+
+[person.death]
+date = "2014-07-01"
+place.country = "US"
+place.state = "NJ"
+place.city = "South Amboy"
+
+[person.burial]
+cemetery.name = "Arlington National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Arlington"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"

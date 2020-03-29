@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "201909_Leslie"
+
+[[person.meta.citation]]
+title = "Lubbock Avalanche-Journal"
+date = "2019-09-18"
+url = "https://www.legacy.com/obituaries/lubbockonline/obituary.aspx?n=e-c-leslie&pid=193933095&fhid=19543"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-09-23"
+
+[person.name]
+last = "Leslie"
+use = "E. C."
+given = "Ernest Cleo"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-02-12"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.death]
+date = "2019-09-13"
+
+[[person.education]]
+school.name = "Paseo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Kansas City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

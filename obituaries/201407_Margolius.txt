@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201407_Margolius"
+
+[[person.meta.citation]]
+title = "Boxborough Beacon"
+date = "2014-07-22"
+url = "http://www.legacy.com/obituaries/wickedlocal-boxborough/obituary.aspx?n=David-Margolius&pid=171810271"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-07-24"
+
+[person.name]
+last = "Margolius"
+use = "David"
+given = "David Alan"
+
+[person.birth]
+date = "1949-10-04"
+place.country = "US"
+place.state = "WA"
+place.city = "Pullman"
+
+[person.death]
+date = "2014-07-20"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"

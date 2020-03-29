@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201901_McHugh"
+
+[[person.meta.citation]]
+title = "Ritchay Funeral Home"
+date = "2019-01-14"
+url = "http://www.ritchayfuneralhome.com/memsol.cgi?user_id=2158282"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-01-14"
+
+[person.name]
+last = "McHugh"
+use = "Merlin"
+given = "Merlin W."
+
+[person.birth]
+date = "1930-08-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Halder"
+
+[person.death]
+date = "2019-01-14"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

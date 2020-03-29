@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "202002_Hayden"
+
+[[person.meta.citation]]
+title = "Kreighbaum-Sanders Funeral Home"
+date = "2020-03-01"
+url = "https://www.sandersfuneralhomes.com/obituary/William-Hayden"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-01"
+
+[person.name]
+last = "Hayden"
+use = "Bill"
+given = "William J."
+
+[person.birth]
+date = "1928-05-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Waco"
+
+[person.death]
+date = "2020-02-27"
+place.country = "US"
+place.state = "OH"
+place.city = "Navarre"
+
+[person.burial]
+cemetery.name = "Sunset Hills Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "North Canton"
+
+[[person.education]]
+school.name = "Canton Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Canton"
+
+[[person.education]]
+school.name = "Ohio Northern University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"

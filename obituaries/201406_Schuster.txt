@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "201406_Schuster"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "2014-06-18"
+url = "http://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=Rollin-Schuster&pid=171394605"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-06-18"
+
+[person.name]
+last = "Schuster"
+use = "Rollin"
+given = "Rollin Gilbert"
+suffix = "Sr."
+
+[person.birth]
+date = "1928-05-03"
+place.country = "US"
+place.state = "NJ"
+place.city = "Woodcliff Lake"
+
+[person.death]
+date = "2014-06-15"
+
+[person.burial]
+cemetery.name = "Simsbury Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Simsbury"
+
+[[person.education]]
+school.name = "Teaneck HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Teaneck"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
