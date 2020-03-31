@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190120_018"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-04"
+pages = "6"
+
+[person.name]
+last = "Burdick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.throws = "R"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190121_006"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-17"
+pages = "6"
+
+[person.name]
+last = "Finnell"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Colonial League"
+
+

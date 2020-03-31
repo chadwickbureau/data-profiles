@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190204_037"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-08-14"
+pages = "1"
+
+[person.name]
+last = "Waldron"
+use = "Will"
+given = "Will"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+

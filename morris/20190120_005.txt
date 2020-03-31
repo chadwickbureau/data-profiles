@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190120_005"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-08-28"
+pages = "12"
+
+[person.name]
+last = "Carr"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "3B"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190326_003"
+
+[[person.meta.citation]]
+title = "PIL Hall of Fame"
+date = "2019-03-26"
+url = "http://pilhalloffame.org/cybermuseum/product_info.php?products_id=671"
+
+[person.name]
+last = "Simpson"
+use = "Bill"
+given = "Bill"
+
+[[person.education]]
+school.name = "Cleveland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1973"
+team.name = "Scottsdale Community College"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1974/1976"
+team.name = "Washington State University"
+team.caliber = "college"
+
+

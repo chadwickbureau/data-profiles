@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190220_019"
+
+[[person.meta.citation]]
+title = "Norfolk Daily Press"
+date = "1915-03-10"
+pages = "5"
+
+[person.name]
+last = "Mumford"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+
+

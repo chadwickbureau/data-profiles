@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190220_017"
+
+[[person.meta.citation]]
+title = "Norfolk Daily Press"
+date = "1915-03-05"
+pages = "5"
+
+[person.name]
+last = "Saracino"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

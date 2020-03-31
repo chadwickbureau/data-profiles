@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190304_023"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1915-03-25"
+pages = "3"
+
+[person.name]
+last = "Agnew"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.league.name = "Carolina Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_022"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-12-09"
+pages = "6"
+
+[person.name]
+last = "McDonald"
+use = "Speed"
+given = "Speed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+

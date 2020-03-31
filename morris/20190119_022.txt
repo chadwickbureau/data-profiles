@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20190119_022"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-07"
+pages = "17"
+
+[person.name]
+last = "Carroll"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New York"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Toronto"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Fordham University"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "St. Bonaventure University"
+team.caliber = "college"
+
+

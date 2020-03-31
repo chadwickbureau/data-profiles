@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190121_017"
+
+[[person.meta.citation]]
+title = "Camden Courier-Post"
+date = "1915-03-30"
+pages = "2"
+
+[person.name]
+last = "Clouser"
+use = "Frank"
+given = "Frank"
+nick = "Sis"
+
+[[person.resides]]
+dates = "1915-03-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+

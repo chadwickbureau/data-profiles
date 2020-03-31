@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_035"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-07-31"
+pages = "6"
+
+[person.name]
+last = "Bernsen"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Lenoir"
+team.league.name = "Western North Carolina League"
+
+

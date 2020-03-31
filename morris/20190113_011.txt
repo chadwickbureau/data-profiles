@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190113_011"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-16"
+pages = "45"
+
+[person.name]
+last = "Gaudette"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Woonsocket"
+team.league.name = "Colonial League"
+
+

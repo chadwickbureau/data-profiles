@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190121_002"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-01"
+pages = "6"
+
+[person.name]
+last = "Walker"
+use = "Mysterious"
+given = "Mysterious"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Haven"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

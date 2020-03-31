@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190220_003"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-04-17"
+pages = "10"
+
+[person.name]
+last = "Barton"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "R"
+
+

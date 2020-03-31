@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190212_029"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-03-30"
+pages = "17"
+
+[person.name]
+last = "Brackett"
+use = "Hank"
+given = "Hank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Toronto"
+team.league.name = "International League"
+
+

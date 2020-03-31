@@ -7,12 +7,6 @@ key = "20191218_001"
 title = "Gastonia Gazette"
 date = "1955-01-26"
 
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
-date = "2019-12-18"
-
 [person.name]
 last = "Turney"
 use = "Ted"

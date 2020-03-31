@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_017"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-07-30"
+pages = "10"
+
+[person.name]
+last = "Correll"
+use = "Lindy"
+given = "Lindy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+

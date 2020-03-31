@@ -1,0 +1,82 @@
+[[person]]
+
+[person.meta]
+key = "20181108_009"
+
+[[person.meta.citation]]
+title = "St. Louis Post Dispatch"
+date = "1909-06-02"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-04-23"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-10-01"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1909-04-09"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-13"
+pages = "4"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1909-06-30"
+pages = "10"
+
+[person.name]
+last = "Bromley"
+use = "Harry"
+given = "Harry C."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Argenta"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Hot Springs"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+
+[[person.transaction]]
+date = "<=1909-06-30"
+type = "released"
+leave.name = "Hot Springs"
+leave.league.name = "Arkansas State"
+
+[[person.transaction]]
+date = "<=1909-06-30"
+type = "signed"
+join.name = "Fort Smith"
+join.league.name = "Arkansas State"
+
+

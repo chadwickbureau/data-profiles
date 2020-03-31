@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190120_021"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-05"
+pages = "15"
+
+[person.name]
+last = "Killian"
+use = "Cy"
+given = "Cy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Canadian League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190113_015"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-18"
+pages = "18"
+
+[person.name]
+last = "Gilroy"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

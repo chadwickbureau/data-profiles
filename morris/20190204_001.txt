@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190204_001"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-03"
+pages = "7"
+
+[person.name]
+last = "Harbison"
+use = "Doug"
+given = "Doug"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+
+

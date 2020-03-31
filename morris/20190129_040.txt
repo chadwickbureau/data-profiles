@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_040"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-01"
+pages = "15"
+
+[person.name]
+last = "Williams"
+use = "Fleet"
+given = "Fleet"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+

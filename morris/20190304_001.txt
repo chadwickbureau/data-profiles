@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190304_001"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Miller"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Williamsport"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "C"
+
+

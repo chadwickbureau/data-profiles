@@ -1,0 +1,156 @@
+[[person]]
+
+[person.meta]
+key = "20181108_007"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1907-04-11"
+pages = "7"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1908-05-09"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1907-09-27"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-02-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "1908-05-09"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1908-06-29"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1908-06-30"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Montgomery Advertiser"
+date = "1908-10-23"
+pages = "2"
+
+[person.name]
+last = "Braun"
+use = "Carl"
+given = "Carl"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Alexandria"
+team.league.name = "Gulf Coast League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Austin"
+team.league.name = "Texas League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Alexandria"
+team.league.name = "Gulf Coast League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+team.league.name = "Arkansas State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria [caliber=semipro]"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Galveston"
+team.league.name = "Texas League"
+description.position = "C"
+
+
+[[person.transaction]]
+date = "<=1908-05-09"
+type = "purchased"
+join.name = "Alexandria"
+join.league.name = "Gulf Coast"
+leave.name = "Austin"
+leave.league.name = "Texas"
+
+[[person.transaction]]
+date = "<=1908-06-29"
+type = "signed"
+join.name = "Meridian"
+join.league.name = "Cotton States"
+
+[[person.transaction]]
+date = "1908-10-23"
+type = "signed"
+join.name = "Mobile"
+join.league.name = "Southern Association"
+
+[[person.transaction]]
+date = "1909-05-02"
+type = "returned"
+leave.name = "Mobile"
+leave.league.name = "Southern Association"
+join.name = "Alexandria"
+join.league.name = "Arkansas State"
+
+[[person.transaction]]
+date = "<=1909-07-07"
+type = "signed"
+join.name = "Alexandria"
+join.caliber = "semipro"
+
+[[person.transaction]]
+date = "1910-03-15"
+type = "purchased"
+leave.name = "Mobile"
+leave.league.name = "Southern Association"
+join.name = "Galveston"
+join.league.name = "Texas"
+
+

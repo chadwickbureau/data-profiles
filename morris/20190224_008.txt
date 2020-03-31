@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190224_008"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-07-02"
+pages = "1"
+
+[person.name]
+last = "Williams"
+use = "Fleet"
+given = "Fleet"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western Carolina League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "University of North Carolina"
+team.caliber = "college"
+
+

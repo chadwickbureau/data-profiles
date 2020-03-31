@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20181108_013"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1909-03-28"
+pages = "10"
+
+[person.name]
+last = "Brown"
+given = "M."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Arkansas State League"
+description.position = "C"
+
+

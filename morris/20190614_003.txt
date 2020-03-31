@@ -4,13 +4,9 @@
 key = "20190614_003"
 
 [[person.meta.citation]]
-title = "Los Angeles Times 1915-12-18"
+title = "Los Angeles Times"
+date = "1915-12-18"
 pages = "6"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Leake"

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190204_044"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-08-14"
+pages = "1"
+
+[person.name]
+last = "Whitney"
+given = "J. F."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+

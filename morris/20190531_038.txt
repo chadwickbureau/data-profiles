@@ -4,13 +4,9 @@
 key = "20190531_038"
 
 [[person.meta.citation]]
-title = "Albany Evening Journal 1915-08-30"
+title = "Albany Evening Journal"
+date = "1915-08-30"
 pages = "14"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Shick"

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190129_041"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-01"
+pages = "15"
+
+[person.name]
+last = "Nally"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "South Atlantic League"
+
+

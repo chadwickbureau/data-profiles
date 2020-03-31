@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190119_014"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-03"
+pages = "19"
+
+[person.name]
+last = "Smith"
+use = "Bugs"
+given = "Bugs"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Manchester"
+team.league.name = "New England League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Pittsfield"
+team.league.name = "Eastern Association"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190113_014"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-18"
+pages = "18"
+
+[person.name]
+last = "Crowther"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Haven"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Brown"
+team.caliber = "college"
+
+

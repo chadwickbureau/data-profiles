@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190113_008"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-16"
+pages = "45"
+
+[person.name]
+last = "McPherson"
+use = "Douglass"
+given = "Douglass"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brockton"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+

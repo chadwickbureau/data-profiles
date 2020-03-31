@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190326_001"
+
+[[person.meta.citation]]
+title = "Corvallis Gazette-Times"
+date = "1976-07-07"
+pages = "16"
+
+[person.name]
+last = "Simpson"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1976"
+team.name = "Grays Harbor"
+team.league.name = "Northwest League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1976"
+team.name = "Washington State University"
+team.caliber = "college"
+
+

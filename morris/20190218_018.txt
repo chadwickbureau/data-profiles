@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190218_018"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch"
+date = "1915-04-28"
+pages = "9"
+
+[person.name]
+last = "Schaufele"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"
+description.throws = "R"
+
+

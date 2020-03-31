@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190212_004"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-02"
+pages = "10"
+
+[person.name]
+last = "McDowell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

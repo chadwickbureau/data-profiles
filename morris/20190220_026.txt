@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190220_026"
+
+[[person.meta.citation]]
+title = "Norfolk Daily Press"
+date = "1915-03-10"
+pages = "5"
+
+[person.name]
+last = "Blackstone"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+description.position = "P"
+
+

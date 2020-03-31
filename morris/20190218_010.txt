@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190218_010"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-04-29"
+pages = "10"
+
+[person.name]
+last = "North"
+use = "Lou"
+given = "Lou"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+description.position = "P"
+
+

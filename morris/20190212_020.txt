@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190212_020"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-10"
+pages = "10"
+
+[person.name]
+last = "Poole"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+description.position = "P"
+
+

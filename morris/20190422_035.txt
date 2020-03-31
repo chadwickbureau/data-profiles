@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190422_035"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-12-24"
+pages = "6"
+
+[person.name]
+last = "Hitt"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

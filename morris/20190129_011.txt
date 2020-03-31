@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190129_011"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-07-13"
+pages = "6"
+
+[person.name]
+last = "Terry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newnan"
+team.league.name = "Georgia-Alabama League"
+
+

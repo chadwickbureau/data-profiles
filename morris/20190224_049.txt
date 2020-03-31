@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190224_049"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Chastant"
+given = "E. M."
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+
+

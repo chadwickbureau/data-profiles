@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190304_030"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-05-03"
+pages = "8"
+
+[person.name]
+last = "Baxter"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Jersey City"
+team.league.name = "International League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

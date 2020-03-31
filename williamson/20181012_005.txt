@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20181012_005"
+
+[[person.meta.citation]]
+title = "Pine Bluff Daily Graphic"
+date = "1909-07-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1909-07-02"
+pages = "13"
+
+[person.name]
+last = "Baldwin"
+use = "Dan"
+given = "Dan"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "AR"
+place.city = "Pine Bluff"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Newport-Batesville"
+team.league.name = "Arkansas State League"
+description.position = "2B"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190119_007"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1915-06-05"
+pages = "19"
+
+[person.name]
+last = "Wilcox"
+nick = "Sally"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

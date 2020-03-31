@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190224_035"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Pierce"
+given = "J. R."
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "R"
+description.height = "73"
+description.weight = "180"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.league.name = "Baltimore City League"
+team.caliber = "semipro"
+
+

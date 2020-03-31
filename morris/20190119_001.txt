@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190119_001"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-22"
+pages = "18"
+
+[person.name]
+last = "Trautman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+description.position = "P"
+description.throws = "R"
+
+

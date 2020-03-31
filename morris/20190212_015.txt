@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190212_015"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Poole"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

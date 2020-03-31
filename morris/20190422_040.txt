@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190422_040"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-12-13"
+pages = "12"
+
+[person.name]
+last = "Williams"
+use = "Johnny"
+given = "Johnny"
+nick = "Honolulu Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+

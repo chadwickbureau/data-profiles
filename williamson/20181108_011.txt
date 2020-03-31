@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20181108_011"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-13"
+pages = "4"
+
+[[person.meta.citation]]
+title = "The Pantagraph (Bloomington, Illinois)"
+date = "1909-04-09"
+pages = "10"
+
+[person.name]
+last = "Brown"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Hot Springs"
+team.league.name = "Arkansas State League"
+description.position = "3B"
+
+

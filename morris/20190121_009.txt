@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20190121_009"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-21"
+pages = "6"
+
+[person.name]
+last = "Loud"
+use = "Prep"
+given = "Prep"
+
+[person.description]
+note = [ "quit to be a counselor at a boys' camp in Oxford, ME" ]
+
+[[person.resides]]
+dates = "1915-06-21"
+place.country = "US"
+place.state = "MA"
+place.city = "Brockton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "CF"
+
+

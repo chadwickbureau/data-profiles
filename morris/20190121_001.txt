@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20190121_001"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-08"
+pages = "6"
+
+[person.name]
+last = "Martin"
+use = "Bill"
+given = "Bill"
+
+[[person.alias]]
+name.last = "Williams"
+name.use = "William"
+name.given = "William"
+dates = "1914/1914"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

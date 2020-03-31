@@ -4,13 +4,9 @@
 key = "20190531_042"
 
 [[person.meta.citation]]
-title = "Allentown Morning Call 1915-04-26"
+title = "Allentown Morning Call"
+date = "1915-04-26"
 pages = "10"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Snell"

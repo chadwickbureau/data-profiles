@@ -4,13 +4,9 @@
 key = "20190813_056"
 
 [[person.meta.citation]]
-title = "Indianapolis Star 1915-02-25"
+title = "Indianapolis Star"
+date = "1915-02-25"
 pages = "11"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Grotey"

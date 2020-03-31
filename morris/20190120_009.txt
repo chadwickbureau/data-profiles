@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190120_009"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-17"
+pages = "19"
+
+[person.name]
+last = "Sullivan"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1915-06-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Taunton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+
+

@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "20181012_012"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-05-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-03-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Shreveport Times"
+date = "1909-04-17"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-20"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Shreveport Times"
+date = "1909-04-17"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-07-22"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1909-08-03"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Muskogee County Democrat"
+date = "1909-08-06"
+pages = "6"
+
+[person.name]
+last = "Besse"
+use = "Otto"
+given = "Otto"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Hot Springs"
+team.league.name = "Arkansas State League"
+description.position = "RF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.position = "LF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Texarkana"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+description.position = "OF"
+
+

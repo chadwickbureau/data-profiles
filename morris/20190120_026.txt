@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190120_026"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-17"
+pages = "6"
+
+[person.name]
+last = "Cooney"
+use = "Harry"
+given = "Harry"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Cooney"
+person.name.use = "Jimmy"
+person.name.given = "Jimmy"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Springfield"
+team.league.name = "Eastern Association"
+
+

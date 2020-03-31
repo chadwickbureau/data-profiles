@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190218_007"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-06-15"
+pages = "9"
+
+[person.name]
+last = "Swift"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190212_011"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Foster"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lumberton"
+team.league.name = "Eastern North Carolina League"
+description.position = "P"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190220_013"
+
+[[person.meta.citation]]
+title = "Pittston Gazette"
+date = "1913-05-12"
+pages = "2"
+
+[person.name]
+last = "Gilhooley"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "PA"
+place.city = "Avoca"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Niagara University"
+team.caliber = "college"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Canton"
+team.league.name = "Interstate League"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20190224_041"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Appleby"
+use = "Ed"
+given = "Ed S."
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1914"
+team.name = "New York"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1914"
+team.name = "Portsmouth"
+team.league.name = "Tidewater League"
+
+

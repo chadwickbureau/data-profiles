@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190120_007"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-09-06"
+pages = "10"
+
+[person.name]
+last = "Woods"
+use = "Wallie"
+given = "Wallie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

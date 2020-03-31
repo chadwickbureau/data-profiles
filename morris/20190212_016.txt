@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190212_016"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-06-16"
+pages = "12"
+
+[person.name]
+last = "DeVane"
+given = "T. A."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albemarle"
+team.league.name = "Eastern North Carolina League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190129_042"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-01"
+pages = "15"
+
+[person.name]
+last = "Decatur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+

@@ -4,13 +4,9 @@
 key = "20190813_028"
 
 [[person.meta.citation]]
-title = "Newport News Daily Press 1915-05-05"
+title = "Newport News Daily Press"
+date = "1915-05-05"
 pages = "5"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Mumford"

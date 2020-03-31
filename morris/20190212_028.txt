@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190212_028"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-05-15"
+pages = "8"
+
+[person.name]
+last = "Brackett"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Toronto"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Duluth"
+team.league.name = "Northern League"
+
+

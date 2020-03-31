@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190218_008"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1915-03-16"
+pages = "14"
+
+[person.name]
+last = "Breckenridge"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "P"
+
+

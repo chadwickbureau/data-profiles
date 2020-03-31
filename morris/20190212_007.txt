@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190212_007"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Ingle"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+
+

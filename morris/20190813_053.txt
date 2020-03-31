@@ -4,13 +4,9 @@
 key = "20190813_053"
 
 [[person.meta.citation]]
-title = "Greensboro Daily News 1915-03-13"
+title = "Greensboro Daily News"
+date = "1915-03-13"
 pages = "6"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Doyle"

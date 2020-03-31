@@ -1,0 +1,127 @@
+[[person]]
+
+[person.meta]
+key = "20181012_009"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1908-06-19"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1909-05-13"
+pages = "4"
+
+[[person.meta.citation]]
+title = "The (Zanesville) Times Recorder"
+date = "1909-07-21"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (Zanesville) Times Recorder"
+date = "1909-08-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (Zanesville) Times Recorder"
+date = "1909-10-20"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1910-03-29"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1910-04-07"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Indianapolis News"
+date = "1910-06-04"
+pages = "9"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1910-07-15"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1910-07-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1911-03-16"
+pages = "18"
+
+[person.name]
+last = "Begley"
+use = "Jim"
+given = "Jim"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Helena"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Zanesville"
+team.league.name = "Central League"
+description.position = "CF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Steubenville"
+team.league.name = "Ohio-Pennsylvania League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Evansville"
+team.league.name = "Central League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "El Reno"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Oklahoma City"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hyde Parks"
+team.league.name = "St. Louis Trolley League"
+description.position = "1B"
+
+

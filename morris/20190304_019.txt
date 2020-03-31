@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190304_019"
+
+[[person.meta.citation]]
+title = "Wilmington Morning Star"
+date = "1915-04-12"
+pages = "2"
+
+[person.name]
+last = "Osteen"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "SC"
+place.city = "Greenville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Davison College"
+team.caliber = "college"
+
+

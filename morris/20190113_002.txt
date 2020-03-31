@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20190113_002"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-15"
+pages = "21"
+
+[person.name]
+last = "O'Brien"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "Woonsocket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Holy Cross"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Holy Cross"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Tufts"
+team.caliber = "college"
+
+

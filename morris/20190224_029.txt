@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190224_029"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-08-09"
+pages = "9"
+
+[person.name]
+last = "Wahle"
+use = "Clarence"
+given = "Clarence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Utica"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "L"
+
+

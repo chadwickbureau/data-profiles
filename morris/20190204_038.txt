@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190204_038"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-08-14"
+pages = "1"
+
+[person.name]
+last = "Boyd"
+given = "J. S."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "AL"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+

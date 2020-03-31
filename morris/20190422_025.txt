@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_025"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-12-06"
+pages = "6"
+
+[person.name]
+last = "Meadows"
+use = "Rush"
+given = "Rush"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+

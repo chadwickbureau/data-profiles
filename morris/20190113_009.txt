@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190113_009"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-16"
+pages = "45"
+
+[person.name]
+last = "Thornton"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brockton"
+team.league.name = "Colonial League"
+description.position = "1B"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190121_013"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1916-05-17"
+pages = "8"
+
+[person.name]
+last = "Clermont"
+use = "Arthur"
+given = "Arthur"
+
+[[person.resides]]
+dates = "1916-05-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "R"
+
+

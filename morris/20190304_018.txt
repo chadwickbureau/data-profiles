@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190304_018"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1915-03-25"
+pages = "3"
+
+[person.name]
+last = "Hasty"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Raeford [caliber=semi-pro]"
+
+

@@ -1,0 +1,128 @@
+[[person]]
+
+[person.meta]
+key = "20181108_005"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1906-10-06"
+pages = "18"
+
+[[person.meta.citation]]
+title = "The (Decatur) Daily Review"
+date = "1907-06-06"
+pages = "3"
+
+[[person.meta.citation]]
+title = "The (Columbia, SC) State"
+date = "1908-04-06"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1908-06-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1908-06-07"
+pages = "11"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-10-01"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-04-08"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-06-09"
+pages = "8"
+
+[[person.meta.citation]]
+title = "(Memphis) Commercial Appeal"
+date = "1909-09-05"
+pages = "20"
+
+[[person.meta.citation]]
+title = "The Dayton Herald"
+date = "1912-04-24"
+pages = "12"
+
+[person.name]
+last = "Bockewitz"
+use = "Denny"
+given = "Oscar Herman"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "72"
+weight = "178"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Dubuque"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Poplar Bluff"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Argenta"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Argenta"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Marianna"
+team.league.name = "Northeast Arkansas League"
+description.position = "1B"
+
+

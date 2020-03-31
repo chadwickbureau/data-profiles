@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190119_024"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-09"
+pages = "19"
+
+[person.name]
+last = "Dukette"
+use = "Gene"
+given = "Gene"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Brown University"
+team.caliber = "college"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190121_016"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1916-03-27"
+pages = "9"
+
+[person.name]
+last = "Clauser"
+use = "Earl"
+given = "Earl"
+
+[[person.alias]]
+name.last = "Jiggs"
+dates = "1915/1915"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"
+description.position = "2B-SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+description.position = "3B"
+
+

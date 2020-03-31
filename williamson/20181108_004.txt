@@ -1,0 +1,118 @@
+[[person]]
+
+[person.meta]
+key = "20181108_004"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1907-10-12"
+pages = "15"
+
+[[person.meta.citation]]
+title = "The (Gulfport) Daily Record-Tribune"
+date = "1908-06-10"
+pages = "3"
+
+[[person.meta.citation]]
+title = "The (Charlotte) Evening Chronicle"
+date = "1909-02-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-03-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-02-01"
+pages = "4"
+
+[[person.meta.citation]]
+title = "The (Charlotte) Evening Chronicle"
+date = "1909-05-21"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1909-07-10"
+pages = "1"
+
+[person.name]
+last = "Blanchfield"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Opelousas"
+team.league.name = "Gulf Coast League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Lake Charles"
+team.league.name = "Gulf Coast League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Lake Charles"
+team.league.name = "Gulf Coast League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Gulfport-Biloxi"
+team.league.name = "Cotton States League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+description.position = "OF"
+description.height = "70"
+description.weight = "190"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+description.position = "OF"
+team.caliber = "semipro"
+
+
+[[person.transaction]]
+date = "<=1908-06-09"
+type = "signed"
+join.name = "Gulfport-Biloxi"
+join.league.name = "Cotton States"
+
+[[person.transaction]]
+date = "~1909-02-01"
+type = "purchased"
+join.name = "Charlotte"
+join.league.name = "Carolina Association"
+
+[[person.transaction]]
+date = "<=1909-05-21"
+type = "released"
+leave.name = "Charlotte"
+leave.league.name = "Carolina Association"
+join.name = "Monroe"
+join.league.name = "Arkansas State"
+
+

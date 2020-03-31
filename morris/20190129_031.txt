@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20190129_031"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-19"
+pages = "6"
+
+[person.name]
+last = "Spence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albemarle"
+team.league.name = "Eastern North Carolina League"
+description.position = "LF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Duke University"
+team.caliber = "college"
+
+

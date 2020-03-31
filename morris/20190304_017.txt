@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190304_017"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1915-03-25"
+pages = "3"
+
+[person.name]
+last = "Osteen"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Davison College"
+team.caliber = "college"
+
+

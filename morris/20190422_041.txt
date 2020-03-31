@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_041"
+
+[[person.meta.citation]]
+title = "San Diego Union"
+date = "1915-12-12"
+pages = "22"
+
+[person.name]
+last = "West"
+use = "Hi"
+given = "Hi"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+

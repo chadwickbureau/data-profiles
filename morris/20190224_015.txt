@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190224_015"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-05-06"
+pages = "13"
+
+[person.name]
+last = "Hall"
+given = "W. B."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "WV"
+place.city = "Richwood"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

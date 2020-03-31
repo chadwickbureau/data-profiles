@@ -1,0 +1,76 @@
+[[person]]
+
+[person.meta]
+key = "20181012_010"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1908-04-27"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-13"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1910-03-26"
+pages = "10"
+
+[[person.meta.citation]]
+title = "The (Caruthersville) Democrat-Argus"
+date = "1910-08-05"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1911-01-31"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1911-03-04"
+pages = "7"
+
+[person.name]
+last = "Benham"
+use = "Herbert"
+given = "Herbert"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "TN"
+place.city = "Memphis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Helena"
+team.league.name = "Arkansas State League"
+description.position = "RF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Arkansas State League"
+description.position = "RF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "El Reno"
+team.league.name = "Western Association"
+description.position = "CF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Caruthersville"
+team.league.name = "Northeast Arkansas League"
+description.position = "OF"
+
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190119_023"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-08"
+pages = "16"
+
+[person.name]
+last = "Chappelle"
+use = "Bill"
+given = "Bill"
+nick = "Big Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Haven"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

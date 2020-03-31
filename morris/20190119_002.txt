@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190119_002"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-22"
+pages = "18"
+
+[person.name]
+last = "O'Flaherty"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "P"
+description.height = "72"
+description.weight = "178"
+
+

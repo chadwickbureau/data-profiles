@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190326_006"
+
+[[person.meta.citation]]
+title = "1977 Minor League Digest"
+
+[person.name]
+last = "Simpson"
+use = "William"
+given = "William J."
+
+[person.birth]
+date = "1957"
+
+[person.description]
+throws = "R"
+bats = "R"
+height = "74"
+weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1976"
+team.name = "GCL Rangers"
+team.league.name = "Gulf Coast League"
+description.position = "OF"
+
+

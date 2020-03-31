@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20190113_001"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-15"
+pages = "21"
+
+[person.name]
+last = "Woodcock"
+given = "L. H."
+
+[person.description]
+throws = "R"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "ME"
+place.city = "Lisbon Falls"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lynn"
+team.league.name = "New England League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Woonsocket"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

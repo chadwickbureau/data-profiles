@@ -4,13 +4,9 @@
 key = "20190614_001"
 
 [[person.meta.citation]]
-title = "El Paso Times 1916-07-22"
+title = "El Paso Times"
+date = "1916-07-22"
 pages = "8"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Bieloper"

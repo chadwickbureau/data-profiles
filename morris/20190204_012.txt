@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190204_012"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-21"
+pages = "6"
+
+[person.name]
+last = "Yount"
+use = "Hub"
+given = "Hub"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Federal League"
+
+

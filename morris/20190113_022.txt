@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190113_022"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-20"
+pages = "19"
+
+[person.name]
+last = "Maxwell"
+use = "Burt"
+given = "Burt"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "New Haven"
+team.league.name = "Colonial League"
+
+

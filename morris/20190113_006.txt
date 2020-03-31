@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190113_006"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-16"
+pages = "45"
+
+[person.name]
+last = "Thompson"
+use = "Toby"
+given = "Toby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "2B-SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Brooklyn"
+team.league.name = "Federal League"
+
+

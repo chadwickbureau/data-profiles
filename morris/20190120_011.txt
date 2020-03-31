@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_011"
+
+[[person.meta.citation]]
+title = "Springfield Daily News"
+date = "1915-06-01"
+pages = "16"
+
+[person.name]
+last = "Bielmiller"
+
+[[person.resides]]
+dates = "1915-06-01"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.age = "17"
+
+

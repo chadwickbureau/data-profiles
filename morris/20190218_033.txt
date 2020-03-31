@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190218_033"
+
+[[person.meta.citation]]
+title = "Tennessean"
+date = "1907-11-28"
+pages = "7"
+
+[person.name]
+last = "Shipp"
+use = "Skinny"
+given = "Frank S."
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1907"
+team.name = "University of the South"
+team.caliber = "college"
+
+

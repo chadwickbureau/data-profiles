@@ -8,12 +8,6 @@ title = "Burlington Free Press"
 date = "1955-05-30"
 pages = "10"
 
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
-date = "2019-12-29"
-
 [person.name]
 last = "Quinn"
 use = "Bob"

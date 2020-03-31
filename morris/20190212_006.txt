@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190212_006"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Glazner"
+use = "Whitie"
+given = "Whitie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+

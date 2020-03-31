@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190422_047"
+
+[[person.meta.citation]]
+title = "San Diego Union"
+date = "1915-12-05"
+pages = "21"
+
+[person.name]
+last = "Whaling"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Boston"
+team.league.name = "National League"
+
+

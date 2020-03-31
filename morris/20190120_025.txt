@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190120_025"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-17"
+pages = "6"
+
+[person.name]
+last = "Martin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lewiston"
+team.league.name = "New England League"
+
+

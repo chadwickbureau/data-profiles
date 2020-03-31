@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190422_036"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-12-24"
+pages = "6"
+
+[person.name]
+last = "Schneider"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cincinnati"
+team.league.name = "National League"
+
+

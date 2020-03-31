@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190212_012"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Watson"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+
+

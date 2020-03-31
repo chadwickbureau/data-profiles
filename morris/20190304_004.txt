@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190304_004"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Keating"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+

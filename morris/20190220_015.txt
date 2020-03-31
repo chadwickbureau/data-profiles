@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20190220_015"
+
+[[person.meta.citation]]
+title = "Pittston Gazette"
+date = "1914-06-02"
+pages = "6"
+
+[person.name]
+last = "Connors"
+use = "Marty"
+given = "Marty"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "<1914"
+team.name = "St. Bonaventure University"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1914"
+team.name = "Niagara University"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Villanova University"
+team.caliber = "college"
+
+

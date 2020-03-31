@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190224_030"
+
+[[person.meta.citation]]
+title = "1917 North Carolina State University Yearbook"
+pages = "47"
+
+[person.name]
+last = "Hodgin"
+use = "William"
+given = "William Herbert"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "NC"
+place.city = "Jamestown"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914/1917"
+team.name = "North Carolina State University"
+team.caliber = "college"
+description.height = "69"
+description.weight = "165"
+
+

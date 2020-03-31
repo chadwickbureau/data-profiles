@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190212_024"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-05-15"
+pages = "8"
+
+[person.name]
+last = "Nagle"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "P"
+
+

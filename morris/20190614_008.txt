@@ -4,13 +4,9 @@
 key = "20190614_008"
 
 [[person.meta.citation]]
-title = "San Diego Tribune 1915-12-23"
+title = "San Diego Tribune"
+date = "1915-12-23"
 pages = "10"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Defty"

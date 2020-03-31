@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "20181108_017"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-04-02"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-04-09"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-05-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1909-05-27"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Newport Daily Independent"
+date = "1909-07-01"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1908-07-21"
+pages = "9"
+
+[person.name]
+last = "Cella"
+use = "Lawrence"
+given = "Joseph Lawrence"
+nick = "Suby"
+
+[person.description]
+height = "70"
+weight = "165"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Newport"
+team.league.name = "Arkansas State League"
+description.position = "UT"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Newport-Batesville"
+team.league.name = "Arkansas State League"
+description.position = "UT"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Newport"
+team.league.name = "Northeast Arkansas League"
+description.position = "UT"
+
+

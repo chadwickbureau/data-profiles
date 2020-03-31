@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190220_028"
+
+[[person.meta.citation]]
+title = "Raleigh News & Observer"
+date = "1915-05-06"
+pages = "3"
+
+[person.name]
+last = "Jaynes"
+nick = "Hero"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western Carolina League"
+description.position = "P"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_006"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-11-22"
+pages = "6"
+
+[person.name]
+last = "Cornett"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+

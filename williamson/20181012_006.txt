@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "20181012_006"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1904-05-27"
+pages = "10"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1908-03-15"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Beaumont Enterprise"
+date = "1908-04-16"
+pages = "3"
+
+[[person.meta.citation]]
+title = "The (Texarkana) Daily Texarkanian"
+date = "1909-03-25"
+pages = "5"
+
+[person.name]
+last = "Bankhead"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "TX"
+place.city = "Paris"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Corsicana"
+team.league.name = "Texas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Houston"
+team.league.name = "Texas League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Beaumont"
+team.league.name = "Gulf Coast League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Texarkana"
+team.league.name = "Arkansas State League"
+description.position = "C"
+
+

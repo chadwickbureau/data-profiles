@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190119_015"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-03"
+pages = "19"
+
+[person.name]
+last = "Ahern"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Utica"
+team.league.name = "New York State League"
+description.position = "C"
+
+

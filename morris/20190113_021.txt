@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190113_021"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-20"
+pages = "19"
+
+[person.name]
+last = "Weeden"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Brockton"
+team.league.name = "Colonial League"
+
+

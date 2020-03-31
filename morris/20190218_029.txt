@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190218_029"
+
+[[person.meta.citation]]
+title = "Anniston Star"
+date = "1911-06-10"
+pages = "76"
+
+[person.name]
+last = "Shipp"
+use = "Skinny"
+given = "Skinny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Anniston"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "University of the South"
+team.caliber = "college"
+
+

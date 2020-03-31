@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190218_009"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1915-03-16"
+pages = "14"
+
+[person.name]
+last = "North"
+use = "Lou"
+given = "Lou"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "P"
+
+

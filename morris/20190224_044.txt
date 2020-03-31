@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190224_044"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Krepps"
+use = "Sam"
+given = "Sam"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+

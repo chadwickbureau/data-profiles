@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190129_002"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-15"
+pages = "13"
+
+[person.name]
+last = "Cates"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lenoir"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "South Atlantic League"
+
+

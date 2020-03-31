@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190422_042"
+
+[[person.meta.citation]]
+title = "San Diego Union"
+date = "1915-12-05"
+pages = "21"
+
+[person.name]
+last = "Boles"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+

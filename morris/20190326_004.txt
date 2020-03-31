@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190326_004"
+
+[[person.meta.citation]]
+title = "1977 Minor League Digest"
+
+[person.name]
+last = "Simpson"
+use = "William"
+given = "William A."
+
+[person.birth]
+date = "1954"
+
+[person.description]
+throws = "R"
+bats = "R"
+height = "72"
+weight = "177"
+
+[[person.affiliation]]
+type = "player"
+dates = "1976"
+team.name = "Grays Harbor"
+team.league.name = "Northwest League"
+description.position = "SS"
+
+

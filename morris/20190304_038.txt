@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190304_038"
+
+[[person.meta.citation]]
+title = "Geneva Daily Times"
+date = "1915-10-28"
+pages = "3"
+
+[person.name]
+last = "Towsley"
+use = "David"
+given = "David"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+
+

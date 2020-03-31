@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190304_034"
+
+[[person.meta.citation]]
+title = "Geneva Daily Times"
+date = "1915-10-28"
+pages = "3"
+
+[person.name]
+last = "Kennedy"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

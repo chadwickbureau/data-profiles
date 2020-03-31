@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190218_031"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1911-06-12"
+pages = "7"
+
+[person.name]
+last = "Hannon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Anniston"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "University of Alabama"
+team.caliber = "college"
+
+

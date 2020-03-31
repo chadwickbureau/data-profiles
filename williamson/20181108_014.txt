@@ -1,0 +1,81 @@
+[[person]]
+
+[person.meta]
+key = "20181108_014"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1908-06-04"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-06-25"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-10-01"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-04-08"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1909-06-10"
+pages = "9"
+
+[[person.meta.citation]]
+title = "(Memphis) Commercial Appeal"
+date = "1909-09-22"
+pages = "11"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-10-28"
+pages = "5"
+
+[person.name]
+last = "Browne"
+use = "Fred"
+given = "Fred C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Poplar Bluff"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Argenta"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Argenta"
+team.league.name = "Arkansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Newport"
+team.league.name = "Northeast Arkansas League"
+description.position = "OF"
+
+

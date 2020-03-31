@@ -1,0 +1,95 @@
+[[person]]
+
+[person.meta]
+key = "20181108_006"
+
+[[person.meta.citation]]
+title = "The (New Orleans) Times-Democrat"
+date = "1909-07-04"
+pages = "23"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1909-04-01"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-13"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-06-05"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Shreveport Times"
+date = "1909-07-05"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (New Orleans) Times-Democrat"
+date = "1909-07-14"
+pages = "10"
+
+[[person.meta.citation]]
+title = "The Shreveport Times"
+date = "1910-04-25"
+pages = "10"
+
+[person.name]
+last = "Bokenfohr"
+use = "William"
+given = "William Frederick"
+
+[person.description]
+throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Braquets of New Orleans"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "1909-06-04"
+type = "purchased"
+join.name = "Fort Smith"
+join.league.name = "Arkansas State"
+
+[[person.transaction]]
+date = "~1909-07-04"
+type = "signed"
+join.name = "New Orleans"
+join.league.name = "Southern Association"
+
+[[person.transaction]]
+date = "1909-07-13"
+type = "released"
+leave.name = "New Orleans"
+leave.league.name = "Southern Association"
+
+

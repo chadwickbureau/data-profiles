@@ -1,0 +1,90 @@
+[[person]]
+
+[person.meta]
+key = "20181108_015"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-03-19"
+pages = "2"
+
+[[person.meta.citation]]
+title = "The Crowley Signal"
+date = "1908-04-11"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-06-11"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-07-30"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-10-29"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-05-28"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1909-10-28"
+pages = "5"
+
+[person.name]
+last = "Carroll"
+use = "Neal"
+given = "Neal"
+nick = "Nip"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+description.position = "CF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Crowley"
+team.league.name = "Gulf Coast League"
+description.position = "CF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "CF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Marianna"
+team.league.name = "Northeast Arkansas League"
+description.position = "2B"
+
+
+[[person.transaction]]
+date = "<=1908-04-09"
+type = "purchased"
+join.name = "Crowley"
+join.league.name = "Gulf Coast"
+leave.name = "Monroe"
+leave.league.name = "Cotton States"
+
+[[person.transaction]]
+date = "<=1908-06-22"
+type = "signed"
+join.name = "Monroe"
+join.league.name = "Cotton States"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190212_023"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-03-08"
+pages = "8"
+
+[person.name]
+last = "Garlow"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lewiston"
+team.league.name = "New England League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Carlisle Indian Industrial School"
+team.caliber = "college"
+
+

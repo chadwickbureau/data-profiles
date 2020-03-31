@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190121_037"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-04-10"
+pages = "8"
+
+[person.name]
+last = "Wilcox"
+use = "Solly"
+given = "Solly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "OF"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_020"
+
+[[person.meta.citation]]
+title = "Bakersfield Californian"
+date = "1915-11-18"
+pages = "10"
+
+[person.name]
+last = "Roche"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+

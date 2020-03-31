@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190119_026"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-07-11"
+pages = "4"
+
+[person.name]
+last = "Quinn"
+use = "Owen"
+given = "Owen"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "1B"
+
+

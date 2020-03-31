@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190204_025"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-06-11"
+pages = "10"
+
+[person.name]
+last = "Hodgin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "North Carolina State"
+team.caliber = "college"
+
+

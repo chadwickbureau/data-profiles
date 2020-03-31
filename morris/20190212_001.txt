@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190212_001"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-01"
+pages = "6"
+
+[person.name]
+last = "Hauger"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Stateville"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Evansville"
+team.league.name = "Central League"
+
+

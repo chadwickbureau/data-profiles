@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_026"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-12-06"
+pages = "6"
+
+[person.name]
+last = "Easterly"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+

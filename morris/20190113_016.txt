@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190113_016"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1915-05-21"
+pages = "19"
+
+[person.name]
+last = "Boucher"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "St. Louis"
+team.league.name = "Federal League"
+
+

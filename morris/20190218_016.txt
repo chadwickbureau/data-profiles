@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190218_016"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-05-21"
+pages = "20"
+
+[person.name]
+last = "Konnick"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Toronto"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

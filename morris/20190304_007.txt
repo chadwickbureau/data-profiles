@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190304_007"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Fox"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

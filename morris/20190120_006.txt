@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190120_006"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-08-28"
+pages = "12"
+
+[person.name]
+last = "Russell"
+use = "Harvey"
+given = "Harvey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190224_034"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "William"
+use = "Clark"
+given = "Clark"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "SC"
+place.city = "Whitmeyer"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "R"
+description.height = "73"
+
+

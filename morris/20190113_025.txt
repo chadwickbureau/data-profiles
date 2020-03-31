@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190113_025"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-31"
+pages = "16"
+
+[person.name]
+last = "Reddington"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Danbury"
+team.league.name = "Atlantic League"
+
+

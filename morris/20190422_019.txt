@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190422_019"
+
+[[person.meta.citation]]
+title = "Santa Ana Register"
+date = "1915-11-11"
+pages = "9"
+
+[person.name]
+last = "Maggert"
+use = "Harl"
+given = "Harl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Pacific Coast League"
+
+

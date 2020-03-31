@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190129_027"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-19"
+pages = "6"
+
+[person.name]
+last = "Gosnell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190422_013"
+
+[[person.meta.citation]]
+title = "San Bernardino County Sun"
+date = "1915-11-23"
+pages = "8"
+
+[person.name]
+last = "Smith"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+description.position = "3B"
+
+

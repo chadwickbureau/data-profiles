@@ -4,13 +4,9 @@
 key = "20190531_029"
 
 [[person.meta.citation]]
-title = "Scranton Republican 1916-09-30"
+title = "Scranton Republican"
+date = "1916-09-30"
 pages = "64"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Neher"

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190304_031"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-05-06"
+pages = "1"
+
+[person.name]
+last = "Becker"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "CF"
+description.bats = "L"
+
+

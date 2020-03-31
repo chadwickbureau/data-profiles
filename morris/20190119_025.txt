@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190119_025"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-11"
+pages = "19"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Manchester"
+team.league.name = "New England League"
+
+

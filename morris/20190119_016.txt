@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190119_016"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-04"
+pages = "17"
+
+[person.name]
+last = "O'Connell"
+use = "Darby"
+given = "Darby"
+
+[[person.education]]
+school.name = "Naugatuck HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Naugatuck"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Haven"
+team.league.name = "Colonial League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.league.name = "Eastern Association"
+
+

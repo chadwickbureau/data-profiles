@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190204_017"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-07"
+pages = "6"
+
+[person.name]
+last = "Harbison"
+use = "Douglas"
+given = "Douglas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+
+

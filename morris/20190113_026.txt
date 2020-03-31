@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190113_026"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-01"
+pages = "18"
+
+[person.name]
+last = "Latham"
+use = "Arlie"
+given = "Arlie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Colonial League"
+
+

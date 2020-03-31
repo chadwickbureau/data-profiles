@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190119_020"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-07"
+pages = "17"
+
+[person.name]
+last = "Geist"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "P"
+
+

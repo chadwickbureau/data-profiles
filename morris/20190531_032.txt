@@ -4,13 +4,9 @@
 key = "20190531_032"
 
 [[person.meta.citation]]
-title = "Rochester Democrat & Chronicle 1915-06-23"
+title = "Rochester Democrat & Chronicle"
+date = "1915-06-23"
 pages = "18"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Winters"

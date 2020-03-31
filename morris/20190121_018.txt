@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190121_018"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-06-03"
+pages = "9"
+
+[person.name]
+last = "Clouser"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wellsville"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+

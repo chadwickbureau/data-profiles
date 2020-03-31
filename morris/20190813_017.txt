@@ -4,13 +4,9 @@
 key = "20190813_017"
 
 [[person.meta.citation]]
-title = "Richmond Times Dispatch 1915-08-21"
+title = "Richmond Times Dispatch"
+date = "1915-08-21"
 pages = "5"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Craft"

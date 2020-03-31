@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190224_001"
+
+[[person.meta.citation]]
+title = "High Point Enterprise"
+date = "1922-07-18"
+pages = "5"
+
+[person.name]
+last = "Hodgin"
+use = "Herb"
+given = "Herb"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "NC"
+place.city = "Jamestown"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+description.position = "2B"
+
+

@@ -4,13 +4,9 @@
 key = "20190813_027"
 
 [[person.meta.citation]]
-title = "Chambersburg Public Opinion 1916-06-08"
+title = "Chambersburg Public Opinion"
+date = "1916-06-08"
 pages = "6"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Spencer"

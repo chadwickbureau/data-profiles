@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20190129_001"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-06-12"
+pages = "9"
+
+[person.name]
+last = "Barberich"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New London"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

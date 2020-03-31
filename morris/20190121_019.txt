@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190121_019"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-08-27"
+pages = "8"
+
+[person.name]
+last = "Murphy"
+use = "Marty"
+given = "Marty"
+
+[[person.resides]]
+dates = "1915-08-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "RF"
+
+

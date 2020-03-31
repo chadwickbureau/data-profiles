@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190119_018"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-07"
+pages = "17"
+
+[person.name]
+last = "Senno"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Worcester"
+team.league.name = "New England League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+description.position = "LF"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190121_014"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-06-02"
+pages = "10"
+
+[person.name]
+last = "Foley"
+use = "J.D."
+given = "J.D."
+
+[[person.resides]]
+dates = "1915-06-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "1B-C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Syracuse University"
+team.caliber = "college"
+
+

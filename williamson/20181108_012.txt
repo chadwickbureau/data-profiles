@@ -1,0 +1,75 @@
+[[person]]
+
+[person.meta]
+key = "20181108_012"
+
+[[person.meta.citation]]
+title = "Vanderbilt University Quarterly"
+date = "1904"
+volume = "4"
+pages = "305"
+
+[[person.meta.citation]]
+title = "The Arkansas Gazette"
+date = "1909-08-08"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Jonesboro Daily News"
+date = "1909-02-20"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Jonesboro Daily News"
+date = "1909-07-06"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Newport Daily Independent"
+date = "1909-07-17"
+pages = "1"
+
+[person.name]
+last = "Brown"
+use = "Doswell"
+given = "Doswell Parish"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"
+dates = "/1903"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Vanderbilt [caliber=college]"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "captain"
+dates = "1903"
+team.name = "Vanderbilt [caliber=college]"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Jonesboro"
+team.league.name = "Arkansas State League"
+title = "Secretary/Treasurer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jonesboro"
+team.league.name = "Arkansas State League"
+description.position = "RF"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Northeast Arkansas League"
+title = "President"
+
+

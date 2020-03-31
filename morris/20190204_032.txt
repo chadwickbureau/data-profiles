@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190204_032"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-07-03"
+pages = "2"
+
+[person.name]
+last = "Weiss"
+use = "Honey"
+given = "Honey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

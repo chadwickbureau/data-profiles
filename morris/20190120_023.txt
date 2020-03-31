@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_023"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-12"
+pages = "4"
+
+[person.name]
+last = "Linder"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+
+

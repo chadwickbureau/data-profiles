@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190422_018"
+
+[[person.meta.citation]]
+title = "Salt Lake Tribune"
+date = "1915-10-23"
+pages = "11"
+
+[person.name]
+last = "Beumiller"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190204_020"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-22"
+pages = "12"
+
+[person.name]
+last = "Lee"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Dunn"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Wake Forest"
+team.caliber = "college"
+
+

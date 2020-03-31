@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190422_043"
+
+[[person.meta.citation]]
+title = "San Diego Union"
+date = "1915-12-05"
+pages = "21"
+
+[person.name]
+last = "Hanson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Northwestern League"
+
+

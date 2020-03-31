@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_012"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1916-07-22"
+pages = "6"
+
+[person.name]
+last = "Bourcier"
+use = "Charles"
+given = "Charles D."
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

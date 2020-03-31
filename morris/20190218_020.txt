@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190218_020"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1915-05-04"
+pages = "5"
+
+[person.name]
+last = "Hasson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"
+
+

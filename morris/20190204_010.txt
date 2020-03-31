@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190204_010"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-21"
+pages = "6"
+
+[person.name]
+last = "Matthews"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Georgia-Alabama League"
+
+

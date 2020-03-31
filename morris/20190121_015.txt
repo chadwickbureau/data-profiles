@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190121_015"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-06-03"
+pages = "12"
+
+[person.name]
+last = "Foley"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Syracuse University"
+team.caliber = "college"
+
+

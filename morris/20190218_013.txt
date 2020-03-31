@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190218_013"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-03-13"
+pages = "11"
+
+[person.name]
+last = "Letter"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+

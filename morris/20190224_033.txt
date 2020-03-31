@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190224_033"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Paxson"
+use = "Charley"
+given = "Charley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "R"
+
+

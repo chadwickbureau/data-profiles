@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190120_008"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-17"
+pages = "19"
+
+[person.name]
+last = "Woods"
+use = "Wally"
+given = "Wally"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

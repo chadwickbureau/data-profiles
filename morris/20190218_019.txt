@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190218_019"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1915-06-07"
+pages = "9"
+
+[person.name]
+last = "Jarman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Troy"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190326_005"
+
+[[person.meta.citation]]
+title = "1977 Minor League Digest"
+
+[person.name]
+last = "Simpson"
+use = "William"
+given = "William R."
+
+[person.birth]
+date = "1954"
+
+[person.description]
+throws = "R"
+bats = "R"
+height = "73"
+weight = "190"
+

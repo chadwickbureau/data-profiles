@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190224_006"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-07-02"
+pages = "1"
+
+[person.name]
+last = "Billings"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western Carolina League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Wake Forest University"
+team.caliber = "college"
+
+

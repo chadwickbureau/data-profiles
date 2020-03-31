@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190212_008"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Rowe"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190304_016"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-06-08"
+pages = "13"
+
+[person.name]
+last = "Brady"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

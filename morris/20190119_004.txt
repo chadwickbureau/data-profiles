@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190119_004"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-25"
+pages = "18"
+
+[person.name]
+last = "O'Brien"
+use = "John"
+given = "John H."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1905/1912"
+team.name = "Fall River"
+team.league.name = "New England League"
+
+

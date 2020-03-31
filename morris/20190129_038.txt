@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20190129_038"
+
+[[person.meta.citation]]
+title = "Salisbury Daily Times"
+date = "1952-08-18"
+pages = "8"
+
+[person.name]
+last = "Smith"
+use = "Buddy"
+given = "Herman"
+
+[[person.resides]]
+dates = "1952"
+place.country = "US"
+place.state = "MD"
+place.city = "Princess Anne"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1952"
+team.name = "Salisbury"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1949"
+team.name = "Federalsburg"
+team.league.name = "Eastern Shore League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1949"
+team.name = "University of Maryland"
+team.caliber = "college"
+
+

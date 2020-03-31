@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190119_008"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-03-05"
+pages = "19"
+
+[person.name]
+last = "Wilcox"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1915-03-05"
+place.country = "US"
+place.state = "NJ"
+place.city = "Somerville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

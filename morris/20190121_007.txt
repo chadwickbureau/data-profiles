@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190121_007"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-17"
+pages = "6"
+
+[person.name]
+last = "Loud"
+use = "Prep"
+given = "Prep"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Brown University"
+team.caliber = "college"
+
+

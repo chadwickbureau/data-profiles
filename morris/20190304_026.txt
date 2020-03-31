@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190304_026"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-21"
+pages = "16"
+
+[person.name]
+last = "Parmalee"
+use = "Otto"
+given = "Otto"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "IF"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.league.name = "Ohio State League"
+
+

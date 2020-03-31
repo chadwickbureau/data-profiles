@@ -4,13 +4,9 @@
 key = "20190813_009"
 
 [[person.meta.citation]]
-title = "Chillicothe Gazette 1915-05-27"
+title = "Chillicothe Gazette"
+date = "1915-05-27"
 pages = "3"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Eisel"

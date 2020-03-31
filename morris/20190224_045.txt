@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190224_045"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Gondolfi"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "SS"
+description.bats = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+

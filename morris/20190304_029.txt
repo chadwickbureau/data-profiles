@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190304_029"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1915-07-01"
+pages = "14"
+
+[person.name]
+last = "Baxter"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+
+

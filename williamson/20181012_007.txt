@@ -1,0 +1,112 @@
+[[person]]
+
+[person.meta]
+key = "20181012_007"
+
+[[person.meta.citation]]
+title = "Boston Herald"
+date = "1908-02-11"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1908-03-24"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Boston Herald"
+date = "1908-06-19"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Boston Herald"
+date = "1908-07-11"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1909-02-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-04-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-04-27"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-04-29"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Springfield (Massachusetts) Republican"
+date = "1909-05-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Springfield (Massachusetts) Republican"
+date = "1909-06-02"
+pages = "6"
+
+[person.name]
+last = "Barnicle"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Dean Academy"
+description.position = "P"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Philadelphia"
+team.league.name = "American League"
+description.position = "P"
+description.height = "72"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Dean Academy"
+description.position = "P"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Worcester"
+team.league.name = "New England League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Holyoke"
+team.league.name = "Connecticut State League"
+description.position = "P"
+
+

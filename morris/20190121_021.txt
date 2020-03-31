@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20190121_021"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-07-24"
+pages = "19"
+
+[person.name]
+last = "O'Connor"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Manchester"
+team.league.name = "New England League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Fall River"
+team.league.name = "Colonial League"
+description.position = "C"
+
+

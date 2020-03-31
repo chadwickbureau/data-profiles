@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190121_012"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-05-09"
+pages = "170"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+
+

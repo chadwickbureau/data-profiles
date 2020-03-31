@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190204_002"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-04"
+pages = "6"
+
+[person.name]
+last = "Winston"
+given = "E."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+

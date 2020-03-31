@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190422_039"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-12-21"
+pages = "1"
+
+[person.name]
+last = "Berger"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

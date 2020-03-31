@@ -4,13 +4,9 @@
 key = "20190614_005"
 
 [[person.meta.citation]]
-title = "San Bernardino County Sun 1915-12-21"
+title = "San Bernardino County Sun"
+date = "1915-12-21"
 pages = "9"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Poole"

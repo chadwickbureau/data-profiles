@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20181012_008"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1909-05-18"
+pages = "6"
+
+[person.name]
+last = "Bauer"
+use = "Eddie"
+given = "Eddie"
+nick = "Polly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+team.league.name = "Arkansas State League"
+description.position = "2B-P"
+
+
+[[person.transaction]]
+date = "1909-05-17"
+type = "signed"
+join.name = "Alexandria"
+join.league.name = "Arkansas State"
+
+

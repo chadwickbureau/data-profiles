@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190119_013"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-03"
+pages = "19"
+
+[person.name]
+last = "Foley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Syracuse University [caliber=college]"
+
+

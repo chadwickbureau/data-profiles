@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190121_026"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-04-07"
+pages = "8"
+
+[person.name]
+last = "Carroll"
+use = "Howard"
+given = "Howard"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Rome"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Rockford"
+team.league.name = "Wisconsin-Illinois League"
+
+

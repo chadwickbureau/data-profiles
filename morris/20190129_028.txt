@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_028"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-19"
+pages = "6"
+
+[person.name]
+last = "Evans"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+

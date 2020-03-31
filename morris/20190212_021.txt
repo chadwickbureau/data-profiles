@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190212_021"
+
+[[person.meta.citation]]
+title = "Twin City Daily Sentinel"
+date = "1915-03-27"
+pages = "10"
+
+[person.name]
+last = "Milliman"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+
+

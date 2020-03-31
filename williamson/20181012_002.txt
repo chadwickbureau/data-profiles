@@ -1,0 +1,87 @@
+[[person]]
+
+[person.meta]
+key = "20181012_002"
+
+[[person.meta.citation]]
+title = "The (Shreveport) Times"
+date = "1909-05-30"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Weekly Town Talk"
+date = "1909-07-10"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The (Shreveport) Times"
+date = "1909-08-08"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (Shreveport) Times"
+date = "1910-03-10"
+pages = "10"
+
+[[person.meta.citation]]
+title = "The (Shreveport) Times"
+date = "1909-08-08"
+pages = "2"
+
+[[person.meta.citation]]
+title = "The (Shreveport) Times"
+date = "1909-10-27"
+pages = "10"
+
+[person.name]
+last = "Anderson"
+use = "Wingo"
+given = "Wingo"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "TX"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Longview [state=TX]"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Nacogdoches [state=LA]"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "El Paso"
+team.league.name = "Cactus League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Cincinnati"
+team.league.name = "National League"
+description.position = "P"
+
+

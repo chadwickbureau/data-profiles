@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190218_021"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1915-05-04"
+pages = "8"
+
+[person.name]
+last = "Welcher"
+use = "Abe"
+given = "Abe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+description.position = "P"
+
+

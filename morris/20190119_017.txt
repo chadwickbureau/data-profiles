@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190119_017"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-04"
+pages = "17"
+
+[person.name]
+last = "Estes"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Worcester"
+team.league.name = "New England League"
+description.position = "OF"
+
+

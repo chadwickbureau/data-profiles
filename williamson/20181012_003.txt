@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "20181012_003"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1918-01-12"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-05-07"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1909-05-24"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Fort Worth Star-Telegram"
+date = "1911-11-08"
+pages = "10"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1912-05-11"
+pages = "25"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1912-04-29"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1912-05-06"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1912-07-16"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1912-04-29"
+pages = "13"
+
+[person.name]
+last = "Averett"
+use = "John"
+given = "John W."
+nick = "Hooter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Guthrie"
+team.league.name = "Oklahoma State League"
+description.position = "P"
+
+

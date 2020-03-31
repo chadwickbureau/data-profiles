@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_003"
+
+[[person.meta.citation]]
+title = "Salt Lake Telegram"
+date = "1915-05-09"
+pages = "16"
+
+[person.name]
+last = "Connor"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Providence"
+team.league.name = "Eastern League"
+
+

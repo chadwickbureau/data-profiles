@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_027"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-12-06"
+pages = "6"
+
+[person.name]
+last = "Smith"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+

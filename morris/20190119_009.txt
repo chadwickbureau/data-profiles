@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190119_009"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-06-01"
+pages = "18"
+
+[person.name]
+last = "Saunders"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taunton"
+team.league.name = "Colonial League"
+description.position = "P"
+description.throws = "L"
+
+

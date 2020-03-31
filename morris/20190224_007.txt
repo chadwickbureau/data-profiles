@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190224_007"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-07-02"
+pages = "1"
+
+[person.name]
+last = "Christenbury"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western Carolina League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Davidson College"
+team.caliber = "college"
+
+

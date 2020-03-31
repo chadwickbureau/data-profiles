@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190120_022"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-12"
+pages = "4"
+
+[person.name]
+last = "Greenslade"
+
+[[person.resides]]
+dates = "1915-06-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Fall River"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190204_042"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1915-08-14"
+pages = "1"
+
+[person.name]
+last = "Anderson"
+given = "V. H."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Kannapolis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+
+

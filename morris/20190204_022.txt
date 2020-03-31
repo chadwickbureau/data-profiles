@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190204_022"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1915-11-14"
+pages = "6"
+
+[person.name]
+last = "Billings"
+use = "Mig"
+given = "Gilbert"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Wake Forest"
+team.caliber = "college"
+
+

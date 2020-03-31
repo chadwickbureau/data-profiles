@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_033"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-12-27"
+pages = "9"
+
+[person.name]
+last = "Hosp"
+use = "Franz"
+given = "Franz"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+

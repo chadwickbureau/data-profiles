@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_001"
+
+[[person.meta.citation]]
+title = "Fitchburg Sentinel"
+date = "1915-05-17"
+pages = "5"
+
+[person.name]
+last = "Phoenix"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Fall River"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lewiston"
+team.league.name = "New England League"
+
+

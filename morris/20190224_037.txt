@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190224_037"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Todd"
+nick = "Hank"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "R"
+description.height = "70"
+
+

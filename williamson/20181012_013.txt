@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20181012_013"
+
+[[person.meta.citation]]
+title = "The Fort Smith Times"
+date = "1909-04-30"
+pages = "2"
+
+[person.name]
+last = "Beveridge"
+use = "Will"
+given = "Will"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+

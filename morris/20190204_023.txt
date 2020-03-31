@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190204_023"
+
+[[person.meta.citation]]
+title = "Morganton News-Herald"
+date = "1916-03-02"
+pages = "5"
+
+[person.name]
+last = "Billings"
+use = "Mig"
+given = "G. M."
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Wake Forest"
+team.caliber = "college"
+
+

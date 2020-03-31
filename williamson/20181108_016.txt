@@ -1,0 +1,110 @@
+[[person]]
+
+[person.meta]
+key = "20181108_016"
+
+[[person.meta.citation]]
+title = "New Orleans Times-Democrat"
+date = "1908-05-03"
+pages = "23"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1907-06-18"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-02-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1908-10-01"
+pages = "8"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1908-12-18"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1909-01-21"
+pages = "7"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1909-05-06"
+pages = "3"
+
+[[person.meta.citation]]
+title = "The Shreveport Times"
+date = "1909-05-06"
+pages = "7"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1909-04-25"
+pages = "17"
+
+[person.name]
+last = "Casey"
+use = "Tom"
+given = "Tom"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Columbus"
+team.league.name = "Cotton States League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Austin"
+team.league.name = "Texas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Houston"
+team.league.name = "Texas League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.height = "73"
+description.weight = "149"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "<=1907-06-17"
+type = "released"
+leave.name = "Columbus"
+leave.league.name = "Cotton States"
+
+[[person.transaction]]
+date = "<=1908-12-18"
+type = "purchased"
+join.name = "Houston"
+join.league.name = "Texas"
+leave.name = "Austin"
+leave.league.name = "Texas"
+
+

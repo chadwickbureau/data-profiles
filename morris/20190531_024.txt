@@ -4,13 +4,9 @@
 key = "20190531_024"
 
 [[person.meta.citation]]
-title = "Wilkes-Barre Record 1915-04-23"
+title = "Wilkes-Barre Record"
+date = "1915-04-23"
 pages = "9"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "McVaugh"

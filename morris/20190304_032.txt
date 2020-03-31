@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190304_032"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-05-06"
+pages = "8"
+
+[person.name]
+last = "Becker"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New London"
+team.league.name = "Eastern Association"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

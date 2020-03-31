@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190304_027"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-21"
+pages = "16"
+
+[person.name]
+last = "Eisel"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+description.position = "OF"
+
+

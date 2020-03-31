@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190204_027"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-27"
+pages = "6"
+
+[person.name]
+last = "Anderson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+description.throws = "L"
+
+

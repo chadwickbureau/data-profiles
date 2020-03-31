@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190218_023"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1915-04-24"
+pages = "5"
+
+[person.name]
+last = "Gardinier"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Philadelphia"
+team.league.name = "American League"
+
+

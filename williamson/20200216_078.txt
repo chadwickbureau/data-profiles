@@ -23,5 +23,6 @@ type = "player"
 dates = "1910"
 team.name = "Memphis"
 team.league.name = "Southern Association"
+description.position = "OF"
 
 

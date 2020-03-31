@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190204_008"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-06"
+pages = "10"
+
+[person.name]
+last = "Lowe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+description.position = "P"
+
+

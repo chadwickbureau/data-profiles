@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190204_003"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-04"
+pages = "6"
+
+[person.name]
+last = "Utley"
+use = "Phil"
+given = "Phil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Red Springs"
+team.league.name = "Eastern North Carolina League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Thomasville"
+team.league.name = "Florida-Alabama-Georgia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Wake Forest"
+team.caliber = "college"
+
+

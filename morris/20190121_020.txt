@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190121_020"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1915-06-08"
+pages = "10"
+
+[person.name]
+last = "Williams"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

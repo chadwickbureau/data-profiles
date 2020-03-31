@@ -4,13 +4,9 @@
 key = "20190531_003"
 
 [[person.meta.citation]]
-title = "Elmira Star-Gazette 1915-05-27"
+title = "Elmira Star-Gazette"
+date = "1915-05-27"
 pages = "8"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Schuler"

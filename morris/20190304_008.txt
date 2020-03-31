@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190304_008"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Winters"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "VT"
+place.city = "Burlington"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_020"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-04"
+pages = "6"
+
+[person.name]
+last = "Moore"
+use = "Sammy"
+given = "Sammy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20190224_043"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "Carnes"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "1B"
+description.height = "73"
+description.bats = "L"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Adrian"
+team.league.name = "Southern Michigan League"
+
+

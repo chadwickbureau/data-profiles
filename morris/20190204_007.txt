@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190204_007"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-06"
+pages = "10"
+
+[person.name]
+last = "Wilson"
+use = "Rube"
+given = "Rube"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Taylorsville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+
+

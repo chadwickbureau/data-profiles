@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190212_017"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-06-16"
+pages = "12"
+
+[person.name]
+last = "Winecoff"
+use = "Cyril"
+given = "Cyril"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albemarle"
+team.league.name = "Eastern North Carolina League"
+
+

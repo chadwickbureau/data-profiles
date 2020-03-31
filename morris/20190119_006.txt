@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190119_006"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-25"
+pages = "18"
+
+[person.name]
+last = "Haley"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fall River"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

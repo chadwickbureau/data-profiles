@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190220_011"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-08-23"
+pages = "12"
+
+[person.name]
+last = "Connors"
+use = "Marty"
+given = "Marty"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Niagara University"
+team.caliber = "college"
+
+

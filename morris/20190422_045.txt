@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_045"
+
+[[person.meta.citation]]
+title = "San Diego Evening Tribune"
+date = "1915-11-05"
+pages = "9"
+
+[person.name]
+last = "Bayless"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+

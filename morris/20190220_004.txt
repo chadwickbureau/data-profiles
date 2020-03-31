@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190220_004"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-02-02"
+pages = "8"
+
+[person.name]
+last = "Barton"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Virginia League"
+
+

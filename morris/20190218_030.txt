@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190218_030"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1911-06-12"
+pages = "7"
+
+[person.name]
+last = "Shipp"
+use = "Skinny"
+given = "Skinny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Anniston"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "University of the South"
+team.caliber = "college"
+
+

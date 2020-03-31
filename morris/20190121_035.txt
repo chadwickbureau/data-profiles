@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190121_035"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-04-10"
+pages = "8"
+
+[person.name]
+last = "Weiss"
+use = "Honey"
+given = "Honey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Albany"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

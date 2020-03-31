@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_003"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-15"
+pages = "13"
+
+[person.name]
+last = "Booe"
+use = "Everett"
+given = "Everett"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190220_020"
+
+[[person.meta.citation]]
+title = "Norfolk Daily Press"
+date = "1915-03-10"
+pages = "5"
+
+[person.name]
+last = "Johnson"
+use = "Horace"
+given = "Horace"
+nick = "Sailor"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+

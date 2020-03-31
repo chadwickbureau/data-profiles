@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190220_001"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-05-05"
+pages = "11"
+
+[person.name]
+last = "Bates"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Montreal"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Worcester"
+team.league.name = "New England League"
+
+

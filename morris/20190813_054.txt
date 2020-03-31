@@ -4,13 +4,9 @@
 key = "20190813_054"
 
 [[person.meta.citation]]
-title = "Charlotte Observer 1915-07-31"
+title = "Charlotte Observer"
+date = "1915-07-31"
 pages = "3"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Emery"

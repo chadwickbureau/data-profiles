@@ -1,0 +1,107 @@
+[[person]]
+
+[person.meta]
+key = "20181012_001"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1908-02-06"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1908-03-23"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1908-03-09"
+pages = "2"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-04-23"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Memphis Commercial Appeal"
+date = "1908-08-12"
+pages = "11"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-08-27"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-04-16"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1909-04-18"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Fort Smith Times"
+date = "1909-05-19"
+pages = "2"
+
+[person.name]
+last = "Addington"
+use = "Max"
+given = "Max"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "OK"
+place.city = "Yukon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Monroe"
+team.league.name = "Gulf Coast League"
+description.position = "3B"
+description.height = "70"
+description.weight = "153"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.position = "3B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fort Smith"
+team.league.name = "Arkansas State League"
+description.position = "3B"
+
+
+[[person.transaction]]
+date = "1909-05-19"
+type = "released"
+leave.name = "Fort Smith"
+leave.league.name = "Arkansas State"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190113_023"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-21"
+pages = "18"
+
+[person.name]
+last = "Houck"
+use = "Byron"
+given = "Byron"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Haven"
+team.league.name = "Colonial League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Philadelphia"
+team.league.name = "American League"
+
+

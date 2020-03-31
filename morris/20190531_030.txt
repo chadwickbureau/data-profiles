@@ -4,13 +4,9 @@
 key = "20190531_030"
 
 [[person.meta.citation]]
-title = "Binghamton Press & Sun-Bulletin 1915-04-16"
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-04-16"
 pages = "20"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "O'Connor"

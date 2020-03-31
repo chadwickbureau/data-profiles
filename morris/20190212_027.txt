@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190212_027"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-02-22"
+pages = "8"
+
+[person.name]
+last = "Rogers"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "C"
+
+

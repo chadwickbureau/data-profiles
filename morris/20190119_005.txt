@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190119_005"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-25"
+pages = "18"
+
+[person.name]
+last = "Ens"
+use = "Mutz"
+given = "Mutz"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Manchester"
+team.league.name = "New England League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Bridgeport"
+team.league.name = "Eastern Association"
+
+

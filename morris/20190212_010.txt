@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190212_010"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-03"
+pages = "10"
+
+[person.name]
+last = "Fox"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lumberton"
+team.league.name = "Eastern North Carolina League"
+
+

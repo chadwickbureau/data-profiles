@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190218_012"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1915-04-22"
+pages = "12"
+
+[person.name]
+last = "McVaugh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Columbus"
+team.league.name = "American Association"
+
+

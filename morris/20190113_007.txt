@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190113_007"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-16"
+pages = "45"
+
+[person.name]
+last = "Marhefka"
+use = "Tony"
+given = "Tony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New London"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Brooklyn"
+team.league.name = "Federal League"
+
+

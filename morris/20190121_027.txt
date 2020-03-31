@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190121_027"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-04-07"
+pages = "8"
+
+[person.name]
+last = "Osborne"
+use = "Delos"
+given = "Delos"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Canadian League"
+
+

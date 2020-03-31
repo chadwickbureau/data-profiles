@@ -1,0 +1,83 @@
+[[person]]
+
+[person.meta]
+key = "20181108_002"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-05-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-07-30"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Newport Daily Independent"
+date = "1908-08-17"
+pages = "3"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1908-09-24"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Jonesboro Daily News"
+date = "1909-06-29"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Newport Daily Independent"
+date = "1909-09-15"
+pages = "1"
+
+[person.name]
+last = "Blackwood"
+use = "Dwight"
+given = "Dwight Hale"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Newport"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Texarkana"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Caruthersville"
+team.league.name = "Northeast Arkansas League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "<=1909-09-13"
+type = "signed"
+join.name = "Paragould"
+join.league.name = "Northeast Arkansas"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190129_037"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-07-31"
+pages = "6"
+
+[person.name]
+last = "Miller"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Statesville"
+team.league.name = "Western North Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "South Atlantic League"
+
+

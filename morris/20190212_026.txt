@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20190212_026"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-07-29"
+pages = "8"
+
+[person.name]
+last = "Rawley"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Interstate League"
+description.position = "P"
+
+

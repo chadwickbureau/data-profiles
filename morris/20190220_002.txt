@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20190220_002"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-05-05"
+pages = "11"
+
+[person.name]
+last = "Scull"
+use = "Carl"
+given = "Carl"
+
+[[person.education]]
+school.name = "Scranton Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Scranton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New York"
+team.league.name = "National League"
+
+

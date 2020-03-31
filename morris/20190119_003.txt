@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190119_003"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-23"
+pages = "34"
+
+[person.name]
+last = "Ramsey"
+use = "Hank"
+given = "Hank"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

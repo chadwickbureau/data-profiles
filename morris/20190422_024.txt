@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190422_024"
+
+[[person.meta.citation]]
+title = "San Bernardino News"
+date = "1915-12-09"
+pages = "6"
+
+[person.name]
+last = "White"
+use = "Doc"
+given = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Bernardino"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Chicago"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

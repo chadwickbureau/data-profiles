@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190120_013"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-11"
+pages = "6"
+
+[person.name]
+last = "Bottomley"
+
+[[person.resides]]
+dates = "1915-06-11"
+place.country = "US"
+place.state = "RI"
+place.city = "Bristol"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+

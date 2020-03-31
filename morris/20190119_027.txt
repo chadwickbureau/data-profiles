@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190119_027"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-07-11"
+pages = "4"
+
+[person.name]
+last = "Miller"
+use = "Hugh"
+given = "Hugh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fall River"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

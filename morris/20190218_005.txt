@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190218_005"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-03-02"
+pages = "8"
+
+[person.name]
+last = "Swift"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Elmira"
+team.league.name = "New York State League"
+description.position = "P"
+
+

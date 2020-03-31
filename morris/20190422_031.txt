@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_031"
+
+[[person.meta.citation]]
+title = "San Diego Union"
+date = "1915-12-26"
+pages = "31"
+
+[person.name]
+last = "Chech"
+use = "Charley"
+given = "Charley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20190224_048"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1914-03-01"
+pages = "5"
+
+[person.name]
+last = "McCabe"
+use = "William"
+given = "William F."
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.bats = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Washington"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.league.name = "Chicago City League"
+team.caliber = "semipro"
+
+

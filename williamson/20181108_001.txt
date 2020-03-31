@@ -1,0 +1,88 @@
+[[person]]
+
+[person.meta]
+key = "20181108_001"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1908-08-19"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The Vicksburg American 1909-01-20"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Pine Bluff Daily Graphic 1909-03-26"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette 1909-07-01"
+pages = "11"
+
+[person.name]
+last = "Blackburn"
+use = "George"
+given = "George"
+nick = "Smiling George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1908"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+title = "Director"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+title = "Director"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190120_028"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-05-28"
+pages = "10"
+
+[person.name]
+last = "Boucher"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Manhattan College"
+team.caliber = "college"
+
+

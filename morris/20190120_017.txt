@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190120_017"
+
+[[person.meta.citation]]
+title = "Norwich Bulletin"
+date = "1915-06-28"
+pages = "3"
+
+[person.name]
+last = "Burdick"
+use = "Claude"
+given = "Claude"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+

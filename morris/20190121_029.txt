@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190121_029"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-04-09"
+pages = "8"
+
+[person.name]
+last = "Monroe"
+use = "Eddie"
+given = "Eddie"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Elmira Heights"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

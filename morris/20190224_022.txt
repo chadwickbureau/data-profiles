@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190224_022"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-05-06"
+pages = "13"
+
+[person.name]
+last = "Strait"
+use = "Lee"
+given = "Lee"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Elmira"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+description.position = "OF"
+
+

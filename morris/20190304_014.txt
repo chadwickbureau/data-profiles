@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190304_014"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1915-09-07"
+pages = "10"
+
+[person.name]
+last = "Mullin"
+use = "Jim"
+given = "Jim"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Avoca"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+

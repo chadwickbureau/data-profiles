@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "20181108_003"
+
+[[person.meta.citation]]
+title = "(Opelousas, Louisiana) St. Landry Clarion"
+date = "1908-02-29"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Weekly (Alexandria) Town Talk"
+date = "1908-11-28"
+pages = "7"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "The (Alexandria) Town Talk"
+date = "1909-07-16"
+pages = "3"
+
+[person.name]
+last = "Blanchette"
+use = "Benny"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Austin"
+team.league.name = "Texas League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Alexandria"
+team.league.name = "Arkansas State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Mansfield"
+team.place.country = "US"
+team.place.state = "LA"
+team.place.city = "Mansfield"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Mansfield"
+team.place.country = "US"
+team.place.state = "LA"
+team.place.city = "Mansfield"
+
+
+[[person.transaction]]
+date = "1908-02"
+type = "purchased"
+leave.name = "Austin"
+leave.league.name = "Texas"
+join.name = "Monroe"
+join.league.name = "Cotton States"
+
+

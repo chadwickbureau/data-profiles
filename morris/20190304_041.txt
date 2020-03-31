@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190304_041"
+
+[[person.meta.citation]]
+title = "Geneva Daily Times"
+date = "1915-10-28"
+pages = "3"
+
+[person.name]
+last = "Johnson"
+use = "Harry"
+given = "Harry S."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "New York State League"
+
+

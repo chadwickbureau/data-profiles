@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20181108_008"
+
+[[person.meta.citation]]
+title = "Fort Worth Star-Telegram"
+date = "1910-07-03"
+pages = "11"
+
+[person.name]
+last = "Brewster"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Texarkana"
+team.league.name = "Arkansas State League"
+
+

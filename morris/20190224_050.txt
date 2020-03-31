@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20190224_050"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1915-05-14"
+pages = "8"
+
+[person.name]
+last = "Voltz"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.throws = "L"
+
+

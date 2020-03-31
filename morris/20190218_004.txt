@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190218_004"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1915-06-28"
+pages = "1"
+
+[person.name]
+last = "Sterzer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

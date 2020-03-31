@@ -4,13 +4,9 @@
 key = "20190813_066"
 
 [[person.meta.citation]]
-title = "Louisville Courier-Journal 1915-04-01"
+title = "Louisville Courier-Journal"
+date = "1915-04-01"
 pages = "7"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Tee"

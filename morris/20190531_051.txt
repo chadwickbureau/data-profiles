@@ -4,13 +4,9 @@
 key = "20190531_051"
 
 [[person.meta.citation]]
-title = "Buffalo Times 1915-07-03"
+title = "Buffalo Times"
+date = "1915-07-03"
 pages = "3"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Turner"

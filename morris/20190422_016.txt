@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190422_016"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1915-12-13"
+pages = "22"
+
+[person.name]
+last = "Bennett"
+use = "Pug"
+given = "Pug"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Diego"
+team.league.name = "California Winter League"
+
+

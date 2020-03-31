@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20190121_004"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-04"
+pages = "6"
+
+[person.name]
+last = "Eaton"
+use = "Roger"
+given = "Roger"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New Bedford"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

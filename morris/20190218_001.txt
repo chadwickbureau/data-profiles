@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20190218_001"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1915-04-23"
+pages = "8"
+
+[person.name]
+last = "Calder"
+use = "Bruce"
+given = "Bruce"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "VA"
+place.city = "Richmond"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+

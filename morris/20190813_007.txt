@@ -4,13 +4,9 @@
 key = "20190813_007"
 
 [[person.meta.citation]]
-title = "Winston-Salem Journal 1915-02-21"
+title = "Winston-Salem Journal"
+date = "1915-02-21"
 pages = "6"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Burge"

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20190220_027"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1915-05-07"
+pages = "8"
+
+[person.name]
+last = "Poole"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Suffolk"
+team.league.name = "Virginia League"
+description.position = "P"
+description.throws = "L"
+
+

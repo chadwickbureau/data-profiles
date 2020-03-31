@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190129_039"
+
+[[person.meta.citation]]
+title = "Salisbury Daily Times"
+date = "1952-08-18"
+pages = "8"
+
+[person.name]
+last = "Harvey"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1952"
+team.name = "Harrisburg"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1952"
+team.name = "George Washington University"
+team.caliber = "college"
+
+

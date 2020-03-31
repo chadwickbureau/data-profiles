@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190129_034"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-08-19"
+pages = "7"
+
+[person.name]
+last = "Laval"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western North Carolina League"
+
+

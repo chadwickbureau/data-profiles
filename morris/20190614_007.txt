@@ -4,13 +4,9 @@
 key = "20190614_007"
 
 [[person.meta.citation]]
-title = "Munster Times 1915-11-16"
+title = "Munster Times"
+date = "1915-11-16"
 pages = "6"
-
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
 
 [person.name]
 last = "Williams"

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190212_013"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1915-09-05"
+pages = "13"
+
+[person.name]
+last = "Bender"
+use = "Chief"
+given = "Chief"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Gastonia"
+team.league.name = "Western North Carolina League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Federal League"
+
+

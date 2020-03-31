@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20181012_004"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1909-05-06"
+pages = "7"
+
+[person.name]
+last = "Bagwell"
+given = "O."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Monroe"
+team.league.name = "Arkansas State League"
+description.position = "P"
+
+

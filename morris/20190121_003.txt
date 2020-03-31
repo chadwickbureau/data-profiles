@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190121_003"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-02"
+pages = "13"
+
+[person.name]
+last = "Moore"
+use = "Sammy"
+given = "Sammy"
+
+[[person.education]]
+school.name = "Central Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Central Falls"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+
+

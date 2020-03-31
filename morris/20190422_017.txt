@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20190422_017"
+
+[[person.meta.citation]]
+title = "Salt Lake Tribune"
+date = "1915-10-23"
+pages = "11"
+
+[person.name]
+last = "Meek"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cline-Cline"
+team.league.name = "California Winter League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

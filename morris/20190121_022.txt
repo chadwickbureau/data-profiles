@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20190121_022"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-04-21"
+pages = "13"
+
+[person.name]
+last = "Foley"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Syracuse University"
+team.caliber = "college"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20190121_005"
+
+[[person.meta.citation]]
+title = "Pawtucket Times"
+date = "1915-06-17"
+pages = "6"
+
+[person.name]
+last = "Howson"
+use = "Jack"
+given = "Jack"
+
+[[person.education]]
+school.name = "Pawtucket HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Pawtucket"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Pawtucket"
+team.league.name = "Colonial League"
+description.position = "P"
+
+

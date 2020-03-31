@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20190113_013"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-05-18"
+pages = "18"
+
+[person.name]
+last = "Chouninard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hartford"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Brooklyn"
+team.league.name = "Federal League"
+
+

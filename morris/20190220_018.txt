@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20190220_018"
+
+[[person.meta.citation]]
+title = "Norfolk Daily Press"
+date = "1915-03-05"
+pages = "5"
+
+[person.name]
+last = "Carnes"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

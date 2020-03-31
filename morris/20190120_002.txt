@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190120_002"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1915-07-20"
+pages = "16"
+
+[person.name]
+last = "Bentley"
+
+[[person.resides]]
+dates = "1915-07-20"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20190218_014"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1915-04-15"
+pages = "14"
+
+[person.name]
+last = "Adams"
+use = "Claud"
+given = "Claud"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Smithville Flats"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.position = "P"
+
+

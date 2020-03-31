@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20190224_031"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-03-31"
+pages = "9"
+
+[person.name]
+last = "Ginn"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Waterbury"
+team.league.name = "Eastern Association"
+
+

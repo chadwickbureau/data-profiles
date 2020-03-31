@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20190113_012"
+
+[[person.meta.citation]]
+title = "Wisconsin State Journal"
+date = "1915-02-25"
+pages = "2"
+
+[person.name]
+last = "Chouninard"
+use = "George"
+given = "George C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brooklyn"
+team.league.name = "Federal League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Green Bay"
+team.league.name = "Wisconsin-Illinois League"
+
+
