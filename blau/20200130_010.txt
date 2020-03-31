@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200130_010"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+date = "1912-01-15"
+pages = "7"
+
+[person.name]
+last = "Powers"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hartford"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Kewanee"
+team.league.name = "Central Association"
+
+
+[[person.transaction]]
+date = "<=1912-01-15"
+type = "awarded"
+join.name = "Kewanee"
+join.league.name = "Central Association"
+
+

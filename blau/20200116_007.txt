@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200116_007"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1914-08-31"
+pages = "7"
+
+[person.name]
+last = "Baker"
+use = "Grady"
+given = "Grady"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+description.position = "C"
+
+

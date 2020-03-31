@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170521_129"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Hiller"
+use = "Hob"
+given = "Hob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+

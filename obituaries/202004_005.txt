@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_005"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2020-03-22"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=henry-kilgariff-workman&pid=195754265"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Workman"
+use = "Henry"
+given = "Henry Kilgariff"
+
+[person.birth]
+date = "1926-02-05"
+
+[person.death]
+date = "2020-03-16"
+
+[[person.education]]
+school.name = "Loyola HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

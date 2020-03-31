@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_059"
+
+[[person.meta.citation]]
+title = "Jackson (MS) Daily News"
+date = "1922-01-10"
+pages = "13"
+
+[person.name]
+last = "Pelle"
+use = "Wilbur"
+given = "Wilbur"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "OH"
+place.city = "Fosters"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+

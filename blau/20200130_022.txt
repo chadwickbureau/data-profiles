@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20200130_022"
+
+[[person.meta.citation]]
+title = "Chambersburg Publlic Opinion"
+date = "1923-06-18"
+pages = "4"
+
+[person.name]
+last = "Smith"
+use = "Fats"
+given = "Fats"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "PA"
+place.city = "Shippensburg"
+
+
+[[person.education]]
+school.name = "Shippensburg High School"
+school.type = "secondary"
+dates = "/1923"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200130_017"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1916-07-16"
+pages = "29"
+
+[person.name]
+last = "Smith"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+

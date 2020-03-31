@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_073"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1926-08-28"
+pages = "16"
+
+[person.name]
+last = "Tubbs"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Port Huron"
+team.league.name = "Michigan State League"
+
+

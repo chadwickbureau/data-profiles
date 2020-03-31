@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "20170416_119"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1923-07-25"
+pages = "10"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1923-05-10"
+pages = "35"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1923-03-06"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-03-21"
+pages = "5"
+
+[person.name]
+last = "Floyd"
+use = "Hoke"
+given = "Hoke"
+nick = "Duke"
+
+[person.birth]
+date = "1897-11-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Fairmont"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.bats = "L"
+description.throws = "R"
+description.height = "69"
+description.weight = "165"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+

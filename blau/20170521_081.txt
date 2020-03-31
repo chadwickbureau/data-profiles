@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_081"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1928-05-04"
+pages = "12"
+
+[person.name]
+last = "Wilson"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Pittsfield"
+team.league.name = "Eastern League"
+
+

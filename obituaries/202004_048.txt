@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_048"
+
+[[person.meta.citation]]
+title = "Seamon-Wilsey Funeral Home"
+date = "2020-03-28"
+url = "https://www.seamonwilseyfuneralhome.com/obituary/Salvatore-Misasi"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Misasi"
+use = "Sal"
+given = "Salvatore A."
+
+[person.birth]
+date = "1934-07-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Glasco"
+
+[person.death]
+date = "2018-07-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Kingston"
+
+[person.burial]
+cemetery.name = "St. Mary of the Snow Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Saugerties"
+
+[[person.education]]
+school.name = "Saugerties HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Saugerties"
+
+

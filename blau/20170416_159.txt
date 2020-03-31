@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_159"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/290-PINCHHITS_Piggy_Minor.pdf"
+
+[person.name]
+last = "Minor"
+use = "Albert"
+given = "Albert"
+nick = "Piggy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

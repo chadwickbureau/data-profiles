@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_001"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-03-18"
+pages = "12"
+
+[person.name]
+last = "Goebel"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Reading"
+team.league.name = "International League"
+
+

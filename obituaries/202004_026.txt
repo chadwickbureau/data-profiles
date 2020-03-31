@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_026"
+
+[[person.meta.citation]]
+title = "Ivers & Alcorn Funeral Home"
+date = "2020-03-22"
+url = "https://www.iversandalcorn.com/obituary/Myron-Brandon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Brandon"
+use = "Myron"
+given = "Myron F."
+
+[person.birth]
+date = "1929-05-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Le Grand"
+
+[person.death]
+date = "2018-09-15"
+
+[[person.education]]
+school.name = "Le Grand HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Le Grand"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

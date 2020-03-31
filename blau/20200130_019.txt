@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200130_019"
+
+[[person.meta.citation]]
+title = "Beatrice Daily Express"
+date = "1923-07-20"
+pages = "5"
+
+[person.name]
+last = "Smith"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Lincoln"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Hastings"
+team.league.name = "Nebraska State League"
+
+

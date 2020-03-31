@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_015"
+
+[[person.meta.citation]]
+title = "Union Daily Times"
+date = "2020-03-25"
+url = "https://www.legacy.com/obituaries/uniondailytimes/obituary.aspx?n=joe-haney&pid=195777037&fhid=8957"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Haney"
+use = "Joe"
+given = "Joe Thomas"
+
+[person.birth]
+date = "1935-03-23"
+place.country = "US"
+place.state = "SC"
+place.city = "Buffalo"
+
+[person.death]
+date = "2020-03-22"
+place.country = "US"
+place.state = "SC"
+place.city = "Buffalo"
+
+[person.burial]
+cemetery.name = "Union Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Union"
+
+[[person.education]]
+school.name = "Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Union"
+
+

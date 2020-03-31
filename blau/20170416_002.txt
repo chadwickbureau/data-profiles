@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_002"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1928-04-23"
+pages = "9"
+
+[person.name]
+last = "Diehl"
+use = "Holmes"
+given = "Holmes"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+

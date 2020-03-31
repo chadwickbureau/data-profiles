@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "172032"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/172032"
+title = "The Sporting News Player Contract Cards, ScanID: 1099006740"
+
+[person.name]
+last = "O'Brien"
+given = "Joseph G."
+
+
+[[person.transaction]]
+date = "1949-06-20"
+type = "signed"
+join.name = "Cedar Rapids"
+note = "Cedar Rapids 1949-06-20"
+
+[[person.transaction]]
+date = "1949-06-28"
+type = "released"
+leave.name = "Cedar Rapids"
+note = "rel 1949-06-28"
+

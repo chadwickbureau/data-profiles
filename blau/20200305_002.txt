@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200305_002"
+
+[[person.meta.citation]]
+title = "Salem (OR) Stateman Journal"
+date = "1923-07-21"
+pages = "2"
+
+[person.name]
+last = "Brinzda"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Aberden"
+team.league.name = "South Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+

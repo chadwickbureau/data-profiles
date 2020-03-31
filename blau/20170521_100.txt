@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_100"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1913-07-19"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Harper"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "San Jose"
+team.league.name = "California League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+

@@ -12,9 +12,6 @@ last = "Stewart"
 use = "Sid"
 given = "Sid"
 
-[person.description]
-note = [ "see Davis Barker notes" ]
-
 [[person.affiliation]]
 type = "player"
 dates = "1920"

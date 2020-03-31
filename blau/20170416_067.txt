@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170416_067"
+
+[[person.meta.citation]]
+title = "Durham Sun"
+date = "1925-05-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1924-08-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1924-08-22"
+pages = "16"
+
+[person.name]
+last = "Maltby"
+use = "Clyde"
+given = "Clyde"
+nick = "Shorty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202004_041"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1996-12-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Green"
+use = "Robert"
+given = "Robert E."
+suffix = "Jr."
+
+[person.death]
+date = "1996-11-29"
+place.country = "US"
+place.state = "MA"
+place.city = "Newton"
+
+[person.burial]
+cemetery.name = "Massachusetts National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Bourne"
+
+[[person.education]]
+school.name = "The English HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Boston"
+
+[[person.education]]
+school.name = "Villanova University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_116"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1911-07-16"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1911-08-20"
+pages = "17"
+
+[person.name]
+last = "Dailey"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Brownsville"
+team.league.name = "Southwest Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Brownsville"
+team.league.name = "Southwest Texas League"
+
+

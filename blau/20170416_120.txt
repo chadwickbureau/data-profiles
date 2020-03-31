@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170416_120"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-09-02"
+pages = "18"
+
+[person.name]
+last = "Bowman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+
+

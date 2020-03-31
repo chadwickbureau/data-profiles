@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20200109_011"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1916-02-04"
+pages = "10"
+
+[person.name]
+last = "Panella"
+use = "Sap"
+given = "Joe A."
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "NC"
+place.city = "Hickory"
+
+
+[[person.education]]
+school.name = "Davidson College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1916"
+team.name = "Lenoir College"
+team.caliber = "college"
+
+

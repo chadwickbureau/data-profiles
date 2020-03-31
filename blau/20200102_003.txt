@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20200102_003"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1920-06-29"
+pages = "9"
+
+[person.name]
+last = "Moseley"
+use = "Conde"
+given = "Conde"
+
+[person.description]
+note = [ "out of pro ball for several years, has been coaching at Baylor Univ." ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+

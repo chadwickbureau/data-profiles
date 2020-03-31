@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_051"
+
+[[person.meta.citation]]
+title = "Battle Creek Enquirer"
+date = "1920-06-18"
+pages = "16"
+
+[person.name]
+last = "Donnelly"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Bay City"
+team.league.name = "Michigan-Ontario League"
+
+

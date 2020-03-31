@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170521_102"
+
+[[person.meta.citation]]
+title = "Galveston Daily News"
+date = "1892-03-15"
+
+[person.name]
+last = "Mackay"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

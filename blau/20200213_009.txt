@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200213_009"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-01-13"
+pages = "2"
+
+[person.name]
+last = "Forsythe"
+use = "Fred"
+given = "Fred"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "PA"
+place.city = "Wellsboro"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Harrisburg"
+team.league.name = "Tri-State League"
+
+

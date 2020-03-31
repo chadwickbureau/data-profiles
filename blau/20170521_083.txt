@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170521_083"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1928-08-16"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1928-08-21"
+pages = "9"
+
+[person.name]
+last = "Hall"
+use = "Ed"
+given = "Ed"
+nick = "Curley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Corsicana"
+team.league.name = "Lone Star League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+

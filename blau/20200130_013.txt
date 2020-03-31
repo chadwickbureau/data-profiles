@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20200130_013"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1915-03-20"
+pages = "4"
+
+[person.name]
+last = "Smith"
+use = "Franklin"
+given = "Franklin"
+
+[person.description]
+note = [ "had arm trouble in 1914" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+
+[[person.playing]]
+season = "1912"
+league.name = "Michigan State League"
+splits.0.team.name = "Traverse City"
+totals.P_W = "19"
+totals.P_L = "3"
+
+

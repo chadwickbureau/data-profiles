@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20200130_016"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1911-02-02"
+pages = "6"
+
+[person.name]
+last = "Smith"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Jonesboro"
+team.league.name = "Northeast Arkansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Waco"
+team.league.name = "Texas League"
+
+
+[[person.transaction]]
+date = "<1911-02-02"
+type = "drafted"
+join.name = "Waco"
+join.league.name = "Texas"
+leave.name = "Jonesboro"
+leave.league.name = "Northeast Arkansas"
+
+

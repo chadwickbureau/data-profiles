@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202004_024"
+
+[[person.meta.citation]]
+title = "Peck Funeral Homes"
+date = "2020-03-22"
+url = "https://www.peckservices.com/obituary/Richard-DePaulo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "DePaulo"
+use = "Richard"
+given = "Richard Leonard"
+
+[person.birth]
+date = "1934-04-02"
+
+[person.death]
+date = "2018-10-04"
+
+[[person.education]]
+school.name = "Quincy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Quincy"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

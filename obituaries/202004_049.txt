@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202004_049"
+
+[[person.meta.citation]]
+title = "Rothermel Funeral Home"
+date = "2020-03-28"
+url = "https://prod3.meaningfulfunerals.net/obituary/allen-bailey?fh_id=13594"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Bailey"
+use = "Allen"
+given = "Allen P."
+
+[person.birth]
+date = "1931-06-05"
+place.country = "PA"
+place.city = "Colon"
+
+[person.death]
+date = "2018-07-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Coal Township"
+
+[person.burial]
+cemetery.name = "Jacob's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Line Mountain"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

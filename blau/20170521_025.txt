@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170521_025"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[person.name]
+last = "Roy"
+use = "Luther"
+given = "Luther"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cleveland"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Cynthiana"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

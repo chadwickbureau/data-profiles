@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_114"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-08-05"
+pages = "13"
+
+[person.name]
+last = "Milligan"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

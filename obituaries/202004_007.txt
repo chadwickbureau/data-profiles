@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202004_007"
+
+[[person.meta.citation]]
+title = "William Sullivan & Son Funeral Directors"
+date = "2020-03-23"
+url = "https://www.sullivanfuneraldirectors.com/obituaries/Earl-Bossenberry/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Bossenberry"
+use = "Earl"
+given = "Earl C."
+
+[person.birth]
+date = "1928-01-05"
+
+[person.death]
+date = "2020-03-12"
+
+[person.burial]
+cemetery.name = "St. Peter's Roman Catholic Cemetery"
+cemetery.place.country = "CA"
+cemetery.place.state = "ON"
+cemetery.place.city = "Saint-Joseph"
+
+[[person.education]]
+school.name = "Highland Park Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Eastern Michigan University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_077"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1935-04-23"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Crockett"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Lake Charles"
+team.league.name = "Evangeline League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Columbus"
+team.league.name = "South Atlantic League"
+
+

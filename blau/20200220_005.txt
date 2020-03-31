@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200220_005"
+
+[[person.meta.citation]]
+title = "Wellsville Allegany County Reporter"
+date = "1914-07-24"
+pages = "5"
+
+[person.name]
+last = "Sheridan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Bradford"
+team.league.name = "Interstate League"
+description.throws = "L"
+
+

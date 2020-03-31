@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170416_053"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1924-12-08"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1925-04-18"
+pages = "18"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Donovan"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Springfield"
+team.league.name = "Central League"
+
+

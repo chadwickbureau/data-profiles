@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200109_003"
+
+[[person.meta.citation]]
+title = "Cedar Rapids Gazette"
+date = "1917-03-14"
+pages = "8"
+
+[person.name]
+last = "Parker"
+use = "Clarence"
+given = "Clarence"
+
+[[person.education]]
+school.name = "University of Dubuque"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Dubuque"
+team.league.name = "Central Association"
+
+

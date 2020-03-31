@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200220_007"
+
+[[person.meta.citation]]
+title = "Warren Evening Times"
+date = "1915-07-22"
+pages = "7"
+
+[person.name]
+last = "Wright"
+use = "Pikey"
+given = "Pikey"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Warren County"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

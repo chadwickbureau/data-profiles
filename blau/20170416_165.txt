@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170416_165"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-06-10"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1926-07-25"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1926-01-14"
+pages = "12"
+
+[person.name]
+last = "Queen"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Topeka"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Topeka"
+team.league.name = "Southwestern League"
+description.throws = "L"
+description.height = "75"
+description.weight = "175"
+
+

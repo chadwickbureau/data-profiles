@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202004_032"
+
+[[person.meta.citation]]
+title = "Quinn-Shalz Family Funeral Home"
+date = "2020-03-22"
+url = "https://www.quinn-shalz.com/obituary/Jere-Wiseman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Wiseman"
+use = "Jere"
+given = "Jere E."
+
+[person.birth]
+date = "1930-03-15"
+place.country = "US"
+place.state = "AR"
+place.city = "Osceola"
+
+[person.death]
+date = "2018-09-16"
+place.country = "US"
+place.state = "FL"
+place.city = "Ponte Vedra Beach"
+
+[[person.education]]
+school.name = "Osceola HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Osceola"
+
+[[person.education]]
+school.name = "Vanderbilt University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

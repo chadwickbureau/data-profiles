@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20170416_059"
+
+[[person.meta.citation]]
+title = "Davenport Democrat"
+date = "1929-05-26"
+pages = "37"
+
+[[person.meta.citation]]
+title = "Burlington Hawk-Eye"
+date = "1930-05-17"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Dougherty"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Keokuk"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Keokuk"
+team.league.name = "Mississippi Valley League"
+
+

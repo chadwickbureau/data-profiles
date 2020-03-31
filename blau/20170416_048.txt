@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_048"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1935-05-11"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1936-03-22"
+pages = "6"
+
+[person.name]
+last = "Dobbins"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Lincoln"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Sacramento"
+team.league.name = "Pacific Coast League"
+
+

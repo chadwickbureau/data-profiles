@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "20170521_194"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-11-30"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1928-06-01"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1928-07-23"
+pages = "12"
+
+[person.name]
+last = "Irvin"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

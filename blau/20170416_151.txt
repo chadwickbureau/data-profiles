@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_151"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1924-04-23"
+pages = "8"
+
+[person.name]
+last = "Leete"
+use = "Joseph"
+given = "Joseph"
+
+[[person.education]]
+school.name = "Amherst"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "New Haven"
+team.league.name = "Eastern League"
+description.throws = "L"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170521_013"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1933-09-04"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Waco Tribune-Herald"
+date = "1933-05-14"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Waco Tribune-Herald"
+date = "1933-04-20"
+pages = "7"
+
+[person.name]
+last = "Grant"
+use = "Bob"
+given = "J. R."
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Baton Rouge"
+team.league.name = "Dixie League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Waco"
+team.league.name = "Dixie League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+

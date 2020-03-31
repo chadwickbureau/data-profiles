@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_187"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1916-08-11"
+pages = "10"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Utica"
+team.league.name = "New York State League"
+description.throws = "L"
+
+

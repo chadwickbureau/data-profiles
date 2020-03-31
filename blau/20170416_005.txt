@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170416_005"
+
+[person.name]
+last = "Izquierdo"
+use = "Hank"
+given = "Hank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1966"
+team.name = "Denver"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1966"
+team.name = "Twins"
+team.league.name = "Florida Instructional League"
+
+

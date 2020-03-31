@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170521_207"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1928-08-18"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1928-11-11"
+pages = "22"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1930-04-12"
+pages = "22"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1931-05-11"
+pages = "9"
+
+[person.name]
+last = "Andrews"
+use = "George"
+given = "George"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Marshalltown"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Davenport"
+team.league.name = "Mississippi Valley League"
+
+

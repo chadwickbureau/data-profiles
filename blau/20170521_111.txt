@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_111"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-09-10"
+pages = "34"
+
+[person.name]
+last = "Slaughter"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+description.throws = "L"
+
+

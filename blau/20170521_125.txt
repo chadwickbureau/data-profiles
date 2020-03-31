@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_125"
+
+[[person.meta.citation]]
+title = "Paris (KY) Bourbon News"
+date = "1912-07-30"
+pages = "4"
+
+[person.name]
+last = "Hicks"
+use = "Dennis"
+given = "Dennis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Cincinnati"
+team.league.name = "United States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Paris"
+team.league.name = "Blue Grass League"
+
+

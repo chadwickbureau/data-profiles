@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200123_011"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1909-04-25"
+pages = "15"
+
+[person.name]
+last = "Burnum"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Webb City"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

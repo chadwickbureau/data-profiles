@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200213_013"
+
+[[person.meta.citation]]
+title = "Olean Evening Herald"
+date = "1915-05-19"
+pages = "4"
+
+[person.name]
+last = "Smith"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Olean"
+team.league.name = "Interstate League"
+description.throws = "R"
+
+

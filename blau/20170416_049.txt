@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170416_049"
+
+[[person.meta.citation]]
+title = "Hagerstown Morning Herald"
+date = "1930-04-19"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Hagerstown Daily Mail"
+date = "1931-04-29"
+pages = "8"
+
+[person.name]
+last = "Donaghy"
+use = "Eddie"
+given = "Eddie"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "MA"
+place.city = "Cambridge"
+
+
+[[person.education]]
+school.name = "Harvard"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Hagerstown"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20200220_010"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter"
+date = "1915-08-17"
+pages = "3"
+
+[person.name]
+last = "Cronin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Michigan State League"
+
+

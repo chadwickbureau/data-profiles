@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_174"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1922-05-16"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Jeanes"
+use = "Ernest"
+given = "Ernest"
+nick = "Tex"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+

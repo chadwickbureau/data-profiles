@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_003"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1928-04-23"
+pages = "9"
+
+[person.name]
+last = "Cook"
+use = "Ashby"
+given = "Ashby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+

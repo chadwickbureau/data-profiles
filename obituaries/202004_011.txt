@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_011"
+
+[[person.meta.citation]]
+title = "Scottsbluff Star-Herald"
+date = "2020-03-23"
+url = "https://www.starherald.com/sports/big_red_wrap/football/former-omahan-bob-decker-used-basketball-football-skills-to-become/article_1ac62b5d-5fa3-5e63-9c22-55c36b2e57bc.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-18"
+
+[person.name]
+last = "Decker"
+use = "Bob"
+given = "Bob"
+
+[person.death]
+date = "2020-03-15"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[[person.education]]
+school.name = "Holy Name School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Omaha"
+
+[[person.education]]
+school.name = "University of Nebraska-Lincoln"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

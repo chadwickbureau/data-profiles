@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170521_063"
+
+[[person.meta.citation]]
+title = "Springfield (OH) Republican"
+date = "1926-03-03"
+pages = "5"
+
+[person.name]
+last = "James"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "OH"
+place.city = "Steubenville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+description.throws = "R"
+
+

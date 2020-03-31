@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170416_168"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1931-05-27"
+pages = "30"
+
+[person.name]
+last = "Geisler"
+use = "Harry"
+given = "Harry"
+
+[[person.education]]
+school.name = "Villanova"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Youngstown"
+team.league.name = "Central League"
+
+

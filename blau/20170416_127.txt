@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_127"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republica"
+date = "1928-04-18"
+pages = "3"
+
+[person.name]
+last = "Rush"
+use = "Elmer"
+given = "Elmer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Charleroi"
+team.league.name = "Middle Atlantic League"
+
+

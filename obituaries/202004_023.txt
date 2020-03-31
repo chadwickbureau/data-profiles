@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202004_023"
+
+[[person.meta.citation]]
+title = "Simonet Funeral Home"
+date = "2020-03-22"
+url = "https://www.simonetfuneralhome.com/obituaries/Joseph-O-Brien-8/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "O'Brien"
+use = "Joseph"
+given = "Joseph G."
+
+[person.birth]
+date = "1928-01-01"
+
+[person.death]
+date = "2018-10-06"
+
+[person.burial]
+cemetery.name = "St. Michael’s Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Bayport"
+
+[[person.education]]
+school.name = "University of St. Thomas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

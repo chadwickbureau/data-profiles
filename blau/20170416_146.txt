@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170416_146"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1928-03-18"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Greenville (SC) News"
+date = "1928-04-19"
+pages = "10"
+
+[person.name]
+last = "Gallagher"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Selma"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Knoxville"
+team.league.name = "South Atlantic League"
+
+

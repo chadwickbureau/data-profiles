@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_105"
+
+[[person.meta.citation]]
+title = "Tallahassee Democrat"
+date = "1935-05-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Greenville (PA) Record-Argus"
+date = "1936-09-30"
+pages = "5"
+
+[person.name]
+last = "Ferrell"
+use = "Beverly"
+given = "Beverly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Thomasville"
+team.league.name = "Georgia-Florida League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Thomasville"
+team.league.name = "Georgia-Florida League"
+
+

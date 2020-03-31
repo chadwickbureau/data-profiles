@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200130_020"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle"
+date = "1911-05-23"
+pages = "7"
+
+[person.name]
+last = "Smith"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Fremont"
+team.league.name = "Nebraska State League"
+
+
+[[person.transaction]]
+date = "<1911-01-01"
+type = "purchased"
+join.name = "Lincoln"
+join.league.name = "Western"
+leave.name = "Fremont"
+leave.league.name = "Nebraska State"
+
+

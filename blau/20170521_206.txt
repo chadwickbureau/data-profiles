@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_206"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-05-07"
+pages = "7"
+
+[person.name]
+last = "Ramsey"
+use = "Hook"
+given = "Hook"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Marshalltown"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+

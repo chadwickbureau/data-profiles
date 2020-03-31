@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200305_016"
+
+[[person.meta.citation]]
+title = "San Antonio Light"
+date = "1925-04-15"
+
+[person.name]
+last = "Morrow"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Waco"
+team.league.name = "Texas League"
+description.bats = "R"
+description.throws = "R"
+
+

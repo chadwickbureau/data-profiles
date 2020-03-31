@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170416_166"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-06-10"
+pages = "9"
+
+[person.name]
+last = "Shupe"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.throws = "R"
+
+

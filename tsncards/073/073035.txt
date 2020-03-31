@@ -1,0 +1,100 @@
+[[person]]
+
+[person.meta]
+key = "73035"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/73035"
+title = "The Sporting News Player Contract Cards, ScanID: 1017006053"
+
+[person.name]
+last = "Green"
+given = "Robert Emmett"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "180"
+
+[person.birth]
+date = "1927-03-04"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[[person.resides]]
+place.address = "284 Foster"
+place.country = "US"
+place.state = "MA"
+place.city = "Brighton"
+
+
+[[person.transaction]]
+date = "1948-06-15"
+type = "signed"
+join.name = "Toronto"
+note = "Toronto 1948-06-15"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Toronto"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "optioned"
+leave.name = "Toronto"
+join.name = "Wilmington (DE)"
+note = "opt to Wilmington (DE) 1949-04-20"
+
+[[person.transaction]]
+date = "1949-06-24"
+type = "released"
+leave.name = "Wilmington (DE)"
+join.name = "Utica"
+note = "rel to Utica 1949-06-24"
+
+[[person.transaction]]
+date = "1949-09-05"
+type = "released"
+leave.name = "Utica"
+join.name = "Wilmington (DE)"
+note = "rel to Wilmington (DE) 1949-09-05"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Wilmington (DE)"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-05-04"
+type = "restricted"
+leave.name = "Wilmington (DE)"
+note = "restricted list 1950-05-04"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Wilmington (DE)"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Wilmington (DE)"
+
+[[person.transaction]]
+date = "1952-12-19"
+type = "released"
+leave.name = "Wilmington (DE)"
+join.name = "Terre Haute"
+note = "rel to Terre Haute 1952-12-19"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Terre Haute"
+

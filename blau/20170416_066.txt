@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_066"
+
+[[person.meta.citation]]
+title = "Manitowoc Herald-Times"
+date = "1931-03-14"
+pages = "6"
+
+[person.name]
+last = "Dreesen"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Cincinnati"
+team.league.name = "National League"
+
+

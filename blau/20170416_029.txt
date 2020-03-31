@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_029"
+
+[[person.meta.citation]]
+title = "Nebraska State Journal"
+date = "1929-04-20"
+pages = "2"
+
+[person.name]
+last = "Davidson"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+

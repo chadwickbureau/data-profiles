@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "20170521_105"
+
+[[person.meta.citation]]
+title = "Salem Statesman Journal"
+date = "1916-07-21"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Great Falls Tribune"
+date = "1916-05-08"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Oregon Daily Journal"
+date = "1916-03-24"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Vancouver Daily World"
+date = "1916-04-04"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Tacoma Times"
+date = "1915-04-10"
+pages = "2"
+
+[person.name]
+last = "Healey"
+use = "Francis"
+given = "Francis"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Great Falls"
+team.league.name = "Northwestern League"
+
+

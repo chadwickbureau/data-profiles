@@ -1,0 +1,110 @@
+[[person]]
+
+[person.meta]
+key = "12869"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/12869"
+title = "The Sporting News Player Contract Cards, ScanID: 1004000470"
+
+[person.name]
+last = "Bergstrom"
+given = "Robert William"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[person.birth]
+date = "1916-02-12"
+place.country = "US"
+place.state = "OR"
+place.city = "Astoria"
+
+[[person.resides]]
+place.country = "US"
+place.state = "OR"
+place.city = "La Grande"
+
+
+[[person.transaction]]
+date = "1940-08"
+type = "signed"
+join.name = "Portland"
+note = "Portland 1940-08"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Portland"
+
+[[person.transaction]]
+date = "1941-04"
+type = "optioned"
+leave.name = "Portland"
+join.name = "Salem"
+note = "opt to Salem 1941-04"
+
+[[person.transaction]]
+date = "1941-08"
+type = "recalled"
+leave.name = "Salem"
+join.name = "Portland"
+note = "rec by Portland 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Portland"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-05"
+type = "suspended"
+leave.name = "Portland"
+note = "susp. 1942-05"
+
+[[person.transaction]]
+date = "1942-06"
+type = "reinstated"
+join.name = "Portland"
+note = "rein 1942-06"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Portland"
+note = "res for 1943"
+
+[[person.transaction]]
+date = "1943-11"
+type = "military-service"
+leave.name = "Portland"
+note = "in service 1943-11"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Portland"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Portland"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-01-12"
+type = "reinstated"
+join.name = "Portland"
+note = "rein from Service list 1948-01-12"
+
+[[person.transaction]]
+date = "1948-02-05"
+type = "released"
+leave.name = "Portland"
+note = "rel 1948-02-05"
+

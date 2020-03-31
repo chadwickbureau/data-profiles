@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_050"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-03-23"
+pages = "6"
+
+[person.name]
+last = "Lewis"
+given = "M. H."
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TN"
+place.city = "Memphis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

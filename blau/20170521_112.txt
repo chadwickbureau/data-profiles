@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_112"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-09-07"
+pages = "15"
+
+[person.name]
+last = "Pratt"
+use = "Art"
+given = "Art"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+description.bats = "L"
+
+

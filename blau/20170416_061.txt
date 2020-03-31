@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_061"
+
+[[person.meta.citation]]
+title = "Burlington Gazette"
+date = "1930-06-07"
+pages = "23"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1930-08-20"
+pages = "8"
+
+[person.name]
+last = "Newton"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Keokuk"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

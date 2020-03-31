@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_116"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Hart"
+use = "Earl"
+given = "Earl A."
+nick = "Nig"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+

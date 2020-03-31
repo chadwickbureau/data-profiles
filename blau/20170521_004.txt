@@ -1,0 +1,86 @@
+[[person]]
+
+[person.meta]
+key = "20170521_004"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1921-04-26"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1922-04-08"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1928-03-25"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1928-04-19"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1929-04-18"
+pages = "36"
+
+[[person.meta.citation]]
+title = "Canton Daily Notes"
+date = "1929-07-30"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1929-08-08"
+pages = "16"
+
+[person.name]
+last = "Graver"
+use = "Vance"
+given = "Vance"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "High Point"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Newark"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Albany"
+team.league.name = "Southeastern League"
+description.bats = "L"
+description.throws = "R"
+description.height = "72"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Canton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+

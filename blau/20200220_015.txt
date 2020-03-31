@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200220_015"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter"
+date = "1915-07-29"
+pages = "6"
+
+[person.name]
+last = "Kelly"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wellsville"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "St. Thomas"
+team.league.name = "Canadian League"
+
+
+[[person.transaction]]
+date = "1915-07-28"
+type = "released"
+leave.name = "Wellsville"
+leave.league.name = "Interstate"
+
+

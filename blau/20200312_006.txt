@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200312_006"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1912-04-21"
+pages = "8"
+
+[person.name]
+last = "Oyler"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+

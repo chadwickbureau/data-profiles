@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_186"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1911-06-06"
+pages = "10"
+
+[person.name]
+last = "Smith"
+given = "S."
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+

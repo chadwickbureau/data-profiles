@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "70082"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/70082"
+title = "The Sporting News Player Contract Cards, ScanID: 1016003997"
+
+[person.name]
+last = "Gellasch"
+given = "Richard Douglas"
+
+[person.description]
+ancestry = "German"
+position = "1B"
+bats = "L"
+throws = "L"
+height = "73"
+weight = "185"
+
+[person.birth]
+date = "1935-05-29"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[[person.resides]]
+place.address = "26706 Nieman"
+place.country = "US"
+place.state = "MI"
+place.city = "Roseville"
+
+
+[[person.transaction]]
+date = "1954-06-26"
+type = "signed"
+join.name = "Mattoon"
+note = "Mattoon 1954-06-26"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Mattoon"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-05"
+type = "released"
+leave.name = "Mattoon"
+note = "rel 1955-04-05"
+

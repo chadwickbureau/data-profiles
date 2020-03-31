@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202004_037"
+
+[[person.meta.citation]]
+title = "Parson Mortuary"
+date = "2020-03-23"
+url = "https://www.parsonmortuary.com/notices/Jerry-Branson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Branson"
+use = "Jerry"
+given = "Jerry L."
+
+[person.birth]
+date = "1931-02-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Muncie"
+
+[person.death]
+date = "2013-12-04"
+place.country = "US"
+place.state = "IN"
+place.city = "Muncie"
+
+[[person.education]]
+school.name = "Royerton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Muncie"
+
+

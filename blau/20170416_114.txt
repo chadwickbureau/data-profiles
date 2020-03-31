@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170416_114"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Eckstein"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+

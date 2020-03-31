@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200213_003"
+
+[[person.meta.citation]]
+title = "Buffalo Enquirer"
+date = "1915-05-07"
+pages = "8"
+
+[person.name]
+last = "Mattern"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Montreal"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Newark"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Buffalo"
+team.league.name = "International League"
+
+

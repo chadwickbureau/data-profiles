@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200109_012"
+
+[[person.meta.citation]]
+title = "Gastonia Gazette"
+date = "1916-07-28"
+pages = "1"
+
+[person.name]
+last = "Pope"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1916"
+team.name = "Gastonia"
+
+

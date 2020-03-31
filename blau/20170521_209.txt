@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_209"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-30"
+pages = "3"
+
+[person.name]
+last = "Malone"
+use = "Alvin"
+given = "Alvin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.throws = "R"
+
+

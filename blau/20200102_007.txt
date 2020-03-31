@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200102_007"
+
+[[person.meta.citation]]
+title = "Brunswick (GA) News"
+date = "1915-06-20"
+pages = "6"
+
+[person.name]
+last = "Reagan"
+use = "Rip"
+given = "Rip"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+
+

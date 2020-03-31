@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_085"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1926-01-15"
+pages = "15"
+
+[person.name]
+last = "Harwood"
+use = "Woodford"
+given = "Woodford"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Hagerstown"
+team.league.name = "Blue Ridge League"
+
+

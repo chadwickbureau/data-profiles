@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170521_074"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1912-03-24"
+pages = "2"
+
+[person.name]
+last = "Brown"
+use = "Curley"
+given = "Curley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.height = "70"
+description.weight = "160"
+
+

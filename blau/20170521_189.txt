@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_189"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1919-03-28"
+pages = "40"
+
+[person.name]
+last = "Smith"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+

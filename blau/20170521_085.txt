@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_085"
+
+[[person.meta.citation]]
+title = "Anniston Star"
+date = "1930-08-15"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1930-03-19"
+pages = "13"
+
+[person.name]
+last = "Hammond"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Huntsville"
+team.league.name = "Georgia-Alabama League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

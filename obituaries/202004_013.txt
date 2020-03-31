@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202004_013"
+
+[[person.meta.citation]]
+title = "Watertown Tab & Press"
+date = "2020-03-24"
+url = "https://www.legacy.com/obituaries/wickedlocal-watertown/obituary.aspx?n=george-e-yankowski&pid=195771677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Yankowski"
+use = "George"
+given = "George Edward"
+
+[person.birth]
+date = "1922-11-19"
+
+[person.death]
+date = "2020-02-25"
+place.country = "US"
+place.state = "FL"
+place.city = "The Villages"
+
+[person.burial]
+cemetery.name = "Florida National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Bushnell"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

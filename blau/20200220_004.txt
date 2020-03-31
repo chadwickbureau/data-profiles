@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200220_004"
+
+[[person.meta.citation]]
+title = "Bradford Era"
+date = "1915-06-03"
+pages = "2"
+
+[person.name]
+last = "Murray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Bradford"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Jamestown"
+team.league.name = "Interstate League"
+
+

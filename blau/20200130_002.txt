@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200130_002"
+
+[[person.meta.citation]]
+title = "Waterloo Courier"
+date = "1915-09-08"
+pages = "9"
+
+[person.name]
+last = "Wolgamot"
+use = "Earle"
+given = "Earle"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rockford"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

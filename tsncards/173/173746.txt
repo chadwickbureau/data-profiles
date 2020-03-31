@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "173746"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/173746"
+title = "The Sporting News Player Contract Cards, ScanID: 1048004819"
+
+[person.name]
+last = "Wiseman"
+given = "Jere Edward"
+
+
+[[person.transaction]]
+date = "1949-08-22"
+type = "signed"
+join.name = "Pittsburg (KS)"
+note = "Pittsburg (KS) 1949-08-22"
+
+[[person.transaction]]
+date = "1950-04-21"
+type = "optioned"
+leave.name = "Pittsburg (KS)"
+join.name = "Vincennes"
+note = "opt to Vincennes 1950-04-21"
+
+[[person.transaction]]
+date = "1950-04-29"
+type = "released"
+leave.name = "Vincennes"
+note = "rel 1950-04-29 (dir of Pittsburg (KS))"
+

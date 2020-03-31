@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_099"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1927-04-13"
+pages = "7"
+
+[person.name]
+last = "Hargrave"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+

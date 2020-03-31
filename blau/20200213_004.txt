@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200213_004"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-06-03"
+pages = "8"
+
+[person.name]
+last = "Rogers"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

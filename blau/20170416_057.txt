@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170416_057"
+
+[[person.meta.citation]]
+title = "Harrisburg Daily Independent"
+date = "1913-04-29"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1914-07-11"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Oregon Daily Journal"
+date = "1915-07-11"
+pages = "19"
+
+[person.name]
+last = "Doty"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Atlantic City"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Reading"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Vancouver"
+team.league.name = "Northwestern League"
+
+

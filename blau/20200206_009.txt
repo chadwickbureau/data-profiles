@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200206_009"
+
+[[person.meta.citation]]
+title = "Raymond Haley biography"
+url = "https://sabr.org/bioproj/person/8d32e75f"
+
+[person.name]
+last = "Haley"
+use = "Raymond"
+given = "Raymond"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Providence"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+

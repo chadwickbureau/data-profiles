@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200116_002"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1914-04-04"
+pages = "10"
+
+[person.name]
+last = "Amason"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Albany"
+team.league.name = "South Atlantic League"
+
+
+[[person.transaction]]
+date = "<=1914-04-04"
+type = "optioned"
+join.name = "Albany"
+join.league.name = "South Atlantic"
+leave.name = "Atlanta"
+leave.league.name = "Southern Association"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200312_007"
+
+[[person.meta.citation]]
+title = "Anadarko (OK) Daily Democrat"
+date = "1915-04-17"
+pages = "3"
+
+[person.name]
+last = "Erwin"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Erwin"
+person.name.use = "Tex"
+person.name.given = "Tex"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brenham"
+team.league.name = "Middle Texas League"
+
+

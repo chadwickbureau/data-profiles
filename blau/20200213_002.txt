@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200213_002"
+
+[[person.meta.citation]]
+title = "Belding Banner"
+date = "1915-09-09"
+pages = "6"
+
+[person.name]
+last = "Cherry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Belding"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Boyne City"
+team.league.name = "Michigan State League"
+
+

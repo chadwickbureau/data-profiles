@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170416_032"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1912-06-25"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Leavenworth Post"
+date = "1912-09-02"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Eau Claire Leader"
+date = "1911-04-14"
+pages = "2"
+
+[person.name]
+last = "Demmer"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Wausau"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Red Wing"
+team.league.name = "Minnesota-Wisconsin League"
+
+

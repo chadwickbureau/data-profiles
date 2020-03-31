@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "20170416_110"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1927-05-29"
+pages = "42"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1926-07-19"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1926-02-03"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1924-07-24"
+pages = "15"
+
+[person.name]
+last = "Fleming"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Martinsburg"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Hanover"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+

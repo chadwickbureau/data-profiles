@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_152"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1922-04-11"
+pages = "2"
+
+[person.name]
+last = "Huber"
+use = "Stub"
+given = "Stub"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "WI"
+place.city = "Nekota"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Aberdeen"
+team.league.name = "Dakota League"
+
+

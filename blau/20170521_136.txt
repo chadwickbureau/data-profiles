@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170521_136"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-07-06"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Alexandria (LA) Town Talk"
+date = "1925-06-17"
+pages = "7"
+
+[person.name]
+last = "Ciresi"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "West Palm Beach"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+

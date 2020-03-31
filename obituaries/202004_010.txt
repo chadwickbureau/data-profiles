@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202004_010"
+
+[[person.meta.citation]]
+title = "Richardson Funeral Home"
+date = "2020-03-23"
+url = "https://www.richardsonfs.com/obituary/Frank-Rich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Rich"
+use = "Frank"
+given = "Frank M."
+
+[person.birth]
+date = "1928-08-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Williamsport"
+
+[person.death]
+date = "2020-02-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Enola"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

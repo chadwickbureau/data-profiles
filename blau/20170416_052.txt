@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170416_052"
+
+[[person.meta.citation]]
+title = "Battle Creek Enquirer"
+date = "1919-04-15"
+pages = "11"
+
+[person.name]
+last = "Donnelly"
+use = "Lefty"
+given = "Lefty"
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"
+
+

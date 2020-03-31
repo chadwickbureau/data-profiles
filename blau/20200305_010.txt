@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200305_010"
+
+[[person.meta.citation]]
+title = "San Antonio Light"
+date = "1925-04-15"
+
+[person.name]
+last = "Jennings"
+use = "Kelsey"
+given = "Kelsey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+description.bats = "R"
+description.throws = "R"
+
+

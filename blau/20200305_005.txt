@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200305_005"
+
+[[person.meta.citation]]
+title = "Bryan (TX) Weekly Eagle"
+date = "1915-05-27"
+pages = "5"
+
+[person.name]
+last = "Spell"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taylor"
+team.league.name = "Middle Texas League"
+
+

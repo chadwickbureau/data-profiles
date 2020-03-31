@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_027"
+
+[[person.meta.citation]]
+title = "Beckley Sunday Register"
+date = "1934-09-02"
+pages = "6"
+
+[person.name]
+last = "Daugherty"
+use = "Doc"
+given = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Springfield"
+team.league.name = "Middle Atlantic League"
+
+

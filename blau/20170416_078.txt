@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "20170416_078"
+
+[[person.meta.citation]]
+title = "Brooklyn Daily Eagle"
+date = "1930-06-22"
+pages = "35"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Durham"
+use = "Guy"
+given = "Thomas Guy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Kinston"
+team.league.name = "Eastern Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Milwaukee"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Frederick"
+team.league.name = "Blue Ridge League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Henderson"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "New Haven"
+team.league.name = "Eastern League"
+
+

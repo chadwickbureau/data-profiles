@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "13628"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/13628"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003958"
+
+[person.name]
+last = "Bebernitz"
+given = "Robert F."
+
+
+[[person.transaction]]
+date = "1945-09"
+type = "signed"
+join.name = "Springfield (OH)"
+note = "Springfield (OH) 1945-09"
+
+[[person.transaction]]
+date = "1945-09"
+type = "released"
+leave.name = "Springfield (OH)"
+note = "rel 1945-09"
+

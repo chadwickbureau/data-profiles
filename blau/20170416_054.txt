@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_054"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1925-04-18"
+pages = "18"
+
+[person.name]
+last = "Hunnefield"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Portland"
+team.league.name = "Pacific Coast League"
+
+

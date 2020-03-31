@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200130_014"
+
+[[person.meta.citation]]
+title = "Waterloo Courier"
+date = "1924-06-06"
+pages = "17"
+
+[person.name]
+last = "Barrett"
+use = "Mutt"
+given = "Basil"
+
+[[person.education]]
+school.name = "University of Iowa"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

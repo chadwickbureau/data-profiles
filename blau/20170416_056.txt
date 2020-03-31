@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170416_056"
+
+[[person.meta.citation]]
+title = "Kingsport News"
+date = "1946-05-01"
+pages = "6"
+
+[person.name]
+last = "Donovan"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1946"
+team.name = "Bristol"
+team.league.name = "Appalachian League"
+description.throws = "L"
+description.weight = "180"
+
+

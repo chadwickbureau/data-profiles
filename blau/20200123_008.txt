@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200123_008"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1915-05-30"
+pages = "42"
+
+[person.name]
+last = "Baldwin"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

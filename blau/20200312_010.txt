@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200312_010"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-06-02"
+pages = "7"
+
+[person.name]
+last = "Gambrell"
+use = "Tom"
+given = "Tom"
+
+[[person.education]]
+school.name = "University of Texas"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brenham"
+team.league.name = "Middle Texas League"
+
+

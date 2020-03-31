@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170416_055"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1925-09-10"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1925-07-31"
+pages = "12"
+
+[person.name]
+last = "Donovan"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Laurel"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Alexandria"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+

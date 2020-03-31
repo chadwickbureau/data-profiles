@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170521_166"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1924-08-19"
+pages = "6"
+
+[[person.meta.citation]]
+title = "1920 U. S. Census"
+
+[person.name]
+last = "Inman"
+use = "Hawkshaw"
+given = "Hawkshaw"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "SC"
+place.city = "Cowpers"
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Inman"
+person.name.use = "Manning"
+person.name.given = "Manning"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+

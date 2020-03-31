@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170416_082"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1931-07-11"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Madison (NJ) Eagle"
+date = "1929-03-22"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1926-01-15"
+pages = "15"
+
+[person.name]
+last = "Egbert"
+use = "Hal"
+given = "Harold"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Cumberland"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Baltimore"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

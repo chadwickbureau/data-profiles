@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_110"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-09-10"
+pages = "34"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-09-07"
+pages = "15"
+
+[person.name]
+last = "Schemma"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+description.bats = "R"
+
+

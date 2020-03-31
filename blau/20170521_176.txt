@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_176"
+
+[[person.meta.citation]]
+title = "Independence Daily Reporter"
+date = "1922-09-09"
+pages = "4"
+
+[person.name]
+last = "Matthews"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "AR"
+place.city = "Rogers"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Independence"
+team.league.name = "Southwestern League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200220_012"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times-Leader"
+date = "1915-06-19"
+pages = "10"
+
+[person.name]
+last = "Artman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Olean"
+team.league.name = "Interstate League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

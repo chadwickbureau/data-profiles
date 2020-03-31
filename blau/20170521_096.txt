@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_096"
+
+[[person.meta.citation]]
+title = "Ironwood Daily Globe"
+date = "1921-03-31"
+pages = "8"
+
+[person.name]
+last = "Robinson"
+use = "Joe"
+given = "Joe"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "OK"
+place.city = "Braggs"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_044"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1922-06-18"
+pages = "21"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1923-04-08"
+pages = "22"
+
+[person.name]
+last = "Williams"
+use = "Luke"
+given = "Luke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Trenton"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+description.throws = "L"
+
+

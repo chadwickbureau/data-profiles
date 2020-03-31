@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200206_007"
+
+[[person.meta.citation]]
+title = "Moline Dispatch"
+date = "1915-08-02"
+pages = "6"
+
+[person.name]
+last = "Meyer"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Trenton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rockford"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

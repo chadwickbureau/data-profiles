@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200305_001"
+
+[[person.meta.citation]]
+title = "Valley City (ND) Weekly Times-Record"
+date = "1922-06-29"
+pages = "4"
+
+[person.name]
+last = "Brinzda"
+given = "F. M."
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.league.name = "Western International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Valley City"
+team.league.name = "Dakota League"
+description.throws = "R"
+
+

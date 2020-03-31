@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170521_170"
+
+[[person.meta.citation]]
+title = "baseballhistorydaily.com"
+url = "https://baseballhistorydaily.com/2017/05/10/submarine-gheen/"
+
+[person.name]
+last = "Carroll"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+
+

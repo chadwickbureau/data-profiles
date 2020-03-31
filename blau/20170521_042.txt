@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_042"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1911-08-22"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1911-04-24"
+pages = "8"
+
+[person.name]
+last = "Greene"
+use = "Paddy"
+given = "Paddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "New York"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Jackson"
+team.league.name = "Southern Michigan League"
+
+

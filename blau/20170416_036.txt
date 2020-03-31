@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20170416_036"
+
+[[person.meta.citation]]
+title = "SABR Minor League Committee Newsletter"
+date = "2017-03"
+pages = "14"
+
+[person.name]
+last = "McChesney"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1926-10-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2002-12-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Granada Hills"
+
+[[person.affiliation]]
+type = "player"
+dates = "1950"
+team.name = "Abilene"
+team.league.name = "West Texas-New Mexico League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1951"
+team.name = "Abilene"
+team.league.name = "West Texas-New Mexico League"
+
+

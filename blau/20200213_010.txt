@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200213_010"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-01-13"
+pages = "2"
+
+[person.name]
+last = "Young"
+use = "Romie"
+given = "Romie"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "PA"
+place.city = "Oswayo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+

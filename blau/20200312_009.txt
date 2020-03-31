@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200312_009"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-03-20"
+pages = "7"
+
+[person.name]
+last = "Craig"
+use = "Oral"
+given = "Oral"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Sugarland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brenham"
+team.league.name = "Middle Texas League"
+
+

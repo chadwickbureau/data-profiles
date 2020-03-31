@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200123_015"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1910-05-23"
+pages = "2"
+
+[person.name]
+last = "Burnum"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Freeport"
+team.league.name = "Northern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "<=1910-05-23"
+type = "purchased"
+join.name = "Freeport"
+join.league.name = "Northern Association"
+leave.name = "Des Moines"
+leave.league.name = "Western"
+
+

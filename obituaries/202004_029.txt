@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_029"
+
+[[person.meta.citation]]
+title = "Redmond Funeral Home"
+date = "2020-03-22"
+url = "http://www.redmondfuneralhomeinc.com/obits/obituary.php?id=708706"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Bergstrom"
+use = "Robert"
+given = "Robert"
+
+[person.birth]
+date = "1930-04-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Natrona"
+
+[person.death]
+date = "2018-10-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Buffalo Township"
+
+[person.burial]
+cemetery.name = "Mount Airy Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Natrona Heights"
+
+[[person.education]]
+school.name = "Har-Brack HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Natrona Heights"
+
+

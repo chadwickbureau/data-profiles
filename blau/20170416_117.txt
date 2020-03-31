@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170416_117"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Fleming"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Champaign"
+team.league.name = "Illinois-Missouri League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Champaign"
+team.league.name = "Illinois-Missouri League"
+
+

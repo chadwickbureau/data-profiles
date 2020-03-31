@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202004_034"
+
+[[person.meta.citation]]
+title = "Fortuna Funeral Home"
+date = "2020-03-23"
+url = "https://www.fortunafuneralhome.com/obituary/5481156"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Henderson"
+use = "Jim"
+given = "James D."
+suffix = "Sr."
+
+[person.birth]
+date = "1946-01-13"
+place.country = "US"
+place.state = "IL"
+
+[person.death]
+date = "2018-08-22"
+
+[person.burial]
+cemetery.name = "Maple Shade Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Independence"
+
+[[person.education]]
+school.name = "West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Northwestern University"
+school.type = "college"
+
+

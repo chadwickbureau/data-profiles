@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170416_093"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1925-06-29"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1926-08-12"
+pages = "15"
+
+[person.name]
+last = "McCarren"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Reading"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Jersey City"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Rochester"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+

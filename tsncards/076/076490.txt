@@ -1,0 +1,109 @@
+[[person]]
+
+[person.meta]
+key = "76490"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/76490"
+title = "The Sporting News Player Contract Cards, ScanID: 1015003372"
+
+[person.name]
+last = "Foxwell"
+given = "Milford M."
+
+
+[[person.transaction]]
+date = "1950-07-21"
+type = "signed"
+join.name = "Moultrie"
+note = "Moultrie 1950-07-21"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Moultrie"
+
+[[person.transaction]]
+date = "1950-09-28"
+type = "drafted"
+leave.name = "Moultrie"
+join.name = "Springfield (MO)"
+note = "Springfield (MO) 1950-09-28"
+
+[[person.transaction]]
+date = "1950-12-18"
+type = "released"
+leave.name = "Springfield (MO)"
+join.name = "Clovis"
+note = "rel to Clovis 1950-12-18"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Clovis"
+
+[[person.transaction]]
+date = "1951-01-04"
+type = "national-defense-list"
+leave.name = "Clovis"
+note = "Nat Defense list 1951-01-04"
+
+[[person.transaction]]
+date = "1951-09-14"
+type = "drafted"
+leave.name = "Clovis"
+join.name = "Des Moines"
+note = "Des Moines 1951-09-14"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1957-12-05"
+type = "reinstated"
+join.name = "Des Moines"
+note = "reins National Defense list 1957-12-05"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Des Moines"
+
+[[person.transaction]]
+date = "1957-12-09"
+type = "released"
+leave.name = "Des Moines"
+note = "rel 1957-12-09"
+

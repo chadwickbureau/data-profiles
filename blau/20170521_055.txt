@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_055"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[person.name]
+last = "Erwin"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

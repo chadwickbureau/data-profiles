@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_084"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1937-07-23"
+pages = "13"
+
+[person.name]
+last = "Hamilton"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Norfolk"
+team.league.name = "Nebraska State League"
+
+

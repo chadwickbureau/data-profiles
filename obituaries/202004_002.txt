@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_002"
+
+[[person.meta.citation]]
+title = "Rohland Funeral Home"
+date = "2020-03-21"
+url = "https://www.dignitymemorial.com/obituaries/lebanon-pa/wilbur-spangler-9083473"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-21"
+
+[person.name]
+last = "Spangler"
+use = "Wilbur"
+given = "Wilbur Milton"
+
+[person.birth]
+date = "1929-07-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Bethel Township"
+
+[person.death]
+date = "2020-03-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Lebanon"
+
+[[person.education]]
+school.name = "Fredericksburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Fredericksburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

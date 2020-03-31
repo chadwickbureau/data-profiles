@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170416_108"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-08-05"
+pages = "23"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Fitzgerald"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"
+
+

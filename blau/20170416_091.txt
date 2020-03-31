@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_091"
+
+[[person.meta.citation]]
+title = "Alta Vista (KS) Journal"
+date = "1921-10-20"
+pages = "7"
+
+[person.name]
+last = "Elliott"
+use = "Carter"
+given = "Carter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Seattle"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Yakima"
+team.league.name = "Pacific Coast International League"
+
+

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170416_080"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle"
+date = "1921-02-26"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1922-05-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Rushville (IN) Daily Republican"
+date = "1922-08-04"
+pages = "5"
+
+[person.name]
+last = "Edmondson"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "McAlester"
+team.league.name = "Western Association"
+
+

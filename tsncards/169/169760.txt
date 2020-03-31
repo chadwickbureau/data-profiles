@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "169760"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/169760"
+title = "The Sporting News Player Contract Cards, ScanID: 1034003453"
+
+[person.name]
+last = "Parmelee"
+given = "Harold James"
+
+
+[[person.transaction]]
+date = "1948-10-29"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1948-10-29"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Green Bay"
+
+[[person.transaction]]
+date = "1949-03-21"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1949-03-21"
+

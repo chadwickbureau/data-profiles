@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170521_010"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1928-03-25"
+pages = "15"
+
+[person.name]
+last = "Campbell"
+use = "Thaddeus"
+given = "Thaddeus E."
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.bats = "R"
+description.throws = "R"
+description.height = "71"
+description.weight = "170"
+
+

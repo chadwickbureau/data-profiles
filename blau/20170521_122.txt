@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170521_122"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Roberts"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Rock Island-Moline"
+team.league.name = "Illinois-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+

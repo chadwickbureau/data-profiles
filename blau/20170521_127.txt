@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_127"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1923-04-15"
+pages = "43"
+
+[person.name]
+last = "Higbee"
+use = "Mahlon"
+given = "Mahlon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "New York"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Denver"
+team.league.name = "Western League"
+
+

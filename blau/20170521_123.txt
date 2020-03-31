@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_123"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1925-09-09"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Herndon"
+use = "Hardin"
+given = "Hardin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "High Point"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+

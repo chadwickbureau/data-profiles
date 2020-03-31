@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170521_141"
+
+[person.name]
+last = "Klindworth"
+use = "Martin"
+given = "Martin Ethbert"
+
+[person.birth]
+date = "1901-09-28"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Brookhaven"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Brookhaven"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Brookhaven"
+team.league.name = "Cotton States League"
+description.bats = "R"
+description.throws = "R"
+description.height = "70.5"
+description.weight = "163"
+
+

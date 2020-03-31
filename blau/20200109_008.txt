@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200109_008"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1916-05-28"
+pages = "9"
+
+[person.name]
+last = "Combs"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+description.position = "P"
+
+

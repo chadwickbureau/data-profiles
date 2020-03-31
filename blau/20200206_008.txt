@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20200206_008"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1931-02-19"
+pages = "4"
+
+[person.name]
+last = "Haley"
+use = "Raymond"
+given = "Raymond"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Kewanee"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Columbus"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Kearney"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Battle Creek"
+team.league.name = "Southern Michigan League"
+
+

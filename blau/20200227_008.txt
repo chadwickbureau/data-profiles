@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20200227_008"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican"
+date = "1924-07-21"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+
+

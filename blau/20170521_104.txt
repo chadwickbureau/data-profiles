@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_104"
+
+[[person.meta.citation]]
+title = "Eau Claire Leader"
+date = "1934-04-21"
+pages = "8"
+
+[person.name]
+last = "Hartley"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "East Grand Forks"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Grand Forks"
+team.league.name = "Northern League"
+
+

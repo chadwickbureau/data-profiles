@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_072"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1912-03-24"
+pages = "2"
+
+[person.name]
+last = "Guynup"
+use = "Burton"
+given = "Burton"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "NJ"
+place.city = "Arlington"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Savannah"
+team.league.name = "South Atlantic League"
+description.bats = "L"
+description.throws = "L"
+description.weight = "175"
+
+

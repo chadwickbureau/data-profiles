@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170416_175"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1929-02-10"
+pages = "11"
+
+[person.name]
+last = "Caldwell"
+given = "W. N."
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Canton"
+team.league.name = "Central League"
+
+

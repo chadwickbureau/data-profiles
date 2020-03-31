@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_119"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1913-06-07"
+pages = "8"
+
+[person.name]
+last = "Chase"
+use = "Hal"
+given = "Hal"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Lansing"
+team.league.name = "Southern Michigan League"
+description.throws = "L"
+
+

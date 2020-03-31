@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170416_017"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1926-05-06"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1926-04-20"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1925-05-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-02-10"
+pages = "5"
+
+[person.name]
+last = "Coyle"
+given = "B. C."
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "TX"
+place.city = "Beaumont"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Emporia"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.bats = "L"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Topeka"
+team.league.name = "Southwestern League"
+
+

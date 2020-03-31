@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170416_121"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-08-15"
+pages = "12"
+
+[person.name]
+last = "Kotzelnick"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"
+
+

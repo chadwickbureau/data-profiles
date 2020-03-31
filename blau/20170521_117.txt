@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_117"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1911-07-09"
+pages = "17"
+
+[person.name]
+last = "Baker"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Beeville"
+team.league.name = "Southwest Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Tacoma"
+team.league.name = "Northwestern League"
+
+

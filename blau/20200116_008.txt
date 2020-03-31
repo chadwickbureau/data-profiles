@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200116_008"
+
+[[person.meta.citation]]
+title = "Owensboro Messenger"
+date = "1914-07-09"
+pages = "6"
+
+[person.name]
+last = "Slater"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Cairo"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

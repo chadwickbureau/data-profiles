@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170416_039"
+
+[[person.meta.citation]]
+title = "Portsmouth Daily Times"
+date = "1926-07-18"
+pages = "14"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Devereaux"
+given = "J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lexington"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Lexington"
+team.league.name = "Ohio State League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_118"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1911-10-03"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Henderson"
+use = "William"
+given = "William B."
+nick = "Curley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Battle Creek"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Adrian"
+team.league.name = "Southern Michigan League"
+
+

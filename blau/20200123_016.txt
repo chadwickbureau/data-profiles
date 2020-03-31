@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200123_016"
+
+[[person.meta.citation]]
+title = "Portland Oregonian"
+date = "1941-10-24"
+pages = "20"
+
+[person.name]
+last = "Gleason"
+use = "Bill"
+given = "William J."
+
+[person.birth]
+date = "1892-03-23"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.death]
+date = "1941-10-22"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1941"
+team.name = "Oakland"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+

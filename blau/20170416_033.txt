@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_033"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1912-09-02"
+pages = "1"
+
+[person.name]
+last = "Brown"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Wausau"
+team.league.name = "Wisconsin-Illinois League"
+
+

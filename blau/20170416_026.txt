@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20170416_026"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1931-05-03"
+pages = "27"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1930-04-09"
+pages = "13"
+
+[person.name]
+last = "Daly"
+use = "Ed"
+given = "Ed"
+
+[[person.education]]
+school.name = "University of Cincinnati"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Springfield"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

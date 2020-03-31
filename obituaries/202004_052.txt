@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202004_052"
+
+[[person.meta.citation]]
+title = "Scott's Funeral Home"
+date = "2020-03-28"
+url = "https://www.scottsfh.com/obituary/richard-dick-gellasch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Gellasch"
+use = "Dick"
+given = "Richard Douglas"
+
+[person.birth]
+date = "1935-05-29"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2018-07-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Gatesville"
+
+[[person.education]]
+school.name = "Roseville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Roseville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200220_009"
+
+[[person.meta.citation]]
+title = "Warren Evening Times"
+date = "1915-08-04"
+pages = "9"
+
+[person.name]
+last = "Stewart"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Lenoir"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+description.position = "C"
+
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170521_184"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1914-03-18"
+pages = "10"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "TN"
+place.city = "Gallatin"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.throws = "L"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_017"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1913-10-04"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1914-05-16"
+pages = "25"
+
+[person.name]
+last = "Gray"
+use = "Cecil"
+given = "Cecil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Charleston"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+

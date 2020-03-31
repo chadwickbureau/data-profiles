@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200227_005"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-05-01"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

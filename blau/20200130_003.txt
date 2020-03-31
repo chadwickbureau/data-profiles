@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20200130_003"
+
+[[person.meta.citation]]
+title = "South Bend Tribune"
+date = "1915-07-31"
+pages = "14"
+
+[person.name]
+last = "Wheeler"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "South Bend"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rockford"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "South Bend"
+team.league.name = "Southern Michigan League"
+
+

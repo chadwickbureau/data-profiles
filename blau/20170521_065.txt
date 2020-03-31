@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_065"
+
+[[person.meta.citation]]
+title = "Burlington Gazette"
+date = "1925-02-26"
+pages = "18"
+
+[person.name]
+last = "Tebrinke"
+use = "Lee"
+given = "Lee"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "SD"
+place.city = "Sioux Falls"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+

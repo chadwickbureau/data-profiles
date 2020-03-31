@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_050"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1925-07-31"
+pages = "19"
+
+[person.name]
+last = "Donelson"
+use = "Donald"
+given = "Donald"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170521_035"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1922-08-15"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1922-09-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1922-04-17"
+pages = "4"
+
+[person.name]
+last = "Hughes"
+use = "Mickey"
+given = "Mickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Chickasha"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Henryetta"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+

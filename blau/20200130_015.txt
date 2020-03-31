@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200130_015"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1915-05-23"
+pages = "7"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

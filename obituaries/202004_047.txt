@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_047"
+
+[[person.meta.citation]]
+title = "Memorial Park Funeral Home"
+date = "2020-03-27"
+url = "http://www.memorialparkfuneralhomes.com/obituaries/robert-bob-paul-polinksy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-27"
+
+[person.name]
+last = "Polinsky"
+use = "Bob"
+given = "Robert Paul"
+
+[person.birth]
+date = "1951-06-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Coaldale"
+
+[person.death]
+date = "2020-03-17"
+place.country = "US"
+place.state = "GA"
+place.city = "Gainesville"
+
+[[person.education]]
+school.name = "Panther Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Lansford"
+
+[[person.education]]
+school.name = "Delaware Valley College"
+school.type = "college"
+
+

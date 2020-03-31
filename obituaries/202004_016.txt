@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_016"
+
+[[person.meta.citation]]
+title = "Havenbrook Funeral Home"
+date = "2020-03-25"
+url = "https://www.havenbrookfuneralhome.com/tributes/Robert-Stephenson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Stephenson"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1928-08-11"
+place.country = "US"
+place.state = "OK"
+place.city = "Blair"
+
+[person.death]
+date = "2020-03-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Norman"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

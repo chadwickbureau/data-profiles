@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170416_122"
+
+[[person.meta.citation]]
+title = "Wilmington Evening Journal"
+date = "1914-07-28"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Wilmington Evening Journal"
+date = "1914-05-08"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Wilmington Evening Journal"
+date = "1914-10-31"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Foye"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New London"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Wilmington"
+team.league.name = "Tri-State League"
+description.height = "72"
+description.weight = "180"
+
+

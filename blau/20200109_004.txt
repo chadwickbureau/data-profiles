@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200109_004"
+
+[[person.meta.citation]]
+title = "Tampa Times"
+date = "1914-07-25"
+pages = "15"
+
+[person.name]
+last = "Leon"
+use = "Nilo"
+given = "Nilo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Valdosta"
+team.league.name = "Georgia State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Brunswick"
+team.league.name = "Georgia State League"
+
+

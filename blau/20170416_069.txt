@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170416_069"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Sommers"
+use = "Rudy"
+given = "Rudy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

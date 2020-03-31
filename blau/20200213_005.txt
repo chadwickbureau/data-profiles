@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200213_005"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1914-06-17"
+pages = "2"
+
+[person.name]
+last = "Cadigan"
+use = "Thomas"
+given = "Thomas"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "NY"
+place.city = "Elmira"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "<=1914-06-17"
+type = "released"
+leave.name = "Hornell"
+leave.league.name = "Interstate"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_019"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[person.name]
+last = "Morris"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+

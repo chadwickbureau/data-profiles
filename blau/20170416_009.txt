@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170416_009"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1928-05-18"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1928-05-17"
+pages = "9"
+
+[person.name]
+last = "Kelly"
+use = "Henry"
+given = "Henry"
+nick = "Kid"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

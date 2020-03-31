@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200206_001"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1915-01-11"
+pages = "13"
+
+[person.name]
+last = "Dunphy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Austin"
+
+

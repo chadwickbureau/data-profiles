@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_155"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1922-04-11"
+pages = "2"
+
+[person.name]
+last = "Dennis"
+use = "Hobart"
+given = "Hobart"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Aberdeen"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Aberdeen"
+team.league.name = "Dakota League"
+
+

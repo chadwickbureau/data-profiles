@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "20170416_104"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1930-09-18"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1931-07-30"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1911-06-19"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1936-03-28"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Farley"
+use = "Roland"
+given = "Roland"
+nick = "Boley"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "VA"
+place.city = "Danville"
+
+
+[[person.education]]
+school.name = "Duke"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Danville"
+team.league.name = "Bi-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1935"
+team.name = "Greenville"
+team.league.name = "Coastal Plain League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1936"
+team.name = "Greenville"
+team.league.name = "Coastal Plain League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1937"
+team.name = "Greenville"
+team.league.name = "Coastal Plain League"
+
+

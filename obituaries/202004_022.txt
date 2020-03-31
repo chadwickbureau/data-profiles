@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202004_022"
+
+[[person.meta.citation]]
+title = "Gattozzi & Son Funeral Home"
+date = "2020-03-28"
+url = "https://www.dignitymemorial.com/obituaries/chesterland-oh/thomas-shima-9099687"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Shima"
+use = "Tom"
+given = "Thomas Charles"
+
+[person.birth]
+date = "1935-04-14"
+
+[person.death]
+date = "2020-03-25"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

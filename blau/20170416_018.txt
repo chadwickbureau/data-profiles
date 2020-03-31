@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170416_018"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1916-07-13"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1917-05-16"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1917-05-30"
+pages = "12"
+
+[person.name]
+last = "Cronin"
+given = "A. J."
+nick = "Bud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Virginia"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Virginia"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Winnipeg"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Winnipeg"
+team.league.name = "Northern League"
+
+

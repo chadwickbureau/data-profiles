@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200213_014"
+
+[[person.meta.citation]]
+title = "Olean Evening Herald"
+date = "1915-08-18"
+pages = "6"
+
+[person.name]
+last = "Beck"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Olean"
+team.league.name = "Interstate League"
+
+

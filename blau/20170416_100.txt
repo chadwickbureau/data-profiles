@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170416_100"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1926-04-03"
+
+[person.name]
+last = "Chambers"
+use = "Andy"
+given = "Andy"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Reading"
+team.league.name = "International League"
+
+

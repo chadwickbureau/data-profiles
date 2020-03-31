@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "20170521_032"
+
+[[person.meta.citation]]
+title = "East Liverpool Evening Review"
+date = "1911-05-19"
+pages = "8"
+
+[[person.meta.citation]]
+title = "East Liverpool Evening Review"
+date = "1911-04-01"
+pages = "6"
+
+[[person.meta.citation]]
+title = "East Liverpool Evening Review"
+date = "1910-09-24"
+pages = "6"
+
+[person.name]
+last = "Gray"
+use = "William"
+given = "William"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "PA"
+place.city = "Carnegie"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "PA"
+place.city = "Carnegie"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Wheeling"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+

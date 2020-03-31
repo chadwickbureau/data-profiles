@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170521_005"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1928-03-25"
+pages = "15"
+
+[person.name]
+last = "Dunham"
+use = "Walter"
+given = "Walter H."
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Milwaukee"
+team.league.name = "American Association"
+description.height = "68"
+description.weight = "175"
+
+

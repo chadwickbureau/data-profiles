@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_053"
+
+[[person.meta.citation]]
+title = "Jackson (MS) Clarion-Ledger"
+date = "1924-08-16"
+pages = "4"
+
+[person.name]
+last = "Williams"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+description.throws = "L"
+
+

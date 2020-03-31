@@ -1,0 +1,94 @@
+[[person]]
+
+[person.meta]
+key = "20170521_200"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1917-04-27"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1916-07-27"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1918-06-07"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1913-03-31"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Zanesville Daily Recorder"
+date = "1911-03-30"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1913-04-29"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1913-06-04"
+pages = "9"
+
+[person.name]
+last = "Dobard"
+use = "Leonard"
+given = "Leonard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+

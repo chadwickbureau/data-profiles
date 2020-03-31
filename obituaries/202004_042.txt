@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202004_042"
+
+[[person.meta.citation]]
+title = "Adams Funeral Chapel"
+date = "2020-03-26"
+url = "https://www.adamsfuneralchapel.com/obituary/Robert-Rupel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-26"
+
+[person.name]
+last = "Rupel"
+use = "Bob"
+given = "Robert Wakely"
+
+[person.birth]
+date = "1919-10-07"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+
+[person.death]
+date = "2018-07-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Charleston"
+

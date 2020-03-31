@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20200102_002"
+
+[[person.meta.citation]]
+title = "Anadarko Tribune"
+date = "1920-08-05"
+pages = "8"
+
+[person.name]
+last = "Moseley"
+use = "Conde"
+given = "Conde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Pawhuska"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "<=1920-08-05"
+type = "obtained"
+join.name = "Pawhuska"
+join.league.name = "Western Association"
+leave.name = "Oklahoma City"
+leave.league.name = "Western"
+
+

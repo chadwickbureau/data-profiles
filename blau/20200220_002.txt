@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200220_002"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter"
+date = "1915-06-18"
+pages = "6"
+
+[person.name]
+last = "Rychtner"
+use = "Emil"
+given = "Emil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+
+

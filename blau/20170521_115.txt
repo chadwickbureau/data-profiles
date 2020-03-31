@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170521_115"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1911-09-17"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1911-06-25"
+pages = "18"
+
+[person.name]
+last = "Henderson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Brownsville"
+team.league.name = "Southwest Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Victoria"
+team.league.name = "Southwest Texas League"
+
+

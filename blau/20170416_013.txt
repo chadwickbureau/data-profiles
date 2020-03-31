@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_013"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1913-05-27"
+pages = "9"
+
+[person.name]
+last = "Beal"
+use = "Zeke"
+given = "Zeke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Harrisburg"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

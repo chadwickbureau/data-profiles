@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170521_132"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1928-10-02"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1928-02-12"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1929-05-12"
+pages = "45"
+
+[person.name]
+last = "Hoffman"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Kinston"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Dormont"
+team.league.name = "Inter-County [caliber=semipro] League"
+
+

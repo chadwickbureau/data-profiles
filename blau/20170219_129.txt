@@ -16,9 +16,6 @@ last = "Bolen"
 use = "Charlie"
 given = "Charles F."
 
-[person.description]
-note = [ "see 6/9/1928 Lincoln Star, p. 8" ]
-
 [[person.relation]]
 relationship = "brother of"
 person.name.last = "Bolen"

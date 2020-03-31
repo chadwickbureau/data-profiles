@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_181"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1905-07-22"
+pages = "3"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Superior"
+team.league.name = "Northern League"
+description.throws = "L"
+
+

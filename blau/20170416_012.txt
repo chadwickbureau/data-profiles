@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170416_012"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1924-04-20"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1925-04-25"
+pages = "9"
+
+[person.name]
+last = "Courtney"
+use = "Earl"
+given = "Earl"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TX"
+place.city = "Mirando City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Austin"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Austin"
+team.league.name = "Texas Association"
+
+

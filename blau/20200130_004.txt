@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200130_004"
+
+[[person.meta.citation]]
+title = "Davenport Democrat and Leader"
+date = "1915-07-27"
+pages = "8"
+
+[person.name]
+last = "Wheeler"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rockford"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "2B"
+
+

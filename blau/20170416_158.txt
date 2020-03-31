@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170416_158"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1935-05-14"
+pages = "22"
+
+[person.name]
+last = "Davis"
+use = "Guy"
+given = "Guy Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Akron"
+team.league.name = "Middle Atlantic League"
+description.bats = "R"
+description.throws = "L"
+description.height = "74"
+description.weight = "195"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+

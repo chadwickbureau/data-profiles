@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200213_011"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1915-05-21"
+pages = "8"
+
+[person.name]
+last = "Wright"
+given = "W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+description.position = "P"
+
+

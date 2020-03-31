@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "17408"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17408"
+title = "The Sporting News Player Contract Cards, ScanID: 1005003543"
+
+[person.name]
+last = "Brandon"
+given = "Myron F."
+
+
+[[person.transaction]]
+date = "1949-02-01"
+type = "signed"
+join.name = "Willows"
+note = "Willows 1949-02-01"
+
+[[person.transaction]]
+date = "1949-05-15"
+type = "released"
+leave.name = "Willows"
+note = "rel 1949-05-15"
+

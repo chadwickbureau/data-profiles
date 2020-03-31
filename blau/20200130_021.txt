@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200130_021"
+
+[[person.meta.citation]]
+title = "York Daily Record"
+date = "1924-09-17"
+pages = "8"
+
+[person.name]
+last = "Brown"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Hagerstown"
+team.league.name = "Blue Ridge League"
+
+

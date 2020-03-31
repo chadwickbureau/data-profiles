@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200305_003"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-05-02"
+pages = "24"
+
+[person.name]
+last = "Hutto"
+use = "Burnice"
+given = "Burnice"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Middle Texas League"
+
+

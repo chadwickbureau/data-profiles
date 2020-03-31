@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200130_008"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1915-04-28"
+pages = "18"
+
+[person.name]
+last = "Powers"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Hartford"
+team.league.name = "Eastern Association"
+
+

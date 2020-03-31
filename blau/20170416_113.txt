@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_113"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Baker"
+use = "Jeff"
+given = "Jeff"
+nick = "Midget"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+

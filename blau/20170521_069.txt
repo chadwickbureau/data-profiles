@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_069"
+
+[[person.meta.citation]]
+title = "Burlington Gazette"
+date = "1925-02-26"
+pages = "18"
+
+[person.name]
+last = "Kuehler"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.city = "Shelbyville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+

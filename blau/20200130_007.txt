@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200130_007"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1915-07-13"
+pages = "4"
+
+[person.name]
+last = "Powers"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Eastern Association"
+
+

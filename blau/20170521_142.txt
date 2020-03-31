@@ -1,0 +1,75 @@
+[[person]]
+
+[person.meta]
+key = "20170521_142"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/293-JUNEY_Frank.pdf"
+
+[person.name]
+last = "Juney"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Portland"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Portland/Ballard"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Butte"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Salt Lake City"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Moose Jaw"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Portland"
+team.league.name = "Pacific Coast League"
+
+

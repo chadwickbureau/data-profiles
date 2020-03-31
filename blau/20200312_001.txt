@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200312_001"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-06-04"
+pages = "5"
+
+[person.name]
+last = "Gordon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+
+

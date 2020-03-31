@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200220_008"
+
+[[person.meta.citation]]
+title = "Warren Evening Mirror"
+date = "1916-04-09"
+pages = "4"
+
+[person.name]
+last = "Wright"
+use = "Pikey"
+given = "Wallace"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

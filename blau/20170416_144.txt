@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170416_144"
+
+[[person.meta.citation]]
+title = "Muncie Star Press"
+date = "1928-09-22"
+pages = "11"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Fuller"
+use = "Frankie"
+given = "Frankie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Pueblo"
+team.league.name = "Western League"
+
+

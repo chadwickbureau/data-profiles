@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202004_014"
+
+[[person.meta.citation]]
+title = "McIntire, Bradham & Sleek Funeral Home"
+date = "2020-03-25"
+url = "https://www.mcintirebradhamsleek.com/obituaries/michael-mick-dwyer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Dwyer"
+use = "Mick"
+given = "Michael A."
+
+[person.birth]
+date = "1957-03-27"
+
+[person.death]
+date = "2020-03-22"
+
+[[person.education]]
+school.name = "Fairless HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Navarre"
+
+[[person.education]]
+school.name = "Malone University"
+school.type = "college"
+
+

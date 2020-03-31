@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170416_031"
+
+[person.name]
+last = "Decker"
+use = "Howard"
+given = "Howard"
+nick = "Claude"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Hutchinson"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Bartlesville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+

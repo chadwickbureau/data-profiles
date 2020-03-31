@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170416_112"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1919-05-01"
+
+[person.name]
+last = "Ritter"
+use = "Hank"
+given = "Hank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "New York"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+

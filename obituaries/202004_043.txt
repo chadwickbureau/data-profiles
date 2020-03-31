@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_043"
+
+[[person.meta.citation]]
+title = "Johnson-Overturf Funeral Home"
+date = "2020-03-26"
+url = "https://johnsonoverturffunerals.com/book-of-memories/3435296/baird-charles/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-26"
+
+[person.name]
+last = "Baird"
+use = "Charlie"
+given = "Charles R."
+
+[person.birth]
+date = "1923"
+place.country = "US"
+place.state = "FL"
+place.city = "Palatka"
+
+[person.death]
+date = "2018-02-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Palatka"
+
+[person.burial]
+cemetery.name = "San Mateo Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Palatka HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Palatka"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

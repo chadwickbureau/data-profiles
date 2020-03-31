@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170416_020"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1925-06-18"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1925-10-20"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1925-08-14"
+pages = "19"
+
+[person.name]
+last = "Crowe"
+use = "George"
+given = "George"
+nick = "Jimmy"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Ottawa-Hull"
+team.league.name = "Quebec-Ontario-Vermont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+

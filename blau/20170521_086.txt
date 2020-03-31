@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170521_086"
+
+[[person.meta.citation]]
+title = "Tulsa Daily World"
+date = "1922-07-30"
+
+[person.name]
+last = "Russell"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+

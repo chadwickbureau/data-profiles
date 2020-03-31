@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20200130_023"
+
+[[person.meta.citation]]
+title = "Spokane Spokesman-Review"
+date = "1913-07-02"
+pages = "15"
+
+[person.name]
+last = "Smith"
+use = "Fats"
+given = "Fats"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Victoria"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+
+
+[[person.transaction]]
+date = "<=1913-07-02"
+type = "acquired"
+join.name = "Spokane"
+join.league.name = "Northwestern"
+leave.name = "Victoria"
+leave.league.name = "Northwestern"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Toner"
+use = "Red"
+given = "Red"
+
+

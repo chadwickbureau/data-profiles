@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170416_086"
+
+[[person.meta.citation]]
+title = "Ottawa Journal"
+date = "1939-05-08"
+pages = "17"
+
+[person.name]
+last = "Eichenberger"
+use = "Eugene"
+given = "Eugene"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "Ottawa"
+team.league.name = "Canadian-American League"
+description.throws = "L"
+
+

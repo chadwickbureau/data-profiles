@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170416_167"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1932-05-04"
+pages = "18"
+
+[person.name]
+last = "Carney"
+use = "Milford"
+given = "Milford"
+nick = "Lefty"
+
+[[person.resides]]
+dates = "1931"
+place.country = "US"
+place.state = "WV"
+place.city = "Charleston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Youngstown"
+team.league.name = "Middle Atlantic League"
+
+

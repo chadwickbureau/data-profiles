@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170416_068"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1926-05-27"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1926-06-14"
+pages = "11"
+
+[person.name]
+last = "Carlin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Port Huron"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Port Huron"
+team.league.name = "Michigan State League"
+
+

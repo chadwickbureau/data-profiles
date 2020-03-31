@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170521_168"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1910-05-25"
+
+[person.name]
+last = "Arnold"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Galveston"
+team.league.name = "South Texas League"
+
+

@@ -1,0 +1,90 @@
+[[person]]
+
+[person.meta]
+key = "20170416_004"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1912-09-14"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Altoona Times"
+date = "1912-06-12"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1912-10-19"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1912-05-01"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1913-08-30"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Wilmington (NC) Morning Star"
+date = "1913-03-21"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1913-11-22"
+pages = "7"
+
+[person.name]
+last = "Cooper"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "NC"
+place.city = "Statesville"
+
+
+[[person.education]]
+school.name = "Trinity College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NC"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Altoona"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Reading"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Baltimore"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Baltimore"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Jersey City"
+team.league.name = "International League"
+
+

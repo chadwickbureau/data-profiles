@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "20170416_090"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1925-07-18"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1923-03-28"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1925-01-20"
+pages = "28"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Swartz"
+use = "Monty"
+given = "Monty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Seattle"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Providence"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Reading"
+team.league.name = "International League"
+
+

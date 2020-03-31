@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_109"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-09-10"
+pages = "34"
+
+[person.name]
+last = "Riley"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

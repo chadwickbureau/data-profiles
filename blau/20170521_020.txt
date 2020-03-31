@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_020"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[person.name]
+last = "Brenner"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+

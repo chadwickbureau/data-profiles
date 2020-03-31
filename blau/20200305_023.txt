@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200305_023"
+
+[[person.meta.citation]]
+title = "Wichita Beacon"
+date = "1915-01-16"
+pages = "7"
+
+[person.name]
+last = "Smith"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Georgetown"
+team.league.name = "Middle Texas League"
+
+

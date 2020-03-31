@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170521_171"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "McCressin"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+

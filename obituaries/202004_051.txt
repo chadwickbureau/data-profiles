@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202004_051"
+
+[[person.meta.citation]]
+title = "Anderson-Bryant Funeral Home"
+date = "2020-03-28"
+url = "https://www.andersonbryantfuneralhome.com/obituary/richard-whittaker"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Whittaker"
+use = "Dick"
+given = "Richard L."
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Scituate"
+
+[person.death]
+date = "2018-07-04"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Scituate"
+
+[[person.education]]
+school.name = "Scituate HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Scituate"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

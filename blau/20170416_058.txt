@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_058"
+
+[[person.meta.citation]]
+title = "Burlington Hawk-Eye"
+date = "1930-05-25"
+pages = "10"
+
+[person.name]
+last = "Dougherty"
+given = "D."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+description.position = "C"
+
+

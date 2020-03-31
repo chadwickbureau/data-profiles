@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_108"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-06-07"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Sheboygan Press"
+date = "1921-03-12"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sheboygan Press"
+date = "1922-09-05"
+pages = "3"
+
+[person.name]
+last = "Heilberger"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

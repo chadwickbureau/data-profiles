@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200220_003"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter"
+date = "1915-06-18"
+pages = "6"
+
+[person.name]
+last = "Davie"
+use = "Pop"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+
+

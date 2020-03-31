@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200116_009"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1916-04-26"
+pages = "10"
+
+[person.name]
+last = "Brooks"
+use = "Berwick"
+given = "Berwick B."
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+
+[[person.transaction]]
+date = "<=1916-04-26"
+type = "optioned"
+join.name = "Augusta"
+join.league.name = "South Atlantic"
+leave.name = "Little Rock"
+leave.league.name = "Southern Association"
+
+

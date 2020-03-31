@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_015"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1924-04-29"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1924-04-07"
+pages = "5"
+
+[person.name]
+last = "Graves"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -13,9 +13,6 @@ use = "Dory"
 given = "Theodore C."
 nick = "Cy"
 
-[person.description]
-note = [ "see Davis Barker notes" ]
-
 [[person.affiliation]]
 type = "player"
 dates = "1912"

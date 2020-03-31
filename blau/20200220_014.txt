@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200220_014"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter"
+date = "1915-06-12"
+pages = "6"
+
+[person.name]
+last = "Rawley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+
+[[person.transaction]]
+date = "<=1915-06-12"
+type = "obtained"
+join.name = "Hornell"
+join.league.name = "Interstate"
+leave.name = "Syracuse"
+leave.league.name = "New York State"
+
+

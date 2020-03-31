@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_007"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1931-04-25"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1932-06-21"
+pages = "4"
+
+[person.name]
+last = "Coppock"
+use = "Mack"
+given = "Mack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

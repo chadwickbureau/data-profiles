@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_034"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1921-08-15"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1922-04-17"
+pages = "4"
+
+[person.name]
+last = "Johnson"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Henryetta"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Chickasha"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200123_001"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1915-03-08"
+pages = "3"
+
+[person.name]
+last = "Egan"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+description.height = "70"
+description.weight = "170"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Jersey City"
+team.league.name = "International League"
+
+

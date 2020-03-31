@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200305_004"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-02-28"
+pages = "6"
+
+[person.name]
+last = "Reinecke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Gadsden"
+team.league.name = "Georgia-Alabama League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Austin"
+team.league.name = "Middle Texas League"
+
+

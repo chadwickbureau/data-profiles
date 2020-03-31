@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170416_176"
+
+[[person.meta.citation]]
+title = "Waco News"
+date = "1923-07-10"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican"
+date = "1923-10-03"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Lafayette (IN) Journal and Courier"
+date = "1925-02-21"
+pages = "9"
+
+[person.name]
+last = "Gillespie"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Austin"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Miami"
+team.league.name = "Arizona State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1930"
+team.name = "Miami"
+team.league.name = "Arizona State League"
+
+

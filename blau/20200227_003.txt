@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20200227_003"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1921-09-14"
+pages = "6"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Redfield"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+
+[[person.transaction]]
+date = "<=1921-09-14"
+type = "purchased"
+join.name = "Minneapolis"
+join.league.name = "American Association"
+leave.name = "Redfield"
+leave.league.name = "Dakota"
+
+

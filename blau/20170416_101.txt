@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_101"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1921-07-08"
+pages = "4"
+
+[person.name]
+last = "Erwin"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Muskogee"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+

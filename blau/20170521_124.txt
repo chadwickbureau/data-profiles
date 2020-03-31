@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170521_124"
+
+[[person.meta.citation]]
+title = "Charlotte Evening Chronicle"
+date = "1914-03-28"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1914-04-02"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1914-05-25"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1914-03-29"
+pages = "11"
+
+[person.name]
+last = "Hicks"
+given = "D. J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Huntington"
+team.league.name = "Mountain States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.league.name = "Federal League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+
+

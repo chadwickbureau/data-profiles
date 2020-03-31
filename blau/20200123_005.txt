@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200123_005"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1916-04-08"
+pages = "15"
+
+[person.name]
+last = "Jensen"
+use = "Willie"
+given = "Willie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

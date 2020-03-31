@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170416_095"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1925-04-14"
+
+[person.name]
+last = "Smith"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Reading"
+team.league.name = "International League"
+
+

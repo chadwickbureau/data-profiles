@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20200227_012"
+
+[[person.meta.citation]]
+title = "New Orleans Times-Democrat"
+date = "1913-08-10"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Stevenson"
+use = "Lester"
+given = "Lester"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+

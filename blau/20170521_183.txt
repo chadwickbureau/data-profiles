@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_183"
+
+[[person.meta.citation]]
+title = "Eau Claire Leader"
+date = "1909-05-18"
+pages = "2"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Superior"
+team.league.name = "Minnesota-Wisconsin League"
+description.throws = "L"
+
+

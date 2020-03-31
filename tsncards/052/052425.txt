@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "52425"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/52425"
+title = "The Sporting News Player Contract Cards, ScanID: 1011005263"
+
+[person.name]
+last = "DePaulo"
+given = "Richard Leonard"
+
+
+[[person.transaction]]
+date = "1952-12-27"
+type = "signed"
+join.name = "Valdosta"
+note = "Valdosta 1952-12-27"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Valdosta"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-04-17"
+type = "released"
+leave.name = "Valdosta"
+note = "rel 1953-04-17"
+

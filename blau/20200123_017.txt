@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200123_017"
+
+[[person.meta.citation]]
+title = "Portland Oregonian"
+date = "1914-08-14"
+
+[person.name]
+last = "Gleason"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Helena"
+team.league.name = "Union Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

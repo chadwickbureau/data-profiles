@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_039"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "2018-08-06"
+url = "https://www.richmond.com/obituaries/measell-george-jr/article_e7014bfb-72f7-509f-8bb8-37fde5cb5d39.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Measell"
+use = "Sam"
+given = "George Samuel"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-05-19"
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+[person.death]
+date = "2018-08-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilson"
+
+[[person.education]]
+school.name = "Norview HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Norfolk"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

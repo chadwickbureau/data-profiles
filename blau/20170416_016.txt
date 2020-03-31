@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_016"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1926-05-06"
+pages = "6"
+
+[person.name]
+last = "Brown"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ponca City"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Ponca City"
+team.league.name = "Southwestern League"
+
+

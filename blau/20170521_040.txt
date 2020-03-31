@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "20170521_040"
+
+[[person.meta.citation]]
+title = "Durham Morning Herald"
+date = "1921-04-27"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Durham Morning Herald"
+date = "1921-07-21"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Durham Morning Herald"
+date = "1921-05-01"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Durham Morning Herald"
+date = "1921-04-27"
+pages = "3"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Greene"
+use = "Nelson"
+given = "Nelson"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Brooklyn"
+team.league.name = "National League"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170521_160"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1921-08-12"
+pages = "12"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Hunter"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Louis"
+team.league.name = "National League"
+
+

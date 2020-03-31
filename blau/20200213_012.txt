@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200213_012"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1915-06-04"
+pages = "11"
+
+[person.name]
+last = "Dillon"
+use = "Steve"
+given = "Steve"
+
+[[person.education]]
+school.name = "University of Pittsburgh"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Jamestown"
+team.league.name = "Interstate League"
+
+

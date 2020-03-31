@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200130_005"
+
+[[person.meta.citation]]
+title = "Streator Times"
+date = "1914-08-10"
+pages = "3"
+
+[person.name]
+last = "McIntyre"
+use = "Steve"
+given = "Steve"
+nick = "Big Steve"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "IL"
+place.city = "Marseilles"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ottawa"
+team.league.name = "Illinois-Missouri League"
+
+

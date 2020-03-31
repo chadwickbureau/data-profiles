@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "20200227_004"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1922-05-02"
+pages = "11"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jamestown"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+
+[[person.transaction]]
+date = "<=1922-05-02"
+type = "purchased"
+join.name = "Jamestown"
+join.league.name = "Dakota"
+leave.name = "Minneapolis"
+leave.league.name = "American Association"
+
+

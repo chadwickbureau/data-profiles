@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20200130_011"
+
+[[person.meta.citation]]
+title = "Bridgeport Farmer"
+date = "1912-02-19"
+pages = "7"
+
+[person.name]
+last = "Powers"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hartford"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Holyoke"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+
+[[person.transaction]]
+date = "<=1912-02-19"
+type = "traded"
+leave.name = "Mobile"
+leave.league.name = "Southern Association"
+join.name = "Kewanee"
+join.league.name = "Central Association"
+note = "in exchange for unnamed infielder"
+
+

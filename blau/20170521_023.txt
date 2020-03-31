@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_023"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[person.name]
+last = "Riel"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200213_001"
+
+[[person.meta.citation]]
+title = "Olean Evening Herald"
+date = "1915-10-02"
+pages = "6"
+
+[person.name]
+last = "Kountz"
+use = "Toney"
+given = "Toney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Olean"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

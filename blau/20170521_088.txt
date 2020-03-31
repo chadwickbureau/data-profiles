@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_088"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1911-11-07"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1911-08-24"
+pages = "9"
+
+[person.name]
+last = "Hanna"
+use = "Earl"
+given = "Earl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+

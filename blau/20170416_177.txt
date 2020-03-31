@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170416_177"
+
+[[person.meta.citation]]
+title = "Wilmington Evening Journal"
+date = "1927-05-27"
+pages = "10"
+
+[person.name]
+last = "Gillespie"
+use = "Lex"
+given = "Lex"
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "PA"
+place.city = "Chester"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202004_020"
+
+[[person.meta.citation]]
+title = "Wichmann Funeral Home"
+date = "2020-03-27"
+url = "https://wichmannfuneralhomes.com/obituary/pfc-carlton-f-springer/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-27"
+
+[person.name]
+last = "Springer"
+use = "Carl"
+given = "Carlton F."
+
+[person.birth]
+date = "1930-07-04"
+
+[person.death]
+date = "2020-03-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Menasha"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

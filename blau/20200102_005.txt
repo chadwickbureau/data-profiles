@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200102_005"
+
+[[person.meta.citation]]
+title = "Thomasville Daily Times Enterprise"
+date = "1915-06-11"
+pages = "7"
+
+[person.name]
+last = "Cooper"
+use = "Ty"
+given = "Ty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Thomasville"
+team.league.name = "Florida-Alabama-Georgia League"
+description.position = "P"
+
+

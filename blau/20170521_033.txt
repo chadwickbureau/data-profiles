@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170521_033"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1921-07-10"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1921-08-15"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Ingram"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Chickasha"
+team.league.name = "Western Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Henryetta"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170416_028"
+
+[[person.meta.citation]]
+title = "Zanesville Times Recorder"
+date = "1934-06-07"
+pages = "8"
+
+[person.name]
+last = "Burger"
+use = "Larry"
+given = "Larry"
+
+[[person.resides]]
+dates = "1934"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Springfield"
+team.league.name = "Middle Atlantic League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Dayton"
+team.league.name = "Middle Atlantic League"
+
+

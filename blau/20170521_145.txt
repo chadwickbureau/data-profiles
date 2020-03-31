@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_145"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1913-03-13"
+pages = "4"
+
+[person.name]
+last = "Sargent"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

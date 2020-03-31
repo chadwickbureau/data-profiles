@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_031"
+
+[[person.meta.citation]]
+title = "Albany Times Union"
+date = "2018-09-30"
+url = "https://www.legacy.com/obituaries/timesunion-albany/obituary.aspx?n=robert-f-bebernitz&pid=190353550"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Bebernitz"
+use = "Robert"
+given = "Robert F."
+
+[person.birth]
+date = "1927-08-20"
+place.country = "US"
+place.state = "NY"
+place.city = "Troy"
+
+[person.death]
+date = "2018-09-19"
+place.country = "US"
+place.state = "FL"
+place.city = "Bradenton"
+
+[person.burial]
+cemetery.name = "Gerald B. H. Solomon Saratoga National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Schuylerville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,75 @@
+[[person]]
+
+[person.meta]
+key = "20170416_171"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1928-03-13"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1928-06-20"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1929-02-10"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-11-19"
+pages = "21"
+
+[person.name]
+last = "Giles"
+use = "William"
+given = "William Chesley"
+nick = "Tex"
+
+[[person.education]]
+school.name = "Burleson College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Texarkana"
+team.league.name = "Lone Star League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+description.height = "71"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Savannah"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Albany"
+team.league.name = "Eastern League"
+
+

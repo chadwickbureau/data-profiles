@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_182"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Daily Eagle"
+date = "1905-08-26"
+pages = "3"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Poughkeepsie"
+team.league.name = "Hudson River League"
+description.throws = "L"
+
+

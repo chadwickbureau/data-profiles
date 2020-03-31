@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "20170416_106"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1930-09-14"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1931-07-23"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1931-04-11"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1930-09-14"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1932-05-06"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1933-05-12"
+pages = "16"
+
+[person.name]
+last = "Farrell"
+use = "Francis"
+given = "Francis"
+nick = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Albany"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.league.name = "Middle Atlantic League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_044"
+
+[[person.meta.citation]]
+title = "Hamilton Evening Journal"
+date = "1911-04-04"
+pages = "13"
+
+[person.name]
+last = "Davis"
+use = "Ben"
+given = "Ben"
+
+[[person.alias]]
+name.last = "Dewitt"
+type = "alias"
+dates = "1910/1910"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_019"
+
+[[person.meta.citation]]
+title = "Louisville Courier-News"
+date = "1928-09-06"
+pages = "21"
+
+[person.name]
+last = "Hubert"
+use = "Pooly"
+given = "Pooly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Fayetteville"
+team.league.name = "Eastern Carolina League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1928"
+team.name = "Fayetteville"
+team.league.name = "Eastern Carolina League"
+
+

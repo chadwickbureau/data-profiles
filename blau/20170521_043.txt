@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "20170521_043"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-03-24"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-03-29"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-09-11"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Williams"
+use = "Luke"
+given = "Luke A."
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170521_180"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1923-09-02"
+pages = "24"
+
+[person.name]
+last = "Jenkins"
+given = "J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Paris"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

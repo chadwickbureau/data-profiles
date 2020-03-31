@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202004_025"
+
+[[person.meta.citation]]
+title = "MeaningfulFunerals.net"
+date = "2020-03-22"
+url = "https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=146d7b90-8d4b-48c7-adcd-65009afc785d&CFTOKEN=0&o_id=5357502&fh_id=15867"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Parmelee"
+use = "Jim"
+given = "Harold James"
+
+[person.birth]
+date = "1930-11-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Marshfield"
+
+[person.death]
+date = "2018-10-09"
+place.country = "US"
+place.state = "WI"
+place.city = "Marshfield"
+

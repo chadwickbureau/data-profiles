@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170416_123"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1936-05-18"
+pages = "17"
+
+[person.name]
+last = "Parmalee"
+use = "Channing"
+given = "Channing"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Parmalee"
+person.name.use = "Leroy"
+person.name.given = "Leroy"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Dayton"
+team.league.name = "Middle Atlantic League"
+
+

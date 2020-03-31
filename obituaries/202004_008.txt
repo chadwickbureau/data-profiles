@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202004_008"
+
+[[person.meta.citation]]
+title = "Brookings-Smith Funeral Home"
+date = "2020-03-23"
+url = "https://brookingssmith.com/book-of-memories/3880940/Holmes-Jack/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Holmes"
+use = "Jack"
+given = "Jack Edward"
+
+[person.birth]
+date = "1934-08-09"
+place.country = "US"
+place.state = "ME"
+place.city = "Grand Lake Stream"
+
+[person.death]
+date = "2020-03-16"
+place.country = "US"
+place.state = "ME"
+place.city = "Bangor"
+
+[[person.education]]
+school.name = "Lee Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Lee"
+
+[[person.education]]
+school.name = "University of Maine"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

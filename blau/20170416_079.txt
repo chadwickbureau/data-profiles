@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_079"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1929-01-22"
+pages = "20"
+
+[person.name]
+last = "Dzurilla"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Jeannette"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Binghamton"
+team.league.name = "New York-Pennsylvania League"
+
+

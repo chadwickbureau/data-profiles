@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170521_197"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1927-12-09"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1927-08-17"
+pages = "12"
+
+[person.name]
+last = "Trexler"
+use = "Floyd"
+given = "Floyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Reading"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+

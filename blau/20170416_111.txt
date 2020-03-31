@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170416_111"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1919-05-16"
+
+[person.name]
+last = "Walsh"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_198"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-11-30"
+pages = "7"
+
+[person.name]
+last = "Edwards"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

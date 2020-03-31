@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200213_015"
+
+[[person.meta.citation]]
+title = "Warren Evening Times"
+date = "1915-06-18"
+pages = "5"
+
+[person.name]
+last = "Ryberg"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+description.position = "C"
+
+

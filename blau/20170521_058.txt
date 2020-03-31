@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170521_058"
+
+[[person.meta.citation]]
+title = "Jackson (MS) Daily News"
+date = "1922-01-10"
+pages = "13"
+
+[person.name]
+last = "Meyer"
+use = "Henry"
+given = "Henry C."
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+description.throws = "R"
+
+

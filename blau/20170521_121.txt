@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170521_121"
+
+[[person.meta.citation]]
+title = "Omaha Daily Bee"
+date = "1910-08-07"
+
+[person.name]
+last = "Welch"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+

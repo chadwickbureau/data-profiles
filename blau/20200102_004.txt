@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200102_004"
+
+[[person.meta.citation]]
+title = "Thomasville Daily Times Enterprise"
+date = "1915-05-25"
+pages = "5"
+
+[person.name]
+last = "Pearson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Thomasville"
+team.league.name = "Florida-Alabama-Georgia League"
+description.throws = "R"
+
+

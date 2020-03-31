@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170521_199"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-11-30"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Sedalia Democrat"
+date = "1928-09-16"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1927-08-27"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1928-06-25"
+pages = "5"
+
+[person.name]
+last = "Foley"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Independence"
+team.league.name = "Western Association"
+description.throws = "R"
+
+

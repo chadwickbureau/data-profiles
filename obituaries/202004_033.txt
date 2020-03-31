@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202004_033"
+
+[[person.meta.citation]]
+title = "Nardolillo Funeral Home"
+date = "2020-03-23"
+url = "https://www.nardolillofh.com/obituary/Angelo-Asciolla"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Asciolla"
+use = "Angelo"
+given = "Angelo"
+nick = "Sonny"
+
+[person.birth]
+date = "1930-02-15"
+
+[person.death]
+date = "2018-09-12"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+

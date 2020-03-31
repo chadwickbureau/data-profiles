@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170416_140"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1928-07-13"
+pages = "16"
+
+[person.name]
+last = "Wagner"
+use = "Skally"
+given = "Skally"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "PA"
+place.city = "Sunbury"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Charleroi"
+team.league.name = "Middle Atlantic League"
+
+

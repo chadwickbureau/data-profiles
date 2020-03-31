@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170416_038"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1926-01-28"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-04-12"
+pages = "8"
+
+[person.name]
+last = "Devens"
+use = "Jimmy"
+given = "James William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+

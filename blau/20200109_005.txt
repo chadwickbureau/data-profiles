@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200109_005"
+
+[[person.meta.citation]]
+title = "Knoxville News-Sentinel"
+date = "1929-04-14"
+pages = "15"
+
+[person.name]
+last = "Hawkins"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Spartanburg"
+team.league.name = "South Atlantic League"
+description.throws = "R"
+
+

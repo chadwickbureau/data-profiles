@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "20170416_088"
+
+[[person.meta.citation]]
+title = "Baseball's Business: The Winter Meetings 1901-1957"
+pages = "171-172"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1925-01-20"
+pages = "28"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Swartz"
+use = "George"
+given = "George G."
+nick = "Lefty"
+
+[person.birth]
+date = "1894-08-19"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[person.death]
+date = "1979-11-05"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "San Francisco"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Houston"
+team.league.name = "Texas League"
+description.height = "73"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Houston"
+team.league.name = "Texas League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

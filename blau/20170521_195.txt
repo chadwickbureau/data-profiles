@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170521_195"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-11-30"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1927-12-09"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Burlington (IA) Gazette"
+date = "1927-08-13"
+pages = "26"
+
+[person.name]
+last = "Johnson"
+use = "Gordon"
+given = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ottuma"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+

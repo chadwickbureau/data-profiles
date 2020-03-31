@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202004_021"
+
+[[person.meta.citation]]
+title = "Birmingham News"
+date = "2020-03-28"
+url = "https://obits.al.com/obituaries/birmingham/obituary.aspx?n=fred-dewit-schmitt&pid=195807607&fhid=5554"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "Schmitt"
+use = "Fred"
+given = "Fred Dewit"
+
+[person.death]
+date = "2020-03-25"
+

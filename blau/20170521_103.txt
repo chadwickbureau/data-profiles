@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170521_103"
+
+[[person.meta.citation]]
+title = "Galveston Daily News"
+date = "1892-03-15"
+
+[person.name]
+last = "Brooks"
+use = "Oden"
+given = "Oden R."
+
+[[person.affiliation]]
+type = "player"
+dates = "1891"
+team.league.name = "Southwest League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

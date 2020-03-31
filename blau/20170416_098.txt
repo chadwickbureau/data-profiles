@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170416_098"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1966-01-15"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1926-04-01"
+
+[person.name]
+last = "Phillips"
+use = "Dode"
+given = "David Gardiner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Reading"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+
+

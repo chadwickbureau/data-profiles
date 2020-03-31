@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_202"
+
+[[person.meta.citation]]
+title = "(Phoenix) Arizona Star"
+date = "1928-09-04"
+pages = "6"
+
+[person.name]
+last = "Vaughn"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Bisbee"
+team.league.name = "Arizona State League"
+
+

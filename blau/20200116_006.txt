@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200116_006"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1914-05-05"
+pages = "8"
+
+[person.name]
+last = "Baker"
+use = "Grady"
+given = "Grady"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Talladega"
+team.league.name = "Georgia-Alabama League"
+
+
+[[person.transaction]]
+date = "<=1914-05-05"
+type = "obtained"
+join.name = "Talladega"
+join.league.name = "Georgia-Alabama"
+leave.name = "Montgomery"
+leave.league.name = "Southern Association"
+
+

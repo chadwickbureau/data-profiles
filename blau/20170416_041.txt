@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170416_041"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-25"
+
+[person.name]
+last = "Cleve"
+use = "Frankie"
+given = "Frankie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+

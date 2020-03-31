@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_097"
+
+[[person.meta.citation]]
+title = "Durning, George"
+date = "1926-04-03"
+
+[person.name]
+last = "Durning"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Easton"
+team.league.name = "Eastern Shore League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Reading"
+team.league.name = "International League"
+
+

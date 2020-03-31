@@ -1,0 +1,68 @@
+[[person]]
+
+[person.meta]
+key = "20170521_188"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1913-07-08"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1914-06-04"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Trenton Evening Times"
+date = "1914-08-03"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Fitchburg Sentinel"
+date = "1915-05-05"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Fitchburg Sentinel"
+date = "1916-05-20"
+pages = "6"
+
+[person.name]
+last = "Smith"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Pittsfield"
+team.league.name = "Eastern Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New Haven"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Manchester"
+team.league.name = "New England League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Worcester"
+team.league.name = "Eastern League"
+
+

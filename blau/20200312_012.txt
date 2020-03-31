@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200312_012"
+
+[[person.meta.citation]]
+title = "Austin American"
+date = "1915-03-17"
+pages = "7"
+
+[person.name]
+last = "Sillman"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lampasas"
+team.league.name = "Middle Texas League"
+
+

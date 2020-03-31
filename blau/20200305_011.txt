@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200305_011"
+
+[[person.meta.citation]]
+title = "San Antonio Light"
+date = "1925-04-15"
+
+[person.name]
+last = "Porter"
+use = "Josh"
+given = "Josh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Tyler"
+team.league.name = "East Texas League"
+description.bats = "R"
+description.throws = "R"
+
+

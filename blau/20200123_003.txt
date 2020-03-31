@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200123_003"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1915-03-08"
+pages = "3"
+
+[person.name]
+last = "Steinbach"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+description.throws = "R"
+
+

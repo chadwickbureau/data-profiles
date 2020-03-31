@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "20170416_115"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1919-05-16"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1920-07-24"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Franklin News-Herald"
+date = "1926-08-06"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Warren (PA) Tribune"
+date = "1926-08-20"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Franklin News-Herald"
+date = "1927-06-13"
+pages = "8"
+
+[person.name]
+last = "O'Donnell"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Reading"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Northampton"
+team.league.name = "Pennsylvania State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+

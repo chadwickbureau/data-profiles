@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200206_006"
+
+[[person.meta.citation]]
+title = "Davenport Democrat and Leader"
+date = "1916-04-13"
+pages = "8"
+
+[person.name]
+last = "Thomas"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Freeport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Hannibal"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

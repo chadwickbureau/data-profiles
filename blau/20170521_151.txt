@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "20170521_151"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1932-09-11"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Pampa (TX) Daily News"
+date = "1932-10-24"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Amarillo Globe-Times"
+date = "1933-07-14"
+pages = "13"
+
+[person.name]
+last = "Horton"
+use = "William"
+given = "William"
+nick = "Tank"
+
+[person.birth]
+date = "1908-08-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Blain"
+
+[[person.resides]]
+dates = "1932"
+place.country = "US"
+place.state = "TX"
+place.city = "Pampa"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.bats = "R"
+description.throws = "R"
+description.height = "69"
+description.weight = "160"
+
+

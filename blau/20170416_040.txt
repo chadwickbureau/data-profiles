@@ -1,0 +1,72 @@
+[[person]]
+
+[person.meta]
+key = "20170416_040"
+
+[[person.meta.citation]]
+title = "Portsmouth Daily Times"
+date = "1923-02-26"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1922-04-15"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-05-22"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Portsmouth Daily Times"
+date = "1923-02-26"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-12"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1924-06-22"
+pages = "22"
+
+[person.name]
+last = "Devoss"
+use = "Hecky"
+given = "Hecky"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Lansing"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Rapids"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Muskegon"
+team.league.name = "Michigan-Ontario League"
+
+

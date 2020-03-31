@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_103"
+
+[[person.meta.citation]]
+title = "(Newton) Evening Kansan-Republican"
+date = "1910-07-26"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Great Bend Tribune"
+date = "1911-05-24"
+pages = "2"
+
+[person.name]
+last = "Falkenberg"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+

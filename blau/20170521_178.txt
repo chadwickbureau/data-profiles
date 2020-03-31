@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170521_178"
+
+[[person.meta.citation]]
+title = "Independence Daily Reporter"
+date = "1922-09-09"
+pages = "4"
+
+[person.name]
+last = "Butler"
+use = "Terrell"
+given = "Terrell"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Independence"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+

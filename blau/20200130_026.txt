@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200130_026"
+
+[[person.meta.citation]]
+title = "Fort Wayne Standard"
+date = "1911-06-02"
+pages = "8"
+
+[person.name]
+last = "Smith"
+use = "Walter"
+given = "Walter"
+
+[person.description]
+note = [ "pitched so well manager changed his mind about sending him to Southern Michigan League" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+description.position = "P"
+
+

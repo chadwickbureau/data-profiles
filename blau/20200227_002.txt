@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200227_002"
+
+[[person.meta.citation]]
+title = "Aberdeen Daily News"
+date = "1921-04-24"
+
+[[person.meta.contributor]]
+name.last = "Bohn"
+name.use = "Terry"
+email = "bohn_terry@yahoo.com"
+
+[person.name]
+last = "McGrath"
+use = "Matt"
+given = "Matt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Mitchell"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1920"
+team.name = "Wessington Springs"
+team.league.name = "South Dakota League"
+
+

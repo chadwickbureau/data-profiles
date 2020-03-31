@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "81790"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/81790"
+title = "The Sporting News Player Contract Cards, ScanID: 1035000215"
+
+[person.name]
+last = "Perdue"
+given = "William Thomas"
+
+
+[[person.transaction]]
+date = "1946-07"
+type = "signed"
+join.name = "Danville (VA)"
+note = "Danville (VA) 1946-07"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Danville (VA)"
+join.name = "Oshkosh"
+note = "rel to Oshkosh 1946-07"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Oshkosh"
+note = "rel 1946-07"
+

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170416_070"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1926-06-12"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1926-08-26"
+pages = "11"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Nadolson"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Port Huron"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Topeka"
+team.league.name = "Western Association"
+
+

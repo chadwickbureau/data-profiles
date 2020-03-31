@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170416_084"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1926-01-15"
+pages = "15"
+
+[person.name]
+last = "Wesoloski"
+use = "Tony"
+given = "Tony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Frederick"
+team.league.name = "Blue Ridge League"
+description.throws = "L"
+
+

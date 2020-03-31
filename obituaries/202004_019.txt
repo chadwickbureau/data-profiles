@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202004_019"
+
+[[person.meta.citation]]
+title = "News-Press"
+date = "2020-03-27"
+url = "https://www.legacy.com/obituaries/news-press/obituary.aspx?n=robert-f-borchering-bob&pid=195800347"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-27"
+
+[person.name]
+last = "Borchering"
+use = "Bob"
+given = "Robert F."
+
+[person.birth]
+date = "1931-01-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "2020-03-22"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Myers"
+
+[[person.education]]
+school.name = "University of Cincinnati"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

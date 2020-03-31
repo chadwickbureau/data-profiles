@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170416_081"
+
+[[person.meta.citation]]
+title = "St. Louis Star"
+date = "1912-07-17"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Point Pleasant Register"
+date = "1910-08-10"
+pages = "4"
+
+[person.name]
+last = "Erlewein"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Charleston"
+team.league.name = "Virginia Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Charleston"
+team.league.name = "Mountain States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Charleston"
+team.league.name = "Mountain States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

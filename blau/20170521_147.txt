@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_147"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1912-07-20"
+pages = "23"
+
+[person.name]
+last = "Hollis"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Medicine Hat"
+team.league.name = "Western Canada League"
+description.throws = "L"
+
+

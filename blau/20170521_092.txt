@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_092"
+
+[[person.meta.citation]]
+title = "Ironwood Daily Globe"
+date = "1921-03-31"
+pages = "8"
+
+[person.name]
+last = "Davis"
+given = "D. H."
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "AZ"
+place.city = "Bay"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

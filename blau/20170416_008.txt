@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_008"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1931-04-25"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1932-04-28"
+pages = "6"
+
+[person.name]
+last = "Cooley"
+use = "Chuck"
+given = "Charley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

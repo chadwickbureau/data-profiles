@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "20170521_120"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1914-05-06"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1914-05-04"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1914-06-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1914-10-31"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1914-08-08"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Charleston Daily Mail"
+date = "1915-11-06"
+pages = "6"
+
+[person.name]
+last = "Henges"
+use = "Harry"
+given = "Harry"
+nick = "Stoney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Battle Creek"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Battle Creek"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Kalamazoo"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Toledo"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Frankfort"
+team.league.name = "Ohio State League"
+
+

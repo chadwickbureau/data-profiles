@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "20170416_030"
+
+[[person.meta.citation]]
+title = "Cumberland Sunday Times"
+date = "1932-05-29"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Cumberland Evening Times"
+date = "1932-07-13"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Charleston Daily Mail"
+date = "1932-08-20"
+pages = "6"
+
+[person.name]
+last = "Daviu"
+use = "August"
+given = "August"
+
+[[person.resides]]
+dates = "1932"
+place.country = "PR"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Cumberland"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Cumberland"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+

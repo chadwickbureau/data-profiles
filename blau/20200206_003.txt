@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200206_003"
+
+[[person.meta.citation]]
+title = "Nashville Banner"
+date = "1913-03-17"
+pages = "8"
+
+[person.name]
+last = "McGill"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1913"
+team.name = "Newark"
+team.place.country = "US"
+team.place.state = "NJ"
+team.place.city = "Newark"
+team.caliber = "semipro"
+
+

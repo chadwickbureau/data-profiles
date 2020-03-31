@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170416_094"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1925-04-14"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1925-02-24"
+pages = "13"
+
+[person.name]
+last = "Meuter"
+use = "Allen"
+given = "Allen"
+
+[[person.education]]
+school.name = "St. Mary's"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Reading"
+team.league.name = "International League"
+
+

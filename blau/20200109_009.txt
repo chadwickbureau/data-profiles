@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200109_009"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1915-03-19"
+pages = "9"
+
+[person.name]
+last = "Panella"
+use = "Sap"
+given = "Sap"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Griffin"
+team.league.name = "Georgia-Alabama League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Piedmont League"
+
+

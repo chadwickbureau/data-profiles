@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_035"
+
+[[person.meta.citation]]
+title = "Pfeifer Funeral Home"
+date = "2020-03-23"
+url = "https://www.pfeiferfuneral.com/obituary/Gary-L-Tate"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Tate"
+use = "Gary"
+given = "Gary L."
+
+[person.birth]
+date = "1946-02-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.death]
+date = "2018-08-18"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Lewis Center"
+
+[[person.education]]
+school.name = "Buchtel HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Akron"
+
+[[person.education]]
+school.name = "Kent State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

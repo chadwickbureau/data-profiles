@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "20170521_106"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Haley"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Providence"
+team.league.name = "International League"
+
+

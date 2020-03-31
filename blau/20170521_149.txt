@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_149"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1913-07-15"
+pages = "15"
+
+[person.name]
+last = "Holstrum"
+use = "Dutch"
+given = "Dutch"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Watsonville"
+team.league.name = "California League"
+
+

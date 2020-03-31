@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_046"
+
+[[person.meta.citation]]
+title = "Rose Lynn Fuenral Home"
+date = "2020-03-26"
+url = "https://www.roselynnfuneralhome.com/obituary/lawrence-larry-st-amant"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-26"
+
+[person.name]
+last = "St. Amant"
+use = "Larry"
+given = "Lawrence John"
+
+[person.birth]
+date = "1933-12-01"
+place.country = "US"
+place.state = "LA"
+place.city = "Norco"
+
+[person.death]
+date = "2019-12-02"
+place.country = "US"
+place.state = "LA"
+place.city = "Kenner"
+
+[person.burial]
+cemetery.name = "St. Peter Catholic Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Reserve"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

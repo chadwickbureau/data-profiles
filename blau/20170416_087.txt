@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "20170416_087"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1913-07-31"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1915-02-21"
+pages = "6"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Eiselstein"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200312_008"
+
+[[person.meta.citation]]
+title = "Spring 2020 Baseball Research Journal"
+
+[person.name]
+last = "Culver"
+use = "Charlie"
+given = "Charlie"
+
+[person.death]
+date = "1970-01-04"
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Montreal"
+team.league.name = "Eastern Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1922"
+team.name = "Lincoln Giants"
+
+

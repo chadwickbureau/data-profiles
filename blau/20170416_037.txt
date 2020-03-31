@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170416_037"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1926-03-02"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Brower"
+use = "Edward"
+given = "Edward Etheldred"
+
+[person.birth]
+date = "1902-09-04"
+place.country = "US"
+place.state = "TN"
+place.city = "Lexington"
+
+[[person.education]]
+school.name = "Union"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TN"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Jackson"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+description.bats = "R"
+description.throws = "R"
+description.height = "74"
+description.weight = "185"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Sarasota"
+team.league.name = "Florida State League"
+
+

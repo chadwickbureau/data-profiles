@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200206_010"
+
+[[person.meta.citation]]
+title = "Washington Times"
+date = "1915-02-25"
+pages = "12"
+
+[person.name]
+last = "Snow"
+use = "Graeme"
+given = "Graeme"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Oshkosh"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "International League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "106344"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/106344"
+title = "The Sporting News Player Contract Cards, ScanID: 1044001501"
+
+[person.name]
+last = "Tate"
+given = "Gary Leroy"
+
+
+[[person.transaction]]
+date = "1969-01-16"
+type = "signed"
+join.name = "Geneva"
+note = "Geneva 1969-01-16"
+
+[[person.transaction]]
+date = "1969-04-08"
+type = "released"
+leave.name = "Geneva"
+note = "rel 1969-04-08"
+

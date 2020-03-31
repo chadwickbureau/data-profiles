@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170521_097"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1924-06-21"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1925-02-14"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Kingston Daily Freeman"
+date = "1925-06-24"
+pages = "10"
+
+[person.name]
+last = "Hardgrove"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "145459"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/145459"
+title = "The Sporting News Player Contract Cards, ScanID: 1042003513"
+
+[person.name]
+last = "Spangler"
+given = "Wilbur Milton"
+
+
+[[person.transaction]]
+date = "1947-09-04"
+type = "signed"
+join.name = "Nashua"
+note = "Nashua 1947-09-04"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Nashua"
+
+[[person.transaction]]
+date = "1948-04-01"
+type = "released"
+leave.name = "Nashua"
+note = "rel 1948-04-01"
+

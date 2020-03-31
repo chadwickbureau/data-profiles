@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170416_072"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1926-08-28"
+pages = "16"
+
+[person.name]
+last = "Sykes"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Port Huron"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Muskegon"
+team.league.name = "Michigan State League"
+
+

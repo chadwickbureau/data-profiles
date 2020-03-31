@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_128"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1934-07-06"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Hilcher"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Alexandria"
+team.league.name = "Evangeline League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Beckley"
+team.league.name = "Middle Atlantic League"
+
+

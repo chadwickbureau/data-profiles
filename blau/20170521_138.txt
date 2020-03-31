@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_138"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "1928-07-06"
+pages = "7"
+
+[person.name]
+last = "Hogan"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "West Palm Beach"
+team.league.name = "Florida State League"
+
+

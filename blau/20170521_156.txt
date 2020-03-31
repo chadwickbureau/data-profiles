@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_156"
+
+[[person.meta.citation]]
+title = "Zanesville Signal"
+date = "1934-07-17"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Massillon (OH) Evening Independent"
+date = "1935-05-03"
+pages = "18"
+
+[person.name]
+last = "Huffman"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Monessen"
+team.league.name = "Pennsylvania State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Zanesville"
+team.league.name = "Middle Atlantic League"
+
+

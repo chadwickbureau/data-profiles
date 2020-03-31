@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "20170416_010"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1930-05-29"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1928-05-17"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1928-04-15"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1928-05-17"
+pages = "9"
+
+[person.name]
+last = "Corley"
+use = "Fred"
+given = "Fred E."
+nick = "Sparkplug"
+
+[[person.education]]
+school.name = "Mississippi A&M"
+school.type = "college"
+dates = "/1926"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Knoxville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Knoxville"
+team.league.name = "South Atlantic League"
+description.weight = "210"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

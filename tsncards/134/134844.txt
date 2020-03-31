@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "134844"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134844"
+title = "The Sporting News Player Contract Cards, ScanID: 1031000775"
+
+[person.name]
+last = "Misasi"
+given = "Salvatore"
+nick = "Moose; Big Sal"
+
+[person.description]
+position = "OF-P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "205"
+married = "yes"
+note = [ "Played American Legion ball" ]
+
+[person.birth]
+date = "1934-07-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Glasco"
+
+[[person.resides]]
+place.country = "US"
+place.state = "NY"
+place.city = "Glasco"
+
+
+[[person.transaction]]
+date = "1953-10-15"
+type = "signed"
+join.name = "Hornell"
+note = "Hornell 1953-10-15"
+
+[[person.transaction]]
+date = "1954-02-07"
+type = "restricted"
+leave.name = "Hornell"
+note = "restr list 1954-02-07"
+
+[[person.transaction]]
+date = "1954-07-01"
+type = "reinstated"
+join.name = "Hornell"
+note = "reins 1954-07-01"
+
+[[person.transaction]]
+date = "1954-07-01"
+type = "temporarily-inactive"
+leave.name = "Hornell"
+note = "temp inactive 1954-07-01"
+
+[[person.transaction]]
+date = "1954-07-19"
+type = "reinstated"
+join.name = "Hornell"
+note = "reins 1954-07-19"
+
+[[person.transaction]]
+date = "1954-07-19"
+type = "released"
+leave.name = "Hornell"
+note = "rel 1954-07-19"
+

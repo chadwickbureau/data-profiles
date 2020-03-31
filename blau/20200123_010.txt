@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200123_010"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1905-03-16"
+pages = "10"
+
+[person.name]
+last = "Burnum"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.league.name = "Delta League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.league.name = "Cotton States League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200305_024"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1915-05-27"
+pages = "8"
+
+[person.name]
+last = "Enloe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Taylor"
+team.league.name = "Middle Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Corsicana"
+team.league.name = "Central Texas League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170416_063"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1926-03-20"
+pages = "3"
+
+[person.name]
+last = "Douglas"
+use = "Winchester"
+given = "Winchester"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202004_009"
+
+[[person.meta.citation]]
+title = "Caruth-Hal Funeral Home"
+date = "2020-03-23"
+url = "https://www.caruth-hale.com/obituaries/Clyde-Sug-Wilson?obId=12448083#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Wilson"
+use = "Clyde"
+given = "Clyde"
+nick = "Sug"
+
+[person.birth]
+date = "1929-02-13"
+place.country = "US"
+place.state = "AR"
+place.city = "Hot Springs"
+
+[person.death]
+date = "2020-03-13"
+
+[[person.education]]
+school.name = "Fountain Lake HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Hot Springs"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"
+
+

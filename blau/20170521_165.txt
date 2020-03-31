@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "20170521_165"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1921-11-01"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1920-08-12"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Greenwood (SC) Index-Journal"
+date = "1925-08-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Hamilton (OH) Journal News"
+date = "1924-03-27"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1924-05-15"
+pages = "10"
+
+[person.name]
+last = "Inman"
+use = "Manning"
+given = "Manning"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Sanford"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Abbeville"
+team.league.name = "Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Maysville"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Spartanburg"
+team.league.name = "South Atlantic League"
+
+

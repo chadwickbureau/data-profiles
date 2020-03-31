@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_036"
+
+[[person.meta.citation]]
+title = "Daily News"
+date = "2018-08-09"
+url = "https://www.legacy.com/obituaries/redbluffdailynews/obituary.aspx?n=oliver-a-duval&pid=189856581"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Duval"
+use = "Oliver"
+given = "Oliver A."
+
+[person.birth]
+date = "1925-09-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Desdemona"
+
+[person.death]
+date = "2018-08-03"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Red Bluff"
+
+[[person.education]]
+school.name = "Red Bluff HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Red Bluff"
+
+

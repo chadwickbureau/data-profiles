@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170521_049"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-25"
+pages = "6"
+
+[person.name]
+last = "Branch"
+use = "Lloyd"
+given = "Lloyd"
+nick = "Panther"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TX"
+place.city = "McAdoo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

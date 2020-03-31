@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200109_002"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1913-09-20"
+pages = "6"
+
+[person.name]
+last = "Parker"
+use = "Clarence"
+given = "Clarence P."
+
+[[person.education]]
+school.name = "Somerville High School"
+school.type = "secondary"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Calais-St. Stephen"
+team.league.name = "New Brunswick-Maine League"
+
+
+[[person.transaction]]
+type = "signed"
+join.name = "Chicago"
+join.league.name = "American"
+
+

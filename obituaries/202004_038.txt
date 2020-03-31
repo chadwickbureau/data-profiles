@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_038"
+
+[[person.meta.citation]]
+title = "Newcomb & Collins Funeral Home"
+date = "2020-03-25"
+url = "https://www.newcombcollins.com/obituary/Milford-FoxwellSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-25"
+
+[person.name]
+last = "Foxwell"
+use = "Milford"
+given = "Milford Mace"
+
+[person.birth]
+date = "1931-05-18"
+place.country = "US"
+place.state = "MD"
+place.city = "Cambridge"
+
+[person.death]
+date = "2014-01-19"
+place.country = "US"
+place.state = "MD"
+place.city = "Cambridge"
+
+[[person.education]]
+school.name = "Cambridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Cambridge"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

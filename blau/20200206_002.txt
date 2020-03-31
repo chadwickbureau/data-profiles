@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200206_002"
+
+[[person.meta.citation]]
+title = "Cedar Rapids Gazette"
+date = "1915-06-23"
+pages = "8"
+
+[person.name]
+last = "McGill"
+
+[person.description]
+note = [ "released by Cedar Rapids due to ineligibility, signed by Dubuque" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Cedar Rapids"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

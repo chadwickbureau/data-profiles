@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170416_092"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1922-07-11"
+pages = "26"
+
+[[person.meta.citation]]
+title = "Bend (OR) Bulletin"
+date = "1926-07-30"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1928-02-22"
+pages = "9"
+
+[person.name]
+last = "Elsh"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Chicago"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

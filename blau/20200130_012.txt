@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200130_012"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1915-07-03"
+pages = "4"
+
+[person.name]
+last = "Clark"
+use = "Jeff"
+given = "Jeff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Rockford"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

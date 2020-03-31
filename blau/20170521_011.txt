@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_011"
+
+[[person.meta.citation]]
+title = "Lincoln Journal"
+date = "1930-07-29"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Gradoville"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Lincoln"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "McCook"
+team.league.name = "Nebraska State League"
+
+

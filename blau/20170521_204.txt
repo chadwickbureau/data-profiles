@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170521_204"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1928-04-18"
+pages = "11"
+
+[person.name]
+last = "Gribble"
+use = "Art"
+given = "Art"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+description.throws = "L"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_004"
+
+[[person.meta.citation]]
+title = "Stanly Funeral Home"
+date = "2020-03-22"
+url = "https://stanlyfuneralhome.com/joseph-starrette-ferebee/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Ferebee"
+use = "Joseph"
+given = "Joseph Starrette"
+
+[person.birth]
+date = "1919-02-24"
+place.country = "US"
+place.state = "NC"
+place.city = "Davie County"
+
+[person.death]
+date = "2020-03-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Albermarle"
+
+[[person.education]]
+school.name = "Catawba College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

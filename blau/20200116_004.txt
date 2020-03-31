@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200116_004"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1919-05-28"
+pages = "12"
+
+[person.name]
+last = "Werner"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.bats = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1919"
+team.league.name = "South Atlantic League"
+
+

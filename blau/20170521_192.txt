@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170521_192"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1911-06-20"
+pages = "3"
+
+[person.name]
+last = "Johnson"
+use = "Elmer"
+given = "Elmer"
+nick = "Hickory"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "IN"
+place.city = "Frankfort"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

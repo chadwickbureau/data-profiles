@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "20200130_024"
+
+[[person.meta.citation]]
+title = "Beatrice Daily Express"
+date = "1912-06-21"
+pages = "3"
+
+[person.name]
+last = "Smith"
+use = "Walter"
+given = "Walter"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Beatrice"
+team.league.name = "Missouri-Iowa-Nebraska-Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Superior"
+team.league.name = "Northern League"
+
+
+[[person.transaction]]
+date = "<=1912-06-21"
+type = "acquired"
+join.name = "Superior"
+join.league.name = "Northern"
+leave.name = "Beatrice"
+leave.league.name = "Missouri-Iowa-Nebraska-Kansas"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Hodges"
+
+

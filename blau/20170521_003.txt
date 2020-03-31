@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20170521_003"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1928-12-11"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-07-24"
+pages = "9"
+
+[person.name]
+last = "Guhman"
+use = "Walter"
+given = "Walter J."
+
+[person.birth]
+date = "1910"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Hartford"
+team.league.name = "Eastern League"
+
+

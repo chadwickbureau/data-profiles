@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "20170416_034"
+
+[[person.meta.citation]]
+title = "Sheboygan Press"
+date = "1927-03-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Madison Capital Times"
+date = "1928-04-22"
+pages = "28"
+
+[[person.meta.citation]]
+title = "Davenport Democrat and Leader"
+date = "1929-04-22"
+pages = "7"
+
+[person.name]
+last = "Dempsey"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170521_131"
+
+[[person.meta.citation]]
+title = "Monroe News Star"
+date = "1927-02-10"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Cook"
+given = "J. P."
+nick = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Orlando"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+

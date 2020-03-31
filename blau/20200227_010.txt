@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200227_010"
+
+[[person.meta.citation]]
+title = "New Orleans Times-Democrat"
+date = "1913-04-04"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Stevenson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+
+[[person.transaction]]
+type = "obtained"
+join.name = "New Orleans"
+join.league.name = "Southern Association"
+leave.name = "Philadelphia"
+leave.league.name = "American"
+
+

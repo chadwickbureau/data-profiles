@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_201"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1929-01-04"
+pages = "18"
+
+[person.name]
+last = "Foley"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "New York"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+

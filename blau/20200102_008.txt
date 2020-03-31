@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20200102_008"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1919-05-20"
+pages = "16"
+
+[person.name]
+last = "Kirk"
+use = "Bob"
+given = "Bob"
+
+[person.description]
+note = [ "borrowed from Spencer semi-pro team" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1919"
+team.league.name = "North Carolina State League"
+
+

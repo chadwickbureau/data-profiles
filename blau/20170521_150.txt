@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_150"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1935-05-23"
+pages = "10"
+
+[person.name]
+last = "Horio"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Sioux Falls"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Sacramento"
+team.league.name = "Pacific Coast League"
+
+

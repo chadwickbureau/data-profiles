@@ -16,7 +16,6 @@ date = "2014-09-01"
 
 [person.name]
 last = "Curtis"
-use = "A."
 given = "A. L."
 
 [person.birth]

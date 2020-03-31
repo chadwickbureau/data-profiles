@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170521_191"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1930-05-25"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Ogden (UT) Standard-Examiner"
+date = "1927-08-14"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Salt Lake Telegram"
+date = "1928-01-01"
+pages = "16"
+
+[person.name]
+last = "Jessee"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Salt Lake City"
+team.league.name = "Utah-Idaho League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

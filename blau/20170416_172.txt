@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_172"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1929-02-10"
+pages = "11"
+
+[person.name]
+last = "Boyd"
+use = "Ben"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Canton"
+team.league.name = "Central League"
+
+

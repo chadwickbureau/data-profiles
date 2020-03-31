@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "55667"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/55667"
+title = "The Sporting News Player Contract Cards, ScanID: 1013001019"
+
+[person.name]
+last = "Duval"
+given = "Oliver A."
+
+
+[[person.transaction]]
+date = "1944-04"
+type = "signed"
+join.name = "Sacremento"
+note = "Sacremento 1944-04"
+
+[[person.transaction]]
+date = "1944-05"
+type = "voluntarily-retired"
+leave.name = "Sacremento"
+note = "vol ret 1944-05"
+
+[[person.transaction]]
+date = "1945"
+type = "reserved"
+join.name = "Sacremento"
+
+[[person.transaction]]
+date = "1946"
+type = "reserved"
+join.name = "Sacremento"
+

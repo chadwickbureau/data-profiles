@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_037"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1921-08-15"
+pages = "5"
+
+[person.name]
+last = "McLean"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Chickasha"
+team.league.name = "Western Association"
+
+

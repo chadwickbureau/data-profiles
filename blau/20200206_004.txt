@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200206_004"
+
+[[person.meta.citation]]
+title = "Chicago Inter Ocean"
+date = "1914-04-14"
+pages = "14"
+
+[person.name]
+last = "McGuff"
+use = "Michael"
+given = "Michael"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+description.height = "74"
+
+

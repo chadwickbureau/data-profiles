@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_016"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1923-04-24"
+pages = "8"
+
+[person.name]
+last = "Jackson"
+use = "Jery"
+given = "Jery"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Asheville"
+team.league.name = "Western Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+

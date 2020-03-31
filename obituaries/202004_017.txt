@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202004_017"
+
+[[person.meta.citation]]
+title = "Daley Funeral Home"
+date = "2020-03-26"
+url = "http://www.lifecelebrationstudio.com/celebration/irving-l-sharp/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-26"
+
+[person.name]
+last = "Sharp"
+use = "Irv"
+given = "Irving L."
+
+[person.death]
+date = "2020-03-19"
+place.country = "US"
+place.state = "NJ"
+place.city = "Mickleton"
+
+[[person.education]]
+school.name = "Swedesboro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Swedesboro"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

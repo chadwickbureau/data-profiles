@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_169"
+
+[[person.meta.citation]]
+title = "Hamilton (OH) Daily News"
+date = "1924-04-11"
+pages = "8"
+
+[person.name]
+last = "Gerald"
+use = "Les"
+given = "Les"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Saginaw"
+team.league.name = "Michigan-Ontario League"
+
+

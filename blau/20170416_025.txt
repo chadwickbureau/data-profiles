@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_025"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1928-09-08"
+pages = "47"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1928-09-07"
+pages = "25"
+
+[person.name]
+last = "Cunningham"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Rochester"
+team.league.name = "International League"
+
+

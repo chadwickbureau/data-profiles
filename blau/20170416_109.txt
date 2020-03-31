@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_109"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1923-09-07"
+pages = "16"
+
+[person.name]
+last = "Handley"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

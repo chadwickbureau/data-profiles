@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170521_076"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-03-29"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Topeka Daily Capital"
+date = "1922-03-26"
+pages = "15"
+
+[person.name]
+last = "Hahn"
+use = "Joe"
+given = "Joe"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Miami"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Topeka"
+team.league.name = "Southwestern League"
+
+

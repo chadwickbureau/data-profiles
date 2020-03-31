@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200130_025"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1911-02-26"
+pages = "36"
+
+[person.name]
+last = "Smith"
+use = "Walter"
+given = "Walter Willard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Detroit"
+team.league.name = "American League"
+description.height = "76"
+
+

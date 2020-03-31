@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "202004_018"
+
+[[person.meta.citation]]
+title = "J. T. Fisher Funeral Home"
+date = "2020-03-27"
+url = "https://www.jtfisherfuneralservices.com/obituaries/Dr-Jack-B-Gaines-Sr/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-27"
+
+[person.name]
+last = "Gaines"
+use = "Jack"
+given = "Jack B."
+suffix = "Sr."
+
+[person.birth]
+date = "1945-01-27"
+
+[person.death]
+date = "2020-03-23"
+

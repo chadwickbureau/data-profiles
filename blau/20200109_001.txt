@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20200109_001"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1915-07-15"
+pages = "8"
+
+[person.name]
+last = "Gentle"
+
+[person.description]
+note = [ "umpire used as pinch-hitter in last inning of last game of season" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Anniston"
+team.league.name = "Georgia-Alabama League"
+
+

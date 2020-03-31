@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200130_027"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1911-08-04"
+pages = "10"
+
+[person.name]
+last = "Smith"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "Detroit"
+team.league.name = "American League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_078"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-03-29"
+pages = "10"
+
+[person.name]
+last = "Johnson"
+given = "W. E."
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "MO"
+place.city = "Sheldon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Miami"
+team.league.name = "Southwestern League"
+
+

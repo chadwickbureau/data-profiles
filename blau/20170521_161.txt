@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_161"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1928-06-30"
+pages = "11"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Hunter"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Spartanburg"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+
+

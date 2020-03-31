@@ -1,0 +1,72 @@
+[[person]]
+
+[person.meta]
+key = "20170521_162"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-09-03"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1925-06-03"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1926-09-08"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1925-05-15"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1927-09-02"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1928-07-07"
+pages = "11"
+
+[person.name]
+last = "Hurst"
+use = "Bobby"
+given = "Bobby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Idaho Falls"
+team.league.name = "Utah-Idaho League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Twin Falls"
+team.league.name = "Utah-Idaho League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Oakland"
+team.league.name = "California State League"
+
+

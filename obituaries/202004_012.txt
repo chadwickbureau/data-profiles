@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202004_012"
+
+[[person.meta.citation]]
+title = "Heafey & Heafey Funeral Home"
+date = "2020-03-23"
+url = "https://heafeyheafey.com/robert-e-decker-sr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Decker"
+use = "Robert"
+given = "Robert E."
+suffix = "Sr."
+
+[person.birth]
+date = "1932-08-23"
+
+[person.death]
+date = "2020-03-15"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Omaha"
+

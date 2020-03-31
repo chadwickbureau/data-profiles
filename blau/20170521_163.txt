@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170521_163"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-04"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1925-09-10"
+pages = "3"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1926-05-05"
+pages = "16"
+
+[person.name]
+last = "Hurst"
+use = "Don"
+given = "Don"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Paris"
+team.league.name = "Blue Grass League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Syracuse"
+team.league.name = "International League"
+
+

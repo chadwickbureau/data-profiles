@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_064"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1913-08-19"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1914-07-12"
+pages = "18"
+
+[person.name]
+last = "Doyle"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Minneapolis"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Fargo-Moorhead"
+team.league.name = "Northern League"
+
+

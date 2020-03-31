@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170521_073"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1912-03-24"
+pages = "2"
+
+[person.name]
+last = "Wilbur"
+use = "Emery"
+given = "Emery"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.bats = "R"
+description.throws = "R"
+description.height = "71"
+description.weight = "170"
+
+

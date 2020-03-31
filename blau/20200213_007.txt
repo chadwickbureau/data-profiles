@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "20200213_007"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1914-06-27"
+pages = "14"
+
+[person.name]
+last = "Ransome"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Bradford"
+team.league.name = "Interstate League"
+
+
+[[person.transaction]]
+date = "<1914-06-27"
+type = "obtained"
+join.name = "Hornell"
+join.league.name = "Interstate"
+leave.name = "Hamilton"
+leave.league.name = "Canadian League"
+
+[[person.transaction]]
+date = "<=1914-06-27"
+type = "obtained"
+join.name = "Bradford"
+join.league.name = "Interstate"
+leave.name = "Hornell"
+leave.league.name = "Interstate"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Dunkel"
+
+

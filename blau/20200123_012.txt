@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200123_012"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1909-04-30"
+pages = "5"
+
+[person.name]
+last = "Burnum"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "P"
+
+

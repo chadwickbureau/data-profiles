@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_047"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[person.name]
+last = "Poolaw"
+use = "Moses"
+given = "Moses"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

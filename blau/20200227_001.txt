@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200227_001"
+
+[[person.meta.citation]]
+title = "St. Joseph News-Press"
+date = "1924-09-12"
+pages = "22"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Lewan"
+use = "Stanley"
+given = "Stanley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

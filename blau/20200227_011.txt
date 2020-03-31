@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200227_011"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1914-07-17"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Stevenson"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "MN"
+place.city = "Albert Lea"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "OF"
+
+

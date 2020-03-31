@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_089"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1926-08-01"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Fort Meyers News-Press"
+date = "1926-09-08"
+pages = "8"
+
+[person.name]
+last = "Ellam"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Lakeland"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Lakeland"
+team.league.name = "Florida State League"
+
+

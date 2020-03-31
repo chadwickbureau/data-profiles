@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170416_014"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1913-07-28"
+pages = "8"
+
+[person.name]
+last = "Johnson"
+use = "Leslie"
+given = "Leslie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

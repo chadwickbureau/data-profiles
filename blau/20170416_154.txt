@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170416_154"
+
+[[person.meta.citation]]
+title = "Bridgewater (NJ) Courier-News"
+date = "1934-06-14"
+pages = "21"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1934-09-02"
+pages = "9"
+
+[person.name]
+last = "Gamble"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Jeannette"
+team.league.name = "Pennsylvania State Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Beckley"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Cincinnati"
+team.league.name = "National League"
+
+

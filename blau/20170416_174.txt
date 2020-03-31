@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170416_174"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1929-02-10"
+pages = "11"
+
+[person.name]
+last = "Perkins"
+given = "H. C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Canton"
+team.league.name = "Central League"
+
+

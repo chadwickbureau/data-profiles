@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20200213_006"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1914-06-17"
+pages = "2"
+
+[person.name]
+last = "Sheridan"
+
+[[person.education]]
+school.name = "Niagara University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

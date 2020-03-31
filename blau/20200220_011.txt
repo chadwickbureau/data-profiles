@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200220_011"
+
+[[person.meta.citation]]
+title = "Warren Evening Mirror"
+date = "1916-03-09"
+pages = "3"
+
+[person.name]
+last = "Kelley"
+use = "Speed"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "St. Marys"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Youngstown"
+team.league.name = "Central League"
+
+

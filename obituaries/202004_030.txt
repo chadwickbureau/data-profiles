@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_030"
+
+[[person.meta.citation]]
+title = "Corvallis Gazette-Times"
+date = "1985-10-05"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Bergstrom"
+use = "Robert"
+given = "Robert William"
+
+[person.birth]
+date = "1914-02-12"
+place.country = "US"
+place.state = "OR"
+place.city = "Astoria"
+
+[person.death]
+date = "1985-10-03"
+place.country = "US"
+place.state = "OR"
+place.city = "Corvallis"
+
+[[person.education]]
+school.name = "Astoria HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Astoria"
+
+[[person.education]]
+school.name = "Oregon State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

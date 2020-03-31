@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200312_005"
+
+[[person.meta.citation]]
+title = "Minneapolis Morning Tribune"
+date = "1910-04-28"
+pages = "12"
+
+[person.name]
+last = "Oyler"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+

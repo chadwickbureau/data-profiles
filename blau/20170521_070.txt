@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_070"
+
+[[person.meta.citation]]
+title = "Burlington Gazette"
+date = "1925-02-26"
+pages = "18"
+
+[person.name]
+last = "Mattick"
+use = "Walter"
+given = "Walter J."
+nick = "Chick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+

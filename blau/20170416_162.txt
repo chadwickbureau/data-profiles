@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170416_162"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1935-05-14"
+pages = "22"
+
+[person.name]
+last = "Ransdell"
+use = "Bud"
+given = "Bud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Akron"
+team.league.name = "Middle Atlantic League"
+description.throws = "R"
+description.height = "72"
+description.weight = "185"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170521_193"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-07-05"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1926-06-26"
+pages = "9"
+
+[person.name]
+last = "Johnson"
+use = "Harold"
+given = "Harold"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Lincoln"
+team.league.name = "Western League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Burlington"
+team.league.name = "Mississippi Valley League"
+
+

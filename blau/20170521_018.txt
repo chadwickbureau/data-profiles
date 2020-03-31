@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "20170521_018"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-12-18"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-04-21"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-13"
+pages = "26"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1925-05-20"
+pages = "16"
+
+[person.name]
+last = "Gray"
+use = "Elmer"
+given = "Elmer"
+nick = "Dolly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Shawnee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

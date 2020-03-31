@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "20170416_099"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1926-04-01"
+
+[person.name]
+last = "Richards"
+use = "Allen"
+given = "John Allen"
+
+[[person.alias]]
+name.last = "Rich"
+name.use = "Kid"
+name.given = "Kid"
+type = "alias"
+dates = "1925/1925"
+
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "PA"
+place.city = "Robensonia"
+
+
+[[person.education]]
+school.name = "Lebanon Valley"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+

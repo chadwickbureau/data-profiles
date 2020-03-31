@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170521_158"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1937-03-04"
+pages = "8"
+
+[person.name]
+last = "Montgomery"
+use = "Milton"
+given = "Milton"
+
+[person.death]
+date = "1937-02-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[[person.education]]
+school.name = "University of Pittsburgh"
+school.type = "college"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Youngstown"
+team.league.name = "Ohio-Pennsylvania League"
+
+

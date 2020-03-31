@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170521_071"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1930-04-20"
+pages = "28"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1930-07-19"
+pages = "10"
+
+[person.name]
+last = "Gross"
+use = "Jay"
+given = "Jay"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "SC"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+

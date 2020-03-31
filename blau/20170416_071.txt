@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170416_071"
+
+[[person.meta.citation]]
+title = "Athens Messenger"
+date = "1925-03-15"
+pages = "9"
+
+[person.name]
+last = "Duckworth"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1925"
+place.country = "US"
+place.state = "WV"
+place.city = "Syracuse"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Hamilton"
+team.league.name = "Michigan-Ontario League"
+
+

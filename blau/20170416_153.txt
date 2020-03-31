@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170416_153"
+
+[[person.meta.citation]]
+title = "Austin Statesman"
+date = "1899-04-02"
+
+[person.name]
+last = "Mobley"
+use = "Lem"
+given = "Lem"
+
+[[person.resides]]
+dates = "1899"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1899"
+team.name = "Austin"
+team.league.name = "Texas League"
+
+

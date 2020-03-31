@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200123_006"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1912-04-27"
+pages = "21"
+
+[person.name]
+last = "Jensen"
+use = "Willie"
+given = "Willie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Fall River"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "New Haven"
+team.league.name = "Connecticut State League"
+
+

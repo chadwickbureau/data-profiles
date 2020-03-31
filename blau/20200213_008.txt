@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200213_008"
+
+[[person.meta.citation]]
+title = "Buffalo Courier"
+date = "1915-07-04"
+pages = "66"
+
+[person.name]
+last = "Reichart"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Hornell"
+team.league.name = "Interstate League"
+
+

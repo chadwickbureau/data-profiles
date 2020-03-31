@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200206_005"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1915-06-11"
+pages = "18"
+
+[person.name]
+last = "Thomas"
+use = "Turkey"
+given = "Turkey"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

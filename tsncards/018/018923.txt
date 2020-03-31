@@ -1,0 +1,131 @@
+[[person]]
+
+[person.meta]
+key = "18923"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18923"
+title = "The Sporting News Player Contract Cards, ScanID: 1025011597"
+
+[person.name]
+last = "Bergstrom"
+given = "Robert"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "162"
+
+[person.birth]
+date = "1930-04-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Natrona"
+
+[[person.resides]]
+place.address = "2335 Adams Street"
+place.country = "US"
+place.state = "PA"
+place.city = "Natrona Heights"
+
+
+[[person.transaction]]
+date = "1948-08-28"
+type = "signed"
+join.name = "Butler"
+note = "Butler 1948-08-28"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Butler"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1948-12-29"
+type = "released"
+leave.name = "Butler"
+join.name = "Twin Falls"
+note = "rel to Twin Falls 1948-12-29"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Twin Falls"
+
+[[person.transaction]]
+date = "1949-04-25"
+type = "optioned"
+leave.name = "Twin Falls"
+join.name = "Amsterdam"
+note = "opt to Amsterdam 1949-04-25"
+
+[[person.transaction]]
+date = "1949-05-17"
+type = "option-returned"
+leave.name = "Amsterdam"
+join.name = "Twin Falls"
+note = "opt ret to Twin Falls 1949-05-17"
+
+[[person.transaction]]
+date = "1949-05-17"
+type = "optioned"
+leave.name = "Twin Falls"
+join.name = "Roanoke Rapids"
+note = "opt to Roanoke Rapids 1949-05-17"
+
+[[person.transaction]]
+date = "1949-09-14"
+type = "recalled"
+leave.name = "Roanoke Rapids"
+join.name = "Twin Falls"
+note = "opt rec to Twin Falls 1949-09-14"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Twin Falls"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1949-12-12"
+type = "released"
+leave.name = "Twin Falls"
+join.name = "Amsterdam"
+note = "rel to Amsterdam 1949-12-12"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Amsterdam"
+
+[[person.transaction]]
+date = "1950-05-05"
+type = "ineligible"
+leave.name = "Amsterdam"
+note = "ineligible list 1950-05-05"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Amsterdam"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Amsterdam"
+
+[[person.transaction]]
+date = "1951-12-14"
+type = "released"
+leave.name = "Amsterdam"
+join.name = "Norfolk"
+note = "rel to Norfolk 1951-12-14"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Norfolk"
+

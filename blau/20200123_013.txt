@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "20200123_013"
+
+[[person.meta.citation]]
+title = "Des Moines Tribune"
+date = "1909-09-02"
+pages = "6"
+
+[person.name]
+last = "Burnum"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "<=1909-09-02"
+type = "purchased"
+join.name = "Des Moines"
+join.league.name = "Western"
+leave.name = "Topeka"
+leave.league.name = "Western"
+
+

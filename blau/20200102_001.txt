@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200102_001"
+
+[[person.meta.citation]]
+title = "Thomasville Daily Times Enterprise"
+date = "1915-04-29"
+pages = "5"
+
+[person.name]
+last = "Mosely"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Americus"
+team.league.name = "Florida-Alabama-Georgia League"
+description.position = "P"
+description.throws = "L"
+
+

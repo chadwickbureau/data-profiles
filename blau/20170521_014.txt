@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20170521_014"
+
+[[person.meta.citation]]
+title = "Waco Tribune-Herald"
+date = "1933-04-20"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Evans"
+use = "Ernest"
+given = "Ernest"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Muskogee/Hutchinson"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

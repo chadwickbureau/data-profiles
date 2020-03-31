@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "147050"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/147050"
+title = "The Sporting News Player Contract Cards, ScanID: 1030001235"
+
+[person.name]
+last = "Measell"
+given = "George Samuel"
+
+
+[[person.transaction]]
+date = "1951-03-26"
+type = "signed"
+join.name = "Newton-Conover"
+note = "Newton-Conover 1951-03-26"
+
+[[person.transaction]]
+date = "1951-05-04"
+type = "released"
+leave.name = "Newton-Conover"
+note = "rel 1951-05-04"
+

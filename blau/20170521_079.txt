@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_079"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1921-02-13"
+pages = "4"
+
+[person.name]
+last = "Jones"
+use = "Percy"
+given = "Percy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Eastland"
+team.league.name = "West Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Chicago"
+team.league.name = "National League"
+
+

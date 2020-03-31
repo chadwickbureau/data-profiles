@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170416_006"
+
+[person.name]
+last = "Shipe"
+use = "Ross"
+given = "Ross"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Sherman"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.throws = "L"
+
+

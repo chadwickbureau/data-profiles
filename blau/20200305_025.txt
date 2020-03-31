@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200305_025"
+
+[[person.meta.citation]]
+title = "Waco Morning News"
+date = "1915-03-01"
+pages = "2"
+
+[person.name]
+last = "Angel"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Temple"
+team.league.name = "Middle Texas League"
+
+

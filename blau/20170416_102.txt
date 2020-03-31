@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170416_102"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1926-07-20"
+pages = "4"
+
+[person.name]
+last = "Fagan"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "PA"
+place.city = "Altoona"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Scottdale"
+team.league.name = "Middle Atlantic League"
+
+

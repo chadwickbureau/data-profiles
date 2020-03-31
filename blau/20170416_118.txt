@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170416_118"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1935-03-25"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1936-05-02"
+pages = "8"
+
+[person.name]
+last = "Flippen"
+use = "Conrad"
+given = "Conrad"
+
+[[person.resides]]
+dates = "1935"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Alexandria"
+team.league.name = "Evangeline League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Alexandria"
+team.league.name = "Evangeline League"
+
+

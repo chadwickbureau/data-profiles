@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "20200123_007"
+
+[[person.meta.citation]]
+title = "Dubuque Telegraph Herald"
+date = "1915-04-11"
+pages = "25"
+
+[person.name]
+last = "Farrell"
+use = "Red"
+given = "Frank"
+
+[person.description]
+note = [ "out of organized baseball in 1914" ]
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Altoona"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

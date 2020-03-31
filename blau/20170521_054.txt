@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "20170521_054"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-04-24"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-03-23"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1923-07-25"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Jackson (MS) Daily News"
+date = "1922-01-10"
+pages = "13"
+
+[person.name]
+last = "Griffin"
+use = "George"
+given = "George"
+nick = "Skin"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

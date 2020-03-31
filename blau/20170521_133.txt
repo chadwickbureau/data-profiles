@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170521_133"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1923-07-24"
+pages = "8"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Hogan"
+use = "Kenny"
+given = "Kenneth"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Hastings"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200227_009"
+
+[[person.meta.citation]]
+title = "Moline Dispatch"
+date = "1928-05-05"
+pages = "21"
+
+[[person.meta.contributor]]
+name.last = "Blau"
+name.use = "Cliff"
+email = "cliff@cliffblau.com"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Burlington"
+team.league.name = "Mississippi Valley League"
+
+

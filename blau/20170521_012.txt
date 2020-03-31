@@ -1,0 +1,108 @@
+[[person]]
+
+[person.meta]
+key = "20170521_012"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1922-01-31"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1921-04-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1921-07-17"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle"
+date = "1920-07-14"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1920-03-18"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1924-04-21"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1924-08-22"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-07-28"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1925-04-30"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Washuta"
+name.use = "Ed"
+
+[person.name]
+last = "Graham"
+use = "Tiny"
+given = "Tiny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "New Haven"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waterbury"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

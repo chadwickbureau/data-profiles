@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_203"
+
+[[person.meta.citation]]
+title = "(Phoenix) Arizona Daily Star"
+date = "1928-09-04"
+pages = "4"
+
+[person.name]
+last = "Cohen"
+use = "Sid"
+given = "Sid"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Bisbee"
+team.league.name = "Arizona State League"
+
+

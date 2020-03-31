@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200116_001"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1916-08-22"
+pages = "8"
+
+[person.name]
+last = "Pope"
+use = "Bill"
+given = "Bill"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+
+

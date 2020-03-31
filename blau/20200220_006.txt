@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200220_006"
+
+[[person.meta.citation]]
+title = "Warren Evening Times"
+date = "1915-05-21"
+pages = "7"
+
+[person.name]
+last = "Wright"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Warren"
+team.league.name = "Interstate League"
+
+

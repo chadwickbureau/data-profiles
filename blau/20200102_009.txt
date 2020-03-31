@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200102_009"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1920-09-01"
+pages = "8"
+
+[person.name]
+last = "Kirke"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+place.country = "US"
+place.state = "NC"
+place.city = "China Grove"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+description.throws = "R"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170521_159"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1924-08-07"
+pages = "7"
+
+[person.name]
+last = "Humphreys"
+use = "Chink"
+given = "Chink"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170521_062"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1923-03-04"
+pages = "3"
+
+[person.name]
+last = "Nemitz"
+use = "Clarence"
+given = "Clarence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.throws = "L"
+
+

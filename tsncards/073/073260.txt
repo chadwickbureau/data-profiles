@@ -1,0 +1,68 @@
+[[person]]
+
+[person.meta]
+key = "73260"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/73260"
+title = "The Sporting News Player Contract Cards, ScanID: 1017005515"
+
+[person.name]
+last = "Greene"
+given = "Robert N."
+
+
+[[person.transaction]]
+date = "1948-06-17"
+type = "signed"
+join.name = "Clarksville"
+note = "Clarksville 1948-06-17"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Clarksville"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-05-26"
+type = "disabled"
+leave.name = "Clarksville"
+note = "disabled list 1949-05-26"
+
+[[person.transaction]]
+date = "1949-06-07"
+type = "reinstated"
+join.name = "Clarksville"
+note = "rein 1949-06-07"
+
+[[person.transaction]]
+date = "1949-08-01"
+type = "temporarily-inactive"
+leave.name = "Clarksville"
+note = "inactive list 1949-08-01"
+
+[[person.transaction]]
+date = "1949-09-04"
+type = "reinstated"
+join.name = "Clarksville"
+note = "rein 1949-09-04"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Clarksville"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-04-01"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1950-04-01"
+
+[[person.transaction]]
+date = "1950-04-08"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1950-04-08"
+

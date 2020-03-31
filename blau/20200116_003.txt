@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200116_003"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1919-05-25"
+pages = "43"
+
+[person.name]
+last = "Werner"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1919"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+

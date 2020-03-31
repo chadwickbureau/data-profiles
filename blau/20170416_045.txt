@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170416_045"
+
+[[person.meta.citation]]
+title = "Delta Democrat-Times"
+date = "1940-04-02"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Delta Democrat-Times"
+date = "1941-03-19"
+pages = "6"
+
+[person.name]
+last = "Didier"
+use = "Bob"
+given = "Bob"
+
+[[person.education]]
+school.name = "Louisiana State"
+school.type = "college"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1940"
+team.name = "Greenville"
+team.league.name = "Cotton States League"
+
+

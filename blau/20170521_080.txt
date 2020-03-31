@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170521_080"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1923-04-28"
+pages = "11"
+
+[person.name]
+last = "Anderson"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Waterbury"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Waterbury"
+team.league.name = "Eastern League"
+
+
