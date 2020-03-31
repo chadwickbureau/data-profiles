@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_029"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Roach"
+use = "John"
+given = "John F."
+
+[person.description]
+bats = "R"
+mlb_played = "1887/"
+

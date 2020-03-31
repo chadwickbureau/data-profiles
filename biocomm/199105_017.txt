@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "199105_017"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Ketter"
+use = "Philip"
+given = "Philip"
+
+[person.birth]
+date = "1883-04"
+place.country = "US"
+place.state = "MO"
+
+[person.death]
+date = "1964-04-09"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.description]
+mlb_played = "1912/"
+
+[[person.alias]]
+name.last = "Ketterer"
+name.use = "Philip"
+name.given = "Philip"
+type = "legal"
+
+

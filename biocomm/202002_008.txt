@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_008"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Chervinko"
+use = "Paul"
+given = "Paul"
+
+[person.burial]
+cemetery.name = "Santa Barbara Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Witt"
+
+[person.description]
+mlb_played = "1937/"
+

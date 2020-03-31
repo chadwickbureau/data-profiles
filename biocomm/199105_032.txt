@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_032"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Sommers"
+use = "Joseph"
+given = "Joseph Andrews"
+
+[person.description]
+throws = "R"
+mlb_played = "1887/"
+

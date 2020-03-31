@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199110_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Dugdale"
+use = "Daniel"
+given = "Daniel Edward"
+
+[person.description]
+height = "68"
+weight = "180"
+mlb_played = "1886/"
+

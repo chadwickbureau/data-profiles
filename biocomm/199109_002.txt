@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199109_002"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Adams"
+use = "George"
+given = "George"
+
+[person.description]
+weight = "185"
+mlb_played = "1879/"
+

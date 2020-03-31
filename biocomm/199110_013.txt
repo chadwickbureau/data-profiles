@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199110_013"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Coombs"
+use = "Raymond"
+given = "Raymond Franklin"
+
+[person.death]
+date = "1991-10-21"
+place.country = "US"
+place.state = "ME"
+place.city = "Ogunquit"
+
+[person.description]
+mlb_played = "1933/"
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199110_007"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Cameron"
+use = "John"
+given = "John S."
+
+[person.birth]
+date = "1884-09"
+place.country = "CA"
+place.state = "NS"
+
+[person.description]
+mlb_played = "1906/"
+

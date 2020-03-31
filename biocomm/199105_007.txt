@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "199105_007"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Flaherty"
+use = "Martin"
+given = "Martin J."
+
+[person.birth]
+date = "1853-09-24"
+
+[person.death]
+date = "1920-06-10"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.description]
+mlb_played = "1881/"
+

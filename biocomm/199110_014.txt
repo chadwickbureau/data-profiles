@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199110_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Donnelly"
+use = "Franklin"
+given = "Franklin Marion"
+
+[person.description]
+height = "66"
+mlb_played = "1893/"
+

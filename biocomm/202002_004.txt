@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_004"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Bell"
+use = "Ralph"
+given = "Ralph Albert"
+
+[person.birth]
+date = "1890-11-16"
+place.country = "US"
+place.state = "IA"
+place.city = "Argyle"
+
+[person.description]
+mlb_played = "1912/"
+

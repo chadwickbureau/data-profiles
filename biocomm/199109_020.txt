@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "199109_020"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Smith"
+
+[person.description]
+mlb_played = "1884-06-05/"
+

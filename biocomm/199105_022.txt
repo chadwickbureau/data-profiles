@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "199105_022"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "McGuckin"
+use = "Joseph"
+given = "Joseph W."
+
+[person.birth]
+date = "1862-03-13"
+
+[person.description]
+mlb_played = "1890/"
+

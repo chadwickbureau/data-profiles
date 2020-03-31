@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199105_028"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Price"
+use = "James"
+given = "James L."
+
+[person.death]
+date = "1931-10-06"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.description]
+mlb_managed = "1884/"
+

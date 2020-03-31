@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "199109_004"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Bigler"
+use = "Ivan"
+given = "Ivan Edward"
+
+[person.birth]
+date = "1892-12-13"
+place.country = "US"
+place.state = "OH"
+place.city = "Bradford"
+
+[person.death]
+date = "1975-04-01"
+place.country = "US"
+place.state = "MI"
+place.city = "Coldwater"
+
+[person.description]
+mlb_played = "1917-05-06/"
+

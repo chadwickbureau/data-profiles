@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199105_006"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Donoso"
+use = "Lino"
+given = "Lino"
+matrilineal = "y Galeta"
+
+[person.death]
+date = "1990-10-13"
+place.country = "MX"
+place.city = "Veracruz"
+
+[person.description]
+mlb_played = "1955/"
+

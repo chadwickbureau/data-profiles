@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "199105_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Jones"
+use = "Kenneth"
+given = "Kenneth Frederick"
+
+[person.birth]
+date = "1903-04-13"
+
+[person.death]
+date = "1991-05-15"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.description]
+mlb_played = "1924/"
+

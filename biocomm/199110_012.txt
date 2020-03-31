@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199110_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Cooley"
+use = "Duff"
+given = "Duff Gordan"
+
+[person.description]
+height = "71"
+weight = "158"
+mlb_played = "1893/"
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "199109_011"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Liese"
+use = "Frederick"
+given = "Frederick Richard"
+
+[person.description]
+bats = "L"
+height = "68"
+weight = "150"
+mlb_played = "1910/"
+

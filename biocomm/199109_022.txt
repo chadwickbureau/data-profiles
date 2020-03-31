@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "199109_022"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Wheeler"
+use = "Edward"
+given = "Edward Raymond"
+
+[person.birth]
+date = "1915-05-24"
+
+[person.description]
+mlb_played = "1945/"
+

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_009"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Gamble"
+use = "Robert"
+given = "Robert J."
+
+[person.description]
+throws = "R"
+mlb_played = "1888/"
+

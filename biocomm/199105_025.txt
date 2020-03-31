@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_025"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Orr"
+use = "David"
+given = "David L."
+
+[person.description]
+bats = "R"
+mlb_played = "1883/"
+

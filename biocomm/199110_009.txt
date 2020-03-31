@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199110_009"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Christopher"
+use = "Lloyd"
+given = "Lloyd Eugene"
+
+[person.death]
+date = "1991-09-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Richmond"
+
+[person.description]
+mlb_played = "1945/"
+

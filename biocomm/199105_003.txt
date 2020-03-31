@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_003"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Boyle"
+use = "John"
+given = "John Anthony"
+
+[person.description]
+bats = "R"
+mlb_played = "1886/"
+

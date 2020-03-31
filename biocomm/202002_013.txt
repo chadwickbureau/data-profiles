@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202002_013"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Elvira"
+use = "Narciso"
+given = "Narciso Chicho"
+matrilineal = "Delgado"
+
+[person.death]
+date = "2020-01-28"
+place.country = "MX"
+place.state = "Veracruz"
+place.city = "Paso del Toro"
+
+[person.burial]
+cemetery.name = "Panteon Municipal"
+cemetery.place.country = "MX"
+cemetery.place.state = "Veracruz"
+cemetery.place.city = "Tlalixcoyan"
+
+[person.description]
+mlb_played = "1990/"
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "202002_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Gilroy"
+use = "John"
+given = "John N."
+
+[person.birth]
+date = "1875-10-26"
+
+[person.description]
+mlb_played = "1895/"
+

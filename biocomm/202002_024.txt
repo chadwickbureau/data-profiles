@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "202002_024"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Monroe"
+use = "Frank"
+given = "Frank C."
+
+[person.description]
+mlb_played = "1884/"
+

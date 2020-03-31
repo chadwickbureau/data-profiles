@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199105_013"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Hickey"
+use = "John"
+given = "John William"
+
+[person.description]
+height = "70"
+weight = "170"
+mlb_played = "1904/"
+

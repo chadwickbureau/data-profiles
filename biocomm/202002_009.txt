@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_009"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Coan"
+use = "Gilbert"
+given = "Gilbert Fitzgerald"
+
+[person.death]
+date = "2020-02-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Hendersonville"
+
+[person.description]
+mlb_played = "1946/"
+

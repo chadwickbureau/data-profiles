@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199110_003"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Barrett"
+use = "Martin"
+given = "Martin F."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Port Henry"
+
+[person.description]
+mlb_played = "1884/"
+

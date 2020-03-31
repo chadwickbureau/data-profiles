@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199105_005"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Cullenbine"
+use = "Roy"
+given = "Roy Joseph"
+
+[person.death]
+date = "1991-05-28"
+place.country = "US"
+place.state = "MI"
+place.city = "Mt. Clemens"
+
+[person.description]
+mlb_played = "1938/"
+

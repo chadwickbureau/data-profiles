@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199109_016"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Neill"
+use = "Thomas"
+given = "Thomas White"
+
+[person.death]
+date = "1980-09-22"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+mlb_played = "1946/"
+

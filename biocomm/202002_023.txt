@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "202002_023"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Meyer"
+use = "Lee"
+given = "Lee"
+
+[person.description]
+bats = "L"
+mlb_played = "1909/"
+

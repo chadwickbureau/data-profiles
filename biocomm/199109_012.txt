@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199109_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Mack"
+use = "Cornelius"
+given = "Cornelius Alexander"
+
+[person.death]
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.description]
+mlb_played = "1886/"
+

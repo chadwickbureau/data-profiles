@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199109_021"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Snyder"
+use = "Charles"
+given = "Charles"
+
+[person.description]
+bats = "R"
+mlb_played = "1890/"
+

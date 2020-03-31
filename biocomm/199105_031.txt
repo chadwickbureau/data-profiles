@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199105_031"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Sanders"
+use = "Roy"
+given = "Roy L."
+
+[person.birth]
+date = "1895-06"
+place.country = "US"
+place.state = "MO"
+
+[person.description]
+mlb_played = "1918/"
+

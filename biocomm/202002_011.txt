@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_011"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Coughlin"
+use = "Edward"
+given = "Edward E."
+
+[person.burial]
+cemetery.name = "Moun5 St. Benedict Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Bloomfield"
+
+[person.description]
+mlb_played = "1884/"
+

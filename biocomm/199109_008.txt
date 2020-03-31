@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199109_008"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Duke"
+use = "Martin"
+given = "Martin F."
+
+[person.birth]
+date = "1867"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.description]
+mlb_played = "1891/"
+

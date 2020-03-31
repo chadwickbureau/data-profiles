@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "199105_001"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Allen"
+use = "Robert"
+given = "Robert"
+
+[person.birth]
+date = "1894-10-13"
+
+[person.description]
+mlb_played = "1919/"
+

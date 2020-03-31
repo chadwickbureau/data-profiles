@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199105_023"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "McVey"
+use = "George"
+given = "George W."
+
+[person.description]
+bats = "R"
+throws = "R"
+mlb_played = "1885/"
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202002_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Fernandez"
+use = "Octavio"
+given = "Octavio Antonio"
+matrilineal = "Castro"
+
+[person.death]
+date = "2020-02-16"
+place.country = "US"
+place.state = "FL"
+place.city = "Weston"
+
+[person.burial]
+cemetery.name = "Cementerio Municipal"
+cemetery.place.country = "DO"
+cemetery.place.state = "San Pedro de Macoris"
+cemetery.place.city = "San Pedro de Macoris"
+
+[person.description]
+mlb_played = "1983/"
+

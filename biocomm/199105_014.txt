@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199105_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Hoover"
+use = "Charles"
+given = "Charles E."
+
+[person.description]
+bats = "L"
+mlb_played = "1888/"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_018"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Hinds"
+use = "Samuel"
+given = "Samuel Russell"
+
+[person.death]
+date = "2019-09-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Hanford"
+
+[person.description]
+mlb_played = "1977/"
+

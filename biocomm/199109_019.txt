@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199109_019"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Powell"
+use = "Martin"
+given = "Martin J."
+
+[person.description]
+height = "72"
+weight = "170"
+mlb_played = "1881/"
+

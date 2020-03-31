@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202002_010"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Conde"
+use = "Ramon"
+given = "Ramon Luis"
+matrilineal = "Roman"
+
+[person.death]
+date = "2020-02-23"
+place.country = "US"
+place.state = "FL"
+place.city = "West Palm Beach"
+
+[person.burial]
+cemetery.name = "Cementerio Municipal de Juana Diaz, PR//Juana Diaz"
+
+[person.description]
+mlb_played = "1962/"
+

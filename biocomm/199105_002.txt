@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199105_002"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Blackerby"
+use = "George"
+given = "George Franklin"
+
+[person.birth]
+place.country = "US"
+place.state = "OK"
+place.city = "Luther"
+
+[person.description]
+mlb_played = "1928/"
+

@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199109_007"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Doscher"
+use = "John"
+given = "John Henry"
+suffix = "Jr."
+
+[person.description]
+weight = "205"
+mlb_played = "1903/"
+

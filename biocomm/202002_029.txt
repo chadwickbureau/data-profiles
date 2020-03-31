@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202002_029"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Sprague"
+use = "Edward"
+given = "Edward Nelson"
+suffix = "Sr."
+
+[person.death]
+date = "2020-01-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Lodi"
+
+[person.description]
+mlb_played = "1968/"
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "202002_002"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "Aviles"
+use = "Ramon"
+given = "Ramon Antonio"
+matrilineal = "Miranda"
+
+[person.death]
+date = "2020-01-28"
+place.country = "PR"
+place.city = "Manati"
+
+[person.burial]
+cemetery.name = "Cementerio Municipal Histórico de Vega Baja"
+cemetery.place.country = "PR"
+cemetery.place.city = "Vega Baja"
+
+[person.description]
+mlb_played = "1977/"
+

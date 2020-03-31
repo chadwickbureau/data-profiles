@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "199109_018"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Peek"
+use = "Stephen"
+given = "Stephen George"
+
+[person.death]
+date = "1991-09-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Syracuse"
+
+[person.description]
+mlb_played = "1941/"
+

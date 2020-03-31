@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "199109_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Mason"
+use = "Charles"
+given = "Charles E."
+
+[person.description]
+weight = "175"
+mlb_played = "1875/"
+

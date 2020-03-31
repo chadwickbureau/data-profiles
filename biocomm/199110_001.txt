@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "199110_001"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-10"
+
+[person.name]
+last = "Baker"
+use = "Charles"
+given = "Charles"
+
+[person.description]
+height = "69"
+weight = "181"
+mlb_played = "1901/"
+

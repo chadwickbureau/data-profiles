@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "199105_010"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-05"
+
+[person.name]
+last = "Garland"
+use = "Louis"
+given = "Louis Lyman"
+
+[person.death]
+place.country = "US"
+place.state = "ID"
+place.city = "Idaho Falls"
+
+[person.description]
+mlb_played = "1931/"
+

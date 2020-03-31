@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "199109_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "1991-09"
+
+[person.name]
+last = "Newman"
+use = "Charles"
+given = "Charles"
+
+[person.description]
+mlb_played = "1892-09-11/"
+

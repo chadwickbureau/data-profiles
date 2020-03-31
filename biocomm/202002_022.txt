@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "202002_022"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-02"
+
+[person.name]
+last = "McManus"
+use = "Francis"
+given = "Francis Edward"
+
+[person.birth]
+date = "1874-09-23"
+
+[person.description]
+bats = "R"
+height = "70"
+weight = "180"
+mlb_played = "1899/"
+
