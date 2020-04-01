@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_065"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2020-04-01"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=daniel-mccarthy&pid=195849280"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-01"
+
+[person.name]
+last = "McCarthy"
+use = "Dan"
+given = "Daniel J."
+
+[person.death]
+date = "2020-03-21"
+
+[person.burial]
+cemetery.name = "St. John's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Queens"
+
+[[person.education]]
+school.name = "Bishop Loughlin Memorial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "St. Francis College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

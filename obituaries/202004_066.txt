@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "202004_066"
+
+[[person.meta.citation]]
+title = "Doyle Funeral Home"
+date = "2020-03-31"
+url = "https://www.doylefh.com/obituaries/Peter-Paul-Dalton-Sr?obId=3144359#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Dalton"
+use = "Peter"
+given = "Peter Paul"
+suffix = "Sr."
+
+[person.birth]
+date = "1933-01-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Morristown"
+
+[person.death]
+date = "2018-07-05"
+place.country = "US"
+place.state = "NJ"
+place.city = "Morristown"
+
+[person.burial]
+cemetery.name = "Holy Rood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Morristown"
+
+[[person.education]]
+school.name = "Morristown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Morristown"
+
+[[person.education]]
+school.name = "Fairleigh Dickinson University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

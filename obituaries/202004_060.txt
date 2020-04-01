@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_060"
+
+[[person.meta.citation]]
+title = "Moore Funeral Home"
+date = "2020-03-31"
+url = "https://www.moorefhs.com/obituaries/Doc-Hixson/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Hixson"
+use = "Vernard"
+given = "Vernard Earl"
+nick = "Doc"
+
+[person.birth]
+date = "1926-07-24"
+
+[person.death]
+date = "2020-03-21"
+
+[person.burial]
+cemetery.name = "Chattanooga National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Chattanooga"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

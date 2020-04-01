@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_067"
+
+[[person.meta.citation]]
+title = "Vista Funeral Home"
+date = "2020-03-31"
+url = "https://www.vistafunerals.com/obituary/joseph-sheaks"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Sheaks"
+use = "Joe"
+given = "Joseph Lee"
+
+[person.birth]
+date = "1937-01-02"
+
+[person.death]
+date = "2018-07-03"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+
+[[person.education]]
+school.name = "North Miami HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "North Miami"
+
+

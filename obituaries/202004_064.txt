@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_064"
+
+[[person.meta.citation]]
+title = "El Paso Times"
+date = "2020-04-01"
+url = "https://www.legacy.com/obituaries/elpasotimes/obituary.aspx?n=ernesto-porras&pid=195847814&fhid=7167"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-01"
+
+[person.name]
+last = "Porras"
+use = "Ernesto"
+given = "Ernesto"
+
+[person.birth]
+date = "1930-05-15"
+place.country = "US"
+place.state = "TX"
+place.city = "El Paso"
+
+[person.death]
+date = "2020-03-29"
+
+[[person.education]]
+school.name = "Bowie HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "El Paso"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

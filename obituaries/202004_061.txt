@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202004_061"
+
+[[person.meta.citation]]
+title = "El Mundo"
+date = "2020-03-31"
+url = "https://www.diarioelmundo.com.mx/index.php/2020/03/30/fallece-cecilio-robles-beisbolista-de-cuitlahuac/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Robles"
+use = "Cecilio"
+given = "Cecilio"
+
+[person.death]
+date = "2020-03-27"
+

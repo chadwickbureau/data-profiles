@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_054"
+
+[[person.meta.citation]]
+title = "Duker & Haugh Funeral Home"
+date = "2020-03-28"
+url = "https://www.dukerandhaugh.com/services/march-2020/howard-leroy-mcpike"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-28"
+
+[person.name]
+last = "McPike"
+use = "LeRoy"
+given = "Howard LeRoy"
+
+[person.birth]
+date = "1954-08-12"
+place.country = "US"
+place.state = "MO"
+place.city = "Bowling Green"
+
+[person.death]
+date = "2020-03-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.burial]
+cemetery.name = "Greenmount Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Quincy"
+
+[[person.education]]
+school.name = "Bowling Green HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Bowling Green"
+
+

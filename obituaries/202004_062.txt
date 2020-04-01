@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202004_062"
+
+[[person.meta.citation]]
+title = "dcubanos.com"
+date = "2020-03-30"
+url = "https://www.dcubanos.com/cubanosenmexico/fallece-en-mexico-mario-salazar-chiquitico-pelotero-originario-de-cuba/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Salazar"
+use = "Mario"
+given = "Mario"
+matrilineal = "Rodríguez"
+nick = "Chiquitico"
+
+[person.birth]
+date = "1937-09-08"
+place.country = "CU"
+
+[person.death]
+date = "2020-03-29"
+place.country = "MX"
+

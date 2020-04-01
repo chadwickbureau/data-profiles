@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "5164"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/5164"
+title = "The Sporting News Player Contract Cards, ScanID: 1002000167"
+
+[person.name]
+last = "Antonelli"
+given = "Frank P."
+
+
+[[person.transaction]]
+date = "1946-12-17"
+type = "signed"
+join.name = "Peekskill"
+note = "Peekskill 1946-12-17"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Peekskill"
+
+[[person.transaction]]
+date = "1947-04-07"
+type = "released"
+leave.name = "Peekskill"
+note = "rel 1947-04-07"
+
+[[person.transaction]]
+date = "1948-01-23"
+type = "signed"
+join.name = "Nyack"
+note = "Nyack 1948-01-23"
+
+[[person.transaction]]
+date = "1948-05-01"
+type = "released"
+leave.name = "Nyack"
+note = "rel 1948-05-01"
+

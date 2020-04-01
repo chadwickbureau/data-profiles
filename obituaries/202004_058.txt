@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "202004_058"
+
+[[person.meta.citation]]
+title = "Bella Vista Funeral Home"
+date = "2020-03-31"
+url = "http://www.funeralmation.com/obituary/charles-kovach-junior"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Kovach"
+use = "Chuck"
+given = "Charles"
+suffix = "Jr."
+
+[person.birth]
+date = "1940-07-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2020-03-26"
+
+[[person.education]]
+school.name = "West View HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "West View"
+
+[[person.education]]
+school.name = "University of Mount Union"
+school.type = "college"
+
+

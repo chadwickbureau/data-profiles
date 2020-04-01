@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "150126"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/150126"
+title = "The Sporting News Player Contract Cards, ScanID: 1031004577"
+
+[person.name]
+last = "Moreland"
+given = "Earl Wilson"
+
+
+[[person.transaction]]
+date = "1947-09-29"
+type = "signed"
+join.name = "Three Rivers"
+note = "Three Rivers 1947-09-29"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Three Rivers"
+
+[[person.transaction]]
+date = "1948-04-12"
+type = "released"
+leave.name = "Three Rivers"
+note = "rel 1948-04-12"
+

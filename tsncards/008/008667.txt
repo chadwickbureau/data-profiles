@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "8667"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/8667"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004767"
+
+[person.name]
+last = "Bachman"
+given = "Walter"
+
+
+[[person.transaction]]
+date = "1939-06"
+type = "signed"
+join.name = "Williamston (NC)"
+note = "Williamston (NC) 1939-06"
+
+[[person.transaction]]
+date = "1939-06"
+type = "released"
+leave.name = "Williamston (NC)"
+note = "rel 1939-06"
+
+[[person.transaction]]
+date = "1940-06"
+type = "signed"
+join.name = "Bowling Green"
+note = "Bowling Green 1940-06"
+
+[[person.transaction]]
+date = "1940-07"
+type = "released"
+leave.name = "Bowling Green"
+join.name = "Ashland"
+note = "rel to Ashland 1940-07"
+
+[[person.transaction]]
+date = "1940-07"
+type = "released"
+leave.name = "Ashland"
+note = "rel 1940-07"
+

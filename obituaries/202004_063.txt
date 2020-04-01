@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_063"
+
+[[person.meta.citation]]
+title = "Today's News Herald"
+date = "2020-04-01"
+url = "https://www.legacy.com/obituaries/havasunews/obituary.aspx?n=robert-dean-lee&pid=195850882&fhid=40446"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-01"
+
+[person.name]
+last = "Lee"
+use = "Robert"
+given = "Robert Dean"
+
+[person.birth]
+date = "1937-11-26"
+place.country = "US"
+place.state = "IA"
+place.city = "Ottumwa"
+
+[person.death]
+date = "2020-03-25"
+place.country = "US"
+place.state = "AZ"
+place.city = "Lake Havasu City"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

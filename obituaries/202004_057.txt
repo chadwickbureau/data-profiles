@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202004_057"
+
+[[person.meta.citation]]
+title = "Schepner-McDermott Funeral Home"
+date = "2020-03-31"
+url = "https://www.schepnermcdermott.com/obituary/Philip-Bickel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-31"
+
+[person.name]
+last = "Bickel"
+use = "Phil"
+given = "Philip C."
+
+[person.birth]
+date = "1932"
+
+[person.death]
+date = "2020-03-27"
+
+[person.burial]
+cemetery.name = "National Cemetery of the Alleghenies"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Cecil"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

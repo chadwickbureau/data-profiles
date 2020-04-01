@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "44410"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/44410"
+title = "The Sporting News Player Contract Cards, ScanID: 1010006007"
+
+[person.name]
+last = "Dalton"
+given = "Peter"
+
+
+[[person.transaction]]
+date = "1955-03-03"
+type = "signed"
+join.name = "Reidsville"
+note = "Reidsville 1955-03-03"
+
+[[person.transaction]]
+date = "1955-04-20"
+type = "temporarily-inactive"
+leave.name = "Reidsville"
+note = "temp inactive list 1955-04-20"
+
+[[person.transaction]]
+date = "1955-05-25"
+type = "reinstated"
+join.name = "Reidsville"
+note = "reins 1955-05-25"
+
+[[person.transaction]]
+date = "1955-05-25"
+type = "released"
+leave.name = "Reidsville"
+note = "rel 1955-05-25"
+

@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "97278"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/97278"
+title = "The Sporting News Player Contract Cards, ScanID: 1020005993"
+
+[person.name]
+last = "Hixson"
+given = "Vernard Earl"
+
+
+[[person.transaction]]
+date = "1947-03-25"
+type = "signed"
+join.name = "New Bern"
+note = "New Bern 1947-03-25"
+
+[[person.transaction]]
+date = "1947-05-30"
+type = "released"
+leave.name = "New Bern"
+note = "rel 1947-05-30"
+
+[[person.transaction]]
+date = "1947-06-09"
+type = "signed"
+join.name = "Glax"
+note = "Glax 1947-06-09"
+
+[[person.transaction]]
+date = "1947-06-12"
+type = "released"
+leave.name = "Glax"
+note = "rel 1947-06-12"
+
+[[person.transaction]]
+date = "1948-02-12"
+type = "signed"
+join.name = "Burlington (IA)"
+note = "Burlington (IA) 1948-02-12"
+
+[[person.transaction]]
+date = "1948-04-08"
+type = "optioned"
+leave.name = "Burlington (IA)"
+join.name = "Cordele"
+note = "opt to Cordele 1948-04-08"
+
+[[person.transaction]]
+date = "1948-05-06"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1948-05-06"
+

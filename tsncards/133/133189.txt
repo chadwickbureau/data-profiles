@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "133189"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/133189"
+title = "The Sporting News Player Contract Cards, ScanID: 1040006149"
+
+[person.name]
+last = "Sheaks"
+given = "Joseph Lee"
+
+
+[[person.transaction]]
+date = "1955-06-20"
+type = "signed"
+join.name = "Salt Lake City"
+note = "Salt Lake City 1955-06-20"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Salt Lake City"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-04-14"
+type = "released"
+leave.name = "Salt Lake City"
+note = "rel 1956-04-14"
+
