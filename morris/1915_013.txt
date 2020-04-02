@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "1915_013"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-12"
+pages = "11"
+
+[person.name]
+last = "Byatt"
+use = "Bernie"
+given = "Bernie"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Akron"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Columbus"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+
+

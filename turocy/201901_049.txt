@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_049"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Keller"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Independence"
+team.place.country = "US"
+team.place.state = "KS"
+team.place.city = "Independence"
+team.caliber = "semipro"
+
+

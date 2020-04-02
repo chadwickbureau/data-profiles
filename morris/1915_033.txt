@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_033"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-06"
+pages = "6"
+
+[person.name]
+last = "Kull"
+given = "L. C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Paterson"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

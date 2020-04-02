@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_080"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1915-04-17"
+pages = "6"
+
+[person.name]
+last = "Blanchard"
+use = "Henry"
+given = "Henry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+description.position = "C"
+
+

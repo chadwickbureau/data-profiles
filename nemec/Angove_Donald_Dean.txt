@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "Angove_Donald_Dean"
+
+[person.name]
+last = "Angove"
+use = "Donald"
+given = "Donald Dean"
+
+[person.birth]
+date = "1927-07-24"
+place.country = "US"
+place.state = "MO"
+place.city = "Bonne Terre"
+
+[person.death]
+date = "2008-08-17"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[person.sameas]
+ssn = "489-26-6028"
+
+[[person.resides]]
+dates = "2008"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+
+[[person.education]]
+school.name = "Leadwood High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Leadwood"
+dates = "/1945"
+degree = "graduated"
+
+

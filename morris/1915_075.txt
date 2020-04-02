@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "1915_075"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-06-05"
+pages = "5"
+
+[person.name]
+last = "Bostick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Canton City League [caliber=semipro]"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+
+

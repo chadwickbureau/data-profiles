@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_114"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "McNabb"
+given = "H."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "L"
+description.throws = "L"
+description.age = "18"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Aline"
+team.place.country = "US"
+team.place.state = "OK"
+team.place.city = "Aline"
+team.caliber = "semipro"
+
+

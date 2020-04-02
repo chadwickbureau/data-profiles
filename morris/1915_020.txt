@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1915_020"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1915-03-08"
+pages = "1"
+
+[person.name]
+last = "Yount"
+use = "Herbert"
+given = "Herbert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "New Bedford"
+team.league.name = "New England League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Baltimore"
+team.league.name = "Federal League"
+description.position = "P"
+
+

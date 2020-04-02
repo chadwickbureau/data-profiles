@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201901_154"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Lyons"
+use = "Russell"
+given = "Russell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Tyler"
+totals.P_G = "5"
+totals.P_W = "5"
+totals.P_L = "0"
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Omaha"
+totals.P_G = "14"
+totals.P_W = "4"
+totals.P_L = "1"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "1915_048"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-12"
+pages = "6"
+
+[person.name]
+last = "Lawson"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+title = "Owner"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1915"
+league.name = "Buckeye League"
+title = "President"
+
+

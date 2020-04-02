@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "1915_006"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-20"
+pages = "13"
+
+[person.name]
+last = "Barnhardt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.throws = "L"
+
+

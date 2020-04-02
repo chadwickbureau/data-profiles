@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_144"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Lowrance"
+given = "W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "2B"
+description.bats = "R"
+description.throws = "R"
+description.age = "27"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Hazelton"
+totals.B_G = "133"
+totals.B_AVG = ".312"
+totals.F_PCT = ".956"
+
+

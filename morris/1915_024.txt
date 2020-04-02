@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_024"
+
+[[person.meta.citation]]
+title = "Canton Daily News"
+date = "1915-05-30"
+pages = "8"
+
+[person.name]
+last = "Pierce"
+use = "Bunny"
+given = "Bunny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "C"
+
+

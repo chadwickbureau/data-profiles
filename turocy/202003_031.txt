@@ -25,7 +25,7 @@ description.age = "32"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Pittsburgh"
+split.0.team.name = "Pittsburgh"
 totals.B_AVG = ".178"
 totals.B_RBI = "21"
 totals.B_HR = "8"

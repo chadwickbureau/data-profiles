@@ -25,7 +25,7 @@ description.age = "28"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Oakland"
+split.0.team.name = "Oakland"
 totals.P_G = "30"
 totals.P_W = "13"
 totals.P_L = "10"

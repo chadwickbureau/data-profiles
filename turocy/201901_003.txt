@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201901_003"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-08"
+pages = "9"
+
+[person.name]
+last = "Palmer"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1930"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Denver"
+description.position = "2B"
+description.bats = "R"
+description.throws = "R"
+description.age = "35"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Denver"
+totals.B_G = "145"
+totals.B_AVG = ".283"
+totals.F_PCT = ".974"
+
+

@@ -48,7 +48,7 @@ degree = "graduated"
 [[person.playing]]
 season = "1958"
 league.name = "New York-Pennsylvania League"
-splits.0.team.name = "Wellsville"
+split.0.team.name = "Wellsville"
 totals.P_G = "4"
 totals.P_CG = "0"
 totals.P_IP = "7"

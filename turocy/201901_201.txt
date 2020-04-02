@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_201"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Newbill"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Wichita"
+totals.P_G = "35"
+totals.P_W = "6"
+totals.P_L = "7"
+
+

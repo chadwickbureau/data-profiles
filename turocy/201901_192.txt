@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "201901_192"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Johnson"
+use = "Gordon"
+given = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "CF"
+description.bats = "L"
+description.throws = "R"
+description.age = "20"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Columbia"
+split.0.team.place.country = "US"
+split.0.team.place.state = "SC"
+split.0.team.place.city = "Columbia"
+totals.B_G = "148"
+totals.B_AVG = ".325"
+totals.F_PCT = ".950"
+
+

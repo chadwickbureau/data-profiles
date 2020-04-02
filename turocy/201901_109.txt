@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_109"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "Hostettler"
+given = "C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "CF"
+description.bats = "L"
+description.throws = "R"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Akron"
+totals.B_G = "104"
+totals.B_AVG = ".360"
+totals.F_PCT = ".958"
+
+

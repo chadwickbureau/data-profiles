@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "Appell_John_Roland"
+
+[person.name]
+last = "Appell"
+use = "Johnny"
+given = "John Roland"
+
+[person.birth]
+date = "1923-09-23"
+place.country = "US"
+place.state = "TX"
+place.city = "Waco"
+
+[person.death]
+date = "2011-01-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Waco"
+
+[person.description]
+bats = "L"
+throws = "L"
+note = [ "Played semipro baseball in 1946" ]
+
+[[person.resides]]
+dates = "2010"
+place.country = "US"
+place.state = "TX"
+place.city = "Waco"
+
+
+[[person.education]]
+school.name = "Waco High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Waco"
+dates = "/1941"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

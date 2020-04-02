@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201901_067"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-11"
+pages = "21"
+
+[person.name]
+last = "Groft"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Oklahoma City"
+totals.B_G = "93"
+totals.B_AVG = ".284"
+totals.F_PCT = ".976"
+
+

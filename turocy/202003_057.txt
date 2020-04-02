@@ -26,7 +26,7 @@ description.age = "28"
 
 [[person.playing]]
 season = "1952"
-splits.0.team.name = "Tyler"
+split.0.team.name = "Tyler"
 totals.P_W = "23"
 totals.P_L = "13"
 

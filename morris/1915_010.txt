@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "1915_010"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-28"
+pages = "16"
+
+[person.name]
+last = "Plummer"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "RF"
+
+

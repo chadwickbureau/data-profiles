@@ -20,7 +20,7 @@ description.position = "P"
 
 
 [[person.transaction]]
-date = "<=1915-08-26"
+date = "<=1919-08-26"
 type = "obtained"
 join.name = "Shreveport"
 join.league.name = "Texas"

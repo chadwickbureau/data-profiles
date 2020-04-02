@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201907_006"
+
+[[person.meta.citation]]
+title = "capitalesdequebec.com"
+date = "2019-07-26"
+url = "https://capitalesdequebec.com/fr/equipe/alignement/vincent-ruel"
+
+[person.name]
+last = "Ruel"
+use = "Vincent"
+given = "Vincent"
+
+[person.birth]
+date = "1997-08-27"
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Quebec"
+team.league.name = "Canadian-American Assocation League"
+description.bats = "R"
+description.throws = "L"
+description.height = "71"
+description.weight = "171"
+
+

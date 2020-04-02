@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "1908_004"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1908-07-30"
+pages = "4"
+
+[person.name]
+last = "Walsh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

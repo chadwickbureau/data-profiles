@@ -26,7 +26,7 @@ description.age = "20"
 
 [[person.playing]]
 season = "1952"
-splits.0.team.name = "Port Arthur"
+split.0.team.name = "Port Arthur"
 totals.P_W = "17"
 totals.P_L = "7"
 

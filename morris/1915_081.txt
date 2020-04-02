@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_081"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1915-06-05"
+pages = "2"
+
+[person.name]
+last = "Lamb"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+
+

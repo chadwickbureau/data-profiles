@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_012"
+
+[[person.meta.citation]]
+title = "New Orleans Times-Democrat"
+date = "1908-04-26"
+pages = "14"
+
+[person.name]
+last = "McClelland"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+

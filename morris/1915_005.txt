@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "1915_005"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-24"
+pages = "11"
+
+[person.name]
+last = "McKee"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Crestline"
+team.league.name = "Trolley League"
+description.position = "P"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "P"
+description.throws = "L"
+
+

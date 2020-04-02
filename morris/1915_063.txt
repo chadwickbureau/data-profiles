@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "1915_063"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-25"
+pages = "14"
+
+[person.name]
+last = "Wilhelm"
+use = "Fred"
+given = "Fred"
+nick = "Pug; Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Knight Tires"
+team.league.name = "Canton Shop League"
+description.position = "P"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

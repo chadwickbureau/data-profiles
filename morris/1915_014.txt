@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_014"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-12"
+pages = "11"
+
+[person.name]
+last = "Linne"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

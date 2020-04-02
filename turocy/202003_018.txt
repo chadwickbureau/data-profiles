@@ -25,10 +25,10 @@ description.age = "21"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Wilkes-Barre"
+split.0.team.name = "Wilkes-Barre"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Spartanburg"
+split.0.team.name = "Spartanburg"
 
 

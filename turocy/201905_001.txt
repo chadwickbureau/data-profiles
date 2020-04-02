@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201905_001"
+
+[[person.meta.citation]]
+title = "ottawachampions.com"
+date = "2019-05-20"
+
+[person.name]
+last = "Bosco"
+use = "Chris"
+given = "Chris"
+
+[[person.education]]
+school.name = "Roger Williams University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Ottawa"
+team.league.name = "Canadian-American Association"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_014"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1908-02-19"
+pages = "6"
+
+[person.name]
+last = "Decker"
+use = "Pie"
+given = "Pie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

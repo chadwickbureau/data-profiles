@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1915_068"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-31"
+pages = "6"
+
+[person.name]
+last = "Wratten"
+use = "Erve"
+given = "Erve"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+
+

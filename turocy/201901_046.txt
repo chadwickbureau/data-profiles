@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_046"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Ryan"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "St. Marys"
+team.place.country = "US"
+team.place.state = "KS"
+team.place.city = "St. Marys"
+team.caliber = "semipro"
+
+

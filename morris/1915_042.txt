@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "1915_042"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-09"
+pages = "16"
+
+[person.name]
+last = "Nesser"
+use = "Frank"
+given = "Frank"
+
+[person.description]
+note = [ "Professional football star with Akron Indians and Columbus Panhandles" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "1B"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_169"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Sperber"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "R"
+description.throws = "R"
+description.age = "33"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Allentown"
+totals.B_G = "64"
+totals.B_AVG = ".281"
+totals.F_PCT = ".953"
+
+

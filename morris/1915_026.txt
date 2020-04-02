@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "1915_026"
+
+[[person.meta.citation]]
+title = "Canton Daily News"
+date = "1915-05-30"
+pages = "8"
+
+[person.name]
+last = "Lamb"
+
+[[person.resides]]
+dates = "1915-05-30"
+place.country = "US"
+place.state = "OH"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "1B"
+
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201901_222"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Cotelle"
+use = "Cosmo"
+given = "Cosmo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.position = "LF"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Houston"
+totals.B_G = "48"
+totals.B_AVG = ".294"
+totals.F_PCT = ".949"
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Danville"
+totals.B_G = "46"
+totals.B_AVG = ".313"
+totals.F_PCT = ".940"
+
+

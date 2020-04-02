@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_066"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-27"
+pages = "6"
+
+[person.name]
+last = "Cattcutt"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

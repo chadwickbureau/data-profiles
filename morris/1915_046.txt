@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1915_046"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-10"
+pages = "6"
+
+[person.name]
+last = "Day"
+use = "Oscar"
+given = "Oscar"
+
+[[person.resides]]
+dates = "1915-05-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Yellow Springs"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "1B"
+
+

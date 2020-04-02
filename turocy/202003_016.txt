@@ -26,7 +26,7 @@ description.age = "27"
 [[person.playing]]
 season = "1948"
 league.name = "Negro League"
-splits.0.team.name = ""
+split.0.team.name = ""
 totals.B_AVG = ".376"
 
 

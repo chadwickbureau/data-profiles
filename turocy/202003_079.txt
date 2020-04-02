@@ -26,7 +26,7 @@ description.age = "25"
 
 [[person.playing]]
 season = "1952"
-splits.0.team.name = "Sacramento"
+split.0.team.name = "Sacramento"
 totals.B_AVG = ".256"
 
 

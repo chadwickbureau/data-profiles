@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "1912_001"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1912-04-04"
+pages = "3"
+
+[person.name]
+last = "Yount"
+given = "H. M."
+
+[[person.resides]]
+dates = "1912-04-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Conover"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+description.position = "OF"
+
+

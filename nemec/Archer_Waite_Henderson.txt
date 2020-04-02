@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "Archer_Waite_Henderson"
+
+[person.name]
+last = "Archer"
+use = "Waite"
+given = "Waite Henderson"
+
+[person.birth]
+date = "1929-02-12"
+place.country = "US"
+place.state = "IN"
+place.city = "Clinton"
+
+[person.death]
+date = "2009-01-21"
+place.country = "US"
+place.state = "IN"
+place.city = "Lafayette"
+
+[person.description]
+position = "2B"
+bats = "L"
+throws = "R"
+height = "69"
+weight = "165"
+
+[person.sameas]
+ssn = "307-30-1740"
+
+[[person.resides]]
+dates = "1950"
+place.country = "US"
+place.state = "IN"
+place.city = "Clinton"
+place.address = "RR #2"
+
+
+[[person.education]]
+school.name = "Clinton High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Clinton"
+
+[[person.education]]
+school.name = "Purdue University"
+school.type = "college"
+
+

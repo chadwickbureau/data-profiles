@@ -52,7 +52,7 @@ team.caliber = "amateur"
 [[person.playing]]
 season = "1939"
 league.name = "Florida State League"
-splits.0.team.name = "Daytona Beach"
+split.0.team.name = "Daytona Beach"
 totals.F_POS = "P"
 totals.B_G = "18"
 totals.B_AB = "33"

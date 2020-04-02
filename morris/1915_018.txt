@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "1915_018"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-12"
+pages = "11"
+
+[person.name]
+last = "Talbott"
+use = "Dick"
+given = "Dick"
+
+[[person.resides]]
+dates = "1915-05-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Streator"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "C"
+
+

@@ -32,7 +32,7 @@ team.league.name = "New York State League"
 [[person.playing]]
 season = "1912"
 league.name = "Michigan State League"
-splits.0.team.name = "Traverse City"
+split.0.team.name = "Traverse City"
 totals.P_W = "19"
 totals.P_L = "3"
 

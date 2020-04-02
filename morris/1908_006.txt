@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "1908_006"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1908-07-25"
+pages = "4"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Kelley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "University of Michigan"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.position = "IF"
+
+

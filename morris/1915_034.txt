@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1915_034"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-06"
+pages = "6"
+
+[person.name]
+last = "Walters"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1915-05-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "IF"
+
+

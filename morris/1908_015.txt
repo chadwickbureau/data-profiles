@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "1908_015"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1908-03-25"
+pages = "7"
+
+[person.name]
+last = "Morse"
+use = "Whitey"
+given = "Whitey"
+
+[[person.resides]]
+dates = "1908-03-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Nashville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

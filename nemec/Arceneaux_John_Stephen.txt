@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "Arceneaux_John_Stephen"
+
+[person.name]
+last = "Arceneaux"
+use = "Steve"
+given = "John Stephen"
+
+[person.birth]
+date = "1925-06-06"
+place.country = "US"
+place.state = "LA"
+place.city = "Scott"
+
+[person.death]
+date = "2009-05-05"
+place.country = "US"
+place.state = "HI"
+place.city = "Hilo"
+
+[[person.resides]]
+dates = "2009"
+place.country = "US"
+place.state = "HI"
+place.city = "Hilo"
+
+
+[[person.education]]
+school.name = "Scott High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "SCott"
+
+

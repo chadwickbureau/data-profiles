@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "1915_004"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-29"
+pages = "9"
+
+[person.name]
+last = "Price"
+
+[[person.resides]]
+dates = "1915-05-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "SS"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Youngstown Steelmen"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_036"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "McDermott"
+given = "C. J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "2B"
+description.bats = "R"
+description.throws = "R"
+description.age = "20"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Los Angeles"
+team.place.country = "US"
+team.place.state = "CA"
+team.place.city = "Los Angeles"
+team.caliber = "semipro"
+
+

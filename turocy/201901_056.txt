@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_056"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Anderson"
+use = "Bruno"
+given = "Bruno"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.age = "20"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Kansas City"
+team.place.country = "US"
+team.place.state = "MO"
+team.place.city = "Kansas City"
+team.caliber = "semipro"
+
+

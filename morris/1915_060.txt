@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1915_060"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-25"
+pages = "15"
+
+[person.name]
+last = "Murray"
+use = "Sandy"
+given = "Sandy"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Lima"
+team.league.name = "Buckeye League"
+
+

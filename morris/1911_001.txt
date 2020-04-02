@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1911_001"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1911-08-04"
+
+[person.name]
+last = "Brown"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.position = "OF"
+
+

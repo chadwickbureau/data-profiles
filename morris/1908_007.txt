@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_007"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1908-03-22"
+pages = "8"
+
+[person.name]
+last = "Morse"
+use = "Whitey"
+given = "Whitey"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

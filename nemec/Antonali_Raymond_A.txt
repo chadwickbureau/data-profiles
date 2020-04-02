@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "Antonali_Raymond_A"
+
+[person.name]
+last = "Antonali"
+use = "Ray"
+given = "Raymond A."
+
+[person.birth]
+date = "1923"
+
+[person.death]
+date = "2010-01-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Alameda"
+
+[person.description]
+bats = "R"
+throws = "R"
+
+[[person.alias]]
+name.last = "Antonelli"
+name.use = "Raymond"
+name.given = "Raymond A."
+type = "alternate-spelling"
+
+
+[[person.resides]]
+dates = "2010"
+place.country = "US"
+place.state = "CA"
+place.city = "Alameda"
+
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"
+
+

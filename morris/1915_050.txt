@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "1915_050"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-20"
+pages = "12"
+
+[person.name]
+last = "Allison"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Salineville"
+team.caliber = "semipro"
+
+

@@ -26,10 +26,10 @@ description.age = "21"
 
 [[person.playing]]
 season = "1952"
-splits.0.team.name = "Clovis"
-splits.0.team.place.country = "US"
-splits.0.team.place.state = "NM"
-splits.0.team.place.city = "Clovis"
+split.0.team.name = "Clovis"
+split.0.team.place.country = "US"
+split.0.team.place.state = "NM"
+split.0.team.place.city = "Clovis"
 totals.P_W = "10"
 totals.P_L = "5"
 

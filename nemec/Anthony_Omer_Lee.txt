@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "Anthony_Omer_Lee"
+
+[person.name]
+last = "Anthony"
+use = "Lee"
+given = "Omer Lee"
+
+[person.birth]
+date = "1918-07-26"
+place.country = "US"
+place.state = "KS"
+place.city = "Le Roy"
+
+[person.death]
+date = "2010-06-27"
+place.country = "US"
+place.state = "KS"
+place.city = "Burlington"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "200"
+
+[person.sameas]
+ssn = "512-03-7889"
+
+[[person.resides]]
+dates = ""
+place.country = "US"
+place.state = "KS"
+place.city = "Le Roy"
+place.address = "P. O. Box 914"
+
+
+[[person.education]]
+school.name = "Le Roy High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Le Roy"
+dates = "/1936"
+degree = "graduated"
+
+
+[[person.military]]
+country = "US"
+dates = "1942/1945"
+
+

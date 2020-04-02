@@ -20,7 +20,7 @@ given = "Stanley"
 
 [[person.affiliation]]
 type = "player"
-dates = "1922"
+dates = "1924"
 team.name = "Winston-Salem"
 team.league.name = "Piedmont League"
 

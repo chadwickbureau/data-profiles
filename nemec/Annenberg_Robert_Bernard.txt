@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "Annenberg_Robert_Bernard"
+
+[person.name]
+last = "Annenberg"
+use = "Robert"
+given = "Robert Bernard"
+
+[person.birth]
+date = "1930-12-02"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[person.death]
+date = "2011-05-26"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.sameas]
+ssn = "568-36-1140"
+
+[[person.resides]]
+dates = "2011"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "1915_079"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1915-04-20"
+pages = "3"
+
+[person.name]
+last = "Blanchard"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1915-04-20"
+place.country = "US"
+place.state = "VA"
+place.city = "Bristol"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "University of Tennessee"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chillicothe"
+team.league.name = "Ohio State League"
+
+

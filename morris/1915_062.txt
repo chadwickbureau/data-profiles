@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "1915_062"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-25"
+pages = "15"
+
+[person.name]
+last = "Schweitzer"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "St. Louis"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lima"
+team.league.name = "Buckeye League"
+description.position = "OF"
+
+

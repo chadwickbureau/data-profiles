@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1914_001"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1914-03-12"
+pages = "3"
+
+[person.name]
+last = "Litchfield"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "University of North Carolina"
+team.caliber = "college"
+
+

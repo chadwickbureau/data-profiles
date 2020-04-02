@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "1915_045"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-10"
+pages = "6"
+
+[person.name]
+last = "Barnhart"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Zanesville"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

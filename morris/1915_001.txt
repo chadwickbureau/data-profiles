@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "1915_001"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-29"
+pages = "9"
+
+[person.name]
+last = "Baird"
+nick = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "p"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+description.position = "P"
+team.place.country = "US"
+team.place.state = "OH"
+team.place.city = "Akron"
+team.caliber = "semipro"
+
+

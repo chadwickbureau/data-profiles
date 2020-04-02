@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_048"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Mayes"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Joplin"
+split.1.team.name = "Shawnee"
+totals.B_G = "136"
+totals.B_AVG = ".323"
+totals.F_PCT = ".976"
+
+

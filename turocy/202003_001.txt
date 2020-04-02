@@ -25,7 +25,7 @@ description.age = "26"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Baltimore"
+split.0.team.name = "Baltimore"
 totals.P_G = "18"
 totals.P_W = "5"
 totals.P_L = "9"
@@ -33,7 +33,7 @@ totals.P_ERA = "4.50"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Cleveland"
+split.0.team.name = "Cleveland"
 totals.P_G = "3"
 totals.P_W = "0"
 totals.P_L = "0"

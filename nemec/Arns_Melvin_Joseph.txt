@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "Arns_Melvin_Joseph"
+
+[person.name]
+last = "Arns"
+use = "Mel"
+given = "Melvin Joseph"
+
+[person.birth]
+date = "1924-06-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.death]
+date = "2014-02-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[[person.education]]
+school.name = "Notre Dame High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Quincy"
+
+

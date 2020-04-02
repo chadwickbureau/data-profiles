@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "201901_214"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Wano"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.position = "1B"
+description.bats = "L"
+description.throws = "L"
+description.age = "34"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Pueblo"
+split.1.team.name = "Des Moines"
+totals.B_G = "32"
+totals.B_AVG = ".216"
+totals.F_PCT = ".977"
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Danville"
+totals.B_G = "52"
+totals.B_AVG = ".322"
+totals.F_PCT = ".977"
+
+

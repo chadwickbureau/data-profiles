@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_070"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-31"
+pages = "6"
+
+[person.name]
+last = "Blanchard"
+use = "Brickhouse"
+given = "Brickhouse"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "C"
+
+

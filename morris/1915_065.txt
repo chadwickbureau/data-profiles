@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1915_065"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-27"
+pages = "6"
+
+[person.name]
+last = "Wetzel"
+use = "Buzz"
+given = "Buzz"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Marion"
+team.league.name = "Buckeye League"
+
+

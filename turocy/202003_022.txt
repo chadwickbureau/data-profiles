@@ -25,7 +25,7 @@ description.age = "22"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Oklahoma City"
+split.0.team.name = "Oklahoma City"
 totals.B_AVG = ".222"
 totals.B_RBI = "52"
 totals.B_HR = "1"

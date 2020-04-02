@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "1915_003"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-29"
+pages = "9"
+
+[person.name]
+last = "Myers"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+
+

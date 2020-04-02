@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_011"
+
+[[person.meta.citation]]
+title = "Dayton Herald"
+date = "1908-05-02"
+pages = "6"
+
+[person.name]
+last = "Morse"
+use = "Whitey"
+given = "Whitey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

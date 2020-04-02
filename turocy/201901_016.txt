@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_016"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-08"
+pages = "9"
+
+[person.name]
+last = "Wilson"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Denver"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "S"
+description.throws = "R"
+description.age = "24"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Denver"
+totals.B_G = "35"
+totals.B_AVG = ".272"
+totals.F_PCT = ".993"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Arnott_Ralph"
+
+[person.name]
+last = "Arnott"
+use = "Ralph"
+given = "Ralph"
+
+[person.birth]
+date = "1924-05-10"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2012-06-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Daly City"
+
+[person.description]
+bats = "R"
+throws = "R"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_031"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-06"
+pages = "6"
+
+[person.name]
+last = "Armstrong"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

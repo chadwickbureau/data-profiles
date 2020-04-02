@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "Angelo_Louis_Joseph"
+
+[person.name]
+last = "Angelo"
+use = "Louie"
+given = "Louis Joseph"
+
+[person.birth]
+date = "1924-03-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Malden"
+
+[person.death]
+date = "2013-03-07"
+place.country = "US"
+place.state = "MA"
+place.city = "North Reading"
+

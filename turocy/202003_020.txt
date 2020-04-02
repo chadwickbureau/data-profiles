@@ -25,14 +25,14 @@ description.age = "30"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Sacramento"
+split.0.team.name = "Sacramento"
 totals.B_AVG = ".316"
 totals.B_RBI = "12"
 totals.B_HR = "1"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "San Diego"
+split.0.team.name = "San Diego"
 totals.B_AVG = ".293"
 totals.B_RBI = "64"
 totals.B_HR = "7"

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_047"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Clark"
+use = "Keith"
+given = "Keith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Topeka"
+totals.B_G = "31"
+totals.B_AVG = ".253"
+totals.F_PCT = ".976"
+
+

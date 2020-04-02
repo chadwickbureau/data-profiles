@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "Arrigo_Jack_Charles"
+
+[person.name]
+last = "Arrigo"
+use = "Jack"
+given = "Jack Charles"
+
+[person.birth]
+date = "1935-11-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2011-01-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "190"
+
+[person.sameas]
+ssn = "269-40-2239"
+
+[[person.resides]]
+dates = "1956"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+place.address = "3251 West 52nd"
+
+

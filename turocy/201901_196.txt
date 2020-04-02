@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_196"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Arzatti"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "San Antonio"
+totals.B_G = "59"
+totals.B_AVG = ".284"
+totals.F_PCT = ".970"
+
+

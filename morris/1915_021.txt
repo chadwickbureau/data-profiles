@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "1915_021"
+
+[[person.meta.citation]]
+title = "Canton Daily News"
+date = "1915-05-30"
+pages = "8"
+
+[person.name]
+last = "Bellinski"
+use = "Henry"
+given = "Henry"
+
+[[person.resides]]
+dates = "1915-05-30"
+place.country = "US"
+place.state = "OH"
+place.city = "Canton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Central League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.league.name = "Texas League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "C"
+
+

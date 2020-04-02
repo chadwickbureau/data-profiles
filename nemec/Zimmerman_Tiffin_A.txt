@@ -23,7 +23,7 @@ place.city = "Indianapolis"
 [[person.playing]]
 season = "1949"
 league.name = "Cotton States League"
-splits.0.team.name = "Clarksdale"
+split.0.team.name = "Clarksdale"
 totals.B_G = "<10"
 
 

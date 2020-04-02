@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "1908_005"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1908-07-25"
+pages = "4"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1908"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.position = "C"
+description.throws = "R"
+
+

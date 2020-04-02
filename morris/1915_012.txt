@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "1915_012"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-12"
+pages = "11"
+
+[person.name]
+last = "Clark"
+use = "Dug"
+given = "Dug"
+
+[[person.resides]]
+dates = "1915-05-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+
+

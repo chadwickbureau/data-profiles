@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_167"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Taylor"
+given = "C. L."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "LF"
+description.bats = "R"
+description.throws = "R"
+description.age = "30"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Houston"
+totals.B_G = "96"
+totals.B_AVG = ".279"
+totals.F_PCT = ".991"
+
+

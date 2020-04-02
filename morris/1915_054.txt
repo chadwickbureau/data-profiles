@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_054"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-22"
+pages = "3"
+
+[person.name]
+last = "Schisler"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Bakos [caliber=semipro]"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portsmouth"
+team.league.name = "Ohio State League"
+description.position = "SS"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_127"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "Brooks"
+use = "Gordon"
+given = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "S"
+description.throws = "R"
+description.age = "22"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Dodge City"
+team.place.country = "US"
+team.place.state = "KS"
+team.place.city = "Dodge City"
+team.caliber = "semipro"
+
+

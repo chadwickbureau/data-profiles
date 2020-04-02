@@ -33,7 +33,7 @@ branch = "Navy"
 [[person.playing]]
 season = "1947"
 league.name = "Eastern Shore League"
-splits.0.team.name = "Dover"
+split.0.team.name = "Dover"
 totals.F_POS = "P"
 totals.B_G = "6"
 totals.B_AB = "6"

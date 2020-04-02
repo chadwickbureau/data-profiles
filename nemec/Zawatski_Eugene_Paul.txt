@@ -52,7 +52,7 @@ school.type = "college"
 [[person.playing]]
 season = "1968"
 league.name = "Appalachian League"
-splits.0.team.name = "Marion"
+split.0.team.name = "Marion"
 totals.P_G = "15"
 totals.P_CG = "5*"
 totals.P_IP = "79"

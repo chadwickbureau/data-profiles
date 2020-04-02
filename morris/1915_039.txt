@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "1915_039"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-09"
+pages = "16"
+
+[person.name]
+last = "Barnhart"
+
+[[person.resides]]
+dates = "1915-05-09"
+place.country = "US"
+place.state = "OH"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye: @P League"
+
+

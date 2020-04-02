@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_001"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "1908-05-02"
+pages = "3"
+
+[person.name]
+last = "Walsh"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Austin"
+team.league.name = "Texas League"
+
+

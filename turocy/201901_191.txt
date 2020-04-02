@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_191"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Jensen"
+use = "Forest"
+given = "Forest"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "LF"
+description.bats = "L"
+description.throws = "R"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Wichita"
+split.1.team.name = "Topeka"
+totals.B_G = "89"
+totals.B_AVG = ".302"
+totals.F_PCT = ".953"
+
+

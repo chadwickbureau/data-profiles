@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1908_010"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1908-05-31"
+pages = "13"
+
+[person.name]
+last = "Ragan"
+use = "Arthur"
+given = "Arthur"
+nick = "Rip"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

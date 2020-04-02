@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "1915_055"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-24"
+pages = "6"
+
+[person.name]
+last = "Thoma"
+
+[person.description]
+note = [ "Described as veteran minor league player" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Marion"
+team.league.name = "Buckeye League"
+description.bats = "R"
+
+

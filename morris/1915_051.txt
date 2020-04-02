@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "1915_051"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-20"
+pages = "12"
+
+[person.name]
+last = "Pastorius"
+use = "Harve"
+given = "Harve"
+
+[[person.affiliation]]
+type = "player"
+dates = "1896"
+team.name = "Tacoma"
+
+[[person.affiliation]]
+type = "player"
+dates = "1899"
+team.name = "Wheeling"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1899"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Buckeye League"
+
+

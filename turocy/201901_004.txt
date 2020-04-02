@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_004"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-08"
+pages = "9"
+
+[person.name]
+last = "Crowley"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Denver"
+team.league.name = "Western League"
+description.position = "1B"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Phoenix"
+totals.B_G = "38"
+totals.B_AVG = ".277"
+totals.F_PCT = ".979"
+
+

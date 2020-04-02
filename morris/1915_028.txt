@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1915_028"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-03"
+pages = "6"
+
+[person.name]
+last = "Miller"
+use = "Mully"
+given = "Mully"
+
+[[person.resides]]
+dates = "1915-05-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Massillon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "C"
+
+

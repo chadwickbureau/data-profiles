@@ -4,7 +4,7 @@
 key = "20200130_022"
 
 [[person.meta.citation]]
-title = "Chambersburg Publlic Opinion"
+title = "Chambersburg Public Opinion"
 date = "1923-06-18"
 pages = "4"
 

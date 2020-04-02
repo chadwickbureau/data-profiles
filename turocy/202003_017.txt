@@ -25,7 +25,7 @@ description.age = "33"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "San Diego"
+split.0.team.name = "San Diego"
 totals.B_AVG = ".300"
 totals.B_RBI = "65"
 totals.B_HR = "5"

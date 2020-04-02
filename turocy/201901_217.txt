@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_217"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Richards"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.position = "SS"
+description.bats = "R"
+description.throws = "R"
+description.age = "22"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Topeka"
+totals.B_G = "57"
+totals.B_AVG = ".295"
+totals.F_PCT = ".916"
+
+

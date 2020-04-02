@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1913_002"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1913-04-01"
+pages = "5"
+
+[person.name]
+last = "Hartfrandt"
+
+[[person.resides]]
+dates = "1913-04-01"
+place.country = "US"
+place.state = "PA"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.position = "P"
+description.throws = "L"
+
+

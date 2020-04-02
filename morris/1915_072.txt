@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_072"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-06-01"
+pages = "8"
+
+[person.name]
+last = "Clark"
+use = "Dad"
+given = "Dad"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "2B"
+
+

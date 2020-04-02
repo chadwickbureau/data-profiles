@@ -25,7 +25,7 @@ description.age = "23"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Baltimore"
+split.0.team.name = "Baltimore"
 totals.B_AVG = ".253"
 totals.B_RBI = "25"
 totals.B_HR = "6"

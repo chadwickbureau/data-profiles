@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "1915_061"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-25"
+pages = "15"
+
+[person.name]
+last = "Malloy"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Ohio Northern University"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Milwaukee"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lima"
+team.league.name = "Buckeye League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_060"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-10"
+pages = "18"
+
+[person.name]
+last = "Smith"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pueblo"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "21"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Peoria"
+totals.P_G = "11"
+totals.P_W = "3"
+totals.P_L = "2"
+
+

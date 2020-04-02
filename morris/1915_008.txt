@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "1915_008"
+
+[[person.meta.citation]]
+title = "Akron Beacon-Journal"
+date = "1915-05-15"
+pages = "11"
+
+[person.name]
+last = "Maguire"
+
+[[person.resides]]
+dates = "1915-05-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Toledo"
+team.place.country = "US"
+team.place.state = "OH"
+team.place.city = "Toledo"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Findlay"
+team.league.name = "Buckeye League"
+
+

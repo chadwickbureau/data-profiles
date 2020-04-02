@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "Arline_James_Arthur"
+
+[person.name]
+last = "Arline"
+use = "James"
+given = "James Arthur"
+
+[person.birth]
+date = "1953-12-18"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+[person.death]
+date = "2011-04-18"
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+[person.description]
+bats = "L"
+throws = "L"
+height = "69"
+weight = "165"
+ancestry = "American Negro"
+
+[person.sameas]
+ssn = "044-46-9317"
+
+[[person.resides]]
+dates = "1974"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+place.address = "134 Hill Street"
+place.zip = "06704"
+
+
+[[person.education]]
+school.name = "Wilby High School"
+school.type = "secondary"
+dates = "/1974-01"
+degree = "graduated"
+
+
+[[person.transaction]]
+date = "1973-06"
+type = "drafted"
+join.name = "Atlanta"
+join.league.name = "National"
+round = "6"
+
+[[person.transaction]]
+date = "1973-06-28"
+type = "signed"
+join.name = "Atlanta"
+join.league.name = "National"
+signers.0.name.last = "Sukeforth"
+signers.0.name.use = "Clyde"
+signers.0.name.given = "Clyde"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "1915_023"
+
+[[person.meta.citation]]
+title = "Canton Daily News"
+date = "1915-05-30"
+pages = "8"
+
+[person.name]
+last = "Humphreys"
+use = "Harley"
+given = "Harley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Newark"
+team.league.name = "Buckeye League"
+description.position = "2B"
+
+

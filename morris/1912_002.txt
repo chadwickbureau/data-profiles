@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "1912_002"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-07-29"
+
+[person.name]
+last = "Yount"
+use = "Herbert"
+given = "Herbert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+

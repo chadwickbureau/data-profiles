@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201907_002"
+
+[[person.meta.citation]]
+title = "capitalesdequebec.com"
+date = "2019-07-26"
+url = "https://capitalesdequebec.com/fr/equipe/alignement/jesse-hodges"
+
+[person.name]
+last = "Hodges"
+use = "Jesse"
+given = "Jesse"
+
+[person.birth]
+date = "1994-03-29"
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Quebec"
+team.league.name = "Canadian-American Assocation League"
+description.bats = "R"
+description.throws = "R"
+description.height = "73"
+description.weight = "212"
+
+

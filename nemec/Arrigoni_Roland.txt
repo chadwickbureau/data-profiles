@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "Arrigoni_Roland"
+
+[person.name]
+last = "Arrigoni"
+use = "Roland"
+given = "Roland"
+
+[person.birth]
+date = "1934-04-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2011-01-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Vass"
+
+[person.description]
+bats = "R"
+throws = "R"
+

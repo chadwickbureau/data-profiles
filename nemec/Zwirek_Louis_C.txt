@@ -27,7 +27,7 @@ ssn = "203-05-2564"
 [[person.playing]]
 season = "1941"
 league.name = "Inter-State League"
-splits.0.team.name = "Bridgeport"
+split.0.team.name = "Bridgeport"
 totals.F_POS = "2B"
 totals.B_G = "1"
 totals.B_AB = "4"

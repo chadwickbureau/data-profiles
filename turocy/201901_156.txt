@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201901_156"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Cox"
+use = "Leslie"
+given = "Leslie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "27"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Des Moines"
+totals.P_G = "19"
+totals.P_W = "8"
+totals.P_L = "8"
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Springfield"
+totals.P_G = "8"
+totals.P_W = "1"
+totals.P_L = "4"
+
+

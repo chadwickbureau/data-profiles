@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201901_181"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Shanahan"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.age = "24"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Omaha"
+team.place.country = "US"
+team.place.state = "NE"
+team.place.city = "Omaha"
+team.caliber = "semipro"
+
+

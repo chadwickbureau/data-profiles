@@ -20,6 +20,6 @@ team.league.name = "Texas League"
 
 [[person.playing]]
 season = "1952"
-splits.0.team.name = "Kansas City Monarchs"
+split.0.team.name = "Kansas City Monarchs"
 
 

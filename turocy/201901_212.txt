@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201901_212"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-16"
+pages = "21"
+
+[person.name]
+last = "Bailey"
+use = "Gene"
+given = "Gene"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.position = "UT"
+description.bats = "R"
+description.throws = "R"
+description.age = "36"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1930"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Houston"
+totals.B_G = "85"
+totals.B_AVG = ".271"
+totals.F_PCT = "1.000"
+
+

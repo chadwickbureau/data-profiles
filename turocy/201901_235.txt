@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "201901_235"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1912-05-07"
+pages = "10"
+
+[person.name]
+last = "Maples"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "1912-05-06"
+type = "released"
+leave.name = "New Orleans"
+leave.league.name = "Southern Association"
+join.name = "Fort Worth"
+join.league.name = "Texas"
+
+

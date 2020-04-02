@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1908_016"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1908-03-05"
+pages = "8"
+
+[person.name]
+last = "Ragan"
+use = "Rip"
+given = "Rip"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+

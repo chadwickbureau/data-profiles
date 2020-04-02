@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_049"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-20"
+pages = "12"
+
+[person.name]
+last = "Myers"
+
+[[person.resides]]
+dates = "1915-05-20"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "3B"
+
+

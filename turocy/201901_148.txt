@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "201901_148"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-13"
+pages = "22"
+
+[person.name]
+last = "Van Camp"
+given = "A."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Des Moines"
+team.league.name = "Western League"
+description.position = "RF"
+description.bats = "R"
+description.throws = "R"
+description.age = "24"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Des Moines"
+totals.B_G = "136"
+totals.B_AVG = ".252"
+totals.F_PCT = ".916"
+
+

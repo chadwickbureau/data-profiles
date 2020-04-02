@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_009"
+
+[[person.meta.citation]]
+title = "Akron Evening Times"
+date = "1915-05-28"
+pages = "16"
+
+[person.name]
+last = "Fickel"
+
+[[person.resides]]
+dates = "1915-05-28"
+place.country = "US"
+place.state = "OH"
+place.city = "St. Marys"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "1B"
+
+

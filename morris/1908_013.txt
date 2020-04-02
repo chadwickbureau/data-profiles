@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1908_013"
+
+[[person.meta.citation]]
+title = "New Orleans Times-Democrat"
+date = "1908-02-09"
+pages = "11"
+
+[person.name]
+last = "Preston"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_206"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-15"
+pages = "9"
+
+[person.name]
+last = "Ritter"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "28"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Tuscon"
+totals.P_G = "25"
+totals.P_W = "8"
+totals.P_L = "8"
+
+

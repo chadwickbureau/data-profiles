@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "201901_098"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-12"
+pages = "8"
+
+[person.name]
+last = "McEvoy"
+given = "L. C."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1930"
+team.name = "Topeka"
+team.league.name = "Western League"
+title = "President"
+
+

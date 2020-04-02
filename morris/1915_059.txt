@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "1915_059"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-24"
+pages = "6"
+
+[person.name]
+last = "Leak"
+use = "Al"
+given = "Al"
+
+[person.description]
+note = [ "Spitballer" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Marion"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

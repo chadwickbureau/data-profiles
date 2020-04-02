@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "Armstrong_Charles_E"
+
+[person.name]
+last = "Armstrong"
+use = "Charlie"
+given = "Charles E."
+
+[person.birth]
+date = "1934-10-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Galion"
+
+[person.death]
+date = "2012-02-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Galion"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "185"
+
+[person.sameas]
+ssn = "277-28-0788"
+
+[[person.resides]]
+dates = "1953"
+place.country = "US"
+place.state = "OH"
+place.city = "Crestline"
+
+
+[[person.education]]
+school.name = "Jefferson Rural High School"
+school.type = "secondary"
+dates = "/1952"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1952"
+team.name = "Leesville"
+team.place.country = "US"
+team.place.state = "OH"
+team.place.city = "Leesville"
+team.caliber = "semipro"
+
+

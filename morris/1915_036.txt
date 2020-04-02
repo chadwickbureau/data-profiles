@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1915_036"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-07"
+pages = "15"
+
+[person.name]
+last = "Ramey"
+use = "Lloyd"
+given = "Lloyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Canton"
+team.league.name = "Central League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Canton"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

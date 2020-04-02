@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "1908_008"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1908-07-25"
+pages = "4"
+
+[person.name]
+last = "Kelly"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "University of Michigan"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Cincinnati"
+team.league.name = "National League"
+description.position = "IF"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "1915_064"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-26"
+pages = "6"
+
+[person.name]
+last = "Bonnin"
+use = "Luther"
+given = "Luther"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Marion"
+team.league.name = "Buckeye League"
+
+

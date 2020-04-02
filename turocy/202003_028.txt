@@ -25,14 +25,14 @@ description.age = "23"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "Tacoma"
+split.0.team.name = "Tacoma"
 totals.B_AVG = ".346"
 totals.B_RBI = "126"
 totals.B_HR = "21"
 
 [[person.playing]]
 season = "1948"
-splits.0.team.name = "San Diego"
+split.0.team.name = "San Diego"
 totals.B_AVG = ".244"
 totals.B_RBI = "17"
 totals.B_HR = "4"

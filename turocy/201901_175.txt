@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "201901_175"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1930-04-14"
+pages = "6"
+
+[person.name]
+last = "Bartholomew"
+use = "Lester"
+given = "Lester"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.age = "26"
+
+
+[[person.playing]]
+season = "1929"
+split.0.team.name = "Omaha"
+totals.P_G = "40"
+totals.P_W = "12"
+totals.P_L = "12"
+
+

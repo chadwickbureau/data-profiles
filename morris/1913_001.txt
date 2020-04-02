@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "1913_001"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1913-04-06"
+
+[person.name]
+last = "Hartranft"
+use = "Raymond"
+given = "Raymond"
+
+[[person.resides]]
+dates = "1913-04-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Royersford"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.position = "P"
+description.throws = "L"
+
+

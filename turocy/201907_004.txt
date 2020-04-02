@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "201907_004"
+
+[[person.meta.citation]]
+title = "empireproleague.com"
+date = "2019-07-26"
+url = "http://empireproleague.com/player/danny-muller/"
+
+[person.name]
+last = "Muller"
+use = "Danny"
+given = "Danny"
+
+[person.birth]
+date = "1990-10-28"
+
+[[person.education]]
+school.name = "Queens College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Plattsburgh"
+team.league.name = "Empire League"
+description.bats = "R"
+description.throws = "R"
+description.height = "70"
+description.weight = "195"
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Empire League"
+team.league.name = "Canadian-American Assocation League"
+
+

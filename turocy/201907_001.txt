@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "201907_001"
+
+[[person.meta.citation]]
+title = "capitalesdequebec.com"
+date = "2019-07-26"
+url = "https://capitalesdequebec.com/fr/equipe/alignement/francis-desilets"
+
+[person.name]
+last = "Desilets"
+use = "Francis"
+given = "Francis"
+
+[person.birth]
+date = "1996-06-06"
+
+[[person.affiliation]]
+type = "player"
+dates = "2019"
+team.name = "Quebec"
+team.league.name = "Canadian-American Assocation League"
+description.bats = "L"
+description.throws = "R"
+description.height = "74"
+description.weight = "180"
+
+

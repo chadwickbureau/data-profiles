@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "1915_052"
+
+[[person.meta.citation]]
+title = "Canton Evening Repository"
+date = "1915-05-22"
+pages = "3"
+
+[person.name]
+last = "Linne"
+
+[[person.resides]]
+dates = "1915-05-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Akron"
+team.league.name = "Buckeye League"
+description.position = "P"
+
+

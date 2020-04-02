@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "Arredondo_Luis"
+
+[person.name]
+last = "Arredondo"
+use = "Luis"
+given = "Luis"
+
+[person.birth]
+date = "1934"
+place.country = "MX"
+
+[person.death]
+date = "2013-10-07"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "170"
+
+[[person.resides]]
+dates = "1954"
+place.country = "MX"
+place.state = "Tamaulipas"
+place.city = "Nuevo Laredo"
+place.address = "Nuevo Leon #2318"
+
+

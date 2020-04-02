@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "1908_003"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1908-07-30"
+pages = "4"
+
+[person.name]
+last = "Doyle"
+use = "Joe"
+given = "Joe"
+nick = "Slow Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.position = "P"
+
+
