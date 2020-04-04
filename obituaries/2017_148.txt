@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2017_148"
+
+[[person.meta.citation]]
+title = "Baue Funeral Home"
+date = "2017-08-17"
+url = "https://www.baue.com/obit/william-f-bill-phelan/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-17"
+
+[person.name]
+last = "Phelan"
+use = "Bill"
+given = "William F."
+
+[person.birth]
+date = "1933-02-19"
+
+[person.death]
+date = "2017-02-06"
+

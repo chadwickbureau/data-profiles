@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_068"
+
+[[person.meta.citation]]
+title = "Clements Funeral Home"
+date = "2017-10-03"
+url = "http://www.clementsfuneralservice.com/obituaries/Max-Torrence-Palmer?obId=2582111#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-03"
+
+[person.name]
+last = "Palmer"
+use = "Max"
+given = "Max Torrence"
+
+[person.birth]
+date = "1931-06-10"
+place.country = "US"
+place.state = "NC"
+place.city = "Lenoir"
+
+[person.death]
+date = "2017-09-25"
+
+[person.burial]
+cemetery.name = "The Church of Jesus Christ of LDS Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Colfax"
+
+[[person.education]]
+school.name = "Bass HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

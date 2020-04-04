@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_003"
+
+[[person.meta.citation]]
+title = "Covenant Funeral Service"
+date = "2017-10-28"
+url = "http://www.covenantfuneralservice.com/obituary?id=311366"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-28"
+
+[person.name]
+last = "Statler"
+use = "Woody"
+given = "James Elwood"
+
+[person.birth]
+date = "1928-08-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Marion"
+
+[person.death]
+date = "2017-10-26"
+place.country = "US"
+place.state = "VA"
+place.city = "Falmouth"
+
+[person.burial]
+cemetery.name = "Norland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Chambersburg"
+
+[[person.education]]
+school.name = "Chambersburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Chambersburg"
+
+[[person.education]]
+school.name = "West Chester University of Pennsylvania"
+school.type = "college"
+
+

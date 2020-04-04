@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "2017_116"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2017-09-06"
+url = "http://www.stltoday.com/sports/soccer/st-louis-soccer-legend-bob-kehoe-dies-at/article_9f99a2c8-1f62-52e2-a253-e17468bcb9c0.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-06"
+
+[person.name]
+last = "Kehoe"
+use = "Bob"
+given = "Robert"
+
+[person.death]
+date = "2017-09-04"
+

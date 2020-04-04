@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2014_030"
+
+[[person.meta.citation]]
+title = "Topeka Capital-Journal"
+date = "2014-02-12"
+url = "http://www.penwellgabeltopeka.com/obituary.aspx?src=choice&obitid=77712&fname=Terry&lname=Bettis&city=Topeka&st=KS"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "Bettis"
+use = "Terry"
+given = "Terry"
+
+[person.birth]
+date = "1947-10-23"
+place.country = "US"
+place.state = "MO"
+place.city = "Brookfield"
+
+[person.death]
+date = "2014-02-11"
+
+[person.burial]
+cemetery.name = "Mount Hope Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Topeka"
+
+[[person.education]]
+school.name = "Topeka West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Topeka"
+
+[[person.education]]
+school.name = "Washburn University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Topeka"
+
+

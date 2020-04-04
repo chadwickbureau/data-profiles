@@ -1,0 +1,102 @@
+[[person]]
+
+[person.meta]
+key = "20170625_046"
+
+[[person.meta.citation]]
+title = "Carbondale Free Press"
+date = "1923-08-09"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1923-09-27"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1925-09-23"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1921-03-23"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1926-04-24"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1927-06-08"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1927-08-30"
+pages = "1"
+
+[person.name]
+last = "Smith"
+use = "Ben"
+given = "J. B."
+nick = "Candy"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "IL"
+place.city = "Carbondale"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kinston"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wilson"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+
+

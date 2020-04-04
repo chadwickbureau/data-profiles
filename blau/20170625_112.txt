@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170625_112"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Loepp"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kitchener"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Hattiesburg"
+team.league.name = "Cotton States League"
+
+

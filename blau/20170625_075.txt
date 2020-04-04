@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_075"
+
+[person.name]
+last = "Lassell"
+use = "Dick"
+given = "Richard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Beatrice"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Spokane"
+team.league.name = "Western International League"
+
+

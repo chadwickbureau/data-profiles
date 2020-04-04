@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "2014_076"
+
+[[person.meta.citation]]
+title = "Morning Sun"
+date = "2014-03-07"
+url = "http://www.legacy.com/obituaries/morningsun/obituary.aspx?n=Harold-Swigart&pid=170041914"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-07"
+
+[person.name]
+last = "Swigart"
+use = "Harold"
+given = "Harold"
+
+[person.birth]
+date = "1929-12-30"
+place.country = "US"
+place.state = "KS"
+place.city = "Mulberry"
+
+[person.death]
+date = "2014-03-06"
+place.country = "US"
+place.state = "KS"
+place.city = "Pittsburg"
+
+[person.burial]
+cemetery.name = "Rosebank Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Mulberry"
+
+[[person.education]]
+school.name = "Mulberry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Mulberry"
+
+[[person.education]]
+school.name = "Fort Scott Community College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Fort Scott"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

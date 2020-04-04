@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2014_035"
+
+[[person.meta.citation]]
+title = "Contra Costa Times"
+date = "2014-02-14"
+url = "http://www.legacy.com/obituaries/contracostatimes/obituary.aspx?n=David-Faszholz&pid=169664168"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "Faszholz"
+use = "Dave"
+given = "David Charles"
+
+[person.birth]
+date = "1933-04-30"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2014-02-10"
+
+[[person.education]]
+school.name = "Concordia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+[[person.education]]
+school.name = "Concordia University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Seward"
+
+

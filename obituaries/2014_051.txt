@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2014_051"
+
+[[person.meta.citation]]
+title = "Fresno Bee"
+date = "2014-02-21"
+url = "http://www.legacy.com/obituaries/fresnobee/obituary.aspx?n=JAMESON-TRABER&pid=169782701"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-21"
+
+[person.name]
+last = "Traber"
+use = "Jamie"
+given = "Jameson"
+
+[person.birth]
+date = "1953-10-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2014-02-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Arroyo Grande"
+
+[person.burial]
+cemetery.name = "Arroyo Grande Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Arroyo Grande"
+
+[[person.education]]
+school.name = "McLane HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Fresno"
+
+

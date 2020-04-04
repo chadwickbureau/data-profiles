@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_033"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1909-03-13"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1910-08-13"
+pages = "25"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1910-01-12"
+pages = "8"
+
+[person.name]
+last = "Kerner"
+use = "Phillip"
+given = "Phillip A."
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.league.name = "Colorado State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+

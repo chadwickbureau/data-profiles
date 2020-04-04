@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "2014_036"
+
+[[person.meta.citation]]
+title = "Erie Times-News"
+date = "2014-02-15"
+url = "http://www.legacy.com/obituaries/erietimesnews/obituary.aspx?n=george-emil-francis-kaufman&pid=169679989&fhid=8578"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-15"
+
+[person.name]
+last = "Kaufman"
+use = "George"
+given = "George Emil Francis"
+
+[person.birth]
+date = "1935-05-26"
+
+[person.death]
+date = "2014-02-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Erie"
+
+[[person.education]]
+school.name = "Cathedral Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Erie"
+
+[[person.education]]
+school.name = "Gannon College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Erie"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "20170625_125"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1922-02-24"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-05-23"
+pages = "9"
+
+[person.name]
+last = "Maloney"
+use = "Gus"
+given = "Harry G."
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Port Huron"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Kitchener"
+team.league.name = "Michigan-Ontario League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_059"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1920-08-05"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Charlotte News"
+date = "1920-05-09"
+pages = "10"
+
+[person.name]
+last = "Bruner"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Charlotte"
+team.league.name = "South Atlantic League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "2017_039"
+
+[[person.meta.citation]]
+title = "Fuentes Fidedignas"
+date = "2017-10-13"
+url = "http://www.fuentesfidedignas.com.mx/portal2015/index.php/nota-principal/160-noticias-en-general/26526-fallece-gabriel-lugo-morales-idolo-del-beisbol-sinaloense"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "Lugo"
+use = "Gabriel"
+given = "Gabriel"
+matrilineal = "Morales"
+nick = "Jefe Cejas"
+
+[person.death]
+date = "2017-09-18"
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170625_118"
+
+[[person.meta.citation]]
+title = "Laurel Morning Call"
+date = "1929-05-26"
+pages = "7"
+
+[person.name]
+last = "Bysco"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Laurel"
+team.league.name = "Cotton States League"
+description.throws = "R"
+
+

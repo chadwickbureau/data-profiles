@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_008"
+
+[[person.meta.citation]]
+title = "CBS New York"
+date = "2017-10-26"
+url = "http://newyork.cbslocal.com/2017/10/26/herb-raybourn-dies/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-26"
+
+[person.name]
+last = "Raybourn"
+use = "Herb"
+given = "Herb"
+
+[person.birth]
+place.country = "PA"
+
+[person.death]
+date = "2017-10-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Bradenton"
+
+[[person.education]]
+school.name = "Bradley University"
+school.type = "college"
+
+

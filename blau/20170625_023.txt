@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_023"
+
+[[person.meta.citation]]
+title = "Monroe Star-News"
+date = "1931-12-09"
+pages = "6"
+
+[person.name]
+last = "Thomas"
+use = "Kane"
+given = "Kane"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+

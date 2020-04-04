@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170625_096"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1910-04-27"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1911-04-05"
+pages = "2"
+
+[person.name]
+last = "Trammell"
+use = "Purse"
+given = "Purse"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "SC"
+place.city = "Greer"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+

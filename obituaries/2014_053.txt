@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2014_053"
+
+[[person.meta.citation]]
+title = "Everett Herald"
+date = "2014-02-23"
+url = "http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Herb-Anderson&pid=169835927"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-23"
+
+[person.name]
+last = "Anderson"
+use = "Herb"
+given = "Herbert Joseph"
+
+[person.birth]
+place.country = "US"
+place.state = "WA"
+place.city = "Everett"
+
+[person.death]
+date = "2014-02-04"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Haven"
+
+[[person.education]]
+school.name = "Everett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Everett"
+
+

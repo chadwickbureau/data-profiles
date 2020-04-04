@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "105400"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/105400"
+title = "The Sporting News Player Contract Cards, ScanID: 1036006533"
+
+[person.name]
+last = "Raunikar"
+given = "Frankie"
+
+
+[[person.transaction]]
+date = "1953-10-14"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1953-10-14"
+
+[[person.transaction]]
+date = "1954-03-31"
+type = "released"
+leave.name = "Aberdeen"
+note = "rel 1954-03-31"
+

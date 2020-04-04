@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0049"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-12-17"
+url = "https://www.findagrave.com/memorial/25313858/charles-ted-turney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-17"
+
+[person.name]
+last = "Turney"
+use = "Charles"
+given = "Charles Ted"
+
+[person.birth]
+date = "1936-01-11"
+place.country = "US"
+place.state = "NC"
+place.city = "Gastonia"
+
+[person.death]
+date = "1987-04-28"
+place.country = "US"
+place.state = "NC"
+place.city = "Gastonia"
+
+[person.burial]
+cemetery.name = "Gaston Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Gastonia"
+
+[person.sameas]
+findagrave = "25313858"
+

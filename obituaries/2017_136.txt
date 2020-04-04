@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_136"
+
+[[person.meta.citation]]
+title = "GoStandford.com"
+date = "2017-08-22"
+url = "http://www.gostanford.com/news/2017/8/22/athletics-we-ll-miss-you-murph.aspx"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-23"
+
+[person.name]
+last = "Murphy"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "Stanford"
+
+[person.death]
+date = "2017-08-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Cruz"
+
+[[person.education]]
+school.name = "San Mateo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+

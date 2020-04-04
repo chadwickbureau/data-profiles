@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2014_010"
+
+[[person.meta.citation]]
+title = "Honolulu Star-Advertiser"
+date = "2014-01-31"
+url = "http://obits.staradvertiser.com/2014/01/31/larry-tsutomu-yaji/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-02"
+
+[person.name]
+last = "Yaji"
+use = "Larry"
+given = "Larry Tsutomu"
+
+[person.birth]
+date = "1926"
+place.country = "US"
+place.state = "HI"
+place.city = "Honolulu"
+
+[person.death]
+date = "2013-12-30"
+place.country = "US"
+place.state = "HI"
+place.city = "Wahiawa"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

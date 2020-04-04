@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170625_027"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1925-03-22"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1926-02-01"
+pages = "6"
+
+[person.name]
+last = "Keller"
+use = "Elmer"
+given = "Elmer"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+dates = "/1923"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+

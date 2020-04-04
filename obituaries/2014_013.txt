@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2014_013"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2014-02-03"
+url = "http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=John-Imbra&pid=169488012"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-03"
+
+[person.name]
+last = "Imbra"
+use = "John"
+given = "John A."
+
+[person.birth]
+date = "1925"
+
+[person.death]
+date = "2014"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hillside"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

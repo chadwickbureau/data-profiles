@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_090"
+
+[[person.meta.citation]]
+title = "Bluffton Funeral Home"
+date = "2017-09-19"
+url = "https://www.fhwsolutions.com/obituaries/bluffton-funeral-services/charles-edward-lefty-fetner-obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-19"
+
+[person.name]
+last = "Fetner"
+use = "Lefty"
+given = "Charles Edward"
+
+[person.birth]
+date = "1927-08-16"
+place.country = "US"
+place.state = "AL"
+place.city = "Lanett"
+
+[person.death]
+date = "2017-09-12"
+place.country = "US"
+place.state = "AL"
+place.city = "Alexander City"
+
+[[person.education]]
+school.name = "Lanett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Lanett"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

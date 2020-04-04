@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_113"
+
+[[person.meta.citation]]
+title = "Bosma-Renkes Funeral Home"
+date = "2017-09-08"
+url = "http://www.bosmarenkes.com/obits/obituaries.php/obitID/64273"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-08"
+
+[person.name]
+last = "Fields"
+use = "Walter"
+given = "Walter Leo"
+suffix = "Jr."
+
+[person.birth]
+date = "1925-05-03"
+place.country = "US"
+place.state = "IN"
+place.city = "Straughn"
+
+[person.death]
+date = "2017-08-28"
+
+[person.burial]
+cemetery.name = "Cottonwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Edwards"
+
+[[person.education]]
+school.name = "Butler University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

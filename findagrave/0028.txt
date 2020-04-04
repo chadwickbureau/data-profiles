@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0028"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-07"
+url = "https://www.findagrave.com/memorial/84171453/arthur-yancey-ball"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Ball"
+use = "Arthur"
+given = "Arthur Yancey"
+
+[person.birth]
+date = "1928-08-05"
+
+[person.death]
+date = "2012-01-27"
+
+[person.burial]
+cemetery.name = "Parklawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Winston-Salem"
+
+[person.sameas]
+findagrave = "84171453"
+

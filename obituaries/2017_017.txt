@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_017"
+
+[[person.meta.citation]]
+title = "Silha Funeral Home"
+date = "2017-10-24"
+url = "http://www.silhafuneralhomes.com/obituaries/Robert-Waldal/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-24"
+
+[person.name]
+last = "Waldal"
+use = "Bob"
+given = "Robert Dean"
+
+[person.birth]
+date = "1946-08-24"
+
+[person.death]
+date = "2017-10-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Beach"
+
+[person.burial]
+cemetery.name = "St. John's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ND"
+cemetery.place.city = "Beach"
+
+[[person.education]]
+school.name = "Westchester HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "Dickinson State University"
+school.type = "college"
+
+

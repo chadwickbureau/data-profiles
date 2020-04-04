@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "2017_096"
+
+[[person.meta.citation]]
+title = "Citizen Times"
+date = "2017-09-14"
+url = "http://www.citizen-times.com/story/sports/college/2017/09/14/western-carolina-university-athletics-great-jerry-gaines-has-died/665687001/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Gaines"
+use = "Jerry"
+given = "Jerry"
+
+[person.death]
+date = "2017-09-05"
+place.country = "US"
+place.state = "VA"
+place.city = "Chesapeake"
+
+[[person.education]]
+school.name = "Western Carolina University"
+school.type = "college"
+
+

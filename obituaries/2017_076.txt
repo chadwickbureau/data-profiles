@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_076"
+
+[[person.meta.citation]]
+title = "Porterville Recorder"
+date = "2017-09-25"
+url = "http://www.legacy.com/obituaries/recorderonline/obituary.aspx?n=jack-j-bryson&pid=186757592&fhid=3672"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Bryson"
+use = "Jack"
+given = "Jack J."
+
+[person.birth]
+date = "1923-11-06"
+place.country = "US"
+place.state = "NC"
+place.city = "Flatrock"
+
+[person.death]
+date = "2017-09-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Porterville"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Porterville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

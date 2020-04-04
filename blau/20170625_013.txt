@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170625_013"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1949-09-14"
+pages = "28"
+
+[person.name]
+last = "Slyker"
+use = "William"
+given = "William"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Huron"
+
+[person.death]
+date = "1949-09-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+

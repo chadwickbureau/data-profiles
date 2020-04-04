@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20170625_135"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1924-02-26"
+pages = "12"
+
+[person.name]
+last = "Bell"
+use = "Hi"
+given = "H. S."
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Louis"
+team.league.name = "National League"
+
+

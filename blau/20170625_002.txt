@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20170625_002"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1923-04-27"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Minor League Encyclopedia"
+
+[person.name]
+last = "Johnson"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

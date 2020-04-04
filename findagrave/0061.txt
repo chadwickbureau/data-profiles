@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0061"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-02"
+url = "https://www.findagrave.com/memorial/59008310/lib-burkes-jones"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-02"
+
+[person.name]
+last = "Jones"
+use = "LB"
+given = "Lib Burkes"
+
+[person.birth]
+date = "1910-07-20"
+
+[person.death]
+date = "1995-02-13"
+
+[person.burial]
+cemetery.name = "IOOF Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Greenwood"
+
+[person.sameas]
+findagrave = "59008310"
+

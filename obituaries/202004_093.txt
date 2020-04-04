@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202004_093"
+
+[[person.meta.citation]]
+title = "News & Record"
+date = "2016-01-03"
+url = "http://www.greensboro.com/obituaries/johnson-jr-john-stanley/article_64055adf-cbca-5f84-8d87-2353aa1553ed.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Johnson"
+use = "Stan"
+given = "John Stanley"
+suffix = "Jr."
+
+[person.death]
+date = "2015-12-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[[person.education]]
+school.name = "Wake Forest University"
+school.type = "college"
+
+

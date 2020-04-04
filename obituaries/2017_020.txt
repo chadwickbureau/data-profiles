@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_020"
+
+[[person.meta.citation]]
+title = "Routsong Funeral Home"
+date = "2017-10-24"
+url = "https://www.routsong.com/obituary/Paul-V.-Kurpiel/West-Carrollton-Ohio/1759501"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-24"
+
+[person.name]
+last = "Kurpiel"
+use = "Paul"
+given = "Paul V."
+
+[person.birth]
+date = "1951-11-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2017-10-18"
+place.country = "US"
+place.state = "OH"
+place.city = "Kettering"
+
+[[person.education]]
+school.name = "Chaminade HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Dayton"
+
+[[person.education]]
+school.name = "Ohio State University"
+school.type = "college"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170625_087"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1924-04-29"
+pages = "9"
+
+[person.name]
+last = "Rentz"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_054"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "2014-02-23"
+url = "http://www.legacy.com/obituaries/azcentral/obituary.aspx?n=Verde-Dickey&pid=169805099"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-23"
+
+[person.name]
+last = "Dickey"
+use = "Verde"
+given = "Verde Vance"
+
+[person.birth]
+date = "1932-08-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Sherman"
+
+[person.death]
+date = "2014-02-15"
+
+[[person.education]]
+school.name = "W. H. Adamson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Southern Methodist University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2017_131"
+
+[[person.meta.citation]]
+title = "E. J. Fielding Funeral Home"
+date = "2017-08-28"
+url = "http://www.ejfieldingfh.com/obituaries/Louis-Crane/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-28"
+
+[person.name]
+last = "Crane"
+use = "Louis"
+given = "Louis Farrell"
+
+[person.birth]
+date = "1940-12-02"
+place.country = "US"
+place.state = "MS"
+place.city = "Richmond"
+
+[person.death]
+date = "2017-08-24"
+

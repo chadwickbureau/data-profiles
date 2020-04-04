@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2014_008"
+
+[[person.meta.citation]]
+title = "Republican-American"
+date = "2014-02-02"
+url = "http://www.rep-am.com/Obituaries/781843.txt"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-02"
+
+[person.name]
+last = "Porto"
+use = "Larry"
+given = "Lawrence G."
+
+[person.birth]
+date = "1921-07-02"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+[person.death]
+date = "2014-02-01"
+place.country = "US"
+place.state = "CT"
+place.city = "Cheshire"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Waterbury"
+
+[[person.education]]
+school.name = "Leavenworth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Waterbury"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

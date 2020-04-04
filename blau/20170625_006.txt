@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_006"
+
+[[person.meta.citation]]
+title = "2017 National Pastime"
+
+[person.name]
+last = "Toolson"
+use = "Earl"
+given = "George Earl"
+
+[person.death]
+date = "1987-11-27"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1942"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+

@@ -1,0 +1,102 @@
+[[person]]
+
+[person.meta]
+key = "20170625_050"
+
+[[person.meta.citation]]
+title = "Thomasville Times Enterprise"
+date = "1927-07-05"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1927-08-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1927-08-20"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1928-03-13"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1924-08-27"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-11-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[person.name]
+last = "Mills"
+use = "Ollie"
+given = "W. C."
+nick = "Casey"
+
+[person.birth]
+date = "1902-02-25"
+place.country = "US"
+place.state = "WV"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Enid"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Lincoln"
+team.league.name = "Western League"
+description.height = "71.5"
+description.weight = "170"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Savannah"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

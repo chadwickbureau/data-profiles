@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_030"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1930-04-26"
+pages = "19"
+
+[person.name]
+last = "Kelly"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Akron"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+

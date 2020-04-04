@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_034"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1925-09-15"
+pages = "5"
+
+[person.name]
+last = "Crump"
+use = "Buddy"
+given = "Buddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "New York"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Rocky Mount"
+team.league.name = "Virginia League"
+
+

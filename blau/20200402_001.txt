@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200402_001"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "1915-06-09"
+pages = "41"
+
+[person.name]
+last = "Lohman"
+use = "Zeke"
+given = "Zeke"
+
+[person.description]
+note = [ "has photograph" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lowell"
+team.league.name = "New England League"
+description.throws = "R"
+
+

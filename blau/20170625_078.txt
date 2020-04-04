@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_078"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "1921-05-01"
+pages = "22"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1921-06-14"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1922-05-28"
+pages = "4"
+
+[person.name]
+last = "Duggan"
+use = "Elmer"
+given = "Elmer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

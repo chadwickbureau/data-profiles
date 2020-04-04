@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "2017_121"
+
+[[person.meta.citation]]
+title = "Dudley Hoffman Mortuary"
+date = "2017-09-05"
+url = "http://www.dudleyhoffmanmortuary.com/obituary/mario-luigi-domenico-cosma"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Cosma"
+use = "Mario"
+given = "Mario Luigi Domenico"
+
+[person.birth]
+date = "1939-05-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Barbara"
+
+[person.death]
+date = "2017-08-26"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Santa Barbara"
+
+[[person.education]]
+school.name = "Santa Barbara Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Barbara"
+
+[[person.education]]
+school.name = "Santa Barbara City College"
+school.type = "college"
+
+[[person.education]]
+school.name = "College of the Canyons"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

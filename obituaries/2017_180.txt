@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_180"
+
+[[person.meta.citation]]
+title = "Williams Pioneer Review"
+date = "2017-08-02"
+url = "https://williamspioneer.com/article/82679"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-07"
+
+[person.name]
+last = "Dana"
+use = "Dave"
+given = "Donald David"
+
+[person.birth]
+date = "1929-05-07"
+place.country = "US"
+place.state = "WA"
+place.city = "Olympia"
+
+[person.death]
+date = "2017-07-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Yuba City"
+
+[[person.education]]
+school.name = "University HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Eugene"
+
+[[person.education]]
+school.name = "Humboldt State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

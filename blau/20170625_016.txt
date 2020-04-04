@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "20170625_016"
+
+[[person.meta.citation]]
+title = "Honolulu Star-Bulletin"
+date = "1928-05-24"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Santa Cruz Evening News"
+date = "1928-02-02"
+pages = "8"
+
+[person.name]
+last = "Jones"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Salt Lake City"
+team.league.name = "Utah-Idaho League"
+description.bats = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "San Francisco"
+team.league.name = "Pacific Coast League"
+
+

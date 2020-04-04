@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_059"
+
+[[person.meta.citation]]
+title = "Andrews Funeral Home"
+date = "2017-10-04"
+url = "http://www.andrewsfuneralservices.com/fh/obituaries/obituary.cfm?o_id=4392884&fh_id=14468"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Farinholt"
+use = "Blair"
+given = "Harvey Blair"
+
+[person.birth]
+date = "1937-05-13"
+
+[person.death]
+date = "2017-09-28"
+place.country = "US"
+place.state = "VA"
+place.city = "Gloucester"
+
+[[person.education]]
+school.name = "Virginia Episcopal School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Lynchburg"
+
+

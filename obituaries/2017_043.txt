@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_043"
+
+[[person.meta.citation]]
+title = "Middletown Press"
+date = "2017-10-09"
+url = "http://www.legacy.com/obituaries/middletownpress/obituary.aspx?n=robert-coleman&pid=186885842&fhid=20371&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Coleman"
+use = "Robert"
+given = "Robert Edward"
+
+[person.birth]
+date = "1925-10-29"
+place.country = "US"
+place.state = "CT"
+place.city = "Middletown"
+
+[person.death]
+date = "2017-10-03"
+place.country = "US"
+place.state = "FL"
+place.city = "Port St. Lucie"
+
+[person.burial]
+cemetery.name = "Indian Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Middletown"
+
+[[person.education]]
+school.name = "Suffield Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Suffield"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

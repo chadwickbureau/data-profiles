@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_111"
+
+[[person.meta.citation]]
+title = "Brunswick Funeral Home"
+date = "2017-09-10"
+url = "http://www.brunswickfuneralservice.com/shallotte/obituaries/825"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-10"
+
+[person.name]
+last = "Otten"
+use = "Ron"
+given = "Ronald William"
+
+[person.birth]
+date = "1932-07-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+[person.death]
+date = "2017-09-01"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

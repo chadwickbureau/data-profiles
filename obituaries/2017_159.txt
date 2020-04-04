@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_159"
+
+[[person.meta.citation]]
+title = "Greenlawn Funeral Home"
+date = "2017-08-15"
+url = "http://www.greenlawnfuneralhome.com/book-of-memories/3055167/Mullings-Robert-Chub/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Mullings"
+use = "Robert"
+given = "Robert"
+nick = "Chub"
+
+[person.birth]
+date = "1952-10-01"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"
+
+[person.death]
+date = "2017-08-13"
+place.country = "US"
+place.state = "MO"
+place.city = "Bolivar"
+
+[[person.education]]
+school.name = "Marion C. Early HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Morrisville"
+
+

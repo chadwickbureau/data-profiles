@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200402_005"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-07-22"
+pages = "7"
+
+[person.name]
+last = "Page"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Worcester"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Worcester"
+team.league.name = "New England League"
+
+

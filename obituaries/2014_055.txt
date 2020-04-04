@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2014_055"
+
+[[person.meta.citation]]
+title = "Wyoming County Examiner"
+date = "2013-09-25"
+url = "http://www.legacy.com/obituaries/newage-examiner/obituary.aspx?n=Richard-Mosier&pid=167149978#fbLoggedOut"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-02-23"
+
+[person.name]
+last = "Mosier"
+use = "Dick"
+given = "Richard Forest"
+
+[person.birth]
+date = "1917-01-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Tunkhannock"
+
+[person.death]
+date = "2013-09-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Zephyrhills"
+
+[person.burial]
+cemetery.name = "Hillsboro Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Brandon"
+
+[[person.education]]
+school.name = "Tunkhannock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Tunkhannock"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

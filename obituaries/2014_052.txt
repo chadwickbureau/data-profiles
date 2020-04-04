@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2014_052"
+
+[[person.meta.citation]]
+title = "The Examiner"
+date = "2014-02-22"
+url = "http://www.examiner.com/article/hector-maestri-78-pitched-for-both-washington-senators-teams"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-02-22"
+
+[person.name]
+last = "Maestri"
+use = "Hector"
+given = "Hector"
+
+[person.death]
+date = "2014-02-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+

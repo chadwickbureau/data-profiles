@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "2017_073"
+
+[[person.meta.citation]]
+title = "Jones, Riche & Barnes Funeral Home"
+date = "2017-10-02"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Norman-Phillips&lc=1633&pid=186726177&mid=7570270"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-22"
+
+[person.name]
+last = "Phillips"
+use = "Ed"
+given = "Norman Edwin"
+suffix = "II"
+
+[person.birth]
+date = "1944-09-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Ardmore"
+
+[person.death]
+date = "2017-09-20"
+
+[person.burial]
+cemetery.name = "Laurel Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ME"
+cemetery.place.city = "Saco"
+
+[[person.education]]
+school.name = "Deering HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "Colby College"
+school.type = "college"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170625_048"
+
+[[person.meta.citation]]
+title = "Charleston Daily Mail"
+date = "1928-01-18"
+
+[person.name]
+last = "Spencer"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Savannah"
+team.league.name = "Southeastern League"
+description.throws = "L"
+
+

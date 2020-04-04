@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202004_001"
+
+[[person.meta.citation]]
+title = "WV Certificate of Death"
+
+[[person.meta.contributor]]
+name.last = "Copeland"
+name.use = "Tim"
+email = "timcopeland64@gmail.com"
+date = "2015-05-13"
+
+[person.name]
+last = "Titlow"
+use = "William"
+given = "William Franklin"
+
+[person.birth]
+date = "1887-09-12"
+place.country = "US"
+place.state = "WV"
+place.city = "Winifrede"
+
+[person.death]
+date = "1961-05-12"
+place.country = "US"
+place.state = "WV"
+place.city = "Oak Hill"
+
+[person.burial]
+cemetery.name = "Highland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Oak Hill"
+

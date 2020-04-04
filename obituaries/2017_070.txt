@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_070"
+
+[[person.meta.citation]]
+title = "Napa Valley Register"
+date = "2017-09-29"
+url = "http://napavalleyregister.com/lifestyles/announcements/obituaries/ronald-k-goode/article_071e4c8b-059b-58f2-9467-1c91b073cfb0.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-03"
+
+[person.name]
+last = "Goode"
+use = "Ron"
+given = "Ronald K."
+
+[person.birth]
+date = "1932-05-27"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2017-09-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Napa"
+
+[[person.education]]
+school.name = "Santa Rosa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Rosa"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

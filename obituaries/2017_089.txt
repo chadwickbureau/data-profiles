@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_089"
+
+[[person.meta.citation]]
+title = "Messinger Mortuary"
+date = "2017-09-20"
+url = "https://www.messingermortuary.com/notices/Mel-Didier"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-20"
+
+[person.name]
+last = "Didier"
+use = "Mel"
+given = "Mel J."
+suffix = "Sr."
+
+[person.birth]
+date = "1926-06-25"
+
+[person.death]
+date = "2017-09-11"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"
+
+

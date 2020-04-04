@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20170625_100"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1901-12-07"
+pages = "2"
+
+[person.name]
+last = "Ballantyne"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.height = "68"
+description.weight = "170"
+
+

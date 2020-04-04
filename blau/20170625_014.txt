@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "20170625_014"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1935-03-31"
+pages = "22"
+
+[[person.meta.citation]]
+title = "McComb Semi-Weekly Journal"
+date = "1935-09-19"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1935-06-09"
+pages = "19"
+
+[person.name]
+last = "Jones"
+use = "Clinton"
+given = "Clinton"
+
+[[person.resides]]
+dates = "1935"
+place.country = "US"
+place.state = "MS"
+place.city = "McComb"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Opelousas"
+team.league.name = "Evangeline League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Pine Bluff"
+team.league.name = "East Dixie League"
+
+

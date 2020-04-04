@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_052"
+
+[[person.meta.citation]]
+title = "Ware Funeral Home"
+date = "2017-10-09"
+url = "http://www.warefh.com/obituary/john-herrnstein-"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Herrnstein"
+use = "John"
+given = "John Ellett"
+
+[person.birth]
+date = "1938-03-31"
+place.country = "US"
+place.state = "VA"
+place.city = "Hampton"
+
+[person.death]
+date = "2017-10-03"
+
+[person.sameas]
+sr_cfb = "john-herrnstein-1"
+
+[[person.education]]
+school.name = "Chillicothe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Chillicothe"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+

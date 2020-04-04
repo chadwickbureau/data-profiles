@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_081"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1924-02-01"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Wausau Daily Herald"
+date = "1924-08-25"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1925-04-23"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Lebanon Daily News"
+date = "1925-04-24"
+pages = "6"
+
+[person.name]
+last = "Lewis"
+use = "John"
+given = "John T."
+nick = "Peewee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Austin"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+

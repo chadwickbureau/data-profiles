@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_091"
+
+[[person.meta.citation]]
+title = "Doane Beal & Ames Funeral Home"
+date = "2017-09-19"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Carroll-Gouger&lc=7208&pid=186463053&mid=7533978"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-19"
+
+[person.name]
+last = "Gouger"
+use = "Pete"
+given = "Carroll A."
+
+[person.birth]
+date = "1923-05-05"
+place.country = "US"
+place.state = "VT"
+place.city = "North Pownal"
+
+[person.death]
+date = "2017-08-21"
+
+[[person.education]]
+school.name = "Drury HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "North Adams"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

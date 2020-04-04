@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "78484"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/78484"
+title = "The Sporting News Player Contract Cards, ScanID: 1019004939"
+
+[person.name]
+last = "Hawks"
+given = "William Horton"
+
+
+[[person.transaction]]
+date = "1952-05-09"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1952-05-09"
+
+[[person.transaction]]
+date = "1952-05-17"
+type = "suspended"
+leave.name = "Raleigh"
+note = "1952-05-17"
+
+[[person.transaction]]
+date = "1952-09-12"
+type = "reinstated"
+join.name = "Raleigh"
+note = "reins 1952-09-12"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Raleigh"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-03-24"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1953-03-24"
+

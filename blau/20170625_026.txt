@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_026"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1915-06-23"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1914-02-11"
+pages = "2"
+
+[person.name]
+last = "Keene"
+use = "Brown"
+given = "Brown"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Springfield"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+
+

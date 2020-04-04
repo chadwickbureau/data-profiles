@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_132"
+
+[[person.meta.citation]]
+title = "LaGrone Funeral Chapel"
+date = "2017-08-28"
+url = "http://www.lagroneruidoso.com/services.asp?locid=17&page=odetail&id=78813"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-28"
+
+[person.name]
+last = "Crouse"
+use = "Jim"
+given = "James Urban"
+suffix = "Jr."
+
+[person.birth]
+date = "1932-09-08"
+
+[person.death]
+date = "2017-08-22"
+
+[[person.education]]
+school.name = "Roswell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NM"
+school.place.city = "Roswell"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"
+
+

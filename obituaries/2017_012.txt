@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2017_012"
+
+[[person.meta.citation]]
+title = "Doughty Funeral Home"
+date = "2017-10-26"
+url = "http://www.doughtyfuneralhome.com/sitemaker/sites/Dought1/obit.cgi?user=55164873_SChurn"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-26"
+
+[person.name]
+last = "Churn"
+use = "Slim"
+given = "Clarence Nottingham"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-02-01"
+
+[person.death]
+date = "2017-10-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Lady Lake"
+
+[person.description]
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

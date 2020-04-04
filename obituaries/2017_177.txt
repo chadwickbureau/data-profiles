@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_177"
+
+[[person.meta.citation]]
+title = "Ralph F. Scott Funeral Home"
+date = "2017-08-08"
+url = "http://www.ralphfscott.com/notices/David-SparksDude"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-08"
+
+[person.name]
+last = "Sparks"
+use = "Dave"
+given = "David Alan"
+nick = "Dude"
+
+[person.birth]
+date = "1951-03-04"
+place.country = "US"
+place.state = "KY"
+place.city = "Maysville"
+
+[person.death]
+date = "2017-08-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Wheelersburg"
+
+[[person.education]]
+school.name = "Portsmouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Portsmouth"
+
+[[person.education]]
+school.name = "Ohio University"
+school.type = "college"
+
+

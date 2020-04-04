@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0056"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-13"
+url = "https://www.findagrave.com/memorial/192495042"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-13"
+
+[person.name]
+last = "Elwert"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1880-01-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Hamilton County"
+
+[person.death]
+date = "1939-08-19"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[person.burial]
+cemetery.name = "Toledo Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Sylvania"
+
+[person.sameas]
+findagrave = "192495042"
+

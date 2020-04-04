@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0046"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-11-24"
+url = "https://www.findagrave.com/memorial/151258071/george-anthony-bope"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-11-24"
+
+[person.name]
+last = "Bope"
+use = "George"
+given = "George Anthony"
+
+[person.birth]
+date = "1892-03-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "1963-07-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Bellevue"
+
+[person.burial]
+cemetery.name = "Christ Our Redeemer Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Pittsburgh"
+
+[person.sameas]
+findagrave = "151258071"
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_074"
+
+[[person.meta.citation]]
+title = "Moody-Connolly Funeral Home"
+date = "2017-10-02"
+url = "http://www.moodyconnollyfuneralhome.com/book-of-memories/3169528/Frisbee-Grover/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Frisbee"
+use = "Grover"
+given = "Grover William"
+
+[person.birth]
+date = "1928-12-07"
+place.country = "US"
+place.state = "NC"
+place.city = "Spring Creek"
+
+[person.death]
+date = "2017-09-24"
+place.country = "US"
+place.state = "NC"
+place.city = "Brevard"
+
+[person.burial]
+cemetery.name = "Blue Ridge Gardens of Memory Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Pisgah Forest"
+

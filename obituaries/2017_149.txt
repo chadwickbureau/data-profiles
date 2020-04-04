@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_149"
+
+[[person.meta.citation]]
+title = "Daily Independent"
+date = "2017-08-17"
+url = "http://www.dailyindependent.com/sports/reds-legend-wheelersburg-native-bennett-dies/article_13ed5360-82f8-11e7-893f-4774513117d9.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-17"
+
+[person.name]
+last = "Bennett"
+use = "Gene"
+given = "Gene"
+
+[person.death]
+date = "2017-08-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[[person.education]]
+school.name = "Wheelersburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Wheelersburg"
+
+

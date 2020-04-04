@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_138"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1922-06-28"
+pages = "9"
+
+[person.name]
+last = "Bye"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Sioux Falls"
+team.league.name = "Dakota League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202004_094"
+
+[[person.meta.citation]]
+title = "Hodges-Kiser Funeral Home"
+date = "2018-05-28"
+url = "http://hodges-kiser.tributes.com/dignitymemorial/obituary/Raymond-Carl-Lindquist-104380983"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-28"
+
+[person.name]
+last = "Lindquist"
+use = "Raymond"
+given = "Raymond Carl"
+
+[person.birth]
+date = "1929-09-30"
+
+[person.death]
+date = "2017-01-18"
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_023"
+
+[[person.meta.citation]]
+title = "Pisarski Funeral Home"
+date = "2017-10-21"
+url = "http://www.pisarskifuneralhome.com/obituary/roger-patoka"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-21"
+
+[person.name]
+last = "Patoka"
+use = "Roger"
+given = "Roger D."
+
+[person.birth]
+date = "1959-08-31"
+place.country = "US"
+place.state = "WI"
+place.city = "Stevens Point"
+
+[person.death]
+date = "2017-10-19"
+
+[person.burial]
+cemetery.name = "Guardian Angel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Stevens Point"
+
+[[person.education]]
+school.name = "Stevens Point Area Senior HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Stevens Point"
+
+[[person.education]]
+school.name = "University of Wisconsin-Stevens Point"
+school.type = "college"
+
+

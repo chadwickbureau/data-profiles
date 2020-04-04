@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_013"
+
+[[person.meta.citation]]
+title = "Florida Today"
+date = "2017-10-25"
+url = "http://www.legacy.com/obituaries/floridatoday/obituary.aspx?n=robert-byrd-whigham&pid=187039746&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-25"
+
+[person.name]
+last = "Whigham"
+use = "Byrd"
+given = "Robert Byrd"
+
+[person.birth]
+date = "1933-06-13"
+
+[person.death]
+date = "2017-10-22"
+
+[[person.education]]
+school.name = "Louisville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Louisville"
+
+[[person.education]]
+school.name = "Auburn University"
+school.type = "college"
+
+

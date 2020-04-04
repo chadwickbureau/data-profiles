@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0062"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-23"
+url = "https://www.findagrave.com/memorial/33380574"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-23"
+
+[person.name]
+last = "Albert"
+use = "Dutch"
+given = "Dalton Paul"
+
+[person.birth]
+date = "1923-01-31"
+
+[person.death]
+date = "1999-09-13"
+
+[person.burial]
+cemetery.name = "Oak Knoll Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Bellville"
+
+[person.sameas]
+findagrave = "33380574"
+

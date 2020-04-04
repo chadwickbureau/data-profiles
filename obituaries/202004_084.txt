@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "202004_084"
+
+[[person.meta.citation]]
+title = "Joseph B. Paul, Jr. Funeral Home"
+date = "2020-02-18"
+url = "http://josephpaulfdl.tributes.com/obituary/show/Jack-Lloyd-Wallace-106568588"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-18"
+
+[person.name]
+last = "Wallace"
+use = "Jack"
+given = "Jack Lloyd"
+
+[person.birth]
+date = "1927-10-27"
+place.country = "US"
+place.state = "NC"
+place.city = "Bath"
+
+[person.death]
+date = "2018-11-06"
+place.country = "US"
+place.state = "NC"
+place.city = "Bath"
+
+[person.burial]
+cemetery.name = "Bath Christian Church Columbarium"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Bath"
+
+[[person.education]]
+school.name = "Bath HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Bath"
+
+[[person.education]]
+school.name = "East Carolina University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

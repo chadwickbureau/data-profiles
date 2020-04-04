@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_004"
+
+[[person.meta.citation]]
+title = "Rock Island Argus and Daily Union"
+date = "1911-06-14"
+pages = "3"
+
+[person.name]
+last = "Finney"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Monmouth"
+team.league.name = "Central Association"
+
+

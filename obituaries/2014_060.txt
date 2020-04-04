@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2014_060"
+
+[[person.meta.citation]]
+title = "Fisher Funeral Home"
+date = "2014-02-26"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-02-26"
+
+[person.name]
+last = "Greene"
+use = "Al"
+given = "Altar Alphonse"
+
+[person.death]
+date = "2014-02-18"
+place.country = "US"
+place.state = "MI"
+
+[person.burial]
+note = "cremated"
+
+[[person.education]]
+school.name = "Cooley High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Detroit"
+
+[[person.education]]
+school.name = "Northwoods University"
+school.type = "college"
+
+

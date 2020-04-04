@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "2017_064"
+
+[[person.meta.citation]]
+title = "Coleman Funeral Home"
+date = "2017-10-04"
+url = "http://www.colemanfuneralhome.com/obituaries/Eldon-Miller-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Miller"
+use = "Eldon"
+given = "Eldon Lynn"
+
+[person.birth]
+date = "1940-10-31"
+place.country = "US"
+place.state = "CO"
+place.city = "Fruita"
+
+[person.death]
+date = "2017-09-07"
+place.country = "US"
+place.state = "MS"
+place.city = "Oxford"
+
+[person.burial]
+cemetery.name = "Pontotoc City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Pontotoc"
+
+[[person.education]]
+school.name = "Fruita HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Fruita"
+
+[[person.education]]
+school.name = "Colorado Mesa University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+

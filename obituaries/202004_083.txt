@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "202004_083"
+
+[[person.meta.citation]]
+title = "Register-Guard"
+date = "2018-11-11"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-18"
+
+[person.name]
+last = "Ridge"
+use = "Tom"
+given = "Tommy Dale"
+
+[person.birth]
+date = "1936"
+place.country = "US"
+place.state = "AR"
+place.city = "Paragould"
+
+[person.death]
+date = "2018-10-26"
+

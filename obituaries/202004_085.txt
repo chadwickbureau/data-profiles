@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_085"
+
+[[person.meta.citation]]
+title = "Nitardy Funeral Home"
+date = "2018-07-20"
+url = "https://nitardyfuneralhome.com/tribute/details/26970/Leslie-Orr-Dr/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Orr"
+use = "Les"
+given = "Leslie Donald"
+
+[person.birth]
+date = "1924-10-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Bagley"
+
+[person.death]
+date = "2009-09-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Fort Atkinson"
+
+[person.burial]
+cemetery.name = "Bagley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Bagley"
+
+[[person.education]]
+school.name = "Bagley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Bagley"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

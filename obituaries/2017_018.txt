@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_018"
+
+[[person.meta.citation]]
+title = "Westheimer Funeral Home"
+date = "2017-10-24"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Lyle-Dorsey&lc=2492&pid=186943678&mid=7598680"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-24"
+
+[person.name]
+last = "Dorsey"
+use = "Lyle"
+given = "Lyle Edward"
+
+[person.birth]
+date = "1936-10-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[person.death]
+date = "2017-10-13"
+
+[[person.education]]
+school.name = "University of Louisiana at Monroe"
+school.type = "college"
+
+

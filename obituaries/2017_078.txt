@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "2017_078"
+
+[[person.meta.citation]]
+title = "Hicks Funeral Home"
+date = "2017-10-02"
+url = "http://www.hickshomeforfunerals.com/obituary/Daniel-Grant-Newman/_/1754808"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Newman"
+use = "Dan"
+given = "Daniel Grant"
+
+[person.birth]
+date = "1939-05-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Laceyville"
+
+[person.death]
+date = "2017-09-15"
+
+[person.burial]
+cemetery.name = "North Flat Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Laceyville"
+
+[[person.education]]
+school.name = "Wyalusing Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Wyalusing"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

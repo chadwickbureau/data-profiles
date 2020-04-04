@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2014_029"
+
+[[person.meta.citation]]
+title = "Pioneer Press"
+date = "2014-02-11"
+url = "http://www.legacy.com/obituaries/twincities/obituary.aspx?n=Harold-YOUNGHANS&pid=169628293"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-11"
+
+[person.name]
+last = "Younghans"
+use = "Hal"
+given = "Harold J."
+
+[person.birth]
+date = "1921"
+
+[person.death]
+date = "2014-02-08"
+
+[person.burial]
+cemetery.name = "Crystal Lake Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

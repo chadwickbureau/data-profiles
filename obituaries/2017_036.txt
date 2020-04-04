@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2017_036"
+
+[[person.meta.citation]]
+title = "ObitTree.com"
+date = "2017-10-13"
+url = "https://obittree.com/obituary/us/arkansas/batesville/willis-hays-funeral-service-inc/michael-mcqueen/3206778/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "McQueen"
+use = "Michael"
+given = "Michael Robert"
+
+[person.birth]
+date = "1950-08-30"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.death]
+date = "2017-10-09"
+

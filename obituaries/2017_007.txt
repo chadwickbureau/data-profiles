@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_007"
+
+[[person.meta.citation]]
+title = "McMillan-Small Funeral Home"
+date = "2017-10-27"
+url = "http://www.msfh.net/index.php?option=com_comprofiler&task=userprofile&user=1711&Itemid=43"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-27"
+
+[person.name]
+last = "Gosnell"
+use = "Bill"
+given = "William John"
+
+[person.birth]
+date = "1944-03-31"
+place.country = "US"
+place.state = "SC"
+place.city = "Walterboro"
+
+[person.death]
+date = "2017-10-25"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Conway"
+
+[[person.education]]
+school.name = "Conway HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Conway"
+
+[[person.education]]
+school.name = "Wofford College"
+school.type = "college"
+
+

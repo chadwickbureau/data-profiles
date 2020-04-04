@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2014_034"
+
+[[person.meta.citation]]
+title = "MLB.com"
+date = "2014-02-14"
+url = "http://mlb.mlb.com/news/article/mlb/six-time-all-star-and-former-manager-jim-fregosi-dies-at-age-71?ymd=20140213&content_id=67757650&vkey=news_mlb"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "Fregosi"
+use = "Jim"
+given = "Jim"
+
+[person.death]
+date = "2014-02-14"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+

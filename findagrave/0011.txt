@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0011"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-08-20"
+url = "https://www.findagrave.com/memorial/129840014"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Griffin"
+use = "Joseph"
+given = "Joseph Carroll"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-08-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Chowan County"
+
+[person.death]
+date = "1994-11-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Greenville"
+
+[person.burial]
+cemetery.name = "Hollywood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Farmville"
+
+[person.sameas]
+findagrave = "129840014"
+

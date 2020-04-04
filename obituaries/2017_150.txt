@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_150"
+
+[[person.meta.citation]]
+title = "Boyle & Son funeral Home"
+date = "2017-08-17"
+url = "http://www.boyleandsonfuneralhome.com/fh/obituaries/obituary.cfm?o_id=4339480&fh_id=10264"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-17"
+
+[person.name]
+last = "Reilly"
+use = "Bud"
+given = "Edward A."
+
+[person.birth]
+date = "1925-06-12"
+
+[person.death]
+date = "2017-08-15"
+
+[person.burial]
+cemetery.name = "St. Francis Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Pawtucket"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

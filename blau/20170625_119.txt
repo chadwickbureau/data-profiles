@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170625_119"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1914-05-04"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1922-07-08"
+pages = "9"
+
+[person.name]
+last = "Lyons"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Adrian"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Lansing"
+team.league.name = "Southern Michigan League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

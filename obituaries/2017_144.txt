@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2017_144"
+
+[[person.meta.citation]]
+title = "Citizen's Voice"
+date = "2017-08-21"
+url = "http://www.legacy.com/obituaries/citizensvoice/obituary.aspx?n=clement-d-kovalich&pid=186432225&fhid=13278"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Kovalich"
+use = "Clem"
+given = "Clement D."
+
+[person.birth]
+date = "1930-11-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Glen Lyon"
+
+[person.death]
+date = "2017-08-12"
+place.country = "US"
+place.state = "NY"
+place.city = "Vestal"
+
+[person.burial]
+cemetery.name = "Riverhurst Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Endicott"
+
+[[person.education]]
+school.name = "Newport Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Wanamie"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

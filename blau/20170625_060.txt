@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170625_060"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1919-06-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1919-05-25"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1919-07-10"
+pages = "8"
+
+[person.name]
+last = "Bruner"
+use = "Bearcat"
+given = "Bearcat"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Newport News"
+team.league.name = "Virginia League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+

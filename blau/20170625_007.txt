@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170625_007"
+
+[[person.meta.citation]]
+title = "2017 National Pastime"
+
+[person.name]
+last = "Hanauska"
+use = "Bill"
+given = "William"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1942"
+team.name = "Santa Barbara"
+team.league.name = "California League"
+
+

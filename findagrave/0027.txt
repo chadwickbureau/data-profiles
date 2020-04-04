@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0027"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-09-26"
+url = "https://www.findagrave.com/memorial/51847707/russell-edward-ennis"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-09-26"
+
+[person.name]
+last = "Ennis"
+use = "Russ"
+given = "Russell Edward"
+
+[person.birth]
+date = "1897-03-10"
+place.country = "US"
+place.state = "WI"
+place.city = "Superior"
+
+[person.death]
+date = "1949-01-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Superior"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Superior"
+
+[person.sameas]
+findagrave = "51847707"
+

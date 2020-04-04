@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "2017_153"
+
+[[person.meta.citation]]
+title = "Daily Courier Observer"
+date = "2017-05-05"
+url = "http://www.mpcourier.com/dco03/conrad-a-archambeault-20170505"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Archambeault"
+use = "Conrad"
+given = "Conrad Alfred"
+
+[person.birth]
+date = "1924-08-09"
+place.country = "CA"
+place.state = "QC"
+place.city = "Aylmer"
+
+[person.death]
+date = "2017-04-27"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.burial]
+cemetery.name = "St. John Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "High Ridge"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Archambeault"
+person.name.use = "Laurier"
+person.name.given = "Laurier"
+
+
+[[person.education]]
+school.name = "Massena HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Massena"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

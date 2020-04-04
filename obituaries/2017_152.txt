@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_152"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2017-08-14"
+url = "https://www.nytimes.com/2017/08/14/sports/ncaafootball/frank-broyles-dead-coach-and-athletic-director-at-arkansas.html?mcubz=0"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-17"
+
+[person.name]
+last = "Broyles"
+use = "Frank"
+given = "John Franklin"
+
+[person.birth]
+date = "1924-12-26"
+place.country = "US"
+place.state = "GA"
+place.city = "Decatur"
+
+[person.death]
+date = "2017-08-14"
+place.country = "US"
+place.state = "AR"
+place.city = "Fayetteville"
+
+[person.sameas]
+sr_cfb = "frank-broyles-1"
+
+[[person.education]]
+school.name = "Georgia Institute of Technology"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

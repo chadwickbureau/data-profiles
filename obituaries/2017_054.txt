@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_054"
+
+[[person.meta.citation]]
+title = "Tatalovich Funeral Home"
+date = "2017-10-04"
+url = "http://www.tatalovichfuneralhome.com/obituary/albert-seaman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Seaman"
+use = "Albert"
+given = "Albert"
+
+[person.birth]
+date = "1930-02-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Ambridge"
+
+[person.death]
+date = "2017-09-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.burial]
+cemetery.name = "Saints Peter and Paul Ukrainian Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Ambridge Heights"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

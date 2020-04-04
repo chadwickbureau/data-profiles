@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "2017_027"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "2017-10-17"
+url = "http://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=timothy-johnson&pid=186968415&fhid=11315"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-18"
+
+[person.name]
+last = "Johnson"
+use = "Timothy"
+given = "Timothy Charles"
+nick = "TJ"
+
+[person.death]
+date = "2017-10-11"
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2017_103"
+
+[[person.meta.citation]]
+title = "French Funeral Home"
+date = "2017-09-18"
+url = "https://www.frenchfunerals.com/notices/SenatorPete-Domenici"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-13"
+
+[person.name]
+last = "Domenici"
+use = "Pete"
+given = "Pete Vichi"
+
+[person.birth]
+date = "1932-05-07"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[person.death]
+date = "2017-09-13"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[[person.education]]
+school.name = "St. Mary's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NM"
+school.place.city = "Albuquerque"
+
+[[person.education]]
+school.name = "College of St. Joseph"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NM"
+school.place.city = "Albuquerque"
+
+[[person.education]]
+school.name = "University of New Mexico"
+school.type = "college"
+
+

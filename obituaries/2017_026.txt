@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_026"
+
+[[person.meta.citation]]
+title = "Milner & Orr Funeral Home"
+date = "2017-10-20"
+url = "http://m.milnerandorr.com/obituaries/events?obituaryId=2639596"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-20"
+
+[person.name]
+last = "Webb"
+use = "Daniel"
+given = "Robert Wyatt McDaniel"
+
+[person.birth]
+date = "1989-08-18"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+[person.death]
+date = "2017-10-14"
+
+[person.burial]
+cemetery.name = "Maplelawn Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Paducah"
+

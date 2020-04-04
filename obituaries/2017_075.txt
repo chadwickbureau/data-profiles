@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2017_075"
+
+[[person.meta.citation]]
+title = "Myers Funeral Service"
+date = "2017-10-02"
+url = "http://myerstest.vip2.ocsnet.net/index.php/2017/09/22/jack-junis-bryson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Bryson"
+use = "Jack"
+given = "Jack Junis"
+
+[person.death]
+date = "2017-09-20"
+
+[person.burial]
+cemetery.name = "Hillcrest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Porterville"
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_140"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2017-08-22"
+url = "http://www.legacy.com/obituaries/baltimoresun/obituary.aspx?n=william-r-crawford&pid=186446028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-22"
+
+[person.name]
+last = "Crawford"
+use = "Bill"
+given = "William Roger"
+suffix = "Sr."
+
+[person.birth]
+date = "1932-05-07"
+
+[person.death]
+date = "2017-08-20"
+place.country = "US"
+place.state = "MD"
+
+[[person.education]]
+school.name = "Mount St. Joseph HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

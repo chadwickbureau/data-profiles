@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_055"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[person.name]
+last = "Yuna"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+

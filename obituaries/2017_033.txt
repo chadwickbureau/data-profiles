@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "2017_033"
+
+[[person.meta.citation]]
+title = "Oakes & Nichols Funeral Home"
+date = "2017-10-11"
+url = "http://www.oakesandnichols.com/obituaries.aspx?turl=http://hosting-24758.tributes.com/obituary/show/Robert-Anthony-Bobby-Bratton-II-105268397"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-14"
+
+[person.name]
+last = "Bratton"
+use = "Bobby"
+given = "Robert Anthony"
+suffix = "II"
+
+[person.birth]
+date = "1986-07-01"
+place.country = "US"
+place.state = "TN"
+place.city = "Columbia"
+
+[person.death]
+date = "2017-10-02"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"
+
+[person.burial]
+cemetery.name = "Polk Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Motlow State Community College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Martin Methodist College"
+school.type = "college"
+
+

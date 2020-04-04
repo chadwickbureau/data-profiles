@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "0054"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-26"
+url = "https://www.findagrave.com/memorial/39686796"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-26"
+
+[person.name]
+last = "Hatfield"
+use = "Sidney"
+given = "Sidney G."
+
+[person.birth]
+date = "1929-08-29"
+
+[person.death]
+date = "2003-01-25"
+
+[person.burial]
+cemetery.name = "Tennessee State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Knoxville"
+
+[person.sameas]
+findagrave = "39686796"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

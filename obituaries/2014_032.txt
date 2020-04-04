@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2014_032"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "2014-02-11"
+url = "http://thescoopblog.dallasnews.com/2014/02/firefighter-killed-monday-was-known-as-baseball-player-hunter-family-man.html/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "Tanksley"
+use = "Scott"
+given = "William Scott"
+
+[person.death]
+date = "2014-02-10"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+

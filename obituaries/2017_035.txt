@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_035"
+
+[[person.meta.citation]]
+title = "Missoulian"
+date = "2017-09-15"
+url = "http://missoulian.com/news/local/obituaries/stanley-lawrence-swanson-beaver/article_a115b44e-9ec0-52a6-b6dc-f4e015d3d75f.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "Swanson"
+use = "Stan"
+given = "Stanley Lawrence"
+
+[person.birth]
+date = "1944-05-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Yuba City"
+
+[person.death]
+date = "2017-09-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Fallbrook"
+
+[person.burial]
+cemetery.name = "Riverview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MT"
+cemetery.place.city = "Hamilton"
+

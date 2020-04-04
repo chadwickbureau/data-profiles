@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2014_004"
+
+[[person.meta.citation]]
+title = "Times Recorder"
+date = "2014-01-28"
+url = "http://www.legacy.com/obituaries/zanesvilletimesrecorder/obituary.aspx?n=harold-lloyd-willison&pid=169359922&fhid=27590&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-28"
+
+[person.name]
+last = "Willison"
+use = "Lloyd"
+given = "Harold Lloyd"
+
+[person.birth]
+date = "1929-04-02"
+place.country = "US"
+place.state = "OH"
+place.city = "McLuney"
+
+[person.death]
+date = "2014-01-27"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.burial]
+cemetery.name = "Iliff Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Harrison"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

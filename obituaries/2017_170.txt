@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_170"
+
+[[person.meta.citation]]
+title = "Bartolomeo & Perotto Funeral Home"
+date = "2017-08-13"
+url = "http://bartolomeo.com/tribute/details/3625/Kenneth-Kaiser/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Kaiser"
+use = "Ken"
+given = "Kenneth John"
+
+[person.birth]
+date = "1945"
+
+[person.death]
+date = "2017-08-08"
+place.country = "US"
+place.state = "NY"
+place.city = "Greece"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Rochester"
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202004_098"
+
+[[person.meta.citation]]
+title = "Miami News"
+date = "1971-10-27"
+pages = "2"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-28"
+
+[person.name]
+last = "Walker"
+use = "Fred"
+given = "Fred Dixie"
+suffix = "Jr."
+
+[person.death]
+date = "1971-10-17"
+place.country = "QS"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Walker"
+person.name.use = "Dixie"
+person.name.given = "Dixie"
+
+[[person.relation]]
+relationship = "nephew of"
+person.name.last = "Walker"
+person.name.use = "Harry"
+person.name.given = "Harry"
+
+

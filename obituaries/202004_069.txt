@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202004_069"
+
+[[person.meta.citation]]
+title = "St. Louis Star & Times"
+date = "1941-05-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-12"
+
+[person.name]
+last = "Mowry"
+use = "Joseph"
+given = "Joseph A."
+suffix = "Sr."
+
+[person.death]
+date = "1941-05-01"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.relation]]
+relationship = "father of"
+person.name.last = "Mowry"
+person.name.use = "Joseph"
+person.name.given = "Joseph A."
+person.name.suffix = "Jr."
+
+

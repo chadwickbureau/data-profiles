@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_038"
+
+[[person.meta.citation]]
+title = "Expreso.com.mx"
+date = "2017-10-09"
+url = "http://www.expreso.com.mx/seccion/accion/beisbol/24295-fallece-el-legendario-armando-agujita-sancez-exjugador-de-naranjeos.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "Sanchez"
+use = "Armando"
+given = "Armando"
+matrilineal = "Salazar"
+nick = "Agujita"
+
+[person.birth]
+place.country = "MX"
+place.state = "Coahuila"
+
+[person.death]
+date = "2017-10-08"
+place.country = "MX"
+place.state = "Sonora"
+place.city = "Hermosillo"
+

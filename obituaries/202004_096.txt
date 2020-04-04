@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "202004_096"
+
+[[person.meta.citation]]
+title = "Riverdale Baptist Baseball Facebook page"
+date = "2018-05-11"
+url = "https://www.facebook.com/rbsbaseball/posts/1065676523461323?hc_location=ufi"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-11"
+
+[person.name]
+last = "Rexrode"
+use = "Jackie"
+given = "Jackie"
+
+[person.death]
+date = "2015-04-30"
+
+[[person.education]]
+school.name = "Riverdale Baptist HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Upper Marlboro"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "2017_093"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2017-09-17"
+url = "http://www.legacy.com/obituaries/stltoday/obituary.aspx?n=james-thomas-donohue-bones&pid=186683507"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Donhue"
+use = "James"
+given = "James Thomas"
+suffix = "Jr."
+nick = "Bones"
+
+[person.birth]
+date = "1937-10-31"
+
+[person.death]
+date = "2017-09-09"
+

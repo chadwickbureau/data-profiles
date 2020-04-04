@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_071"
+
+[[person.meta.citation]]
+title = "Harper-Morris Memorial Chapel"
+date = "2020-04-02"
+url = "https://www.harpermorrismemorialchapel.com/obituary/jeff-cary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-02"
+
+[person.name]
+last = "Cary"
+use = "Jeff"
+given = "Jeff Edward"
+
+[person.birth]
+date = "1956-09-29"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[person.death]
+date = "2020-03-29"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[[person.education]]
+school.name = "Greenwood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Greenwood"
+
+[[person.education]]
+school.name = "Pensacola State College"
+school.type = "college"
+
+

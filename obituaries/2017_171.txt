@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_171"
+
+[[person.meta.citation]]
+title = "Desert Sun"
+date = "2017-08-11"
+url = "http://obituaries.desertsun.com/obituaries/thedesertsun/obituary.aspx?n=william-campbell-herron-bill&pid=186339956&fhid=31955"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Herron"
+use = "Bill"
+given = "William Campbell"
+
+[person.birth]
+date = "1929-07-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2017-08-02"
+
+[[person.education]]
+school.name = "Dorsey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

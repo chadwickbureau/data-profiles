@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "2017_163"
+
+[[person.meta.citation]]
+title = "Furlong Funeral Chapel"
+date = "2017-08-14"
+url = "http://furlongfuneralchapel.com/edward-du-plessis/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Du Plessis"
+use = "Ed"
+given = "Edward"
+
+[person.birth]
+date = "1933-11-24"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2017-08-05"
+place.country = "US"
+place.state = "IL"
+place.city = "Galena"
+
+[person.burial]
+cemetery.name = "Prospect Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Rice"
+
+[[person.education]]
+school.name = "Glenbard West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Glen Ellyn"
+
+[[person.education]]
+school.name = "North Central College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

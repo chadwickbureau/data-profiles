@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_074"
+
+[[person.meta.citation]]
+title = "Chiampa Funeral Home"
+date = "2020-03-10"
+url = "https://www.chiampafuneralhome.com/obituaries/Elliott-L-Nadeau?obId=8758305#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Nadeau"
+use = "Elliott"
+given = "Elliott L."
+
+[person.birth]
+date = "1940-03-25"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "2018-10-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.burial]
+cemetery.name = "Mountain View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Shrewsbury"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Worcester"
+
+

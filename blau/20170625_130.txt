@@ -1,0 +1,74 @@
+[[person]]
+
+[person.meta]
+key = "20170625_130"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-06"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Palladium-Item"
+date = "1924-01-16"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1924-06-04"
+pages = "13"
+
+[person.name]
+last = "DeVoss"
+use = "Harold"
+given = "Harold"
+nick = "Hickey"
+
+[[person.education]]
+school.name = "Miami University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.bats = "L"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Lansing"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Grand Rapids"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Muskegon"
+team.league.name = "Michigan-Ontario League"
+
+

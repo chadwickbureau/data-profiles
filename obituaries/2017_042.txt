@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_042"
+
+[[person.meta.citation]]
+title = "Wilson Funeral Home"
+date = "2017-10-10"
+url = "http://www.wilsonfuneralhome.com/obituaries/Roy-Hawes/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-10"
+
+[person.name]
+last = "Hawes"
+use = "Roy"
+given = "Roy Lee"
+
+[person.birth]
+date = "1926-07-05"
+
+[person.death]
+date = "2017-10-09"
+
+[person.burial]
+cemetery.name = "Nathan Anderson Historic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Ringgold"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

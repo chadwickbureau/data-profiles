@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "2017_186"
+
+[[person.meta.citation]]
+title = "Orioles.MLB.com"
+date = "2017-09-18"
+url = "http://m.orioles.mlb.com/news/article/254911196/orioles-miguel-gonzalez-dies-in-car-accident/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Gonzalez"
+use = "Miguel"
+given = "Miguel"
+
+[person.death]
+date = "2017-09-16"
+place.country = "DO"
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_139"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-08"
+pages = "9"
+
+[person.name]
+last = "Beatty"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+

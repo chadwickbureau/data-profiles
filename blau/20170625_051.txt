@@ -1,0 +1,80 @@
+[[person]]
+
+[person.meta]
+key = "20170625_051"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1924-08-27"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-09-01"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1925-04-15"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1925-06-16"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1927-04-03"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1928-04-05"
+pages = "38"
+
+[person.name]
+last = "Bruner"
+use = "Jack"
+given = "Jack"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Enid"
+team.league.name = "Southwestern League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "St. Joseph"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Akron"
+team.league.name = "Central League"
+
+

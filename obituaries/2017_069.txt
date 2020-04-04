@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2017_069"
+
+[[person.meta.citation]]
+title = "Brown-Wynne Funeral Home"
+date = "2017-10-03"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Dean-Padgett&lc=4234&pid=186751993&mid=7573207"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-03"
+
+[person.name]
+last = "Padgett"
+use = "Dean"
+given = "Dean Edward"
+
+[person.death]
+date = "2017-09-23"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

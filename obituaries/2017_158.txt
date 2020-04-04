@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_158"
+
+[[person.meta.citation]]
+title = "Philly.com"
+date = "2017-08-13"
+url = "http://www.legacy.com/obituaries/philly/obituary.aspx?n=lance-john-robinson&pid=186374058"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Robinson"
+use = "Lance"
+given = "Lance John"
+
+[person.birth]
+date = "1931-09-13"
+
+[person.death]
+date = "2017-08-08"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Conshohocken"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

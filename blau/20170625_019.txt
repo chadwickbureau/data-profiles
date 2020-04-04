@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_019"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1929-04-21"
+pages = "46"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1930-06-25"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1930-06-12"
+pages = "10"
+
+[person.name]
+last = "Kahn"
+use = "Jack"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Albany"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Mansfield"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pittsfield"
+team.league.name = "Eastern League"
+
+

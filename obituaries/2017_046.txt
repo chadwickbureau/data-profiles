@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "2017_046"
+
+[[person.meta.citation]]
+title = "Turner Funeral Home"
+date = "2017-10-09"
+url = "http://turnerfh.net/Home/Details104"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Schoolcraft"
+use = "Tommy"
+given = "Tommy J."
+
+[person.birth]
+date = "1929-09-28"
+place.country = "US"
+place.state = "OK"
+place.city = "Eakly"
+
+[person.death]
+date = "2017-10-04"
+place.country = "US"
+place.state = "OK"
+place.city = "Eakly"
+
+[person.burial]
+cemetery.name = "Eakly Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Eakly"
+
+[[person.education]]
+school.name = "Eakly HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Eakly"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

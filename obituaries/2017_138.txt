@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_138"
+
+[[person.meta.citation]]
+title = "Schmidt & Schulta Funeral Home"
+date = "2017-08-23"
+url = "http://www.schmidtschulta.com/obituaries/Matthew-Ryan-Salvesen?obId=2494400#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-23"
+
+[person.name]
+last = "Salvesen"
+use = "Matt"
+given = "Matthew Ryan"
+
+[person.birth]
+date = "1979-11-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Wausau"
+
+[person.death]
+date = "2017-08-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Hatley"
+
+[person.burial]
+cemetery.name = "St. Florian Parish Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Hatley"
+
+[[person.education]]
+school.name = "Wittenberg-Birnamwood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Wittenberg"
+
+[[person.education]]
+school.name = "Kishwaukee College"
+school.type = "college"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2017_108"
+
+[[person.meta.citation]]
+title = "SportsDay"
+date = "2017-09-11"
+url = "https://sportsday.dallasnews.com/texas-rangers/rangers/2017/09/11/former-rangers-executive-long-time-baseball-sage-didier-passes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-11"
+
+[person.name]
+last = "Didier"
+use = "Mel"
+given = "Mel"
+
+[person.death]
+date = "2017-09-11"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+

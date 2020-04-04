@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "0033"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/170756473/george-j_-gasdaska"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Gasdaska"
+use = "George"
+given = "George J."
+
+[person.birth]
+date = "1925-12-14"
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "1983-12"
+
+[person.burial]
+cemetery.name = "Holy Saviour Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Bethlehem"
+
+[person.sameas]
+findagrave = "170756473"
+

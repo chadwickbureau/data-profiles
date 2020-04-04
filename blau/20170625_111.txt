@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_111"
+
+[[person.meta.citation]]
+title = "Clovis News-Journal"
+date = "1937-03-19"
+pages = "7"
+
+[person.name]
+last = "Brown"
+use = "Don"
+given = "Don"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Ponca City"
+team.league.name = "Western Association"
+description.age = "<21"
+
+

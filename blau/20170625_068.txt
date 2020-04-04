@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_068"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1926-04-12"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1926-09-08"
+pages = "9"
+
+[person.name]
+last = "Knox"
+use = "Wally"
+given = "Wally"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ogden"
+team.league.name = "Utah-Idaho League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "San Francisco"
+team.league.name = "Pacific Coast League"
+
+

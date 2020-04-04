@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2014_048"
+
+[[person.meta.citation]]
+title = "Resthaven Mortuary"
+date = "2014-02-19"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Andrew-Teter&lc=4071&pid=169765212&mid=5862636"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-19"
+
+[person.name]
+last = "Teter"
+use = "Andy"
+given = "Andrew Thomas"
+
+[person.birth]
+date = "1927-04-05"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[person.death]
+date = "2014-02-14"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[person.burial]
+cemetery.name = "Resthaven Gardens of Memory"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Wichita"
+
+[[person.education]]
+school.name = "Cathedral HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Wichita"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+
+

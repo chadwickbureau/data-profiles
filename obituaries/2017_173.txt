@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_173"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2017-08-13"
+url = "http://www.legacy.com/ns/darren-daulton-obituary/186307282"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Daulton"
+use = "Darren"
+given = "Darren"
+
+[person.birth]
+date = "1962-01-03"
+place.country = "US"
+place.state = "KS"
+place.city = "Arkansas City"
+
+[person.death]
+date = "2017-08-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Clearwater"
+

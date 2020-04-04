@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_103"
+
+[[person.meta.citation]]
+title = "Warren Record"
+date = "2018-06-06"
+url = "http://www.warrenrecord.com/obituaries/article_1ba4c9a8-6984-11e8-ad2f-17baae5cf6ca.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "Hawks"
+use = "Billy"
+given = "William Horton"
+
+[person.birth]
+date = "1931-03-17"
+
+[person.death]
+date = "2018-05-26"
+place.country = "US"
+place.state = "NC"
+place.city = "Warrenton"
+
+[[person.education]]
+school.name = "Norlina HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Norlina"
+
+

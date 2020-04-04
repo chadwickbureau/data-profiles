@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "20170625_064"
+
+[[person.meta.citation]]
+title = "Garrett (IN) Clipper"
+date = "1925-04-30"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Garrett Clipper"
+date = "1924-10-13"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1925-11-08"
+pages = "15"
+
+[person.name]
+last = "Klein"
+use = "Joe"
+given = "Joe"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "IN"
+place.city = "Garrett"
+
+
+[[person.relation]]
+relationship = "half-brother of"
+person.name.last = "Mies"
+person.name.use = "Mollie"
+person.name.given = "Mollie"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Muskegon"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+
+

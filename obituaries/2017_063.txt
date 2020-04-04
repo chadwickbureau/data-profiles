@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_063"
+
+[[person.meta.citation]]
+title = "Mount Shasta News"
+date = "2017-09-20"
+url = "http://www.mtshastanews.com/obituaries/20170920/obituary-jerry-lensing"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Lensing"
+use = "Jerry"
+given = "Jerry K."
+
+[person.birth]
+date = "1949-05-10"
+
+[person.death]
+date = "2017-09-10"
+
+[person.burial]
+cemetery.name = "Mount Shasta Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Mount Shasta"
+
+[[person.education]]
+school.name = "Mount Shasta HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Mount Shasta"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

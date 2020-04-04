@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_086"
+
+[[person.meta.citation]]
+title = "A. K. Macangna Funeral Home"
+date = "2017-09-21"
+url = "http://www.akmacagnafuneralhome.com/memsol.cgi?user_id=2009825"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-21"
+
+[person.name]
+last = "Hennessy"
+use = "Joe"
+given = "Joseph Robert"
+suffix = "Sr."
+
+[person.birth]
+date = "1938-05-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Hoboken"
+
+[person.death]
+date = "2017-09-19"
+place.country = "US"
+place.state = "NJ"
+place.city = "Hackensack"
+
+[person.burial]
+cemetery.name = "George Washington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Paramus"
+
+[[person.education]]
+school.name = "Demarest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Demarest"
+
+

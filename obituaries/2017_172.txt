@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_172"
+
+[[person.meta.citation]]
+title = "The Coloradoan"
+date = "2017-08-13"
+url = "http://www.legacy.com/obituaries/coloradoan/obituary.aspx?n=luke-henry-oglesby&pid=186343205&fhid=16075"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Oglesby"
+use = "Luke"
+given = "Luke Henry"
+
+[person.birth]
+place.country = "US"
+place.state = "CO"
+place.city = "Pueblo"
+
+[person.death]
+date = "2017-08-04"
+
+[[person.education]]
+school.name = "Rocky Mountain HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Fort Collins"
+
+[[person.education]]
+school.name = "Colorado State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of New Mexico"
+school.type = "college"
+
+

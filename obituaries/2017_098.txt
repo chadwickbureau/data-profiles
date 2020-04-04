@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "2017_098"
+
+[[person.meta.citation]]
+title = "Kansas City Star"
+date = "2017-09-15"
+url = "http://www.kansascity.com/sports/mlb/article173530016.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Motley"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+place.country = "US"
+place.state = "AL"
+
+[person.death]
+date = "2017-09-14"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

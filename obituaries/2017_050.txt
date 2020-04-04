@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "2017_050"
+
+[[person.meta.citation]]
+title = "Mulryan Funeral Home"
+date = "2017-10-09"
+url = "http://mulryanfh.com/tribute/details/944/William-Connelly-Sr/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Connelly"
+use = "Bill"
+given = "William Francis"
+suffix = "Sr."
+
+[person.birth]
+date = "1924-04-15"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2017-10-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Plymouth"
+
+[person.burial]
+cemetery.name = "St. Augustine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Glastonbury"
+
+[[person.education]]
+school.name = "Bulkeley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Hartford"
+
+[[person.education]]
+school.name = "Catholic University of America"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

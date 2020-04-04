@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_072"
+
+[[person.meta.citation]]
+title = "Davis-Rose Mortuary"
+date = "2020-04-02"
+url = "https://www.davisrosemortuary.com/obituary/Rexford-Schutt"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-02"
+
+[person.name]
+last = "Schutt"
+use = "Rexford"
+given = "Rexford Martin"
+
+[person.birth]
+date = "1935-10-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Walworth"
+
+[person.death]
+date = "2020-03-12"
+place.country = "US"
+place.state = "ID"
+place.city = "Pocatello"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

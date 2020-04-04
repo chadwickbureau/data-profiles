@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2014_046"
+
+[[person.meta.citation]]
+title = "Hayworth-Miller Funeral Homes"
+date = "2014-02-19"
+url = "http://www.hayworth-miller.com/obituaries/obituary-listings?obId=85634#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-02-19"
+
+[person.name]
+last = "Motsinger"
+use = "Richard"
+given = "Marvin Richard"
+
+[person.birth]
+place.country = "US"
+place.state = "NC"
+place.city = "Forsythe County"
+
+[person.death]
+date = "2014-02-13"
+
+[person.burial]
+cemetery.name = "Sedge Garden United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Kernersville"
+
+[[person.military]]
+country = "US"
+
+

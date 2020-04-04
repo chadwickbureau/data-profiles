@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_032"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1922-07-24"
+pages = "10"
+
+[person.name]
+last = "Beisser"
+use = "Connie"
+given = "Connie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Ottumwa"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+

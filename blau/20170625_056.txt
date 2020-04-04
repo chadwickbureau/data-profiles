@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "20170625_056"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1924-05-09"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1922-06-27"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield Leader"
+date = "1924-06-30"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-08-09"
+pages = "6"
+
+[person.name]
+last = "Strong"
+use = "Leslie"
+given = "Leslie"
+nick = "Cotton"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "MO"
+place.city = "Mansfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Miami"
+team.place.country = "US"
+team.place.state = "OK"
+team.place.city = "Miami"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+

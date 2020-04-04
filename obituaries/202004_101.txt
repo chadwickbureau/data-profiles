@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_101"
+
+[[person.meta.citation]]
+title = "Logan Funeral Home"
+date = "2020-04-03"
+url = "https://www.loganfuneralhomes.com/notices/Peter-DAmbrosio"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "D’Ambrosia"
+use = "Pete"
+given = "Peter Joseph"
+
+[person.birth]
+date = "1919-12-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2018-06-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Media"
+
+[person.burial]
+cemetery.name = "Fernwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Lansdowne"
+
+[[person.education]]
+school.name = "West Philadelphia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Philadelphia"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

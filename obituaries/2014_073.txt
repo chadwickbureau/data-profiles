@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "2014_073"
+
+[[person.meta.citation]]
+title = "Peninsula Deportiva"
+date = "2014-01-03"
+url = "http://www.peninsuladeportiva.com/noticias/muere-uno-los-pequenos-gigantes-12101/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-07"
+
+[person.name]
+last = "Trevino"
+use = "Ricardo"
+given = "Ricardo"
+matrilineal = "Cantu"
+
+[person.death]
+date = "2014-01-02"
+

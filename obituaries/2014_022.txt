@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2014_022"
+
+[[person.meta.citation]]
+title = "Union Daily Times"
+date = "2014-02-06"
+url = "http://www.legacy.com/obituaries/uniondailytimes/obituary.aspx?n=BOBBY-PHILLIPS&pid=169540107"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Phillips"
+use = "Bobby"
+given = "Bobby Thomas"
+
+[person.birth]
+date = "1926"
+place.country = "US"
+place.state = "SC"
+place.city = "Union"
+
+[person.death]
+date = "2014-02-04"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Marion"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

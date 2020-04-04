@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_070"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1930-07-18"
+pages = "12"
+
+[person.name]
+last = "Koch"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+

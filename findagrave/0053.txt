@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "0053"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-01-29"
+url = "https://www.findagrave.com/memorial/51422350/james-lyman-mcdowell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-29"
+
+[person.name]
+last = "McDowell"
+use = "James"
+given = "James Lyman"
+suffix = "Sr."
+
+[person.birth]
+date = "1899-09-16"
+place.country = "US"
+place.state = "TN"
+place.city = "Tullahoma"
+
+[person.death]
+date = "1981-12-25"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Brookhaven"
+
+[person.sameas]
+findagrave = "51422350"
+

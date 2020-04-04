@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_031"
+
+[[person.meta.citation]]
+title = "Salt Lake Herald-Republican"
+date = "1913-07-25"
+pages = "10"
+
+[person.name]
+last = "Norton"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Hastings"
+team.league.name = "Nebraska State League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Indianapolis"
+team.league.name = "American Association"
+
+

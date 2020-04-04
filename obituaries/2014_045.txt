@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "2014_045"
+
+[[person.meta.citation]]
+title = "Quincy Herald-Whig"
+date = "2014-02-18"
+url = "http://www.legacy.com/obituaries/whig/obituary.aspx?n=Melvin-Arns&pid=169748393"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-19"
+
+[person.name]
+last = "Arns"
+use = "Melvin"
+given = "Melvin Joseph"
+
+[person.birth]
+date = "1924-06-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.death]
+date = "2014-02-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Quincy"
+
+[[person.education]]
+school.name = "Quincy Notre Dame HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Quincy"
+
+[[person.education]]
+school.name = "Quincy University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Quincy"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

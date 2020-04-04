@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_147"
+
+[[person.meta.citation]]
+title = "Countryside Funeral Home"
+date = "2017-08-21"
+url = "http://www.countrysidefuneralhomes.com/obituary/walter-miller"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Miller"
+use = "Jack"
+given = "Walter Jack"
+
+[person.birth]
+date = "1924-11-30"
+
+[person.death]
+date = "2017-08-17"
+
+[person.burial]
+cemetery.name = "St. Michael the Archangel Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Palatine"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2017_005"
+
+[[person.meta.citation]]
+title = "Hicks Funeral Home"
+date = "2017-10-27"
+url = "http://www.hickshomeforfunerals.com/obituary/Paul-Kite-Spence/Elkton-MD/1760603"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-27"
+
+[person.name]
+last = "Spence"
+use = "Paul"
+given = "Paul Kite"
+
+[person.birth]
+date = "1927-04-10"
+place.country = "US"
+place.state = "MD"
+place.city = "Elkton"
+
+[person.death]
+date = "2017-10-25"
+
+[person.burial]
+cemetery.name = "Sharp's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Fair Hill"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

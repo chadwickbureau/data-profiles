@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_178"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2017-08-08"
+url = "http://www.legacy.com/obituaries/dailycourier/obituary.aspx?n=don-baylor-former-mvp-and-manager-of-year-dead&pid=186318934"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-08"
+
+[person.name]
+last = "Baylor"
+use = "Don"
+given = "Don"
+
+[person.birth]
+date = "1949-06-28"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.death]
+date = "2017-08-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+

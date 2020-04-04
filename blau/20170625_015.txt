@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_015"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1928-08-17"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1929-09-15"
+pages = "A3"
+
+[person.name]
+last = "Jones"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

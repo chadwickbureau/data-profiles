@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "0038"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/17009977/raymond-p-maloney"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Maloney"
+use = "Raymond"
+given = "Raymond P."
+
+[person.death]
+date = "2006-12-11"
+
+[person.burial]
+cemetery.name = "St. Anne's Cemetery US/NJ/Wall Township"
+
+[person.sameas]
+findagrave = "17009977"
+
+[[person.education]]
+school.name = "St. Peter's Prep"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

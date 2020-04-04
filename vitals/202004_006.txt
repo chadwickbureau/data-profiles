@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202004_006"
+
+[[person.meta.citation]]
+title = "Pennsylvania Death Certificate"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Hauenstein"
+use = "Elson"
+given = "Elson G."
+
+[person.birth]
+date = "1891-09-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Smithville"
+
+[person.death]
+date = "1967-07-23"
+place.country = "US"
+place.state = "PA"
+place.city = "East Hempfield Township"
+
+[person.burial]
+cemetery.name = "Henry Eberle Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Mount Joy"
+
+[person.sameas]
+ssn = "186-09-7456"
+

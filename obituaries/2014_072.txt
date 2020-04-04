@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "2014_072"
+
+[[person.meta.citation]]
+title = "Lubbock Avalanche-Journal"
+date = "2014-03-05"
+url = "http://www.legacy.com/obituaries/lubbockonline/obituary.aspx?n=John-Ethridge&pid=169996032"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-05"
+
+[person.name]
+last = "Ethridge"
+use = "John"
+given = "John Robert"
+
+[person.birth]
+date = "1929-11-05"
+place.country = "US"
+place.state = "OK"
+place.city = "Lindsay"
+
+[person.death]
+date = "2014-03-03"
+
+[person.burial]
+cemetery.name = "Dallas-Fort Worth National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Sundown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Sundown"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

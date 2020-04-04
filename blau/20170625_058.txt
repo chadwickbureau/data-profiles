@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_058"
+
+[[person.meta.citation]]
+title = "Carbondale Daily Free Press"
+date = "1926-04-24"
+pages = "1"
+
+[person.name]
+last = "Bribeck"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Kinston"
+team.league.name = "Virginia League"
+
+

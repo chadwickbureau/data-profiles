@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "0048"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-12-17"
+url = "https://www.findagrave.com/memorial/198575492"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-17"
+
+[person.name]
+last = "Mertz"
+use = "Bud"
+given = "Lowell John"
+
+[person.birth]
+date = "1923-03-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Elgin"
+
+[person.death]
+date = "2019-04-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.burial]
+cemetery.name = "Chadwick Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Chadwick"
+
+[person.sameas]
+findagrave = "198575492"
+
+[[person.education]]
+school.name = "Sterling HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Sterling"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

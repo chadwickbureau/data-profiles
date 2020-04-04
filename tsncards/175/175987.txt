@@ -1,0 +1,97 @@
+[[person]]
+
+[person.meta]
+key = "175987"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/175987"
+title = "The Sporting News Player Contract Cards, ScanID: 1046004667"
+
+[person.name]
+last = "Wallace"
+given = "Jack Lloyd"
+
+
+[[person.transaction]]
+date = "1945-03"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1945-03"
+
+[[person.transaction]]
+date = "1945-04"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1945-04"
+
+[[person.transaction]]
+date = "1951-05-29"
+type = "signed"
+join.name = "Greensboro"
+note = "Greensboro 1951-05-29"
+
+[[person.transaction]]
+date = "1951-05-29"
+type = "optioned"
+leave.name = "Greensboro"
+join.name = "Spindale"
+note = "opt to Spindale 1951-05-29"
+
+[[person.transaction]]
+date = "1951-08-31"
+type = "recalled"
+leave.name = "Spindale"
+join.name = "Greensboro"
+note = "rec by Greensboro 1951-08-31"
+
+[[person.transaction]]
+date = "1951-09-13"
+type = "national-defense-list"
+leave.name = "Greensboro"
+note = "Nat Defense list 1951-09-13"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Greensboro"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Greensboro"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Greensboro"
+
+[[person.transaction]]
+date = "1954-02-11"
+type = "reinstated"
+join.name = "Greensboro"
+note = "reins Nat Defnse 1954-02-11"
+
+[[person.transaction]]
+date = "1954-04-21"
+type = "suspended"
+leave.name = "Greensboro"
+note = "Susp list 1954-04-21"
+
+[[person.transaction]]
+date = "1954-05-02"
+type = "restricted"
+leave.name = "Greensboro"
+note = "restr list 1954-05-02"
+
+[[person.transaction]]
+date = "1954-05-31"
+type = "reinstated"
+join.name = "Greensboro"
+note = "reins 1954-05-31"
+
+[[person.transaction]]
+date = "1954-06-07"
+type = "released"
+leave.name = "Greensboro"
+note = "rel 1954-06-07"
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_021"
+
+[[person.meta.citation]]
+title = "Neptune Society"
+date = "2017-10-22"
+url = "http://www.legacy.com/obituaries/neptune-society/obituary.aspx?n=David-McDonald&lc=1967&pid=185576805&uuid=aa35d131-d9d6-4815-933e-6d59a4b6ed27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-22"
+
+[person.name]
+last = "McDonald"
+use = "Dave"
+given = "David Bruce"
+
+[person.birth]
+date = "1943-05-20"
+place.country = "US"
+place.state = "IN"
+place.city = "New Albany"
+
+[person.death]
+date = "2017-05-19"
+place.country = "US"
+place.state = "FL"
+place.city = "Pompano Beach"
+

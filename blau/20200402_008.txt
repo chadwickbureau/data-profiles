@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200402_008"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1915-04-21"
+pages = "9"
+
+[person.name]
+last = "Garvey"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Brockton"
+team.league.name = "Colonial League"
+
+

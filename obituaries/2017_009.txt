@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_009"
+
+[[person.meta.citation]]
+title = "Moser Memorial Chapel"
+date = "2017-10-26"
+url = "http://www.mosermemorialchapels.com/obituary/paul-menking"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-26"
+
+[person.name]
+last = "Menking"
+use = "Paul"
+given = "Paul F."
+
+[person.birth]
+date = "1929-02-26"
+place.country = "US"
+place.state = "NE"
+place.city = "Arlington"
+
+[person.death]
+date = "2017-10-07"
+place.country = "US"
+place.state = "NE"
+place.city = "Fremont"
+
+[person.burial]
+cemetery.name = "Arlington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Arlington"
+
+[[person.education]]
+school.name = "Arlington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Arlington"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

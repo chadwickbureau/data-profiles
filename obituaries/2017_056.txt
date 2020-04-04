@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_056"
+
+[[person.meta.citation]]
+title = "Gaffney Funeral Home"
+date = "2017-10-04"
+url = "https://www.gaffneyfuneralhome.com/obituary/ted-lopat-09262017/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Lopat"
+use = "Ted"
+given = "Ted"
+
+[person.birth]
+date = "1929-05-16"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2017-09-26"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Tacoma"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,91 @@
+[[person]]
+
+[person.meta]
+key = "4488"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/4488"
+title = "The Sporting News Player Contract Cards, ScanID: 1003001564"
+
+[person.name]
+last = "Bartlett"
+given = "Lawrence T."
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "75"
+weight = "230"
+
+[person.birth]
+date = "1911-09-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Clara"
+
+[[person.resides]]
+place.address = "1225 Lincoln Ave."
+place.country = "US"
+place.state = "CA"
+place.city = "Napa"
+
+
+[[person.transaction]]
+date = "1934-05"
+type = "signed"
+join.name = "St. Louis AL"
+note = "St. Louis AL 1934-05"
+
+[[person.transaction]]
+date = "1934-06"
+type = "released"
+leave.name = "St. Louis AL"
+join.name = "San Antonio"
+note = "rel to San Antonio 1934-06"
+
+[[person.transaction]]
+date = "1934-07"
+type = "optioned"
+leave.name = "San Antonio"
+join.name = "Palestine"
+note = "opt to Palestine 1934-07"
+
+[[person.transaction]]
+date = "1934-09"
+type = "recalled"
+leave.name = "Palestine"
+join.name = "San Antonio"
+note = "rec by San Antonio 1934-09"
+
+[[person.transaction]]
+date = "1935"
+type = "reserved"
+join.name = "San Antonio"
+
+[[person.transaction]]
+date = "1935-05"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Palestine"
+note = "rel to Palestine 1935-05"
+
+[[person.transaction]]
+date = "1935-08"
+type = "released"
+leave.name = "Palestine"
+join.name = "Lafayette"
+note = "rel to Lafayette 1935-08"
+
+[[person.transaction]]
+date = "1935-09"
+type = "released"
+leave.name = "Lafayette"
+note = "rel 1935-09"
+
+[[person.transaction]]
+date = "1936-07"
+type = "signed"
+join.name = "Duluth"
+note = "Duluth 1936-07"
+

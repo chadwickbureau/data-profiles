@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_156"
+
+[[person.meta.citation]]
+title = "Pippin Funeral Home"
+date = "2017-08-15"
+url = "http://www.pippinfuneralhome.com/notices/Carl-Ergenzinger"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Ergenzinger"
+use = "Carl"
+given = "Carl Jacob"
+
+[person.birth]
+date = "1947-05-24"
+place.country = "US"
+place.state = "DE"
+place.city = "Dover"
+
+[person.death]
+date = "2017-06-22"
+place.country = "US"
+place.state = "DE"
+place.city = "Camden"
+
+[[person.education]]
+school.name = "Dover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Dover"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

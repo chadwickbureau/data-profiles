@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_063"
+
+[[person.meta.citation]]
+title = "DiDonato Funeral Service"
+date = "2014-04-27"
+url = "http://didonatofuneralservice.com/online-obituary/2014-04-carmen-donato/10081728"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-27"
+
+[person.name]
+last = "Donato"
+use = "Carmen"
+given = "Carmen"
+
+[person.birth]
+date = "1929-07-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Newburgh"
+
+[person.death]
+date = "2014-04-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Cornwall"
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Newburgh"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

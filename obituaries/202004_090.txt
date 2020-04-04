@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202004_090"
+
+[[person.meta.citation]]
+title = "ABC7Chicago.com"
+date = "2009-11-30"
+url = "http://abc7chicago.com/archive/7145993/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Edwards"
+use = "Kevin"
+given = "Kevin"
+
+[person.death]
+date = "2009-11-29"
+
+[[person.education]]
+school.name = "Marian Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago Heights"
+
+[[person.education]]
+school.name = "University of Arkansas at Pine Bluff"
+school.type = "college"
+
+

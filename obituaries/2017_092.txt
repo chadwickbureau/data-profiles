@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_092"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2017-09-18"
+url = "http://www.tributes.com/obituary/show/Russell-Buchanan-Rowe-105203659"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Rowe"
+use = "Russell"
+given = "Russell Buchanan"
+
+[person.birth]
+date = "1922-12-05"
+
+[person.death]
+date = "2017-09-15"
+
+[person.burial]
+cemetery.name = "Westhampton Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Richmond"
+
+[[person.education]]
+school.name = "John Marshall HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Richmond"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

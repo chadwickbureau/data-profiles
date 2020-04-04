@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0063"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-01-03"
+url = "https://www.findagrave.com/memorial/164981022"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-01-03"
+
+[person.name]
+last = "Hannahoe"
+use = "Gerald"
+given = "Gerald Patrick"
+
+[person.birth]
+date = "1912"
+
+[person.death]
+date = "1978"
+
+[person.burial]
+cemetery.name = "St. Peter & Paul's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Elmira"
+
+[person.sameas]
+findagrave = "164981022"
+

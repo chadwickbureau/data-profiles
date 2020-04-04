@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_106"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1910-04-20"
+pages = "8"
+
+[person.name]
+last = "Waters"
+use = "Martin"
+given = "Martin"
+nick = "Mutt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Brockton"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

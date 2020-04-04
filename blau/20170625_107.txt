@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_107"
+
+[[person.meta.citation]]
+title = "Lincoln Journal Star"
+date = "1928-05-08"
+pages = "9"
+
+[person.name]
+last = "Bass"
+use = "Holman"
+given = "Holman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Omaha"
+team.league.name = "Western League"
+description.throws = "L"
+
+

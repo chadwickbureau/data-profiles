@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170625_053"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1923-05-26"
+pages = "2"
+
+[person.name]
+last = "Bruner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bartlesville"
+team.league.name = "Southwestern League"
+description.throws = "L"
+
+

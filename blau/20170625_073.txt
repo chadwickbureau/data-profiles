@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "20170625_073"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1910-03-18"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Eau Claire Leader"
+date = "1911-06-28"
+pages = "3"
+
+[person.name]
+last = "Kuehn"
+use = "Bunny"
+given = "Bunny"
+
+[[person.education]]
+school.name = "Beloit College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "La Crosse"
+team.league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "La Crosse"
+team.league.name = "Minnesota-Wisconsin League"
+
+

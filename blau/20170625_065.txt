@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_065"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch"
+date = "1920-06-01"
+pages = "6"
+
+[person.name]
+last = "Kline"
+use = "Dutch"
+given = "Dutch"
+
+[[person.resides]]
+dates = "1920"
+place.country = "US"
+place.state = "VA"
+place.city = "Richmond"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+

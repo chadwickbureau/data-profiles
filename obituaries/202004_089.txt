@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202004_089"
+
+[[person.meta.citation]]
+title = "Willow Funeral Home"
+date = "2018-06-24"
+url = "https://www.willowfh.com/notices/Richard-Sassi"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-24"
+
+[person.name]
+last = "Sassi"
+use = "Richard"
+given = "Richard"
+
+[person.birth]
+date = "1931-12-21"
+
+[person.death]
+date = "2017-04-04"
+

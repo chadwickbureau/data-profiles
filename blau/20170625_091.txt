@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170625_091"
+
+[[person.meta.citation]]
+title = "Richmond Times Dispatch"
+date = "1919-07-15"
+pages = "8"
+
+[person.name]
+last = "McGloughlin"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+

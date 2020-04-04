@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_104"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2017-09-18"
+url = "http://www.tributes.com/obituary/show/Frank-Michael-Bellotto-105202461"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Bellotto"
+use = "Frank"
+given = "Frank Michael"
+
+[person.birth]
+date = "1923-05-12"
+place.country = "US"
+place.state = "NY"
+place.city = "Middletown"
+
+[person.death]
+date = "2017-09-15"
+
+[person.burial]
+cemetery.name = "Pine Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Middletown"
+
+[[person.education]]
+school.name = "Middletown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Middletown"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

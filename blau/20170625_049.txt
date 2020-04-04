@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_049"
+
+[[person.meta.citation]]
+title = "Thomasville Times Enterprise"
+date = "1927-07-05"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1927-08-17"
+pages = "7"
+
+[person.name]
+last = "Rauch"
+use = "Bull"
+given = "Bull"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Savannah"
+team.league.name = "Southeastern League"
+description.throws = "L"
+
+

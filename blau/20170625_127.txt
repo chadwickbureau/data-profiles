@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_127"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1925-05-21"
+pages = "2"
+
+[person.name]
+last = "Harris"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "London"
+team.league.name = "Michigan-Ontario League"
+description.throws = "L"
+
+

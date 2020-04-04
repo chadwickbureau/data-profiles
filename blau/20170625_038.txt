@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_038"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1929-07-07"
+pages = "29"
+
+[person.name]
+last = "Woeber"
+use = "Moose"
+given = "Moose"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

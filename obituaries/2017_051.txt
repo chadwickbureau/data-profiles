@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "2017_051"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2017-10-09"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=William-Spaeter&lc=4798&pid=186737932&uuid=e8137c63-b22a-4193-9d49-6506b566ead2"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Spaeter"
+use = "Bill"
+given = "William Walter"
+
+[person.birth]
+date = "1924-03-08"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2017-09-21"
+
+[person.burial]
+cemetery.name = "Inglewood Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Inglewood"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Spaeter"
+person.name.use = "Alfred"
+person.name.given = "Alfred"
+
+
+[[person.education]]
+school.name = "John C. Fremont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

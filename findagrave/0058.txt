@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0058"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-09"
+url = "https://www.findagrave.com/memorial/75263026"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Allen"
+use = "Roy"
+given = "Roy W."
+
+[person.birth]
+date = "1891-05-19"
+place.country = "US"
+place.state = "MO"
+place.city = "Branson"
+
+[person.death]
+date = "1986-11-05"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[person.burial]
+cemetery.name = "Rose Hill Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Oklahoma City"
+
+[person.sameas]
+findagrave = "75263026"
+

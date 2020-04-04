@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200402_003"
+
+[[person.meta.citation]]
+title = "Norwich Bulletin"
+date = "1913-01-08"
+pages = "3"
+
+[person.name]
+last = "Green"
+use = "Paddy"
+given = "Paddy"
+
+[[person.alias]]
+name.last = "L'Grenier"
+name.use = "Arthur"
+name.given = "Arthur Jean Baptiste"
+type = "legal"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Holyoke"
+team.league.name = "Connecticut State League"
+
+

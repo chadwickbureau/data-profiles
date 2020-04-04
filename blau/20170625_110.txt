@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_110"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-06-17"
+pages = "23"
+
+[person.name]
+last = "Jenkins"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+

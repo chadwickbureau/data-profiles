@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "2017_062"
+
+[[person.meta.citation]]
+title = "Allen Family Funeral Home"
+date = "2017-10-04"
+url = "http://www.affoplano.com/obituary/garrett-bruce"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Bruce"
+use = "Garrett"
+given = "Garrett Jackson"
+
+[person.birth]
+date = "1993-09-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Plano"
+
+[person.death]
+date = "2017-09-21"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[[person.education]]
+school.name = "Plano West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Plano"
+
+[[person.education]]
+school.name = "Stephen F. Austin State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Hill Junior College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Hillsboro"
+
+[[person.education]]
+school.name = "Texas Tech University"
+school.type = "college"
+
+

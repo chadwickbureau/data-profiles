@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_049"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2014-02-20"
+url = "http://www.legacy.com/obituaries/belleville/obituary.aspx?n=William-Struharik&pid=169769513"
+
+[[person.meta.contributor]]
+name.last = "Hall"
+name.use = "John"
+email = "j03.john@gmail.com"
+date = "2014-02-20"
+
+[person.name]
+last = "Struharik"
+use = "Bill"
+given = "William Stephen"
+
+[person.birth]
+date = "1924-09-21"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2014-02-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[person.description]
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

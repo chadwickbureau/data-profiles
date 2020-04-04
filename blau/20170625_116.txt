@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20170625_116"
+
+[[person.meta.citation]]
+title = "Laurel Morning Call"
+date = "1929-05-26"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Brooklyn Daily Eagle"
+date = "1930-05-30"
+pages = "2"
+
+[person.name]
+last = "Lundell"
+use = "Roper"
+given = "Roper"
+nick = "Swede"
+
+[[person.resides]]
+dates = "1929"
+place.country = "US"
+place.state = "MN"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Laurel"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+
+

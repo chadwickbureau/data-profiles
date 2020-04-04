@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_011"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1925-03-29"
+pages = "10"
+
+[person.name]
+last = "Jones"
+use = "Lou"
+given = "Lou"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Independence"
+team.league.name = "Western Association"
+
+

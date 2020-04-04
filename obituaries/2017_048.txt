@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_048"
+
+[[person.meta.citation]]
+title = "Houston Chronicle"
+date = "2017-10-08"
+url = "http://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=solomon-j-hemus-solly&pid=186860070&fhid=5470"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Hemus"
+use = "Solly"
+given = "Solomon J."
+
+[person.birth]
+date = "1923-04-17"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+[person.death]
+date = "2017-10-03"
+
+[[person.education]]
+school.name = "St. Augustine HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

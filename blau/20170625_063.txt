@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_063"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-04-25"
+pages = "5"
+
+[person.name]
+last = "Bloomer"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Topeka"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+

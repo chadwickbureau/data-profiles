@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2014_001"
+
+[[person.meta.citation]]
+title = "Eternal Valley Memorial Park & Mortuary (Newhall, CA)"
+date = "2014-01-27"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Jophery-Brown&lc=2241&pid=169101258&mid=5816263"
+
+[[person.meta.contributor]]
+name.last = "Rod"
+name.use = "Nelson"
+email = "rodericnelson@gmail.com"
+date = "2014-10-27"
+
+[person.name]
+last = "Brown"
+use = "Jophery"
+given = "Jophery Clifford"
+
+[person.birth]
+date = "1945-01-22"
+
+[person.death]
+date = "2014-01-11"
+

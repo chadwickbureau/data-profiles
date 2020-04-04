@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "20170625_136"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-05-23"
+pages = "9"
+
+[person.name]
+last = "Stoltz"
+use = "Martin"
+given = "Martin"
+nick = "Babe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.bats = "L"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Richmond"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "La Crosse"
+team.league.name = "Central Association"
+
+

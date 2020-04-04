@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_103"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1907-05-17"
+pages = "10"
+
+[person.name]
+last = "Ramsey"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Wilmington"
+team.league.name = "Tri-State League"
+description.throws = "R"
+
+

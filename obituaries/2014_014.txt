@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2014_014"
+
+[[person.meta.citation]]
+title = "yourbayareanews.com"
+date = "2014-02-03"
+url = "http://www.legacy.com/obituaries/bay_area/obituary.aspx?n=william-b-wood-buddy&pid=169491763&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-03"
+
+[person.name]
+last = "Wood"
+use = "Buddy"
+given = "William Burnett"
+
+[person.birth]
+date = "1938-07-07"
+place.country = "US"
+place.state = "AL"
+place.city = "Guntersville"
+
+[person.death]
+date = "2014-01-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Temple"
+
+[[person.education]]
+school.name = "Marshall County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Guntersville"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+

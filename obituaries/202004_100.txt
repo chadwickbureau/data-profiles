@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_100"
+
+[[person.meta.citation]]
+title = "Heintz Funeral Home"
+date = "2020-04-03"
+url = "https://heintzfuneralservice.net/tribute/details/118/Francis-Pfisterer/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "Pfisterer"
+use = "Fran"
+given = "Francis A."
+
+[person.birth]
+date = "1930-01-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Utica"
+
+[person.death]
+date = "2020-06-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Utica"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Utica"
+
+[[person.education]]
+school.name = "St. Francis de Sales HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Utica"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

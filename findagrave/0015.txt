@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "0015"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-05-07"
+url = "https://www.findagrave.com/memorial/100397798"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Baillies"
+use = "Frank"
+given = "Frank King"
+
+[person.birth]
+date = "1882-08-09"
+
+[person.death]
+date = "1982-12-06"
+
+[person.burial]
+cemetery.name = "Rosedale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Pardeeville"
+
+[person.sameas]
+findagrave = "100397798"
+

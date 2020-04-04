@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_094"
+
+[[person.meta.citation]]
+title = "Port Huron Times Herald"
+date = "1913-07-05"
+pages = "9"
+
+[person.name]
+last = "Corbat"
+use = "Louis"
+given = "Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Port Huron"
+team.league.name = "Border League"
+description.throws = "R"
+
+

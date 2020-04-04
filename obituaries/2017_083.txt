@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_083"
+
+[[person.meta.citation]]
+title = "Kansas City Star"
+date = "2017-09-15"
+url = "http://www.kansascity.com/sports/mlb/article173530016.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Motley"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1923"
+place.country = "US"
+place.state = "AL"
+place.city = "Autaugaville"
+
+[person.death]
+date = "2017-09-14"
+
+[person.burial]
+cemetery.name = "Leavenworth National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Leavenworth"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

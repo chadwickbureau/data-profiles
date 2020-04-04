@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_034"
+
+[[person.meta.citation]]
+title = "Dickinson Press"
+date = "2017-10-13"
+url = "http://www.thedickinsonpress.com/sports/preps/4343518-longtime-beach-girls-basketball-coach-bob-waldal-dies-71"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-14"
+
+[person.name]
+last = "Waldal"
+use = "Bob"
+given = "Bob"
+
+[person.death]
+date = "2017-10-13"
+place.country = "US"
+place.state = "ND"
+place.city = "Beach"
+
+[[person.education]]
+school.name = "Dickinson State University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "ND"
+school.place.city = "Dickinson"
+
+

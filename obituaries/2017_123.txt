@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_123"
+
+[[person.meta.citation]]
+title = "Resthaven Funeral Home"
+date = "2017-09-05"
+url = "http://www.resthavenokc.com/tributes/John-Dewhirst"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Dewhirst"
+use = "John"
+given = "John Sharp"
+
+[person.birth]
+date = "1930-03-25"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2017-08-28"
+
+[person.burial]
+cemetery.name = "Resthaven Gardens Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Oklahoma State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

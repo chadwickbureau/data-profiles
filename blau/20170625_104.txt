@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_104"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1908-04-24"
+pages = "10"
+
+[person.name]
+last = "McCafferty"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+description.throws = "R"
+
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2014_066"
+
+[[person.meta.citation]]
+title = "Daily Leader"
+date = "2014-02-28"
+url = "http://dailyleader.com/2014/02/28/david-michael-proffitt-3/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-02"
+
+[person.name]
+last = "Proffitt"
+use = "Mike"
+given = "David Michael"
+
+[person.birth]
+date = "1950-11-01"
+place.country = "US"
+place.state = "SC"
+place.city = "Gaffney"
+
+[person.death]
+date = "2014-02-25"
+place.country = "US"
+place.state = "MS"
+place.city = "Jackson"
+
+[person.burial]
+cemetery.name = "Riverwood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Brookhaven"
+
+[[person.education]]
+school.name = "Ensley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Birmingham"
+
+[[person.education]]
+school.name = "Mississippi State Univeristy"
+school.type = "college"
+
+

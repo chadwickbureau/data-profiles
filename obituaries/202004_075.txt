@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_075"
+
+[[person.meta.citation]]
+title = "Appleton Post-Crescent"
+date = "2018-10-17"
+url = "https://www.legacy.com/obituaries/postcrescent/obituary.aspx?n=william-c-wilke&pid=190489254&fhid=14022"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-10"
+
+[person.name]
+last = "Wilke"
+use = "Bill"
+given = "William C."
+
+[person.birth]
+date = "1929-12-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Shawano"
+
+[person.death]
+date = "2018-10-13"
+place.country = "US"
+place.state = "WI"
+place.city = "Green Bay"
+
+[[person.education]]
+school.name = "Gillett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Gillett"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

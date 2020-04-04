@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_120"
+
+[[person.meta.citation]]
+title = "Florida Memorial Funeral Home"
+date = "2017-09-05"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Jackie-Nichols&lc=4467&pid=186565596&mid=7544076"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Nichols"
+use = "Jack"
+given = "Jackie Lee"
+
+[person.birth]
+date = "1933-02-17"
+place.country = "US"
+place.state = "MO"
+place.city = "Dexter"
+
+[person.death]
+date = "2017-08-30"
+place.country = "US"
+place.state = "FL"
+place.city = "Merritt Island"
+
+[person.burial]
+cemetery.name = "Florida Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Rockledge"
+
+[[person.education]]
+school.name = "East Peoria HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "East Peoria"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

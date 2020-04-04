@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "0019"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-02-23"
+url = "https://www.findagrave.com/memorial/25885221"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-23"
+
+[person.name]
+last = "Hodgin"
+use = "William"
+given = "William Herbert"
+suffix = "Sr."
+
+[person.birth]
+date = "1894-09-06"
+
+[person.death]
+date = "1990-12-13"
+
+[person.burial]
+cemetery.name = "Springfield Friends Meeting House Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "High Point"
+
+[person.sameas]
+findagrave = "25885221"
+

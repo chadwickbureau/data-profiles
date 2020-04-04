@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_102"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1921-09-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1922-05-02"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-08-03"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican"
+date = "1924-07-21"
+pages = "3"
+
+[person.name]
+last = "Birkenstock"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Redfield"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jamestown"
+team.league.name = "Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+description.throws = "R"
+
+

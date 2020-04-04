@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "2017_130"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2017-08-29"
+url = "http://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=kevin-michael-joyce&pid=186503959"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-29"
+
+[person.name]
+last = "Joyce"
+use = "Kevin"
+given = "Kevin Michael"
+
+[person.birth]
+date = "1955-09-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2017-08-24"
+
+[[person.education]]
+school.name = "Bishop O'Dowd HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+[[person.education]]
+school.name = "San Lorenzo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Lorenzo"
+
+[[person.education]]
+school.name = "Chabot College"
+school.type = "college"
+
+

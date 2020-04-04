@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_118"
+
+[[person.meta.citation]]
+title = "Kansas City Star"
+date = "2017-09-02"
+url = "http://www.kansascity.com/sports/mlb/kansas-city-royals/article171025307.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Schaal"
+use = "Paul"
+given = "Paul"
+
+[person.death]
+date = "2017-09-01"
+place.country = "US"
+place.state = "HI"
+place.city = "Waikoloa"
+
+[[person.education]]
+school.name = "Compton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Compton"
+
+

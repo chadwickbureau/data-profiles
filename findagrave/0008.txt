@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "0008"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-09-03"
+url = "https://www.findagrave.com/memorial/163427450/james-edward-harp"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Harp"
+use = "Jim"
+given = "James Edward"
+
+[person.birth]
+date = "1923-06-04"
+place.country = "US"
+place.state = "GA"
+place.city = "Thomaston"
+
+[person.death]
+date = "2016-05-28"
+place.country = "US"
+place.state = "GA"
+place.city = "Macon"
+
+[person.burial]
+cemetery.name = "Orphans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Macon"
+
+[person.sameas]
+findagrave = "163427450"
+
+[[person.education]]
+school.name = "R. E. Lee Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Thomaston"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

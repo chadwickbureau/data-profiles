@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_049"
+
+[[person.meta.citation]]
+title = "Palmer Funeral Home"
+date = "2017-10-02"
+url = "http://www.palmerfuneralhomes.com/notices/JamesJim-Gibbons"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Gibbons"
+use = "Jim"
+given = "James V."
+
+[person.birth]
+date = "1930-08-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2017-10-02"
+
+[person.burial]
+cemetery.name = "Cedar Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "South Bend"
+
+[[person.education]]
+school.name = "Mount Carmel HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "University of Notre Dame"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

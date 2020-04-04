@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20170625_037"
+
+[[person.meta.citation]]
+title = "Lethbridge Herald"
+date = "1926-04-16"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1930-04-02"
+pages = "13"
+
+[person.name]
+last = "Kerr"
+use = "Mel"
+given = "Mel"
+
+[[person.resides]]
+dates = "1926"
+place.country = "CA"
+place.state = "SK"
+place.city = "Saskatoon"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Chicago"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

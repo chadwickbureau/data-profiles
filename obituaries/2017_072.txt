@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_072"
+
+[[person.meta.citation]]
+title = "Crestwood Funeral Home"
+date = "2017-10-02"
+url = "http://www.crestwoodmemorialfh.com/book-of-memories/3165650/Mathis-James/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Mathis"
+use = "James"
+given = "James Allen"
+nick = "Bubba"
+
+[person.birth]
+date = "1948-09-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Etowah County"
+
+[person.death]
+date = "2017-09-21"
+
+[person.burial]
+cemetery.name = "Crestwood Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "East Gadsden"
+
+[[person.education]]
+school.name = "Emma Sansom HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Gadsden"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Vietnam War"
+
+

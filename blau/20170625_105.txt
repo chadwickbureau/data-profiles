@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_105"
+
+[[person.meta.citation]]
+title = "Pine Bluff Daily Graphic"
+date = "1922-04-11"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1922-05-23"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Little Rock Daily News"
+date = "1922-07-20"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1922-08-03"
+pages = "11"
+
+[person.name]
+last = "McGloughlin"
+use = "Bill"
+given = "William M."
+nick = "Red"
+
+[[person.education]]
+school.name = "Marist College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.height = "79"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Toledo"
+team.league.name = "American Association"
+
+

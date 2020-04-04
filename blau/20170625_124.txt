@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "20170625_124"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1911-03-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Telegram"
+date = "1910-04-01"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1911-07-02"
+pages = "45"
+
+[[person.meta.citation]]
+title = "Oshkosh Northwestern"
+date = "1912-06-06"
+pages = "11"
+
+[person.name]
+last = "Malloy"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Red Wing"
+team.league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Red Wing"
+team.league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Winona"
+team.league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "La Crosse"
+team.league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Wausau"
+team.league.name = "Minnesota-Wisconsin League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "202004_010"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Osteen"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1892-02-28"
+
+[person.death]
+date = "1966-01"
+
+[person.sameas]
+ssn = "328-10-8960"
+

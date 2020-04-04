@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_109"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1920-02-28"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1921-04-07"
+pages = "8"
+
+[person.name]
+last = "Daughton"
+use = "Sam"
+given = "Sam"
+nick = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+

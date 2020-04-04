@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2014_071"
+
+[[person.meta.citation]]
+title = "Omaha World-Herald"
+date = "2014-03-05"
+url = "http://www.legacy.com/obituaries/omaha/obituary.aspx?n=Richard-Spady&pid=169975882"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-05"
+
+[person.name]
+last = "Spady"
+use = "Dick"
+given = "Richard J."
+
+[person.birth]
+date = "1929-07-18"
+place.country = "US"
+place.state = "NE"
+place.city = "Hastings"
+
+[person.death]
+date = "2014-02-28"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.burial]
+cemetery.name = "Parkview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Hastings"
+
+[[person.education]]
+school.name = "Hastings HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Hastings"
+
+

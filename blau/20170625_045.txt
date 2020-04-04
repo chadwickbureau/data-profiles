@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_045"
+
+[[person.meta.citation]]
+title = "Biloxi Daily Herald"
+date = "1923-06-05"
+pages = "3"
+
+[person.name]
+last = "Summerlin"
+use = "Fritz"
+given = "Fritz"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "MS"
+place.city = "Biloxi"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

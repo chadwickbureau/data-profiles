@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0059"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-09"
+url = "https://www.findagrave.com/memorial/82177993/gordon-leroy-figard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Figard"
+use = "Gordon"
+given = "Gordon LeRoy"
+
+[person.birth]
+date = "1934-11-16"
+
+[person.death]
+date = "2009-01-20"
+
+[person.burial]
+cemetery.name = "Highland Memory Garden Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Des Moines"
+
+[person.sameas]
+findagrave = "82177993"
+

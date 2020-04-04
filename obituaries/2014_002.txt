@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2014_002"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2014-01-28"
+url = "http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=ROBERT-SLENCAK&pid=163005478#fbLoggedOut"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-28"
+
+[person.name]
+last = "Barmes"
+use = "Bruce"
+given = "Bruce Raymond"
+
+[person.birth]
+date = "1929-10-23"
+place.country = "US"
+place.state = "IN"
+place.city = "Vincennes"
+
+[person.death]
+date = "2014-01-25"
+

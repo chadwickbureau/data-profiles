@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170625_085"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1924-04-29"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Stanberry (MO) Headlight"
+date = "1932-05-05"
+pages = "12"
+
+[person.name]
+last = "Lisle"
+use = "Fay"
+given = "Fay"
+
+[person.death]
+date = "1931-05-04"
+place.country = "US"
+place.state = "MO"
+place.city = "Easton"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+

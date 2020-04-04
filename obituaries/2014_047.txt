@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "2014_047"
+
+[[person.meta.citation]]
+title = "Kenney Basford Funeral Home"
+date = "2014-02-20"
+url = "http://keeneybasford.com/sitemaker/sites/KEENEY1/obit.cgi?user=1248432UpdegraffJr#"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-20"
+
+[person.name]
+last = "Updegraff"
+use = "Billy"
+given = "William J."
+suffix = "Jr."
+
+[person.birth]
+date = "1950-01-31"
+
+[person.death]
+date = "2014-02-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Waynesboro"
+
+[person.burial]
+cemetery.name = "Germantown Bethel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Cascade"
+
+[[person.education]]
+school.name = "Smithsburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Smithsburg"
+
+[[person.education]]
+school.name = "Hagerstown Community College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Hagerstown"
+
+[[person.education]]
+school.name = "High Point University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "High Point"
+
+

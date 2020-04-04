@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2014_056"
+
+[[person.meta.citation]]
+title = "Beecher Flooks Funeral Homes"
+date = "2014-02-23"
+url = "http://beecherflooksfh.com/book-of-memories/1810359/Mante-Andrew/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-23"
+
+[person.name]
+last = "Mante"
+use = "Andrew"
+given = "Andrew C."
+
+[person.birth]
+date = "1922-08-13"
+place.country = "US"
+place.state = "NY"
+place.city = "Riverdale"
+
+[person.death]
+date = "2014-02-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Sleepy Hollow"
+
+[[person.education]]
+school.name = "Villanova University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

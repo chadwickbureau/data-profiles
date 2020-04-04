@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2017_014"
+
+[[person.meta.citation]]
+title = "Hartenstein Funeral Home"
+date = "2017-10-25"
+url = "http://hartensteincares.com/book-of-memories/3239143/Spector-Douglas/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-25"
+
+[person.name]
+last = "Spector"
+use = "Doug"
+given = "Douglas Wayne"
+
+[person.birth]
+date = "1960-08-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Norwalk"
+
+[person.death]
+date = "2017-10-20"
+
+[[person.education]]
+school.name = "University of Hawaii-Hilo"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

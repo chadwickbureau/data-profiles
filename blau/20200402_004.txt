@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200402_004"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "1915-04-27"
+pages = "16"
+
+[person.name]
+last = "Meyers"
+use = "Tex"
+given = "Tex"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lowell"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New London"
+team.league.name = "Eastern Association"
+
+

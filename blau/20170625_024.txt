@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_024"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1911-05-11"
+pages = "16"
+
+[person.name]
+last = "Hoffman"
+use = "Harry"
+given = "Harry"
+
+[[person.alias]]
+name.last = "Kaufman"
+type = "alias"
+dates = "1911/1911"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lynchburg"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Danville"
+team.league.name = "Virginia League"
+
+

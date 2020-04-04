@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_161"
+
+[[person.meta.citation]]
+title = "Pable-Evertz Funeral Home"
+date = "2017-08-14"
+url = "http://pableevertzfuneralhome.com/tribute/details/1546/Thomas-M-Fitzgerald/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Fitzgerald"
+use = "Tom"
+given = "Thomas M."
+
+[person.birth]
+date = "1951-03-01"
+
+[person.death]
+date = "2017-08-13"
+
+[person.burial]
+cemetery.name = "St. Gertrude Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Colonia"
+

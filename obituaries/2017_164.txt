@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_164"
+
+[[person.meta.citation]]
+title = "Marshal Funeral Home"
+date = "2017-08-14"
+url = "http://marshallsfh.com/2017/08/charles-v-badger-87/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Badger"
+use = "Chuck"
+given = "Charles V."
+
+[person.birth]
+date = "1929-11-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Lawrence County"
+
+[person.death]
+date = "2017-08-11"
+
+[person.burial]
+cemetery.name = "Graceland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Castle"
+
+[[person.education]]
+school.name = "Wampum HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Wampum"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

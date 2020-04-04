@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_181"
+
+[[person.meta.citation]]
+title = "Afterlife.co"
+date = "2017-08-07"
+url = "https://www.afterlife.co/us/obituary-hyannis-port-carlton-lewis-doane-sr-4840476"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-07"
+
+[person.name]
+last = "Doane"
+use = "Carl"
+given = "Carlton Lewis"
+suffix = "Sr."
+
+[person.birth]
+date = "1920-09-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Hyannis Port"
+
+[person.death]
+date = "2017-08-06"
+
+[[person.education]]
+school.name = "John Simpkins HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "South Yarmouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

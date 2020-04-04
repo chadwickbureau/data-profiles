@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170625_123"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1925-06-27"
+pages = "13"
+
+[person.name]
+last = "Williams"
+use = "John"
+given = "John H."
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+

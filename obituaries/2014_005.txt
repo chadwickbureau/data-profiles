@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2014_005"
+
+[[person.meta.citation]]
+title = "Carlsbad Current-Argus"
+date = "2014-01-29"
+url = "http://www.legacy.com/obituaries/currentargus/obituary.aspx?n=Harry-Young&pid=169385353"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-29"
+
+[person.name]
+last = "Young"
+use = "Harry"
+given = "Harry R."
+
+[person.birth]
+date = "1929-10-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Hardin"
+
+[person.death]
+date = "2014-01-23"
+place.country = "US"
+place.state = "NM"
+place.city = "Roswell"
+
+[person.burial]
+cemetery.name = "Sunset Gardens Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Carlsbad"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

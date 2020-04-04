@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "2017_077"
+
+[[person.meta.citation]]
+title = "Fosters"
+date = "2017-09-24"
+url = "http://www.legacy.com/obituaries/fosters/obituary.aspx?n=lawrence-hunter-stone&pid=186745771"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Stone"
+use = "Larry"
+given = "Lawrence Hunter"
+
+[person.birth]
+date = "1926-08-30"
+
+[person.death]
+date = "2017-09-20"
+
+[person.burial]
+cemetery.name = "New St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Dover"
+
+[[person.education]]
+school.name = "Dover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Dover"
+
+[[person.education]]
+school.name = "Brewster Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Wolfeboro"
+
+[[person.education]]
+school.name = "University of New Hampshire"
+school.type = "college"
+
+[[person.education]]
+school.name = "Arnold College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Milford"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

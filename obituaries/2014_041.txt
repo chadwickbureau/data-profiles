@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "2014_041"
+
+[[person.meta.citation]]
+title = "Sultanes de Monterrey"
+date = "2014-02-04"
+url = "http://www.sultanes.com.mx/2013/index.php/todas-las-noticias/763-el-beisbol-de-luto-fallece-alfonso-la-gallina-pena.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-16"
+
+[person.name]
+last = "Pena"
+use = "Alfonso"
+given = "Alfonso"
+nick = "La Gallina"
+
+[person.birth]
+date = "1926-11-26"
+
+[person.death]
+date = "2014-02-04"
+place.country = "MX"
+place.state = "Veracruz"
+place.city = "Veracruz"
+

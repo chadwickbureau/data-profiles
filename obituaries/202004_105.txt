@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_105"
+
+[[person.meta.citation]]
+title = "Lebanon Daily News"
+date = "1973-08-10"
+pages = "1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-21"
+
+[[person.meta.contributor]]
+name.last = "Copeland"
+name.use = "Tim"
+date = "2017-12-21"
+
+[person.name]
+last = "Quinn"
+use = "Billy"
+given = "William J."
+
+[person.death]
+date = "1973-08-09"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[[person.education]]
+school.name = "Perkiomen School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pennsburg"
+
+[[person.education]]
+school.name = "Lebanon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Lebanon"
+
+

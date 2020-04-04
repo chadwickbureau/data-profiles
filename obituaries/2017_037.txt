@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2017_037"
+
+[[person.meta.citation]]
+title = "Noticia Al Dia"
+date = "2017-07-29"
+url = "http://noticiaaldia.com/2017/07/fallecio-urbano-lugo-padre-primer-lanzador-criollo-en-dar-no-hit-no-run-en-la-lvbp/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "Lugo"
+use = "Urbano"
+given = "Urbano"
+
+[person.birth]
+date = "1939-12-05"
+
+[person.death]
+date = "2017-07-29"
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_184"
+
+[[person.meta.citation]]
+title = "South Bend Tribune"
+date = "2017-08-03"
+url = "http://www.legacy.com/obituaries/southbendtribune/obituary.aspx?n=ara-r-parseghian&pid=186271399&fhid=8595&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-04"
+
+[person.name]
+last = "Parseghian"
+use = "Ara"
+given = "Ara R."
+
+[person.birth]
+date = "1923-05-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Akron"
+
+[person.death]
+date = "2017-08-02"
+place.country = "US"
+place.state = "IN"
+place.city = "Granger"
+
+[person.sameas]
+sr_nfl = "ParsAr20"
+
+[[person.education]]
+school.name = "University of Akron"
+school.type = "college"
+
+[[person.education]]
+school.name = "Miami University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_105"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2017-09-13"
+url = "https://www.nytimes.com/2017/09/13/us/politics/pete-domenici-dead.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-13"
+
+[person.name]
+last = "Domenici"
+use = "Pete"
+given = "Pietro Vichi"
+
+[person.birth]
+date = "1932-05-07"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[person.death]
+date = "2017-09-13"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[[person.education]]
+school.name = "University of New Mexico"
+school.type = "college"
+
+

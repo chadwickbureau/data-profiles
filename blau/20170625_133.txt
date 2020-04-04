@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "20170625_133"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[person.name]
+last = "Loudeman"
+use = "Luther"
+given = "Luther"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Topeka"
+team.league.name = "Southwestern League"
+
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "20170625_042"
+
+[[person.meta.citation]]
+title = "San Antonio Light"
+date = "1927-12-08"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1925-06-15"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Pittsburgh Gazette Times"
+date = "1927-07-19"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-08-25"
+pages = "11"
+
+[person.name]
+last = "King"
+use = "Harold"
+given = "Harold"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+

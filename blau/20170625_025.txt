@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_025"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "1923-10-02"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1924-06-07"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1924-09-26"
+pages = "19"
+
+[person.name]
+last = "Kearns"
+use = "Teddy"
+given = "Teddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Galveston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Galveston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Chicago"
+team.league.name = "National League"
+
+

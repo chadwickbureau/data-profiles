@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_175"
+
+[[person.meta.citation]]
+title = "Cook-Walden Funeral Home"
+date = "2017-08-09"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-Veach&lc=4884&pid=186310475&mid=7513187"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-09"
+
+[person.name]
+last = "Veach"
+use = "Robert"
+given = "Robert A."
+
+[person.birth]
+date = "1931-07-21"
+place.country = "US"
+place.state = "IL"
+place.city = "Vienna"
+
+[person.death]
+date = "2017-08-03"
+
+[person.burial]
+cemetery.name = "Texas State Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Austin"
+

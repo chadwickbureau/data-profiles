@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2014_038"
+
+[[person.meta.citation]]
+title = "Geisel Funeral Home"
+date = "2014-02-15"
+url = "http://www.geiselfuneralhome.com/book-of-memories/1804742/McCartney-F/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-15"
+
+[person.name]
+last = "McCartney"
+use = "Fred"
+given = "F. Fred"
+
+[person.birth]
+date = "1930-02-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Spring Run"
+
+[person.death]
+date = "2014-02-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.burial]
+cemetery.name = "Upper Path Valley Presbyterian Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Spring Run"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

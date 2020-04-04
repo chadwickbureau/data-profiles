@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_047"
+
+[[person.meta.citation]]
+title = "Carbondale Free Press"
+date = "1923-08-09"
+pages = "1"
+
+[person.name]
+last = "Smith"
+use = "Boffie"
+given = "Boffie"
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "IL"
+place.city = "Carbondale"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Cairo"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "2014_031"
+
+[[person.meta.citation]]
+title = "Ledger"
+date = "2014-02-13"
+url = "http://www.legacy.com/obituaries/theledger/obituary.aspx?n=PAUL-ROBERTS&pid=169659959"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "Roberts"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1935-02-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Reidsville"
+
+[person.death]
+date = "2014-02-10"
+place.country = "US"
+place.state = "FL"
+place.city = "Haines City"
+
+[[person.education]]
+school.name = "Shelby HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Shelby"
+
+[[person.education]]
+school.name = "Camden Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Camden"
+
+[[person.education]]
+school.name = "Gardner-Webb University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Boiling Spring"
+
+[[person.education]]
+school.name = "Catawba College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Salisbury"
+
+

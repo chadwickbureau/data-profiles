@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_040"
+
+[[person.meta.citation]]
+title = "Allen & Dahl Funeral Home"
+date = "2017-10-13"
+url = "https://www.fhwsolutions.com/obituaries/allen-and-dahl-funeral-chapel/lee-anthony-lopez-obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-13"
+
+[person.name]
+last = "Lopez"
+use = "Lee"
+given = "Lee Anthony"
+
+[person.birth]
+date = "1925-10-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Portola"
+
+[person.death]
+date = "2017-10-03"
+
+[person.burial]
+cemetery.name = "Northern California Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Igo"
+
+[[person.education]]
+school.name = "Mt. Shasta HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Mt. Shasta"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

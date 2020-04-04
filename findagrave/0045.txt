@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "0045"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-11-09"
+url = "https://www.findagrave.com/memorial/77030218/max-joseph-rachac"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-11-09"
+
+[person.name]
+last = "Rachac"
+use = "Max"
+given = "Max Joseph"
+
+[person.birth]
+date = "1895-10-08"
+
+[person.death]
+date = "1975-10-22"
+place.country = "US"
+place.state = "MT"
+place.city = "Lewis and Clark County"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MT"
+cemetery.place.city = "Helena"
+
+[person.sameas]
+findagrave = "77030218"
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "2017_145"
+
+[[person.meta.citation]]
+title = "Smith Funeral Service"
+date = "2017-08-21"
+url = "http://www.smithfcs.com/obituaries/Claude-White-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "White"
+use = "Claude"
+given = "Claude George"
+suffix = "Sr."
+
+[person.birth]
+date = "1919-02-22"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.death]
+date = "2017-08-18"
+
+[person.burial]
+cemetery.name = "Pinewood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Greenville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

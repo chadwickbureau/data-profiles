@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "0042"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-16"
+url = "https://www.findagrave.com/memorial/95167765/kenneth-earl-vangilder"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2019-10-16"
+
+[person.name]
+last = "Vangilder"
+use = "Kenneth"
+given = "Kenneth Earl"
+
+[person.birth]
+date = "1923-06-22"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2006-07-25"
+
+[person.burial]
+cemetery.name = "Cape County Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Cape Girardeau"
+
+[person.sameas]
+findagrave = "95167765"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

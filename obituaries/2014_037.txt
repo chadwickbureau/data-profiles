@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2014_037"
+
+[[person.meta.citation]]
+title = "UTSanDiego.com"
+date = "2014-02-14"
+url = "http://www.utsandiego.com/news/2014/feb/14/fatal-rollover-crash-closes-freeway/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-15"
+
+[person.name]
+last = "Franco"
+use = "Chris"
+given = "Christian"
+
+[person.death]
+date = "2014-02-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Bonita"
+
+[[person.education]]
+school.name = "Sweetwater HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "National City"
+
+[[person.education]]
+school.name = "Southwestern College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Chula Vista"
+dates = "1997/"
+
+[[person.education]]
+school.name = "California State University, Chico"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Chico"
+dates = "1999/2000"
+
+

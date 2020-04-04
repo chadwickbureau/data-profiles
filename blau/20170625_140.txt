@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_140"
+
+[person.name]
+last = "Maloney"
+given = "A. B."
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "NY"
+place.city = "Niagara Falls"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

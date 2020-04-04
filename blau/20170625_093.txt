@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170625_093"
+
+[[person.meta.citation]]
+title = "Frederick News"
+date = "1924-05-13"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1926-02-27"
+pages = "19"
+
+[person.name]
+last = "Matthews"
+use = "Jackson"
+given = "Jackson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waynesboro"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+

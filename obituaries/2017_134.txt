@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_134"
+
+[[person.meta.citation]]
+title = "Benito & Azzaro Funeral Home"
+date = "2017-08-26"
+url = "http://pacificgardenschapel.com/tribute/details/1904/Robert-Murphy-Jr/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-26"
+
+[person.name]
+last = "Murphy"
+use = "Bob"
+given = "Robert Ward"
+suffix = "Jr."
+
+[person.birth]
+date = "1931"
+place.country = "US"
+place.state = "CA"
+place.city = "Stanford"
+
+[person.death]
+date = "2017-08-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Cruz"
+
+[[person.education]]
+school.name = "San Mateo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+

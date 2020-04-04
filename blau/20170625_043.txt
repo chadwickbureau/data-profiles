@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20170625_043"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-08-25"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1931-01-20"
+pages = "18"
+
+[person.name]
+last = "Gwathmey"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+

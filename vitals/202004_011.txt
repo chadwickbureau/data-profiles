@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "202004_011"
+
+[[person.meta.citation]]
+title = "World War II Draft Cards"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Downing"
+use = "Elton"
+given = "Elton Leo"
+
+[person.birth]
+date = "1925-10-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Amarillo"
+

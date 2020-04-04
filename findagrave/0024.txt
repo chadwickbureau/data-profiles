@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0024"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-05-12"
+url = "https://www.findagrave.com/memorial/127375122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-12"
+
+[person.name]
+last = "Russo"
+use = "Elio"
+given = "Elio B."
+
+[person.birth]
+date = "1925-10-20"
+
+[person.death]
+date = "1998-07-16"
+
+[person.burial]
+cemetery.name = "Brigadier General William C. Doyle Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Arneytown"
+
+[person.sameas]
+findagrave = "127375122"
+

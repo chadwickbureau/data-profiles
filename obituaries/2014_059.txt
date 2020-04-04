@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "2014_059"
+
+[[person.meta.citation]]
+title = "yourconroenews.com"
+date = "2014-02-25"
+url = "http://www.legacy.com/obituaries/courier/obituary.aspx?n=Alba-Etie&pid=169863804"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-26"
+
+[person.name]
+last = "Etie"
+use = "Bookie"
+given = "Alba Joseph"
+suffix = "Jr."
+
+[person.birth]
+date = "1925-06-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2014-02-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Conroe"
+
+[person.burial]
+cemetery.name = "Conroe Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Conroe"
+
+[[person.education]]
+school.name = "Lamar HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"
+
+[[person.education]]
+school.name = "Texas A&M"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

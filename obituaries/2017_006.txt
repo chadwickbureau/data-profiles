@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_006"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2017-10-27"
+url = "http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=donald-lyons&pid=187064346"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-27"
+
+[person.name]
+last = "Lyons"
+use = "Don"
+given = "Donald Thomas"
+
+[person.birth]
+date = "1954-10-07"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2017-10-20"
+
+[[person.education]]
+school.name = "Archbishop Riordan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+[[person.education]]
+school.name = "City College of San Francisco"
+school.type = "college"
+
+[[person.education]]
+school.name = "Gonzaga University"
+school.type = "college"
+
+

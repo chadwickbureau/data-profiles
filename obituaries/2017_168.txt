@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_168"
+
+[[person.meta.citation]]
+title = "Airsman-Hires Funeral Home"
+date = "2017-08-14"
+url = "http://airsman-hires.com/tribute/details/7301/William-Williams/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Williams"
+use = "William"
+given = "William L."
+
+[person.birth]
+date = "1933-06-18"
+
+[person.death]
+date = "2017-07-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Jacksonville"
+
+[[person.education]]
+school.name = "Jacksonville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Jacksonville"
+
+

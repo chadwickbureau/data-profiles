@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202004_003"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-12"
+
+[person.name]
+last = "Mowry"
+use = "Joseph"
+given = "Joseph A."
+
+[person.birth]
+date = "1881-02-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Defiance"
+
+[person.death]
+date = "1941-05-01"
+
+[person.sameas]
+ssn = "335-10-5285"
+

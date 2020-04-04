@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2014_044"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2014-01-16"
+url = "http://www.legacy.com/obituaries/belleville/obituary.aspx?n=Edwin-Patterson&pid=169121488"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-18"
+
+[person.name]
+last = "Patterson"
+use = "Edwin"
+given = "Edwin E."
+suffix = "Sr."
+
+[person.birth]
+date = "1924-10-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.death]
+date = "2014-01-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Glen Carbon"
+
+[person.burial]
+cemetery.name = "Sunset Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Glen Carbon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

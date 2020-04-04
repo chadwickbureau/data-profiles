@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_162"
+
+[[person.meta.citation]]
+title = "Lindquist Mortuary"
+date = "2017-08-14"
+url = "http://www.lindquistmortuary.com/notices/Daniel-Walton/services"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Walton"
+use = "Danny"
+given = "Daniel James"
+
+[person.birth]
+date = "1947-07-14"
+
+[person.death]
+date = "2017-08-09"
+place.country = "US"
+place.state = "UT"
+place.city = "Morgan"
+
+[person.burial]
+cemetery.name = "Huntsville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Huntsville"
+

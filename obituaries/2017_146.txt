@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2017_146"
+
+[[person.meta.citation]]
+title = "Harris J. Will Funeral Homes"
+date = "2017-08-21"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Charles-Scarlett&lc=6785&pid=186428311&mid=7529685"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Scarlett"
+use = "Charlie"
+given = "Charles"
+
+[person.birth]
+date = "1926-02-16"
+
+[person.death]
+date = "2017-08-18"
+

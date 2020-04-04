@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202004_092"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1966-02-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "O'Steen"
+use = "William"
+given = "William Thacker"
+
+[person.birth]
+place.country = "US"
+place.state = "SC"
+place.city = "Piedmont"
+
+[person.death]
+date = "1966-01-31"
+place.country = "US"
+place.state = "SC"
+place.city = "Greenville"
+
+[person.burial]
+cemetery.name = "Springwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Greenville"
+
+[[person.education]]
+school.name = "Davidson College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"
+
+

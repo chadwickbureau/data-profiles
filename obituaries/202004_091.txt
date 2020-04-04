@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_091"
+
+[[person.meta.citation]]
+title = "Schrader-Howell Funeral Home"
+date = "2018-05-31"
+url = "http://www.schrader-howell.com/obituaries/obituary-listings?obId=958055#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Magi"
+use = "Vince"
+given = "Vince"
+
+[person.birth]
+date = "1930-01-29"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2016-04-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Charter Township of Clinton"
+
+[[person.education]]
+school.name = "Cooley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Cooley"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

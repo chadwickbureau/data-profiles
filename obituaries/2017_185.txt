@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_185"
+
+[[person.meta.citation]]
+title = "Virginian Pilot"
+date = "2017-08-02"
+url = "http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=joe-bobby-cherry&pid=186259441&fhid=29067"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-02"
+
+[person.name]
+last = "Cherry"
+use = "Joe"
+given = "Joe Bobby"
+
+[person.birth]
+date = "1939-02-27"
+place.country = "US"
+place.state = "NC"
+
+[person.death]
+date = "2017-07-30"
+
+[person.burial]
+cemetery.name = "Theophilus Cherry Family Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Windsor"
+

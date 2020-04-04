@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202004_005"
+
+[[person.meta.citation]]
+title = "Reports of Deaths of American Citizens Abroad, 1835-1974"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "Snedecor"
+use = "Palmer"
+given = "Palmer"
+
+[person.birth]
+date = "1891-10-05"
+place.country = "US"
+place.state = "AL"
+place.city = "Avondale"
+
+[person.death]
+date = "1963-03-17"
+place.country = "MX"
+place.state = "Jalisco"
+place.city = "Guadalajara"
+
+[person.burial]
+cemetery.name = "Colonal Cemetery"
+cemetery.place.country = "MX"
+cemetery.place.state = "Jalisco"
+cemetery.place.city = "Zapopan"
+
+[person.sameas]
+ssn = "544-21-7071"
+

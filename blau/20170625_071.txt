@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20170625_071"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1929-08-24"
+pages = "8"
+
+[person.name]
+last = "Kraus"
+use = "Anthony"
+given = "Anthony"
+nick = "Dutch"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Alexandria"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+
+

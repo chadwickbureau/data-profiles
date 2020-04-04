@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_126"
+
+[[person.meta.citation]]
+title = "Lockart-Green Funeral"
+date = "2017-08-31"
+url = "http://www.lockartgreenfuneralhome.com/obituaries/Dean-H-Rothrock?obId=2513123#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-31"
+
+[person.name]
+last = "Rothrock"
+use = "Dean"
+given = "Dean H."
+
+[person.birth]
+date = "1925-02-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Stewardson"
+
+[person.death]
+date = "2017-08-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Shelbyville"
+
+[person.burial]
+cemetery.name = "Glenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Shelbyville"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

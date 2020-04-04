@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202004_073"
+
+[[person.meta.citation]]
+title = "Marble Memorial Mortuary"
+date = "2020-04-02"
+url = "https://www.mabriemortuary.com/obituaries/Jimmy-Wynn-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-02"
+
+[person.name]
+last = "Wynn"
+use = "Jimmy"
+given = "Jimmy"
+nick = "Toy Cannon"
+
+[person.death]
+date = "2020-03-26"
+
+[person.burial]
+cemetery.name = "Houston Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Pearland"
+

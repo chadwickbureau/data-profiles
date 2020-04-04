@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "2017_176"
+
+[[person.meta.citation]]
+title = "Leete-Stevens Funeral Home"
+date = "2017-08-09"
+url = "http://www.leetestevens.com/book-of-memories/3019340/OBrien-William/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-09"
+
+[person.name]
+last = "O'Brien"
+use = "Bill"
+given = "William J."
+suffix = "Jr."
+
+[person.birth]
+date = "1925-06-25"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2017-08-06"
+place.country = "US"
+place.state = "CT"
+place.city = "Suffield"
+
+[person.burial]
+cemetery.name = "St. Patrick King Street Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Enfield"
+
+[[person.education]]
+school.name = "Enfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Enfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

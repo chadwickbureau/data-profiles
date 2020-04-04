@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_151"
+
+[[person.meta.citation]]
+title = "Nelson Funeral Home"
+date = "2017-08-17"
+url = "http://www.nelsonfuneralhome.net/obits/obituary.php?id=649190"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-17"
+
+[person.name]
+last = "Frisina"
+use = "Joe"
+given = "Joseph M."
+
+[person.birth]
+date = "1927-10-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Tidioute"
+
+[person.death]
+date = "2017-08-14"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

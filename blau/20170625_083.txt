@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_083"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1936-06-22"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1935-11-28"
+pages = "19"
+
+[person.name]
+last = "Lindquist"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Fieldale"
+team.league.name = "Bi-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Lexington"
+team.league.name = "North Carolina State League"
+
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2017_117"
+
+[[person.meta.citation]]
+title = "Bakersfield Californian"
+date = "2017-09-06"
+url = "http://www.legacy.com/obituaries/bakersfield/obituary.aspx?n=bob-giblon&pid=186579241&fhid=6122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-06"
+
+[person.name]
+last = "Giblon"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+date = "1927-06-29"
+place.country = "US"
+place.state = "AR"
+place.city = "Springdale"
+
+[person.death]
+date = "2017-08-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Bakersfield"
+
+[person.burial]
+cemetery.name = "North Kern Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Delano"
+
+[[person.education]]
+school.name = "Delano HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Delano"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_079"
+
+[[person.meta.citation]]
+title = "Bennett & Houser Funeral Home"
+date = "2017-10-02"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=William-Williams&lc=1853&pid=186728173&mid=7570843"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Williams"
+use = "Billy"
+given = "William Joseph"
+
+[person.birth]
+date = "1970-08-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Clearfield"
+
+[person.death]
+date = "2017-09-05"
+
+[[person.education]]
+school.name = "West Branch HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Morrisdale"
+
+[[person.education]]
+school.name = "Oklahoma City University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Allegany College"
+school.type = "college"
+
+

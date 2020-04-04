@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "102589"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/102589"
+title = "The Sporting News Player Contract Cards, ScanID: 1022003143"
+
+[person.name]
+last = "Jahn"
+given = "Richard C."
+
+
+[[person.transaction]]
+date = "1946-03"
+type = "signed"
+join.name = "Fayetteville"
+note = "Fayetteville 1946-03"
+
+[[person.transaction]]
+date = "1946-05"
+type = "released"
+leave.name = "Fayetteville"
+note = "rel 1946-05"
+

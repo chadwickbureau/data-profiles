@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_001"
+
+[[person.meta.citation]]
+title = "Raleigh News and Observer"
+date = "1922-04-23"
+pages = "15"
+
+[person.name]
+last = "Johnson"
+use = "Peele"
+given = "Peele"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+

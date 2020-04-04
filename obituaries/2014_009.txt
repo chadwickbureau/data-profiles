@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2014_009"
+
+[[person.meta.citation]]
+title = "Terpening & Son Mortuary"
+date = "2014-02-02"
+url = "http://www.artesiafunerals.com/fh/obituaries/obituary.cfm?o_id=2395346&fh_id=12659"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-02"
+
+[person.name]
+last = "Economides"
+use = "Floyd"
+given = "Floyd"
+nick = "Greek"
+
+[person.birth]
+date = "1928-09-25"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[person.death]
+date = "2014-01-27"
+place.country = "US"
+place.state = "NM"
+place.city = "Artesia"
+
+[person.burial]
+cemetery.name = "Woodbine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Artesia"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

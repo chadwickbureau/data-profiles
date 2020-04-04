@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20170625_008"
+
+[[person.meta.citation]]
+title = "2017 National Pastime"
+
+[person.name]
+last = "Richards"
+use = "Jack"
+given = "Jack"
+
+[[person.education]]
+school.name = "Willamette University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1942"
+team.name = "Salem"
+team.league.name = "Western International League"
+
+

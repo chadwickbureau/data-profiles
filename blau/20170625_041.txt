@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_041"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1923-04-28"
+pages = "19"
+
+[person.name]
+last = "Kimball"
+use = "Sol"
+given = "Sol"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Lansing"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Rapids"
+team.league.name = "Michigan-Ontario League"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170625_090"
+
+[[person.meta.citation]]
+title = "Lebanon Evening Report"
+date = "1922-03-09"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1922-04-06"
+pages = "13"
+
+[person.name]
+last = "Daughton"
+use = "Curtis"
+given = "Curtis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Newark"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Buffalo"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

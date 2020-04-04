@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2014_003"
+
+[[person.meta.citation]]
+title = "Peaceful Alternatives Funeral and Cremation Center"
+date = "2014-01-28"
+url = "http://www.peacefulalternatives.com/fh/obituaries/obituary.cfm?o_id=2392577&fh_id=14153"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-28"
+
+[person.name]
+last = "Yingling"
+use = "Butch"
+given = "Vernon Lee"
+
+[person.birth]
+date = "1934-12-25"
+
+[person.death]
+date = "2014-01-26"
+
+[person.burial]
+cemetery.name = "Dulaney Valley Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Lutherville-Timonium"
+

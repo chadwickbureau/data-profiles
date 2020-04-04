@@ -1,0 +1,89 @@
+[[person]]
+
+[person.meta]
+key = "2017_053"
+
+[[person.meta.citation]]
+title = "Shirley & Stout Funeral Home"
+date = "2017-10-04"
+url = "http://www.shirleyandstout.com/obits/obituary.php?id=651847"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Boyer"
+use = "Milton"
+given = "Milton Wayne"
+
+[person.birth]
+date = "1929-07-13"
+place.country = "US"
+place.state = "MO"
+place.city = "Liberty"
+
+[person.death]
+date = "2017-09-30"
+place.country = "US"
+place.state = "IN"
+place.city = "Kokomo"
+
+[person.burial]
+cemetery.name = "Sunset Memory Garden"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Kokomo"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Ken"
+person.name.given = "Ken"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Clete"
+person.name.given = "Clete"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Cloyd"
+person.name.given = "Cloyd"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Lynn"
+person.name.given = "Lynn"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Len"
+person.name.given = "Len"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Boyer"
+person.name.use = "Ron"
+person.name.given = "Ron"
+
+
+[[person.education]]
+school.name = "Alba HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Alba"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

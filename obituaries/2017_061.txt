@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_061"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "2017-10-04"
+url = "http://www.legacy.com/obituaries/dailypress/obituary.aspx?n=frederick-spencer-crittenden&pid=186800510&fhid=19608"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Crittenden"
+use = "Fred"
+given = "Frederick Spencer"
+
+[person.death]
+date = "2017-09-27"
+place.country = "US"
+place.state = "VA"
+place.city = "Hardyville"
+
+[person.burial]
+cemetery.name = "Clarksbury United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Hardyville"
+
+[[person.education]]
+school.name = "Syringa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Syringa"
+
+[[person.education]]
+school.name = "Randolph Macon College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

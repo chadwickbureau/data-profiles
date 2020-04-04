@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_087"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2017-09-21"
+url = "http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=garry-alton-hill&pid=186715724&fhid=4561"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-21"
+
+[person.name]
+last = "Hill"
+use = "Garry"
+given = "Garry Alton"
+
+[person.birth]
+date = "1946-11-03"
+place.country = "US"
+place.state = "NC"
+place.city = "Rutherford County"
+
+[person.death]
+date = "2017-09-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"
+
+[[person.education]]
+school.name = "Garinger HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Charlotte"
+
+[[person.education]]
+school.name = "University of North Carolina at Chapel Hill"
+school.type = "college"
+
+

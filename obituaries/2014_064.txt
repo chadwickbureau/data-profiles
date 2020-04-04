@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2014_064"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2014-04-27"
+url = "http://www.tributes.com/obituary/show/Lawrence-Larry-R.-Paladino-101314984"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-27"
+
+[person.name]
+last = "Paladino"
+use = "Larry"
+given = "Lawrence R."
+
+[person.birth]
+date = "1929-08-15"
+place.country = "US"
+place.state = "AR"
+place.city = "Center Ridge"
+
+[person.death]
+date = "2014-04-24"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Center Ridge"
+
+[[person.education]]
+school.name = "Subiaco Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Subiaco"
+
+[[person.education]]
+school.name = "University of Central Arkansas"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Conway"
+
+

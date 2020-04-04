@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2014_033"
+
+[[person.meta.citation]]
+title = "Nassau Guardian"
+date = "2014-02-13"
+url = "http://www.legacy.com/obituaries/thenassauguardian/obituary.aspx?n=david-charles-mcklewhite-dave-billy&pid=169661443&fhid=15685&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-13"
+
+[person.name]
+last = "McKlewhite"
+use = "Dave"
+given = "David Charles"
+nick = "Billy"
+
+[person.death]
+date = "2014"
+
+[person.burial]
+cemetery.name = "Governor's Harbour Cemetery"
+cemetery.place.country = "BS"
+cemetery.place.city = "Eleuthera"
+

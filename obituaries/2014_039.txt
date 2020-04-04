@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2014_039"
+
+[[person.meta.citation]]
+title = "Ricker Funeral Home"
+date = "2014-02-16"
+url = "http://www.rickerfh.com/fh/obituaries/obituary.cfm?o_id=2414444&fh_id=11435"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-16"
+
+[person.name]
+last = "Bagonzi"
+use = "John"
+given = "John Albert"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-12-31"
+
+[person.death]
+date = "2014-02-13"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Bath"
+
+[[person.education]]
+school.name = "Woodsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Woodsville"
+
+[[person.education]]
+school.name = "University of New Hampshire"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

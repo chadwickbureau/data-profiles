@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "0018"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-02-18"
+url = "https://www.findagrave.com/memorial/75021970"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-18"
+
+[person.name]
+last = "Shipp"
+use = "Frank"
+given = "Frank Sterling"
+nick = "Skinny"
+
+[person.birth]
+date = "1884-07-23"
+place.country = "US"
+place.state = "TN"
+place.city = "Chattanooga"
+
+[person.death]
+date = "1934-12-10"
+place.country = "US"
+place.state = "TN"
+place.city = "Chattanooga"
+
+[person.burial]
+cemetery.name = "Forest Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Chattanooga"
+
+[person.sameas]
+findagrave = "75021970"
+

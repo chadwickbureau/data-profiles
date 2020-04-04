@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2014_077"
+
+[[person.meta.citation]]
+title = "Saginaw News"
+date = "2014-03-07"
+url = "http://obits.mlive.com/obituaries/saginaw/obituary.aspx?n=Ernest-Sirrine&pid=170045992"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-07"
+
+[person.name]
+last = "Sirrine"
+use = "Ernie"
+given = "Ernest"
+
+[person.birth]
+date = "1931-05-20"
+place.country = "US"
+place.state = "MI"
+place.city = "Midland"
+
+[person.death]
+date = "2014-03-05"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.burial]
+cemetery.name = "Homer Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Midland"
+
+[[person.education]]
+school.name = "Midland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Midland"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

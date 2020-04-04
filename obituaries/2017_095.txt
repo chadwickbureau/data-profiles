@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "2017_095"
+
+[[person.meta.citation]]
+title = "Virginian Pilot"
+date = "2017-09-14"
+url = "http://www.legacy.com/obituaries/pilotonline/obituary.aspx?n=jerald-a-gaines&pid=186653252&fhid=15640"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Gaines"
+use = "Jerald"
+given = "Jerald Anthony"
+
+[person.birth]
+place.country = "US"
+place.state = "VA"
+place.city = "Chesapeake"
+
+[person.death]
+date = "2017-09-05"
+
+[[person.education]]
+school.name = "Western Carolina University"
+school.type = "college"
+
+

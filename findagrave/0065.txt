@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "0065"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2017-08-15"
+url = "https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=180589926"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Stevenson"
+use = "Charles"
+given = "Charles E."
+
+[person.birth]
+date = "1939-04-11"
+place.country = "US"
+place.state = "LA"
+place.city = "Rayville"
+
+[person.death]
+date = "2017-06-21"
+place.country = "US"
+place.state = "GA"
+place.city = "Dawson"
+
+[person.burial]
+cemetery.name = "Crown Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Albany"
+
+[person.sameas]
+findagrave = "180589926"
+
+[[person.education]]
+school.name = "McNeese State University"
+school.type = "college"
+
+

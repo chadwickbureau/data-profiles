@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_010"
+
+[[person.meta.citation]]
+title = "Detroit News"
+date = "2017-10-26"
+url = "http://www.detroitnews.com/story/sports/2017/10/26/legendary-local-baseball-figure-robert-kloss-dies-69/107039174/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-26"
+
+[person.name]
+last = "Kloss"
+use = "Bob"
+given = "Robert"
+
+[person.death]
+date = "2017-10-23"
+
+[[person.education]]
+school.name = "St. Ladislaus HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Hamtramck"
+
+[[person.education]]
+school.name = "Wayne State University"
+school.type = "college"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "0012"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-07-20"
+url = "https://www.findagrave.com/memorial/142410623/buster-lynn-chronister"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Chronister"
+use = "Buster"
+given = "Buster Lynn"
+nick = "Buck"
+
+[person.birth]
+date = "1923-02-11"
+place.country = "US"
+place.state = "AR"
+place.city = "Dover"
+
+[person.death]
+date = "2015-02-09"
+place.country = "US"
+place.state = "OK"
+place.city = "El Reno"
+
+[person.burial]
+cemetery.name = "El Reno Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "El Reno"
+
+[person.sameas]
+findagrave = "142410623"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

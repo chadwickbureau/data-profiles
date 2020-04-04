@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_002"
+
+[[person.meta.citation]]
+title = "Usrey Funeral Home"
+date = "2017-10-28"
+url = "http://usreyfuneralhome.com/tribute/details/2303/Henry-Duke/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-28"
+
+[person.name]
+last = "Duke"
+use = "Pat"
+given = "Henry Patrick"
+
+[person.birth]
+date = "1936-05-14"
+
+[person.death]
+date = "2017-10-26"
+place.country = "US"
+place.state = "AL"
+place.city = "Fairhope"
+
+[person.burial]
+cemetery.name = "Unknown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Ashland"
+
+[[person.education]]
+school.name = "Bibb County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Centreville"
+
+[[person.education]]
+school.name = "Auburn University"
+school.type = "college"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_017"
+
+[[person.meta.citation]]
+title = "Shalkop Grace Strunk Funeral Home"
+date = "2014-02-08"
+url = "http://sgsfuneralhome.com/online-obituary/2014-02-david-h-charles/10078525"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Charles"
+use = "Buddy"
+given = "David H."
+suffix = "Jr."
+
+[person.birth]
+date = "1924-02-21"
+
+[person.death]
+date = "2014-02-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Royersford"
+
+[person.burial]
+cemetery.name = "Limerick Garden of Memories"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Limerick"
+
+[[person.education]]
+school.name = "University of Virginia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

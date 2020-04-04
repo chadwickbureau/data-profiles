@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200402_009"
+
+[[person.meta.citation]]
+title = "Scranton Tribune"
+date = "1915-06-04"
+pages = "16"
+
+[person.name]
+last = "Graham"
+use = "Alex"
+given = "Alex"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Utica"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Guelph"
+team.league.name = "Canadian League"
+
+

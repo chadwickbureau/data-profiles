@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_125"
+
+[[person.meta.citation]]
+title = "Herald Tribune"
+date = "2017-09-01"
+url = "http://www.legacy.com/obituaries/heraldtribune/obituary.aspx?n=andrew-torgeson&pid=186543462&fhid=8475"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Torgeson"
+use = "Andy"
+given = "Andrew Gray"
+
+[person.birth]
+date = "1949-04-09"
+
+[person.death]
+date = "2017-08-26"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Torgeson"
+person.name.use = "Earl"
+person.name.given = "Earl"
+
+
+[[person.education]]
+school.name = "Manatee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Bradenton"
+
+

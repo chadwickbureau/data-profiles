@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170625_128"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-06-06"
+pages = "8"
+
+[person.name]
+last = "Nelson"
+use = "Nelly"
+given = "Nelly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+

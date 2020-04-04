@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "0043"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-11-05"
+url = "https://www.findagrave.com/memorial/138539587"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-11-05"
+
+[person.name]
+last = "Adams"
+use = "Buck"
+given = "Marvin Roe"
+
+[person.birth]
+date = "1910-09-07"
+place.country = "US"
+place.state = "TN"
+place.city = "Harriman"
+
+[person.death]
+date = "2003-06-13"
+place.country = "US"
+place.state = "TN"
+place.city = "Chattanooga"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Chattanooga"
+
+[person.sameas]
+findagrave = "138539587"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

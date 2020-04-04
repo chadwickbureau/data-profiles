@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_115"
+
+[[person.meta.citation]]
+title = "Newton Daily News"
+date = "2017-09-07"
+url = "http://www.newtondailynews.com/2017/09/07/william-b-wright/a6hqjhu/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-08"
+
+[person.name]
+last = "Wright"
+use = "Bill"
+given = "William B."
+
+[person.birth]
+date = "1933-05-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.death]
+date = "2017-09-05"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Brayton"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Des Moines"
+
+[[person.education]]
+school.name = "University of Iowa"
+school.type = "college"
+
+

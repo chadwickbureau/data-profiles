@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170625_114"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Lucas"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "McCook"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Boston"
+team.league.name = "American League"
+
+

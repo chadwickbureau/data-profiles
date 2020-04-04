@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_122"
+
+[[person.meta.citation]]
+title = "Benson Funeral Home"
+date = "2017-09-05"
+url = "http://www.bensonfuneralhome.com/obituary_display.php?id=1717"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Vogel"
+use = "Richard"
+given = "Richard Otto"
+
+[person.birth]
+date = "1939-01-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2017-08-30"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Cloud"
+
+[person.burial]
+cemetery.name = "Assumption Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "St. Cloud"
+

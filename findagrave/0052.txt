@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0052"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-01-29"
+url = "https://www.findagrave.com/memorial/157869055"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-01-29"
+
+[person.name]
+last = "Manlove"
+use = "Abraham"
+given = "Abraham Lincoln"
+
+[person.birth]
+date = "1865-09-26"
+
+[person.death]
+date = "1949-02-28"
+
+[person.burial]
+cemetery.name = "Hillcrest Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Cumberland"
+
+[person.sameas]
+findagrave = "157869055"
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2017_071"
+
+[[person.meta.citation]]
+title = "ND.edu"
+date = "2017-10-02"
+url = "https://news.nd.edu/news/in-memoriam-james-v-gibbons-retired-assistant-vp-for-special-events-and-protocol/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-02"
+
+[person.name]
+last = "Gibbons"
+use = "Jim"
+given = "James V."
+
+[person.death]
+date = "2017-10-02"
+
+[[person.education]]
+school.name = "Mount Carmel HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "University of Notre Dame"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

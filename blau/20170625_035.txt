@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_035"
+
+[[person.meta.citation]]
+title = "Rock Island Argus"
+date = "1911-07-10"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Indianapolis News"
+date = "1911-08-15"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post"
+date = "1912-02-01"
+pages = "10"
+
+[person.name]
+last = "Jansen"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Keokuk"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Indianapolis"
+team.league.name = "American Association"
+
+

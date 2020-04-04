@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "20170625_097"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1911-04-22"
+pages = "2"
+
+[person.name]
+last = "Jamison"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.throws = "L"
+
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_019"
+
+[[person.meta.citation]]
+title = "Burnside Funeral Home"
+date = "2017-10-24"
+url = "http://www.burnsidefuneralhome.com/book-of-memories/3236497/Straley-Barnet/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-24"
+
+[person.name]
+last = "Straley"
+use = "Barney"
+given = "Barnet Jewel"
+
+[person.birth]
+date = "1931-02-05"
+place.country = "US"
+place.state = "WV"
+place.city = "Kincheloe"
+
+[person.death]
+date = "2017-10-20"
+place.country = "US"
+place.state = "WV"
+place.city = "Bridgeport"
+
+[person.burial]
+cemetery.name = "Floral Hills Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Mount Clare"
+
+[[person.education]]
+school.name = "Unidis HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "West Milford"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

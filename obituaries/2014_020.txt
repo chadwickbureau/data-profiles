@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2014_020"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News/San Mateo County Times"
+date = "2014-02-06"
+url = "http://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Will-Souza&pid=169511597"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Souza"
+use = "Will"
+given = "Will"
+
+[person.birth]
+date = "1935"
+
+[person.death]
+date = "2014-01-19"
+
+[[person.education]]
+school.name = "Castlemont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+[[person.education]]
+school.name = "Utah State University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Logan"
+
+

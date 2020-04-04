@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "0060"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-09"
+url = "https://www.findagrave.com/memorial/155721836/earl-hunsinger"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-09"
+
+[person.name]
+last = "Hunsinger"
+use = "Earl"
+given = "Earl"
+suffix = "Jr."
+
+[person.birth]
+date = "1934-04-05"
+place.country = "US"
+place.state = "MS"
+place.city = "Kosciusko"
+
+[person.death]
+date = "2015-11-30"
+place.country = "US"
+place.state = "AL"
+place.city = "Fayette County"
+
+[person.burial]
+cemetery.name = "Winfield City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Winfield"
+
+[person.sameas]
+findagrave = "155721836"
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_113"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1926-01-27"
+pages = "5"
+
+[person.name]
+last = "Lord"
+use = "Carlton"
+given = "Carlton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Spartanburg"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202004_077"
+
+[[person.meta.citation]]
+title = "Ozog Funeral Home"
+date = "2020-02-20"
+url = "https://www.fgozogfuneralhome.com/notices/John-Legath"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-20"
+
+[person.name]
+last = "Legath"
+use = "John"
+given = "John J."
+
+[person.birth]
+date = "1934-11-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[person.death]
+date = "2018-10-31"
+
+[person.burial]
+cemetery.name = "Grandview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Southmont"
+
+[[person.education]]
+school.name = "Greater Johnstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Johnstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "20170625_044"
+
+[[person.meta.citation]]
+title = "Longview News-Journal"
+date = "1934-07-10"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1935-05-06"
+pages = "9"
+
+[person.name]
+last = "Kinzer"
+use = "Larry"
+given = "Larry"
+
+[[person.education]]
+school.name = "Fork Union Military Academy"
+school.type = "secondary"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.league.name = "Bi-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Jacksonville"
+team.league.name = "West Dixie League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "89305"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/89305"
+title = "The Sporting News Player Contract Cards, ScanID: 1037005025"
+
+[person.name]
+last = "Ridge"
+given = "Dennis Tommy Dale"
+
+
+[[person.transaction]]
+date = "1954-08-17"
+type = "signed"
+join.name = "Ardmore"
+note = "Ardmore 1954-08-17"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Ardmore"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-12"
+type = "released"
+leave.name = "Ardmore"
+join.name = "Paducah"
+note = "rel to Paducah 1955-04-12"
+
+[[person.transaction]]
+date = "1955-04-19"
+type = "released"
+leave.name = "Paducah"
+note = "rel 1955-04-19"
+

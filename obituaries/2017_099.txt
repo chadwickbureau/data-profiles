@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "2017_099"
+
+[[person.meta.citation]]
+title = "Curlew Hills Funeral Home"
+date = "2017-09-18"
+url = "http://www.curlewhills.com/book-of-memories/3143552/Michael--Gene-Stick/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Michael"
+use = "Gene"
+given = "Eugene Richard"
+nick = "Stick"
+
+[person.birth]
+date = "1938-06-02"
+
+[person.death]
+date = "2017-09-07"
+place.country = "US"
+place.state = "FL"
+place.city = "Oldsmar"
+
+[person.burial]
+cemetery.name = "Curlew Hills Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Palm Harbor"
+

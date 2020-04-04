@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_039"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "1924-07-09"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "1925-09-11"
+pages = "24"
+
+[person.name]
+last = "Kessl"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+

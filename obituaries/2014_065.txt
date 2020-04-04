@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2014_065"
+
+[[person.meta.citation]]
+title = "Parson Sun"
+date = "2014-04-23"
+url = "http://www.parsonssun.com/obituaries/article_4a25772c-cb14-11e3-9e24-001a4bcf6878.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-04-27"
+
+[person.name]
+last = "Wilson"
+use = "Bill"
+given = "Billie C."
+
+[person.birth]
+date = "1933-10-25"
+place.country = "US"
+place.state = "OK"
+place.city = "Miami"
+
+[person.death]
+date = "2014-04-04"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

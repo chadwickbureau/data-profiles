@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2014_043"
+
+[[person.meta.citation]]
+title = "Syracuse Post Standard"
+date = "2014-02-18"
+url = "http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?n=Harry-Bailey&pid=169739982"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-18"
+
+[person.name]
+last = "Bailey"
+use = "Harry"
+given = "Harry Ray"
+suffix = "Sr."
+
+[person.birth]
+place.country = "US"
+place.state = "MI"
+place.city = "McBride"
+
+[person.death]
+date = "2014-02-15"
+
+[[person.education]]
+school.name = "Western Michigan University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

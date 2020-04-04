@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20170625_018"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1927-08-09"
+pages = "6"
+
+[person.name]
+last = "Joseph"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1927"
+place.country = "US"
+place.state = "PA"
+place.city = "Mahanoy City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2014_058"
+
+[[person.meta.citation]]
+title = "The Journal News"
+date = "2014-02-25"
+url = "http://www.legacy.com/obituaries/lohud/obituary.aspx?n=Patrick-Kennell&pid=169846974"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-25"
+
+[person.name]
+last = "Kennell"
+use = "Pat"
+given = "Patrick E."
+
+[person.birth]
+date = "1928-02-05"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2014-02-22"
+
+[person.burial]
+cemetery.name = "St. Anthony's Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Nanuet"
+

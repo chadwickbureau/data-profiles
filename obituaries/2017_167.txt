@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_167"
+
+[[person.meta.citation]]
+title = "Clark Family Funeral Home"
+date = "2017-08-14"
+url = "http://www.clarkfuneralchapel.com/book-of-memories/3049814/Gross-Donald/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Gross"
+use = "Don"
+given = "Donald John"
+
+[person.birth]
+date = "1931-06-30"
+
+[person.death]
+date = "2017-08-10"
+
+[[person.education]]
+school.name = "Weidman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Weidman"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

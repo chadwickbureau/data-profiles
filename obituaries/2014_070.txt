@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "2014_070"
+
+[[person.meta.citation]]
+title = "Japanese Baseball Cards blog"
+date = "2014-02-08"
+url = "http://japanesebaseballcards.blogspot.com/2014/02/rip-toru-mori.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-03"
+
+[person.name]
+last = "Mori"
+use = "Toru"
+given = "Toru"
+
+[person.death]
+date = "2014-02-06"
+

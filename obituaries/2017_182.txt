@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_182"
+
+[[person.meta.citation]]
+title = "Thomas Poteet & Son Funeral Home"
+date = "2017-08-06"
+url = "http://www.thomaspoteet.com/obituaries/Jack-Poppell/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-06"
+
+[person.name]
+last = "Poppell"
+use = "Jack"
+given = "Jack C."
+suffix = "Sr."
+
+[person.birth]
+date = "1933-10-07"
+
+[person.death]
+date = "2017-08-04"
+
+[person.burial]
+cemetery.name = "Westover Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Augusta"
+
+[[person.education]]
+school.name = "Academy of Richmond County"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Augusta"
+
+[[person.education]]
+school.name = "Indiana University"
+school.type = "college"
+
+

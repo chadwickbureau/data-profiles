@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_040"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1922-10-07"
+pages = "8"
+
+[person.name]
+last = "Kahdot"
+use = "Ike"
+given = "Ike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+

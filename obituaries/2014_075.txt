@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2014_075"
+
+[[person.meta.citation]]
+title = "W. J. Lyons Jr. Funeral Home"
+date = "2014-03-07"
+url = "http://wjlyonsfuneralhome.com/book-of-memories/1818132/Stark-James/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-07"
+
+[person.name]
+last = "Stark"
+use = "Jim"
+given = "James W."
+
+[person.birth]
+date = "1934-03-31"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[person.death]
+date = "2014-03-04"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[person.burial]
+cemetery.name = "Bloomingrove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Defreestville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

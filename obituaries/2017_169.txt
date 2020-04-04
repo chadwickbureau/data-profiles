@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_169"
+
+[[person.meta.citation]]
+title = "Woodward Funeral Home"
+date = "2017-08-13"
+url = "http://www.woodwardfuneral.com/obituary?id=308835"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Dost"
+use = "Dicky"
+given = "Richard Edward"
+
+[person.birth]
+date = "1947-09-13"
+
+[person.death]
+date = "2017-08-05"
+place.country = "US"
+place.state = "VA"
+place.city = "Louisa"
+
+[[person.education]]
+school.name = "James Madison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Vienna"
+
+

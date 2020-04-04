@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_022"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "1923-07-21"
+pages = "15"
+
+[person.name]
+last = "Messenger"
+use = "Bud"
+given = "Bud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Muskegon"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Saginaw"
+team.league.name = "Michigan-Ontario League"
+
+

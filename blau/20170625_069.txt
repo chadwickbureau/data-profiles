@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170625_069"
+
+[[person.meta.citation]]
+title = "Ogden Standard-Examiner"
+date = "1926-07-02"
+pages = "13"
+
+[person.name]
+last = "Randazzo"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Ogden"
+team.league.name = "Utah-Idaho League"
+
+

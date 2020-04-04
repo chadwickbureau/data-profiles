@@ -1,0 +1,163 @@
+[[person]]
+
+[person.meta]
+key = "20170625_005"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1922-11-20"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Journal"
+date = "1922-06-09"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-04-22"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1923-05-10"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-06-10"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1924-12-24"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1926-02-14"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Shreveport TImes"
+date = "1926-08-05"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1926-08-20"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1928-05-19"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+
+[[person.meta.contributor]]
+name.last = "Barker"
+name.use = "Davis"
+
+[person.name]
+last = "Jones"
+use = "John"
+given = "John Pratt"
+nick = "Alabama"
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "TX"
+place.city = "Waskom"
+
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Hutchinson"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.bats = "L"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.league.name = "Shreveport City League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+description.height = "71"
+description.weight = "170"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1936"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1937"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "127605"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/127605"
+title = "The Sporting News Player Contract Cards, ScanID: 1044004413"
+
+[person.name]
+last = "Thomas"
+given = "Robert Earl"
+
+
+[[person.transaction]]
+date = "1948-03-01"
+type = "signed"
+join.name = "Newark (OH)"
+note = "Newark (OH) 1948-03-01"
+
+[[person.transaction]]
+date = "1948-05-10"
+type = "released"
+leave.name = "Newark (OH)"
+note = "rel 1948-05-10"
+
+[[person.transaction]]
+date = "1948-05-31"
+type = "signed"
+join.name = "Richmond (IN)"
+note = "Richmond (IN) 1948-05-31"
+
+[[person.transaction]]
+date = "1948-06-03"
+type = "released"
+leave.name = "Richmond (IN)"
+note = "rel 1948-06-03"
+

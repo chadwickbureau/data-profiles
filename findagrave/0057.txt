@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0057"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-11"
+url = "https://www.findagrave.com/memorial/100806089"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-11"
+
+[person.name]
+last = "Burch"
+use = "John"
+given = "John Feagin"
+
+[person.birth]
+date = "1890-08-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Chester"
+
+[person.death]
+date = "1960-03-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "Glenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[person.sameas]
+findagrave = "100806089"
+

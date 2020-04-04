@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_110"
+
+[[person.meta.citation]]
+title = "Hafemeister Funeral Home"
+date = "2017-09-11"
+url = "http://www.hafemeisterfh.com/Section/Obituaries/09-11-2017-James_E-2E-_Hoppe.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-11"
+
+[person.name]
+last = "Hoppe"
+use = "Jim"
+given = "James Edward"
+
+[person.birth]
+date = "1946-03-17"
+place.country = "US"
+place.state = "WI"
+place.city = "Watertown"
+
+[person.death]
+date = "2017-09-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Watertown"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Watertown"
+
+[[person.education]]
+school.name = "Watertown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Watertown"
+
+[[person.education]]
+school.name = "University of Wisconsin-Milwaukee"
+school.type = "college"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_067"
+
+[[person.meta.citation]]
+title = "State Journal-Register"
+date = "2017-10-04"
+url = "http://www.legacy.com/obituaries/sj-r/obituary.aspx?n=richard-dean-hinckle&pid=186840752&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Hinckle"
+use = "Dick"
+given = "Richard Dean"
+
+[person.birth]
+date = "1943-01-20"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2017-09-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Murrieta"
+

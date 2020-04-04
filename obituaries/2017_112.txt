@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_112"
+
+[[person.meta.citation]]
+title = "Pensacola News Journal"
+date = "2017-09-10"
+url = "http://www.legacy.com/obituaries/pensacolanewsjournal/obituary.aspx?n=adam-twarkins&pid=186605457&fhid=6147"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-08"
+
+[person.name]
+last = "Twarkins"
+use = "Adam"
+given = "Adam Frederick"
+
+[person.birth]
+date = "1924"
+
+[person.death]
+date = "2017-09-06"
+
+[person.burial]
+cemetery.name = "Barrancas National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Pensacola"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

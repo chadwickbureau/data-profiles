@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "0006"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-12-11"
+url = "https://www.findagrave.com/memorial/7212243/willis-ira-chamness"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Chamness"
+use = "Willis"
+given = "Willis Ira"
+
+[person.birth]
+date = "1923-05-07"
+
+[person.death]
+date = "1959-09-16"
+
+[person.burial]
+cemetery.name = "Harmony Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Henderson"
+
+[person.sameas]
+findagrave = "7212243"
+

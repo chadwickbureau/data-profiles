@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "2017_142"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "2017-08-17"
+url = "http://www.legacy.com/obituaries/app/obituary.aspx?n=william-paul-burke&pid=186400283&fhid=18564"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Burke"
+use = "Bill"
+given = "William Paul"
+
+[person.birth]
+date = "1929"
+
+[person.death]
+date = "2018"
+place.country = "US"
+place.state = "NJ"
+place.city = "Long Branch"
+
+[[person.education]]
+school.name = "Columbia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Maplewood"
+
+[[person.education]]
+school.name = "Carteret Prep School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "West Orange"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

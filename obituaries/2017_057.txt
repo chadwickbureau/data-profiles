@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_057"
+
+[[person.meta.citation]]
+title = "Flanigan Funeral Home"
+date = "2017-10-04"
+url = "http://www.flaniganfuneralhome.com/obituary.aspx?ObitID=3491"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Ramsey"
+use = "Bob"
+given = "Bob C."
+
+[person.birth]
+date = "1927-07-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[person.death]
+date = "2017-09-27"
+
+[[person.education]]
+school.name = "Addison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Addison"
+
+

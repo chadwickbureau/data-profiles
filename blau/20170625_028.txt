@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_028"
+
+[[person.meta.citation]]
+title = "Jackson (TN) Sun"
+date = "1936-07-15"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Jackson Sun"
+date = "1936-07-10"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Jackson (TN) Sun"
+date = "1939-05-12"
+pages = "8"
+
+[person.name]
+last = "Kell"
+use = "Jim"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Mayfield"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "Jackson"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

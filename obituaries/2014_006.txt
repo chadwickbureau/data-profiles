@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2014_006"
+
+[[person.meta.citation]]
+title = "The Record/Herald News"
+date = "2014-02-02"
+url = "http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=James-Vanderbeek&pid=169478463"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-02"
+
+[person.name]
+last = "Vanderbeek"
+use = "Jim"
+given = "James J."
+
+[person.birth]
+date = "1934-03-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Teaneck"
+
+[person.death]
+date = "2014-01-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Wantage"
+
+[person.burial]
+cemetery.name = "George Washington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Paramus"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

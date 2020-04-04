@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "0013"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2018-06-18"
+url = "https://www.findagrave.com/memorial/21312806"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Sowa"
+use = "Stanley"
+given = "Stanley"
+
+[person.birth]
+date = "1916-11-09"
+
+[person.death]
+date = "1990-03-18"
+
+[person.burial]
+cemetery.name = "Our Lady of Mount Carmel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Big Oak Flat"
+
+[person.sameas]
+findagrave = "21312806"
+

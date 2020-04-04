@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "2017_011"
+
+[[person.meta.citation]]
+title = "Molnar Funeral Home"
+date = "2017-10-26"
+url = "http://molnarfuneralhome.com/tribute/details/2019/Robert-Kloss/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-26"
+
+[person.name]
+last = "Kloss"
+use = "Bob"
+given = "Robert A."
+
+[person.birth]
+date = "1948-04-22"
+
+[person.death]
+date = "2017-10-23"
+
+[[person.education]]
+school.name = "Wayne State University"
+school.type = "college"
+
+

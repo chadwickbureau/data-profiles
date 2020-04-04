@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170625_072"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat-Gazette"
+
+[person.name]
+last = "Barney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

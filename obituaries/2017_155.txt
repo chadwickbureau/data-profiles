@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2017_155"
+
+[[person.meta.citation]]
+title = "Brenny Funeral Chapel"
+date = "2017-08-15"
+url = "http://www.brenny.com/obituary/richard-dick-spelbrink"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-15"
+
+[person.name]
+last = "Spelbrink"
+use = "Dick"
+given = "Richard Lee"
+
+[person.birth]
+date = "1921-08-25"
+place.country = "US"
+place.state = "MN"
+place.city = "New Ulm"
+
+[person.death]
+date = "2017-06-03"
+place.country = "US"
+place.state = "MN"
+place.city = "Burnsville"
+
+[person.burial]
+cemetery.name = "Pinewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Crosslake"
+

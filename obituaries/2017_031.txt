@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2017_031"
+
+[[person.meta.citation]]
+title = "Highland Funeral Service"
+date = "2017-10-15"
+url = "http://www.highlandfuneralservice.com/memsol.cgi?user_id=2024893"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-15"
+
+[person.name]
+last = "Poole"
+use = "Sonny"
+given = "Paul William"
+
+[person.birth]
+date = "1935-03-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Nottingham"
+
+[person.death]
+date = "2017-10-13"
+
+[person.burial]
+cemetery.name = "Rosewood Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Rural Retreat"
+
+[[person.education]]
+school.name = "Oxford Area HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Oxford"
+
+[[person.education]]
+school.name = "West Chester University of Pennsylvania"
+school.type = "college"
+
+

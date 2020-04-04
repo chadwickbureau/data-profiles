@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20170625_099"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1912-05-05"
+pages = "9"
+
+[person.name]
+last = "Calahan"
+given = "J. J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+
+

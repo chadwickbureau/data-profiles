@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202004_009"
+
+[[person.meta.citation]]
+title = "Indiana Death Certificates"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-04-28"
+
+[person.name]
+last = "Cantley"
+use = "John"
+given = "John L."
+
+[person.birth]
+date = "1891-11-02"
+place.country = "US"
+place.state = "AL"
+
+[person.death]
+date = "1915-09-05"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.burial]
+cemetery.name = "Unknown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Ensley"
+

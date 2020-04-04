@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "0029"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-10-07"
+url = "https://www.findagrave.com/memorial/6301448/james-f_-betts"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-07"
+
+[person.name]
+last = "Betts"
+use = "James"
+given = "James F."
+
+[person.birth]
+date = "1932-04-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2002-03-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Richmond"
+
+[person.burial]
+cemetery.name = "Mount Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Richmond"
+
+[person.sameas]
+findagrave = "6301448"
+

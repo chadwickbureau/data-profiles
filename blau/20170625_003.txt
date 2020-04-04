@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_003"
+
+[[person.meta.citation]]
+title = "Ottumwa Tri-Weekly Courier"
+date = "1911-05-11"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1911-01-26"
+pages = "4"
+
+[person.name]
+last = "Johnston"
+use = "Fred"
+given = "Fred"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "IL"
+place.city = "Clinton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Ottumwa"
+team.league.name = "Central Association"
+
+

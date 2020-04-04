@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "2017_060"
+
+[[person.meta.citation]]
+title = "Bellingham Herald"
+date = "2017-09-29"
+url = "http://www.legacy.com/obituaries/bellinghamherald/obituary.aspx?n=carl-otis-rounds&pid=186801750"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-04"
+
+[person.name]
+last = "Rounds"
+use = "Carl"
+given = "Carl Otis"
+
+[person.birth]
+date = "1931-12-31"
+place.country = "US"
+place.state = "WA"
+place.city = "Winthrop"
+
+[person.death]
+date = "2017-09-22"
+
+[[person.alias]]
+name.last = "Owen"
+name.use = "Ottis"
+name.given = "Ottis Caryle"
+type = "birth"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

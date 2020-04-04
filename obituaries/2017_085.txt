@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "2017_085"
+
+[[person.meta.citation]]
+title = "Hattiesburg American"
+date = "2017-09-22"
+url = "http://www.legacy.com/obituaries/hattiesburgamerican/obituary.aspx?n=charles-michael-harrington-micky&pid=186725718&fhid=17526"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-22"
+
+[person.name]
+last = "Harrington"
+use = "Micky"
+given = "Charles Michael"
+
+[person.death]
+date = "2017-09-20"
+place.country = "US"
+place.state = "MS"
+place.city = "Hattiesburg"
+
+[[person.education]]
+school.name = "University of Southern Mississippi"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

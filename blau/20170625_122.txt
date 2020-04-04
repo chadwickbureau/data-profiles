@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "20170625_122"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1924-06-14"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1923-09-03"
+pages = "1"
+
+[person.name]
+last = "Maitland"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+

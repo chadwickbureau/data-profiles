@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "202004_004"
+
+[[person.meta.citation]]
+title = "World War II Registration Card"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-31"
+
+[person.name]
+last = "O'Dell"
+use = "Alfred"
+given = "Alfred Thomas"
+
+[person.birth]
+date = "1883-01-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Mansfield"
+

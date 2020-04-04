@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2014_074"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2014-03-09"
+url = "http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=Ervin-Austin&pid=170019813"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-07"
+
+[person.name]
+last = "Austin"
+use = "Ervin"
+given = "Ervin Lewis"
+
+[person.birth]
+date = "1917"
+
+[person.death]
+date = "2014-02-27"
+
+[person.burial]
+cemetery.name = "Alta Mesa Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Palo Alto"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20170625_108"
+
+[[person.meta.citation]]
+title = "El Paso Post"
+date = "1928-03-01"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-02-03"
+pages = "7"
+
+[person.name]
+last = "Anderson"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+

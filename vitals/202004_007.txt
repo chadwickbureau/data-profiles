@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "202004_007"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-19"
+
+[person.name]
+last = "Hill"
+use = "David"
+given = "David William"
+
+[person.birth]
+date = "1929-04-29"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1995-07-17"
+
+[person.sameas]
+ssn = "492-24-4088"
+

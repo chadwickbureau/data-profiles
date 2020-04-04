@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_088"
+
+[[person.meta.citation]]
+title = "Bjork & Zhulkie Funeral Home"
+date = "2018-07-17"
+url = "http://www.bjorkandzhulkie.com/obituary/616441"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-17"
+
+[person.name]
+last = "Millimaki"
+use = "Roy"
+given = "Roy J."
+
+[person.birth]
+date = "1918-03-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Ishpeming"
+
+[person.death]
+date = "2010-05-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Ishpeming"
+
+[person.burial]
+cemetery.name = "Ishpeming Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Ishpeming"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

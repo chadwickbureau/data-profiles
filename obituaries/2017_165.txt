@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "2017_165"
+
+[[person.meta.citation]]
+title = "Guilford Funeral Home"
+date = "2017-08-14"
+url = "http://www.guilfordfuneralhome.com/obituaries/Mr-Peter-C-Oboyski?obId=2482084#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-14"
+
+[person.name]
+last = "Oboyski"
+use = "Peter"
+given = "Peter C."
+
+[person.birth]
+date = "1934-12-22"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+[person.death]
+date = "2017-08-11"
+
+[[person.education]]
+school.name = "Guilford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Guilford"
+
+

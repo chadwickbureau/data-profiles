@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "20170625_115"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1908-08-29"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1908-09-26"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1914-09-27"
+pages = "22"
+
+[person.name]
+last = "Demaree"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Newark"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Lawrence"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New York"
+team.league.name = "National League"
+
+

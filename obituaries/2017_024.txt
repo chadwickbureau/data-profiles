@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2017_024"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2017-10-21"
+url = "http://www.legacy.com/obituaries/latimes/obituary.aspx?n=gary-dee-johnson&pid=187012223&fhid=11376"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-21"
+
+[person.name]
+last = "Johnson"
+use = "Gary"
+given = "Gary Dee"
+
+[person.birth]
+date = "1939-06-09"
+place.country = "US"
+place.state = "OK"
+place.city = "Picher"
+
+[person.death]
+date = "2017-10-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Newport Beach"
+
+[[person.education]]
+school.name = "Westchester HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+

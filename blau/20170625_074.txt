@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20170625_074"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1936-06-15"
+pages = "2"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1936-07-10"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1935-05-30"
+pages = "7"
+
+[person.name]
+last = "LaPosha"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1936"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Abbeville"
+team.league.name = "Evangeline League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Portageville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

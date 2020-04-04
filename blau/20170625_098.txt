@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20170625_098"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1911-05-01"
+pages = "3"
+
+[person.name]
+last = "Hayes"
+use = "Jimmie"
+given = "Jimmie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+
+

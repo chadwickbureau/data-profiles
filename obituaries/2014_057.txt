@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "2014_057"
+
+[[person.meta.citation]]
+title = "Rotativo.com"
+date = "2013-12-16"
+url = "http://www.rotativo.com.mx/deportes/baseball/211620-lamentan-los-tigres-de-qroo-el-fallecimiento-de-arnoldo-kiko-castro/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-23"
+
+[person.name]
+last = "Castro"
+use = "Arnoldo"
+given = "Arnoldo"
+nick = "Kiko"
+
+[person.birth]
+date = "1939-01-08"
+
+[person.death]
+date = "2013-12-16"
+place.country = "MX"
+place.state = "Sinaloa"
+place.city = "Guasave"
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_030"
+
+[[person.meta.citation]]
+title = "Rich & Thompson Funeral Home"
+date = "2017-10-16"
+url = "http://www.richandthompson.com/tributes/Clarence-Swinney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-16"
+
+[person.name]
+last = "Swinney"
+use = "Clarence"
+given = "Clarence W."
+
+[person.birth]
+date = "1924-10-19"
+
+[person.death]
+date = "2017-10-13"
+
+[person.burial]
+cemetery.name = "Alamance Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Burlington"
+
+[[person.education]]
+school.name = "Elon University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

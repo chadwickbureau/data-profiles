@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_080"
+
+[[person.meta.citation]]
+title = "Henderson-Van Atta Stickle Funeral Home"
+date = "2020-02-20"
+url = "https://www.hendersonvanatta.com/index.php/obituaries/3056-robert-e-lefty-thomas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-02-20"
+
+[person.name]
+last = "Thomas"
+use = "Robert"
+given = "Robert E."
+nick = "Lefty"
+
+[person.birth]
+date = "1927-06-17"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.death]
+date = "2018-11-02"
+
+[[person.education]]
+school.name = "Newark HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Newark"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

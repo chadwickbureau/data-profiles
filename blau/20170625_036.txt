@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20170625_036"
+
+[[person.meta.citation]]
+title = "Rock Island Argus"
+date = "1911-07-10"
+pages = "3"
+
+[person.name]
+last = "Kinzer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Paragould"
+team.league.name = "Northeast Arkansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Keokuk"
+team.league.name = "Central Association"
+
+

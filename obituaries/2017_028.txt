@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2017_028"
+
+[[person.meta.citation]]
+title = "Collier Funeral Home"
+date = "2017-10-16"
+url = "http://www.collierfuneralhome.com/obituaries/Benny-Mitchell/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-16"
+
+[person.name]
+last = "Mitchell"
+use = "Benny"
+given = "Benny F."
+
+[person.birth]
+date = "1934-12-30"
+place.country = "US"
+place.state = "KY"
+place.city = "Paducah"
+
+[person.death]
+date = "2017-10-09"
+place.country = "US"
+place.state = "KY"
+place.city = "Benton"
+
+[person.burial]
+cemetery.name = "Hamlet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Benton"
+
+[[person.education]]
+school.name = "Paducah Tilghman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Paducah"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

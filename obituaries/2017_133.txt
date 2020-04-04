@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_133"
+
+[[person.meta.citation]]
+title = "Pellerin Funeral Home"
+date = "2017-08-28"
+url = "http://www.pellerinfuneralhome.com/sitemaker/memsol.cgi?user_id=2001291"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-28"
+
+[person.name]
+last = "Paschal"
+use = "Alfred"
+given = "Alfred Frederick"
+
+[person.birth]
+date = "1934-10-30"
+
+[person.death]
+date = "2017-08-18"
+place.country = "US"
+place.state = "LA"
+place.city = "Breaux Bridge"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"
+
+

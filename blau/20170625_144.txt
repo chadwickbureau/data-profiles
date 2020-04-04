@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_144"
+
+[[person.meta.citation]]
+title = "Cedar Rapids Republican and Times"
+date = "1922-03-31"
+pages = "8"
+
+[person.name]
+last = "Luwe"
+given = "W. R."
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "IA"
+place.city = "Newhall"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Cedar Rapids"
+team.league.name = "Mississippi Valley League"
+
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2017_045"
+
+[[person.meta.citation]]
+title = "Welch & Cornett Funeral Home"
+date = "2017-10-09"
+url = "https://www.welchcornett.com/notices/James-Prudhomme"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-09"
+
+[person.name]
+last = "Prudhomme"
+use = "Jim"
+given = "James"
+
+[person.birth]
+date = "1934-05-23"
+place.country = "US"
+place.state = "IN"
+place.city = "Linton"
+
+[person.death]
+date = "2017-10-02"
+place.country = "US"
+place.state = "IN"
+place.city = "Linton"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Linton"
+
+[[person.education]]
+school.name = "Linton-Stockton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Linton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

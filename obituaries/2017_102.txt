@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "2017_102"
+
+[[person.meta.citation]]
+title = "Schrader Funeral Home"
+date = "2017-09-18"
+url = "http://www.schrader.com/obitlink?obit_id=2008561"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Guyton"
+use = "Ralph"
+given = "Ralph D."
+
+[person.birth]
+date = "1928-01-11"
+
+[person.death]
+date = "2017-09-15"
+
+[[person.education]]
+school.name = "Bridgewater College"
+school.type = "college"
+
+

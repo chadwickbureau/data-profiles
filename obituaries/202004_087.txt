@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_087"
+
+[[person.meta.citation]]
+title = "Farmer & Son Funeral Home"
+date = "2018-07-20"
+url = "http://www.farmerandsonfuneralhome.com/obituaries/James-Hubble/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-07-20"
+
+[person.name]
+last = "Hubble"
+use = "Jim"
+given = "James W."
+
+[person.birth]
+date = "1932-07-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Pomona"
+
+[person.death]
+date = "2016-09-18"
+
+[[person.education]]
+school.name = "Wappingers Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Wappingers Falls"
+
+[[person.education]]
+school.name = "Cornell University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

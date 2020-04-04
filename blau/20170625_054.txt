@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_054"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-03-30"
+pages = "7"
+
+[person.name]
+last = "Mitchell"
+use = "Jay"
+given = "Jay B."
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "AR"
+place.city = "Marked Tree"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.bats = "L"
+description.throws = "R"
+description.height = "66"
+description.weight = "160"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Independence"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2014_050"
+
+[[person.meta.citation]]
+title = "The Reporter"
+date = "2014-02-15"
+url = "http://www.legacy.com/obituaries/thereporter/obituary.aspx?n=Matthew-North&pid=169678150"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-15"
+
+[person.name]
+last = "North"
+use = "Matt"
+given = "Matthew Alan"
+
+[person.birth]
+date = "1988-05-23"
+place.country = "US"
+place.state = "FL"
+place.city = "St. Petersburg"
+
+[person.death]
+date = "2014-02-11"
+
+[person.burial]
+cemetery.name = "Vacaville-Elmira Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Vacaville"
+
+[[person.education]]
+school.name = "Deer Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Antioch"
+
+

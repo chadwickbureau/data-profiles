@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "2017_082"
+
+[[person.meta.citation]]
+title = "Jones, Rich & Barnes Funeral Home"
+date = "2017-09-22"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Norman-Phillips&lc=1633&pid=186726177&mid=7570270"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-22"
+
+[person.name]
+last = "Phillips"
+use = "Norman"
+given = "Norman Edwin"
+suffix = "II"
+
+[person.birth]
+date = "1944-09-20"
+
+[person.death]
+date = "2017-09-20"
+

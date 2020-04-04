@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202004_099"
+
+[[person.meta.citation]]
+title = "Chicago Sun-Times"
+date = "2018-07-01"
+url = "https://legacy.suntimes.com/obituaries/chicagosuntimes/obituary.aspx?n=james-noonan&pid=189435302&fhid=16267"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "Noonan"
+use = "James"
+given = "James D."
+
+[person.death]
+date = "2018-06-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Lakemoor"
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2017_106"
+
+[[person.meta.citation]]
+title = "Gearty-Delmore Funeral Home"
+date = "2017-09-13"
+url = "http://www.gearty-delmore.com/sitemaker/sites/GEARTY1/obit.cgi?user=63022321_JFischer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-13"
+
+[person.name]
+last = "Fischer"
+use = "Jack"
+given = "John N."
+
+[person.birth]
+date = "1937-02-06"
+place.country = "US"
+place.state = "MN"
+place.city = "Avon"
+
+[person.death]
+date = "2017-09-09"
+
+[person.burial]
+cemetery.name = "Fort Snelling National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

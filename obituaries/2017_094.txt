@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2017_094"
+
+[[person.meta.citation]]
+title = "J. T. Fisher Funeral Home"
+date = "2017-09-18"
+url = "http://www.jtfisherfuneralservices.com/obituaries/Jerald-Gaines/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Gaines"
+use = "Jerald"
+given = "Jerald Anthony"
+
+[person.birth]
+date = "1952-02-10"
+
+[person.death]
+date = "2017-09-05"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Chespeake"
+

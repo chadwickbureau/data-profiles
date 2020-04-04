@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "2014_026"
+
+[[person.meta.citation]]
+title = "Tahlequah Daily Press"
+date = "2014-02-07"
+url = "http://www.tahlequahdailypress.com/obituaries/x1677578283/Joseph-Thomas-Fishinghawk"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Fishinghawk"
+use = "Joe"
+given = "Joseph Thomas"
+
+[person.birth]
+date = "1933-07-30"
+place.country = "US"
+place.state = "OK"
+place.city = "Adair County"
+
+[person.death]
+date = "2014-02-01"
+place.country = "US"
+place.state = "OK"
+place.city = "Tahlequah"
+
+[person.burial]
+cemetery.name = "Fort Gibson National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Fort Gibson"
+
+[[person.education]]
+school.name = "Enid HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Enid"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"
+
+

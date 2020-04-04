@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "20170625_067"
+
+[[person.meta.citation]]
+title = "Washington Herald"
+date = "1912-06-23"
+pages = "40"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1913-05-26"
+pages = "12"
+
+[person.name]
+last = "Owens"
+use = "Andy"
+given = "Andy"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MA"
+place.city = "Roxbury"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+
+

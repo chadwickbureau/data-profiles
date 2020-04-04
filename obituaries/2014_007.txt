@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2014_007"
+
+[[person.meta.citation]]
+title = "Obits for life.com"
+date = "2014-02-02"
+url = "http://www.obitsforlife.com/obituary/843831/Pastore-John.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-02"
+
+[person.name]
+last = "Pastore"
+use = "Jack"
+given = "John J."
+
+[person.birth]
+date = "1940-10-13"
+
+[person.death]
+date = "2014-01-26"
+place.country = "US"
+place.state = "NJ"
+place.city = "Egg Harbor Township"
+

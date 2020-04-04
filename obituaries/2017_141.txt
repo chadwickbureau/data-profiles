@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_141"
+
+[[person.meta.citation]]
+title = "McCalley Funeral Home"
+date = "2017-08-21"
+url = "http://mccalleyfuneralhome.com/tribute/details/428/Victor-Olson/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Olson"
+use = "Vic"
+given = "Victor Noel"
+
+[person.birth]
+date = "1945-12-27"
+place.country = "US"
+place.state = "IA"
+place.city = "Grand Mound"
+
+[person.death]
+date = "2017-08-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Van Meter"
+
+[[person.education]]
+school.name = "Calamus HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Wheatland"
+
+[[person.education]]
+school.name = "Luther College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

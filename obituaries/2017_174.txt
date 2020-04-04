@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "2017_174"
+
+[[person.meta.citation]]
+title = "Piatt-Barnhill Funeral Home"
+date = "2017-08-13"
+url = "http://www.piattandbarnhillfh.com/obituary/david-skitch-henderson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-13"
+
+[person.name]
+last = "Henderson"
+use = "David"
+given = "David R."
+nick = "Skitch"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Washington"
+
+[person.death]
+date = "2017-08-06"
+place.country = "US"
+place.state = "SC"
+place.city = "Myrtle Beach"
+
+[person.burial]
+cemetery.name = "Washington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Washington"
+
+[[person.education]]
+school.name = "Washington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Washington"
+
+[[person.education]]
+school.name = "Marietta College"
+school.type = "college"
+
+

@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "20170625_066"
+
+[[person.meta.citation]]
+title = "Nebraska State Journal"
+date = "1922-07-16"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1922-04-08"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1922-07-31"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Nebraska State Journal"
+date = "1922-07-07"
+pages = "4"
+
+[person.name]
+last = "Knapp"
+use = "Levi"
+given = "Levi"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "NE"
+place.city = "David City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Hastings"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Norfolk"
+team.league.name = "Nebraska State League"
+
+

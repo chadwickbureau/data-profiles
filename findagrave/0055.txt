@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0055"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-03-22"
+url = "https://www.findagrave.com/memorial/359798"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-03-22"
+
+[person.name]
+last = "Bergstrom"
+use = "Robert"
+given = "Robert William"
+
+[person.birth]
+date = "1914-02-14"
+
+[person.death]
+date = "1985-10-03"
+
+[person.burial]
+cemetery.name = "Willamette National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Portland"
+
+[person.sameas]
+findagrave = "359798"
+

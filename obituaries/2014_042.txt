@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "2014_042"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-16"
+
+[person.name]
+last = "Solis"
+use = "Rene"
+given = "Rene"
+nick = "Tata"
+
+[person.birth]
+date = "1925-07-23"
+place.country = "CU"
+
+[person.death]
+date = "2013-09-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+

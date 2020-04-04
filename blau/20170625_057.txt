@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "20170625_057"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-06-14"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1922-01-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1923-05-17"
+pages = "5"
+
+[person.name]
+last = "Hauser"
+use = "George"
+given = "George"
+nick = "Bunny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Drumright"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+

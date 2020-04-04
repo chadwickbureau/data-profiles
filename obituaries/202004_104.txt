@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_104"
+
+[[person.meta.citation]]
+title = "John J. Lopatich Funeral Home"
+date = "2020-04-03"
+url = "https://www.lopatich.com/obituary/5747872"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "Pipak"
+use = "Dick"
+given = "Richard E."
+suffix = "Sr."
+
+[person.birth]
+date = "1932-09-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Pipetown"
+
+[person.death]
+date = "2018-06-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Monroeville"
+
+[person.burial]
+cemetery.name = "St. Vincent Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Latrobe"
+
+[[person.education]]
+school.name = "St. Vincent Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Latrobe"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

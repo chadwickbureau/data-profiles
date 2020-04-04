@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "2017_041"
+
+[[person.meta.citation]]
+title = "Wichita Eagle"
+date = "2017-10-10"
+url = "http://www.legacy.com/obituaries/kansas/obituary.aspx?n=don-wilson-lock-locker&pid=186896621&fhid=3124"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-10"
+
+[person.name]
+last = "Lock"
+use = "Don"
+given = "Don Wilson"
+nick = "Locker"
+
+[person.birth]
+date = "1936-07-27"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[person.death]
+date = "2017-10-08"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[[person.education]]
+school.name = "Kingman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Kingman"
+
+[[person.education]]
+school.name = "Wichita State University"
+school.type = "college"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2017_107"
+
+[[person.meta.citation]]
+title = "Bronson & Guthlein Funeral Home"
+date = "2017-09-13"
+url = "http://www.bronsonandguthleinfuneralhome.com/obituary/robert-szabo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-13"
+
+[person.name]
+last = "Szabo"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+date = "1933-01-17"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Brunswick"
+
+[person.death]
+date = "2017-09-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Milltown"
+
+[[person.education]]
+school.name = "New Brunswick HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "New Brunswick"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

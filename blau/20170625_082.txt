@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_082"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1928-07-07"
+pages = "16"
+
+[person.name]
+last = "Lewis"
+use = "Norman"
+given = "Norman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wheeling"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20170625_017"
+
+[[person.meta.citation]]
+title = "Connellsville Daily Courier"
+date = "1929-07-30"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1929-12-15"
+pages = "21"
+
+[person.name]
+last = "Joseph"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Charleroi"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_135"
+
+[[person.meta.citation]]
+title = "Hayworth-Miller Funeral Home"
+date = "2017-08-25"
+url = "http://www.hayworth-miller.com/obituaries/W-Bruce-Bailey?obId=2497234#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-25"
+
+[person.name]
+last = "Bailey"
+use = "Bruce"
+given = "W. Bruce"
+
+[person.birth]
+date = "1927-04-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Winston-Salem"
+
+[person.death]
+date = "2017-08-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Advance"
+
+[person.burial]
+cemetery.name = "Salem Moravian God's Acre"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Winston-Salem"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

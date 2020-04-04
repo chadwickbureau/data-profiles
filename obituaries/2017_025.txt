@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2017_025"
+
+[[person.meta.citation]]
+title = "Daily Gazette"
+date = "2017-10-19"
+url = "https://dailygazette.com/article/2017/10/19/ed-barnowski-major-leaguer-and-mont-pleasant-legend-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-20"
+
+[person.name]
+last = "Barnowski"
+use = "Ed"
+given = "Ed"
+
+[person.death]
+date = "2017-10-17"
+
+[[person.education]]
+school.name = "Mont Pleasant HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Schenectady"
+
+[[person.education]]
+school.name = "Syracuse University"
+school.type = "college"
+
+

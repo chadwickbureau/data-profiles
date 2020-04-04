@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "2017_109"
+
+[[person.meta.citation]]
+title = "Methven Funeral Home"
+date = "2017-09-11"
+url = "http://www.methvenfuneralhome.com/obituary/lyle-mortenson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-11"
+
+[person.name]
+last = "Mortenson"
+use = "Lyle"
+given = "Lyle Anton"
+
+[person.birth]
+date = "1933-09-25"
+place.country = "US"
+place.state = "MN"
+place.city = "Hinckley"
+
+[person.death]
+date = "2017-09-02"
+place.country = "US"
+place.state = "MN"
+place.city = "Hinckley"
+
+[person.burial]
+cemetery.name = "Rosehill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Hinckley"
+
+[[person.education]]
+school.name = "Hinckley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Hinckley"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "2014_069"
+
+[[person.meta.citation]]
+title = "Ashai.com"
+date = "2014-01-29"
+url = "http://www.asahi.com/articles/ASG1Y6F9XG1YUTQP01M.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-03"
+
+[person.name]
+last = "Sakazaki"
+use = "Kazuhiko"
+given = "Kazuhiko"
+
+[person.death]
+date = "2014-01-28"
+

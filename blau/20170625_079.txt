@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20170625_079"
+
+[[person.meta.citation]]
+title = "East Liverpool Evening Review"
+date = "1921-04-08"
+pages = "35"
+
+[person.name]
+last = "Lewis"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1920"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

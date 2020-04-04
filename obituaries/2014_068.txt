@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "2014_068"
+
+[[person.meta.citation]]
+title = "Meaningful Funerals"
+date = "2014-03-02"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2441924&fh_id=14438"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-03-02"
+
+[person.name]
+last = "Bixby"
+use = "Richard"
+given = "Richard James"
+
+[person.birth]
+date = "1922-06-08"
+place.country = "US"
+place.state = "WI"
+place.city = "Oshkosh"
+
+[person.death]
+date = "2014-03-01"
+place.country = "US"
+place.state = "WI"
+place.city = "Waupun"
+
+[person.burial]
+cemetery.name = "Highland Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Beaver Dam"
+
+[[person.education]]
+school.name = "Oshkosh HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Oshkosh"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

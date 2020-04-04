@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2014_027"
+
+[[person.meta.citation]]
+title = "Wilmington Funeral & Cremation"
+date = "2014-02-09"
+url = "http://www.wilmingtoncares.com/fh/obituaries/obituary.cfm?o_id=2408198&fh_id=11255"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Richardson"
+use = "Bob"
+given = "Robert Douglas"
+
+[person.birth]
+date = "1949-03-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Fitchburg"
+
+[person.death]
+date = "2014-02-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+
+[[person.education]]
+school.name = "Weymouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Weymouth"
+
+

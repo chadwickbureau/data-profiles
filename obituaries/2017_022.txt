@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "2017_022"
+
+[[person.meta.citation]]
+title = "Eberly Funeral Home"
+date = "2017-10-21"
+url = "http://www.eberlyfuneralhome.com/fh/obituaries/obituary.cfm?o_id=4417235&fh_id=11555"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-21"
+
+[person.name]
+last = "Wise"
+use = "Dale"
+given = "Dale T."
+
+[person.birth]
+date = "1938-02-14"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.death]
+date = "2017-10-19"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.burial]
+cemetery.name = "Pleasant View Church Brethren Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Red Lion"
+
+[person.description]
+throws = "L"
+

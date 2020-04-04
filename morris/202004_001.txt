@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_001"
+
+[[person.meta.citation]]
+title = "St. Joseph Herald"
+date = "1894-03-18"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-05-01"
+
+[person.name]
+last = "Southard"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.description]
+height = "68"
+weight = "157"
+
+[[person.affiliation]]
+type = "player"
+dates = "1893"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1893"
+team.name = "Scranton"
+team.league.name = "Pennsylvania State League"
+description.position = "P"
+
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "2017_097"
+
+[[person.meta.citation]]
+title = "Accent Funeral Home"
+date = "2017-09-18"
+url = "http://www.accentfuneral.com/lifestory/clouds/home.html?Year=2017&Month=9&Day=12&FirstName=Shorty&LastName=Arnzen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-18"
+
+[person.name]
+last = "Arnzen"
+use = "Urban"
+given = "Urban J."
+nick = "Shorty"
+
+[person.birth]
+date = "1932-08-07"
+place.country = "US"
+place.state = "ID"
+place.city = "Greencreek"
+
+[person.death]
+date = "2017-09-12"
+
+[person.burial]
+cemetery.name = "Cottonwood Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Cottonwood"
+
+[[person.education]]
+school.name = "Greencreek HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ID"
+school.place.city = "Greencreek"
+
+[[person.education]]
+school.name = "Gonzaga University"
+school.type = "college"
+
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2017_114"
+
+[[person.meta.citation]]
+title = "Clay Barnette Funeral Home"
+date = "2017-09-08"
+url = "http://www.claybarnette.com/obituaries/Tom-Wright/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-08"
+
+[person.name]
+last = "Wright"
+use = "Tom"
+given = "Thomas Everette"
+
+[person.birth]
+date = "1923-09-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Rutherfordton"
+
+[person.death]
+date = "2017-09-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Shelby"
+
+[person.burial]
+cemetery.name = "Cleveland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Shelby"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

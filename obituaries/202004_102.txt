@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_102"
+
+[[person.meta.citation]]
+title = "The Day"
+date = "2018-06-13"
+url = "https://www.legacy.com/obituaries/theday/obituary.aspx?n=william-r-haase-bill&pid=189279051&eid=sp_ommatch&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-03"
+
+[person.name]
+last = "Haase"
+use = "Bill"
+given = "William R."
+suffix = "III"
+
+[person.birth]
+date = "1925-09-22"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+[person.death]
+date = "2018-06-09"
+
+[[person.education]]
+school.name = "Chapman Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New London"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

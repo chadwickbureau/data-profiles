@@ -1,0 +1,130 @@
+[[person]]
+
+[person.meta]
+key = "2240"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/2240"
+title = "The Sporting News Player Contract Cards, ScanID: 1025007555"
+
+[person.name]
+last = "Albert"
+given = "Dalton Paul"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "192"
+married = "yes"
+
+[person.birth]
+date = "1923-01-31"
+place.country = "US"
+place.state = "TX"
+place.city = "Bellville"
+
+[[person.resides]]
+place.country = "US"
+place.state = "TX"
+place.city = "Bellville"
+
+
+[[person.transaction]]
+date = "1946-03"
+type = "signed"
+join.name = "Fort Worth"
+note = "Fort Worth 1946-03"
+
+[[person.transaction]]
+date = "1946-05"
+type = "optioned"
+leave.name = "Fort Worth"
+join.name = "Meridian"
+note = "opt to Meridian 1946-05"
+
+[[person.transaction]]
+date = "1946-08"
+type = "recalled"
+leave.name = "Meridian"
+join.name = "Fort Worth"
+note = "rec by Fort Worth 1946-08"
+
+[[person.transaction]]
+date = "1946-09"
+type = "released"
+leave.name = "Fort Worth"
+join.name = "Newport News"
+note = "rel to Newport News 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Newport News"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-07"
+type = "optioned"
+leave.name = "Newport News"
+join.name = "Pensacola"
+note = "opt to Pensacola 1947-04-07"
+
+[[person.transaction]]
+date = "1947-04-28"
+type = "returned"
+leave.name = "Pensacola"
+join.name = "Newport News"
+note = "ret to Newport News 1947-04-28"
+
+[[person.transaction]]
+date = "1947-04-28"
+type = "optioned"
+leave.name = "Newport News"
+join.name = "Asheville"
+note = "opt to Asheville 1947-04-28"
+
+[[person.transaction]]
+date = "1947-05-14"
+type = "suspended"
+leave.name = "Asheville"
+note = "1947-05-14"
+
+[[person.transaction]]
+date = "1947-05-28"
+type = "reinstated"
+join.name = "Asheville"
+note = "rein from susp list 1947-05-28"
+
+[[person.transaction]]
+date = "1947-05-28"
+type = "returned"
+leave.name = "Asheville"
+join.name = "Newport News"
+note = "ret to Newport News 1947-05-28"
+
+[[person.transaction]]
+date = "1947-05-28"
+type = "voluntarily-retired"
+leave.name = "Newport News"
+note = "vol. ret. list 1947-05-28"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Newport News"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Newport News"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1951-08-02"
+type = "released"
+leave.name = "Newport News"
+note = "rel 1951-08-02"
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "2017_081"
+
+[[person.meta.citation]]
+title = "AzCentral.com"
+date = "2017-09-18"
+url = "http://www.azcentral.com/story/sports/high-school/2017/09/18/well-respected-youth-baseball-coach-dave-hilton-dies/679369001/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-22"
+
+[person.name]
+last = "Hilton"
+use = "Dave"
+given = "Dave"
+
+[person.death]
+date = "2017-09-17"
+

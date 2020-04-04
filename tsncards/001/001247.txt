@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "1247"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/1247"
+title = "The Sporting News Player Contract Cards, ScanID: 1001004253"
+
+[person.name]
+last = "Abrams"
+given = "Morris Rodney"
+
+[[person.resides]]
+place.country = "US"
+place.state = "NY"
+place.city = "Steamburg"
+
+
+[[person.transaction]]
+date = "1960-07-01"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1960-07-01"
+
+[[person.transaction]]
+date = "1961"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1961-04-22"
+type = "released"
+leave.name = "Elmira"
+note = "rel 1961-04-22"
+

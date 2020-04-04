@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2017_179"
+
+[[person.meta.citation]]
+title = "Curley Funeral Home"
+date = "2017-08-07"
+url = "http://www.curleyfuneralhome.com/cgi-bin/CompanyInternal?stdout+115+curleyfuneralhome.com+2200+3+9103:Lcgi_html/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-07"
+
+[person.name]
+last = "Kordas"
+use = "Thomas"
+given = "Thomas G."
+
+[person.death]
+date = "2017-01-19"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Justice"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

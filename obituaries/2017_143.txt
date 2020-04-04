@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2017_143"
+
+[[person.meta.citation]]
+title = "Storke Funeral Home"
+date = "2017-08-21"
+url = "http://hosting-22393.tributes.com/obituary/show/Donald-Carr-Howell-105092470"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-21"
+
+[person.name]
+last = "Howell"
+use = "Donald"
+given = "Donald Carr"
+suffix = "II"
+
+[person.birth]
+date = "1988-01-17"
+
+[person.death]
+date = "2017-08-10"
+
+[[person.education]]
+school.name = "King George HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "King George"
+
+[[person.education]]
+school.name = "Bluefield College"
+school.type = "college"
+
+

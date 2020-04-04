@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_019"
+
+[[person.meta.citation]]
+title = "The Journal News"
+date = "2014-02-05"
+url = "http://www.legacy.com/obituaries/lohud/obituary.aspx?n=James-Gallagher&pid=169512785"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-02-08"
+
+[person.name]
+last = "Gallagher"
+use = "Jim"
+given = "James Joseph"
+
+[person.birth]
+date = "1936-08-29"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2014-02-01"
+
+[person.burial]
+cemetery.name = "Sleepy Hollow Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Sleepy Hollow"
+
+[[person.education]]
+school.name = "Xavier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "New York"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0021"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2019-02-26"
+url = "https://www.findagrave.com/memorial/66476033"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-26"
+
+[person.name]
+last = "Champlin"
+use = "Harry"
+given = "Harry J."
+
+[person.birth]
+date = "1891-08-24"
+
+[person.death]
+date = "1949-09-11"
+
+[person.burial]
+cemetery.name = "Vine Street Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"
+
+[person.sameas]
+findagrave = "66476033"
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_062"
+
+[[person.meta.citation]]
+title = "Record/Herald News"
+date = "2013-09-21"
+url = "http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=James-Reamy&pid=167068552#fbLoggedOut"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-02-27"
+
+[person.name]
+last = "Reamy"
+use = "Jim"
+given = "James Sylvanus"
+
+[person.birth]
+date = "1928-12-01"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2013-09-17"
+
+[[person.education]]
+school.name = "Evander Childs HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Bronx"
+
+[[person.education]]
+school.name = "New York University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

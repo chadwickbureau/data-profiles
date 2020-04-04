@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "2017_128"
+
+[[person.meta.citation]]
+title = "Yuma Sun"
+date = "2017-08-30"
+url = "http://www.legacy.com/obituaries/yumasun/obituary.aspx?n=lloyd-warren-harding&pid=186515553&fhid=6823"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-08-31"
+
+[person.name]
+last = "Harding"
+use = "Lloyd"
+given = "Lloyd Warren"
+
+[person.birth]
+date = "1929-08-30"
+place.country = "US"
+place.state = "CA"
+place.city = "San Dimas"
+
+[person.death]
+date = "2017-08-22"
+
+[person.burial]
+cemetery.name = "Desert Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "AZ"
+cemetery.place.city = "Yuma"
+
+[[person.education]]
+school.name = "Mesa HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Mesa"
+
+

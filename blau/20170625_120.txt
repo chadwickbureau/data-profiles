@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "20170625_120"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1929-05-14"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1928-05-11"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1928-04-12"
+pages = "19"
+
+[person.name]
+last = "Lyons"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Crisfield"
+team.league.name = "Eastern Shore League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Lewiston"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+

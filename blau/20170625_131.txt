@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20170625_131"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1923-07-20"
+pages = "2"
+
+[person.name]
+last = "Naleway"
+use = "Chick"
+given = "Chick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux Falls"
+team.league.name = "South Dakota League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Chicago"
+team.league.name = "American League"
+
+

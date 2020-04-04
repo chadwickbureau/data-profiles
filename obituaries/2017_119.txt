@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "2017_119"
+
+[[person.meta.citation]]
+title = "Mason-Gelder Funeral Home"
+date = "2017-09-05"
+url = "http://www.mason-gelder.com/notices/Robert-HiteSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-09-05"
+
+[person.name]
+last = "Hite"
+use = "Robert"
+given = "Robert E."
+suffix = "Sr."
+
+[person.birth]
+date = "1927-07-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Connellsville"
+
+[person.death]
+date = "2017-08-30"
+place.country = "US"
+place.state = "PA"
+place.city = "Greensburg"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+
