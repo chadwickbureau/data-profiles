@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "2014_005"
+
+[[person.meta.citation]]
+title = "Newark Star-Ledger"
+date = "1999-08-27"
+
+[person.name]
+last = "Shupper"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1917-07-17"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "1999-08-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Yardley"
+
+[person.sameas]
+ssn = "125-01-8399"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "2014_006"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "1999-11-04"
+
+[person.name]
+last = "Benish"
+use = "Robert"
+given = "Robert Edward"
+
+[person.birth]
+date = "1920-04-08"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1999-10-24"
+
+[person.sameas]
+ssn = "495-14-8600"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

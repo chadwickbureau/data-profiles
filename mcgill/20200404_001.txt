@@ -1,0 +1,124 @@
+[[person]]
+
+[person.meta]
+key = "20200404_001"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-07"
+pages = "16"
+
+[person.name]
+last = "Corbett"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+description.height = "71"
+description.weight = "170"
+description.age = "27"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "coach"
+dates = "1912"
+team.name = "University of Indiana"
+
+[[person.affiliation]]
+type = "coach"
+dates = "1911"
+team.name = "Furman University"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charleston"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Columbus"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Anderson"
+team.league.name = "Interstate Association"
+
+

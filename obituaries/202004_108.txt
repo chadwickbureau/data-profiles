@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_108"
+
+[[person.meta.citation]]
+title = "Warco-Falvo Funerla Home"
+date = "2020-04-04"
+url = "https://www.warcofalvofuneralhome.com/obituary-posts/2018/5/9/norman-j-kotlik"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-04"
+
+[person.name]
+last = "Kotlik"
+use = "Norman"
+given = "Norman J."
+
+[person.birth]
+date = "1935-01-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Bellaire"
+
+[person.death]
+date = "2018-05-07"
+
+[[person.education]]
+school.name = "Bellaire HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Bellaire"
+
+

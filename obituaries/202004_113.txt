@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_113"
+
+[[person.meta.citation]]
+title = "Misencik Funeral Home"
+date = "2020-04-05"
+url = "https://www.misencikfuneralhome.com/obituary/steve-matesick"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Matesick"
+use = "Steve"
+given = "Steve"
+
+[person.birth]
+date = "1933-11-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Lorain"
+
+[person.death]
+date = "2018-05-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Avon"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Avon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_027"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-01"
+pages = "5"
+
+[person.name]
+last = "Boyle"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "2013_003"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+
+[person.name]
+last = "Yonkman"
+use = "Leonard"
+given = "Leonard"
+
+[person.birth]
+place.country = "CA"
+place.state = "SK"
+place.city = "Lestock"
+

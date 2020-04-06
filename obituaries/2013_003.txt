@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "2013_003"
+
+[[person.meta.citation]]
+title = "The Indiana Gazette"
+
+[[person.meta.contributor]]
+name.last = "Copeland"
+name.use = "Tim"
+
+[person.name]
+last = "Demeter"
+use = "Stephen"
+given = "Stephen"
+
+[person.death]
+date = "2013-02-03"
+

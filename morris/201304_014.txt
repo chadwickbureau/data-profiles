@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "201304_014"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Pratte"
+use = "Andre"
+given = "Andre"
+
+[person.birth]
+date = "1933-05-04"
+place.country = "CA"
+place.state = "QC"
+place.city = "Longueuil"
+

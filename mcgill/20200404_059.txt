@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_059"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-04"
+pages = "6"
+
+[person.name]
+last = "Flynn"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

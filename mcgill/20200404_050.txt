@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_050"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-10"
+pages = "20"
+
+[person.name]
+last = "Moffitt"
+use = "Elmer"
+given = "Elmer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "South Bend"
+team.league.name = "Central League"
+
+

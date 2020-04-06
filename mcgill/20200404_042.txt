@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200404_042"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-05-06"
+pages = "20"
+
+[person.name]
+last = "Wood"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Wood"
+person.name.use = "Smoky"
+person.name.given = "Smoky Joe"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Steubenville"
+team.league.name = "Ohio-Pennsylvania League"
+
+

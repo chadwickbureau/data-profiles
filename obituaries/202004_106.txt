@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_106"
+
+[[person.meta.citation]]
+title = "Larkin Mortuary"
+date = "2020-04-04"
+url = "https://www.larkinmortuary.com/obituary/richard-kenneth-milne/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-04"
+
+[person.name]
+last = "Milne"
+use = "Dick"
+given = "Richard Kenneth"
+
+[person.birth]
+date = "1930-06-18"
+place.country = "US"
+place.state = "UT"
+place.city = "Mammoth"
+
+[person.death]
+date = "2020-03-30"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Salt Lake City"
+
+

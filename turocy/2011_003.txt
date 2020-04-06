@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2011_003"
+
+[[person.meta.citation]]
+title = "Camden Riversharks"
+
+[person.name]
+last = "McGuire"
+use = "Mike"
+given = "Mike"
+
+[person.birth]
+date = "1986-06-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Drexel Hill"
+
+[person.description]
+height = "76"
+weight = "240"
+bats = "R"
+throws = "R"
+position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "2011"
+team.name = "Camden"
+team.league.name = "Atlantic League"
+
+

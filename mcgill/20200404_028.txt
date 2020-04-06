@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200404_028"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-01"
+pages = "15"
+
+[person.name]
+last = "Johnson"
+use = "Lyman"
+given = "Lyman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+description.position = "P"
+description.throws = "R"
+
+
+[[person.transaction]]
+date = "<=1911-04"
+type = "purchased"
+join.name = "Terre Haute"
+join.league.name = "Central"
+leave.name = "Vincennes"
+leave.league.name = "Kentucky-Illinois-Tennessee"
+
+

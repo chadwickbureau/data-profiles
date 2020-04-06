@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "2011_001"
+
+[person.name]
+last = "Decker"
+use = "Brandon"
+given = "Brandon"
+
+[person.birth]
+date = "1987-01-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Santee"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70"
+weight = "165"
+position = "IF"
+
+[[person.education]]
+school.name = "San Diego State"
+school.type = "college"
+
+[[person.education]]
+school.name = "Long Beach State"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2011"
+team.name = "Rio Grande Valley"
+team.league.name = "United League"
+
+

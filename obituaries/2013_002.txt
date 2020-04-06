@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "2013_002"
+
+[[person.meta.citation]]
+title = "The Advertiser"
+date = "2013-02-06"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Truesdell"
+use = "Charley"
+given = "Charles Welsey"
+
+[person.birth]
+date = "1939-11-09"
+place.country = "US"
+place.state = "LA"
+place.city = "Eunice"
+
+[person.death]
+date = "2013-02-04"
+place.country = "US"
+place.state = "LA"
+place.city = "Lafayette"
+

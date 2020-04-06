@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200404_049"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-10"
+pages = "20"
+
+[person.name]
+last = "Morrissey"
+use = "Chester"
+given = "Chester"
+
+[[person.education]]
+school.name = "Syracuse University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+
+

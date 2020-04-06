@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "202004_111"
+
+[[person.meta.citation]]
+title = "Ocean County Register"
+date = "2020-04-05"
+url = "https://www.ocregister.com/2020/04/05/former-trabuco-hills-saddleback-college-standout-pitcher-ryan-poe-42-dies-after-infection/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Poe"
+use = "Ryan"
+given = "Ryan"
+
+[person.death]
+date = "2020-04-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Upland"
+
+[[person.education]]
+school.name = "Trabuco Hills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Mission Viejo"
+
+[[person.education]]
+school.name = "Saddleback College"
+school.type = "college"
+
+

@@ -1,0 +1,111 @@
+[[person]]
+
+[person.meta]
+key = "119215"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/119215"
+title = "The Sporting News Player Contract Cards, ScanID: 1022006279"
+
+[person.name]
+last = "Johnson"
+given = "James Edward"
+
+[[person.resides]]
+place.address = "3011 Van Buren"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+
+[[person.transaction]]
+date = "1950-01-23"
+type = "signed"
+join.name = "Greenwood"
+note = "Greenwood 1950-01-23"
+
+[[person.transaction]]
+date = "1950-04-17"
+type = "released"
+leave.name = "Greenwood"
+join.name = "Three Rivers"
+note = "rel to Three Rivers 1950-04-17"
+
+[[person.transaction]]
+date = "1950-04-21"
+type = "optioned"
+leave.name = "Three Rivers"
+join.name = "Sheboygan"
+note = "opt to Sheboygan 1950-04-21"
+
+[[person.transaction]]
+date = "1950-05-25"
+type = "option-returned"
+leave.name = "Sheboygan"
+join.name = "Three Rivers"
+note = "opt ret to Three Rivers 1950-05-25"
+
+[[person.transaction]]
+date = "1950-05-25"
+type = "optioned"
+leave.name = "Three Rivers"
+join.name = "Kingsport"
+note = "opt to Kingsport 1950-05-25"
+
+[[person.transaction]]
+date = "1950-06-10"
+type = "option-returned"
+leave.name = "Kingsport"
+join.name = "Three Rivers"
+note = "opt ret to Three Rivers 1950-06-10"
+
+[[person.transaction]]
+date = "suspended list 1950-06-10"
+type = "suspended"
+leave.name = "Three Rivers"
+note = "suspended list 1950-06-10"
+
+[[person.transaction]]
+date = "1950-09-23"
+type = "reinstated"
+join.name = "Three Rivers"
+note = "rein 1950-09-23"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Three Rivers"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-01-04"
+type = "released"
+leave.name = "Three Rivers"
+join.name = "Billings"
+note = "rel to Billings 1951-01-04"
+
+[[person.transaction]]
+date = "1951-04-17"
+type = "optioned"
+leave.name = "Billings"
+join.name = "Hazard"
+note = "opt to Hazard 1951-04-17"
+
+[[person.transaction]]
+date = "1951-06-13"
+type = "released"
+leave.name = "Hazard"
+note = "rel 1951-06-13"
+
+[[person.transaction]]
+date = "1953-02-16"
+type = "signed"
+join.name = "Alexandria"
+note = "Alexandria 1953-02-16"
+
+[[person.transaction]]
+date = "1953-04-26"
+type = "released"
+leave.name = "Alexandria"
+note = "rel 1953-04-26"
+

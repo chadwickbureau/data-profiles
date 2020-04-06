@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "201304_010"
+
+[[person.meta.citation]]
+title = "Minnesota, Births and Christening Index, 1840-1980"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2013-03-20"
+url = "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=97475118"
+
+[person.name]
+last = "Kaplan"
+use = "Ave"
+given = "Avold Richard"
+
+[person.birth]
+date = "1899-11-15"
+place.country = "US"
+place.state = "MN"
+place.city = "Owatonna"
+
+[person.death]
+date = "1989-12-28"
+
+[person.burial]
+cemetery.name = "Bohemian National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Owatonna"
+
+[person.sameas]
+ssn = "471-03-8593"
+

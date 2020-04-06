@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_004"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-07"
+pages = "16"
+
+[person.name]
+last = "Heck"
+given = "F. H."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+description.age = "20"
+
+

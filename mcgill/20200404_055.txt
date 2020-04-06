@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200404_055"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-08-05"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcmgill.vt@gmail.com"
+
+[person.name]
+last = "Murden"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Portsmouth"
+team.league.name = "Tidewater League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+

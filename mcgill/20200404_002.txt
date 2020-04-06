@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "20200404_002"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-07"
+pages = "16"
+
+[person.name]
+last = "Ferris"
+use = "Doc"
+given = "Doc"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NY"
+place.city = "Waterveleit"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+description.height = "72"
+description.weight = "175"
+description.throws = "R"
+description.bats = "R"
+description.age = "24"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Durham"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Durham"
+team.league.name = "North Carolina State League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_029"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-08"
+pages = "9"
+
+[person.name]
+last = "Walzer"
+use = "Clarence"
+given = "Clarence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200404_058"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-02"
+pages = "5"
+
+[person.name]
+last = "White"
+
+[[person.education]]
+school.name = "Eastern College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Old Point"
+team.league.name = "Tidewater League"
+description.position = "P"
+description.throws = "L"
+
+

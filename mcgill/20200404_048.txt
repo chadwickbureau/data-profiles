@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_048"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-10"
+pages = "3"
+
+[person.name]
+last = "Camnitz"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "South Bend"
+team.league.name = "Central League"
+
+

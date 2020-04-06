@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "202004_107"
+
+[[person.meta.citation]]
+title = "D'Espo Funeral Chapel"
+date = "2020-04-04"
+url = "https://www.dignitymemorial.com/obituaries/wethersfield-ct/sebastian-santiglia-7879813"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-04"
+
+[person.name]
+last = "Santiglia"
+use = "Subby"
+given = "Sebastian Anthony"
+nick = "Checkers"
+
+[person.birth]
+date = "1932-01-01"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2018-05-29"
+
+[person.burial]
+cemetery.name = "Mount St. Benedict Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Bloomfield"
+
+[[person.education]]
+school.name = "Hartford Public HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Hartford"
+
+[[person.education]]
+school.name = "University of Hartford"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

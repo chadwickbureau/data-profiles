@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200404_051"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-17"
+pages = "7"
+
+[person.name]
+last = "Martin"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+
+[[person.transaction]]
+date = "<=1911-06-17"
+type = "purchased"
+join.name = "Terre Haute"
+join.league.name = "Central"
+leave.name = "Pittsburgh"
+leave.league.name = "National"
+
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "2013_001"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat-Gazette"
+url = "http://www.arkansasonline.com/obituaries/2013/feb/10/mike-drewett-2013-02-11/"
+
+[[person.meta.contributor]]
+name.last = "Worth"
+name.use = "Fred"
+email = "worthf@hsu.edu"
+
+[person.name]
+last = "Drewett"
+use = "Michael"
+given = "Michael Glen"
+
+[person.birth]
+date = "1952-02-14"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.death]
+date = "2013-02-08"
+
+[person.burial]
+cemetery.name = "Varnell Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Rison"
+
+[[person.education]]
+school.name = "Arkansas State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Arkansas-Monticello"
+school.type = "college"
+
+

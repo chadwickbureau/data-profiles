@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "2011_005"
+
+[[person.meta.citation]]
+title = "Long Island Ducks"
+
+[person.name]
+last = "Hunton"
+use = "Jon"
+given = "Jon"
+
+[person.birth]
+date = "1982-11-30"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "81"
+weight = "260"
+position = "P"
+
+[[person.resides]]
+dates = "2011"
+place.country = "US"
+place.state = "NJ"
+place.city = "Plainfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "2011"
+team.name = "Long Island"
+team.league.name = "Atlantic League"
+
+
+[[person.transaction]]
+date = "2004"
+type = "drafted"
+join.name = "Chicago"
+join.league.name = "National"
+round = "11"
+
+

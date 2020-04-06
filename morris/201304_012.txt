@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "201304_012"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Petrock"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1949-11-26"
+

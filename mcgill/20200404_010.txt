@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_010"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-20"
+pages = "8"
+
+[person.name]
+last = "Shannon"
+use = "Hugh"
+given = "Hugh"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

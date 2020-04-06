@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "201304_005"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Habelman"
+use = "Al"
+given = "Al"
+
+[[person.education]]
+school.name = "Spring Woods HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"
+
+[[person.education]]
+school.name = "Sam Houston State"
+school.type = "college"
+
+

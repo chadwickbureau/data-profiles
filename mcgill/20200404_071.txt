@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200404_071"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-21"
+pages = "5"
+
+[person.name]
+last = "Robertson"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Elizabeth City"
+team.league.name = "Tidewater League"
+description.position = "P"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "1911-06-20"
+type = "signed"
+join.name = "Detroit"
+join.league.name = "American"
+
+

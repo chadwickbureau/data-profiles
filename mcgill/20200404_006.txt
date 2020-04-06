@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_006"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-18"
+pages = "10"
+
+[person.name]
+last = "Barry"
+use = "Grove"
+given = "Grove"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

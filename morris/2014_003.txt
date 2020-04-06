@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "2014_003"
+
+[[person.meta.citation]]
+title = "Daily Herald"
+date = "1999-06-12"
+
+[person.name]
+last = "Gugala"
+use = "Chester"
+given = "Chester A."
+
+[person.birth]
+date = "1930-03-04"
+place.country = "US"
+place.state = "IL"
+place.city = "North Chicago"
+
+[person.death]
+date = "1999-06-09"
+place.country = "US"
+place.state = "IL"
+place.city = "Waukegan"
+
+[person.burial]
+cemetery.name = "Ascension Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Libertyville"
+
+[person.sameas]
+ssn = "320-20-1130"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

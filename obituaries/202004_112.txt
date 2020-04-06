@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "202004_112"
+
+[[person.meta.citation]]
+title = "Gaffney Funeral Home"
+date = "2020-04-05"
+url = "https://www.gaffneyfuneralhome.com/obituary/Raymond-Millie"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Millie"
+use = "Ray"
+given = "Raymond F."
+
+[person.birth]
+date = "1929-01-20"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.death]
+date = "2018-04-29"
+
+[[person.education]]
+school.name = "Bellarmine Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Tacoma"
+
+

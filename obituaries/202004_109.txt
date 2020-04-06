@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "202004_109"
+
+[[person.meta.citation]]
+title = "Albuquerque Journal"
+date = "1923-06-25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Maurer"
+use = "Michael"
+given = "Michael A."
+
+[person.death]
+date = "1923-06-23"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+

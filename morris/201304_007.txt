@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "201304_007"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Hayes"
+use = "Lewis"
+given = "Lewis"
+
+[[person.education]]
+school.name = "Paul Quinn"
+school.type = "college"
+
+

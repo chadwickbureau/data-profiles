@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_069"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-11"
+pages = "6"
+
+[person.name]
+last = "Lohr"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Suffolk"
+team.league.name = "Tidewater League"
+
+

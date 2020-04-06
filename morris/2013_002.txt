@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "2013_002"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+
+[person.name]
+last = "Schlosser"
+use = "Wayne"
+given = "Wayne"
+
+[person.birth]
+date = "1952-06-17"
+place.country = "CA"
+place.state = "SK"
+place.city = "Lestock"
+

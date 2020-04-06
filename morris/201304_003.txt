@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_003"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Field"
+use = "Daniel"
+given = "Daniel"
+
+[[person.education]]
+school.name = "St. Joseph HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Westchester"
+
+

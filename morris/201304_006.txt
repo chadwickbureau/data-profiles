@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "201304_006"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Williams"
+use = "Robert"
+given = "Robert"
+
+[person.birth]
+date = "1949-10-07"
+
+[[person.education]]
+school.name = "Lindbergh HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200404_085"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-07-27"
+pages = "5"
+
+[person.name]
+last = "Boyce"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Old Point"
+team.league.name = "Tidewater League"
+
+

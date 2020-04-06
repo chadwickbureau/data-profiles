@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "20200404_003"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1915-02-07"
+pages = "16"
+
+[person.name]
+last = "Anderson"
+use = "Victor"
+given = "Victor"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NC"
+place.city = "Kannapolis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+description.height = "72"
+description.weight = "175"
+description.throws = "L"
+description.age = "20"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Waycross"
+team.league.name = "Georgia State League"
+
+

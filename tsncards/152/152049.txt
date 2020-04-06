@@ -1,0 +1,148 @@
+[[person]]
+
+[person.meta]
+key = "152049"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/152049"
+title = "The Sporting News Player Contract Cards, ScanID: 1099024375"
+
+[person.name]
+last = "Starr"
+given = "William Leroy"
+use = "Lee"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+married = "Martha Orebaugh, 1950-10-26"
+height = "73.5"
+weight = "195"
+
+[person.birth]
+date = "1930-12-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Selma"
+
+[[person.resides]]
+place.address = "Route #2, Box 520"
+place.country = "US"
+place.state = "CA"
+place.city = "Selma"
+
+
+[[person.transaction]]
+date = "1950-04-22"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1950-04-22"
+
+[[person.transaction]]
+date = "1950-04-23"
+type = "released"
+leave.name = "Aberdeen"
+join.name = "Appleton"
+note = "rel to Appleton 1950-04-23"
+
+[[person.transaction]]
+date = "1950-04-24"
+type = "optioned"
+leave.name = "Appleton"
+join.name = "Ada"
+note = "opt to Ada 1950-04-24"
+
+[[person.transaction]]
+date = "1950-09-14"
+type = "drafted"
+leave.name = "Ada"
+join.name = "San Antonio"
+note = "San Antonio 1950-09-14"
+
+[[person.transaction]]
+date = "1950-09-19"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Redding"
+note = "rel to Redding 1950-09-19"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Redding"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-04-24"
+type = "suspended"
+leave.name = "Redding"
+note = "1951-04-24"
+
+[[person.transaction]]
+date = "1951-05-05"
+type = "restricted"
+leave.name = "Redding"
+note = "restricted list 1951-05-05"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Redding"
+
+[[person.transaction]]
+date = "1953-02-12"
+type = "reinstated"
+join.name = "Redding"
+note = "rein from restricted list 1953-02-12"
+
+[[person.transaction]]
+date = "1953-02-12"
+type = "released"
+leave.name = "Redding"
+note = "rel 1953-02-12"
+
+[[person.transaction]]
+date = "1953-02-12"
+type = "signed"
+join.name = "Dallas"
+note = "Dallas 1953-02-12"
+
+[[person.transaction]]
+date = "1953-04-04"
+type = "released"
+leave.name = "Dallas"
+join.name = "Greenville (TX)"
+note = "rel to Greenville (TX) 1953-04-04"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Greenville (TX)"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1953-12-30"
+type = "released"
+leave.name = "Greenville (TX)"
+join.name = "Galveston"
+note = "rel to Galveston 1953-12-30"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Galveston"
+
+[[person.transaction]]
+date = "1954-03-18"
+type = "released"
+leave.name = "Galveston"
+join.name = "Artesia"
+note = "rel to Artesia 1954-03-18"
+
+[[person.transaction]]
+date = "1954-03-26"
+type = "released"
+leave.name = "Artesia"
+note = "rel 1954-03-26"
+

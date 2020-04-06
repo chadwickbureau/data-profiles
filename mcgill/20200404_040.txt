@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200404_040"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-29"
+pages = "20"
+
+[person.name]
+last = "Morgan"
+use = "Pete"
+given = "Pete"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Morgan"
+person.name.use = "Cy"
+person.name.given = "Cy"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "New Castle"
+team.league.name = "Ohio-Pennsylvania League"
+
+

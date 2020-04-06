@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_045"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-03"
+pages = "20"
+
+[person.name]
+last = "Robertson"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Elizabeth City"
+team.league.name = "Tidewater League"
+
+

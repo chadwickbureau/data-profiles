@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "2013_004"
+
+[[person.meta.citation]]
+title = "California Death Index 1940-1997"
+
+[person.name]
+last = "Hollerson"
+use = "George"
+given = "George"
+
+[person.death]
+date = "1996-09-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Alameda"
+
+[person.sameas]
+ssn = "565-01-6220"
+

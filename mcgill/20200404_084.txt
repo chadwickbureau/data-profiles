@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200404_084"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-07-25"
+pages = "5"
+
+[person.name]
+last = "Drumm"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Portsmouth"
+team.league.name = "Tidewater League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

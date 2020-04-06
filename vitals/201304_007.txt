@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "201304_007"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-03-08"
+
+[person.name]
+last = "Owen"
+use = "Ronald"
+given = "Ronald L."
+
+[person.birth]
+date = "1933-05-19"
+

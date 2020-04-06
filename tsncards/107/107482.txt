@@ -1,0 +1,88 @@
+[[person]]
+
+[person.meta]
+key = "107482"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/107482"
+title = "The Sporting News Player Contract Cards, ScanID: 1025000121"
+
+[person.name]
+last = "Kotlik"
+given = "Norman Joseph"
+
+
+[[person.transaction]]
+date = "1952-09-29"
+type = "signed"
+join.name = "Bristol"
+note = "Bristol 1952-09-29"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Bristol"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-04-29"
+type = "voluntarily-retired"
+leave.name = "Bristol"
+note = "vol retired 1953-04-29"
+
+[[person.transaction]]
+date = "1953-09-22"
+type = "released"
+leave.name = "Bristol"
+join.name = "Brunswick"
+note = "rel to Brunswick 1953-09-22"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1954-12-09"
+type = "reinstated"
+join.name = "Brunswick"
+note = "reins 1954-12-09"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1955-04-12"
+type = "disqualified"
+leave.name = "Brunswick"
+note = "disqualified list 1955-04-12"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "reinstated"
+join.name = "Brunswick"
+note = "reins 1957-02-01"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Brunswick"
+note = "rel 1957-02-01"
+

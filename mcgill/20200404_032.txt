@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200404_032"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-15"
+pages = "12"
+
+[person.name]
+last = "Boyle"
+use = "Hennessy"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+

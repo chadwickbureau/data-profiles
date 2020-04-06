@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200404_082"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-07-22"
+pages = "5"
+
+[person.name]
+last = "Hayes"
+use = "Randolph"
+given = "Randolph"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Tidewater League"
+
+

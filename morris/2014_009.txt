@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "2014_009"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Chapels"
+date = "2014-12-27"
+url = "http://heritagefuneralchapels.tributes.com/show/Richard-Emil-Selgo-91594742"
+
+[person.name]
+last = "Selgo"
+use = "Dick"
+given = "Richard Emil"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-07-25"
+place.country = "US"
+place.state = "OH"
+place.city = "Port Clinton"
+
+[person.death]
+date = "2011-05-24"
+place.country = "US"
+place.state = "AZ"
+place.city = "Glendale"
+
+[[person.education]]
+school.name = "Port Clinton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Port Clinton"
+
+

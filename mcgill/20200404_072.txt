@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_072"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-22"
+pages = "5"
+
+[person.name]
+last = "Vail"
+use = "Bobby"
+given = "Bobby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Portsmouth"
+team.league.name = "Tidewater League"
+
+

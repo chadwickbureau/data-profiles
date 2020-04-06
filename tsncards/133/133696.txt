@@ -1,0 +1,100 @@
+[[person]]
+
+[person.meta]
+key = "133696"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/133696"
+title = "The Sporting News Player Contract Cards, ScanID: 1041005119"
+
+[person.name]
+last = "Smartt"
+given = "Reuben Robert"
+
+[person.description]
+position = "SS"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "160"
+
+[person.birth]
+date = "1928-07-22"
+place.country = "US"
+place.state = "TN"
+place.city = "Lafollette"
+
+[[person.resides]]
+place.address = "603 Jefferson S. E."
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[[person.education]]
+school.name = "Knoxville College"
+school.type = "college"
+degree = "B. S.""
+
+[[person.transaction]]
+date = "1952-11-22"
+type = "signed"
+join.name = "Dallas"
+note = "Dallas 1952-11-22"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Dallas"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-04-03"
+type = "released"
+leave.name = "Dallas"
+join.name = "Greenville (TX)"
+note = "rel to Greenville (TX) 1953-04-03"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Greenville (TX)"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1953-12-30"
+type = "released"
+leave.name = "Greenville (TX)"
+join.name = "Dallas"
+note = "rel to Dallas 1953-12-30"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Dallas"
+
+[[person.transaction]]
+date = "1954-03-20"
+type = "released"
+leave.name = "Dallas"
+join.name = "Artesia"
+note = "rel to Artesia 1954-03-20"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Artesia"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1955-04-27"
+type = "released"
+leave.name = "Artesia"
+join.name = "Tyler"
+note = "rel to Tyler 1955-04-27"
+
+[[person.transaction]]
+date = "1955-05-16"
+type = "temporarily-inactive"
+leave.name = "Tyler"
+note = "temp inactive list 1955-05-16"
+

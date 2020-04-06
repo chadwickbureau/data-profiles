@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_043"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-05-27"
+pages = "5"
+
+[person.name]
+last = "Isbell"
+use = "Albert"
+given = "Albert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Erie"
+team.league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200404_079"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-07-13"
+pages = "5"
+
+[person.name]
+last = "Mace"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Tidewater League"
+
+

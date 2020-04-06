@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200404_065"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-07"
+pages = "5"
+
+[person.name]
+last = "Hite"
+
+[[person.education]]
+school.name = "Randolph-Macon College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+description.position = "OF"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200404_056"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-09-16"
+pages = "2"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcmgill.vt@gmail.com"
+
+[person.name]
+last = "Bosk"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Utica"
+team.league.name = "New York State League"
+description.position = "P"
+description.throws = "R"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_022"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-05-17"
+pages = "5"
+
+[person.name]
+last = "Griffin"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Norfolk"
+team.league.name = "Tidewater League"
+
+

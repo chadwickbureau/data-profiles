@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "20200404_070"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-06-14"
+pages = "5"
+
+[person.name]
+last = "Moran"
+
+[[person.education]]
+school.name = "William & Mary"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Elizabeth City"
+team.league.name = "Tidewater League"
+description.position = "P"
+
+

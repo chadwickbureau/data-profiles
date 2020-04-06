@@ -1,0 +1,150 @@
+[[person]]
+
+[person.meta]
+key = "106097"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/106097"
+title = "The Sporting News Player Contract Cards, ScanID: 1025019552"
+
+[person.name]
+last = "Johnson"
+given = "James Edward"
+suffix = "Jr."
+
+[[person.resides]]
+place.address = "619 Moulton Street"
+place.country = "US"
+place.state = "AL"
+place.city = "Decatur"
+
+
+[[person.transaction]]
+date = "1947-04-03"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1947-04-03"
+
+[[person.transaction]]
+date = "1947-06-14"
+type = "optioned"
+leave.name = "Anniston"
+join.name = "Thibodeaux"
+note = "opt to Thibodeaux 1947-06-14"
+
+[[person.transaction]]
+date = "1947-09-03"
+type = "recalled"
+leave.name = "Thibodeaux"
+join.name = "Anniston"
+note = "opt recalled by Anniston 1947-09-03"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Anniston"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-05-12"
+type = "released"
+leave.name = "Anniston"
+join.name = "Alexandria"
+note = "rel to Alexandria 1948-05-12"
+
+[[person.transaction]]
+date = "1948-08-28"
+type = "released"
+leave.name = "Alexandria"
+join.name = "Shreveport"
+note = "rel to Shreveport 1948-08-28"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Shreveport"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-04"
+type = "released"
+leave.name = "Shreveport"
+join.name = "Alexandria"
+note = "rel to Alexandria 1949-04-04"
+
+[[person.transaction]]
+date = "1949-09-23"
+type = "released"
+leave.name = "Alexandria"
+join.name = "Greenville (TX)"
+note = "rel to Greenville (TX) 1949-09-23"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Greenville (TX)"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Greenville (TX)"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1950-12-27"
+type = "released"
+leave.name = "Greenville (TX)"
+join.name = "Corpus Christi"
+note = "rel to Corpus Christi 1950-12-27"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Corpus Christi"
+
+[[person.transaction]]
+date = "1951-05-01"
+type = "optioned"
+leave.name = "Corpus Christi"
+join.name = "Odessa"
+note = "opt to Odessa 1951-05-01"
+
+[[person.transaction]]
+date = "1951-09-26"
+type = "recalled"
+leave.name = "Odessa"
+join.name = "Corpus Christi"
+note = "rec by Corpus Christi 1951-09-26"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Corpus Christi"
+note = "res for 1952"
+
+[[person.transaction]]
+date = "1952-03-06"
+type = "released"
+leave.name = "Corpus Christi"
+join.name = "Alexandria"
+note = "rel to Alexandria 1952-03-06"
+
+[[person.transaction]]
+date = "1952-06-06"
+type = "disabled"
+leave.name = "Alexandria"
+note = "disabled list 1952-06-06"
+
+[[person.transaction]]
+date = "1952-06-26"
+type = "reinstated"
+join.name = "Alexandria"
+note = "reins 1952-06-26"
+
+[[person.transaction]]
+date = "1952-06-27"
+type = "released"
+leave.name = "Alexandria"
+note = "rel 1952-06-27"
+

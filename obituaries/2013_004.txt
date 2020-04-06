@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "2013_004"
+
+[[person.meta.citation]]
+title = "Orange County Register"
+date = "2013-02-05"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Witt"
+use = "George"
+given = "George"
+nick = "Red"
+
+[person.death]
+date = "2013-01-30"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

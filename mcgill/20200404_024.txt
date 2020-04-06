@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200404_024"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-03-25"
+pages = "6"
+
+[person.name]
+last = "Cummings"
+use = "Henry"
+given = "Henry"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "NJ"
+place.city = "Blackwood"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

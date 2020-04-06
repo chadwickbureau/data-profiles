@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_001"
+
+[[person.meta.citation]]
+title = "Pennsylvania Church and Town Records, 1708-1980"
+url = "http://search.ancestry.com/cgi-bin/sse.dll?db=pachurchtownrecords&h=2414315&ti=0&indiv=try&gss=pt&ssrc=pt_t48077126_p12848425544_kpidz0q3d12848425544z0q26pgz0q3d32768z0q26pgplz0q3dpid"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-04-16"
+
+[person.name]
+last = "Fox"
+use = "George"
+given = "George Bennerd"
+
+[person.birth]
+date = "1868-12-01"
+

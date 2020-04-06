@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_004"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Gurniak"
+use = "Don"
+given = "Don"
+
+[[person.education]]
+school.name = "Centennial HS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "BC"
+school.place.city = "Coquitlam"
+
+

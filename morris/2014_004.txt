@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2014_004"
+
+[[person.meta.citation]]
+title = "Las Vegas Review-Journal"
+date = "1999-07-22"
+
+[person.name]
+last = "Butcher"
+use = "Dick"
+given = "Richard D."
+nick = "Dandy Dick"
+
+[person.birth]
+date = "1928-10-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Modesto"
+
+[person.death]
+date = "1999-07-18"
+place.country = "US"
+place.state = "NV"
+place.city = "Las Vegas"
+
+[person.sameas]
+ssn = "568-22-6116"
+

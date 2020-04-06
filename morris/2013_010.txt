@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "2013_010"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+
+[person.name]
+last = "Russell"
+use = "Pat"
+given = "Pat D."
+
+[person.death]
+date = "1987-09-15"
+
+[person.sameas]
+ssn = "084-42-2796"
+

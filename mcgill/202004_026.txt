@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "202004_026"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-03-25"
+pages = "12"
+
+[person.name]
+last = "Dell"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Green Bay"
+team.league.name = "Wisconsin-Illinois League"
+
+

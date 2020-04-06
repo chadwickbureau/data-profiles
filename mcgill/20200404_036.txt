@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_036"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-15"
+pages = "14"
+
+[person.name]
+last = "Patterson"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

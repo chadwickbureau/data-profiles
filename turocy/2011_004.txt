@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2011_004"
+
+[[person.meta.citation]]
+title = "Camden Riversharks"
+
+[person.name]
+last = "Gearhart"
+use = "Kalen"
+given = "Kalen"
+
+[person.birth]
+date = "1985-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Huntington"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "74"
+weight = "210"
+position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "2011"
+team.name = "Camden"
+team.league.name = "Atlantic League"
+
+

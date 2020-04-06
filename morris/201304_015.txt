@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "201304_015"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Liebeck"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1950-05-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+

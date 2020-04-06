@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "2014_001"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1999-03-05"
+
+[person.name]
+last = "Ulrich"
+use = "Marvin"
+given = "Marvin H."
+
+[person.birth]
+date = "1913-10-28"
+
+[person.death]
+date = "1999-03-02"
+place.country = "US"
+place.state = "TN"
+place.city = "Norris Lake"
+
+[person.burial]
+cemetery.name = "Twin Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Gratis"
+
+[person.sameas]
+ssn = "246-10-3059"
+findagrave = "24702279"
+
+[[person.education]]
+school.name = "The Ohio State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+dates = "1943-07-23/1944-07-97"
+
+

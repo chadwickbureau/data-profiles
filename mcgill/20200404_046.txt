@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_046"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-03"
+pages = "20"
+
+[person.name]
+last = "Stafford"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Elizabeth City"
+team.league.name = "Tidewater League"
+
+

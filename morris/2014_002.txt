@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "2014_002"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1999-04-15"
+
+[person.name]
+last = "Lee"
+use = "Charles"
+given = "Charles Raymond"
+
+[person.birth]
+date = "1924-08-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Bogata"
+
+[person.death]
+date = "1999-04-12"
+place.country = "US"
+place.state = "TX"
+place.city = "East Tawakoni"
+
+[person.burial]
+cemetery.name = "Restland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[person.sameas]
+ssn = "460-22-7278"
+
+[[person.education]]
+school.name = "Woodrow Wilson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Texas A&M University-Commerce"
+school.type = "college"
+
+

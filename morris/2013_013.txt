@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_013"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Birnuas"
+use = "Al"
+given = "Al B."
+
+[person.birth]
+date = "1933-06-30"
+

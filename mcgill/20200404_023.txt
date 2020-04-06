@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200404_023"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-05-20"
+pages = "5"
+
+[person.name]
+last = "Colburne"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+
+[[person.transaction]]
+date = "1911-05-19"
+type = "released"
+leave.name = "Newport News"
+leave.league.name = "Tidewater"
+join.name = "Suffolk"
+join.league.name = "Tidewater"
+
+

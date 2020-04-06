@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_011"
+
+[[person.meta.citation]]
+title = "U.S. Cemetery and Funeral Home Collection, Ancestry.com"
+
+[person.name]
+last = "Barbary"
+use = "Eddie"
+given = "Eddie B."
+
+[person.birth]
+date = "1945-01-25"
+

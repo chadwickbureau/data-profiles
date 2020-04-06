@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_009"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Ostwalt"
+use = "Charles"
+given = "Charles B."
+
+[person.death]
+date = "1924-11-28"
+

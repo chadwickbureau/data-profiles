@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_009"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Bonk"
+use = "Lenny"
+given = "Lenny"
+
+[[person.education]]
+school.name = "St. Mary Catholic Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Monroe"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "2011_002"
+
+[[person.meta.citation]]
+title = "Camden Riversharks"
+
+[person.name]
+last = "Rollins"
+use = "Chris"
+given = "Chris"
+
+[person.birth]
+date = "1986-09-16"
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "76"
+weight = "225"
+position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "2011"
+team.name = "Camden"
+team.league.name = "Atlantic League"
+
+

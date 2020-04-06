@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "201304_011"
+
+[[person.meta.citation]]
+title = "Guerra & Gutierrez Mortuary"
+date = "2013-03-08"
+url = "http://www.guerragutierrez.com/sitemaker/memsol.cgi?user_id=744662"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+
+[person.name]
+last = "Valenzuela"
+use = "Ramon"
+given = "Ramon Chacon"
+
+[person.birth]
+date = "1952-01-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2010-02-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Whittier"
+

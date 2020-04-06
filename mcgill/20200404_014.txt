@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_014"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-05-03"
+pages = "7"
+
+[person.name]
+last = "Clark"
+use = "Wynn"
+given = "Wynn"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Portsmouth"
+team.league.name = "Tidewater League"
+
+

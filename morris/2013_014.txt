@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_014"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Bost"
+use = "Bob"
+given = "Bob B."
+
+[person.birth]
+date = "1946-11-24"
+

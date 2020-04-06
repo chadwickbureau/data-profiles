@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_015"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-05-03"
+pages = "7"
+
+[person.name]
+last = "Schmidt"
+use = "Otto"
+given = "Otto"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

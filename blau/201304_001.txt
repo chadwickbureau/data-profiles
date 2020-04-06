@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "201304_001"
+
+[[person.meta.citation]]
+title = "American Association Almanac, Vol. 10, No. 2"
+
+[person.name]
+last = "Cutting"
+use = "Ralph"
+given = "Ralph"
+
+[person.description]
+throws = "L"
+

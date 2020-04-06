@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_007"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Plant"
+use = "Walter"
+given = "Walter B."
+
+[person.death]
+date = "1921-05-22"
+

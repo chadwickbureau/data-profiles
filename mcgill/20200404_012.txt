@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200404_012"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-23"
+pages = "5"
+
+[person.name]
+last = "Quinn"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+description.position = "P"
+description.throws = "L"
+
+

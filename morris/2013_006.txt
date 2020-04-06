@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_006"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Francoline"
+use = "Jimmy"
+given = "Jimmy B."
+
+[person.death]
+date = "1917-10-31"
+

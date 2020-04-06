@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "201304_001"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Elias"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1938-06-14"
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+
+[[person.education]]
+school.name = "Westhill HS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "QC"
+school.place.city = "Montreal"
+
+[[person.education]]
+school.name = "Pasadena City College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Michigan State"
+school.type = "college"
+
+[[person.education]]
+school.name = "Springfield"
+school.type = "college"
+
+

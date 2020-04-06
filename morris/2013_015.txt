@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_015"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Buchanan"
+use = "Bob"
+given = "Bob B."
+
+[person.birth]
+date = "1947-06-16"
+

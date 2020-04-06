@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "20200404_030"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-08"
+pages = "9"
+
+[person.name]
+last = "Neuschafer"
+use = "Archie"
+given = "Archie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Dayton"
+team.league.name = "Central League"
+description.position = "P"
+description.throws = "R"
+
+

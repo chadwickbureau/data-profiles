@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "139710"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/139710"
+title = "The Sporting News Player Contract Cards, ScanID: 1030006777"
+
+[person.name]
+last = "Millie"
+given = "Raymond F."
+
+
+[[person.transaction]]
+date = "1948-01-06"
+type = "signed"
+join.name = "Great Falls"
+note = "Great Falls 1948-01-06"
+
+[[person.transaction]]
+date = "1948-04-20"
+type = "optioned"
+leave.name = "Great Falls"
+join.name = "El Centro"
+note = "opt to El Centro 1948-04-20"
+
+[[person.transaction]]
+date = "1948-05-22"
+type = "option-returned"
+leave.name = "El Centro"
+join.name = "Great Falls"
+note = "opt ret to Great Falls 1948-05-22"
+
+[[person.transaction]]
+date = "1948-05-23"
+type = "released"
+leave.name = "Great Falls"
+note = "rel 1948-05-23"
+
+[[person.transaction]]
+date = "1948-05-26"
+type = "signed"
+join.name = "Anaheim"
+note = "Anaheim 1948-05-26"
+
+[[person.transaction]]
+date = "1948-06-09"
+type = "released"
+leave.name = "Anaheim"
+note = "rel 1948-06-09"
+
+[[person.transaction]]
+date = "1948-09-22"
+type = "signed"
+join.name = "Bakersfield"
+note = "Bakersfield 1948-09-22"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Bakersfield"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-07"
+type = "released"
+leave.name = "Bakersfield"
+note = "rel 1949-04-07"
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200404_025"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-03-25"
+pages = "9"
+
+[person.name]
+last = "Harris"
+use = "Joseph"
+given = "Joseph S."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+
+

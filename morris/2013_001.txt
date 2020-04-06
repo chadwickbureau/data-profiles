@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "2013_001"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+
+[person.name]
+last = "Mackasey"
+use = "Blair"
+given = "Blair"
+
+[person.birth]
+date = "1955-12-13"
+place.country = "CA"
+place.state = "ON"
+place.city = "Hamilton"
+
+[person.sameas]
+sr_nhl = "mackabl01"
+

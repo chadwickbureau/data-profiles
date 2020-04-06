@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_017"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Coakley"
+use = "John"
+given = "John B."
+
+[person.birth]
+date = "1925-07-11"
+

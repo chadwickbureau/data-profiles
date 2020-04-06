@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "202004_110"
+
+[[person.meta.citation]]
+title = "Matarese Funeral Home"
+date = "2020-04-05"
+url = "https://www.mataresefuneral.com/obituary/franklin-freeman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Freeman"
+use = "Franklin"
+given = "Franklin"
+nick = "Fritz"
+
+[person.birth]
+date = "1929-05-31"
+
+[person.death]
+date = "2020-03-19"
+
+[[person.education]]
+school.name = "The Governor's Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Newbury"
+
+

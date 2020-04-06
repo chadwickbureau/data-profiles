@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "20200404_038"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-22"
+pages = "13"
+
+[person.name]
+last = "Greer"
+use = "James"
+given = "James J."
+
+[[person.education]]
+school.name = "Catholic University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "DC"
+school.place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Norfolk"
+team.league.name = "Tidewater League"
+description.position = "P"
+description.throws = "L"
+description.height = "72"
+
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "20200404_020"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-05-11"
+pages = "5"
+
+[person.name]
+last = "Barry"
+use = "Count"
+given = "John"
+
+[person.description]
+note = [ "Not a brother of teammate Grove Barry. Story about John's mother being ill and him going to NY doesn't mention Grove." ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newport News"
+team.league.name = "Tidewater League"
+
+

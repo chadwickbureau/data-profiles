@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "2013_005"
+
+[[person.meta.citation]]
+title = "Cook County IL Death Index"
+
+[person.name]
+last = "Bedore"
+use = "Frederick"
+given = "Frederick D."
+
+[person.death]
+date = "1983-02-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Cook County"
+

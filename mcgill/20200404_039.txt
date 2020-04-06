@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "20200404_039"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-04-29"
+pages = "20"
+
+[person.name]
+last = "Wilson"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "New Castle"
+team.league.name = "Ohio-Pennsylvania League"
+
+

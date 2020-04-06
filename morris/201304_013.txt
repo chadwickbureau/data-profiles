@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "201304_013"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Todd"
+use = "Stanley"
+given = "Stanley"
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Lonoke"
+
+[[person.education]]
+school.name = "Lonoke HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Lonoke"
+
+

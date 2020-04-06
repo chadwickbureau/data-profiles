@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "20200404_013"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-25"
+pages = "8"
+
+[person.name]
+last = "Land"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Old Point"
+team.league.name = "Tidewater League"
+
+
+[[person.transaction]]
+date = "1911-04-24"
+type = "purchased"
+leave.name = "Newport News"
+leave.league.name = "Tidewater"
+join.name = "Old Point"
+join.league.name = "Tidewater"
+
+

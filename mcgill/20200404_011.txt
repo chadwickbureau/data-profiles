@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_011"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-22"
+pages = "6"
+
+[person.name]
+last = "Boyce"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Old Point"
+team.league.name = "Tidewater League"
+description.position = "P"
+description.throws = "L"
+
+

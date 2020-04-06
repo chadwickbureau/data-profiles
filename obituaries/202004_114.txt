@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_114"
+
+[[person.meta.citation]]
+title = "Doherty Funeral Homes"
+date = "2020-04-05"
+url = "https://www.dohertyfh.com/obituary/James-Johnson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-05"
+
+[person.name]
+last = "Johnson"
+use = "James"
+given = "James E."
+
+[person.birth]
+date = "1927-10-09"
+
+[person.death]
+date = "2018-05-01"
+
+[person.burial]
+cemetery.name = "Delaware Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "DE"
+cemetery.place.city = "Bear"
+
+[[person.education]]
+school.name = "Archmere Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Claymont"
+
+[[person.education]]
+school.name = "Villanova University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

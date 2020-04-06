@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "20200404_053"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-17"
+pages = "7"
+
+[person.name]
+last = "Mullaney"
+use = "Dominick"
+given = "Dominick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Suffolk"
+team.league.name = "Tidewater League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Suffolk"
+team.league.name = "Tidewater League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Yazoo City"
+team.league.name = "Cotton States League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_008"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Viney"
+use = "Sam"
+given = "Sam"
+
+[[person.education]]
+school.name = "Edison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Stockton"
+
+

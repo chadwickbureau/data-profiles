@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "2016_001"
+
+[[person.meta.citation]]
+title = "lakeeriecrushers.com"
+
+[person.name]
+last = "Costantino"
+use = "Brendan"
+given = "Brendan"
+
+[person.birth]
+date = "1991-03-03"
+
+[person.description]
+position = "IF"
+bats = "R"
+throws = "R"
+height = "69"
+weight = "180"
+
+[[person.resides]]
+dates = "2016"
+place.country = "US"
+place.state = "PA"
+place.city = "Monongahela"
+
+

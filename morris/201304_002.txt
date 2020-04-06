@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "201304_002"
+
+[[person.meta.contributor]]
+name.last = "Usereau"
+name.use = "Alain"
+email = "althetiger@hotmail.com"
+
+[person.name]
+last = "Pregon"
+use = "David"
+given = "David"
+
+[[person.education]]
+school.name = "St. John Vianney HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Kirkwood"
+
+

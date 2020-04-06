@@ -1,0 +1,16 @@
+[[person]]
+
+[person.meta]
+key = "2013_012"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[person.name]
+last = "Barrett"
+use = "Rollie"
+given = "Rollie B."
+
+[person.birth]
+date = "1927-02-20"
+

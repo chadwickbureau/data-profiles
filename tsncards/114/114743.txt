@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "114743"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/114743"
+title = "The Sporting News Player Contract Cards, ScanID: 1022006227"
+
+[person.name]
+last = "Johnson"
+given = "J. Edward"
+
+
+[[person.transaction]]
+date = "1944-05"
+type = "signed"
+join.name = "Portsmouth (VA)"
+note = "Portsmouth (VA) 1944-05"
+
+[[person.transaction]]
+date = "1944-06"
+type = "released"
+leave.name = "Portsmouth (VA)"
+note = "rel 1944-06"
+

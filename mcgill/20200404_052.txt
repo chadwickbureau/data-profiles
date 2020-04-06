@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "20200404_052"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-06-17"
+pages = "7"
+
+[person.name]
+last = "Meyers"
+use = "Tex"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+

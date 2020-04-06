@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200404_041"
+
+[[person.meta.citation]]
+title = "Sporting Life"
+date = "1911-05-06"
+pages = "19"
+
+[person.name]
+last = "Flournoy"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+
+
