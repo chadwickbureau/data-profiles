@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_135"
+
+[[person.meta.citation]]
+title = "Orange County Register"
+date = "2020-04-10"
+url = "https://obits.ocregister.com/obituaries/orangecounty/obituary.aspx?n=ewing-thurman-turner&pid=195929101"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Turner"
+use = "Ewing"
+given = "Ewing Thurman"
+
+[person.birth]
+date = "1929-06-28"
+place.country = "US"
+place.state = "MO"
+place.city = "West Plains"
+
+[person.death]
+date = "2020-04-01"
+place.country = "US"
+place.state = "AZ"
+place.city = "Scottsdale"
+
+[person.burial]
+cemetery.name = "Holy Redeemer Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AZ"
+cemetery.place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Long Beach Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

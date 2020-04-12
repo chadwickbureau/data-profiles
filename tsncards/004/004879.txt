@@ -1,0 +1,116 @@
+[[person]]
+
+[person.meta]
+key = "4879"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/4879"
+title = "The Sporting News Player Contract Cards, ScanID: 1025007953"
+
+[person.name]
+last = "Barbolla"
+given = "Roldan"
+
+[person.description]
+ancestry = "Spanish-Mexican"
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "195"
+married = "no"
+
+[person.birth]
+date = "1928-09-12"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[[person.resides]]
+place.address = "1408 N. Commerce Street"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+
+[[person.transaction]]
+date = "1945-06"
+type = "signed"
+join.name = "Leaksville"
+note = "Leaksville 1945-06"
+
+[[person.transaction]]
+date = "1945-07"
+type = "released"
+leave.name = "Leaksville"
+join.name = "Elizabethton"
+note = "rel to Elizabethton 1945-07"
+
+[[person.transaction]]
+date = "1946"
+type = "reserved"
+join.name = "Elizabethton"
+
+[[person.transaction]]
+date = "1946-05"
+type = "temporarily-inactive"
+leave.name = "Elizabethton"
+note = "temp inactive 1946-05"
+
+[[person.transaction]]
+date = "1946-06"
+type = "reinstated"
+join.name = "Elizabethton"
+note = "rein 1946-06"
+
+[[person.transaction]]
+date = "1946-06"
+type = "optioned"
+leave.name = "Elizabethton"
+join.name = "Statesville"
+note = "opt to Statesville 1946-06"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Statesville"
+join.name = "Iola"
+note = "rel to Iola 1946-07"
+
+[[person.transaction]]
+date = "1946-08"
+type = "released"
+leave.name = "Iola"
+note = "rel 1946-08"
+
+[[person.transaction]]
+date = "1947-06-24"
+type = "signed"
+join.name = "Abilene"
+note = "Abilene 1947-06-24"
+
+[[person.transaction]]
+date = "1947-07-25"
+type = "released"
+leave.name = "Abilene"
+note = "rel 1947-07-25"
+
+[[person.transaction]]
+date = "1950-03-21"
+type = "signed"
+join.name = "Fayetteville (NC)"
+note = "Fayetteville (NC) 1950-03-21"
+
+[[person.transaction]]
+date = "1950-04-25"
+type = "optioned"
+leave.name = "Fayetteville (NC)"
+join.name = "Mahanoy City"
+note = "opt to Mahanoy City 1950-04-25"
+
+[[person.transaction]]
+date = "1950-05-23"
+type = "released"
+leave.name = "Mahanoy City"
+note = "rel 1950-05-23"
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "202004_116"
+
+[[person.meta.citation]]
+title = "Longfellow-Finnegan Riddle Funeral Home"
+date = "2020-04-06"
+url = "https://www.longfellowfinneganriddle.com/obituaries/William-Elbert/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-06"
+
+[person.name]
+last = "Elbert"
+use = "Bill"
+given = "William Moyer"
+nick = "Doc"
+
+[person.birth]
+date = "1923-05-03"
+place.country = "US"
+place.state = "MT"
+place.city = "Miles City"
+
+[person.death]
+date = "2020-03-28"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+[[person.education]]
+school.name = "Custer County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MT"
+school.place.city = "Miles City"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

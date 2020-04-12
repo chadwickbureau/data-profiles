@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "20200409_001"
+
+[[person.meta.citation]]
+title = "Plainfield (NJ) Courier-News"
+date = "1913-06-06"
+pages = "7"
+
+[person.name]
+last = "Mullin"
+use = "Tommy"
+given = "Tommy"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NJ"
+place.city = "Plainfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Brunswick"
+team.league.name = "Empire State League"
+
+

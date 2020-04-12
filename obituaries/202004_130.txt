@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "202004_130"
+
+[[person.meta.citation]]
+title = "The Mainichi"
+date = "2020-04-09"
+url = "https://mainichi.jp/english/articles/20200409/p2g/00m/0sp/097000c"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Sekine"
+use = "Junzo"
+given = "Junzo"
+
+[person.death]
+date = "2020-04-09"
+place.country = "JP"
+place.city = "Tokyo"
+

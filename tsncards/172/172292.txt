@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "172292"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/172292"
+title = "The Sporting News Player Contract Cards, ScanID: 1034001187"
+
+[person.name]
+last = "Pacewicz"
+given = "Peter Paul"
+
+
+[[person.transaction]]
+date = "1950-03-01"
+type = "signed"
+join.name = "Landis"
+note = "Landis 1950-03-01"
+
+[[person.transaction]]
+date = "1950-05-07"
+type = "optioned"
+leave.name = "Landis"
+join.name = "Morganton"
+note = "opt to Morganton 1950-05-07"
+
+[[person.transaction]]
+date = "1950-05-17"
+type = "option-returned"
+leave.name = "Morganton"
+join.name = "Landis"
+note = "opt ret to Landis 1950-05-17"
+
+[[person.transaction]]
+date = "1950-05-17"
+type = "optioned"
+leave.name = "Landis"
+join.name = "Narrows"
+note = "opt to Narrows 1950-05-17"
+
+[[person.transaction]]
+date = "1950-05-27"
+type = "released"
+leave.name = "Narrows"
+join.name = "Landis"
+note = "rel to Landis 1950-05-27"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Landis"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-03-29"
+type = "restricted"
+leave.name = "Landis"
+note = "restricted list 1951-03-29"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Landis"
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202004_141"
+
+[[person.meta.citation]]
+title = "Holle Family Funeral Home"
+date = "2020-04-11"
+url = "https://jacobhollefuneralhome.com/tribute/details/9885/Robert-Pearson/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-11"
+
+[person.name]
+last = "Pearson"
+use = "Bob"
+given = "Robert Fulton"
+
+[person.birth]
+date = "1928-01-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "2020-04-07"
+place.country = "US"
+place.state = "NJ"
+place.city = "Millburn"
+
+[[person.education]]
+school.name = "Millburn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Millburn"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "21132"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/21132"
+title = "The Sporting News Player Contract Cards, ScanID: 1006005930"
+
+[person.name]
+last = "Buseman"
+given = "Andrew Duane"
+
+
+[[person.transaction]]
+date = "1951-10-04"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1951-10-04"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Pine Bluff"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-04-09"
+type = "released"
+leave.name = "Pine Bluff"
+note = "rel 1952-04-09"
+

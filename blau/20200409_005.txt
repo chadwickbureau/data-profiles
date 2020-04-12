@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200409_005"
+
+[[person.meta.citation]]
+title = "Beating The Bushes"
+date = "2020-04"
+pages = "12"
+
+[person.name]
+last = "Bannwart"
+use = "Alexander"
+given = "Alexander William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Lowell"
+team.league.name = "New England League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "56402"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/56402"
+title = "The Sporting News Player Contract Cards, ScanID: 1013002167"
+
+[person.name]
+last = "Eckels"
+given = "Carl L."
+
+
+[[person.transaction]]
+date = "1947-02-17"
+type = "signed"
+join.name = "Easton"
+note = "Easton 1947-02-17"
+
+[[person.transaction]]
+date = "1947-05-01"
+type = "released"
+leave.name = "Easton"
+note = "rel 1947-05-01"
+

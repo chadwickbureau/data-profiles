@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "202004_121"
+
+[[person.meta.citation]]
+title = "Redman-Schwartz Funeral Home"
+date = "2020-04-07"
+url = "https://www.redman-schwartz.com/obituary/andrew-buseman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "Buseman"
+use = "Andy"
+given = "Andrew Duane"
+
+[person.birth]
+date = "1931-02-12"
+place.country = "US"
+place.state = "IA"
+place.city = "Aplington"
+
+[person.death]
+date = "2018-04-28"
+place.country = "US"
+place.state = "IA"
+place.city = "Allison"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Parkersburg"
+
+[[person.education]]
+school.name = "Dumont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Dumont"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

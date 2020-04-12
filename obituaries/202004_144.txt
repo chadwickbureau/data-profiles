@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "202004_144"
+
+[[person.meta.citation]]
+title = "Santa Barbara News-Press"
+date = "2020-04-10"
+url = "https://newspress.com/mike-tresemer-ucsb-baseball-great-and-former-kansas-city-royals-farmhand-dies-at-57/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-11"
+
+[person.name]
+last = "Tresemer"
+use = "Mike"
+given = "Mike"
+nick = "Tree"
+
+[person.death]
+date = "2020-04-06"
+
+[[person.education]]
+school.name = "University of California, Santa Barbara"
+school.type = "college"
+
+

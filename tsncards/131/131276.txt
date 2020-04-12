@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "131276"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131276"
+title = "The Sporting News Player Contract Cards, ScanID: 1041000925"
+
+[person.name]
+last = "Shirkey"
+given = "Glenn"
+
+
+[[person.transaction]]
+date = "1948-10-22"
+type = "signed"
+join.name = "Ada"
+note = "Ada 1948-10-22"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Ada"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1949-04-11"
+type = "released"
+leave.name = "Ada"
+note = "rel 1949-04-11"
+

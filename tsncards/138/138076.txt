@@ -1,0 +1,99 @@
+[[person]]
+
+[person.meta]
+key = "138076"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/138076"
+title = "The Sporting News Player Contract Cards, ScanID: 1099024642"
+
+[person.name]
+last = "Stockellburg"
+given = "Allan Paul"
+
+[person.description]
+ancestry = "Swedish"
+bats = "S"
+throws = "R"
+height = "70.5"
+weight = "155"
+
+[person.birth]
+date = "1935-04-17"
+place.country = "US"
+place.state = "MA"
+place.city = "West Medford"
+
+[[person.resides]]
+place.address = "Bedford Road"
+place.country = "US"
+place.state = "MA"
+place.city = "Lincoln"
+
+
+[[person.transaction]]
+date = "1953-10-09"
+type = "signed"
+join.name = "Quebec"
+note = "Quebec 1953-10-09"
+
+[[person.transaction]]
+date = "1953-10-19"
+type = "national-defense-list"
+leave.name = "Quebec"
+note = "Nat Defense list 1953-10-19"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Quebec"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Quebec"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Quebec"
+
+[[person.transaction]]
+date = "1956-04-24"
+type = "released"
+leave.name = "Quebec"
+join.name = "Eau Claire"
+note = "rel to Eau Claire 1956-04-24"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Eau Claire"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Eau Claire"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Eau Claire"
+
+[[person.transaction]]
+date = "1960"
+type = "reserved"
+join.name = "Eau Claire"
+
+[[person.transaction]]
+date = "1960-06-22"
+type = "reinstated"
+join.name = "Eau Claire"
+note = "rein NDS list 1960-06-22"
+
+[[person.transaction]]
+date = "1960-06-22"
+type = "released"
+leave.name = "Eau Claire"
+note = "rel 1960-06-22"
+

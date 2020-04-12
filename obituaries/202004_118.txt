@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "202004_118"
+
+[[person.meta.citation]]
+title = "Detroit Free Press"
+date = "2020-04-06"
+url = "https://www.freep.com/story/sports/mlb/tigers/2020/04/06/al-kaline-dies-detroit-tigers/505371001/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "Kaline"
+use = "Al"
+given = "Albert William"
+
+[person.birth]
+date = "1934-12-19"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2020-04-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Bloomfield Hills"
+

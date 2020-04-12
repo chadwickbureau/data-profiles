@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "202004_123"
+
+[[person.meta.citation]]
+title = "Lane Family Funeral Homes"
+date = "2020-04-07"
+url = "https://www.lanefuneralhomes.com/obituaries/Teddy-Vestal?obId=4480652#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "Vestal"
+use = "Teddy"
+given = "Ted"
+
+[person.birth]
+date = "1930-03-31"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2018-04-17"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Youngstown"
+
+[[person.education]]
+school.name = "Los Angeles City College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

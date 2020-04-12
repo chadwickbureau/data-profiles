@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "22948"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22948"
+title = "The Sporting News Player Contract Cards, ScanID: 1005003820"
+
+[person.name]
+last = "Brault"
+given = "Jerome J."
+
+[[person.resides]]
+place.address = "3541 Acushnet Avenue"
+place.country = "US"
+place.state = "MA"
+place.city = "New Bedford"
+
+
+[[person.transaction]]
+date = "1944-08"
+type = "signed"
+join.name = "Middletown"
+note = "Middletown 1944-08"
+
+[[person.transaction]]
+date = "1945"
+type = "reserved"
+join.name = "Middletown"
+note = "for 1945"
+
+[[person.transaction]]
+date = "1945-03"
+type = "released"
+leave.name = "Middletown"
+note = "free agent 1945-03"
+
+[[person.transaction]]
+date = "1945-03"
+type = "signed"
+join.name = "Durham"
+note = "Durham 1945-03"
+
+[[person.transaction]]
+date = "1945-06"
+type = "temporarily-inactive"
+leave.name = "Durham"
+note = "temp inactive 1945-06"
+
+[[person.transaction]]
+date = "1945-07"
+type = "reinstated"
+join.name = "Durham"
+note = "rein 1945-07"
+
+[[person.transaction]]
+date = "1945-07"
+type = "voluntarily-retired"
+leave.name = "Durham"
+note = "vol ret 1945-07"
+
+[[person.transaction]]
+date = "1946"
+type = "reserved"
+join.name = "Durham"
+

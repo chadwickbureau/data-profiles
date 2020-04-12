@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "24087"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/24087"
+title = "The Sporting News Player Contract Cards, ScanID: 1008001304"
+
+[person.name]
+last = "Cazalot"
+given = "Peter Gilbert"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1952-03-14"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross 1952-03-14"
+
+[[person.transaction]]
+date = "1952-04-11"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1952-04-11"
+

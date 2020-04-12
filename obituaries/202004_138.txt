@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "202004_138"
+
+[[person.meta.citation]]
+title = "Heritage Funeral Home"
+date = "2020-04-10"
+url = "https://www.suffieldfuneralhome.com/book-of-memories/3459044/pacewicz-paul/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Pacewicz"
+use = "Paul"
+given = "Paul Peter"
+
+[person.birth]
+date = "1928-06-29"
+place.country = "US"
+place.state = "CT"
+place.city = "Suffield"
+
+[person.death]
+date = "2018-03-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Suffield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Suffield"
+
+

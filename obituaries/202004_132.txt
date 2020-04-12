@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_132"
+
+[[person.meta.citation]]
+title = "Ritchay Funeral Home"
+date = "2020-04-09"
+url = "https://www.ritchayfuneralhome.com/obituaries/William-W-Habeck?obId=4284614#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Habeck"
+use = "Bill"
+given = "William W."
+
+[person.birth]
+date = "1929-12-17"
+place.country = "US"
+place.state = "WI"
+place.city = "Wisconsin Rapids"
+
+[person.death]
+date = "2018-03-31"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Wisconsin Rapids"
+
+[person.description]
+throws = "L"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

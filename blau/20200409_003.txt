@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "20200409_003"
+
+[[person.meta.citation]]
+title = "Winston-Salem Twin-City Daily Sentinel"
+date = "1915-05-29"
+pages = "9"
+
+[person.name]
+last = "Parkins"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+

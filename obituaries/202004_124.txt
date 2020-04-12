@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "202004_124"
+
+[[person.meta.citation]]
+title = "Roller Funeral Homes"
+date = "2020-04-07"
+url = "https://www.rollerfuneralhomes.com/services.asp?locid=6&page=odetail&id=48459"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "Bloom"
+use = "Gene"
+given = "Chester E."
+
+[person.birth]
+date = "1927-07-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Clearfield"
+
+[person.death]
+date = "2018-04-19"
+place.country = "US"
+place.state = "AR"
+place.city = "Conway"
+
+[[person.education]]
+school.name = "Curwensville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Curwensville"
+
+[[person.education]]
+school.name = "Indiana University of Pennsylvania"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

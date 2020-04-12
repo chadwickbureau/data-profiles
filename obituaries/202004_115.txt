@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_115"
+
+[[person.meta.citation]]
+title = "Stallings Funeral Home"
+date = "2020-04-06"
+url = "https://www.stallingsfh.com/obituary/William-Covahey"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-06"
+
+[person.name]
+last = "Covahey"
+use = "William"
+given = "William L."
+
+[person.birth]
+date = "1927-12-06"
+place.country = "US"
+place.state = "MD"
+place.city = "Cockeysville"
+
+[person.death]
+date = "2020-03-15"
+place.country = "US"
+place.state = "MD"
+place.city = "Glen Burnie"
+
+[person.burial]
+cemetery.name = "Glen Haven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Glen Burnie"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

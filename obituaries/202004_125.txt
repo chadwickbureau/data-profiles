@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "202004_125"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2018-04-19"
+url = "https://www.legacy.com/obituaries/charlotte/obituary.aspx?n=glen-elwood-shirkey-nick&pid=188779302&fhid=4564"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-08"
+
+[person.name]
+last = "Sharkey"
+use = "Glen"
+given = "Glen Elwood"
+nick = "Nick"
+
+[person.birth]
+date = "1929-08-31"
+place.country = "US"
+place.state = "VA"
+place.city = "Rockingham County"
+
+[person.death]
+date = "2018"
+
+[[person.education]]
+school.name = "Robert E. Lee HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Staunton"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

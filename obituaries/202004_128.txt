@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202004_128"
+
+[[person.meta.citation]]
+title = "Bring's Broadway Chapel"
+date = "2020-04-08"
+url = "https://bringfuneralhome.com/tribute/details/70177/Allan-Stockellburg/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-08"
+
+[person.name]
+last = "Stockellburg"
+use = "Allan"
+given = "Allan Paul"
+
+[person.death]
+date = "2018-03-31"
+
+[person.burial]
+cemetery.name = "Arizona Veterans' Memorial Cemetery Marana"
+cemetery.place.country = "US"
+cemetery.place.state = "AZ"
+cemetery.place.city = "Marana"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

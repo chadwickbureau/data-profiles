@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "202004_129"
+
+[[person.meta.citation]]
+title = "Barranco Severna Park Funeral Home"
+date = "2020-04-09"
+url = "https://www.barrancofuneralhome.com/obituary/carl-eckels"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Eckels"
+use = "Carl"
+given = "Carl Louis"
+
+[person.birth]
+date = "1927-01-17"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2018-04-02"
+place.country = "US"
+place.state = "MD"
+place.city = "Severna Park"
+
+[person.burial]
+cemetery.name = "Baltimore National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Catonsville"
+
+[[person.education]]
+school.name = "Baltimore City College HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+[[person.education]]
+school.name = "Loyola University in Maryland"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

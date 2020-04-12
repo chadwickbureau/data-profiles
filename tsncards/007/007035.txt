@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "7035"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7035"
+title = "The Sporting News Player Contract Cards, ScanID: 1003001854"
+
+[person.name]
+last = "Barylski"
+given = "Frank J."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-08-19"
+type = "signed"
+join.name = "Schenectady"
+note = "Schenectady 1948-08-19"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Schenectady"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-05-07"
+type = "optioned"
+leave.name = "Schenectady"
+join.name = "Seaford"
+note = "opt to Seaford 1949-05-07"
+
+[[person.transaction]]
+date = "1949-06-08"
+type = "disabled"
+leave.name = "Seaford"
+note = "disabled list 1949-06-08"
+
+[[person.transaction]]
+date = "1949-06-15"
+type = "reinstated"
+join.name = "Seaford"
+note = "rein 1949-06-15"
+
+[[person.transaction]]
+date = "1949-06-15"
+type = "released"
+leave.name = "Seaford"
+note = "rel 1949-06-15"
+

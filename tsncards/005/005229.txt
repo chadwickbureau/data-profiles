@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "5229"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/5229"
+title = "The Sporting News Player Contract Cards, ScanID: 1004004726"
+
+[person.name]
+last = "Bloom"
+given = "Chester Eugene"
+
+
+[[person.transaction]]
+date = "1947-01-13"
+type = "signed"
+join.name = "Easton"
+note = "Easton 1947-01-13"
+

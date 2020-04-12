@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "202004_133"
+
+[[person.meta.citation]]
+title = "Shepherd Funeral Home"
+date = "2020-04-09"
+url = "https://shepherdfuneralhome.com/tribute/details/5589/Dr-Jerome-J-Brault/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Brault"
+use = "Jerry"
+given = "Jerome J."
+
+[person.birth]
+date = "1927-07-24"
+
+[person.death]
+date = "2018-03-31"
+
+[person.burial]
+cemetery.name = "Massachusetts National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Bourne"
+
+[[person.education]]
+school.name = "New Bedford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "New Bedford"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

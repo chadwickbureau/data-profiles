@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "64506"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/64506"
+title = "The Sporting News Player Contract Cards, ScanID: 1017000931"
+
+[person.name]
+last = "Godfrey"
+given = "Robert Vernon"
+
+
+[[person.transaction]]
+date = "1952-06-28"
+type = "signed"
+join.name = "Batavia"
+note = "Batavia 1952-06-28"
+
+[[person.transaction]]
+date = "1952-07-26"
+type = "suspended"
+leave.name = "Batavia"
+note = "1952-07-26"
+
+[[person.transaction]]
+date = "list 1952-07-28"
+type = "voluntarily-retired"
+leave.name = "Batavia"
+note = "vol retired list 1952-07-28"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Batavia"
+
+[[person.transaction]]
+date = "1954-04-14"
+type = "reinstated"
+join.name = "Batavia"
+note = "rein from vol retired list 1954-04-14"
+
+[[person.transaction]]
+date = "1953-04-25"
+type = "released"
+leave.name = "Batavia"
+note = "rel 1953-04-25"
+

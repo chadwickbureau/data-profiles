@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_120"
+
+[[person.meta.citation]]
+title = "Terpening & Son Mortuary"
+date = "2020-04-07"
+url = "https://www.artesiafunerals.com/obituary/Jack-Case"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "Case"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1926-08-31"
+place.country = "US"
+place.state = "OK"
+place.city = "Okmulgee"
+
+[person.death]
+date = "2018-04-21"
+place.country = "US"
+place.state = "NM"
+place.city = "Artesia"
+
+[person.burial]
+cemetery.name = "Woodbine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Artesia"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

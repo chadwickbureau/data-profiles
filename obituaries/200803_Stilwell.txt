@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200803_Stillwell"
+key = "200803_Stilwell"
 
 [[person.meta.citation]]
 title = "Edwards Funeral Home"
@@ -15,7 +15,7 @@ email = "jackmo77@comcast.net"
 date = "2018-07-20"
 
 [person.name]
-last = "Stillwell"
+last = "Stilwell"
 use = "John"
 given = "John H."
 

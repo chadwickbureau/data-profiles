@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "20200409_002"
+
+[[person.meta.citation]]
+title = "Plainfield (NJ) Courier-News"
+date = "1913-05-21"
+pages = "12"
+
+[person.name]
+last = "Slocum"
+use = "Lou"
+given = "Lou"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NJ"
+place.city = "Plainfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Brunswick"
+team.league.name = "Empire State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+

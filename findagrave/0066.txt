@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "0066"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-10"
+url = "https://www.findagrave.com/memorial/109750341"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Borbolla"
+use = "Roldan"
+given = "Roldan"
+
+[person.birth]
+date = "1928-09-12"
+
+[person.death]
+date = "1989-07-25"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fort Worth"
+
+[person.sameas]
+findagrave = "109750341"
+

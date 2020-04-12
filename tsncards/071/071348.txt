@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "71348"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71348"
+title = "The Sporting News Player Contract Cards, ScanID: 1018001907"
+
+[person.name]
+last = "Guarino"
+given = "Gerald"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1947-03-25"
+type = "signed"
+join.name = "Rehoboth"
+note = "Rehoboth 1947-03-25"
+
+[[person.transaction]]
+date = "1947-04-26"
+type = "released"
+leave.name = "Rehoboth"
+note = "rel 1947-04-26"
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "202004_127"
+
+[[person.meta.citation]]
+title = "Wappner Funeral Home"
+date = "2020-04-08"
+url = "https://www.wappner.com/obituary/robert-bob-d-pugh/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-08"
+
+[person.name]
+last = "Pugh"
+use = "Bob"
+given = "Robert D."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Meyersdale"
+
+[person.death]
+date = "2018-04-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[[person.education]]
+school.name = "Salisbury-Elk Lick HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Salisbury"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "202004_117"
+
+[[person.meta.citation]]
+title = "Lewiston Tribune"
+date = "2020-04-06"
+url = "https://lmtribune.com/obituaries/dwight-church-69-retired-coach-and-teacher/article_1ae5b0c0-983b-5b9b-8058-f5c3477e3ac9.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-06"
+
+[person.name]
+last = "Church"
+use = "Dwight"
+given = "Dwight S."
+
+[person.birth]
+date = "1925-05-28"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+
+[person.death]
+date = "1994-07-12"
+place.country = "US"
+place.state = "ID"
+place.city = "Lewiston"
+
+[[person.education]]
+school.name = "Lewiston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ID"
+school.place.city = "Lewiston"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

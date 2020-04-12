@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "83795"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/83795"
+title = "The Sporting News Player Contract Cards, ScanID: 1036003003"
+
+[person.name]
+last = "Pugh"
+given = "Robert Duane"
+
+[person.description]
+ancestry = "English-Scotch"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "171"
+
+[person.birth]
+date = "1944-01-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Meyersdale"
+
+[[person.resides]]
+place.address = "Water Street"
+place.country = "US"
+place.state = "PA"
+place.city = "Salisbury"
+
+
+[[person.transaction]]
+date = "1961-07-09"
+type = "signed"
+join.name = "Batavia"
+note = "Batavia 1961-07-09"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Batavia"
+note = "for 1962"
+
+[[person.transaction]]
+date = "1962-04-20"
+type = "released"
+leave.name = "Batavia"
+note = "rel 1962-04-20"
+

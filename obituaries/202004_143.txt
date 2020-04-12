@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "202004_143"
+
+[[person.meta.citation]]
+title = "Meyer Funeral Home"
+date = "2020-04-11"
+url = "http://hosting-12840.tributes.com/obituary/show/James-C.-Bolger-108400116"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-11"
+
+[person.name]
+last = "Bolger"
+use = "Jim"
+given = "James C."
+
+[person.birth]
+date = "1932-02-23"
+
+[person.death]
+date = "2020-04-09"
+

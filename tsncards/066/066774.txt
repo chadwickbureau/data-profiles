@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "66774"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/66774"
+title = "The Sporting News Player Contract Cards, ScanID: 1018003393"
+
+[person.name]
+last = "Habeck"
+given = "William"
+
+
+[[person.transaction]]
+date = "1948-09-18"
+type = "signed"
+join.name = "Oshkosh"
+note = "Oshkosh 1948-09-18"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Oshkosh"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-25"
+type = "released"
+leave.name = "Oshkosh"
+note = "rel 1949-04-25"
+

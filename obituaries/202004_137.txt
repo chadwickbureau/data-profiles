@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "202004_137"
+
+[[person.meta.citation]]
+title = "LaMonica Memorial Home"
+date = "2020-04-10"
+url = "https://www.dignitymemorial.com/obituaries/livingston-nj/gerald-guarino-7796358"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Guarino"
+use = "Gerald"
+given = "Gerald G."
+
+[person.birth]
+date = "1927-05-27"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2018-03-18"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Bloomfield"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Newark"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

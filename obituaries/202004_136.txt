@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "202004_136"
+
+[[person.meta.citation]]
+title = "Fort Worth Star-Telegram"
+date = "1989-07-27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Borbolla"
+use = "Roldan"
+given = "Roldan"
+
+[person.birth]
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[person.death]
+date = "1989-07-24"
+place.country = "US"
+place.state = "TX"
+place.city = "Bedford"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fort Worth"
+

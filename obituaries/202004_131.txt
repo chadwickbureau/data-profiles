@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "202004_131"
+
+[[person.meta.citation]]
+title = "Star Advertiser"
+date = "2020-04-08"
+url = "https://www.staradvertiser.com/2020/04/08/sports/sports-breaking/john-matias-major-leaguer-and-uh-standout-dies-at-75/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Matias"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2020-04-07"
+place.country = "US"
+place.state = "HI"
+place.city = "Oahu"
+
+[[person.education]]
+school.name = "Farrington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "HI"
+school.place.city = "Honolulu"
+
+

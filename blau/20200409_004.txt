@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "20200409_004"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1915-06-17"
+pages = "6"
+
+[person.name]
+last = "Parkins"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Winston-Salem"
+team.league.name = "North Carolina State League"
+
+

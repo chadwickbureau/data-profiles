@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "202004_139"
+
+[[person.meta.citation]]
+title = "Lake Lawn Metairie Funeral Home"
+date = "2020-04-10"
+url = "https://www.dignitymemorial.com/obituaries/new-orleans-la/peter-cazalot-7796567"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-10"
+
+[person.name]
+last = "Cazalot"
+use = "Pete"
+given = "Peter Gilbert"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-07-04"
+
+[person.death]
+date = "2018-03-19"
+

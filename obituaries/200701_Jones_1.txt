@@ -21,18 +21,20 @@ given = "John Paul"
 
 [[person.affiliation]]
 type = "player"
-dates = "Little"
-team.name = "Rock"
+dates = "?"
+team.name = "Little Rock"
 team.league.name = "Southern Association"
 
 [[person.affiliation]]
 type = "player"
-dates = "Macon"
+dates = "?"
+team.name = "Macon"
 team.league.name = "South Atlantic League"
 
 [[person.affiliation]]
 type = "player"
-dates = "Shreveport"
+dates = "?"
+team.name = "Shreveport"
 team.league.name = "Texas League"
 
 

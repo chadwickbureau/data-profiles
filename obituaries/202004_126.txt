@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "202004_126"
+
+[[person.meta.citation]]
+title = "Hamner-McMillan Funeral Home"
+date = "2020-04-08"
+url = "https://www.hamnermcmillian.com/obituary/joseph-marshall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-08"
+
+[person.name]
+last = "Marshall"
+use = "Joe"
+given = "Joseph Hale"
+
+[person.death]
+date = "2018-04-08"
+

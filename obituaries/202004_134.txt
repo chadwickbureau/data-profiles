@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "202004_134"
+
+[[person.meta.citation]]
+title = "Brockett Funeral Home"
+date = "2020-04-09"
+url = "https://brockettfuneralhome.com/tribute/details/393/Frank-Barylski-Jr/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-09"
+
+[person.name]
+last = "Barylski"
+use = "Frank"
+given = "Frank Joseph"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-10-23"
+
+[person.death]
+date = "2018-03-24"
+
+[person.burial]
+cemetery.name = "Calverton National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Calverton"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

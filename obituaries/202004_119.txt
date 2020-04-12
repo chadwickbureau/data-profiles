@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "202004_119"
+
+[[person.meta.citation]]
+title = "Craft-Givnish Funeral Home"
+date = "2020-04-07"
+url = "http://hosting-21681.tributes.com/obituary/show/Henry-G.-DeVincent-108388110"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-07"
+
+[person.name]
+last = "DeVincent"
+use = "Hank"
+given = "Henry G."
+
+[person.birth]
+date = "1934-03-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2020-04-05"
+
+[[person.education]]
+school.name = "Olney HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Philadelphia"
+
+[[person.education]]
+school.name = "La Salle University"
+school.type = "college"
+
+
