@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Curtiss"
+key = "obituaries:201903_Curtiss"
 
 [[person.meta.citation]]
 title = "News Times"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Hughes"
+key = "obituaries:201903_Hughes"
 
 [[person.meta.citation]]
 title = "Washington Post"

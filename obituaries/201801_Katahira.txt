@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Katahira"
+key = "obituaries:201801_Katahira"
 
 [[person.meta.citation]]
 title = "Graveyard Baseball"

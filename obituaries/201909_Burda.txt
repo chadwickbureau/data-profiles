@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Burda"
+key = "obituaries:201909_Burda"
 
 [[person.meta.citation]]
 title = "Halligan-McCabe-DeVries Funeral Home"

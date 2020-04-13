@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_002"
+key = "obituaries:2013_002"
 
 [[person.meta.citation]]
 title = "The Advertiser"

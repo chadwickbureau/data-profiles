@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Stewart"
+key = "obituaries:201810_Stewart"
 
 [[person.meta.citation]]
 title = "Bermudez Family Funeral Home"

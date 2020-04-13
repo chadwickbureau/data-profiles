@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Oakes"
+key = "obituaries:201910_Oakes"
 
 [[person.meta.citation]]
 title = "Fischer Family Funeral Services"

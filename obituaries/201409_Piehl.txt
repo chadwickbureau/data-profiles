@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Piehl"
+key = "obituaries:201409_Piehl"
 
 [[person.meta.citation]]
 title = "Petoskey News"

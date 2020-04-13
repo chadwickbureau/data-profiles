@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201800_Altobelli"
+key = "obituaries:201800_Altobelli"
 
 [[person.meta.citation]]
 title = "Lawn Funeral Home"

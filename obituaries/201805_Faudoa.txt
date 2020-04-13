@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Faudoa"
+key = "obituaries:201805_Faudoa"
 
 [[person.meta.citation]]
 title = "Diario. MX"

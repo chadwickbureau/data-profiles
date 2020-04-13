@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Spangler"
+key = "obituaries:202002_Spangler"
 
 [[person.meta.citation]]
 title = "Taylor Funeral Home"

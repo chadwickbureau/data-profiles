@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201602_Scargle"
+key = "obituaries:201602_Scargle"
 
 [[person.meta.citation]]
 title = "Sylvan Abbey Funeral Home"

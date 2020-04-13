@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190614_007"
+key = "morris:20190614_007"
 
 [[person.meta.citation]]
 title = "Munster Times"

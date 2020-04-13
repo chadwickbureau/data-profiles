@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Mason"
+key = "obituaries:202002_Mason"
 
 [[person.meta.citation]]
 title = "Legacy.com"

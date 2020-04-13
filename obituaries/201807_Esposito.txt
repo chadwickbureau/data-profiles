@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Esposito"
+key = "obituaries:201807_Esposito"
 
 [[person.meta.citation]]
 title = "News & Observer"

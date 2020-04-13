@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201105_Black"
+key = "obituaries:201105_Black"
 
 [[person.meta.citation]]
 title = "McNett Funeral Home"

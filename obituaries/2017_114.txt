@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_114"
+key = "obituaries:2017_114"
 
 [[person.meta.citation]]
 title = "Clay Barnette Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Cunic"
+key = "obituaries:201808_Cunic"
 
 [[person.meta.citation]]
 title = "Beckman Williamson Funeral Home"

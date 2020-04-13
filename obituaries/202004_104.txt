@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_104"
+key = "obituaries:202004_104"
 
 [[person.meta.citation]]
 title = "John J. Lopatich Funeral Home"

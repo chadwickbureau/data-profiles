@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Christl"
+key = "obituaries:201907_Christl"
 
 [[person.meta.citation]]
 title = "Bolingbrook McCauley Funeral Home"

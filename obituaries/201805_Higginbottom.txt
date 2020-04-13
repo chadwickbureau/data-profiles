@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Higginbottom"
+key = "obituaries:201805_Higginbottom"
 
 [[person.meta.citation]]
 title = "Qualls Funeral Home"

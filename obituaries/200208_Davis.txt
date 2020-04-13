@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200208_Davis"
+key = "obituaries:200208_Davis"
 
 [[person.meta.citation]]
 title = "Tributes.com"

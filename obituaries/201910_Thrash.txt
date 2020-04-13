@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Thrash"
+key = "obituaries:201910_Thrash"
 
 [[person.meta.citation]]
 title = "Bailey Funeral Home"

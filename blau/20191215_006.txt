@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191215_006"
+key = "blau:20191215_006"
 
 [[person.meta.citation]]
 title = "Raleigh News and Observer"

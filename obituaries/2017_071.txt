@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_071"
+key = "obituaries:2017_071"
 
 [[person.meta.citation]]
 title = "ND.edu"

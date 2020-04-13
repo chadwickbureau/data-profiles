@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_110"
+key = "blau:20170416_110"
 
 [[person.meta.citation]]
 title = "Pittsburgh Press"

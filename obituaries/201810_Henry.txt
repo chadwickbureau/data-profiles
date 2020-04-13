@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Henry"
+key = "obituaries:201810_Henry"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

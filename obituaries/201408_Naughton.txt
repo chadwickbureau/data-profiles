@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Naughton"
+key = "obituaries:201408_Naughton"
 
 [[person.meta.citation]]
 title = "Trinka-Faustini Funeral Service"

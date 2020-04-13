@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Hyde"
+key = "obituaries:201312_Hyde"
 
 [[person.meta.citation]]
 title = "Mercer Adams Funeral Home"

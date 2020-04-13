@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Gray"
+key = "obituaries:201406_Gray"
 
 [[person.meta.citation]]
 title = "Arkansas Democrat Gazette"

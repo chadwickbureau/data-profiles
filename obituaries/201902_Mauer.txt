@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Mauer"
+key = "obituaries:201902_Mauer"
 
 [[person.meta.citation]]
 title = "Kessler & Maguire Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Tietz"
+key = "obituaries:201409_Tietz"
 
 [[person.meta.citation]]
 title = "Leader-Telegram"

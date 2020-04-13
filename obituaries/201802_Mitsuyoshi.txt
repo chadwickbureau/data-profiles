@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201802_Mitsuyoshi"
+key = "obituaries:201802_Mitsuyoshi"
 
 [[person.meta.citation]]
 title = "Adobe Creek Funeral Home"

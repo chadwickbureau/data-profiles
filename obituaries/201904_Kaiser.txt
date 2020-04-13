@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Kaiser"
+key = "obituaries:201904_Kaiser"
 
 [[person.meta.citation]]
 title = "Schaetter Funeral Home"

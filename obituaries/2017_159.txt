@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_159"
+key = "obituaries:2017_159"
 
 [[person.meta.citation]]
 title = "Greenlawn Funeral Home"

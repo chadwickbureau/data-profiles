@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Yarborough"
+key = "obituaries:201902_Yarborough"
 
 [[person.meta.citation]]
 title = "St. Stephens Funeral Home"

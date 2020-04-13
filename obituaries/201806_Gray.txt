@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Gray"
+key = "obituaries:201806_Gray"
 
 [[person.meta.citation]]
 title = "Tucker Funeral Home"

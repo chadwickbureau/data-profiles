@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Koepf"
+key = "obituaries:201811_Koepf"
 
 [[person.meta.citation]]
 title = "Half Moon Bay Review"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Harmsen"
+key = "obituaries:201911_Harmsen"
 
 [[person.meta.citation]]
 title = "Wilson's Funeral Home"

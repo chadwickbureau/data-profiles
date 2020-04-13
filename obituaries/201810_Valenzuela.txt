@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Valenzuela"
+key = "obituaries:201810_Valenzuela"
 
 [[person.meta.citation]]
 title = "Debate.com.mx"

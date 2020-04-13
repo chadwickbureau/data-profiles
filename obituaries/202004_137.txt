@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_137"
+key = "obituaries:202004_137"
 
 [[person.meta.citation]]
 title = "LaMonica Memorial Home"

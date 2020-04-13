@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Barbato"
+key = "obituaries:202002_Barbato"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

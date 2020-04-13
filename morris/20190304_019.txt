@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190304_019"
+key = "morris:20190304_019"
 
 [[person.meta.citation]]
 title = "Wilmington Morning Star"

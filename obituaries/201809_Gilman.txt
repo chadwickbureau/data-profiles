@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Gilman"
+key = "obituaries:201809_Gilman"
 
 [[person.meta.citation]]
 title = "Hernandez Funeral Home"

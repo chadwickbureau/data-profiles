@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Kolb"
+key = "obituaries:201907_Kolb"
 
 [[person.meta.citation]]
 title = "Cooke Funeral Home"

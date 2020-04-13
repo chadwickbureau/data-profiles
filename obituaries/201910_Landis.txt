@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Landis"
+key = "obituaries:201910_Landis"
 
 [[person.meta.citation]]
 title = "San Luis Obispo County Tribune"

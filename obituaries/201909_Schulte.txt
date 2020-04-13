@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Schulte"
+key = "obituaries:201909_Schulte"
 
 [[person.meta.citation]]
 title = "Examiner"

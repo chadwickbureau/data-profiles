@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200305_002"
+key = "blau:20200305_002"
 
 [[person.meta.citation]]
 title = "Salem (OR) Stateman Journal"

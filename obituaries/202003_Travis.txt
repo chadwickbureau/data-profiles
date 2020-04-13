@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Travis"
+key = "obituaries:202003_Travis"
 
 [[person.meta.citation]]
 title = "Steuerle Funeral Home"

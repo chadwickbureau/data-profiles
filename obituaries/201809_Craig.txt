@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Craig"
+key = "obituaries:201809_Craig"
 
 [[person.meta.citation]]
 title = "L. A. Muhleisen & Son Funeral Home"

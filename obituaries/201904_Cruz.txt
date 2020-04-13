@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Cruz"
+key = "obituaries:201904_Cruz"
 
 [[person.meta.citation]]
 title = "Yakima Herald"

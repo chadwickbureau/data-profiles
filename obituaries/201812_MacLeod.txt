@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_MacLeod"
+key = "obituaries:201812_MacLeod"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

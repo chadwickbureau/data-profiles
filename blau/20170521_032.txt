@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_032"
+key = "blau:20170521_032"
 
 [[person.meta.citation]]
 title = "East Liverpool Evening Review"

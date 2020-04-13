@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Amoroso"
+key = "obituaries:201808_Amoroso"
 
 [[person.meta.citation]]
 title = "Legacy Funeral Home"

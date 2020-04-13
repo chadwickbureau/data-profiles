@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Brooks"
+key = "obituaries:201409_Brooks"
 
 [[person.meta.citation]]
 title = "News Journal"

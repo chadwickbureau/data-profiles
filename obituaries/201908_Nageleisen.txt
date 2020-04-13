@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Nageleisen"
+key = "obituaries:201908_Nageleisen"
 
 [[person.meta.citation]]
 title = "Conley Brothers Funeral Home"

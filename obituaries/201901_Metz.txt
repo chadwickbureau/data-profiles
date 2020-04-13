@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Metz"
+key = "obituaries:201901_Metz"
 
 [[person.meta.citation]]
 title = "Cotter Funeral Home"

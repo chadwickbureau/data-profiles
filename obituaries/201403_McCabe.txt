@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201403_McCabe"
+key = "obituaries:201403_McCabe"
 
 [[person.meta.citation]]
 title = "Michigan.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_100"
+key = "blau:20170416_100"
 
 [[person.meta.citation]]
 title = "Reading Eagle"

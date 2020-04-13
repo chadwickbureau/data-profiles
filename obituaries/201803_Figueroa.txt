@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201803_Figueroa"
+key = "obituaries:201803_Figueroa"
 
 [[person.meta.citation]]
 title = "Dodo Mortuary"

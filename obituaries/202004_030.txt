@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_030"
+key = "obituaries:202004_030"
 
 [[person.meta.citation]]
 title = "Corvallis Gazette-Times"

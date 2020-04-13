@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170219_068"
+key = "blau:20170219_068"
 
 [[person.meta.citation]]
 title = "Daily Arkansas Gazette"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_DePalo"
+key = "obituaries:201911_DePalo"
 
 [[person.meta.citation]]
 title = "Journal News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Hulik"
+key = "obituaries:201904_Hulik"
 
 [[person.meta.citation]]
 title = "Plis Funeral Home"

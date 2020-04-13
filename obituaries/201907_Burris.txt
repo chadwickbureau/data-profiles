@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Burris"
+key = "obituaries:201907_Burris"
 
 [[person.meta.citation]]
 title = "Doan & Mills Funeral Home"

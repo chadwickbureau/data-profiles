@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Polasky"
+key = "obituaries:201409_Polasky"
 
 [[person.meta.citation]]
 title = "McLaughlin Funeral Home"

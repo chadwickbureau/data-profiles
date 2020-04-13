@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Foreman"
+key = "obituaries:201912_Foreman"
 
 [[person.meta.citation]]
 title = "Johnson Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_DeJohn"
+key = "obituaries:201904_DeJohn"
 
 [[person.meta.citation]]
 title = "Palm Funeral Home"

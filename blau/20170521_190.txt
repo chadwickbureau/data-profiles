@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_190"
+key = "blau:20170521_190"
 
 [[person.meta.citation]]
 title = "Vancouver Daily World"

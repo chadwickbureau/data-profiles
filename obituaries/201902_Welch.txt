@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Welch"
+key = "obituaries:201902_Welch"
 
 [[person.meta.citation]]
 title = "Musgrove Funeral Home"

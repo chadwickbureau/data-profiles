@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_006"
+key = "morris:2013_006"
 
 [[person.meta.citation]]
 title = "SSDI"

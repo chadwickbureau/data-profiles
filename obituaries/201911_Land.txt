@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Land"
+key = "obituaries:201911_Land"
 
 [[person.meta.citation]]
 title = "Green Acres Memorial Park"

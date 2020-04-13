@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Welteroth"
+key = "obituaries:201405_Welteroth"
 
 [[person.meta.citation]]
 title = "Crourse Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_123"
+key = "obituaries:202004_123"
 
 [[person.meta.citation]]
 title = "Lane Family Funeral Homes"

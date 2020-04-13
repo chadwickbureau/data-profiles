@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_095"
+key = "obituaries:2017_095"
 
 [[person.meta.citation]]
 title = "Virginian Pilot"

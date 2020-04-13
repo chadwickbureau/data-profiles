@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_171"
+key = "blau:20170521_171"
 
 [[person.meta.citation]]
 title = "Sporting Life"

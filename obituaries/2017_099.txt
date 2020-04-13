@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_099"
+key = "obituaries:2017_099"
 
 [[person.meta.citation]]
 title = "Curlew Hills Funeral Home"

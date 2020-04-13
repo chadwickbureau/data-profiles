@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Lee"
+key = "obituaries:201907_Lee"
 
 [[person.meta.citation]]
 title = "Penwell-Gabel Funeral Home"

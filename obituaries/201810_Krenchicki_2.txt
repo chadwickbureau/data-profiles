@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Krenchicki_2"
+key = "obituaries:201810_Krenchicki_2"
 
 [[person.meta.citation]]
 title = "FrontierLeague.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201401_Flythe"
+key = "obituaries:201401_Flythe"
 
 [[person.meta.citation]]
 title = "Harris Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Subbiondo"
+key = "obituaries:201812_Subbiondo"
 
 [[person.meta.citation]]
 title = "Tampa Bay Times"

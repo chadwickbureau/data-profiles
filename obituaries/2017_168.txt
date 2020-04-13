@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_168"
+key = "obituaries:2017_168"
 
 [[person.meta.citation]]
 title = "Airsman-Hires Funeral Home"

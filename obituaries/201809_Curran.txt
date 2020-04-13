@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Curran"
+key = "obituaries:201809_Curran"
 
 [[person.meta.citation]]
 title = "Ortmann-Stipanovich Funeral Home"

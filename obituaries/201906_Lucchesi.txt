@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Lucchesi"
+key = "obituaries:201906_Lucchesi"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_013"
+key = "turocy:201907_013"
 
 [[person.meta.citation]]
 title = "wascotrib.com"

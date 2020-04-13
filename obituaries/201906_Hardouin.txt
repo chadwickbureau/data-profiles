@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Hardouin"
+key = "obituaries:201906_Hardouin"
 
 [[person.meta.citation]]
 title = "Charlet Family Funeral Home"

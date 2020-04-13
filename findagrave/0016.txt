@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "0016"
+key = "findagrave:0016"
 
 [[person.meta.citation]]
 title = "findagrave.com"

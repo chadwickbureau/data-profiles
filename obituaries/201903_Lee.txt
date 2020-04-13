@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Lee"
+key = "obituaries:201903_Lee"
 
 [[person.meta.citation]]
 title = "Good Shepherd Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190204_023"
+key = "morris:20190204_023"
 
 [[person.meta.citation]]
 title = "Morganton News-Herald"

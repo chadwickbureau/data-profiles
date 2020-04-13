@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Minaldi"
+key = "obituaries:201808_Minaldi"
 
 [[person.meta.citation]]
 title = "Broussard's Funeral Home"

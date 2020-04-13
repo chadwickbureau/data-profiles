@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Colgan"
+key = "obituaries:201910_Colgan"
 
 [[person.meta.citation]]
 title = "Heritage Gardens Funeral Home"

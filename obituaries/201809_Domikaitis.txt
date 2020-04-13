@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Domikaitis"
+key = "obituaries:201809_Domikaitis"
 
 [[person.meta.citation]]
 title = "Chicago Tribune"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Quigley"
+key = "obituaries:201408_Quigley"
 
 [[person.meta.citation]]
 title = "Roberts Funeral Homes"

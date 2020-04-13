@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Streeter_1"
+key = "obituaries:201907_Streeter_1"
 
 [[person.meta.citation]]
 title = "Modesto Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Hatfield"
+key = "obituaries:201903_Hatfield"
 
 [[person.meta.citation]]
 title = "Elmore-Cannon-Stephens Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Hartung"
+key = "obituaries:201809_Hartung"
 
 [[person.meta.citation]]
 title = "Anderson-Bryant Funeral Home"

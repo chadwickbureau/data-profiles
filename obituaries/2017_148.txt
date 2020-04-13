@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_148"
+key = "obituaries:2017_148"
 
 [[person.meta.citation]]
 title = "Baue Funeral Home"

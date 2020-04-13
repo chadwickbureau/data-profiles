@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Soares"
+key = "obituaries:201905_Soares"
 
 [[person.meta.citation]]
 title = "East Bay Times"

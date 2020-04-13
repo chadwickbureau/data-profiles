@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200907_Crnkovich"
+key = "obituaries:200907_Crnkovich"
 
 [[person.meta.citation]]
 title = "Tributes.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191218_001"
+key = "morris:20191218_001"
 
 [[person.meta.citation]]
 title = "Gastonia Gazette"

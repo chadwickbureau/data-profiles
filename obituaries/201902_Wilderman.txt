@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Wilderman"
+key = "obituaries:201902_Wilderman"
 
 [[person.meta.citation]]
 title = "Koepsell Funeral Home"

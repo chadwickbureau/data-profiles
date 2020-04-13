@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Haydel"
+key = "obituaries:201809_Haydel"
 
 [[person.meta.citation]]
 title = "Chauvin Funeral Home"

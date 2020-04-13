@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_011"
+key = "obituaries:202004_011"
 
 [[person.meta.citation]]
 title = "Scottsbluff Star-Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Fossen"
+key = "obituaries:201903_Fossen"
 
 [[person.meta.citation]]
 title = "Kalamazoo Gazette"

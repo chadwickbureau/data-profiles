@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Lechtanski"
+key = "obituaries:201811_Lechtanski"
 
 [[person.meta.citation]]
 title = "Malpezzi Funeral Home"

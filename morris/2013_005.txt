@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_005"
+key = "morris:2013_005"
 
 [[person.meta.citation]]
 title = "Cook County IL Death Index"

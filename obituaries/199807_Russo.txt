@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "199807_Russo"
+key = "obituaries:199807_Russo"
 
 [[person.meta.citation]]
 title = "Manasquan Coast Star"

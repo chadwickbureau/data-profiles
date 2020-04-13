@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_017"
+key = "obituaries:2014_017"
 
 [[person.meta.citation]]
 title = "Shalkop Grace Strunk Funeral Home"

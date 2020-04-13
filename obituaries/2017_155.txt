@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_155"
+key = "obituaries:2017_155"
 
 [[person.meta.citation]]
 title = "Brenny Funeral Chapel"

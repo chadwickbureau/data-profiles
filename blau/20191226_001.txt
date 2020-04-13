@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191226_001"
+key = "blau:20191226_001"
 
 [[person.meta.citation]]
 title = "Atlanta Constitution"

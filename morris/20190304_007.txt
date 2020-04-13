@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190304_007"
+key = "morris:20190304_007"
 
 [[person.meta.citation]]
 title = "Scranton Republican"

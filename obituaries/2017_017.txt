@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_017"
+key = "obituaries:2017_017"
 
 [[person.meta.citation]]
 title = "Silha Funeral Home"

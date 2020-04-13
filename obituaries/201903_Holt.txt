@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Holt"
+key = "obituaries:201903_Holt"
 
 [[person.meta.citation]]
 title = "Blackwell Funeral Home"

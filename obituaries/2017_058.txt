@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_058"
+key = "obituaries:2017_058"
 
 [[person.meta.citation]]
 title = "Sneider Sullivan & O'Connell's Funeral Home"

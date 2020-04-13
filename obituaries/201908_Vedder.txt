@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Vedder"
+key = "obituaries:201908_Vedder"
 
 [[person.meta.citation]]
 title = "Reeves & Baskerville Funeral Homes"

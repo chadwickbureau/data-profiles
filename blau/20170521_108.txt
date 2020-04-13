@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_108"
+key = "blau:20170521_108"
 
 [[person.meta.citation]]
 title = "Winnipeg Tribune"

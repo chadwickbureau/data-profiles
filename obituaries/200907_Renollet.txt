@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200907_Renollet"
+key = "obituaries:200907_Renollet"
 
 [[person.meta.citation]]
 title = "Oberlin-Turnball Funeral Home"

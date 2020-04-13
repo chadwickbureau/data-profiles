@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Nemchik"
+key = "obituaries:201910_Nemchik"
 
 [[person.meta.citation]]
 title = "John J. Lopatich Funeral Home"

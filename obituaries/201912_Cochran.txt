@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Cochran"
+key = "obituaries:201912_Cochran"
 
 [[person.meta.citation]]
 title = "AP News"

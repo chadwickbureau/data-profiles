@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201802_Skrzypczak"
+key = "obituaries:201802_Skrzypczak"
 
 [[person.meta.citation]]
 title = "Stanley's Funeral Home"

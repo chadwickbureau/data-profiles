@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Monarchi"
+key = "obituaries:201904_Monarchi"
 
 [[person.meta.citation]]
 title = "Arthur A. Albini Funeral Home"

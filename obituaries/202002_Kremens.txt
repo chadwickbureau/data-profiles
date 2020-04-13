@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Kremens"
+key = "obituaries:202002_Kremens"
 
 [[person.meta.citation]]
 title = "Asbury Park Press"

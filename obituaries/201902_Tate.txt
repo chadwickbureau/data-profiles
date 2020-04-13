@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Tate"
+key = "obituaries:201902_Tate"
 
 [[person.meta.citation]]
 title = "Broussard's Funeral Home"

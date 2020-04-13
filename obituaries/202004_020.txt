@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_020"
+key = "obituaries:202004_020"
 
 [[person.meta.citation]]
 title = "Wichmann Funeral Home"

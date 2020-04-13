@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Scherfel"
+key = "obituaries:201812_Scherfel"
 
 [[person.meta.citation]]
 title = "Schumacher & Benner Funeral Home"

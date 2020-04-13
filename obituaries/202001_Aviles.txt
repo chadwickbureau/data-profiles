@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Aviles"
+key = "obituaries:202001_Aviles"
 
 [[person.meta.citation]]
 title = "Primera Horan"

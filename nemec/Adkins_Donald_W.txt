@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Adkins_Donald_W"
+key = "nemec:Adkins_Donald_W"
 
 [person.name]
 last = "Adkins"

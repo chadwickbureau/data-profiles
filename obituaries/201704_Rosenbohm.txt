@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201704_Rosenbohm"
+key = "obituaries:201704_Rosenbohm"
 
 [[person.meta.citation]]
 title = "John A. Gentleman Funeral Home"

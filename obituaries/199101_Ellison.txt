@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "199101_Ellison"
+key = "obituaries:199101_Ellison"
 
 [[person.meta.citation]]
 title = "Austin American-Statesman"

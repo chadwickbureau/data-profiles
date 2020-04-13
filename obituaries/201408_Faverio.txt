@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Faverio"
+key = "obituaries:201408_Faverio"
 
 [[person.meta.citation]]
 title = "News Journal"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Hinds"
+key = "obituaries:201909_Hinds"
 
 [[person.meta.citation]]
 title = "Yost & Webb Funeral Care"

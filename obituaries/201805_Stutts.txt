@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Stutts"
+key = "obituaries:201805_Stutts"
 
 [[person.meta.citation]]
 title = "Sandifer Funeral Home"

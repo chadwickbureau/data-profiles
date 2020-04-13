@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Scott"
+key = "obituaries:201905_Scott"
 
 [[person.meta.citation]]
 title = "Starbuck-Lind Mortuary"

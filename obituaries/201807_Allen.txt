@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Allen"
+key = "obituaries:201807_Allen"
 
 [[person.meta.citation]]
 title = "Cornerstone of Muskogee Funeral Home"

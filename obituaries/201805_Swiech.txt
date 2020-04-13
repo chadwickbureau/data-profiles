@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Swiech"
+key = "obituaries:201805_Swiech"
 
 [[person.meta.citation]]
 title = "Kubaska Funeral Home"

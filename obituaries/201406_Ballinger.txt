@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Ballinger"
+key = "obituaries:201406_Ballinger"
 
 [[person.meta.citation]]
 title = "MeaningfulFunerals.net"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Mantecon"
+key = "obituaries:201906_Mantecon"
 
 [[person.meta.citation]]
 title = "MiLB.com"

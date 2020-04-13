@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Ogletree_1"
+key = "obituaries:201906_Ogletree_1"
 
 [[person.meta.citation]]
 title = "The Monitor"

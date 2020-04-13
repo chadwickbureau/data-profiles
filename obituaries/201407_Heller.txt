@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Heller"
+key = "obituaries:201407_Heller"
 
 [[person.meta.citation]]
 title = "Bryant Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Lesiecki"
+key = "obituaries:201910_Lesiecki"
 
 [[person.meta.citation]]
 title = "Morning Journal"

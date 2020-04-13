@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Abreu"
+key = "obituaries:201808_Abreu"
 
 [[person.meta.citation]]
 title = "ElJaya.com"

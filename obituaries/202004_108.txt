@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_108"
+key = "obituaries:202004_108"
 
 [[person.meta.citation]]
 title = "Warco-Falvo Funerla Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Gwinn"
+key = "obituaries:201911_Gwinn"
 
 [[person.meta.citation]]
 title = "John M Ireland & Son Funeral Home"

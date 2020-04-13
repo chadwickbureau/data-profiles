@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zeider_Rollie_Hubert"
+key = "mcconnell:Zeider_Rollie_Hubert"
 
 [person.name]
 last = "Zeider"

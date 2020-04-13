@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Boynton"
+key = "obituaries:201808_Boynton"
 
 [[person.meta.citation]]
 title = "Hobbs Funeral Home"

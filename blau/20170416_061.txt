@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_061"
+key = "blau:20170416_061"
 
 [[person.meta.citation]]
 title = "Burlington Gazette"

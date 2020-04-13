@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_174"
+key = "obituaries:2017_174"
 
 [[person.meta.citation]]
 title = "Piatt-Barnhill Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197912_Smith"
+key = "obituaries:197912_Smith"
 
 [[person.meta.citation]]
 title = "Orlando Sentinel"

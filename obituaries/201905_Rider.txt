@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Rider"
+key = "obituaries:201905_Rider"
 
 [[person.meta.citation]]
 title = "Desnoyer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Cox_2"
+key = "obituaries:202002_Cox_2"
 
 [[person.meta.citation]]
 title = "Crowell Brothers Funeral Home"

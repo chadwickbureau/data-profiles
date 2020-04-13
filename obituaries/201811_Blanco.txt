@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Blanco"
+key = "obituaries:201811_Blanco"
 
 [[person.meta.citation]]
 title = "Passantino Bros. Funeral Home"

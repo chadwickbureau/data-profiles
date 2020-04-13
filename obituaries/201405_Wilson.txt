@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Wilson"
+key = "obituaries:201405_Wilson"
 
 [[person.meta.citation]]
 title = "Times Herald"

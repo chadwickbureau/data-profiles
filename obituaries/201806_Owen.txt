@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Owen"
+key = "obituaries:201806_Owen"
 
 [[person.meta.citation]]
 title = "Tidd Family Funeral Home"

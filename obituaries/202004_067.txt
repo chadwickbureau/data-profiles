@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_067"
+key = "obituaries:202004_067"
 
 [[person.meta.citation]]
 title = "Vista Funeral Home"

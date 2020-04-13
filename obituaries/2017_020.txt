@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_020"
+key = "obituaries:2017_020"
 
 [[person.meta.citation]]
 title = "Routsong Funeral Home"

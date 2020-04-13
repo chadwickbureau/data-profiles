@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_McConnell"
+key = "obituaries:201904_McConnell"
 
 [[person.meta.citation]]
 title = "AZCentral.com"

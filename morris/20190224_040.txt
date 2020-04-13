@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190224_040"
+key = "morris:20190224_040"
 
 [[person.meta.citation]]
 title = "Newport News Daily Press"

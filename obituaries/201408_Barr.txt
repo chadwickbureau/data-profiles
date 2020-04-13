@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Barr"
+key = "obituaries:201408_Barr"
 
 [[person.meta.citation]]
 title = "LancasterOnline"

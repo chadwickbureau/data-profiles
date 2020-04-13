@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190121_017"
+key = "morris:20190121_017"
 
 [[person.meta.citation]]
 title = "Camden Courier-Post"

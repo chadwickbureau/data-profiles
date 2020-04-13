@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Whalen"
+key = "obituaries:201407_Whalen"
 
 [[person.meta.citation]]
 title = "Lowell Sun"

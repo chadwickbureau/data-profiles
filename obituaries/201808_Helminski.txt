@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Helminski"
+key = "obituaries:201808_Helminski"
 
 [[person.meta.citation]]
 title = "Ken Funeral Home"

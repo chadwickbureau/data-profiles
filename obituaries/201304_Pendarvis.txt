@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201304_Pendarvis"
+key = "obituaries:201304_Pendarvis"
 
 [[person.meta.citation]]
 title = "Temple & Sons Funeral Directors"

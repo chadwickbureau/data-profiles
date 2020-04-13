@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Martinez"
+key = "obituaries:201908_Martinez"
 
 [[person.meta.citation]]
 title = "Riverdale Press"

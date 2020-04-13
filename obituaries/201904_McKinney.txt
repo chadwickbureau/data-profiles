@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_McKinney"
+key = "obituaries:201904_McKinney"
 
 [[person.meta.citation]]
 title = "Rosewood Funeral Home"

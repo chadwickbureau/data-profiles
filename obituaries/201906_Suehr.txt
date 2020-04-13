@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Suehr"
+key = "obituaries:201906_Suehr"
 
 [[person.meta.citation]]
 title = "Pittsburgh Cremation & Funeral Care"

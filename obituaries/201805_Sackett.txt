@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Sackett"
+key = "obituaries:201805_Sackett"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

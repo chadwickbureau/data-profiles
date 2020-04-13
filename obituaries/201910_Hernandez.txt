@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Hernandez"
+key = "obituaries:201910_Hernandez"
 
 [[person.meta.citation]]
 title = "TribLive.com"

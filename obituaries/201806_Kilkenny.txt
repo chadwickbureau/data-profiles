@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Kilkenny"
+key = "obituaries:201806_Kilkenny"
 
 [[person.meta.citation]]
 title = "Cremation by Denning's"

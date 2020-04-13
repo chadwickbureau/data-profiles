@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Spike"
+key = "obituaries:201904_Spike"
 
 [[person.meta.citation]]
 title = "Reichlin Roberts Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Santiago_1"
+key = "obituaries:201810_Santiago_1"
 
 [[person.meta.citation]]
 title = "ElNuevodia.com"

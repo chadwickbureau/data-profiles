@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Webb"
+key = "obituaries:202003_Webb"
 
 [[person.meta.citation]]
 title = "The News Star"

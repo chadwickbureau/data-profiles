@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Mikeman"
+key = "obituaries:201808_Mikeman"
 
 [[person.meta.citation]]
 title = "Ford Funeral Service"

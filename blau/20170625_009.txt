@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_009"
+key = "blau:20170625_009"
 
 [[person.meta.citation]]
 title = "Waterloo Press"

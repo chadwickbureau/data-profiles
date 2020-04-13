@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200201_Ketcher"
+key = "obituaries:200201_Ketcher"
 
 [[person.meta.citation]]
 title = "Deseret News"

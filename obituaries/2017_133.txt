@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_133"
+key = "obituaries:2017_133"
 
 [[person.meta.citation]]
 title = "Pellerin Funeral Home"

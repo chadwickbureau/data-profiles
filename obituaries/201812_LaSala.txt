@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_LaSala"
+key = "obituaries:201812_LaSala"
 
 [[person.meta.citation]]
 title = "Lloyd Maxcy & Sons Funeral Home"

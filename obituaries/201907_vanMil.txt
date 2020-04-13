@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_vanMil"
+key = "obituaries:201907_vanMil"
 
 [[person.meta.citation]]
 title = "Yahoo! Sports"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Koehler"
+key = "obituaries:201806_Koehler"
 
 [[person.meta.citation]]
 title = "Mueller Funeral Home"

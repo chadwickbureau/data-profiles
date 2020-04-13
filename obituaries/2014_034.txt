@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_034"
+key = "obituaries:2014_034"
 
 [[person.meta.citation]]
 title = "MLB.com"

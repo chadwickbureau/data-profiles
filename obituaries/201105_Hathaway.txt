@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201105_Hathaway"
+key = "obituaries:201105_Hathaway"
 
 [[person.meta.citation]]
 title = "Burnside Funeral Home"

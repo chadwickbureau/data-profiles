@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_023"
+key = "obituaries:2017_023"
 
 [[person.meta.citation]]
 title = "Pisarski Funeral Home"

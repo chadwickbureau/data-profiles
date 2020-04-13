@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Quane"
+key = "obituaries:201805_Quane"
 
 [[person.meta.citation]]
 title = "Summers Funeral Home"

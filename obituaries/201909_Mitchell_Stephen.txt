@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Mitchell_Stephen"
+key = "obituaries:201909_Mitchell_Stephen"
 
 [[person.meta.citation]]
 title = "Robbins Brothers Funeral Home"

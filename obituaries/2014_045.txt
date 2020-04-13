@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_045"
+key = "obituaries:2014_045"
 
 [[person.meta.citation]]
 title = "Quincy Herald-Whig"

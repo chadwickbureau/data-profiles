@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Scarpone"
+key = "obituaries:201810_Scarpone"
 
 [[person.meta.citation]]
 title = "Pulliam Funeral Home"

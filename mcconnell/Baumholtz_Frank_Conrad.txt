@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Baumholtz_Frank_Conrad"
+key = "mcconnell:Baumholtz_Frank_Conrad"
 
 [person.name]
 last = "Baumholtz"

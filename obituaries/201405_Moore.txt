@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Moore"
+key = "obituaries:201405_Moore"
 
 [[person.meta.citation]]
 title = "The News & Observer"

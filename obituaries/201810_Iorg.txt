@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Iorg"
+key = "obituaries:201810_Iorg"
 
 [[person.meta.citation]]
 title = "Hullinger Mortuary"

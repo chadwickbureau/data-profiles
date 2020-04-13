@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_009"
+key = "turocy:201901_009"
 
 [[person.meta.citation]]
 title = "Des Moines Register"

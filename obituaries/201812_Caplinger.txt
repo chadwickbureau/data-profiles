@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Caplinger"
+key = "obituaries:201812_Caplinger"
 
 [[person.meta.citation]]
 title = "Long Beach Press-Telegram"

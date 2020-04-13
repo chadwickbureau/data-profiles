@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_178"
+key = "blau:20170319_178"
 
 [[person.meta.citation]]
 title = "Cincinnati Enquirer"

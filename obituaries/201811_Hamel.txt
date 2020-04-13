@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Hamel"
+key = "obituaries:201811_Hamel"
 
 [[person.meta.citation]]
 title = "Newton-Bartlett Funeral Home"

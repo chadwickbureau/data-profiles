@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Lipchik"
+key = "obituaries:201311_Lipchik"
 
 [[person.meta.citation]]
 title = "Pittsburgh Post-Gazette"

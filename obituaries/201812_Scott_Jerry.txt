@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Scott_Jerry"
+key = "obituaries:201812_Scott_Jerry"
 
 [[person.meta.citation]]
 title = "Colvin Funeral Home"

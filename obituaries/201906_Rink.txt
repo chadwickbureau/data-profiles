@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Rink"
+key = "obituaries:201906_Rink"
 
 [[person.meta.citation]]
 title = "Christiansen Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Lindner"
+key = "obituaries:201900_Lindner"
 
 [[person.meta.citation]]
 title = "Hansen Mortuaries & Cemetery"

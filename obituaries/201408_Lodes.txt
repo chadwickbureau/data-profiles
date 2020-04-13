@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Lodes"
+key = "obituaries:201408_Lodes"
 
 [[person.meta.citation]]
 title = "The Oklahoman"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_048"
+key = "obituaries:202004_048"
 
 [[person.meta.citation]]
 title = "Seamon-Wilsey Funeral Home"

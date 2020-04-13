@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Trevino"
+key = "obituaries:201812_Trevino"
 
 [[person.meta.citation]]
 title = "Yucatan.com.mx"

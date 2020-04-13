@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Teague"
+key = "obituaries:201908_Teague"
 
 [[person.meta.citation]]
 title = "Herald Bulletin"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Barrett"
+key = "obituaries:201910_Barrett"
 
 [[person.meta.citation]]
 title = "Walters Funeral Home"

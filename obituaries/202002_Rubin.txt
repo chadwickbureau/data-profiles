@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Rubin"
+key = "obituaries:202002_Rubin"
 
 [[person.meta.citation]]
 title = "Sinatra Funeral Home"

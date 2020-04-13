@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Stefanik"
+key = "obituaries:201911_Stefanik"
 
 [[person.meta.citation]]
 title = "Worcester Telegram & Gazette"

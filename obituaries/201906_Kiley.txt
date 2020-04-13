@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Kiley"
+key = "obituaries:201906_Kiley"
 
 [[person.meta.citation]]
 title = "Barile Family Funeral Home"

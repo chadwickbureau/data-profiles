@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Pounds"
+key = "obituaries:201907_Pounds"
 
 [[person.meta.citation]]
 title = "Pelan Funeral Home"

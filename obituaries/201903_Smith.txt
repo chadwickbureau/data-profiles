@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Smith"
+key = "obituaries:201903_Smith"
 
 [[person.meta.citation]]
 title = "Schoppenhorst Underwood and Brooks Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Gordon"
+key = "obituaries:201405_Gordon"
 
 [[person.meta.citation]]
 title = "The Enterprise"

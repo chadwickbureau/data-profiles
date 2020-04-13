@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Oberlin"
+key = "obituaries:202002_Oberlin"
 
 [[person.meta.citation]]
 title = "Cunningham Funeral Home"

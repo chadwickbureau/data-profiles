@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Saul"
+key = "obituaries:201911_Saul"
 
 [[person.meta.citation]]
 title = "Quinn-Hopping Funeral Home"

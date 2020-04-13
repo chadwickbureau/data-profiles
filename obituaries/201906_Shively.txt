@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Shively"
+key = "obituaries:201906_Shively"
 
 [[person.meta.citation]]
 title = "E. Alvin Small Funeral Home"

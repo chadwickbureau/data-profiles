@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Waters"
+key = "obituaries:201908_Waters"
 
 [[person.meta.citation]]
 title = "Thomas Poteet & Son Funeral Home"

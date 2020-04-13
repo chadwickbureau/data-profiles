@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Harris_Rudolph"
+key = "obituaries:202001_Harris_Rudolph"
 
 [[person.meta.citation]]
 title = "Post Tribune"

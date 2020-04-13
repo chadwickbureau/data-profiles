@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Briggs"
+key = "obituaries:201812_Briggs"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

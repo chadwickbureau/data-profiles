@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201710_Griffin"
+key = "obituaries:201710_Griffin"
 
 [[person.meta.citation]]
 title = "Moultrie Observer"

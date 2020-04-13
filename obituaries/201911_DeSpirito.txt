@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_DeSpirito"
+key = "obituaries:201911_DeSpirito"
 
 [[person.meta.citation]]
 title = "Nardolillo Funeral Home"

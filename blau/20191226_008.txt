@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191226_008"
+key = "blau:20191226_008"
 
 [[person.meta.citation]]
 title = "Frank Stewart biography"

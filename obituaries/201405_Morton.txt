@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Morton"
+key = "obituaries:201405_Morton"
 
 [[person.meta.citation]]
 title = "The Morning Journal"

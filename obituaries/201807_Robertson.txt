@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Robertson"
+key = "obituaries:201807_Robertson"
 
 [[person.meta.citation]]
 title = "Goff Mortuary"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_008"
+key = "turocy:201907_008"
 
 [[person.meta.citation]]
 title = "empireproleague.com"

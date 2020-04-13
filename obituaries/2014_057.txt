@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_057"
+key = "obituaries:2014_057"
 
 [[person.meta.citation]]
 title = "Rotativo.com"

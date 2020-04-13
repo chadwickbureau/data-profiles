@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Heffernan"
+key = "obituaries:201812_Heffernan"
 
 [[person.meta.citation]]
 title = "Johnson Funeral Home"

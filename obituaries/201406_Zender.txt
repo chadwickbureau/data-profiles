@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Zender"
+key = "obituaries:201406_Zender"
 
 [[person.meta.citation]]
 title = "Bellingham Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190113_012"
+key = "morris:20190113_012"
 
 [[person.meta.citation]]
 title = "Wisconsin State Journal"

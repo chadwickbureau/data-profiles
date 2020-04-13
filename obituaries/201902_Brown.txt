@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Brown"
+key = "obituaries:201902_Brown"
 
 [[person.meta.citation]]
 title = "Baker Funeral Home"

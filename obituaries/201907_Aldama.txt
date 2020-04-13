@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Aldama"
+key = "obituaries:201907_Aldama"
 
 [[person.meta.citation]]
 title = "La Verdad"

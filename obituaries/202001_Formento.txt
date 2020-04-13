@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Formento"
+key = "obituaries:202001_Formento"
 
 [[person.meta.citation]]
 title = "Laughlin Funeral Home"

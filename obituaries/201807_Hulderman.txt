@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Hulderman"
+key = "obituaries:201807_Hulderman"
 
 [[person.meta.citation]]
 title = "Hutson Funeral Home"

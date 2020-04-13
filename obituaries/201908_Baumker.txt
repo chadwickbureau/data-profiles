@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Baumker"
+key = "obituaries:201908_Baumker"
 
 [[person.meta.citation]]
 title = "The Missourian"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201410_Hitt"
+key = "obituaries:201410_Hitt"
 
 [[person.meta.citation]]
 title = "Posey Funeral Directors"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201102_Lorman"
+key = "obituaries:201102_Lorman"
 
 [[person.meta.citation]]
 title = "Fayetteville Observer"

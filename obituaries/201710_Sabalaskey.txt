@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201710_Sabalaskey"
+key = "obituaries:201710_Sabalaskey"
 
 [[person.meta.citation]]
 title = "Commerical News"

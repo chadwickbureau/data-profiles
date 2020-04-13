@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Ballard"
+key = "obituaries:201906_Ballard"
 
 [[person.meta.citation]]
 title = "Spezzi Funeral Home"

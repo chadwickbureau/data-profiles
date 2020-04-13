@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Scott"
+key = "obituaries:201907_Scott"
 
 [[person.meta.citation]]
 title = "Williams Funeral Homes"

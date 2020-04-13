@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Rupert_2"
+key = "obituaries:201909_Rupert_2"
 
 [[person.meta.citation]]
 title = "Grand Forks Herald"

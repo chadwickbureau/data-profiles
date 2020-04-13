@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_DelGaudio"
+key = "obituaries:201909_DelGaudio"
 
 [[person.meta.citation]]
 title = "Hutchens Funeral Home"

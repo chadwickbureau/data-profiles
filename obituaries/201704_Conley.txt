@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201704_Conley"
+key = "obituaries:201704_Conley"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

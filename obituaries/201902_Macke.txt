@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Macke"
+key = "obituaries:201902_Macke"
 
 [[person.meta.citation]]
 title = "Kentucky Enquirer"

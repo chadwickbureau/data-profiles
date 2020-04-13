@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Chambers"
+key = "obituaries:201812_Chambers"
 
 [[person.meta.citation]]
 title = "Burkey-Truby Funeral Home"

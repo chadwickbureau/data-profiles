@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Jaros"
+key = "obituaries:201807_Jaros"
 
 [[person.meta.citation]]
 title = "Irwin Chapel"

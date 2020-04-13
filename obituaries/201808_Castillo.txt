@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Castillo"
+key = "obituaries:201808_Castillo"
 
 [[person.meta.citation]]
 title = "El Diario"

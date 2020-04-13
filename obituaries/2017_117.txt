@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_117"
+key = "obituaries:2017_117"
 
 [[person.meta.citation]]
 title = "Bakersfield Californian"

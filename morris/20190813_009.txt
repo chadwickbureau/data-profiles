@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190813_009"
+key = "morris:20190813_009"
 
 [[person.meta.citation]]
 title = "Chillicothe Gazette"

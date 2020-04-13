@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Gates"
+key = "obituaries:201912_Gates"
 
 [[person.meta.citation]]
 title = "Jennings, Nulton & Mattle Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Hoffmeister"
+key = "obituaries:201901_Hoffmeister"
 
 [[person.meta.citation]]
 title = "ConstantContact.com"

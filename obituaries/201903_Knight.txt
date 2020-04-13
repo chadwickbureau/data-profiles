@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Knight"
+key = "obituaries:201903_Knight"
 
 [[person.meta.citation]]
 title = "Daytona Beach News-Journal"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_032"
+key = "morris:20190531_032"
 
 [[person.meta.citation]]
 title = "Rochester Democrat & Chronicle"

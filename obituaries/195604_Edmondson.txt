@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "195604_Edmondson"
+key = "obituaries:195604_Edmondson"
 
 [[person.meta.citation]]
 title = "Corsicana Daily Sun"

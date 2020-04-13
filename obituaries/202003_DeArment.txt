@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_DeArment"
+key = "obituaries:202003_DeArment"
 
 [[person.meta.citation]]
 title = "Reed Funeral Home"

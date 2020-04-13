@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Albright"
+key = "obituaries:202003_Albright"
 
 [[person.meta.citation]]
 title = "Kansas City Star"

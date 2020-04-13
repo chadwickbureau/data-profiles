@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Handsberry"
+key = "obituaries:201904_Handsberry"
 
 [[person.meta.citation]]
 title = "Faries Funeral Home"

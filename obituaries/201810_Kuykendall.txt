@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Kuykendall"
+key = "obituaries:201810_Kuykendall"
 
 [[person.meta.citation]]
 title = "Groce Funeral Home"

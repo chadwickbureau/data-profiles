@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_063"
+key = "obituaries:202004_063"
 
 [[person.meta.citation]]
 title = "Today's News Herald"

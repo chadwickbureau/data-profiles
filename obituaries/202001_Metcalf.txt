@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Metcalf"
+key = "obituaries:202001_Metcalf"
 
 [[person.meta.citation]]
 title = "Crowe's Mortuary & Crematory"

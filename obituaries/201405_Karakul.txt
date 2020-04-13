@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Karakul"
+key = "obituaries:201405_Karakul"
 
 [[person.meta.citation]]
 title = "The Palm Beach Post"

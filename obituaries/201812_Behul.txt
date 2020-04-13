@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Behul"
+key = "obituaries:201812_Behul"
 
 [[person.meta.citation]]
 title = "Rossi Funeral Home"

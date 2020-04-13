@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Wagner"
+key = "obituaries:201904_Wagner"
 
 [[person.meta.citation]]
 title = "Schantz Funeral Home"

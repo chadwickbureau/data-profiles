@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Ferguson"
+key = "obituaries:201808_Ferguson"
 
 [[person.meta.citation]]
 title = "Guilford Funeral Home"

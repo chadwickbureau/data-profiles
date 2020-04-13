@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200109_Hindy"
+key = "obituaries:200109_Hindy"
 
 [[person.meta.citation]]
 title = "911 Living Memorial"

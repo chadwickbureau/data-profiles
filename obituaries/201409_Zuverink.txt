@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Zuverink"
+key = "obituaries:201409_Zuverink"
 
 [[person.meta.citation]]
 title = "Green Acres Mortuary & Cemetery"

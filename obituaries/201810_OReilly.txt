@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_OReilly"
+key = "obituaries:201810_OReilly"
 
 [[person.meta.citation]]
 title = "Clancy-Gernon Funeral Home"

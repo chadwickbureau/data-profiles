@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_009"
+key = "blau:20170521_009"
 
 [[person.meta.citation]]
 title = "Louisville Courier-Journal"

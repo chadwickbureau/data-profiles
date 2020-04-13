@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_086"
+key = "obituaries:202004_086"
 
 [[person.meta.citation]]
 title = "George L. Klumpp Funeral Home"

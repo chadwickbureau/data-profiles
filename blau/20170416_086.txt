@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_086"
+key = "blau:20170416_086"
 
 [[person.meta.citation]]
 title = "Ottawa Journal"

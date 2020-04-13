@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Clark"
+key = "obituaries:201908_Clark"
 
 [[person.meta.citation]]
 title = "Minshall Shropshire-Bleyler Funeral Home"

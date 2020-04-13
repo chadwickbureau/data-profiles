@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_004"
+key = "morris:2014_004"
 
 [[person.meta.citation]]
 title = "Las Vegas Review-Journal"

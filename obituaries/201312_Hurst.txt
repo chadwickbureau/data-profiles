@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Hurst"
+key = "obituaries:201312_Hurst"
 
 [[person.meta.citation]]
 title = "Peoria Journal Star"

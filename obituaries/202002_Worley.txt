@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Worley"
+key = "obituaries:202002_Worley"
 
 [[person.meta.citation]]
 title = "Lamiell Funeral Home"

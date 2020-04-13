@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_King"
+key = "obituaries:202003_King"
 
 [[person.meta.citation]]
 title = "Ruck Towson Funeral Home"

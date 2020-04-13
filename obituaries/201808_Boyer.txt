@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Boyer"
+key = "obituaries:201808_Boyer"
 
 [[person.meta.citation]]
 title = "George Funeral Home"

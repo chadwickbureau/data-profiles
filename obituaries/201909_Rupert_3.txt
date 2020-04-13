@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Rupert_3"
+key = "obituaries:201909_Rupert_3"
 
 [[person.meta.citation]]
 title = "Huntingdon County Daily News"

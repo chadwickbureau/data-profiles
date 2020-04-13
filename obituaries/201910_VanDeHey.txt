@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_VanDeHey"
+key = "obituaries:201910_VanDeHey"
 
 [[person.meta.citation]]
 title = "Marshfield News Herald"

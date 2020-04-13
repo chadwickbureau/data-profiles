@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_McKelvey"
+key = "obituaries:201712_McKelvey"
 
 [[person.meta.citation]]
 title = "Wages & Sons Funeral Home"

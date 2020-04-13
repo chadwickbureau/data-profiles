@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_121"
+key = "blau:20170625_121"
 
 [[person.meta.citation]]
 title = "Wilson (NC) Daily Times"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Creamer"
+key = "obituaries:201901_Creamer"
 
 [[person.meta.citation]]
 title = "Farley, Estes & Dowdle Funeral Home"

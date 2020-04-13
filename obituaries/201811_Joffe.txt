@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Joffe"
+key = "obituaries:201811_Joffe"
 
 [[person.meta.citation]]
 title = "Desert Sun"

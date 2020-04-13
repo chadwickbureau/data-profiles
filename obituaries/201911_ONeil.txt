@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_ONeil"
+key = "obituaries:201911_ONeil"
 
 [[person.meta.citation]]
 title = "Leete-Stevens Funeral Home"

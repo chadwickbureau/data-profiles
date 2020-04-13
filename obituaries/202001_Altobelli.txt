@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Altobelli"
+key = "obituaries:202001_Altobelli"
 
 [[person.meta.citation]]
 title = "Orange County Register"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Adamczyk"
+key = "obituaries:201912_Adamczyk"
 
 [[person.meta.citation]]
 title = "Buffalo News"

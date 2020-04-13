@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Vargas"
+key = "obituaries:201405_Vargas"
 
 [[person.meta.citation]]
 title = "Primerahora.com"

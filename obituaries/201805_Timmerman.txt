@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Timmerman"
+key = "obituaries:201805_Timmerman"
 
 [[person.meta.citation]]
 title = "Summersett Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201204_Cluley"
+key = "obituaries:201204_Cluley"
 
 [[person.meta.citation]]
 title = "Lunn's Funeral Home"

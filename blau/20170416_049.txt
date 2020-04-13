@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_049"
+key = "blau:20170416_049"
 
 [[person.meta.citation]]
 title = "Hagerstown Morning Herald"

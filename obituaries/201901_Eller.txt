@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Eller"
+key = "obituaries:201901_Eller"
 
 [[person.meta.citation]]
 title = "Bryan-Lee Funeral Home"

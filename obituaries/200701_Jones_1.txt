@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200701_Jones_1"
+key = "obituaries:200701_Jones_1"
 
 [[person.meta.citation]]
 title = "El Paso Times"

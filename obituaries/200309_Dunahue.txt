@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200309_Dunahue"
+key = "obituaries:200309_Dunahue"
 
 [[person.meta.citation]]
 title = "St. Louis Post-Dispatch"

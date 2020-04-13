@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_McCoy"
+key = "obituaries:202002_McCoy"
 
 [[person.meta.citation]]
 title = "Goldfinch Funeral Home"

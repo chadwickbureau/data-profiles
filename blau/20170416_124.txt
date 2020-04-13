@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_124"
+key = "blau:20170416_124"
 
 [[person.meta.citation]]
 title = "Zanesville Times Recorder"

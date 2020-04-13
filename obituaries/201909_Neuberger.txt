@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Neuberger"
+key = "obituaries:201909_Neuberger"
 
 [[person.meta.citation]]
 title = ""

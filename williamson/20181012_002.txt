@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181012_002"
+key = "williamson:20181012_002"
 
 [[person.meta.citation]]
 title = "The (Shreveport) Times"

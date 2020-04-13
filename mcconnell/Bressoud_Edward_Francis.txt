@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Bressoud_Edward_Francis"
+key = "mcconnell:Bressoud_Edward_Francis"
 
 [person.name]
 last = "Bressoud"

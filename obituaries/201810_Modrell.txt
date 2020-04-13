@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Modrell"
+key = "obituaries:201810_Modrell"
 
 [[person.meta.citation]]
 title = "The Sacramento Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Johannes"
+key = "obituaries:201806_Johannes"
 
 [[person.meta.citation]]
 title = "Gainesville Sun"

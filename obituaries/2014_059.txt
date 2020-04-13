@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_059"
+key = "obituaries:2014_059"
 
 [[person.meta.citation]]
 title = "yourconroenews.com"

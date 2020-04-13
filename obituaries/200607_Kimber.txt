@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200607_Kimber"
+key = "obituaries:200607_Kimber"
 
 [[person.meta.citation]]
 title = "Central New Jersey Home News"

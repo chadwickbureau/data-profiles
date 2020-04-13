@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200305_024"
+key = "blau:20200305_024"
 
 [[person.meta.citation]]
 title = "Corsicana Daily Sun"

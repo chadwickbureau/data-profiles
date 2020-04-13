@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_177"
+key = "obituaries:2017_177"
 
 [[person.meta.citation]]
 title = "Ralph F. Scott Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Groth"
+key = "obituaries:201901_Groth"
 
 [[person.meta.citation]]
 title = "Garden Chapel Funeral Home"

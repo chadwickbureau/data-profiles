@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Kovalsky"
+key = "obituaries:201909_Kovalsky"
 
 [[person.meta.citation]]
 title = "Trenton Times"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Jackson"
+key = "obituaries:201808_Jackson"
 
 [[person.meta.citation]]
 title = "Memorial Park Funeral Home"

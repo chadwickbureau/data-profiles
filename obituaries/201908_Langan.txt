@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Langan"
+key = "obituaries:201908_Langan"
 
 [[person.meta.citation]]
 title = "Printy Funeral Home"

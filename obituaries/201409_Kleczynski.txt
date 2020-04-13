@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Kleczynski"
+key = "obituaries:201409_Kleczynski"
 
 [[person.meta.citation]]
 title = "News Item"

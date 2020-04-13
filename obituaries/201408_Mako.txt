@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Mako"
+key = "obituaries:201408_Mako"
 
 [[person.meta.citation]]
 title = "The Oregonian"

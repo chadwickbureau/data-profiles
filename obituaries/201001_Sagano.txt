@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201001_Sagano"
+key = "obituaries:201001_Sagano"
 
 [[person.meta.citation]]
 title = "OB News"

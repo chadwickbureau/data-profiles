@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_063"
+key = "obituaries:2017_063"
 
 [[person.meta.citation]]
 title = "Mount Shasta News"

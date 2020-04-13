@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Cox"
+key = "obituaries:202003_Cox"
 
 [[person.meta.citation]]
 title = "Barnes Friederich Funeral Home"

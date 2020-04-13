@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Schuh"
+key = "obituaries:201911_Schuh"
 
 [[person.meta.citation]]
 title = "Stradling Funeral Homes"

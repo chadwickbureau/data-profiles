@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Scott"
+key = "obituaries:202002_Scott"
 
 [[person.meta.citation]]
 title = "Times-Enterprise"

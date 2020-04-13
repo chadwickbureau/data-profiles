@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190113_015"
+key = "morris:20190113_015"
 
 [[person.meta.citation]]
 title = "Hartford Courant"

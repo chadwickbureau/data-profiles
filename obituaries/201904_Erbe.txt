@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Erbe"
+key = "obituaries:201904_Erbe"
 
 [[person.meta.citation]]
 title = "C. H. Landers Funeral Home"

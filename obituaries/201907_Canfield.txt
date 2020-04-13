@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Canfield"
+key = "obituaries:201907_Canfield"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_169"
+key = "obituaries:2017_169"
 
 [[person.meta.citation]]
 title = "Woodward Funeral Home"

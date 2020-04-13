@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Senger"
+key = "obituaries:201405_Senger"
 
 [[person.meta.citation]]
 title = "Tampa Bay Times"

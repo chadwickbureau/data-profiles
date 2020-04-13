@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201800_Stepp"
+key = "obituaries:201800_Stepp"
 
 [[person.meta.citation]]
 title = "Houston Chronicle"

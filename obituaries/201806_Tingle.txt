@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Tingle"
+key = "obituaries:201806_Tingle"
 
 [[person.meta.citation]]
 title = "Hazel Green Funeral Home"

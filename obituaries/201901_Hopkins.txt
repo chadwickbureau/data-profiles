@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Hopkins"
+key = "obituaries:201901_Hopkins"
 
 [[person.meta.citation]]
 title = "L. Harold Poole Funeral Home"

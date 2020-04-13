@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Mitchell_Bobby"
+key = "obituaries:201909_Mitchell_Bobby"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

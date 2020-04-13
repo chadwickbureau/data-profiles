@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Bowman"
+key = "obituaries:201908_Bowman"
 
 [[person.meta.citation]]
 title = "Snyder's Memorial Gardens"

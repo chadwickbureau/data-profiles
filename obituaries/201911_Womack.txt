@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Womack"
+key = "obituaries:201911_Womack"
 
 [[person.meta.citation]]
 title = "Daly Leach Memorial Chapel"

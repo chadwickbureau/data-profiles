@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_081"
+key = "obituaries:2017_081"
 
 [[person.meta.citation]]
 title = "AzCentral.com"

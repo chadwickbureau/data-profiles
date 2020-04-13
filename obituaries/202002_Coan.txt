@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Coan"
+key = "obituaries:202002_Coan"
 
 [[person.meta.citation]]
 title = "Moore-Blanchard Funeral Home"

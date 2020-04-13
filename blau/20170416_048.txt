@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_048"
+key = "blau:20170416_048"
 
 [[person.meta.citation]]
 title = "Lincoln Star"

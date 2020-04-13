@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Taranto"
+key = "obituaries:201406_Taranto"
 
 [[person.meta.citation]]
 title = "Sun Herald"

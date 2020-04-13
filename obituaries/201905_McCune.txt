@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_McCune"
+key = "obituaries:201905_McCune"
 
 [[person.meta.citation]]
 title = "Dayton Daily News"

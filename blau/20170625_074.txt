@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_074"
+key = "blau:20170625_074"
 
 [[person.meta.citation]]
 title = "Kingsport Times"

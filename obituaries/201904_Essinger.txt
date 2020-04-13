@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Essinger"
+key = "obituaries:201904_Essinger"
 
 [[person.meta.citation]]
 title = "Swartz Funeral Home"

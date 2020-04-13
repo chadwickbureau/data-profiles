@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Eberle"
+key = "obituaries:201408_Eberle"
 
 [[person.meta.citation]]
 title = "Claremont Courier"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "198807_Sisler"
+key = "obituaries:198807_Sisler"
 
 [[person.meta.citation]]
 title = "Tampa Bay Times"

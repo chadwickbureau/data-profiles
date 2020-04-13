@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200402_Wiley"
+key = "obituaries:200402_Wiley"
 
 [[person.meta.citation]]
 title = "Wittich Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_098"
+key = "obituaries:2017_098"
 
 [[person.meta.citation]]
 title = "Kansas City Star"

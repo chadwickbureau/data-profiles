@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Larsen"
+key = "obituaries:202001_Larsen"
 
 [[person.meta.citation]]
 title = "Bonner County Daily Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Sterling"
+key = "obituaries:201912_Sterling"
 
 [[person.meta.citation]]
 title = "Starr Funeral Home"

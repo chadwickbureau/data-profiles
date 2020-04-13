@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Segura"
+key = "obituaries:202001_Segura"
 
 [[person.meta.citation]]
 title = "ESPN.com"

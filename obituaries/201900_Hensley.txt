@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Hensley"
+key = "obituaries:201900_Hensley"
 
 [[person.meta.citation]]
 title = "Matthews Funeral Home"

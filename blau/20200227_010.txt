@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200227_010"
+key = "blau:20200227_010"
 
 [[person.meta.citation]]
 title = "New Orleans Times-Democrat"

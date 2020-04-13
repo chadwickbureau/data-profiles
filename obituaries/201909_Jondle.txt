@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Jondle"
+key = "obituaries:201909_Jondle"
 
 [[person.meta.citation]]
 title = "Long Beach Press-Telegram"

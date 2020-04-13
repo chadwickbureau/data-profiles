@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_102"
+key = "blau:20170319_102"
 
 [[person.meta.citation]]
 title = "Altoona Tribune"

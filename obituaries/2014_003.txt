@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_003"
+key = "obituaries:2014_003"
 
 [[person.meta.citation]]
 title = "Peaceful Alternatives Funeral and Cremation Center"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Takagi"
+key = "obituaries:202001_Takagi"
 
 [[person.meta.citation]]
 title = "The Mainichi"

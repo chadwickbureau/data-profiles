@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Rodenberger"
+key = "obituaries:201910_Rodenberger"
 
 [[person.meta.citation]]
 title = "Dudley Hoffman Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200227_002"
+key = "blau:20200227_002"
 
 [[person.meta.citation]]
 title = "Aberdeen Daily News"

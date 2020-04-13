@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_035"
+key = "blau:20170416_035"
 
 [[person.meta.citation]]
 title = "Davenport Democrat and Leader"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Gillam"
+key = "obituaries:201903_Gillam"
 
 [[person.meta.citation]]
 title = "Durango Herald"

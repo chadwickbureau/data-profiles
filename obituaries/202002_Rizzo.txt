@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Rizzo"
+key = "obituaries:202002_Rizzo"
 
 [[person.meta.citation]]
 title = "Beidelman-Kunsch Funeral Home"

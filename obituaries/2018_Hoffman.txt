@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2018_Hoffman"
+key = "obituaries:2018_Hoffman"
 
 [[person.meta.citation]]
 title = "John Feeney Funeral Home"

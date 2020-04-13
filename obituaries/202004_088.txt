@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_088"
+key = "obituaries:202004_088"
 
 [[person.meta.citation]]
 title = "Bjork & Zhulkie Funeral Home"

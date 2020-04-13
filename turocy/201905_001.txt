@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_001"
+key = "turocy:201905_001"
 
 [[person.meta.citation]]
 title = "ottawachampions.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_170"
+key = "obituaries:2017_170"
 
 [[person.meta.citation]]
 title = "Bartolomeo & Perotto Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Hornsby"
+key = "obituaries:201408_Hornsby"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

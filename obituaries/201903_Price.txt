@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Price"
+key = "obituaries:201903_Price"
 
 [[person.meta.citation]]
 title = "Ventura County Star"

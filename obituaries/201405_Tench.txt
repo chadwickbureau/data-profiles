@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Tench"
+key = "obituaries:201405_Tench"
 
 [[person.meta.citation]]
 title = "Trail Daily Times"

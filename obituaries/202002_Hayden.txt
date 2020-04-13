@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Hayden"
+key = "obituaries:202002_Hayden"
 
 [[person.meta.citation]]
 title = "Kreighbaum-Sanders Funeral Home"

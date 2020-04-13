@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Schneider"
+key = "obituaries:201911_Schneider"
 
 [[person.meta.citation]]
 title = "Moll Funeral Home"

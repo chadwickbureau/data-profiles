@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Giordano"
+key = "obituaries:201902_Giordano"
 
 [[person.meta.citation]]
 title = "APNews.com"

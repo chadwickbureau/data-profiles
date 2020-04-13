@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Wilson"
+key = "obituaries:201812_Wilson"
 
 [[person.meta.citation]]
 title = "McHoul Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Schulz"
+key = "obituaries:201311_Schulz"
 
 [[person.meta.citation]]
 title = "Great Falls Tribune"

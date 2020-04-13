@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_136"
+key = "blau:20170521_136"
 
 [[person.meta.citation]]
 title = "Palm Beach Post"

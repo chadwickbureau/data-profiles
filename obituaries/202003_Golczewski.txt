@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Golczewski"
+key = "obituaries:202003_Golczewski"
 
 [[person.meta.citation]]
 title = "McComas Family Funeral Homes"

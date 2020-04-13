@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Stelma"
+key = "obituaries:201310_Stelma"
 
 [[person.meta.citation]]
 title = "Times Leader"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Tamasy"
+key = "obituaries:201812_Tamasy"
 
 [[person.meta.citation]]
 title = "Kedz Funeral Home"

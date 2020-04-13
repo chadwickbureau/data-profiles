@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_DeLucca_1"
+key = "obituaries:202002_DeLucca_1"
 
 [[person.meta.citation]]
 title = "Newsday"

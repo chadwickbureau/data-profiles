@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Geffe"
+key = "obituaries:201311_Geffe"
 
 [[person.meta.citation]]
 title = "Columbian"

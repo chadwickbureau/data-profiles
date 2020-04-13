@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Watts"
+key = "obituaries:201812_Watts"
 
 [[person.meta.citation]]
 title = "Campbell-Aman Funeral Home"

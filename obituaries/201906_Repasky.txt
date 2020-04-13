@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Repasky"
+key = "obituaries:201906_Repasky"
 
 [[person.meta.citation]]
 title = "Becker Funeral Home"

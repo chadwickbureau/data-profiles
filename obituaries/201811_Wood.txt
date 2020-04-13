@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Wood"
+key = "obituaries:201811_Wood"
 
 [[person.meta.citation]]
 title = "The Arizona Republic"

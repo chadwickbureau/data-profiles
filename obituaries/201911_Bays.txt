@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Bays"
+key = "obituaries:201911_Bays"
 
 [[person.meta.citation]]
 title = "Halbritter Wickens Funeral Service"

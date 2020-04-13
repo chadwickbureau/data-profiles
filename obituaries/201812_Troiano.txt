@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Troiano"
+key = "obituaries:201812_Troiano"
 
 [[person.meta.citation]]
 title = "Iovanne Funeral Home"

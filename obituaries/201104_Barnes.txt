@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201104_Barnes"
+key = "obituaries:201104_Barnes"
 
 [[person.meta.citation]]
 title = "Oakdale Mortuary & Oakdale Memorial Park"

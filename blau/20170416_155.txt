@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_155"
+key = "blau:20170416_155"
 
 [[person.meta.citation]]
 title = "Salina Evening Journal"

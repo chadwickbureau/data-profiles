@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Plaia"
+key = "obituaries:201406_Plaia"
 
 [[person.meta.citation]]
 title = "Dignity Memorial.com"

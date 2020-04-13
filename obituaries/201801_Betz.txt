@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Betz"
+key = "obituaries:201801_Betz"
 
 [[person.meta.citation]]
 title = "Mission Park Funeral Home"

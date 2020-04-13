@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Adams"
+key = "obituaries:201911_Adams"
 
 [[person.meta.citation]]
 title = "Lanham-Schanhofer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1914_001"
+key = "morris:1914_001"
 
 [[person.meta.citation]]
 title = "Charlotte Observer"

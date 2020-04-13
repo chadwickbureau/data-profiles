@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_073"
+key = "blau:20170625_073"
 
 [[person.meta.citation]]
 title = "Decatur Herald"

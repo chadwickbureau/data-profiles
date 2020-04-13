@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Lang"
+key = "obituaries:201807_Lang"
 
 [[person.meta.citation]]
 title = "Randle-Dable-Brisk Funeral Home"

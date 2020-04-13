@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_021"
+key = "obituaries:202004_021"
 
 [[person.meta.citation]]
 title = "Birmingham News"

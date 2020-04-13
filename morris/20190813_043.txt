@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190813_043"
+key = "morris:20190813_043"
 
 [[person.meta.citation]]
 title = "Twin-City Daily Sentinel"

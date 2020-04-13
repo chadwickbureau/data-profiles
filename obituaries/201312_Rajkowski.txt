@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Rajkowski"
+key = "obituaries:201312_Rajkowski"
 
 [[person.meta.citation]]
 title = "Chicago Tribune"

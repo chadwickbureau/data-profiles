@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_037"
+key = "morris:20190531_037"
 
 [[person.meta.citation]]
 title = "Albany Evening Journal"

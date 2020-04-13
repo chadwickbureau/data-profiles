@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_028"
+key = "blau:20170521_028"
 
 [[person.meta.citation]]
 title = "Nashville Tennessean"

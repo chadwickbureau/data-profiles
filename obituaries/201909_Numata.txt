@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Numata"
+key = "obituaries:201909_Numata"
 
 [[person.meta.citation]]
 title = "Pittsburgh Post-Gazette"

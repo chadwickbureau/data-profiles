@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Elble"
+key = "obituaries:202001_Elble"
 
 [[person.meta.citation]]
 title = "Kibler Brady Ruestman Memorial Home"

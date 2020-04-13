@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_154"
+key = "obituaries:2017_154"
 
 [[person.meta.citation]]
 title = "Coos Bay Area Funerals"

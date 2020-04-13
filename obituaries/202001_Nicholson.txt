@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Nicholson"
+key = "obituaries:202001_Nicholson"
 
 [[person.meta.citation]]
 title = "Alexander & Houle Funeral Home"

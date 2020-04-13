@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190218_002"
+key = "morris:20190218_002"
 
 [[person.meta.citation]]
 title = "Richmond Times-Dispatch"

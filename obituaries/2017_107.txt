@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_107"
+key = "obituaries:2017_107"
 
 [[person.meta.citation]]
 title = "Bronson & Guthlein Funeral Home"

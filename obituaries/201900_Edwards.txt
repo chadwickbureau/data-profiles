@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Edwards"
+key = "obituaries:201900_Edwards"
 
 [[person.meta.citation]]
 title = "Porterville Recorder"

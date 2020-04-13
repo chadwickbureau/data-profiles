@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Christianson"
+key = "obituaries:201807_Christianson"
 
 [[person.meta.citation]]
 title = "Gunderson Funeral Home"

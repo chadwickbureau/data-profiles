@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Wilz"
+key = "obituaries:201409_Wilz"
 
 [[person.meta.citation]]
 title = "Dayton Daily News"

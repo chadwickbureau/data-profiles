@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Laubacher"
+key = "obituaries:201807_Laubacher"
 
 [[person.meta.citation]]
 title = "Idaho Stateman"

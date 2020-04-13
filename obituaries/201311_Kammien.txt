@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Kammien"
+key = "obituaries:201311_Kammien"
 
 [[person.meta.citation]]
 title = "St. Louis Post-Dispatch"

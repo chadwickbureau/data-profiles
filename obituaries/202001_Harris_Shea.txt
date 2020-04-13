@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Harris_Shea"
+key = "obituaries:202001_Harris_Shea"
 
 [[person.meta.citation]]
 title = "Smith Funeral Home"

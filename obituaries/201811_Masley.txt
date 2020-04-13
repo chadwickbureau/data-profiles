@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Masley"
+key = "obituaries:201811_Masley"
 
 [[person.meta.citation]]
 title = "The Times"

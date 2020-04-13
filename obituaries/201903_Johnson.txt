@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Johnson"
+key = "obituaries:201903_Johnson"
 
 [[person.meta.citation]]
 title = "Little Rock Funeral Home"

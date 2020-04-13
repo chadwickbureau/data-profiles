@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Herrero"
+key = "obituaries:201901_Herrero"
 
 [[person.meta.citation]]
 title = "San Jose Mercury News"

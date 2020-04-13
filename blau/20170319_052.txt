@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_052"
+key = "blau:20170319_052"
 
 [[person.meta.citation]]
 title = "Lincoln Evening Journal"

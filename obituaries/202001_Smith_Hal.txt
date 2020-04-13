@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Smith_Hal"
+key = "obituaries:202001_Smith_Hal"
 
 [[person.meta.citation]]
 title = "Henneke Funeral Home"

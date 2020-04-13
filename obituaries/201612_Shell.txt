@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201612_Shell"
+key = "obituaries:201612_Shell"
 
 [[person.meta.citation]]
 title = "Ramsey Funeral Home"

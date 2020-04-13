@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Garvey"
+key = "obituaries:202001_Garvey"
 
 [[person.meta.citation]]
 title = "Long Neck Chapel"

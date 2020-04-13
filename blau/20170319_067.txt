@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_067"
+key = "blau:20170319_067"
 
 [[person.meta.citation]]
 title = "Olean Times Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200806_Anderson"
+key = "obituaries:200806_Anderson"
 
 [[person.meta.citation]]
 title = "Tributes.com"

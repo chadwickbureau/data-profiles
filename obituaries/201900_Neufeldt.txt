@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Neufeldt"
+key = "obituaries:201900_Neufeldt"
 
 [[person.meta.citation]]
 title = "Chicago Tribune"

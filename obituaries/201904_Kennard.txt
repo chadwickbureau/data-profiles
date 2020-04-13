@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Kennard"
+key = "obituaries:201904_Kennard"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Bohner"
+key = "obituaries:201911_Bohner"
 
 [[person.meta.citation]]
 title = "Monahan Funeral Home"

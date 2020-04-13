@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Hodges"
+key = "obituaries:201912_Hodges"
 
 [[person.meta.citation]]
 title = "Victoria Times Colonist"

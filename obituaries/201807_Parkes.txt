@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Parkes"
+key = "obituaries:201807_Parkes"
 
 [[person.meta.citation]]
 title = "Sonoran Skies Mortuary"

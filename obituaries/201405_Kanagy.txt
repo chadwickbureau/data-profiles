@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Kanagy"
+key = "obituaries:201405_Kanagy"
 
 [[person.meta.citation]]
 title = "U-T San Diego"

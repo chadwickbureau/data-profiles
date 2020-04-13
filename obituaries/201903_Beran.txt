@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Beran"
+key = "obituaries:201903_Beran"
 
 [[person.meta.citation]]
 title = "Roberts-Blue-Barnett Funeral Home"

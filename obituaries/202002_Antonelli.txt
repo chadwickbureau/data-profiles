@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Antonelli"
+key = "obituaries:202002_Antonelli"
 
 [[person.meta.citation]]
 title = "Anthony Chapels"

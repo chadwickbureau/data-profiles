@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Hill"
+key = "obituaries:201904_Hill"
 
 [[person.meta.citation]]
 title = "Lininger-Fries Funeral Home"

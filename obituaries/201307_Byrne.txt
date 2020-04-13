@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201307_Byrne"
+key = "obituaries:201307_Byrne"
 
 [[person.meta.citation]]
 title = "Obitsforlife.com"

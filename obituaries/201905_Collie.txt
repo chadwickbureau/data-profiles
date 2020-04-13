@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Collie"
+key = "obituaries:201905_Collie"
 
 [[person.meta.citation]]
 title = "Richard Boles Funeral Service"

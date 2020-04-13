@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_057"
+key = "obituaries:202004_057"
 
 [[person.meta.citation]]
 title = "Schepner-McDermott Funeral Home"

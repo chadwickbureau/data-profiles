@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Penso"
+key = "obituaries:201901_Penso"
 
 [[person.meta.citation]]
 title = "Seattle Times"

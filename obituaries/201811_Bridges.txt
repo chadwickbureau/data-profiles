@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Bridges"
+key = "obituaries:201811_Bridges"
 
 [[person.meta.citation]]
 title = "Parker Mortuary"

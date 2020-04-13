@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200213_012"
+key = "blau:20200213_012"
 
 [[person.meta.citation]]
 title = "Pittsburgh Post-Gazette"

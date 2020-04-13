@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Jolly"
+key = "obituaries:201912_Jolly"
 
 [[person.meta.citation]]
 title = "Miami News-Record"

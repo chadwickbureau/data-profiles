@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Peterson"
+key = "obituaries:201806_Peterson"
 
 [[person.meta.citation]]
 title = "Antigo Times"

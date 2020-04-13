@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_116"
+key = "obituaries:2017_116"
 
 [[person.meta.citation]]
 title = "St. Louis Post-Dispatch"

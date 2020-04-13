@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Schoenberger"
+key = "obituaries:201909_Schoenberger"
 
 [[person.meta.citation]]
 title = "Doulin Newburgh Funeral Home"

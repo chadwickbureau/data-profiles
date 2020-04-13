@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Bird"
+key = "obituaries:201910_Bird"
 
 [[person.meta.citation]]
 title = "The Island Funeral Home"

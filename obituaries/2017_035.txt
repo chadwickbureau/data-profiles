@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_035"
+key = "obituaries:2017_035"
 
 [[person.meta.citation]]
 title = "Missoulian"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191226_010"
+key = "blau:20191226_010"
 
 [[person.meta.citation]]
 title = "Thomasville Times Enterprise"

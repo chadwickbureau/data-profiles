@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Stanka"
+key = "obituaries:201810_Stanka"
 
 [[person.meta.citation]]
 title = "Schmidt Funeral Home"

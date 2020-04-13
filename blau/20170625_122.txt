@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_122"
+key = "blau:20170625_122"
 
 [[person.meta.citation]]
 title = "Danville Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_018"
+key = "blau:20170319_018"
 
 [[person.meta.citation]]
 title = "Connellsville Daily Courier"

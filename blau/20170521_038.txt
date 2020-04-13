@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_038"
+key = "blau:20170521_038"
 
 [[person.meta.citation]]
 title = "Springfield (MO) Leader"

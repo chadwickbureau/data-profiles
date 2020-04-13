@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Hersha"
+key = "obituaries:201903_Hersha"
 
 [[person.meta.citation]]
 title = "Gorsline Runciman Funeral Homes"

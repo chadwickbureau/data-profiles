@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200206_004"
+key = "blau:20200206_004"
 
 [[person.meta.citation]]
 title = "Chicago Inter Ocean"

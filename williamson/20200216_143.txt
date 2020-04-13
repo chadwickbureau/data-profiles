@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200216_143"
+key = "williamson:20200216_143"
 
 [[person.meta.citation]]
 title = "Memphis Commercial Appeal"

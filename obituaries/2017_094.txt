@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_094"
+key = "obituaries:2017_094"
 
 [[person.meta.citation]]
 title = "J. T. Fisher Funeral Home"

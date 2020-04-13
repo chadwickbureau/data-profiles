@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201410_Segovia"
+key = "obituaries:201410_Segovia"
 
 [[person.meta.citation]]
 title = "Mission Mortuary"

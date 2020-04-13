@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Smith"
+key = "obituaries:201901_Smith"
 
 [[person.meta.citation]]
 title = "Doughty Funeral Home"

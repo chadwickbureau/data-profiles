@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Falk"
+key = "obituaries:201907_Falk"
 
 [[person.meta.citation]]
 title = "Jennings, Nulton & Mattle Funeral Home"

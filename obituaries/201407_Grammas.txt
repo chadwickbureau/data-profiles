@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Grammas"
+key = "obituaries:201407_Grammas"
 
 [[person.meta.citation]]
 title = "Birmingham News"

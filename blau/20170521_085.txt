@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_085"
+key = "blau:20170521_085"
 
 [[person.meta.citation]]
 title = "Anniston Star"

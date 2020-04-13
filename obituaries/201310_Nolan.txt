@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Nolan"
+key = "obituaries:201310_Nolan"
 
 [[person.meta.citation]]
 title = "Charleston Post & Courier"

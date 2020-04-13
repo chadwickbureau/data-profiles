@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Brechtel"
+key = "obituaries:201408_Brechtel"
 
 [[person.meta.citation]]
 title = "Ridgway Record"

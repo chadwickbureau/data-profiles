@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Fleming"
+key = "obituaries:201809_Fleming"
 
 [[person.meta.citation]]
 title = "Louisville Memorial Garden Funeral Home"

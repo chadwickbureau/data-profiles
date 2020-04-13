@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Rullmann"
+key = "obituaries:202001_Rullmann"
 
 [[person.meta.citation]]
 title = "ClarksvilleNow.com"

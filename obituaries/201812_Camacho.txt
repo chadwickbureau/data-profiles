@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Camacho"
+key = "obituaries:201812_Camacho"
 
 [[person.meta.citation]]
 title = "Saunders-Dwyer Funeral Home"

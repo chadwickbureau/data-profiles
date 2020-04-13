@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_King"
+key = "obituaries:201905_King"
 
 [[person.meta.citation]]
 title = "Mercury News"

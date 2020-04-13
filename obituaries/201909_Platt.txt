@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Platt"
+key = "obituaries:201909_Platt"
 
 [[person.meta.citation]]
 title = "San Jose Mercury News"

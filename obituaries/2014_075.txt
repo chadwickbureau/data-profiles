@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_075"
+key = "obituaries:2014_075"
 
 [[person.meta.citation]]
 title = "W. J. Lyons Jr. Funeral Home"

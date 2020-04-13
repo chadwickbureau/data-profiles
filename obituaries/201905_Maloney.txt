@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Maloney"
+key = "obituaries:201905_Maloney"
 
 [[person.meta.citation]]
 title = "Boston Globe"

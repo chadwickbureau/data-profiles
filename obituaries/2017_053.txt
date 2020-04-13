@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_053"
+key = "obituaries:2017_053"
 
 [[person.meta.citation]]
 title = "Shirley & Stout Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Anderlik"
+key = "obituaries:201807_Anderlik"
 
 [[person.meta.citation]]
 title = "Spokesman-Review"

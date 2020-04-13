@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_061"
+key = "obituaries:2017_061"
 
 [[person.meta.citation]]
 title = "Daily Press"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Ramstack"
+key = "obituaries:202002_Ramstack"
 
 [[person.meta.citation]]
 title = "Schmidt & Bartelt Funeral Home"

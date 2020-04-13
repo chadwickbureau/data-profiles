@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_019"
+key = "blau:20200130_019"
 
 [[person.meta.citation]]
 title = "Beatrice Daily Express"

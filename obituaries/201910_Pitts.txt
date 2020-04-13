@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Pitts"
+key = "obituaries:201910_Pitts"
 
 [[person.meta.citation]]
 title = "Derfelt Funeral Home"

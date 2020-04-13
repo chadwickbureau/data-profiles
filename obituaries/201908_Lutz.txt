@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Lutz"
+key = "obituaries:201908_Lutz"
 
 [[person.meta.citation]]
 title = "Horan Funeral Home"

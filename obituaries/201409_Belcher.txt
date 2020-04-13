@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Belcher"
+key = "obituaries:201409_Belcher"
 
 [[person.meta.citation]]
 title = "Rosewood-Kellum Funeral Home"

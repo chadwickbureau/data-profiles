@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Mulligan"
+key = "obituaries:201806_Mulligan"
 
 [[person.meta.citation]]
 title = "Crandall Funeral Home"

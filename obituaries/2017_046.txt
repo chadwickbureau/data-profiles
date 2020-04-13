@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_046"
+key = "obituaries:2017_046"
 
 [[person.meta.citation]]
 title = "Turner Funeral Home"

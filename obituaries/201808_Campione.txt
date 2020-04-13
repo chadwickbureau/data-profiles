@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Campione"
+key = "obituaries:201808_Campione"
 
 [[person.meta.citation]]
 title = "Delhomme Funeral Home"

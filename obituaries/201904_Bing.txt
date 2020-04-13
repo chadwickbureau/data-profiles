@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Bing"
+key = "obituaries:201904_Bing"
 
 [[person.meta.citation]]
 title = "Wackerly Funeral Home"

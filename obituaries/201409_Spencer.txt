@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Spencer"
+key = "obituaries:201409_Spencer"
 
 [[person.meta.citation]]
 title = "Columbus Dispatch"

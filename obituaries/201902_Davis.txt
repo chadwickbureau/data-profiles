@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Davis"
+key = "obituaries:201902_Davis"
 
 [[person.meta.citation]]
 title = "Ridge Funeral Home"

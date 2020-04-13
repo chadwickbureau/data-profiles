@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Shoblom"
+key = "obituaries:201805_Shoblom"
 
 [[person.meta.citation]]
 title = "Amico Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201304_010"
+key = "morris:201304_010"
 
 [[person.meta.citation]]
 title = "Minnesota, Births and Christening Index, 1840-1980"

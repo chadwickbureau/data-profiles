@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Griesheimer"
+key = "obituaries:201808_Griesheimer"
 
 [[person.meta.citation]]
 title = "Ware Funeral Home"

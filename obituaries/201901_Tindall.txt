@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Tindall"
+key = "obituaries:201901_Tindall"
 
 [[person.meta.citation]]
 title = "Koschek & Porter Funeral Home"

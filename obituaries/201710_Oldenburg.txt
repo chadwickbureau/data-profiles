@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201710_Oldenburg"
+key = "obituaries:201710_Oldenburg"
 
 [[person.meta.citation]]
 title = "Louisiana Funeral Services"

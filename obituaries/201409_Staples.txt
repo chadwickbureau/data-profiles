@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Staples"
+key = "obituaries:201409_Staples"
 
 [[person.meta.citation]]
 title = "Pioneer Press"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_McCullough"
+key = "obituaries:201405_McCullough"
 
 [[person.meta.citation]]
 title = "Florida Times-Union"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_066"
+key = "obituaries:202004_066"
 
 [[person.meta.citation]]
 title = "Doyle Funeral Home"

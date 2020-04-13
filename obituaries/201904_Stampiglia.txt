@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Stampiglia"
+key = "obituaries:201904_Stampiglia"
 
 [[person.meta.citation]]
 title = "Flynn Funeral Home"

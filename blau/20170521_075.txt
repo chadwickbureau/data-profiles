@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_075"
+key = "blau:20170521_075"
 
 [[person.meta.citation]]
 title = "Wilkes-Barre Times Leader"

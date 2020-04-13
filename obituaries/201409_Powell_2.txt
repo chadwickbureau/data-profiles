@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Powell_2"
+key = "obituaries:201409_Powell_2"
 
 [[person.meta.citation]]
 title = "Anderson-Ragsdale Mortuary"

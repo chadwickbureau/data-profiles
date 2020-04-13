@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Marchelli"
+key = "obituaries:201811_Marchelli"
 
 [[person.meta.citation]]
 title = "Campbell Funeral Home"

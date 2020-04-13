@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Torchia"
+key = "obituaries:201712_Torchia"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

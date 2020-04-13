@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170219_104"
+key = "blau:20170219_104"
 
 [[person.meta.citation]]
 title = "Abilene Reporter"

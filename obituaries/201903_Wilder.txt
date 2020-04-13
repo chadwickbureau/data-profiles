@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Wilder"
+key = "obituaries:201903_Wilder"
 
 [[person.meta.citation]]
 title = "Ideal Funeral Parlor"

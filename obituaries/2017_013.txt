@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_013"
+key = "obituaries:2017_013"
 
 [[person.meta.citation]]
 title = "Florida Today"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Romano"
+key = "obituaries:201902_Romano"
 
 [[person.meta.citation]]
 title = "Fuller Funeral Home"

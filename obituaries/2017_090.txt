@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_090"
+key = "obituaries:2017_090"
 
 [[person.meta.citation]]
 title = "Bluffton Funeral Home"

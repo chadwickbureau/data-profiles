@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "21132"
+key = "tsncards:21132"
 
 [[person.meta.citation]]
 url = "https://digital.la84.org/digital/collection/p17103coll3/id/21132"

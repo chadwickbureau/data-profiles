@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Jordan"
+key = "obituaries:202003_Jordan"
 
 [[person.meta.citation]]
 title = "News Mirror"

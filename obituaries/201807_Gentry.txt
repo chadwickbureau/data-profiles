@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Gentry"
+key = "obituaries:201807_Gentry"
 
 [[person.meta.citation]]
 title = "Oakley-Cook Funeral Home"

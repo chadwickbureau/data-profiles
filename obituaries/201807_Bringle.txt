@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Bringle"
+key = "obituaries:201807_Bringle"
 
 [[person.meta.citation]]
 title = "Summersett Funeral Home"

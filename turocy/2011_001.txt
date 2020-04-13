@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2011_001"
+key = "turocy:2011_001"
 
 [person.name]
 last = "Decker"

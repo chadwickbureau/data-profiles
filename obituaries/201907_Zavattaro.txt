@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Zavattaro"
+key = "obituaries:201907_Zavattaro"
 
 [[person.meta.citation]]
 title = "Berkshire Eagle"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Richardson"
+key = "obituaries:201911_Richardson"
 
 [[person.meta.citation]]
 title = "Kilgore Green Funeral Home"

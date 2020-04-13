@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201011_Castleberry"
+key = "obituaries:201011_Castleberry"
 
 [[person.meta.citation]]
 title = "Cincinnati Enquirer"

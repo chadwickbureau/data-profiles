@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Luciano"
+key = "obituaries:201409_Luciano"
 
 [[person.meta.citation]]
 title = "Connecticut Post"

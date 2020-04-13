@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_008"
+key = "blau:20170625_008"
 
 [[person.meta.citation]]
 title = "2017 National Pastime"

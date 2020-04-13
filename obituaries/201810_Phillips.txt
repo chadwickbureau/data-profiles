@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Phillips"
+key = "obituaries:201810_Phillips"
 
 [[person.meta.citation]]
 title = "Daily Breeze"

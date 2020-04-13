@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Carpenter"
+key = "obituaries:201806_Carpenter"
 
 [[person.meta.citation]]
 title = "E. Alvin Small Funeral Home"

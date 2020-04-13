@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_DeMarco"
+key = "obituaries:201408_DeMarco"
 
 [[person.meta.citation]]
 title = "Press Democrat"

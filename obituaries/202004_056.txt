@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_056"
+key = "obituaries:202004_056"
 
 [[person.meta.citation]]
 title = "Island Packet"

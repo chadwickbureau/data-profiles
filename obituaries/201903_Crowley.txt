@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Crowley"
+key = "obituaries:201903_Crowley"
 
 [[person.meta.citation]]
 title = "Marley Funeral Home"

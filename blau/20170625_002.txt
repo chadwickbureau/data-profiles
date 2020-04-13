@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_002"
+key = "blau:20170625_002"
 
 [[person.meta.citation]]
 title = "Iowa City Press-Citizen"

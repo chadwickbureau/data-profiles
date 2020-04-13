@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Marentette"
+key = "obituaries:201405_Marentette"
 
 [[person.meta.citation]]
 title = "Weigel Funeral Homes"

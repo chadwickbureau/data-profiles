@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Vreeland"
+key = "obituaries:201904_Vreeland"
 
 [[person.meta.citation]]
 title = "Journal News"

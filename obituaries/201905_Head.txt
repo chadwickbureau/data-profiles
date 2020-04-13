@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Head"
+key = "obituaries:201905_Head"
 
 [[person.meta.citation]]
 title = "Saska Funeral Homes"

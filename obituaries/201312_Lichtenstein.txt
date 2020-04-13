@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Lichtenstein"
+key = "obituaries:201312_Lichtenstein"
 
 [[person.meta.citation]]
 title = "Greenwood Funeral Home"

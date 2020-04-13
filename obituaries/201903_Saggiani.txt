@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Saggiani"
+key = "obituaries:201903_Saggiani"
 
 [[person.meta.citation]]
 title = "Green Hills Mortuary"

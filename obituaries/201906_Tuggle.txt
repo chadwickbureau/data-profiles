@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Tuggle"
+key = "obituaries:201906_Tuggle"
 
 [[person.meta.citation]]
 title = "Jones-Wynn Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_West"
+key = "obituaries:202001_West"
 
 [[person.meta.citation]]
 title = "Billings Funeral Home"

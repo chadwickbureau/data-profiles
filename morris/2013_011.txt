@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_011"
+key = "morris:2013_011"
 
 [[person.meta.citation]]
 title = "U.S. Cemetery and Funeral Home Collection, Ancestry.com"

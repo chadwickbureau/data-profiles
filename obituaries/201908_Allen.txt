@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Allen"
+key = "obituaries:201908_Allen"
 
 [[person.meta.citation]]
 title = "Thomas C. Strickland And Sons Funeral Home"

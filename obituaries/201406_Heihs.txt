@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Heihs"
+key = "obituaries:201406_Heihs"
 
 [[person.meta.citation]]
 title = "Peoria Journal Star"

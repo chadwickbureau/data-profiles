@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Sullivan"
+key = "obituaries:201809_Sullivan"
 
 [[person.meta.citation]]
 title = "Newsday"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Fatur"
+key = "obituaries:201811_Fatur"
 
 [[person.meta.citation]]
 title = "Kepple Graft Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_146"
+key = "obituaries:2017_146"
 
 [[person.meta.citation]]
 title = "Harris J. Will Funeral Homes"

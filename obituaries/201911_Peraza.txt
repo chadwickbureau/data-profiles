@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Peraza"
+key = "obituaries:201911_Peraza"
 
 [[person.meta.citation]]
 title = "Vanguardia.com.mx"

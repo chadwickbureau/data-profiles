@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Cosmidis"
+key = "obituaries:201906_Cosmidis"
 
 [[person.meta.citation]]
 title = "Bright Funeral Home"

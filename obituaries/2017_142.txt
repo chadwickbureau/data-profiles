@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_142"
+key = "obituaries:2017_142"
 
 [[person.meta.citation]]
 title = "Asbury Park Press"

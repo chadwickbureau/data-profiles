@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Cargill"
+key = "obituaries:202001_Cargill"
 
 [[person.meta.citation]]
 title = "Grand Rapids Press"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Freeman"
+key = "obituaries:201808_Freeman"
 
 [[person.meta.citation]]
 title = "Hamlett-Dobson Funeral Home"

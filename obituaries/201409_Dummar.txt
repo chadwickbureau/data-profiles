@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Dummar"
+key = "obituaries:201409_Dummar"
 
 [[person.meta.citation]]
 title = "New Haven Register"

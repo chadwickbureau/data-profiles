@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2019_04_Bullington"
+key = "obituaries:2019_04_Bullington"
 
 [[person.meta.citation]]
 title = "Kraft Funeral Services"

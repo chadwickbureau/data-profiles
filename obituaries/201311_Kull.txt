@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Kull"
+key = "obituaries:201311_Kull"
 
 [[person.meta.citation]]
 title = "August Haas Funeral Home"

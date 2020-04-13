@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Rislove"
+key = "obituaries:201904_Rislove"
 
 [[person.meta.citation]]
 title = "Virgil T. Golden Funeral Home"

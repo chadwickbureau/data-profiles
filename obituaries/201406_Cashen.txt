@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Cashen"
+key = "obituaries:201406_Cashen"
 
 [[person.meta.citation]]
 title = "AP obituary"

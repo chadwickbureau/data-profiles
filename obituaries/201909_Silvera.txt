@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Silvera"
+key = "obituaries:201909_Silvera"
 
 [[person.meta.citation]]
 title = "New York Times"

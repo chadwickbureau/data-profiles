@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Scripture"
+key = "obituaries:201811_Scripture"
 
 [[person.meta.citation]]
 title = "Bryan Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_161"
+key = "blau:20170521_161"
 
 [[person.meta.citation]]
 title = "Greenville News"

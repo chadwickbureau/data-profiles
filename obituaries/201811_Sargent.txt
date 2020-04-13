@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Sargent"
+key = "obituaries:201811_Sargent"
 
 [[person.meta.citation]]
 title = "Flint Journal"

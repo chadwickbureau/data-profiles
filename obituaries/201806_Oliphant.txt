@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Oliphant"
+key = "obituaries:201806_Oliphant"
 
 [[person.meta.citation]]
 title = "Smith Family Funeral Home"

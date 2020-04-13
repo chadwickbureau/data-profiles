@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_042"
+key = "obituaries:202004_042"
 
 [[person.meta.citation]]
 title = "Adams Funeral Chapel"

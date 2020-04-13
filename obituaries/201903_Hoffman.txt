@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Hoffman"
+key = "obituaries:201903_Hoffman"
 
 [[person.meta.citation]]
 title = "Godfrey Funeral Home"

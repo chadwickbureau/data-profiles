@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_043"
+key = "blau:20170625_043"
 
 [[person.meta.citation]]
 title = "Allentown Morning Call"

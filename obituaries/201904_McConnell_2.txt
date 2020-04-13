@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_McConnell_2"
+key = "obituaries:201904_McConnell_2"
 
 [[person.meta.citation]]
 title = "Whitney & Murphy Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_084"
+key = "obituaries:202004_084"
 
 [[person.meta.citation]]
 title = "Joseph B. Paul, Jr. Funeral Home"

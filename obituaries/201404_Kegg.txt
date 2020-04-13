@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Kegg"
+key = "obituaries:201404_Kegg"
 
 [[person.meta.citation]]
 title = "James Funeral Home"

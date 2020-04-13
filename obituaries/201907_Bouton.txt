@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Bouton"
+key = "obituaries:201907_Bouton"
 
 [[person.meta.citation]]
 title = "New York Times"

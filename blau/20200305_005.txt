@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200305_005"
+key = "blau:20200305_005"
 
 [[person.meta.citation]]
 title = "Bryan (TX) Weekly Eagle"

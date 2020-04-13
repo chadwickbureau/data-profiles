@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Carter_Leon"
+key = "obituaries:201807_Carter_Leon"
 
 [[person.meta.citation]]
 title = "Jones-Gallagher Helm-Gallagher Funeral Home"

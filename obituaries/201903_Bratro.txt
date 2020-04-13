@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Bratro"
+key = "obituaries:201903_Bratro"
 
 [[person.meta.citation]]
 title = "Humiston Funeral Home"

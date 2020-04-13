@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Tucker"
+key = "obituaries:201312_Tucker"
 
 [[person.meta.citation]]
 title = "Dignity Memorial.com"

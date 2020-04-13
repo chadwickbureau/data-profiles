@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Leonard"
+key = "obituaries:201908_Leonard"
 
 [[person.meta.citation]]
 title = "Hamlett-Dobson Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Kampschror"
+key = "obituaries:201407_Kampschror"
 
 [[person.meta.citation]]
 title = "Denver Post"

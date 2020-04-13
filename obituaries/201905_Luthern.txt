@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Luthern"
+key = "obituaries:201905_Luthern"
 
 [[person.meta.citation]]
 title = "Stewart-Kyle Funeral Home"

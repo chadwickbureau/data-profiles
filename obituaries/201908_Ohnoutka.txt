@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Ohnoutka"
+key = "obituaries:201908_Ohnoutka"
 
 [[person.meta.citation]]
 title = "Butherus, Maser & Love Funeral Home"

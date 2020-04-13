@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Richards"
+key = "obituaries:201812_Richards"
 
 [[person.meta.citation]]
 title = "Okanagan Valley Newspaper Group"

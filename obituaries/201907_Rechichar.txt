@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Rechichar"
+key = "obituaries:201907_Rechichar"
 
 [[person.meta.citation]]
 title = "James C. Stump Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_ODell"
+key = "obituaries:201809_ODell"
 
 [[person.meta.citation]]
 title = "Whitaker Funeral Home"

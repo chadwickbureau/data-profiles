@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201800_Bayno"
+key = "obituaries:201800_Bayno"
 
 [[person.meta.citation]]
 title = "Donovan Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Daughty"
+key = "obituaries:201907_Daughty"
 
 [[person.meta.citation]]
 title = "The Oklahoman"

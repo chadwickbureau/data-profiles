@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_McMillan"
+key = "obituaries:201909_McMillan"
 
 [[person.meta.citation]]
 title = "Mitchell Funeral Home"

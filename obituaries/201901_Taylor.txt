@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Taylor"
+key = "obituaries:201901_Taylor"
 
 [[person.meta.citation]]
 title = "Stofcheck-Ballinger Funeral Home"

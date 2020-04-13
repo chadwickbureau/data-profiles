@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_033"
+key = "obituaries:2017_033"
 
 [[person.meta.citation]]
 title = "Oakes & Nichols Funeral Home"

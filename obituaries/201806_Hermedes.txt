@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Hermedes"
+key = "obituaries:201806_Hermedes"
 
 [[person.meta.citation]]
 title = "Scott & Barbeiri Funeral Home"

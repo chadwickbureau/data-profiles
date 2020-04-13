@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190121_002"
+key = "morris:20190121_002"
 
 [[person.meta.citation]]
 title = "Pawtucket Times"

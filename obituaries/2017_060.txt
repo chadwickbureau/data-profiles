@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_060"
+key = "obituaries:2017_060"
 
 [[person.meta.citation]]
 title = "Bellingham Herald"

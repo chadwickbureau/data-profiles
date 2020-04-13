@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_022"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-06-08"
+pages = "20"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Pasini"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "Harriman"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Harriman"
+team.league.name = "Appalachian League"
+
+

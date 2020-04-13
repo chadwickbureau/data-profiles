@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Christie"
+key = "obituaries:201808_Christie"
 
 [[person.meta.citation]]
 title = "Neptune Society"

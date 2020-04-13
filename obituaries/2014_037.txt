@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_037"
+key = "obituaries:2014_037"
 
 [[person.meta.citation]]
 title = "UTSanDiego.com"

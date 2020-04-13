@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_McBee"
+key = "obituaries:201912_McBee"
 
 [[person.meta.citation]]
 title = "Heritage Funeral Home"

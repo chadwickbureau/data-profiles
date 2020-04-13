@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_025"
+key = "blau:20170625_025"
 
 [[person.meta.citation]]
 title = "Asbury Park Press"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Nunes"
+key = "obituaries:202001_Nunes"
 
 [[person.meta.citation]]
 title = "Fremont Chapel of the Roses"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Steinmann"
+key = "obituaries:201907_Steinmann"
 
 [[person.meta.citation]]
 title = "Burlington County Times"

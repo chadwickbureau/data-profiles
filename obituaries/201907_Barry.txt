@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Barry"
+key = "obituaries:201907_Barry"
 
 [[person.meta.citation]]
 title = "The Intelligencer"

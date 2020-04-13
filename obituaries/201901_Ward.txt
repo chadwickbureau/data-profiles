@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Ward"
+key = "obituaries:201901_Ward"
 
 [[person.meta.citation]]
 title = "Fellows, Helfenbein & Newnam Funeral Home"

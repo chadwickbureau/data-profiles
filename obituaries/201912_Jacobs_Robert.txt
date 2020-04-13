@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Jacobs_Robert"
+key = "obituaries:201912_Jacobs_Robert"
 
 [[person.meta.citation]]
 title = "Penttila's Chapel By The Sea"

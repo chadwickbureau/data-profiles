@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Hollowell"
+key = "obituaries:201405_Hollowell"
 
 [[person.meta.citation]]
 title = "Ledger"

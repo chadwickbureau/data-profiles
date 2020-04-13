@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Fodrea"
+key = "obituaries:201809_Fodrea"
 
 [[person.meta.citation]]
 title = "Cloverdale Funeral Home"

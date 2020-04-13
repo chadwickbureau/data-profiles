@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Daskalakis"
+key = "obituaries:201906_Daskalakis"
 
 [[person.meta.citation]]
 title = "Clavin Funeral Home"

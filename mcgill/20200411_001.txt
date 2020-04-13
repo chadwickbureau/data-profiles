@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_001"
+
+[[person.meta.citation]]
+title = "Fort Worth Telegram"
+date = "1903-07-12"
+pages = "2"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Jarvis"
+use = "Jack"
+given = "Jack"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "R"
+
+

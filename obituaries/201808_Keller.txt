@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Keller"
+key = "obituaries:201808_Keller"
 
 [[person.meta.citation]]
 title = "Tres Hewell Mortuary"

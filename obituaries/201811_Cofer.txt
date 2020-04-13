@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Cofer"
+key = "obituaries:201811_Cofer"
 
 [[person.meta.citation]]
 title = "Richmond Times-Dispatch"

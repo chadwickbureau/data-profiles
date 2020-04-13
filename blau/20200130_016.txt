@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_016"
+key = "blau:20200130_016"
 
 [[person.meta.citation]]
 title = "Arkansas Democrat"

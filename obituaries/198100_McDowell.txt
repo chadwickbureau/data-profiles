@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "198100_McDowell"
+key = "obituaries:198100_McDowell"
 
 [[person.meta.citation]]
 title = "Jackson Clarion-Ledger"

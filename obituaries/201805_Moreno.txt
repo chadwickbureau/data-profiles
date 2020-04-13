@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Moreno"
+key = "obituaries:201805_Moreno"
 
 [[person.meta.citation]]
 title = "Mehl's Colonial Chapel"

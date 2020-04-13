@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Anderson"
+key = "obituaries:201905_Anderson"
 
 [[person.meta.citation]]
 title = "Delaware Valley Cremation Center"

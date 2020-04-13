@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Graves"
+key = "obituaries:201904_Graves"
 
 [[person.meta.citation]]
 title = "Buchanan & Cody Funeral Home"

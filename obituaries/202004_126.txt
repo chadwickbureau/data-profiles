@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_126"
+key = "obituaries:202004_126"
 
 [[person.meta.citation]]
 title = "Hamner-McMillan Funeral Home"

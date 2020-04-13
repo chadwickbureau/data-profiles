@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "196712_Dilger"
+key = "obituaries:196712_Dilger"
 
 [[person.meta.citation]]
 title = "Indianapolis News"

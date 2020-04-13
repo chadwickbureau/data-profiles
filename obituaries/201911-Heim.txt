@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911-Heim"
+key = "obituaries:201911-Heim"
 
 [[person.meta.citation]]
 title = "Williams Funeral Homes"

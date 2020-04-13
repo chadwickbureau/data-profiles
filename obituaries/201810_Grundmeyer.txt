@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Grundmeyer"
+key = "obituaries:201810_Grundmeyer"
 
 [[person.meta.citation]]
 title = "Parrott & Wood Funeral Home"

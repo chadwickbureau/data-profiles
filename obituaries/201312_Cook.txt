@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Cook"
+key = "obituaries:201312_Cook"
 
 [[person.meta.citation]]
 title = "The Telegraph"

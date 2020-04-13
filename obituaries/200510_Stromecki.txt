@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200510_Stromecki"
+key = "obituaries:200510_Stromecki"
 
 [[person.meta.citation]]
 title = "Buffalo News"

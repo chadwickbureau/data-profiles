@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181108_016"
+key = "williamson:20181108_016"
 
 [[person.meta.citation]]
 title = "New Orleans Times-Democrat"

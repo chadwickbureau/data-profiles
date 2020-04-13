@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_054"
+key = "obituaries:2014_054"
 
 [[person.meta.citation]]
 title = "Arizona Republic"

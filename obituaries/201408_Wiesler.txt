@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Wiesler"
+key = "obituaries:201408_Wiesler"
 
 [[person.meta.citation]]
 title = "Hutchens Mortuary"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_024"
+key = "blau:20170319_024"
 
 [[person.meta.citation]]
 title = "Asheville Citizen-Times"

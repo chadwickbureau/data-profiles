@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_107"
+key = "obituaries:202004_107"
 
 [[person.meta.citation]]
 title = "D'Espo Funeral Chapel"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_LeBlanc"
+key = "obituaries:202002_LeBlanc"
 
 [[person.meta.citation]]
 title = "Monadnock Ledger-Transcript"

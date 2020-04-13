@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Fischer"
+key = "obituaries:201810_Fischer"
 
 [[person.meta.citation]]
 title = "mlb.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Willis"
+key = "obituaries:201312_Willis"
 
 [[person.meta.citation]]
 title = "The Arizona Republic"

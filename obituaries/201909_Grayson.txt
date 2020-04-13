@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Grayson"
+key = "obituaries:201909_Grayson"
 
 [[person.meta.citation]]
 title = "Rich & Thompson Funeral Home"

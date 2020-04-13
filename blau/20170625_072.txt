@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_072"
+key = "blau:20170625_072"
 
 [[person.meta.citation]]
 title = "Arkansas Democrat-Gazette"

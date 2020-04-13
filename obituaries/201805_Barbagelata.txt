@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Barbagelata"
+key = "obituaries:201805_Barbagelata"
 
 [[person.meta.citation]]
 title = "Reno Gazette-Journal"

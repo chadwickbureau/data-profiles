@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_034"
+key = "obituaries:2017_034"
 
 [[person.meta.citation]]
 title = "Dickinson Press"

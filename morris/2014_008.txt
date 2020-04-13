@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_008"
+key = "morris:2014_008"
 
 [[person.meta.citation]]
 title = "Buffalo News"

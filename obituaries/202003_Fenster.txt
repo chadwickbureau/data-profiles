@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Fenster"
+key = "obituaries:202003_Fenster"
 
 [[person.meta.citation]]
 title = "Berger Memorial Chapel"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Huddleston"
+key = "obituaries:202002_Huddleston"
 
 [[person.meta.citation]]
 title = "Chiles-Laman Funeral Home"

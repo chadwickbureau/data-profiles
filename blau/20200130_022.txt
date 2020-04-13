@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_022"
+key = "blau:20200130_022"
 
 [[person.meta.citation]]
 title = "Chambersburg Public Opinion"

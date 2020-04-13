@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Johnson"
+key = "obituaries:201908_Johnson"
 
 [[person.meta.citation]]
 title = "Northern Virginia Daily"

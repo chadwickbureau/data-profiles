@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Howe"
+key = "obituaries:202003_Howe"
 
 [[person.meta.citation]]
 title = "Frain Mortuary"

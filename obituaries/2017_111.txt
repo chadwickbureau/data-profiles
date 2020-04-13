@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_111"
+key = "obituaries:2017_111"
 
 [[person.meta.citation]]
 title = "Brunswick Funeral Home"

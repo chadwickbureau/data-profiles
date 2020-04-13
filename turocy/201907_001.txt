@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_001"
+key = "turocy:201907_001"
 
 [[person.meta.citation]]
 title = "capitalesdequebec.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_003"
+key = "obituaries:2013_003"
 
 [[person.meta.citation]]
 title = "The Indiana Gazette"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181108_015"
+key = "williamson:20181108_015"
 
 [[person.meta.citation]]
 title = "Sporting News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201410_Rathje"
+key = "obituaries:201410_Rathje"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

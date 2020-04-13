@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1913_002"
+key = "morris:1913_002"
 
 [[person.meta.citation]]
 title = "Winston-Salem Journal"

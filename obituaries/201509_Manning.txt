@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201509_Manning"
+key = "obituaries:201509_Manning"
 
 [[person.meta.citation]]
 title = "Vaschak-Kirila Funeral Home"

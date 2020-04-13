@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Sedor"
+key = "obituaries:201806_Sedor"
 
 [[person.meta.citation]]
 title = "Macken Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191219_002"
+key = "blau:20191219_002"
 
 [[person.meta.citation]]
 title = "Scranton Republican"

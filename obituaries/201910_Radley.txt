@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Radley"
+key = "obituaries:201910_Radley"
 
 [[person.meta.citation]]
 title = "McAndrew Funeral Home"

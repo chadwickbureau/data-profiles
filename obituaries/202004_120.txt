@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_120"
+key = "obituaries:202004_120"
 
 [[person.meta.citation]]
 title = "Terpening & Son Mortuary"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_086"
+key = "obituaries:2017_086"
 
 [[person.meta.citation]]
 title = "A. K. Macangna Funeral Home"

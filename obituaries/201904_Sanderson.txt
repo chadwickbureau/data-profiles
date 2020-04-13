@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Sanderson"
+key = "obituaries:201904_Sanderson"
 
 [[person.meta.citation]]
 title = "Symonds Funeral Home"

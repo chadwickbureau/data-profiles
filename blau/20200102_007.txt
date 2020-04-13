@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200102_007"
+key = "blau:20200102_007"
 
 [[person.meta.citation]]
 title = "Brunswick (GA) News"

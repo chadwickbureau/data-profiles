@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Torre"
+key = "obituaries:201409_Torre"
 
 [[person.meta.citation]]
 title = "Palm Beach Post"

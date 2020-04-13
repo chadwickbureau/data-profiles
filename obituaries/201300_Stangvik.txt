@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201300_Stangvik"
+key = "obituaries:201300_Stangvik"
 
 [[person.meta.citation]]
 title = "Seattle Times"

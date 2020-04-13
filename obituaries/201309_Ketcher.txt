@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201309_Ketcher"
+key = "obituaries:201309_Ketcher"
 
 [[person.meta.citation]]
 title = "Roberts-Reed-Culver Funeral Home"

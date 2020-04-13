@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Johnston"
+key = "obituaries:201912_Johnston"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

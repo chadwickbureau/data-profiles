@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201804_Fulton"
+key = "obituaries:201804_Fulton"
 
 [[person.meta.citation]]
 title = "Shoshone Funeral Home"

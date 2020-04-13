@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Kaplan"
+key = "obituaries:201909_Kaplan"
 
 [[person.meta.citation]]
 title = "Boston Globe"

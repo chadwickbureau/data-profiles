@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Biletnikoff"
+key = "obituaries:201811_Biletnikoff"
 
 [[person.meta.citation]]
 title = "Davis Watkins Funeral Home"

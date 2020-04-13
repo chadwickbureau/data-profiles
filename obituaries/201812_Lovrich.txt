@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Lovrich"
+key = "obituaries:201812_Lovrich"
 
 [[person.meta.citation]]
 title = "Vandenburg Funeral Home"

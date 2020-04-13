@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Surma"
+key = "obituaries:201902_Surma"
 
 [[person.meta.citation]]
 title = "Church & Chapel"

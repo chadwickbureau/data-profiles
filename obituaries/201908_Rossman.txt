@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Rossman"
+key = "obituaries:201908_Rossman"
 
 [[person.meta.citation]]
 title = "DeCarbo Funeral Home"

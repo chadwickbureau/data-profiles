@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Guerra"
+key = "obituaries:201808_Guerra"
 
 [[person.meta.citation]]
 title = "Davis Funeral Home"

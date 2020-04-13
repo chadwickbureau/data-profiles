@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Anderson"
+key = "obituaries:201907_Anderson"
 
 [[person.meta.citation]]
 title = "Scottsbluff Star-Herald"

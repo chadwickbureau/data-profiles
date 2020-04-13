@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201207_Kowalski"
+key = "obituaries:201207_Kowalski"
 
 [[person.meta.citation]]
 title = "Snow Funeral Home"

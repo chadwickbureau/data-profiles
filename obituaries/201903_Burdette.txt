@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Burdette"
+key = "obituaries:201903_Burdette"
 
 [[person.meta.citation]]
 title = "Moreland Funeral Home"

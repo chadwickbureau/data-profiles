@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Halford"
+key = "obituaries:201808_Halford"
 
 [[person.meta.citation]]
 title = "J. F. Floyd Mortuary"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Harvey"
+key = "obituaries:201810_Harvey"
 
 [[person.meta.citation]]
 title = "Billings Funeral Home"

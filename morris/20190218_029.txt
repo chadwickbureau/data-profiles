@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190218_029"
+key = "morris:20190218_029"
 
 [[person.meta.citation]]
 title = "Anniston Star"

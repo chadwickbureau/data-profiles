@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_127"
+key = "obituaries:2017_127"
 
 [[person.meta.citation]]
 title = "Akron Beacon Journal"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Matlin"
+key = "obituaries:201712_Matlin"
 
 [[person.meta.citation]]
 title = "Star Advertiser"

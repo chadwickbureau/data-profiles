@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Berling"
+key = "obituaries:201408_Berling"
 
 [[person.meta.citation]]
 title = "Washington Post"

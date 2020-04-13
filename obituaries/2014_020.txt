@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_020"
+key = "obituaries:2014_020"
 
 [[person.meta.citation]]
 title = "San Jose Mercury News/San Mateo County Times"

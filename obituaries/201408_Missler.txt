@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Missler"
+key = "obituaries:201408_Missler"
 
 [[person.meta.citation]]
 title = "Columbus Dispatch"

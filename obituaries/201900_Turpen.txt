@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Turpen"
+key = "obituaries:201900_Turpen"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

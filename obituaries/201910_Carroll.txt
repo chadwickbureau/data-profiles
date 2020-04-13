@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Carroll"
+key = "obituaries:201910_Carroll"
 
 [[person.meta.citation]]
 title = "Morgan Memorial Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_179"
+key = "blau:20170319_179"
 
 [[person.meta.citation]]
 title = "Richmond (IN) Palladium-Item"

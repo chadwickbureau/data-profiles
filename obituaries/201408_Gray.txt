@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Gray"
+key = "obituaries:201408_Gray"
 
 [[person.meta.citation]]
 title = "Pittsburgh Post-Gazette"

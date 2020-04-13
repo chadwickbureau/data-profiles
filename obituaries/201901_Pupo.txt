@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Pupo"
+key = "obituaries:201901_Pupo"
 
 [[person.meta.citation]]
 title = "Spokesman-Review"

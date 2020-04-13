@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Harrell"
+key = "obituaries:201405_Harrell"
 
 [[person.meta.citation]]
 title = "New Comer-Cannon Funeral Home"

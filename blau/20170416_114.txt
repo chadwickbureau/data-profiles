@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_114"
+key = "blau:20170416_114"
 
 [[person.meta.contributor]]
 name.last = "Barker"

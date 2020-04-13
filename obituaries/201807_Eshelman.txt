@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Eshelman"
+key = "obituaries:201807_Eshelman"
 
 [[person.meta.citation]]
 title = "Everhere.com"

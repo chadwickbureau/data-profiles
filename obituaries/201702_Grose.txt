@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201702_Grose"
+key = "obituaries:201702_Grose"
 
 [[person.meta.citation]]
 title = "Hutchens Funeral Home"

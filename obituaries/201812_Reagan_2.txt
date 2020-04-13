@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Reagan_2"
+key = "obituaries:201812_Reagan_2"
 
 [[person.meta.citation]]
 title = "Churchill Funeral Home"

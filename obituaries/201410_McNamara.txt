@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201410_McNamara"
+key = "obituaries:201410_McNamara"
 
 [[person.meta.citation]]
 title = "Worcester Telegram & Gazette"

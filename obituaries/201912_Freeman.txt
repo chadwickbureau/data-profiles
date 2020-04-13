@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Freeman"
+key = "obituaries:201912_Freeman"
 
 [[person.meta.citation]]
 title = "Gethsemani Funeral Home"

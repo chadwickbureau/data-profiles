@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Richardson"
+key = "obituaries:201805_Richardson"
 
 [[person.meta.citation]]
 title = "Daily Journal"

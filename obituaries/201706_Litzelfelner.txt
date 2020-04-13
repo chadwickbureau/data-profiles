@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201706_Litzelfelner"
+key = "obituaries:201706_Litzelfelner"
 
 [[person.meta.citation]]
 title = "Ford & Sons Funeral Home"

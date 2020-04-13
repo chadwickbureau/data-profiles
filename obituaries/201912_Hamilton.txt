@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Hamilton"
+key = "obituaries:201912_Hamilton"
 
 [[person.meta.citation]]
 title = "Santa Cruz Sentinel"

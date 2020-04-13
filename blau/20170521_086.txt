@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_086"
+key = "blau:20170521_086"
 
 [[person.meta.citation]]
 title = "Tulsa Daily World"

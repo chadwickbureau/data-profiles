@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_139"
+key = "obituaries:2017_139"
 
 [[person.meta.citation]]
 title = "Reno Gazette-Journal"

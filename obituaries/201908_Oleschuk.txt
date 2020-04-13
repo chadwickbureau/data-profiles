@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Oleschuk"
+key = "obituaries:201908_Oleschuk"
 
 [[person.meta.citation]]
 title = "Kane Fetterly"

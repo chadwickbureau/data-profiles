@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Sell"
+key = "obituaries:201407_Sell"
 
 [[person.meta.citation]]
 title = "Commercial News"

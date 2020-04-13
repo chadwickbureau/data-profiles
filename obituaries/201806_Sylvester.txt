@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Sylvester"
+key = "obituaries:201806_Sylvester"
 
 [[person.meta.citation]]
 title = "Lownes Family Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_019"
+key = "obituaries:2017_019"
 
 [[person.meta.citation]]
 title = "Burnside Funeral Home"

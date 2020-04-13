@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190220_012"
+key = "morris:20190220_012"
 
 [[person.meta.citation]]
 title = "Pittston Gazette"

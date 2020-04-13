@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Akers"
+key = "obituaries:201712_Akers"
 
 [[person.meta.citation]]
 title = "Yakima Herald"

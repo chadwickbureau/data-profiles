@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Davis"
+key = "obituaries:201907_Davis"
 
 [[person.meta.citation]]
 title = "Republican Herald"

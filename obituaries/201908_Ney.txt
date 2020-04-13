@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Ney"
+key = "obituaries:201908_Ney"
 
 [[person.meta.citation]]
 title = "Macalpine Funeral Home"

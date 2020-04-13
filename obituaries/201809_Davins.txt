@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Davins"
+key = "obituaries:201809_Davins"
 
 [[person.meta.citation]]
 title = "New Haven Register"

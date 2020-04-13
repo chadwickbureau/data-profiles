@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Tower"
+key = "obituaries:201904_Tower"
 
 [[person.meta.citation]]
 title = "Messinger Funeral Home"

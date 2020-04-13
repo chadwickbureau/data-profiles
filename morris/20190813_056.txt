@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190813_056"
+key = "morris:20190813_056"
 
 [[person.meta.citation]]
 title = "Indianapolis Star"

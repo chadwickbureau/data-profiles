@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_039"
+key = "blau:20170625_039"
 
 [[person.meta.citation]]
 title = "Quad-City Times"

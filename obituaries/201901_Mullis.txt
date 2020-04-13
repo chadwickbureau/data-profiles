@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Mullis"
+key = "obituaries:201901_Mullis"
 
 [[person.meta.citation]]
 title = "Vaughn Funeral Home"

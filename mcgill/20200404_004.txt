@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200404_004"
+key = "mcgill:20200404_004"
 
 [[person.meta.citation]]
 title = "Asheville Citizen-Times"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_073"
+key = "obituaries:2014_073"
 
 [[person.meta.citation]]
 title = "Peninsula Deportiva"

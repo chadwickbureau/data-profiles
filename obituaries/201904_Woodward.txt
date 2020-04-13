@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Woodward"
+key = "obituaries:201904_Woodward"
 
 [[person.meta.citation]]
 title = "Spicer-Mullikin Funeral Home"

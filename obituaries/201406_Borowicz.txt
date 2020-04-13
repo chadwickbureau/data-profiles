@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Borowicz"
+key = "obituaries:201406_Borowicz"
 
 [[person.meta.citation]]
 title = "Buffalo News"

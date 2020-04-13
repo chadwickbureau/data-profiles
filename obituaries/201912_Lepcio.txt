@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Lepcio"
+key = "obituaries:201912_Lepcio"
 
 [[person.meta.citation]]
 title = "Utica Observer-Dispatch"

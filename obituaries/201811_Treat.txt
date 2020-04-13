@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Treat"
+key = "obituaries:201811_Treat"
 
 [[person.meta.citation]]
 title = "Ladusau-Evans Funeral Home"

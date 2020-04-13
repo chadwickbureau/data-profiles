@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Orlando"
+key = "obituaries:202003_Orlando"
 
 [[person.meta.citation]]
 title = ""

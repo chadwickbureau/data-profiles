@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_060"
+key = "blau:20170416_060"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

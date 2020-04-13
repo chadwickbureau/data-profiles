@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_040"
+key = "obituaries:2014_040"
 
 [[person.meta.citation]]
 title = "Pritts Funeral Home"

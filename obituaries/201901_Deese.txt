@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Deese"
+key = "obituaries:201901_Deese"
 
 [[person.meta.citation]]
 title = "Ocean County Register"

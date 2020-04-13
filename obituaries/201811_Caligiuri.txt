@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Caligiuri"
+key = "obituaries:201811_Caligiuri"
 
 [[person.meta.citation]]
 title = "Bauer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Stilwill"
+key = "obituaries:201405_Stilwill"
 
 [[person.meta.citation]]
 title = "Bellingham Herald"

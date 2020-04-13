@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_024"
+key = "obituaries:202004_024"
 
 [[person.meta.citation]]
 title = "Peck Funeral Homes"

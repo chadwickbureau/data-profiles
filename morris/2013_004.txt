@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_004"
+key = "morris:2013_004"
 
 [[person.meta.citation]]
 title = "California Death Index 1940-1997"

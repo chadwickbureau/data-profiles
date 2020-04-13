@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Dellosso"
+key = "obituaries:201901_Dellosso"
 
 [[person.meta.citation]]
 title = "Leber_Lakeside Funeral Home"

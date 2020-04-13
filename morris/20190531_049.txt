@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_049"
+key = "morris:20190531_049"
 
 [[person.meta.citation]]
 title = "Elmira Star-Gazette"

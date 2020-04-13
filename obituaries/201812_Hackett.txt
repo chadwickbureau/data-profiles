@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Hackett"
+key = "obituaries:201812_Hackett"
 
 [[person.meta.citation]]
 title = "Fayetteville Observer"

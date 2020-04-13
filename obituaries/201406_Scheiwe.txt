@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Scheiwe"
+key = "obituaries:201406_Scheiwe"
 
 [[person.meta.citation]]
 title = "Baier Family Funeral Services"

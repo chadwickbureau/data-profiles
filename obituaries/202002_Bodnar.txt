@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Bodnar"
+key = "obituaries:202002_Bodnar"
 
 [[person.meta.citation]]
 title = "Heritage Funeral Home"

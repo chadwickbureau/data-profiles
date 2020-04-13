@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Greene_2"
+key = "obituaries:201905_Greene_2"
 
 [[person.meta.citation]]
 title = "Thomas F. Dalton Funeral Home"

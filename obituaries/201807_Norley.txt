@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Norley"
+key = "obituaries:201807_Norley"
 
 [[person.meta.citation]]
 title = "Connell Funeral Home"

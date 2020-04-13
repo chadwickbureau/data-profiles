@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Baughman"
+key = "obituaries:201712_Baughman"
 
 [[person.meta.citation]]
 title = "Shives Funeral Home"

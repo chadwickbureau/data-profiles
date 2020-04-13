@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_116"
+key = "obituaries:202004_116"
 
 [[person.meta.citation]]
 title = "Longfellow-Finnegan Riddle Funeral Home"

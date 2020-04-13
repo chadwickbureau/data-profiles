@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Moon"
+key = "obituaries:201907_Moon"
 
 [[person.meta.citation]]
 title = "Ripley Bee"

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_015"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-05-21"
+pages = "16"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Manes"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Middlesboro"
+team.league.name = "Appalachian League"
+
+

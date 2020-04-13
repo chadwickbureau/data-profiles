@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_025"
+key = "obituaries:2014_025"
 
 [[person.meta.citation]]
 title = "Bruss-Heitner Funeral Homes"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Dashner"
+key = "obituaries:201904_Dashner"
 
 [[person.meta.citation]]
 title = "Brown’s Funeral Service"

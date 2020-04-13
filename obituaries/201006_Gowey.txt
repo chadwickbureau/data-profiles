@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201006_Gowey"
+key = "obituaries:201006_Gowey"
 
 [[person.meta.citation]]
 title = "La Crosse Tribune"

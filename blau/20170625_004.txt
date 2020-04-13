@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_004"
+key = "blau:20170625_004"
 
 [[person.meta.citation]]
 title = "Rock Island Argus and Daily Union"

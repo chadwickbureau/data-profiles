@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200326_014"
+key = "blau:20200326_014"
 
 [[person.meta.citation]]
 title = "Boston Globe"

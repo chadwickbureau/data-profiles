@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190813_066"
+key = "morris:20190813_066"
 
 [[person.meta.citation]]
 title = "Louisville Courier-Journal"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Long"
+key = "obituaries:201906_Long"
 
 [[person.meta.citation]]
 title = "Mahn Family Funeral Home"

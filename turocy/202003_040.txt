@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_040"
+key = "turocy:202003_040"
 
 [[person.meta.citation]]
 title = "The Daily Oklahoman"

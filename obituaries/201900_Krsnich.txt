@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Krsnich"
+key = "obituaries:201900_Krsnich"
 
 [[person.meta.citation]]
 title = "Wichita Eagle"

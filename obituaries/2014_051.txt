@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_051"
+key = "obituaries:2014_051"
 
 [[person.meta.citation]]
 title = "Fresno Bee"

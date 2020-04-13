@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Paul"
+key = "obituaries:201404_Paul"
 
 [[person.meta.citation]]
 title = "Moore Funeral Homes"

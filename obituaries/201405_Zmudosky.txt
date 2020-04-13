@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Zmudosky"
+key = "obituaries:201405_Zmudosky"
 
 [[person.meta.citation]]
 title = "The Observer-Dispatch"

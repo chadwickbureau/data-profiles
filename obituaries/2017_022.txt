@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_022"
+key = "obituaries:2017_022"
 
 [[person.meta.citation]]
 title = "Eberly Funeral Home"

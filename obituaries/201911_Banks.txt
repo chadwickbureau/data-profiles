@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Banks"
+key = "obituaries:201911_Banks"
 
 [[person.meta.citation]]
 title = "Macon Memorial Park Funeral Home"

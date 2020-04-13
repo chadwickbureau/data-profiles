@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Forinash"
+key = "obituaries:202002_Forinash"
 
 [[person.meta.citation]]
 title = "Guerriero Funeral Home"

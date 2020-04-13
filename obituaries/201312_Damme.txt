@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Damme"
+key = "obituaries:201312_Damme"
 
 [[person.meta.citation]]
 title = "The Chronicle"

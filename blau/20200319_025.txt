@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200319_025"
+key = "blau:20200319_025"
 
 [[person.meta.citation]]
 title = "Brenham Daily Banner-Press"

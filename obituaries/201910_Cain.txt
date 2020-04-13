@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Cain"
+key = "obituaries:201910_Cain"
 
 [[person.meta.citation]]
 title = "Jeffries & Keates Funeral Home"

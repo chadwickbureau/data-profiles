@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Glass"
+key = "obituaries:201908_Glass"
 
 [[person.meta.citation]]
 title = "Traverse City Record-Eagle"

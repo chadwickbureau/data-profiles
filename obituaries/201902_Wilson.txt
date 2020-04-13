@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Wilson"
+key = "obituaries:201902_Wilson"
 
 [[person.meta.citation]]
 title = "Miami Herald"

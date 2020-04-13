@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_069"
+key = "obituaries:2017_069"
 
 [[person.meta.citation]]
 title = "Brown-Wynne Funeral Home"

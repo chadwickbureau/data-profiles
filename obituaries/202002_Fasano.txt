@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Fasano"
+key = "obituaries:202002_Fasano"
 
 [[person.meta.citation]]
 title = "Curran Funeral Homes"

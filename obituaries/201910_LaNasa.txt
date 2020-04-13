@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_LaNasa"
+key = "obituaries:201910_LaNasa"
 
 [[person.meta.citation]]
 title = "Times-Picayune"

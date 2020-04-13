@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Davis_2"
+key = "obituaries:201406_Davis_2"
 
 [[person.meta.citation]]
 title = "Wichita Eagle"

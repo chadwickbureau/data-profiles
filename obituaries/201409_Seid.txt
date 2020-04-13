@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Seid"
+key = "obituaries:201409_Seid"
 
 [[person.meta.citation]]
 title = "Milwaukee Journal Sentinel"

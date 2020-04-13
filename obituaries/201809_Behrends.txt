@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Behrends"
+key = "obituaries:201809_Behrends"
 
 [[person.meta.citation]]
 title = "Fitzgerald Funeral Home"

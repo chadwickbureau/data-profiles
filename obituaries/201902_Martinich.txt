@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Martinich"
+key = "obituaries:201902_Martinich"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

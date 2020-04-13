@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Barnett"
+key = "obituaries:201902_Barnett"
 
 [[person.meta.citation]]
 title = "Littleton & Rue Funeral Home"

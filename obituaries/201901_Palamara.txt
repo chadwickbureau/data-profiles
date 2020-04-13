@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Palamara"
+key = "obituaries:201901_Palamara"
 
 [[person.meta.citation]]
 title = "News-Herald"

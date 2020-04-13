@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Firestone"
+key = "obituaries:201809_Firestone"
 
 [[person.meta.citation]]
 title = "York Daily Record & York Dispatch"

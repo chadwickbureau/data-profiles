@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200206_001"
+key = "blau:20200206_001"
 
 [[person.meta.citation]]
 title = "Davenport Daily Times"

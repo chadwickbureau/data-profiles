@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Carty"
+key = "obituaries:201809_Carty"
 
 [[person.meta.citation]]
 title = "DiarioLibre.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_135"
+key = "obituaries:202004_135"
 
 [[person.meta.citation]]
 title = "Orange County Register"

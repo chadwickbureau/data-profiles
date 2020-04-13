@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_048"
+key = "obituaries:2014_048"
 
 [[person.meta.citation]]
 title = "Resthaven Mortuary"

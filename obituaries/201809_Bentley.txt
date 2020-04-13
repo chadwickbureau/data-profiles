@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Bentley"
+key = "obituaries:201809_Bentley"
 
 [[person.meta.citation]]
 title = "Valhalla Funeral Home"

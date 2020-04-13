@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Yarborough"
+key = "obituaries:201903_Yarborough"
 
 [[person.meta.citation]]
 title = "Bailey & Foster Funeral Home"

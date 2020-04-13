@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_DeMagistris"
+key = "obituaries:201909_DeMagistris"
 
 [[person.meta.citation]]
 title = "Dykstra Funeral Home"

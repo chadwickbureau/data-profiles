@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Semke"
+key = "obituaries:202001_Semke"
 
 [[person.meta.citation]]
 title = "Schoedinger Funeral Home"

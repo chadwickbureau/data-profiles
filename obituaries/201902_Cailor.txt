@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Cailor"
+key = "obituaries:201902_Cailor"
 
 [[person.meta.citation]]
 title = "Herald Tribune"

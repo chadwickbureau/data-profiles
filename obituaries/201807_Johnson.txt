@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Johnson"
+key = "obituaries:201807_Johnson"
 
 [[person.meta.citation]]
 title = "Schumacher-Kish Funeral Home"

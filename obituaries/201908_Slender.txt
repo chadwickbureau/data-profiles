@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Slender"
+key = "obituaries:201908_Slender"
 
 [[person.meta.citation]]
 title = "Press Democrat"

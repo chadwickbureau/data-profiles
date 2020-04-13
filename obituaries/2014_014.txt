@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_014"
+key = "obituaries:2014_014"
 
 [[person.meta.citation]]
 title = "yourbayareanews.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191215_004"
+key = "blau:20191215_004"
 
 [[person.meta.citation]]
 title = "Montgomery Advertiser"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Kilbride"
+key = "obituaries:202002_Kilbride"
 
 [[person.meta.citation]]
 title = "Higgins Memorial Home"

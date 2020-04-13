@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Bower_1"
+key = "obituaries:201811_Bower_1"
 
 [[person.meta.citation]]
 title = "Callaway-Jones Funeral Home"

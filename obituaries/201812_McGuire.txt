@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_McGuire"
+key = "obituaries:201812_McGuire"
 
 [[person.meta.citation]]
 title = "Graham Funeral Home"

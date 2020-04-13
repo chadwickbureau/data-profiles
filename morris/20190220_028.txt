@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190220_028"
+key = "morris:20190220_028"
 
 [[person.meta.citation]]
 title = "Raleigh News & Observer"

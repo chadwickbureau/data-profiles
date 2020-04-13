@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "196307_Crowther"
+key = "obituaries:196307_Crowther"
 
 [[person.meta.citation]]
 title = "Boston Herald"

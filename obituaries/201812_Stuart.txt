@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Stuart"
+key = "obituaries:201812_Stuart"
 
 [[person.meta.citation]]
 title = "Kitsap Sun"

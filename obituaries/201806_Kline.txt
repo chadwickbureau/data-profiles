@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Kline"
+key = "obituaries:201806_Kline"
 
 [[person.meta.citation]]
 title = "Precht & Barnes Funeral Home"

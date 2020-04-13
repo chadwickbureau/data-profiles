@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Snyder"
+key = "obituaries:201909_Snyder"
 
 [[person.meta.citation]]
 title = "Reno Gazette-Journal"

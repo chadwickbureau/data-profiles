@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200227_001"
+key = "blau:20200227_001"
 
 [[person.meta.citation]]
 title = "St. Joseph News-Press"

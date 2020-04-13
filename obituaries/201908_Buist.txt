@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Buist"
+key = "obituaries:201908_Buist"
 
 [[person.meta.citation]]
 title = "W. J. Caul Funeral Home"

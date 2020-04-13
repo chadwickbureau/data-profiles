@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Hasenmayer"
+key = "obituaries:202001_Hasenmayer"
 
 [[person.meta.citation]]
 title = "Shelly Funeral Homes"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201400_Sinovic"
+key = "obituaries:201400_Sinovic"
 
 [[person.meta.citation]]
 title = "OregonLive.com"

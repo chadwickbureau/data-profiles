@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Barndollar"
+key = "obituaries:201910_Barndollar"
 
 [[person.meta.citation]]
 title = "KenoshaNews.com"

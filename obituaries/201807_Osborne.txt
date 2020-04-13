@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Osborne"
+key = "obituaries:201807_Osborne"
 
 [[person.meta.citation]]
 title = "Ballhorn Chapels"

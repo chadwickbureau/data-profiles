@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200712_Rennicke"
+key = "obituaries:200712_Rennicke"
 
 [[person.meta.citation]]
 title = "Tributes.com"

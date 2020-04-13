@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190218_004"
+key = "morris:20190218_004"
 
 [[person.meta.citation]]
 title = "Topeka State Journal"

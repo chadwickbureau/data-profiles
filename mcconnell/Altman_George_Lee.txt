@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Altman_George_Lee"
+key = "mcconnell:Altman_George_Lee"
 
 [person.name]
 last = "Altman"

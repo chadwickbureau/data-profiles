@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_057"
+key = "obituaries:2017_057"
 
 [[person.meta.citation]]
 title = "Flanigan Funeral Home"

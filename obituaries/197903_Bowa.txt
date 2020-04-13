@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197903_Bowa"
+key = "obituaries:197903_Bowa"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

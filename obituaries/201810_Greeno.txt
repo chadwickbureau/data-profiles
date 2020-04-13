@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Greeno"
+key = "obituaries:201810_Greeno"
 
 [[person.meta.citation]]
 title = "Rumsey-Yost Funeral Home"

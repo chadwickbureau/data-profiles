@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Massey"
+key = "obituaries:201905_Massey"
 
 [[person.meta.citation]]
 title = "J. T. Morriss & Son Funeral Home"

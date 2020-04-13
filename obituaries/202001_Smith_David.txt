@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Smith_David"
+key = "obituaries:202001_Smith_David"
 
 [[person.meta.citation]]
 title = "The Record"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Taylor"
+key = "obituaries:201812_Taylor"
 
 [[person.meta.citation]]
 title = "TurnTo23.com"

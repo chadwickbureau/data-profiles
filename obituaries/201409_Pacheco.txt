@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Pacheco"
+key = "obituaries:201409_Pacheco"
 
 [[person.meta.citation]]
 title = "FuneralHomeWeb.net"

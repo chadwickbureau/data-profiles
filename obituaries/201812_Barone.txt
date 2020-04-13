@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Barone"
+key = "obituaries:201812_Barone"
 
 [[person.meta.citation]]
 title = "Silverton Memorial Funeral Home"

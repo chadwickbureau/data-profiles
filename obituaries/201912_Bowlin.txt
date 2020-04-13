@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Bowlin"
+key = "obituaries:201912_Bowlin"
 
 [[person.meta.citation]]
 title = "Bumpers Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Staton"
+key = "obituaries:201911_Staton"
 
 [[person.meta.citation]]
 title = "Bass-Smith Funeral Home"

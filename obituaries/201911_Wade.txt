@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Wade"
+key = "obituaries:201911_Wade"
 
 [[person.meta.citation]]
 title = "Chapel Hill Funeral Home"

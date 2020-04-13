@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_089"
+key = "blau:20170625_089"
 
 [[person.meta.citation]]
 title = "Lansing State Journal"

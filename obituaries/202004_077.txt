@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_077"
+key = "obituaries:202004_077"
 
 [[person.meta.citation]]
 title = "Ozog Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zontini_John_M"
+key = "mcconnell:Zontini_John_M"
 
 [person.name]
 last = "Zontini"

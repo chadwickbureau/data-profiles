@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Naragon_2"
+key = "obituaries:201908_Naragon_2"
 
 [[person.meta.citation]]
 title = "Campfield-Hickman-Collier Funeral Home"

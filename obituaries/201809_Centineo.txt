@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Centineo"
+key = "obituaries:201809_Centineo"
 
 [[person.meta.citation]]
 title = "VanderPlaat Funeral Home"

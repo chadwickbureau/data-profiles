@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Masinick"
+key = "obituaries:201409_Masinick"
 
 [[person.meta.citation]]
 title = "A. J. Desmond & Sons Funeral Home"

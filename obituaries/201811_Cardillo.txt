@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Cardillo"
+key = "obituaries:201811_Cardillo"
 
 [[person.meta.citation]]
 title = "Codey & Jones Funeral Home"

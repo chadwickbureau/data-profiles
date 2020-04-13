@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Savage"
+key = "obituaries:201801_Savage"
 
 [[person.meta.citation]]
 title = "Moody Funeral Home"

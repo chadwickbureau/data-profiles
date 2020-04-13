@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_184"
+key = "obituaries:2017_184"
 
 [[person.meta.citation]]
 title = "South Bend Tribune"

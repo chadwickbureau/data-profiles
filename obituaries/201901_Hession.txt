@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Hession"
+key = "obituaries:201901_Hession"
 
 [[person.meta.citation]]
 title = "Morris, O'Connor & Blute Funeral Home"

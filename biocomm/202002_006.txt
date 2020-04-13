@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_006"
+key = "biocomm:202002_006"
 
 [[person.meta.citation]]
 title = "SABR Biographical Committee Newsletter"

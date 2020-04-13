@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200326_009"
+key = "blau:20200326_009"
 
 [[person.meta.citation]]
 title = "Temple Daily Telegram"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Michaels"
+key = "obituaries:201904_Michaels"
 
 [[person.meta.citation]]
 title = "Adzima Funeral Home"

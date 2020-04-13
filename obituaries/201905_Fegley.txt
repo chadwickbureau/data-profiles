@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Fegley"
+key = "obituaries:201905_Fegley"
 
 [[person.meta.citation]]
 title = "Malpezzi Funeral Home"

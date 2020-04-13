@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Messuri"
+key = "obituaries:201908_Messuri"
 
 [[person.meta.citation]]
 title = "Brown & Hickey Funeral Home"

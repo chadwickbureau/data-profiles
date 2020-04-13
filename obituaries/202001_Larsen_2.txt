@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Larsen_2"
+key = "obituaries:202001_Larsen_2"
 
 [[person.meta.citation]]
 title = "Yates Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Cale"
+key = "obituaries:201405_Cale"
 
 [[person.meta.citation]]
 title = "Jefferson Memorial Gardens"

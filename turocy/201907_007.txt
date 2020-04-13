@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_007"
+key = "turocy:201907_007"
 
 [[person.meta.citation]]
 title = "southernillinoisminers.com"

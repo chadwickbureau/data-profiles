@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_066"
+key = "obituaries:2017_066"
 
 [[person.meta.citation]]
 title = "Newcomer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Childers"
+key = "obituaries:201903_Childers"
 
 [[person.meta.citation]]
 title = "Harrelson Funeral Home"

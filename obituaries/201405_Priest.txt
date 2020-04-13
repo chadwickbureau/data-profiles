@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Priest"
+key = "obituaries:201405_Priest"
 
 [[person.meta.citation]]
 title = "Midland Reporter-Telegram"

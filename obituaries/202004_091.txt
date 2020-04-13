@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_091"
+key = "obituaries:202004_091"
 
 [[person.meta.citation]]
 title = "Schrader-Howell Funeral Home"

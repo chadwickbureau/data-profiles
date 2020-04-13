@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190218_011"
+key = "morris:20190218_011"
 
 [[person.meta.citation]]
 title = "Wilkes-Barre Times Leader"

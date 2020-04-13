@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Smay"
+key = "obituaries:201901_Smay"
 
 [[person.meta.citation]]
 title = "Dimond Funeral Home"

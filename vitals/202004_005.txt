@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_005"
+key = "vitals:202004_005"
 
 [[person.meta.citation]]
 title = "Reports of Deaths of American Citizens Abroad, 1835-1974"

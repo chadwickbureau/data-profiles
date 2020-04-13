@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_098"
+key = "obituaries:202004_098"
 
 [[person.meta.citation]]
 title = "Miami News"

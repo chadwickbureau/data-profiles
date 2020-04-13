@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_158"
+key = "blau:20170416_158"
 
 [[person.meta.citation]]
 title = "Akron Beacon Journal"

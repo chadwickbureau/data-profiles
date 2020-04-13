@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Festa"
+key = "obituaries:201911_Festa"
 
 [[person.meta.citation]]
 title = "Gormley Funeral Service"

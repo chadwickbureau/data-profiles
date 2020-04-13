@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Clemente"
+key = "obituaries:201806_Clemente"
 
 [[person.meta.citation]]
 title = "Dufresne & Cavanaugh"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Conrad"
+key = "obituaries:201911_Conrad"
 
 [[person.meta.citation]]
 title = "Halbritter Wickens Funeral Services"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191226_003"
+key = "blau:20191226_003"
 
 [[person.meta.citation]]
 title = "Morristown Republican"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Hoffert"
+key = "obituaries:201808_Hoffert"
 
 [[person.meta.citation]]
 title = "Lamm & Witman Funeral Home"

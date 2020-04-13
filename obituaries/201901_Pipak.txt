@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Pipak"
+key = "obituaries:201901_Pipak"
 
 [[person.meta.citation]]
 title = "Rader Funeral Home"

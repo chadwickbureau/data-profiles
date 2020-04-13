@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Polaha"
+key = "obituaries:201911_Polaha"
 
 [[person.meta.citation]]
 title = "Morning Call"

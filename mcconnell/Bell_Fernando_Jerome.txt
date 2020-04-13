@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Bell_Fernando_Jerome"
+key = "mcconnell:Bell_Fernando_Jerome"
 
 [person.name]
 last = "Bell"

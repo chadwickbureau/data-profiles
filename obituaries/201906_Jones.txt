@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Jones"
+key = "obituaries:201906_Jones"
 
 [[person.meta.citation]]
 title = "Herald Tribune"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Boone_William_R"
+key = "mcconnell:Boone_William_R"
 
 [person.name]
 last = "Boone"

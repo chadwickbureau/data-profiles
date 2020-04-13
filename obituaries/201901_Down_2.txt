@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Down_2"
+key = "obituaries:201901_Down_2"
 
 [[person.meta.citation]]
 title = "Heritage Newspapers"

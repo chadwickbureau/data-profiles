@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Castro"
+key = "obituaries:202001_Castro"
 
 [[person.meta.citation]]
 title = "Hardesty Funeral Home"

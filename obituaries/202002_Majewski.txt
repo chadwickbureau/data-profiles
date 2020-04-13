@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Majewski"
+key = "obituaries:202002_Majewski"
 
 [[person.meta.citation]]
 title = "Rutland Herald"

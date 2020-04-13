@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_McKinnis_2"
+key = "obituaries:201911_McKinnis_2"
 
 [[person.meta.citation]]
 title = "Roller-Chenal Funeral Home"

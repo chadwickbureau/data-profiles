@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Murphy"
+key = "obituaries:201312_Murphy"
 
 [[person.meta.citation]]
 title = "Springfield News-Sun"

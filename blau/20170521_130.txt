@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_130"
+key = "blau:20170521_130"
 
 [[person.meta.citation]]
 title = "Ogden Standard-Examiner"

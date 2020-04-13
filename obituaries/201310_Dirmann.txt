@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Dirmann"
+key = "obituaries:201310_Dirmann"
 
 [[person.meta.citation]]
 title = "Obits.Nola.com"

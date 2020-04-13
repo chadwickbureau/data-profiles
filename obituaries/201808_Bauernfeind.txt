@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Bauernfeind"
+key = "obituaries:201808_Bauernfeind"
 
 [[person.meta.citation]]
 title = "Halbritter Wicken Funeral Home"

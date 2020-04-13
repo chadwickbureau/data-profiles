@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_064"
+key = "blau:20170319_064"
 
 [[person.meta.citation]]
 title = "Fort Myers Press"

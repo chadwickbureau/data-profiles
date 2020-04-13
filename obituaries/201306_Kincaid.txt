@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201306_Kincaid"
+key = "obituaries:201306_Kincaid"
 
 [[person.meta.citation]]
 title = "Chapman Funeral Home"

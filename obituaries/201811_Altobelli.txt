@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Altobelli"
+key = "obituaries:201811_Altobelli"
 
 [[person.meta.citation]]
 title = "Exhibit City News"

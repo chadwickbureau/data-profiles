@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201403_Huff"
+key = "obituaries:201403_Huff"
 
 [[person.meta.citation]]
 title = "Contra Costa Times"

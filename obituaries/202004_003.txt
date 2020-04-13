@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_003"
+key = "obituaries:202004_003"
 
 [[person.meta.citation]]
 title = "O'Rourke & O'Rourke Funeral Home"

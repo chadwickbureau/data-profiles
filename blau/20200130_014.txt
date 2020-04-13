@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_014"
+key = "blau:20200130_014"
 
 [[person.meta.citation]]
 title = "Waterloo Courier"

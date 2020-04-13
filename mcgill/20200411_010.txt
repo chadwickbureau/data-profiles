@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_010"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-05-18"
+pages = "16"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Lowe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Harriman"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1914"
+team.name = "Clarksville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

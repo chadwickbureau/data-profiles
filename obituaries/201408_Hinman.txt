@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Hinman"
+key = "obituaries:201408_Hinman"
 
 [[person.meta.citation]]
 title = "The Record"

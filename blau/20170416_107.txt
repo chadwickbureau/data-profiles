@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_107"
+key = "blau:20170416_107"
 
 [[person.meta.citation]]
 title = "Fitchburg Sentinel"

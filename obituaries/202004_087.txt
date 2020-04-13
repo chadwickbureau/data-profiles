@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_087"
+key = "obituaries:202004_087"
 
 [[person.meta.citation]]
 title = "Farmer & Son Funeral Home"

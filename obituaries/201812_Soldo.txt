@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Soldo"
+key = "obituaries:201812_Soldo"
 
 [[person.meta.citation]]
 title = "Derby Funeral Home"

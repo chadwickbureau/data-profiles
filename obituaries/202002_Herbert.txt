@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Herbert"
+key = "obituaries:202002_Herbert"
 
 [[person.meta.citation]]
 title = "Morse-Bayliss Funeral Home"

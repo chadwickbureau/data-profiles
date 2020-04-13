@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Goodell"
+key = "obituaries:202003_Goodell"
 
 [[person.meta.citation]]
 title = "Schooler Funeral Home"

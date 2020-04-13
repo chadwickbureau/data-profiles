@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Getter_2"
+key = "obituaries:201908_Getter_2"
 
 [[person.meta.citation]]
 title = "Dallas Morning News"

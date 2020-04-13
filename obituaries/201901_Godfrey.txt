@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Godfrey"
+key = "obituaries:201901_Godfrey"
 
 [[person.meta.citation]]
 title = "Sam Houston Memorial Funeral Home"

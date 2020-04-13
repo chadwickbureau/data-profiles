@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_051"
+key = "obituaries:202004_051"
 
 [[person.meta.citation]]
 title = "Anderson-Bryant Funeral Home"

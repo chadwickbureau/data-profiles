@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Tiernan"
+key = "obituaries:201910_Tiernan"
 
 [[person.meta.citation]]
 title = "Kurrus Funeral Home"

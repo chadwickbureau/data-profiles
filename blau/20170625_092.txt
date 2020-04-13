@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_092"
+key = "blau:20170625_092"
 
 [[person.meta.citation]]
 title = "Richmond Times Dispatch"

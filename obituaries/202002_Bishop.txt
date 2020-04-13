@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Bishop"
+key = "obituaries:202002_Bishop"
 
 [[person.meta.citation]]
 title = "Butler Funeral Home"

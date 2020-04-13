@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_021"
+key = "obituaries:2017_021"
 
 [[person.meta.citation]]
 title = "Neptune Society"

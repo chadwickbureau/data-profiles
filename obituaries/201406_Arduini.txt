@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Arduini"
+key = "obituaries:201406_Arduini"
 
 [[person.meta.citation]]
 title = "Frederick B. Welker Funeral Home"

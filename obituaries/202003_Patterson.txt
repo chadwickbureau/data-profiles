@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Patterson"
+key = "obituaries:202003_Patterson"
 
 [[person.meta.citation]]
 title = "Martin Funeral Home"

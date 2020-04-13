@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Thompson"
+key = "obituaries:201405_Thompson"
 
 [[person.meta.citation]]
 title = "Rockford Register Star"

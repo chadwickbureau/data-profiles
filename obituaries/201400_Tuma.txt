@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201400_Tuma"
+key = "obituaries:201400_Tuma"
 
 [[person.meta.citation]]
 title = "Newcomer Funeral Home"

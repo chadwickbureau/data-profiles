@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_010"
+key = "turocy:202003_010"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

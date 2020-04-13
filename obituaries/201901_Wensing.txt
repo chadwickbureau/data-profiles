@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Wensing"
+key = "obituaries:201901_Wensing"
 
 [[person.meta.citation]]
 title = "Maresh-Meredith & Acklam Funeral Home"

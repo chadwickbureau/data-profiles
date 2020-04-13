@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Leslie"
+key = "obituaries:201909_Leslie"
 
 [[person.meta.citation]]
 title = "Lubbock Avalanche-Journal"

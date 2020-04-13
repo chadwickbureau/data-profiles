@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Dahms"
+key = "obituaries:201904_Dahms"
 
 [[person.meta.citation]]
 title = "San Diego Union-Tribune"

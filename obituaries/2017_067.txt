@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_067"
+key = "obituaries:2017_067"
 
 [[person.meta.citation]]
 title = "State Journal-Register"

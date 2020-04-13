@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Sullivan"
+key = "obituaries:201811_Sullivan"
 
 [[person.meta.citation]]
 title = "Alhiser-Comer Mortuary"

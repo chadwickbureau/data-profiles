@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Presko"
+key = "obituaries:201902_Presko"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

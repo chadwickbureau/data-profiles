@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_091"
+key = "obituaries:2017_091"
 
 [[person.meta.citation]]
 title = "Doane Beal & Ames Funeral Home"

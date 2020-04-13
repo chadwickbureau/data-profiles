@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_208"
+key = "blau:20170521_208"
 
 [[person.meta.citation]]
 title = "(Phoenix) Arizona Star"

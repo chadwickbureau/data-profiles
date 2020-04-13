@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_044"
+key = "blau:20170625_044"
 
 [[person.meta.citation]]
 title = "Longview News-Journal"

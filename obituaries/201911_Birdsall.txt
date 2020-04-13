@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Birdsall"
+key = "obituaries:201911_Birdsall"
 
 [[person.meta.citation]]
 title = "Green Bay Press-Gazette"

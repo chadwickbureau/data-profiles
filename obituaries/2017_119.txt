@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_119"
+key = "obituaries:2017_119"
 
 [[person.meta.citation]]
 title = "Mason-Gelder Funeral Home"

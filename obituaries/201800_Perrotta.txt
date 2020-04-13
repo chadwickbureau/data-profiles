@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201800_Perrotta"
+key = "obituaries:201800_Perrotta"
 
 [[person.meta.citation]]
 title = "Ahern Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Gebbs"
+key = "obituaries:201904_Gebbs"
 
 [[person.meta.citation]]
 title = "Long Family Funeral Home"

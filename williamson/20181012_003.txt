@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181012_003"
+key = "williamson:20181012_003"
 
 [[person.meta.citation]]
 title = "Monroe News-Star"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Anderson"
+key = "obituaries:201909_Anderson"
 
 [[person.meta.citation]]
 title = "Washburn-McReavy Funeral Home"

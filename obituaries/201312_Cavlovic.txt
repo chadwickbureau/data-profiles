@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Cavlovic"
+key = "obituaries:201312_Cavlovic"
 
 [[person.meta.citation]]
 title = "Omaha World-Herald"

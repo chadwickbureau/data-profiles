@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Parkin"
+key = "obituaries:201405_Parkin"
 
 [[person.meta.citation]]
 title = "Lodi News-Sentinel"

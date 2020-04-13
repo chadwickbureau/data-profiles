@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Teed"
+key = "obituaries:201408_Teed"
 
 [[person.meta.citation]]
 title = "Hartford Courant"

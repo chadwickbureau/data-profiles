@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Stratton"
+key = "obituaries:202002_Stratton"
 
 [[person.meta.citation]]
 title = "Dorr & Clark Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_145"
+key = "obituaries:2017_145"
 
 [[person.meta.citation]]
 title = "Smith Funeral Service"

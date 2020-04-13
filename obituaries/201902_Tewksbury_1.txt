@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Tewksbury_1"
+key = "obituaries:201902_Tewksbury_1"
 
 [[person.meta.citation]]
 title = "Williams Family Funeral Home"

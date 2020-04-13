@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_019"
+key = "morris:20190531_019"
 
 [[person.meta.citation]]
 title = "Binghamton Press & Sun-Bulletin"

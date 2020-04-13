@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Moore"
+key = "obituaries:201808_Moore"
 
 [[person.meta.citation]]
 title = "The Oregonian"

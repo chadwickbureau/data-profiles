@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Dunlap_1"
+key = "obituaries:201409_Dunlap_1"
 
 [[person.meta.citation]]
 title = "Occidental College athletics website"

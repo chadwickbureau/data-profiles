@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_164"
+key = "obituaries:2017_164"
 
 [[person.meta.citation]]
 title = "Marshal Funeral Home"

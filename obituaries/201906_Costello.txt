@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Costello"
+key = "obituaries:201906_Costello"
 
 [[person.meta.citation]]
 title = "Porter Funeral Homes"

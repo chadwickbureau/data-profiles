@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Tallent"
+key = "obituaries:201807_Tallent"
 
 [[person.meta.citation]]
 title = "Caggiano Funeral Home"

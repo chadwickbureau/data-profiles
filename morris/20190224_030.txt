@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190224_030"
+key = "morris:20190224_030"
 
 [[person.meta.citation]]
 title = "1917 North Carolina State University Yearbook"

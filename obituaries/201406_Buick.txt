@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Buick"
+key = "obituaries:201406_Buick"
 
 [[person.meta.citation]]
 title = "San Francisco Chronicle"

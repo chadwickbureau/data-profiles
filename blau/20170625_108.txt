@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_108"
+key = "blau:20170625_108"
 
 [[person.meta.citation]]
 title = "El Paso Post"

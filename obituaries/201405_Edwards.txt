@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Edwards"
+key = "obituaries:201405_Edwards"
 
 [[person.meta.citation]]
 title = "Buffalo New"

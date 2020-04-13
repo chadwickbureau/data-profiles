@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Grund"
+key = "obituaries:201912_Grund"
 
 [[person.meta.citation]]
 title = "Milwaukee Journal Sentinel"

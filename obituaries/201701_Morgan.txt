@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201701_Morgan"
+key = "obituaries:201701_Morgan"
 
 [[person.meta.citation]]
 title = "Grand View Funeral Home"

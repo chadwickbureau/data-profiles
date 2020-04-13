@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Noren"
+key = "obituaries:201911_Noren"
 
 [[person.meta.citation]]
 title = "BloodHorse"

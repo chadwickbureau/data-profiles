@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Sutter"
+key = "obituaries:201811_Sutter"
 
 [[person.meta.citation]]
 title = "Oklahoman"

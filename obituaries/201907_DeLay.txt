@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_DeLay"
+key = "obituaries:201907_DeLay"
 
 [[person.meta.citation]]
 title = "Heritage Funeral Home"

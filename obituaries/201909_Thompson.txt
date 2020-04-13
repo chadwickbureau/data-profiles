@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Thompson"
+key = "obituaries:201909_Thompson"
 
 [[person.meta.citation]]
 title = "Inland Valley Daily Bulletin"

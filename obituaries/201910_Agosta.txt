@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Agosta"
+key = "obituaries:201910_Agosta"
 
 [[person.meta.citation]]
 title = "Betz, Rossi, Bellinger & Stewart Funeral Home"

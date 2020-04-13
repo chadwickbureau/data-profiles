@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Wilson"
+key = "obituaries:201409_Wilson"
 
 [[person.meta.citation]]
 title = "Alliance Review"

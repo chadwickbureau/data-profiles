@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Anderson"
+key = "obituaries:201812_Anderson"
 
 [[person.meta.citation]]
 title = "Hayworth-Miller Funeral Homes"

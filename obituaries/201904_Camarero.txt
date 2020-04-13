@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Camarero"
+key = "obituaries:201904_Camarero"
 
 [[person.meta.citation]]
 title = "XeuDeportes.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Foster"
+key = "obituaries:201310_Foster"
 
 [[person.meta.citation]]
 title = "Mulhearn Funeral Homes"

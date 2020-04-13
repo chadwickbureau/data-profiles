@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Speck"
+key = "obituaries:201911_Speck"
 
 [[person.meta.citation]]
 title = "Allnutt Funeral Home"

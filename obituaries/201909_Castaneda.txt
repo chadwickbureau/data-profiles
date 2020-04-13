@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Castaneda"
+key = "obituaries:201909_Castaneda"
 
 [[person.meta.citation]]
 title = "El Democrata"

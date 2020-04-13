@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201306_Shubert"
+key = "obituaries:201306_Shubert"
 
 [[person.meta.citation]]
 title = "Daily Courier"

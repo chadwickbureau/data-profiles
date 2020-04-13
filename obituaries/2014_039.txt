@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_039"
+key = "obituaries:2014_039"
 
 [[person.meta.citation]]
 title = "Ricker Funeral Home"

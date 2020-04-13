@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_149"
+key = "obituaries:2017_149"
 
 [[person.meta.citation]]
 title = "Daily Independent"

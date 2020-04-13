@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Hammett"
+key = "obituaries:202003_Hammett"
 
 [[person.meta.citation]]
 title = "J. Henry Stuhr Funeral Home"

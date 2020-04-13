@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_059"
+key = "obituaries:202004_059"
 
 [[person.meta.citation]]
 title = "Times Herald-Record"

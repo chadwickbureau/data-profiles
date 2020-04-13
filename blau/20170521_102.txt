@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_102"
+key = "blau:20170521_102"
 
 [[person.meta.citation]]
 title = "Galveston Daily News"

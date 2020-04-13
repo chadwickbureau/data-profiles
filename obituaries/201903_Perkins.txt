@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Perkins"
+key = "obituaries:201903_Perkins"
 
 [[person.meta.citation]]
 title = "Bennett Funeral Home"

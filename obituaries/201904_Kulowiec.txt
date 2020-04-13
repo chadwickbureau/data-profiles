@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Kulowiec"
+key = "obituaries:201904_Kulowiec"
 
 [[person.meta.citation]]
 title = "Bosak Funeral Home"

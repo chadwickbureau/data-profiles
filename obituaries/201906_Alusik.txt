@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Alusik"
+key = "obituaries:201906_Alusik"
 
 [[person.meta.citation]]
 title = "Chubenko Funeral Homes"

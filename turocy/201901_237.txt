@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_237"
+key = "turocy:201901_237"
 
 [[person.meta.citation]]
 title = "Dallas Morning News"

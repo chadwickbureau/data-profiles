@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zaspel_Norman_M"
+key = "nemec:Zaspel_Norman_M"
 
 [person.name]
 last = "Zaspel"

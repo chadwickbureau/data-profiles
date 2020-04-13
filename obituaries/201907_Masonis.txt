@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Masonis"
+key = "obituaries:201907_Masonis"
 
 [[person.meta.citation]]
 title = "Dicken Funeral Home"

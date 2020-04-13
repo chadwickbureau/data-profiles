@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201802_Takakura"
+key = "obituaries:201802_Takakura"
 
 [[person.meta.citation]]
 title = "GraveyardBaseball"

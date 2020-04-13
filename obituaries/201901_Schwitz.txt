@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Schwitz"
+key = "obituaries:201901_Schwitz"
 
 [[person.meta.citation]]
 title = "Boone Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Agganis_Harry"
+key = "mcconnell:Agganis_Harry"
 
 [person.name]
 last = "Agganis"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200204_Hutchinson"
+key = "obituaries:200204_Hutchinson"
 
 [[person.meta.citation]]
 title = "Tributes.com"

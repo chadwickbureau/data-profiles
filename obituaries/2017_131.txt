@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_131"
+key = "obituaries:2017_131"
 
 [[person.meta.citation]]
 title = "E. J. Fielding Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Cary"
+key = "obituaries:201312_Cary"
 
 [[person.meta.citation]]
 title = "Tyler Morning Telegraph"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Clifton"
+key = "obituaries:201312_Clifton"
 
 [[person.meta.citation]]
 title = "Daytona Beach News-Journal"

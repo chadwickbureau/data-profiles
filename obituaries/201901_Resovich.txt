@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Resovich"
+key = "obituaries:201901_Resovich"
 
 [[person.meta.citation]]
 title = "Skradski Funeral Home"

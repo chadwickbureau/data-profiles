@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Nonnenmocher"
+key = "obituaries:201910_Nonnenmocher"
 
 [[person.meta.citation]]
 title = "Snyder Funeral Home"

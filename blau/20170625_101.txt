@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_101"
+key = "blau:20170625_101"
 
 [[person.meta.citation]]
 title = "Alexandria (LA) Daily Town Talk"

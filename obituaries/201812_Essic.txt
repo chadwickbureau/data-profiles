@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Essic"
+key = "obituaries:201812_Essic"
 
 [[person.meta.citation]]
 title = "McLean Funeral Home"

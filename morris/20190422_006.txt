@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190422_006"
+key = "morris:20190422_006"
 
 [[person.meta.citation]]
 title = "San Bernardino News"

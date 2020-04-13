@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Clay"
+key = "obituaries:201810_Clay"
 
 [[person.meta.citation]]
 title = "Courier-Journal"

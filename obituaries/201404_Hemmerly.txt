@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Hemmerly"
+key = "obituaries:201404_Hemmerly"
 
 [[person.meta.citation]]
 title = "Bringman Clark & Shields Funeral Home"

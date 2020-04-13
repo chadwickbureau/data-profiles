@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Charl"
+key = "obituaries:201809_Charl"
 
 [[person.meta.citation]]
 title = "Kimbrell-Stern Funeral Home"

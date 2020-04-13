@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Simpson"
+key = "obituaries:201901_Simpson"
 
 [[person.meta.citation]]
 title = "Long Beach Press-Telegram"

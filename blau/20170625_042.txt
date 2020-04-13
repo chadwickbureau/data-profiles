@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_042"
+key = "blau:20170625_042"
 
 [[person.meta.citation]]
 title = "San Antonio Light"

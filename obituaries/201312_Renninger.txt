@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Renninger"
+key = "obituaries:201312_Renninger"
 
 [[person.meta.citation]]
 title = "Laubenthal-Mercado Funeral Home"

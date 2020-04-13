@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Ward"
+key = "obituaries:201903_Ward"
 
 [[person.meta.citation]]
 title = "Coronado Times"

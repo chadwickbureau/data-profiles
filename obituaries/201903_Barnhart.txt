@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Barnhart"
+key = "obituaries:201903_Barnhart"
 
 [[person.meta.citation]]
 title = "Carroll County Times"

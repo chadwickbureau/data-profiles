@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Serrett"
+key = "obituaries:201809_Serrett"
 
 [[person.meta.citation]]
 title = "Fairchild Sons Funeral Home"

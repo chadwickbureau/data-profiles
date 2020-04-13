@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Marinko"
+key = "obituaries:202003_Marinko"
 
 [[person.meta.citation]]
 title = "Adzima Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_McDuff"
+key = "obituaries:201903_McDuff"
 
 [[person.meta.citation]]
 title = "Lake Ridge Funeral Home"

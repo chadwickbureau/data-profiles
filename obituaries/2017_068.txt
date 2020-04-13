@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_068"
+key = "obituaries:2017_068"
 
 [[person.meta.citation]]
 title = "Clements Funeral Home"

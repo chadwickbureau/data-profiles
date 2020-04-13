@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Cole"
+key = "obituaries:201810_Cole"
 
 [[person.meta.citation]]
 title = "Orange County Register"

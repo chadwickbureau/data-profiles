@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Snell"
+key = "obituaries:201408_Snell"
 
 [[person.meta.citation]]
 title = "Scranton Times"

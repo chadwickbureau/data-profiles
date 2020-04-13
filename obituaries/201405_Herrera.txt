@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Herrera"
+key = "obituaries:201405_Herrera"
 
 [[person.meta.citation]]
 title = "Inside Bay Area"

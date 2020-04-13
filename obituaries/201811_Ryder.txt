@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Ryder"
+key = "obituaries:201811_Ryder"
 
 [[person.meta.citation]]
 title = "McCarthy, McKinney & Lawler"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_001"
+key = "vitals:202004_001"
 
 [[person.meta.citation]]
 title = "WV Certificate of Death"

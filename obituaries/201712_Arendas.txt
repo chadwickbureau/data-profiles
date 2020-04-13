@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Arendas"
+key = "obituaries:201712_Arendas"
 
 [[person.meta.citation]]
 title = "James Funeral Home"

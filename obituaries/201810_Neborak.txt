@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Neborak"
+key = "obituaries:201810_Neborak"
 
 [[person.meta.citation]]
 title = "Moore, Snear & Ruggiero Funeral Home"

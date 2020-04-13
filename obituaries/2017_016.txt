@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_016"
+key = "obituaries:2017_016"
 
 [[person.meta.citation]]
 title = "Murdoch Funeral Home"

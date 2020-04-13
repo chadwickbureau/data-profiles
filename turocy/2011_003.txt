@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2011_003"
+key = "turocy:2011_003"
 
 [[person.meta.citation]]
 title = "Camden Riversharks"

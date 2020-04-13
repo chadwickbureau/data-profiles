@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Plascencia"
+key = "obituaries:201810_Plascencia"
 
 [[person.meta.citation]]
 title = "milb.com"

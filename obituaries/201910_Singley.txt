@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Singley"
+key = "obituaries:201910_Singley"
 
 [[person.meta.citation]]
 title = "John P. Donohue"

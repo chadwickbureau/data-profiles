@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Morrell"
+key = "obituaries:201810_Morrell"
 
 [[person.meta.citation]]
 title = "Russon Mortuary"

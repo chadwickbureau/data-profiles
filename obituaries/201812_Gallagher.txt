@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Gallagher"
+key = "obituaries:201812_Gallagher"
 
 [[person.meta.citation]]
 title = "News Observer"

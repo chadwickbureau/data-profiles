@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190422_012"
+key = "morris:20190422_012"
 
 [[person.meta.citation]]
 title = "San Bernardino County Sun"

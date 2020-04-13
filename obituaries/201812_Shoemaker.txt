@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Shoemaker"
+key = "obituaries:201812_Shoemaker"
 
 [[person.meta.citation]]
 title = "Badger Littleton & Groton Funeral Home"

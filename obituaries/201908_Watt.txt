@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Watt"
+key = "obituaries:201908_Watt"
 
 [[person.meta.citation]]
 title = "Bath-Naylor Funeral Home"

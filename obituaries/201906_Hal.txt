@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Hal"
+key = "obituaries:201906_Hal"
 
 [[person.meta.citation]]
 title = "Portland Press Herald/Maine Sunday Telegram"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Haddix"
+key = "obituaries:202002_Haddix"
 
 [[person.meta.citation]]
 title = "Littleton & Rue Funeral Home"

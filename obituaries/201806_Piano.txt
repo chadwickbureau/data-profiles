@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Piano"
+key = "obituaries:201806_Piano"
 
 [[person.meta.citation]]
 title = "Dignity Memorial.com"

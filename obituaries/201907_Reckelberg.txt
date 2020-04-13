@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Reckelberg"
+key = "obituaries:201907_Reckelberg"
 
 [[person.meta.citation]]
 title = "Green Bay Press-Gazette"

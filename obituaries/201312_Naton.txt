@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Naton"
+key = "obituaries:201312_Naton"
 
 [[person.meta.citation]]
 title = "Syracuse Post Standard"

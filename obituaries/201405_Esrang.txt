@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Esrang"
+key = "obituaries:201405_Esrang"
 
 [[person.meta.citation]]
 title = "Times News"

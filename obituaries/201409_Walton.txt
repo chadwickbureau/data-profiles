@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Walton"
+key = "obituaries:201409_Walton"
 
 [[person.meta.citation]]
 title = "Bellingham Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Perrin"
+key = "obituaries:201310_Perrin"
 
 [[person.meta.citation]]
 title = "Houston Chronicle"

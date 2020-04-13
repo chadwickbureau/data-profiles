@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Wasylczak"
+key = "obituaries:201409_Wasylczak"
 
 [[person.meta.citation]]
 title = "Tribune-Democrat"

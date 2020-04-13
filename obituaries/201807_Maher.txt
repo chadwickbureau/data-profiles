@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Maher"
+key = "obituaries:201807_Maher"
 
 [[person.meta.citation]]
 title = "Krause Funeral Home"

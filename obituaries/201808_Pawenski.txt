@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Pawenski"
+key = "obituaries:201808_Pawenski"
 
 [[person.meta.citation]]
 title = "Geisen Funeral Home"

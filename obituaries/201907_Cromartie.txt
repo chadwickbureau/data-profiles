@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Cromartie"
+key = "obituaries:201907_Cromartie"
 
 [[person.meta.citation]]
 title = "Rome News-Tribune"

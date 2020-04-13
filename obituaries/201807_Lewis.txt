@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Lewis"
+key = "obituaries:201807_Lewis"
 
 [[person.meta.citation]]
 title = "Pensacola New Journal"

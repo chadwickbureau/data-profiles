@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200220_004"
+key = "blau:20200220_004"
 
 [[person.meta.citation]]
 title = "Bradford Era"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Angelini"
+key = "obituaries:201912_Angelini"
 
 [[person.meta.citation]]
 title = "Horan & McConaty Funeral Home"

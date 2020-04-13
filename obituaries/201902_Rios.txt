@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Rios"
+key = "obituaries:201902_Rios"
 
 [[person.meta.citation]]
 title = "Nopasanada.mx"

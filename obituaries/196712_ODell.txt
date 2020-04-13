@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "196712_ODell"
+key = "obituaries:196712_ODell"
 
 [[person.meta.citation]]
 title = "Bridgeport Telegram"

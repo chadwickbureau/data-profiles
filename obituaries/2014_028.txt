@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_028"
+key = "obituaries:2014_028"
 
 [[person.meta.citation]]
 title = "Courier Press"

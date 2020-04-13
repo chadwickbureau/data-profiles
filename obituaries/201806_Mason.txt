@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Mason"
+key = "obituaries:201806_Mason"
 
 [[person.meta.citation]]
 title = "Morris, O'Connor & Blute Funeral Home"

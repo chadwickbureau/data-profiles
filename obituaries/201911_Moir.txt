@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Moir"
+key = "obituaries:201911_Moir"
 
 [[person.meta.citation]]
 title = "John M. Oakey & Son Funeral Home"

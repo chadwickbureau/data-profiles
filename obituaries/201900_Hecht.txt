@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Hecht"
+key = "obituaries:201900_Hecht"
 
 [[person.meta.citation]]
 title = "Chicago Tribune"

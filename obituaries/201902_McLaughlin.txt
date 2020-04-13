@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_McLaughlin"
+key = "obituaries:201902_McLaughlin"
 
 [[person.meta.citation]]
 title = "Resthaven Funeral Home"

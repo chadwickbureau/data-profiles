@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Armstrong"
+key = "obituaries:201903_Armstrong"
 
 [[person.meta.citation]]
 title = "Mather Hodge Funeral Home"

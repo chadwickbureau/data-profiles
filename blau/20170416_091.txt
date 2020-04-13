@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_091"
+key = "blau:20170416_091"
 
 [[person.meta.citation]]
 title = "Alta Vista (KS) Journal"

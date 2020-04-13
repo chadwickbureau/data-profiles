@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201703_Balciulis"
+key = "obituaries:201703_Balciulis"
 
 [[person.meta.citation]]
 title = "Martin Funeral Home"

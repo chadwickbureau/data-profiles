@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Echevarria"
+key = "obituaries:202002_Echevarria"
 
 [[person.meta.citation]]
 title = "ESPN.com"

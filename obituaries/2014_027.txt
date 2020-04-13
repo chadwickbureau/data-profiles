@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_027"
+key = "obituaries:2014_027"
 
 [[person.meta.citation]]
 title = "Wilmington Funeral & Cremation"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Clark"
+key = "obituaries:201801_Clark"
 
 [[person.meta.citation]]
 title = "Golden Gate Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_172"
+key = "obituaries:2017_172"
 
 [[person.meta.citation]]
 title = "The Coloradoan"

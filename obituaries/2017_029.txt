@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_029"
+key = "obituaries:2017_029"
 
 [[person.meta.citation]]
 title = "Lindsey Funeral Home"

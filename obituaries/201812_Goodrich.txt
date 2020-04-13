@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Goodrich"
+key = "obituaries:201812_Goodrich"
 
 [[person.meta.citation]]
 title = "Sonoma Index-Tribune"

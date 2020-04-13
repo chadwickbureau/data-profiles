@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Taylor"
+key = "obituaries:201408_Taylor"
 
 [[person.meta.citation]]
 title = "Seattle Times"

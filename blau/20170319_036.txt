@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_036"
+key = "blau:20170319_036"
 
 [[person.meta.citation]]
 title = "Jackson Clarion-Ledger"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Wynne"
+key = "obituaries:201908_Wynne"
 
 [[person.meta.citation]]
 title = "Joseph Paul Funeral Home"

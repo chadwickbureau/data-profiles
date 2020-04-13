@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Sams"
+key = "obituaries:202001_Sams"
 
 [[person.meta.citation]]
 title = "Observer-Reporter"

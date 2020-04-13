@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Jones_Calvin"
+key = "obituaries:201811_Jones_Calvin"
 
 [[person.meta.citation]]
 title = "Fletcher Funeral Home"

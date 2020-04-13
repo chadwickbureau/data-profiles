@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Watlington"
+key = "obituaries:201912_Watlington"
 
 [[person.meta.citation]]
 title = "Harrelson Funeral Services"

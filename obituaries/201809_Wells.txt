@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Wells"
+key = "obituaries:201809_Wells"
 
 [[person.meta.citation]]
 title = "Tobias Funeral Home"

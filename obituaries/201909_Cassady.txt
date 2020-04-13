@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Cassady"
+key = "obituaries:201909_Cassady"
 
 [[person.meta.citation]]
 title = "Schoedinger Funeral Home"

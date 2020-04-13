@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Naragon"
+key = "obituaries:201908_Naragon"
 
 [[person.meta.citation]]
 title = "Caspar Star-Tribune"

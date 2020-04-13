@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Sheffield"
+key = "obituaries:201808_Sheffield"
 
 [[person.meta.citation]]
 title = "E. Alvin Small Funeral Home"

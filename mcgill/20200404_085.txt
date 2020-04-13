@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200404_085"
+key = "mcgill:20200404_085"
 
 [[person.meta.citation]]
 title = "Daily Press"

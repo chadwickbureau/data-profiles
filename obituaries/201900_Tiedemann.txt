@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201900_Tiedemann"
+key = "obituaries:201900_Tiedemann"
 
 [[person.meta.citation]]
 title = "The Reporter"

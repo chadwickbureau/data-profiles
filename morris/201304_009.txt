@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201304_009"
+key = "morris:201304_009"
 
 [[person.meta.contributor]]
 name.last = "Usereau"

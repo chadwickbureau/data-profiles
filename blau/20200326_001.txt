@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200326_001"
+key = "blau:20200326_001"
 
 [[person.meta.citation]]
 title = "Schulenberg Sticker"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_001"
+key = "obituaries:2014_001"
 
 [[person.meta.citation]]
 title = "Eternal Valley Memorial Park & Mortuary (Newhall, CA)"

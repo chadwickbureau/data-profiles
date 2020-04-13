@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Morant"
+key = "obituaries:201911_Morant"
 
 [[person.meta.citation]]
 title = "Hodges Family Funeral Home"

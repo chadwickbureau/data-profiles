@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zwirek_Louis_C"
+key = "nemec:Zwirek_Louis_C"
 
 [person.name]
 last = "Zwirek"

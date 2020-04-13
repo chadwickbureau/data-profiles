@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Jones"
+key = "obituaries:201912_Jones"
 
 [[person.meta.citation]]
 title = "Harper Funeral Home"

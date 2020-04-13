@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Hooper"
+key = "obituaries:201406_Hooper"
 
 [[person.meta.citation]]
 title = "Beaumont Enterprise"

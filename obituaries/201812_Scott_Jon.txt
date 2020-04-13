@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Scott_Jon"
+key = "obituaries:201812_Scott_Jon"
 
 [[person.meta.citation]]
 title = "Myers Mortuary"

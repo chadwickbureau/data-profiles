@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Febbraro"
+key = "obituaries:201908_Febbraro"
 
 [[person.meta.citation]]
 title = "Rusiewicz Funeral Home"

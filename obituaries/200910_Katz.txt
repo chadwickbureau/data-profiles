@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200910_Katz"
+key = "obituaries:200910_Katz"
 
 [[person.meta.citation]]
 title = "Tributes.com"

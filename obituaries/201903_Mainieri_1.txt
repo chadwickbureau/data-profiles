@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Mainieri_1"
+key = "obituaries:201903_Mainieri_1"
 
 [[person.meta.citation]]
 title = "Nola.com"

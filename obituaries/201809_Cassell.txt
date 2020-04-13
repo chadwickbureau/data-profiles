@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Cassell"
+key = "obituaries:201809_Cassell"
 
 [[person.meta.citation]]
 title = "Hathaway Funeral Home"

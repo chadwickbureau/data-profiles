@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201701_Barberich"
+key = "obituaries:201701_Barberich"
 
 [[person.meta.citation]]
 title = "Merlin Funeral Home"

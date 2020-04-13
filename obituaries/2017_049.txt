@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_049"
+key = "obituaries:2017_049"
 
 [[person.meta.citation]]
 title = "Palmer Funeral Home"

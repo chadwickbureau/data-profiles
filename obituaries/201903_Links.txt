@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Links"
+key = "obituaries:201903_Links"
 
 [[person.meta.citation]]
 title = "Morrison Funeral Home"

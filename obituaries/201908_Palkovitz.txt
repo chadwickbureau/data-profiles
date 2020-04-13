@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Palkovitz"
+key = "obituaries:201908_Palkovitz"
 
 [[person.meta.citation]]
 title = "Rest Haven Funeral Home"

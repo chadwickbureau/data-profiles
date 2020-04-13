@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Blefary_Curtis_LeRoy"
+key = "mcconnell:Blefary_Curtis_LeRoy"
 
 [person.name]
 last = "Blefary"

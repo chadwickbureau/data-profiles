@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_096"
+key = "obituaries:2017_096"
 
 [[person.meta.citation]]
 title = "Citizen Times"

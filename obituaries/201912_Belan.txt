@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Belan"
+key = "obituaries:201912_Belan"
 
 [[person.meta.citation]]
 title = "Jefferson Memorial Funeral Home"

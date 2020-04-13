@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_144"
+key = "obituaries:202004_144"
 
 [[person.meta.citation]]
 title = "Santa Barbara News-Press"

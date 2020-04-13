@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201711_Espy"
+key = "obituaries:201711_Espy"
 
 [[person.meta.citation]]
 title = "Greenwood Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Speight"
+key = "obituaries:201810_Speight"
 
 [[person.meta.citation]]
 title = "Cumby Funeral Home"

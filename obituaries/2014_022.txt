@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_022"
+key = "obituaries:2014_022"
 
 [[person.meta.citation]]
 title = "Union Daily Times"

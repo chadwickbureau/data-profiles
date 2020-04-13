@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Bristow"
+key = "obituaries:201406_Bristow"
 
 [[person.meta.citation]]
 title = "The News Journal"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Valencik"
+key = "obituaries:201902_Valencik"
 
 [[person.meta.citation]]
 title = "Wojciechowski Funeral Home"

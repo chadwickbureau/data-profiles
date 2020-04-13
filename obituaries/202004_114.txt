@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_114"
+key = "obituaries:202004_114"
 
 [[person.meta.citation]]
 title = "Doherty Funeral Homes"

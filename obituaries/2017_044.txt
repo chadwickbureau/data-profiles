@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_044"
+key = "obituaries:2017_044"
 
 [[person.meta.citation]]
 title = "Groff Funeral Home"

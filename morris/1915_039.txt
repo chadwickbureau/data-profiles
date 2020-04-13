@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1915_039"
+key = "morris:1915_039"
 
 [[person.meta.citation]]
 title = "Canton Evening Repository"

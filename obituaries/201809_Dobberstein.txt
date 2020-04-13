@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Dobberstein"
+key = "obituaries:201809_Dobberstein"
 
 [[person.meta.citation]]
 title = "Systema Funeral Home"

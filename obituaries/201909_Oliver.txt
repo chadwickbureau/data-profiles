@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Oliver"
+key = "obituaries:201909_Oliver"
 
 [[person.meta.citation]]
 title = "Idaho Statesman"

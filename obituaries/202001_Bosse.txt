@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Bosse"
+key = "obituaries:202001_Bosse"
 
 [[person.meta.citation]]
 title = "Burrier-Queen Funeral Home"

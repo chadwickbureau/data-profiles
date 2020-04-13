@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_096"
+key = "blau:20170319_096"
 
 [[person.meta.citation]]
 title = "Bridgeport Evening Farmer"

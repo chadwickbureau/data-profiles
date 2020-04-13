@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_OLari"
+key = "obituaries:201811_OLari"
 
 [[person.meta.citation]]
 title = "Witty Funeral Home"

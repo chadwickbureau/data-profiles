@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Ferenchick"
+key = "obituaries:201908_Ferenchick"
 
 [[person.meta.citation]]
 title = "Reading Eagle"

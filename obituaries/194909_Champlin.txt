@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "194909_Champlin"
+key = "obituaries:194909_Champlin"
 
 [[person.meta.citation]]
 title = "Cincinnati Enquirer 1949-09-12"

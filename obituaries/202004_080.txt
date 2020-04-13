@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_080"
+key = "obituaries:202004_080"
 
 [[person.meta.citation]]
 title = "Henderson-Van Atta Stickle Funeral Home"

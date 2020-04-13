@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Terlip"
+key = "obituaries:201904_Terlip"
 
 [[person.meta.citation]]
 title = "Burkey-Truby Funeral Home"

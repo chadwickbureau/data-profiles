@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_139"
+key = "blau:20170416_139"
 
 [[person.meta.citation]]
 title = "Monongahela Daily Republica"

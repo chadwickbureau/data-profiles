@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Gonzalez"
+key = "obituaries:201801_Gonzalez"
 
 [[person.meta.citation]]
 title = "LaPrensaDeMonclova.com"

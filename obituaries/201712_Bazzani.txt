@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Bazzani"
+key = "obituaries:201712_Bazzani"
 
 [[person.meta.citation]]
 title = "San Francisco Chronicle"

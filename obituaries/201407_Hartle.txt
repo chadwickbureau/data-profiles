@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Hartle"
+key = "obituaries:201407_Hartle"
 
 [[person.meta.citation]]
 title = "Minnich Funeral Home"

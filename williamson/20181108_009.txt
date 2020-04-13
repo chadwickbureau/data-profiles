@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181108_009"
+key = "williamson:20181108_009"
 
 [[person.meta.citation]]
 title = "St. Louis Post Dispatch"

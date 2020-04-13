@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Bernardo"
+key = "obituaries:201903_Bernardo"
 
 [[person.meta.citation]]
 title = "Adamson Funeral Home"

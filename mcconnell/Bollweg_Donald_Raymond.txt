@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Bollweg_Donald_Raymond"
+key = "mcconnell:Bollweg_Donald_Raymond"
 
 [person.name]
 last = "Bollweg"

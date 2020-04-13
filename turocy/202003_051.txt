@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_051"
+key = "turocy:202003_051"
 
 [[person.meta.citation]]
 title = "1953 Dallas Eagles Spring Training Roster"

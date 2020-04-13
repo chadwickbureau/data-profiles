@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Skaggs"
+key = "obituaries:201907_Skaggs"
 
 [[person.meta.citation]]
 title = "ESPN.com"

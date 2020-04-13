@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Weisenburger"
+key = "obituaries:201903_Weisenburger"
 
 [[person.meta.citation]]
 title = "Clark Funeral Home"

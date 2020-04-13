@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_106"
+key = "obituaries:2017_106"
 
 [[person.meta.citation]]
 title = "Gearty-Delmore Funeral Home"

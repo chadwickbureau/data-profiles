@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Visconti"
+key = "obituaries:201811_Visconti"
 
 [[person.meta.citation]]
 title = "Legacy.com"

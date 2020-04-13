@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Lois"
+key = "obituaries:201903_Lois"
 
 [[person.meta.citation]]
 title = "ChispasDeActualidad.com"

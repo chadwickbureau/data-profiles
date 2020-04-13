@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Hamet"
+key = "obituaries:202003_Hamet"
 
 [[person.meta.citation]]
 title = "Kalamazoo Gazette"

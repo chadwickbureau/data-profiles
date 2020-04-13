@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190304_043"
+key = "morris:20190304_043"
 
 [[person.meta.citation]]
 title = "Geneva Daily Times"

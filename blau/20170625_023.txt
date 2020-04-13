@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_023"
+key = "blau:20170625_023"
 
 [[person.meta.citation]]
 title = "Monroe Star-News"

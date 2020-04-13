@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Arredondo"
+key = "obituaries:201811_Arredondo"
 
 [[person.meta.citation]]
 title = "SonDeportes.com"

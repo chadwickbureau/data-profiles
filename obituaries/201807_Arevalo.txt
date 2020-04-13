@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Arevalo"
+key = "obituaries:201807_Arevalo"
 
 [[person.meta.citation]]
 title = "Miami Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Kwak"
+key = "obituaries:201904_Kwak"
 
 [[person.meta.citation]]
 title = "Friedrich_Jones Funeral Home"

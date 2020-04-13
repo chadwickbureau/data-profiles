@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Tufts"
+key = "obituaries:201810_Tufts"
 
 [[person.meta.citation]]
 title = "Burton Funeral Home"

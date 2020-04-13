@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Harrington"
+key = "obituaries:201405_Harrington"
 
 [[person.meta.citation]]
 title = "Moore Funeral Service"

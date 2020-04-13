@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Newman"
+key = "obituaries:201907_Newman"
 
 [[person.meta.citation]]
 title = "Yost & Webb Funeral Home"

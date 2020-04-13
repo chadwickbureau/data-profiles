@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1915_008"
+key = "morris:1915_008"
 
 [[person.meta.citation]]
 title = "Akron Beacon-Journal"

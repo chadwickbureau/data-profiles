@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Fiore"
+key = "obituaries:201405_Fiore"
 
 [[person.meta.citation]]
 title = "The Repository"

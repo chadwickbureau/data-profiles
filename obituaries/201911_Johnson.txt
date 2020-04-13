@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Johnson"
+key = "obituaries:201911_Johnson"
 
 [[person.meta.citation]]
 title = "Apfel Funeral Home"

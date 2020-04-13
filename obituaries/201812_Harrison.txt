@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Harrison"
+key = "obituaries:201812_Harrison"
 
 [[person.meta.citation]]
 title = "Blanchard St. Denis Funeral Home"

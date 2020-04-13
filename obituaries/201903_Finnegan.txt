@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Finnegan"
+key = "obituaries:201903_Finnegan"
 
 [[person.meta.citation]]
 title = "Lupton Chapel"

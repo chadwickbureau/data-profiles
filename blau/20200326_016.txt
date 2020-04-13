@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200326_016"
+key = "blau:20200326_016"
 
 [[person.meta.citation]]
 title = "Fitchburg Sentinel"

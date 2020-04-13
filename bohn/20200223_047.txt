@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200223_047"
+key = "bohn:20200223_047"
 
 [[person.meta.citation]]
 title = "Oakes (ND) Times"

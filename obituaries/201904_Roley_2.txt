@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Roley_2"
+key = "obituaries:201904_Roley_2"
 
 [[person.meta.citation]]
 title = "Walker Funeral Home"

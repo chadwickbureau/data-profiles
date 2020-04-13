@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Fierbaugh"
+key = "obituaries:201901_Fierbaugh"
 
 [[person.meta.citation]]
 title = "Tampa Bay Times"

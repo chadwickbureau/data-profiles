@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Wherry"
+key = "obituaries:201806_Wherry"
 
 [[person.meta.citation]]
 title = "Dobbling, Muehlenkamp-Erschell Funeral Home"

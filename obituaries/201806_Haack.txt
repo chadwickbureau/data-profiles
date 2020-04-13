@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Haack"
+key = "obituaries:201806_Haack"
 
 [[person.meta.citation]]
 title = "Locke Funeral Home"

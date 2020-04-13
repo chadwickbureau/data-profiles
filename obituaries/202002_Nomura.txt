@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Nomura"
+key = "obituaries:202002_Nomura"
 
 [[person.meta.citation]]
 title = "Japan News"

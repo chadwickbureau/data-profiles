@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_070"
+key = "obituaries:2017_070"
 
 [[person.meta.citation]]
 title = "Napa Valley Register"

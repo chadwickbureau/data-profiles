@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191212_008"
+key = "blau:20191212_008"
 
 [[person.meta.citation]]
 title = "Tuscaloosa News"

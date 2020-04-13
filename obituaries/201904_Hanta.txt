@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Hanta"
+key = "obituaries:201904_Hanta"
 
 [[person.meta.citation]]
 title = "Star-Advertiser"

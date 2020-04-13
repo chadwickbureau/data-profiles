@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Brito_Bernardo"
+key = "mcconnell:Brito_Bernardo"
 
 [person.name]
 last = "Brito"

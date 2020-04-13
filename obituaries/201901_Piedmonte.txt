@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Piedmonte"
+key = "obituaries:201901_Piedmonte"
 
 [[person.meta.citation]]
 title = "East Bay Times"

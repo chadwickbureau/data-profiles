@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Foxworth"
+key = "obituaries:201405_Foxworth"
 
 [[person.meta.citation]]
 title = "News & Record"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Gatewood"
+key = "obituaries:201906_Gatewood"
 
 [[person.meta.citation]]
 title = "Everhere"

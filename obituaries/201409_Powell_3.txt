@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Powell_3"
+key = "obituaries:201409_Powell_3"
 
 [[person.meta.citation]]
 title = "San Diego Union-Tribune"

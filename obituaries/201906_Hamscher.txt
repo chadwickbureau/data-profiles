@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Hamscher"
+key = "obituaries:201906_Hamscher"
 
 [[person.meta.citation]]
 title = "Brubaker Funeral Home"

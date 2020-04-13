@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Walker"
+key = "obituaries:201810_Walker"
 
 [[person.meta.citation]]
 title = "Herald Sun"

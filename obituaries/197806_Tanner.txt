@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197806_Tanner"
+key = "obituaries:197806_Tanner"
 
 [[person.meta.citation]]
 title = "Tampa Tribune"

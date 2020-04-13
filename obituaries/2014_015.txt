@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_015"
+key = "obituaries:2014_015"
 
 [[person.meta.citation]]
 title = "Star-Gazette"

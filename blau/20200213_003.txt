@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200213_003"
+key = "blau:20200213_003"
 
 [[person.meta.citation]]
 title = "Buffalo Enquirer"

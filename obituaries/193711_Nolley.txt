@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "193711_Nolley"
+key = "obituaries:193711_Nolley"
 
 [[person.meta.citation]]
 title = "Montgomery Advertiser"

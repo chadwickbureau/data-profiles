@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_062"
+key = "obituaries:2017_062"
 
 [[person.meta.citation]]
 title = "Allen Family Funeral Home"

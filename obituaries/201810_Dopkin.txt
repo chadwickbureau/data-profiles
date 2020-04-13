@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Dopkin"
+key = "obituaries:201810_Dopkin"
 
 [[person.meta.citation]]
 title = "Walukiewicz-Oravitz Fell Funeral Home"

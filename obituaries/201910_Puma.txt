@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Puma"
+key = "obituaries:201910_Puma"
 
 [[person.meta.citation]]
 title = "Tillman Funeral Home"

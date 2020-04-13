@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Sauer"
+key = "obituaries:201906_Sauer"
 
 [[person.meta.citation]]
 title = "St. Cloud Times"

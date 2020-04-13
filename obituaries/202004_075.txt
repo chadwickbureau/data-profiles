@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_075"
+key = "obituaries:202004_075"
 
 [[person.meta.citation]]
 title = "Appleton Post-Crescent"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_093"
+key = "blau:20170521_093"
 
 [[person.meta.citation]]
 title = "Ironwood Daily Globe"

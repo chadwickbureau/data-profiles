@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Natter"
+key = "obituaries:201911_Natter"
 
 [[person.meta.citation]]
 title = "Schneider Funeral Home"

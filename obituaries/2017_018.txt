@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_018"
+key = "obituaries:2017_018"
 
 [[person.meta.citation]]
 title = "Westheimer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_McKeel"
+key = "obituaries:201901_McKeel"
 
 [[person.meta.citation]]
 title = "Taylor-Tyson Funeral Home"

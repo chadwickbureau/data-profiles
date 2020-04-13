@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191229_001"
+key = "morris:20191229_001"
 
 [[person.meta.citation]]
 title = "Burlington Free Press"

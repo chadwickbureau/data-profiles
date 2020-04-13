@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Simpson"
+key = "obituaries:201904_Simpson"
 
 [[person.meta.citation]]
 title = "Collins-McKee-Stone Funeral Home"

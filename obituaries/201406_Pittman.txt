@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Pittman"
+key = "obituaries:201406_Pittman"
 
 [[person.meta.citation]]
 title = "Columbus Ledger-Enquirer"

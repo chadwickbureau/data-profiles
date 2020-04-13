@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Mills"
+key = "obituaries:201912_Mills"
 
 [[person.meta.citation]]
 title = "Keefe Funeral Home"

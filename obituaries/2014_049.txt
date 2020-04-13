@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_049"
+key = "obituaries:2014_049"
 
 [[person.meta.citation]]
 title = "Belleville News-Democrat"

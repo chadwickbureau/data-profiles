@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Leaf"
+key = "obituaries:201405_Leaf"
 
 [[person.meta.citation]]
 title = "Star Tribune"

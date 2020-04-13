@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181012_005"
+key = "williamson:20181012_005"
 
 [[person.meta.citation]]
 title = "Pine Bluff Daily Graphic"

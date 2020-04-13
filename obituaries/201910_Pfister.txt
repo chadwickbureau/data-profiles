@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Pfister"
+key = "obituaries:201910_Pfister"
 
 [[person.meta.citation]]
 title = "Short Funeral Home"

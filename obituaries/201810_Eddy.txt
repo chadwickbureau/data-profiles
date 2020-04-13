@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Eddy"
+key = "obituaries:201810_Eddy"
 
 [[person.meta.citation]]
 title = "Hogan-Bremer-Moore Funeral Home"

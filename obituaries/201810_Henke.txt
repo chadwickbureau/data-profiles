@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Henke"
+key = "obituaries:201810_Henke"
 
 [[person.meta.citation]]
 title = "Gorman Funeral Home"

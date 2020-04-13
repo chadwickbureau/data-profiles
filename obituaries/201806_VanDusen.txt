@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_VanDusen"
+key = "obituaries:201806_VanDusen"
 
 [[person.meta.citation]]
 title = "Austin Funeral Home"

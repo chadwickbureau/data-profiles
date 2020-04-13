@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_McMahon"
+key = "obituaries:201810_McMahon"
 
 [[person.meta.citation]]
 title = "Dwyer Funeral Home"

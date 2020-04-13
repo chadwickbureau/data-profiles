@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Eraca"
+key = "obituaries:201809_Eraca"
 
 [[person.meta.citation]]
 title = "Riverview Funeral Home"

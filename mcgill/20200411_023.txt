@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_023"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-06-11"
+pages = "14"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Kunkle"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Morristown"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "Morristown"
+team.league.name = "appalachian League"
+
+
+[[person.transaction]]
+date = "1914-06-10"
+type = "released"
+leave.name = "Morristown"
+leave.league.name = "Appalachian"
+
+

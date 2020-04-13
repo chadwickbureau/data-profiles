@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Hunnicutt"
+key = "obituaries:201809_Hunnicutt"
 
 [[person.meta.citation]]
 title = "Thos. Shephard & Son Funeral Home"

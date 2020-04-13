@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Aramini"
+key = "obituaries:201408_Aramini"
 
 [[person.meta.citation]]
 title = "Union Leader"

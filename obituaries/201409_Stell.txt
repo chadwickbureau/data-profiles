@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Stell"
+key = "obituaries:201409_Stell"
 
 [[person.meta.citation]]
 title = "News & Observer"

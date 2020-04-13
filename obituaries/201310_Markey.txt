@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Markey"
+key = "obituaries:201310_Markey"
 
 [[person.meta.citation]]
 title = "Doan & Mills Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Robles"
+key = "obituaries:201310_Robles"
 
 [[person.meta.citation]]
 title = "Consuelocity.com"

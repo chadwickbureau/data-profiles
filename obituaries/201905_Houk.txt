@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Houk"
+key = "obituaries:201905_Houk"
 
 [[person.meta.citation]]
 title = "Rattermans Funeral Home"

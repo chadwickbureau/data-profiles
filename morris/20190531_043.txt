@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_043"
+key = "morris:20190531_043"
 
 [[person.meta.citation]]
 title = "Reading Times"

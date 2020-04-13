@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Flory"
+key = "obituaries:201901_Flory"
 
 [[person.meta.citation]]
 title = "Brainard Funeral Home"

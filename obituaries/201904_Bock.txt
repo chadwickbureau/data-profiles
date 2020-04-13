@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Bock"
+key = "obituaries:201904_Bock"
 
 [[person.meta.citation]]
 title = "Greenlawn Funeral Homes"

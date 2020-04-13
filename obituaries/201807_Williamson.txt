@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Williamson"
+key = "obituaries:201807_Williamson"
 
 [[person.meta.citation]]
 title = "The Progress-Index"

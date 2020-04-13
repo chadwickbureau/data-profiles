@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_002"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-05-16"
+pages = "16"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Monk"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+
+

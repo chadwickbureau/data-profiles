@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Maguire"
+key = "obituaries:201907_Maguire"
 
 [[person.meta.citation]]
 title = "John E. Day Funeral Home"

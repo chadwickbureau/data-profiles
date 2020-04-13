@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Simon"
+key = "obituaries:201903_Simon"
 
 [[person.meta.citation]]
 title = "Brainard Funeral Home"

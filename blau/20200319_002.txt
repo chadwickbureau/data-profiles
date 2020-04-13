@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200319_002"
+key = "blau:20200319_002"
 
 [[person.meta.citation]]
 title = "Reading Times"

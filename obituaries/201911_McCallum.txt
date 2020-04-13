@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_McCallum"
+key = "obituaries:201911_McCallum"
 
 [[person.meta.citation]]
 title = "Ferguson Funeral Home"

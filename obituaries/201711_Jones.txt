@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201711_Jones"
+key = "obituaries:201711_Jones"
 
 [[person.meta.citation]]
 title = "Philadelphia Tribune"

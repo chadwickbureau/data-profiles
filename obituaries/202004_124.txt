@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_124"
+key = "obituaries:202004_124"
 
 [[person.meta.citation]]
 title = "Roller Funeral Homes"

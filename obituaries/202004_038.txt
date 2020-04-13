@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_038"
+key = "obituaries:202004_038"
 
 [[person.meta.citation]]
 title = "Newcomb & Collins Funeral Home"

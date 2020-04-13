@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Montgomery"
+key = "obituaries:201405_Montgomery"
 
 [[person.meta.citation]]
 title = "Idaho Statesman"

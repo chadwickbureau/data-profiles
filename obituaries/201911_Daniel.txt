@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Daniel"
+key = "obituaries:201911_Daniel"
 
 [[person.meta.citation]]
 title = "Arizona Daily Star"

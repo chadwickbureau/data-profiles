@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Thomas"
+key = "obituaries:201908_Thomas"
 
 [[person.meta.citation]]
 title = "Arlington Park Funeral Home"

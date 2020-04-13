@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Schoendienst"
+key = "obituaries:201806_Schoendienst"
 
 [[person.meta.citation]]
 title = "Schrader Funeral Home"

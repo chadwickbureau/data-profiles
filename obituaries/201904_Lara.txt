@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Lara"
+key = "obituaries:201904_Lara"
 
 [[person.meta.citation]]
 title = "CDN.com.do"

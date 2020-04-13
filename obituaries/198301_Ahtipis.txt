@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "198301_Ahtipis"
+key = "obituaries:198301_Ahtipis"
 
 [[person.meta.citation]]
 title = "Reno Gazette-Journal"

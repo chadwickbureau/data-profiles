@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Thompson"
+key = "obituaries:201811_Thompson"
 
 [[person.meta.citation]]
 title = "Stanley Funeral Home"

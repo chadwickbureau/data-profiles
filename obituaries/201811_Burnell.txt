@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Burnell"
+key = "obituaries:201811_Burnell"
 
 [[person.meta.citation]]
 title = "Press Republican"

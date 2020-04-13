@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200404_050"
+key = "mcgill:20200404_050"
 
 [[person.meta.citation]]
 title = "Sporting Life"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201708_Sules"
+key = "obituaries:201708_Sules"
 
 [[person.meta.citation]]
 title = "Ippolito Funeral Homes"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zauchin_Norbert_Henry"
+key = "mcconnell:Zauchin_Norbert_Henry"
 
 [person.name]
 last = "Zauchin"

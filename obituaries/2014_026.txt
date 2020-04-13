@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_026"
+key = "obituaries:2014_026"
 
 [[person.meta.citation]]
 title = "Tahlequah Daily Press"

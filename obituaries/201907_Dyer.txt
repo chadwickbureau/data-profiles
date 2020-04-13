@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Dyer"
+key = "obituaries:201907_Dyer"
 
 [[person.meta.citation]]
 title = "Biega Funeral Home"

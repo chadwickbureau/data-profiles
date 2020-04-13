@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Tabor"
+key = "obituaries:201901_Tabor"
 
 [[person.meta.citation]]
 title = "North Little Rock Funeral Home"

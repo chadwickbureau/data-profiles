@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Harris"
+key = "obituaries:201907_Harris"
 
 [[person.meta.citation]]
 title = "Devanny-Condron Funeral Home"

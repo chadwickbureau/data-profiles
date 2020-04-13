@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_140"
+key = "obituaries:2017_140"
 
 [[person.meta.citation]]
 title = "Baltimore Sun"

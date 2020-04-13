@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Cummisford"
+key = "obituaries:201901_Cummisford"
 
 [[person.meta.citation]]
 title = "Hartson Funeral Home"

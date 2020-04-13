@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Tarapacki"
+key = "obituaries:201903_Tarapacki"
 
 [[person.meta.citation]]
 title = "Pietszak Funeral Home"

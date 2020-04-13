@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Fischer"
+key = "obituaries:201901_Fischer"
 
 [[person.meta.citation]]
 title = "Peterson Kraemer Funeral Home"

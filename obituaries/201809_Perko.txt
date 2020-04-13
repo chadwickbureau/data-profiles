@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Perko"
+key = "obituaries:201809_Perko"
 
 [[person.meta.citation]]
 title = "Tennant Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Foust"
+key = "obituaries:201911_Foust"
 
 [[person.meta.citation]]
 title = "Rich & Thompson Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_028"
+key = "obituaries:2017_028"
 
 [[person.meta.citation]]
 title = "Collier Funeral Home"

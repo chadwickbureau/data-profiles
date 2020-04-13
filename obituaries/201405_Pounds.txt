@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Pounds"
+key = "obituaries:201405_Pounds"
 
 [[person.meta.citation]]
 title = "EasyFHweb.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Covert"
+key = "obituaries:201811_Covert"
 
 [[person.meta.citation]]
 title = "Ivers & Alcorn Funeral Home"

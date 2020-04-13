@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Joyner"
+key = "obituaries:201712_Joyner"
 
 [[person.meta.citation]]
 title = "Centruies Memorial Park & Funeral Home"

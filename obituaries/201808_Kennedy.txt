@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Kennedy"
+key = "obituaries:201808_Kennedy"
 
 [[person.meta.citation]]
 title = "CCBFuneral.com"

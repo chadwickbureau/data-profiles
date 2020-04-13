@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Schwartz"
+key = "obituaries:201810_Schwartz"
 
 [[person.meta.citation]]
 title = "Staab Funeral Home"

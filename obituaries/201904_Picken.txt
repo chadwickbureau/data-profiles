@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Picken"
+key = "obituaries:201904_Picken"
 
 [[person.meta.citation]]
 title = "Hauser Weishaar Funeral Home"

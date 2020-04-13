@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Steave"
+key = "obituaries:201905_Steave"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

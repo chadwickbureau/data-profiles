@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Pacini"
+key = "obituaries:201407_Pacini"
 
 [[person.meta.citation]]
 title = "Fresno Bee"

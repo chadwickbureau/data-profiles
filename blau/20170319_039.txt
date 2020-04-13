@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_039"
+key = "blau:20170319_039"
 
 [[person.meta.citation]]
 title = "Biloxi Daily Herald"

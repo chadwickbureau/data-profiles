@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_034"
+key = "obituaries:202004_034"
 
 [[person.meta.citation]]
 title = "Fortuna Funeral Home"

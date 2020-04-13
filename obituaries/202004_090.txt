@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_090"
+key = "obituaries:202004_090"
 
 [[person.meta.citation]]
 title = "ABC7Chicago.com"

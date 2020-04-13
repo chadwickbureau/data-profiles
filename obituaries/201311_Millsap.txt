@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Millsap"
+key = "obituaries:201311_Millsap"
 
 [[person.meta.citation]]
 title = "Inland Valley Daily Bulletin"

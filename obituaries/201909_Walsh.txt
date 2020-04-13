@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Walsh"
+key = "obituaries:201909_Walsh"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

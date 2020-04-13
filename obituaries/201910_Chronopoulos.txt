@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Chronopoulos"
+key = "obituaries:201910_Chronopoulos"
 
 [[person.meta.citation]]
 title = "Lowell Sun"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Trude"
+key = "obituaries:201312_Trude"
 
 [[person.meta.citation]]
 title = "GantDaily.com"

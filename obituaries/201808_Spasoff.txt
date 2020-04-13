@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Spasoff"
+key = "obituaries:201808_Spasoff"
 
 [[person.meta.citation]]
 title = "Times Free Press"

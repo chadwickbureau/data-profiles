@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Jacobs_Jack"
+key = "obituaries:201912_Jacobs_Jack"
 
 [[person.meta.citation]]
 title = "Phoenix Funeral Home"

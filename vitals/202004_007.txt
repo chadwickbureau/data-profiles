@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_007"
+key = "vitals:202004_007"
 
 [[person.meta.citation]]
 title = "SSACI"

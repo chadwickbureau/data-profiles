@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Tomasovich"
+key = "obituaries:202001_Tomasovich"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

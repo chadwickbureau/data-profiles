@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191201_001"
+key = "blau:20191201_001"
 
 [[person.meta.citation]]
 title = "Shreveport Journal"

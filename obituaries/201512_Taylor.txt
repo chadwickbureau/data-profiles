@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201512_Taylor"
+key = "obituaries:201512_Taylor"
 
 [[person.meta.citation]]
 title = "Lima News"

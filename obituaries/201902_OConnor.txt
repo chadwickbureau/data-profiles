@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_OConnor"
+key = "obituaries:201902_OConnor"
 
 [[person.meta.citation]]
 title = "Delhomme Funeral Home"

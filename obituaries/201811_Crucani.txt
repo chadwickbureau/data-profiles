@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Crucani"
+key = "obituaries:201811_Crucani"
 
 [[person.meta.citation]]
 title = "Bradshaw Funeral Home"

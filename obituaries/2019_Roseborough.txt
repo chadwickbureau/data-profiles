@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2019_Roseborough"
+key = "obituaries:2019_Roseborough"
 
 [[person.meta.citation]]
 title = "Dallas Morning News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Cary"
+key = "obituaries:201905_Cary"
 
 [[person.meta.citation]]
 title = "James H Davis Funeral Home"

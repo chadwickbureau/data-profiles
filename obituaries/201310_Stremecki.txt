@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201310_Stremecki"
+key = "obituaries:201310_Stremecki"
 
 [[person.meta.citation]]
 title = "Toronto Star"

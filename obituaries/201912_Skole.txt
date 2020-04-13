@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Skole"
+key = "obituaries:201912_Skole"
 
 [[person.meta.citation]]
 title = "Roswell Funeral Home"

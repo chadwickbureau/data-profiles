@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Manville"
+key = "obituaries:201902_Manville"
 
 [[person.meta.citation]]
 title = "Ann Arbor News"

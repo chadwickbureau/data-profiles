@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Valvano"
+key = "obituaries:202002_Valvano"
 
 [[person.meta.citation]]
 title = "McLaughlin Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190531_048"
+key = "morris:20190531_048"
 
 [[person.meta.citation]]
 title = "Monongahela Daily Republican"

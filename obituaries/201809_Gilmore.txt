@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Gilmore"
+key = "obituaries:201809_Gilmore"
 
 [[person.meta.citation]]
 title = "Roberts Funeral Home"

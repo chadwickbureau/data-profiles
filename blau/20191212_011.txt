@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191212_011"
+key = "blau:20191212_011"
 
 [[person.meta.citation]]
 title = "Winston-Salem Twin-City Daily Sentinel"

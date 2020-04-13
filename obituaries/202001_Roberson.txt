@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Roberson"
+key = "obituaries:202001_Roberson"
 
 [[person.meta.citation]]
 title = "Hill Funeral Home"

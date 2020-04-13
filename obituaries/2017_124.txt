@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_124"
+key = "obituaries:2017_124"
 
 [[person.meta.citation]]
 title = "Wade Family Funeral Home"

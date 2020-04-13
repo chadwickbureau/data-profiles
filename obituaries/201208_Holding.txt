@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201208_Holding"
+key = "obituaries:201208_Holding"
 
 [[person.meta.citation]]
 title = "Warenski Funeral Home"

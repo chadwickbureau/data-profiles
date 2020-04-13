@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_James"
+key = "obituaries:201810_James"
 
 [[person.meta.citation]]
 title = "National Cremation"

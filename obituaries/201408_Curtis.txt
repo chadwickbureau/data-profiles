@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Curtis"
+key = "obituaries:201408_Curtis"
 
 [[person.meta.citation]]
 title = "Greenville News"

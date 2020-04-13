@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_169"
+key = "blau:20170416_169"
 
 [[person.meta.citation]]
 title = "Hamilton (OH) Daily News"

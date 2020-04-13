@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Pena"
+key = "obituaries:201408_Pena"
 
 [[person.meta.citation]]
 title = "Hernandez-Lopez Funeral Home"

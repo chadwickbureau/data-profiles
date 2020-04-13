@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Ketter"
+key = "obituaries:201806_Ketter"
 
 [[person.meta.citation]]
 title = "Brant Funeral Home"

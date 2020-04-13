@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Haggard"
+key = "obituaries:201810_Haggard"
 
 [[person.meta.citation]]
 title = "Hodapp Funeral Home"

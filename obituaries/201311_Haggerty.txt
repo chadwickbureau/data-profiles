@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Haggerty"
+key = "obituaries:201311_Haggerty"
 
 [[person.meta.citation]]
 title = "Stamford Advocate"

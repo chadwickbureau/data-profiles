@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Bennett"
+key = "obituaries:201806_Bennett"
 
 [[person.meta.citation]]
 title = "Idaho Statesman"

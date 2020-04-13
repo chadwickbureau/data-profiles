@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197106_Roth"
+key = "obituaries:197106_Roth"
 
 [[person.meta.citation]]
 title = "Cleveland Plain Dealer 1971-01-08"

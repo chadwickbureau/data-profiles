@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201800_Jeffcoat"
+key = "obituaries:201800_Jeffcoat"
 
 [[person.meta.citation]]
 title = "Union Times"

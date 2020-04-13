@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201400_Theodore"
+key = "obituaries:201400_Theodore"
 
 [[person.meta.citation]]
 title = "Boston Globe"

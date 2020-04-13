@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_176"
+key = "blau:20170319_176"
 
 [[person.meta.citation]]
 title = "Topeka State Journal"

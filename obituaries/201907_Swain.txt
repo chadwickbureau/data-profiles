@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Swain"
+key = "obituaries:201907_Swain"
 
 [[person.meta.citation]]
 title = "Nalley-Pickle & Welch Funeral Home"

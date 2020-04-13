@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Bastion"
+key = "obituaries:201409_Bastion"
 
 [[person.meta.citation]]
 title = "Harper-Morris Memorial Chapel"

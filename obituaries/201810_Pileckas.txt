@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Pileckas"
+key = "obituaries:201810_Pileckas"
 
 [[person.meta.citation]]
 title = "Betz, Rossi Bellinger & Stewart Funeral Home"

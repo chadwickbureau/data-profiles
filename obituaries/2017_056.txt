@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_056"
+key = "obituaries:2017_056"
 
 [[person.meta.citation]]
 title = "Gaffney Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Bakkelund"
+key = "obituaries:202001_Bakkelund"
 
 [[person.meta.citation]]
 title = "Sunset Funeral Home"

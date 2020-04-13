@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201601_Sautter"
+key = "obituaries:201601_Sautter"
 
 [[person.meta.citation]]
 title = "Anderson Stevenson Wilke Funeral Home"

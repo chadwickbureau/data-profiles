@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Woods_2"
+key = "obituaries:201901_Woods_2"
 
 [[person.meta.citation]]
 title = "Knoxville News Sentinel"

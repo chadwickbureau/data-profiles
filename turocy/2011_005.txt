@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2011_005"
+key = "turocy:2011_005"
 
 [[person.meta.citation]]
 title = "Long Island Ducks"

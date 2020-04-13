@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Altenburg_Willis_Rudolph"
+key = "nemec:Altenburg_Willis_Rudolph"
 
 [person.name]
 last = "Altenburg"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Eskew"
+key = "obituaries:201805_Eskew"
 
 [[person.meta.citation]]
 title = "Herald Tribune"

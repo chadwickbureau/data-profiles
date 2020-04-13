@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Goodwin"
+key = "obituaries:201912_Goodwin"
 
 [[person.meta.citation]]
 title = "Eugene Register-Guard"

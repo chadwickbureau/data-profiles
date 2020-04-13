@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Hoggarth"
+key = "obituaries:201408_Hoggarth"
 
 [[person.meta.citation]]
 title = "The Tennessean"

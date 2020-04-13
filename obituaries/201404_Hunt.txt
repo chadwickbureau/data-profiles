@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Hunt"
+key = "obituaries:201404_Hunt"
 
 [[person.meta.citation]]
 title = "Sioux City Journal"

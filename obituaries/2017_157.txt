@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_157"
+key = "obituaries:2017_157"
 
 [[person.meta.citation]]
 title = "Galveston County Daily News"

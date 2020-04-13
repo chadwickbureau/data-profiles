@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Mossi"
+key = "obituaries:201907_Mossi"
 
 [[person.meta.citation]]
 title = "Idaho Statesman"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Gass"
+key = "obituaries:201407_Gass"
 
 [[person.meta.citation]]
 title = "Lincoln Courier"

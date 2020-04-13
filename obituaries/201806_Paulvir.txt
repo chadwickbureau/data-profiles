@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Paulvir"
+key = "obituaries:201806_Paulvir"
 
 [[person.meta.citation]]
 title = "Hoover-Boyer Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Ainsworth"
+key = "obituaries:201810_Ainsworth"
 
 [[person.meta.citation]]
 title = "Bailey Funeral Home"

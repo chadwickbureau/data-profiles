@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_046"
+key = "blau:20170319_046"
 
 [[person.meta.citation]]
 title = "4/7/1925 Shamokin News-Dispatch"

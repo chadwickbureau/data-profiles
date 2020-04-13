@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Nipple"
+key = "obituaries:201906_Nipple"
 
 [[person.meta.citation]]
 title = "D.L. Newcomer Funeral Home"

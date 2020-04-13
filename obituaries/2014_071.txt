@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_071"
+key = "obituaries:2014_071"
 
 [[person.meta.citation]]
 title = "Omaha World-Herald"

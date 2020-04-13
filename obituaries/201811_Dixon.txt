@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Dixon"
+key = "obituaries:201811_Dixon"
 
 [[person.meta.citation]]
 title = "Stamey-Tysinger Funeral Home"

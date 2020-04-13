@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Bierly"
+key = "obituaries:201312_Bierly"
 
 [[person.meta.citation]]
 title = "Evening Sun"

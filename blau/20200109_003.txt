@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200109_003"
+key = "blau:20200109_003"
 
 [[person.meta.citation]]
 title = "Cedar Rapids Gazette"

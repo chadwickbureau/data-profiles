@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_033"
+key = "obituaries:202004_033"
 
 [[person.meta.citation]]
 title = "Nardolillo Funeral Home"

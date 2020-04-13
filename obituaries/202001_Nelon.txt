@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Nelon"
+key = "obituaries:202001_Nelon"
 
 [[person.meta.citation]]
 title = "Walker Funeral Service"

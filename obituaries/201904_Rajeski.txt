@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Rajeski"
+key = "obituaries:201904_Rajeski"
 
 [[person.meta.citation]]
 title = "San Francisco Chronicle"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201304_001"
+key = "vitals:201304_001"
 
 [[person.meta.citation]]
 title = "Pennsylvania Church and Town Records, 1708-1980"

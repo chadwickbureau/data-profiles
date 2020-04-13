@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Spina"
+key = "obituaries:201807_Spina"
 
 [[person.meta.citation]]
 title = "Reno Gazette-Journal"

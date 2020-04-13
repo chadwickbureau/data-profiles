@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Casey"
+key = "obituaries:201908_Casey"
 
 [[person.meta.citation]]
 title = "Boakes Funeral Home"

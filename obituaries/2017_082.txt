@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_082"
+key = "obituaries:2017_082"
 
 [[person.meta.citation]]
 title = "Jones, Rich & Barnes Funeral Home"

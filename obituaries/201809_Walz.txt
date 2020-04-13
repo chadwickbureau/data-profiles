@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Walz"
+key = "obituaries:201809_Walz"
 
 [[person.meta.citation]]
 title = "Freeman Mortuary"

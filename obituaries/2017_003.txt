@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_003"
+key = "obituaries:2017_003"
 
 [[person.meta.citation]]
 title = "Covenant Funeral Service"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_008"
+key = "obituaries:2017_008"
 
 [[person.meta.citation]]
 title = "CBS New York"

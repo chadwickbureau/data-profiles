@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Rogers"
+key = "obituaries:201807_Rogers"
 
 [[person.meta.citation]]
 title = "Cozine Memorial Group"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201801_Dobrino"
+key = "obituaries:201801_Dobrino"
 
 [[person.meta.citation]]
 title = "Becker & Son Funeral Home"

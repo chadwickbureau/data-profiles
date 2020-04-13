@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1908_014"
+key = "morris:1908_014"
 
 [[person.meta.citation]]
 title = "The Tennessean"

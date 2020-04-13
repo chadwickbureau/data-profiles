@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Brockert"
+key = "obituaries:201807_Brockert"
 
 [[person.meta.citation]]
 title = "Gunderson Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_144"
+key = "blau:20170521_144"
 
 [[person.meta.citation]]
 title = "Baltimore Sun"

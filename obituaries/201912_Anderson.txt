@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Anderson"
+key = "obituaries:201912_Anderson"
 
 [[person.meta.citation]]
 title = "Holy Cross of Spokane"

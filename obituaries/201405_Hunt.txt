@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Hunt"
+key = "obituaries:201405_Hunt"
 
 [[person.meta.citation]]
 title = "Dallas Morning News"

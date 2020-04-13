@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Howser"
+key = "obituaries:201908_Howser"
 
 [[person.meta.citation]]
 title = "McMillan-Small Funeral Home"

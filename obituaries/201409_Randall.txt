@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Randall"
+key = "obituaries:201409_Randall"
 
 [[person.meta.citation]]
 title = "Cummings-Gagne Funeral Home"

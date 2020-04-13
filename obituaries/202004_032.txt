@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_032"
+key = "obituaries:202004_032"
 
 [[person.meta.citation]]
 title = "Quinn-Shalz Family Funeral Home"

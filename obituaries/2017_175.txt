@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_175"
+key = "obituaries:2017_175"
 
 [[person.meta.citation]]
 title = "Cook-Walden Funeral Home"

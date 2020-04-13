@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Capellan"
+key = "obituaries:201811_Capellan"
 
 [[person.meta.citation]]
 title = "SI.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_004"
+key = "vitals:202004_004"
 
 [[person.meta.citation]]
 title = "World War II Registration Card"

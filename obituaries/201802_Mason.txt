@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201802_Mason"
+key = "obituaries:201802_Mason"
 
 [[person.meta.citation]]
 title = "The House of Wright Funeral Home"

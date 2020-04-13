@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_DiRenzo"
+key = "obituaries:202002_DiRenzo"
 
 [[person.meta.citation]]
 title = "Savage-Demarco Funeral Service"

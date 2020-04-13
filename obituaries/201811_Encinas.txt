@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Encinas"
+key = "obituaries:201811_Encinas"
 
 [[person.meta.citation]]
 title = "Inland Valley Daily Bulletin"

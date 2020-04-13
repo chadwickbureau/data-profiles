@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Fallon"
+key = "obituaries:201405_Fallon"
 
 [[person.meta.citation]]
 title = "Lake Lawn Metairie"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201504_Gebhart"
+key = "obituaries:201504_Gebhart"
 
 [[person.meta.citation]]
 title = "Shelby Funeral Home"

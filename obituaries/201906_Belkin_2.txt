@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Belkin_2"
+key = "obituaries:201906_Belkin_2"
 
 [[person.meta.citation]]
 title = "Berkowitx-Kumin-Bookatz Memorial Chaptel"

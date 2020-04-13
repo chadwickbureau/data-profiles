@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Crimian"
+key = "obituaries:201902_Crimian"
 
 [[person.meta.citation]]
 title = "Doherty Funeral Home"

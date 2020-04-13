@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Hopke"
+key = "obituaries:201810_Hopke"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

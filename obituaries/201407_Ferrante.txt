@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Ferrante"
+key = "obituaries:201407_Ferrante"
 
 [[person.meta.citation]]
 title = "Valley Funeral Home"

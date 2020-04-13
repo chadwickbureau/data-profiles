@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Hoffman"
+key = "obituaries:201908_Hoffman"
 
 [[person.meta.citation]]
 title = "Sherbrooke Record"

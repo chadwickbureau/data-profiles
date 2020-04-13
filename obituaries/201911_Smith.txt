@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Smith"
+key = "obituaries:201911_Smith"
 
 [[person.meta.citation]]
 title = "Bostick Tompkins Funeral Home"

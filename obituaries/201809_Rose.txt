@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Rose"
+key = "obituaries:201809_Rose"
 
 [[person.meta.citation]]
 title = "Pearson Funeral Home"

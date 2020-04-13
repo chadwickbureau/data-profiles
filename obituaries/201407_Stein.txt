@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Stein"
+key = "obituaries:201407_Stein"
 
 [[person.meta.citation]]
 title = "San Jose Mercury News/San Mateo County Times"

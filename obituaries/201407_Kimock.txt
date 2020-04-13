@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Kimock"
+key = "obituaries:201407_Kimock"
 
 [[person.meta.citation]]
 title = "Meaningful Funerals.net"

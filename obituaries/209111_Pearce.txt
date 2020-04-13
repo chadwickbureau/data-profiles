@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "209111_Pearce"
+key = "obituaries:209111_Pearce"
 
 [[person.meta.citation]]
 title = "Tennessean"

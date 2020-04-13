@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Arrigoni_Roland"
+key = "nemec:Arrigoni_Roland"
 
 [person.name]
 last = "Arrigoni"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Mazmanian"
+key = "obituaries:201903_Mazmanian"
 
 [[person.meta.citation]]
 title = "APNews.com"

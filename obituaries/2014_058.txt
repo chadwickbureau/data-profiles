@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_058"
+key = "obituaries:2014_058"
 
 [[person.meta.citation]]
 title = "The Journal News"

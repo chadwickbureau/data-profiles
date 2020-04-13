@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_061"
+key = "blau:20170521_061"
 
 [[person.meta.citation]]
 title = "Jackson (MS) Daily News"

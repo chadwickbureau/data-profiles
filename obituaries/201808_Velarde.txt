@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Velarde"
+key = "obituaries:201808_Velarde"
 
 [[person.meta.citation]]
 title = "Lewallen-Garcia-Pipkin Funeral Home"

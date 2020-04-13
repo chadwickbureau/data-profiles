@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Lawson"
+key = "obituaries:201908_Lawson"
 
 [[person.meta.citation]]
 title = "Evan J. Strong Funeral Home"

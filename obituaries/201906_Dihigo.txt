@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Dihigo"
+key = "obituaries:201906_Dihigo"
 
 [[person.meta.citation]]
 title = "CiberCuba"

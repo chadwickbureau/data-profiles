@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Martel"
+key = "obituaries:201809_Martel"
 
 [[person.meta.citation]]
 title = "Lee-Ellena Funeral Home"

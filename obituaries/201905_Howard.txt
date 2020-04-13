@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Howard"
+key = "obituaries:201905_Howard"
 
 [[person.meta.citation]]
 title = "kdMiner.com"

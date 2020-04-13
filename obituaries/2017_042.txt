@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_042"
+key = "obituaries:2017_042"
 
 [[person.meta.citation]]
 title = "Wilson Funeral Home"

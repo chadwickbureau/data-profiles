@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Dorzinsky"
+key = "obituaries:201903_Dorzinsky"
 
 [[person.meta.citation]]
 title = "John V. Morris Family Funeral Home"

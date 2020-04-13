@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Dunlap"
+key = "obituaries:202003_Dunlap"
 
 [[person.meta.citation]]
 title = "Stumpff Funeral Home"

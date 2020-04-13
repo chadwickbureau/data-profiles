@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Bartolovich"
+key = "obituaries:201908_Bartolovich"
 
 [[person.meta.citation]]
 title = "Misencik Funeral Home"

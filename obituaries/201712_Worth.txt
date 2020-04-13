@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201712_Worth"
+key = "obituaries:201712_Worth"
 
 [[person.meta.citation]]
 title = "Victoria Times Colonist"

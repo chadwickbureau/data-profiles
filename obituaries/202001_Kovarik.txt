@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Kovarik"
+key = "obituaries:202001_Kovarik"
 
 [[person.meta.citation]]
 title = "Bopp Chapel"

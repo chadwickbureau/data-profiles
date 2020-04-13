@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Petrazzolo"
+key = "obituaries:201911_Petrazzolo"
 
 [[person.meta.citation]]
 title = "Casey Funeral Home"

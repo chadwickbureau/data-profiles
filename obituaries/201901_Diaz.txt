@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Diaz"
+key = "obituaries:201901_Diaz"
 
 [[person.meta.citation]]
 title = "McCune Garden Chapel"

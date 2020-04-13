@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_096"
+key = "obituaries:202004_096"
 
 [[person.meta.citation]]
 title = "Riverdale Baptist Baseball Facebook page"

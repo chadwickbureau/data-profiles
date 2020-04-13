@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Bolling_Frank_Elmore"
+key = "mcconnell:Bolling_Frank_Elmore"
 
 [person.name]
 last = "Bolling"

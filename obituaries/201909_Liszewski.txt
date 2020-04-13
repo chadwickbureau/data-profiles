@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Liszewski"
+key = "obituaries:201909_Liszewski"
 
 [[person.meta.citation]]
 title = "Gosselin Funeral Home"

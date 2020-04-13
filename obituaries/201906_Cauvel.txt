@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Cauvel"
+key = "obituaries:201906_Cauvel"
 
 [[person.meta.citation]]
 title = "Hollenbeck-Cahill Funeral Homes"

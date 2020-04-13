@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Rebhan"
+key = "obituaries:201902_Rebhan"
 
 [[person.meta.citation]]
 title = "Atlanta Journal-Constitution"

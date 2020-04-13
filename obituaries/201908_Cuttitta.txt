@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Cuttitta"
+key = "obituaries:201908_Cuttitta"
 
 [[person.meta.citation]]
 title = "Covington Memorial Funeral Home"

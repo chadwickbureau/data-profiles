@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Wankier"
+key = "obituaries:201904_Wankier"
 
 [[person.meta.citation]]
 title = "Anderson & Sons Mortuary"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Sanders"
+key = "obituaries:201911_Sanders"
 
 [[person.meta.citation]]
 title = "Luginbuel Fuenral Home"

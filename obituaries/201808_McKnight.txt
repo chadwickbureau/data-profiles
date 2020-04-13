@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_McKnight"
+key = "obituaries:201808_McKnight"
 
 [[person.meta.citation]]
 title = "Williams & Bluitt Funeral Home"

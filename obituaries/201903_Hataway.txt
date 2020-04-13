@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Hataway"
+key = "obituaries:201903_Hataway"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

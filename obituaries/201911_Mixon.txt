@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Mixon"
+key = "obituaries:201911_Mixon"
 
 [[person.meta.citation]]
 title = "Rabenhorst Funeral Home"

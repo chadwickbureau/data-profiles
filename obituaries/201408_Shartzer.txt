@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Shartzer"
+key = "obituaries:201408_Shartzer"
 
 [[person.meta.citation]]
 title = "Highlands Funeral Home"

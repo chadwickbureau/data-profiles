@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Negray"
+key = "obituaries:201811_Negray"
 
 [[person.meta.citation]]
 title = "Bacher Funeral Home"

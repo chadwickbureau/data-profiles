@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "199500_Hill"
+key = "obituaries:199500_Hill"
 
 [[person.meta.citation]]
 title = "San Diego Union Tribune"

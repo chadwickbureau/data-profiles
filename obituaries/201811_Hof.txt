@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Hof"
+key = "obituaries:201811_Hof"
 
 [[person.meta.citation]]
 title = "Express-News"

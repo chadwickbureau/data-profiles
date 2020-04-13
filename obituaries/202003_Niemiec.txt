@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Niemiec"
+key = "obituaries:202003_Niemiec"
 
 [[person.meta.citation]]
 title = "Hays Funeral Home"

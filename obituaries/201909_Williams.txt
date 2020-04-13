@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Williams"
+key = "obituaries:201909_Williams"
 
 [[person.meta.citation]]
 title = "Radney Funeral Home"

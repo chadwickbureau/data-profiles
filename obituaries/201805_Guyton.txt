@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Guyton"
+key = "obituaries:201805_Guyton"
 
 [[person.meta.citation]]
 title = "Douglas A. Fiery Funeral Home"

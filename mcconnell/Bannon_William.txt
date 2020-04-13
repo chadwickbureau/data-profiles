@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Bannon_William"
+key = "mcconnell:Bannon_William"
 
 [person.name]
 last = "Bannon"

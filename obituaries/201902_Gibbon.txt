@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Gibbon"
+key = "obituaries:201902_Gibbon"
 
 [[person.meta.citation]]
 title = "Newton County Funeral Home"

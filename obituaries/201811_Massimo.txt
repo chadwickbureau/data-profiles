@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Massimo"
+key = "obituaries:201811_Massimo"
 
 [[person.meta.citation]]
 title = "Money & King Funeral Home"

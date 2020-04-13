@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Spain"
+key = "obituaries:201907_Spain"
 
 [[person.meta.citation]]
 title = "Dawson-Wikoff Funeral Home"

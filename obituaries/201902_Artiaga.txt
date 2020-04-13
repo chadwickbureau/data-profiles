@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Artiaga"
+key = "obituaries:201902_Artiaga"
 
 [[person.meta.citation]]
 title = "DignityMemorial.com"

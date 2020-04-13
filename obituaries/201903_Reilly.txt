@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Reilly"
+key = "obituaries:201903_Reilly"
 
 [[person.meta.citation]]
 title = "Rossi Funeral Home"

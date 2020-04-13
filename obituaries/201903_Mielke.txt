@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Mielke"
+key = "obituaries:201903_Mielke"
 
 [[person.meta.citation]]
 title = "Pioneer Press"

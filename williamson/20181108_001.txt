@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181108_001"
+key = "williamson:20181108_001"
 
 [[person.meta.citation]]
 title = "Vicksburg Evening Post"

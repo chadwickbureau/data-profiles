@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_McDonough"
+key = "obituaries:201409_McDonough"
 
 [[person.meta.citation]]
 title = "Heeney-Sundquist Funeral Home"

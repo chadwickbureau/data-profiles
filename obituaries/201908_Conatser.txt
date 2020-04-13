@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Conatser"
+key = "obituaries:201908_Conatser"
 
 [[person.meta.citation]]
 title = "McCormick & Son Funeral Home"

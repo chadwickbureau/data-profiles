@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Bumstead"
+key = "obituaries:201903_Bumstead"
 
 [[person.meta.citation]]
 title = "Naples Daily News"

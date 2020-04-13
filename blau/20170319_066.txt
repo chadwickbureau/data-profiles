@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_066"
+key = "blau:20170319_066"
 
 [[person.meta.citation]]
 title = "Wilkes-Barre Record"

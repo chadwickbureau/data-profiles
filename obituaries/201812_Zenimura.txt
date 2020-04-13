@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Zenimura"
+key = "obituaries:201812_Zenimura"
 
 [[person.meta.citation]]
 title = "Fresno Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "133696"
+key = "tsncards:133696"
 
 [[person.meta.citation]]
 url = "https://digital.la84.org/digital/collection/p17103coll3/id/133696"
@@ -33,7 +33,7 @@ place.city = "Grand Rapids"
 [[person.education]]
 school.name = "Knoxville College"
 school.type = "college"
-degree = "B. S.""
+degree = "B. S."
 
 [[person.transaction]]
 date = "1952-11-22"

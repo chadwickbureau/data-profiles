@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Hankins"
+key = "obituaries:202001_Hankins"
 
 [[person.meta.citation]]
 title = "Park Lawn Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_006"
+key = "morris:2014_006"
 
 [[person.meta.citation]]
 title = "San Diego Union-Tribune"

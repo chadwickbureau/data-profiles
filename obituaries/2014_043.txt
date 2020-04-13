@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_043"
+key = "obituaries:2014_043"
 
 [[person.meta.citation]]
 title = "Syracuse Post Standard"

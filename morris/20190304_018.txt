@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190304_018"
+key = "morris:20190304_018"
 
 [[person.meta.citation]]
 title = "Charlotte Observer"

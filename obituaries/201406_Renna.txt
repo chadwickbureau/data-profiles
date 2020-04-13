@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Renna"
+key = "obituaries:201406_Renna"
 
 [[person.meta.citation]]
 title = "San Jose Mercury News/San Mateo County Times"

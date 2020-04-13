@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_100"
+key = "blau:20170521_100"
 
 [[person.meta.citation]]
 title = "Oakland Tribune"

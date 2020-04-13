@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_077"
+key = "obituaries:2017_077"
 
 [[person.meta.citation]]
 title = "Fosters"

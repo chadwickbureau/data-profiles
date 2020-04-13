@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Stuffel"
+key = "obituaries:201809_Stuffel"
 
 [[person.meta.citation]]
 title = "Gordon Funeral Home"

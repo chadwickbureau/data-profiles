@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Dunn"
+key = "obituaries:202001_Dunn"
 
 [[person.meta.citation]]
 title = "Pritts Funeral Home"

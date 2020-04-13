@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Janke"
+key = "obituaries:201812_Janke"
 
 [[person.meta.citation]]
 title = "Herald-News"

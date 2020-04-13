@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201311_Walukevich"
+key = "obituaries:201311_Walukevich"
 
 [[person.meta.citation]]
 title = "Delaney & Son Funeral Home"

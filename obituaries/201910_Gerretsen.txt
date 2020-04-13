@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Gerretsen"
+key = "obituaries:201910_Gerretsen"
 
 [[person.meta.citation]]
 title = "Naples Daily News"

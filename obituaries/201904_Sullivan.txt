@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Sullivan"
+key = "obituaries:201904_Sullivan"
 
 [[person.meta.citation]]
 title = "Develin-Rosmos-Kepp-Gatcha Funeral Home"

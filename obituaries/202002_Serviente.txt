@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Serviente"
+key = "obituaries:202002_Serviente"
 
 [[person.meta.citation]]
 title = "Johnson City Press"

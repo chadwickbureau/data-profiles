@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_134"
+key = "obituaries:2017_134"
 
 [[person.meta.citation]]
 title = "Benito & Azzaro Funeral Home"

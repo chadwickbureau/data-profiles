@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_018"
+key = "blau:20200130_018"
 
 [[person.meta.citation]]
 title = "Beloit Daily Call"

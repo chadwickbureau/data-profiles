@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_069"
+key = "blau:20170416_069"
 
 [[person.meta.citation]]
 title = "SABR bio"

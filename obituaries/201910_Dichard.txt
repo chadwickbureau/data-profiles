@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Dichard"
+key = "obituaries:201910_Dichard"
 
 [[person.meta.citation]]
 title = "Paul C. Rogers Funeral Home"

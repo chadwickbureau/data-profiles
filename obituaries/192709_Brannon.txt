@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "192709_Brannon"
+key = "obituaries:192709_Brannon"
 
 [[person.meta.citation]]
 title = "Wilkes-Barre Record"

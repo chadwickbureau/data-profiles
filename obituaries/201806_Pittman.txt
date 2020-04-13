@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Pittman"
+key = "obituaries:201806_Pittman"
 
 [[person.meta.citation]]
 title = "Masonic Cemetery #2"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_139"
+key = "blau:20170625_139"
 
 [[person.meta.citation]]
 title = "Sioux Falls Argus-Leader"

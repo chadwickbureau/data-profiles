@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Zimmerman"
+key = "obituaries:201806_Zimmerman"
 
 [[person.meta.citation]]
 title = "TheNewOrleansAdvocate.com"

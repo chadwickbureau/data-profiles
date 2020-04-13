@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Bills"
+key = "obituaries:201909_Bills"
 
 [[person.meta.citation]]
 title = "Jenkins-Soffe Funeral Home"

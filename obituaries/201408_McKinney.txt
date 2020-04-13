@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_McKinney"
+key = "obituaries:201408_McKinney"
 
 [[person.meta.citation]]
 title = "Spokesman-Review"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Curley"
+key = "obituaries:201903_Curley"
 
 [[person.meta.citation]]
 title = "DignityMemrial.com"

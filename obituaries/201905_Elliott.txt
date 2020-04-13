@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Elliott"
+key = "obituaries:201905_Elliott"
 
 [[person.meta.citation]]
 title = "Koschek and Porter Funeral Home"

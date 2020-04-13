@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Street"
+key = "obituaries:201901_Street"
 
 [[person.meta.citation]]
 title = "Weed-Corley-Fish Funeral Home"

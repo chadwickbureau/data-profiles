@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201304_003"
+key = "vitals:201304_003"
 
 [[person.meta.citation]]
 title = "SSDI"

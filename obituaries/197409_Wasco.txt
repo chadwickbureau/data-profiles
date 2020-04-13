@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197409_Wasco"
+key = "obituaries:197409_Wasco"
 
 [[person.meta.citation]]
 title = "Times-Leader"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190121_015"
+key = "morris:20190121_015"
 
 [[person.meta.citation]]
 title = "Springfield Republican"

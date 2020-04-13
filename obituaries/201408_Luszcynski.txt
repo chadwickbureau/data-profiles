@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Luszcynski"
+key = "obituaries:201408_Luszcynski"
 
 [[person.meta.citation]]
 title = "Domico Funeral Home"

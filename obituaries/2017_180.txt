@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_180"
+key = "obituaries:2017_180"
 
 [[person.meta.citation]]
 title = "Williams Pioneer Review"

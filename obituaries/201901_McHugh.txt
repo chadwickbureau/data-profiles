@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_McHugh"
+key = "obituaries:201901_McHugh"
 
 [[person.meta.citation]]
 title = "Ritchay Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Janacone"
+key = "obituaries:201912_Janacone"
 
 [[person.meta.citation]]
 title = "DeCarbo Funeral Home"

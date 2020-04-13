@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200109_Woodall"
+key = "obituaries:200109_Woodall"
 
 [[person.meta.citation]]
 title = "911 Living Memorial"

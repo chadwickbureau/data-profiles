@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Calcagni"
+key = "obituaries:201904_Calcagni"
 
 [[person.meta.citation]]
 title = "Arbor Memorial"

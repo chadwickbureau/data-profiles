@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Bushman"
+key = "obituaries:201404_Bushman"
 
 [[person.meta.citation]]
 title = "The Oregonian"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Carr"
+key = "obituaries:201905_Carr"
 
 [[person.meta.citation]]
 title = "Carroway Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_142"
+key = "blau:20170521_142"
 
 [[person.meta.citation]]
 title = "diamondsinthedusk.com"

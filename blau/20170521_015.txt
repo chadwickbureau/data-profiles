@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_015"
+key = "blau:20170521_015"
 
 [[person.meta.citation]]
 title = "Bloomington Pantagraph"

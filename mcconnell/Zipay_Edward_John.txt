@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Zipay_Edward_John"
+key = "mcconnell:Zipay_Edward_John"
 
 [person.name]
 last = "Zipay"

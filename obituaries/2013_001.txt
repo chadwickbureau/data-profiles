@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2013_001"
+key = "obituaries:2013_001"
 
 [[person.meta.citation]]
 title = "Arkansas Democrat-Gazette"

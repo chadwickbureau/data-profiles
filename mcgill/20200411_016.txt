@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200411_016"
+
+[[person.meta.citation]]
+title = "Knoxville Sentinel"
+date = "1914-05-22"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "McGill"
+name.use = "Chuck"
+email = "cmcgill.vt@gmail.com"
+
+[person.name]
+last = "Anderson"
+use = "Vic"
+given = "Vic"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "NC"
+place.city = "Kannapolis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+
+

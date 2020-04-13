@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200130_023"
+key = "blau:20200130_023"
 
 [[person.meta.citation]]
 title = "Spokane Spokesman-Review"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200312_002"
+key = "blau:20200312_002"
 
 [[person.meta.citation]]
 title = "Austin American"

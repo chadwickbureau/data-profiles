@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Towns"
+key = "obituaries:201911_Towns"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

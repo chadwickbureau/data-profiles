@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Schypinski"
+key = "obituaries:201903_Schypinski"
 
 [[person.meta.citation]]
 title = "Mandziuk & Son Funeral Home"

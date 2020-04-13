@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_013"
+key = "obituaries:2014_013"
 
 [[person.meta.citation]]
 title = "Chicago Tribune"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Quevreaux"
+key = "obituaries:201407_Quevreaux"
 
 [[person.meta.citation]]
 title = "Dallas Morning News"

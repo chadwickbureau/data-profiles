@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_072"
+key = "obituaries:2017_072"
 
 [[person.meta.citation]]
 title = "Crestwood Funeral Home"

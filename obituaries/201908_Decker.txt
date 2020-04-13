@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Decker"
+key = "obituaries:201908_Decker"
 
 [[person.meta.citation]]
 title = "Weber Funeral Home"

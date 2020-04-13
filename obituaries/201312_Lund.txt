@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Lund"
+key = "obituaries:201312_Lund"
 
 [[person.meta.citation]]
 title = "MGoBlue.com"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_James"
+key = "obituaries:201901_James"
 
 [[person.meta.citation]]
 title = "Cantelmi-Long Funeral Home"

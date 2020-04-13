@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_031"
+key = "blau:20170625_031"
 
 [[person.meta.citation]]
 title = "Salt Lake Herald-Republican"

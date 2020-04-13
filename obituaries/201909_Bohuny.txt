@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Bohuny"
+key = "obituaries:201909_Bohuny"
 
 [[person.meta.citation]]
 title = "Vander Plaat Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Devlin"
+key = "obituaries:202002_Devlin"
 
 [[person.meta.citation]]
 title = "The Day"

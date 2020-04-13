@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_075"
+key = "obituaries:2017_075"
 
 [[person.meta.citation]]
 title = "Myers Funeral Service"

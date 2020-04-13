@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Massefski"
+key = "obituaries:201404_Massefski"
 
 [[person.meta.citation]]
 title = "Parsippany Funeral Home"

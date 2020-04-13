@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_182"
+key = "obituaries:2017_182"
 
 [[person.meta.citation]]
 title = "Thomas Poteet & Son Funeral Home"

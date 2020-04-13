@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_120"
+key = "obituaries:2017_120"
 
 [[person.meta.citation]]
 title = "Florida Memorial Funeral Home"

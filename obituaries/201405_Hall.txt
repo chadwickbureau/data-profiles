@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Hall"
+key = "obituaries:201405_Hall"
 
 [[person.meta.citation]]
 title = "Kearns Funeral Home"

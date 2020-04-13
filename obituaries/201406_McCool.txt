@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_McCool"
+key = "obituaries:201406_McCool"
 
 [[person.meta.citation]]
 title = "Dayton Daily News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_McCarthy"
+key = "obituaries:201904_McCarthy"
 
 [[person.meta.citation]]
 title = "Las Vegas Review Journal"

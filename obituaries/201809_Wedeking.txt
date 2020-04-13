@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Wedeking"
+key = "obituaries:201809_Wedeking"
 
 [[person.meta.citation]]
 title = "Blyth Funeral Home"

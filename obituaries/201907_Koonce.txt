@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Koonce"
+key = "obituaries:201907_Koonce"
 
 [[person.meta.citation]]
 title = "Fayetteville Observer"

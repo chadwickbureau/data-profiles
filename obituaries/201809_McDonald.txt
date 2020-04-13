@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_McDonald"
+key = "obituaries:201809_McDonald"
 
 [[person.meta.citation]]
 title = "TC Palm"

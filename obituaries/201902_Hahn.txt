@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Hahn"
+key = "obituaries:201902_Hahn"
 
 [[person.meta.citation]]
 title = "Speaks Suburban Chapel"

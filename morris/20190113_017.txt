@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190113_017"
+key = "morris:20190113_017"
 
 [[person.meta.citation]]
 title = "St. Louis Post-Dispatch"

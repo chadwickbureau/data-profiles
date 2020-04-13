@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Gretkowski"
+key = "obituaries:201902_Gretkowski"
 
 [[person.meta.citation]]
 title = "James J. Terry Funeral Home"

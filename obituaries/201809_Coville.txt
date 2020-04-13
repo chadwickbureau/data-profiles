@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201809_Coville"
+key = "obituaries:201809_Coville"
 
 [[person.meta.citation]]
 title = "Kalkaska Funeral Home"

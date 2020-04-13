@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Moroski"
+key = "obituaries:201908_Moroski"
 
 [[person.meta.citation]]
 title = "Reyers North Valley Chapel"

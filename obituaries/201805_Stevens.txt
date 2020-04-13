@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201805_Stevens"
+key = "obituaries:201805_Stevens"
 
 [[person.meta.citation]]
 title = "Los Angeles Times"

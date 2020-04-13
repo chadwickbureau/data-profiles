@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Werner"
+key = "obituaries:201405_Werner"
 
 [[person.meta.citation]]
 title = "The Wichita Eagle"

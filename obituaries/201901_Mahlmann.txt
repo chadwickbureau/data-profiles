@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Mahlmann"
+key = "obituaries:201901_Mahlmann"
 
 [[person.meta.citation]]
 title = "Pasadena Star-News"

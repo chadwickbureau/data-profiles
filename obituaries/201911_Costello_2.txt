@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Costello_2"
+key = "obituaries:201911_Costello_2"
 
 [[person.meta.citation]]
 title = "D'Esopo Funeral Chapel"

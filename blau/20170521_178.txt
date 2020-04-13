@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_178"
+key = "blau:20170521_178"
 
 [[person.meta.citation]]
 title = "Independence Daily Reporter"

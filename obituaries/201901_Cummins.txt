@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Cummins"
+key = "obituaries:201901_Cummins"
 
 [[person.meta.citation]]
 title = "Worlein Funeral Home"

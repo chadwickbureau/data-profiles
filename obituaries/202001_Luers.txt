@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Luers"
+key = "obituaries:202001_Luers"
 
 [[person.meta.citation]]
 title = "Linnemann Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_186"
+key = "blau:20170521_186"
 
 [[person.meta.citation]]
 title = "Minneapolis Star-Tribune"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Wilson_2"
+key = "obituaries:201810_Wilson_2"
 
 [[person.meta.citation]]
 title = "Santa Maria Times"

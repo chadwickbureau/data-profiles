@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Taylor"
+key = "obituaries:201806_Taylor"
 
 [[person.meta.citation]]
 title = "Woodfin Chapel"

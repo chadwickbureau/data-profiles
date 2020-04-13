@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_171"
+key = "obituaries:2017_171"
 
 [[person.meta.citation]]
 title = "Desert Sun"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201409_Welborn"
+key = "obituaries:201409_Welborn"
 
 [[person.meta.citation]]
 title = "The Tribune"

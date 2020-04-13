@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Alvarez"
+key = "obituaries:201812_Alvarez"
 
 [[person.meta.citation]]
 title = "Scanio-Harper Funeral Home"

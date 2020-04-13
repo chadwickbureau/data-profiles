@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Gangemi"
+key = "obituaries:201910_Gangemi"
 
 [[person.meta.citation]]
 title = "Dusckas Funeral Home"

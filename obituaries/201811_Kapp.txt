@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Kapp"
+key = "obituaries:201811_Kapp"
 
 [[person.meta.citation]]
 title = "Jardine Funeral Home"

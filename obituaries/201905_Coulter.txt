@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Coulter"
+key = "obituaries:201905_Coulter"
 
 [[person.meta.citation]]
 title = "Whitcomb-Lynch Funeral Home"

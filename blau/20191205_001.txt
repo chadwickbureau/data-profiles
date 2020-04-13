@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191205_001"
+key = "blau:20191205_001"
 
 [[person.meta.citation]]
 title = "Knoxville Journal and Tribune"

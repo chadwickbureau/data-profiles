@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Sisson"
+key = "obituaries:201911_Sisson"
 
 [[person.meta.citation]]
 title = "Charles W. Smith & Sons Funeral Home"

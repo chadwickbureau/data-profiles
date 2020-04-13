@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Miller"
+key = "obituaries:201405_Miller"
 
 [[person.meta.citation]]
 title = "Bucks County Courier Times"

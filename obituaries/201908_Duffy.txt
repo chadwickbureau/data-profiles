@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Duffy"
+key = "obituaries:201908_Duffy"
 
 [[person.meta.citation]]
 title = "Hull Funeral Home"

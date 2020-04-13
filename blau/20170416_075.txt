@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_075"
+key = "blau:20170416_075"
 
 [[person.meta.citation]]
 title = "Port Huron Times Herald"

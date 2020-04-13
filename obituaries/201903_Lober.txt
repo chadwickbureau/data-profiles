@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Lober"
+key = "obituaries:201903_Lober"
 
 [[person.meta.citation]]
 title = "Hurd Family Funeral Home"

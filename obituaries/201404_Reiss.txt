@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Reiss"
+key = "obituaries:201404_Reiss"
 
 [[person.meta.citation]]
 title = "Colorado Community Newspapers"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Zammit"
+key = "obituaries:202002_Zammit"
 
 [[person.meta.citation]]
 title = "Taylor & Modeen Funeral Home"

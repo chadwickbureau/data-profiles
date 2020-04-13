@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_012"
+key = "obituaries:2014_012"
 
 [[person.meta.citation]]
 title = "Statesman Examiner"

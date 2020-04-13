@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "Ainsmith_Edward_Wilbur"
+key = "mcconnell:Ainsmith_Edward_Wilbur"
 
 [person.name]
 last = "Ainsmith"

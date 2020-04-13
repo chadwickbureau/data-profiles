@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Ludwig"
+key = "obituaries:201911_Ludwig"
 
 [[person.meta.citation]]
 title = "Kuhn Funeral Home"

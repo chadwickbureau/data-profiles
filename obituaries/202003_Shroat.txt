@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Shroat"
+key = "obituaries:202003_Shroat"
 
 [[person.meta.citation]]
 title = "Groce Funeral Home"

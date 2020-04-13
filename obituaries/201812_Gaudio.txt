@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Gaudio"
+key = "obituaries:201812_Gaudio"
 
 [[person.meta.citation]]
 title = "Dalfonso-Billick Funeral Home"

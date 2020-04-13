@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Curtis"
+key = "obituaries:201911_Curtis"
 
 [[person.meta.citation]]
 title = "Rich & Thompson Funeral Home"

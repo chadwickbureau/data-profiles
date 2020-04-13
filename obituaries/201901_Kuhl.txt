@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Kuhl"
+key = "obituaries:201901_Kuhl"
 
 [[person.meta.citation]]
 title = "Toledo Blade"

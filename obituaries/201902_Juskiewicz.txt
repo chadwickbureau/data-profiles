@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Juskiewicz"
+key = "obituaries:201902_Juskiewicz"
 
 [[person.meta.citation]]
 title = "Buffalo News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202001_Pelati"
+key = "obituaries:202001_Pelati"
 
 [[person.meta.citation]]
 title = "Prophett-Chapman Cole & Gleason Funeral Home"

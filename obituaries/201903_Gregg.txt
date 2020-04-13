@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Gregg"
+key = "obituaries:201903_Gregg"
 
 [[person.meta.citation]]
 title = "Oliver Cheek Funeral Home"

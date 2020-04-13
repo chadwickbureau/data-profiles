@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Malkasian"
+key = "obituaries:201908_Malkasian"
 
 [[person.meta.citation]]
 title = "Worcester Telegram & Gazette"

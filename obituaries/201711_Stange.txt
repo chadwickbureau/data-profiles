@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201711_Stange"
+key = "obituaries:201711_Stange"
 
 [[person.meta.citation]]
 title = "Kopicki's Funeral Home"

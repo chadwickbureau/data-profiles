@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200319_024"
+key = "blau:20200319_024"
 
 [[person.meta.citation]]
 title = "San Antonio Evening News"

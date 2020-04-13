@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Brady"
+key = "obituaries:201912_Brady"
 
 [[person.meta.citation]]
 title = "Lowe Funeral Home"

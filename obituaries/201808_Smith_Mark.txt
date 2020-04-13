@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Smith_Mark"
+key = "obituaries:201808_Smith_Mark"
 
 [[person.meta.citation]]
 title = "Williamson Memorial Funeral Home"

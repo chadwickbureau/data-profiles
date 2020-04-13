@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200102_005"
+key = "blau:20200102_005"
 
 [[person.meta.citation]]
 title = "Thomasville Daily Times Enterprise"

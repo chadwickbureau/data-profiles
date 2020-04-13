@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_054"
+key = "obituaries:202004_054"
 
 [[person.meta.citation]]
 title = "Duker & Haugh Funeral Home"

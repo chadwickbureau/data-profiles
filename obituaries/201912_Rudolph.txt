@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Rudolph"
+key = "obituaries:201912_Rudolph"
 
 [[person.meta.citation]]
 title = "Ammen Family Funeral Care"

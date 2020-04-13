@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191201_006"
+key = "blau:20191201_006"
 
 [[person.meta.citation]]
 title = "Amarillo Globe"

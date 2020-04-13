@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Johnson"
+key = "obituaries:201904_Johnson"
 
 [[person.meta.citation]]
 title = "McClure Funeral Home"

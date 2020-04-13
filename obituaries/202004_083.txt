@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_083"
+key = "obituaries:202004_083"
 
 [[person.meta.citation]]
 title = "Register-Guard"

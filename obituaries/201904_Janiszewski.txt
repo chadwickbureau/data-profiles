@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Janiszewski"
+key = "obituaries:201904_Janiszewski"
 
 [[person.meta.citation]]
 title = "Kuhn Funeral Home"

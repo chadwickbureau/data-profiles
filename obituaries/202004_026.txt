@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_026"
+key = "obituaries:202004_026"
 
 [[person.meta.citation]]
 title = "Ivers & Alcorn Funeral Home"

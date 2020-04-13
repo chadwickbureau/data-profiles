@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Muldowney"
+key = "obituaries:201903_Muldowney"
 
 [[person.meta.citation]]
 title = "Maurer Funeral Home"

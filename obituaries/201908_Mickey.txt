@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Mickey"
+key = "obituaries:201908_Mickey"
 
 [[person.meta.citation]]
 title = "Salem Funeral Home"

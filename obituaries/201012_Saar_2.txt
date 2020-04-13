@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201012_Saar_2"
+key = "obituaries:201012_Saar_2"
 
 [[person.meta.citation]]
 title = "Donza Funeral Home"

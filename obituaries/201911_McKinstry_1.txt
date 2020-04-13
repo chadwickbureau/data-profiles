@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_McKinstry_1"
+key = "obituaries:201911_McKinstry_1"
 
 [[person.meta.citation]]
 title = "San Luis Obispo County Tribune"

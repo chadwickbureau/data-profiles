@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Lanier"
+key = "obituaries:201808_Lanier"
 
 [[person.meta.citation]]
 title = "Johnson Brown-Service Funeral Home"

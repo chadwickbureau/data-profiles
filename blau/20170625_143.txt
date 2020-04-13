@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170625_143"
+key = "blau:20170625_143"
 
 [[person.meta.citation]]
 title = "Cedar Rapids Republican and Times"

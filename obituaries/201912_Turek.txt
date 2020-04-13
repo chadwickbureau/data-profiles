@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Turek"
+key = "obituaries:201912_Turek"
 
 [[person.meta.citation]]
 title = "Ziegenheim & Son Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Raccuglia"
+key = "obituaries:201905_Raccuglia"
 
 [[person.meta.citation]]
 title = "Mueller Funeral Home"

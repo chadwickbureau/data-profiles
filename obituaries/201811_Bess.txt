@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Bess"
+key = "obituaries:201811_Bess"
 
 [[person.meta.citation]]
 title = "BachmanHebble Funeral Home"

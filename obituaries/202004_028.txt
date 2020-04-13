@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_028"
+key = "obituaries:202004_028"
 
 [[person.meta.citation]]
 title = "Conner & Koch Funeral Home"

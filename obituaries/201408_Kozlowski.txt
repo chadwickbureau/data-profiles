@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Kozlowski"
+key = "obituaries:201408_Kozlowski"
 
 [[person.meta.citation]]
 title = "Burns Funeral Home"

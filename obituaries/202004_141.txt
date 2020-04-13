@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_141"
+key = "obituaries:202004_141"
 
 [[person.meta.citation]]
 title = "Holle Family Funeral Home"

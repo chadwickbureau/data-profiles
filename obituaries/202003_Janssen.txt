@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202003_Janssen"
+key = "obituaries:202003_Janssen"
 
 [[person.meta.citation]]
 title = "Haskell Funeral Home"

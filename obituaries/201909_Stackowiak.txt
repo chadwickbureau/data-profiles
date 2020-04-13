@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Stackowiak"
+key = "obituaries:201909_Stackowiak"
 
 [[person.meta.citation]]
 title = "Kaniewski Funeral Home"

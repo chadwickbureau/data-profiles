@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201910_Snyder_2"
+key = "obituaries:201910_Snyder_2"
 
 [[person.meta.citation]]
 title = "Seattle Times"

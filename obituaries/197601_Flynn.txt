@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "197601_Flynn"
+key = "obituaries:197601_Flynn"
 
 [[person.meta.citation]]
 title = "Sacramento Bee"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201905_Cafego"
+key = "obituaries:201905_Cafego"
 
 [[person.meta.citation]]
 title = "Sellars Funeral Home"

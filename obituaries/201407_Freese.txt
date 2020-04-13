@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Freese"
+key = "obituaries:201407_Freese"
 
 [[person.meta.citation]]
 title = "The Oregonian"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Skog"
+key = "obituaries:202002_Skog"
 
 [[person.meta.citation]]
 title = "Willwerscheid Funeral Home"

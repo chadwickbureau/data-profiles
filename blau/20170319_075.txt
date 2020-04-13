@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_075"
+key = "blau:20170319_075"
 
 [[person.meta.citation]]
 title = "Joplin Globe"

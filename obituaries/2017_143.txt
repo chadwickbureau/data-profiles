@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_143"
+key = "obituaries:2017_143"
 
 [[person.meta.citation]]
 title = "Storke Funeral Home"

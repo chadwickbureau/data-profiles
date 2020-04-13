@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181012_008"
+key = "williamson:20181012_008"
 
 [[person.meta.citation]]
 title = "The (Alexandria) Town Talk"

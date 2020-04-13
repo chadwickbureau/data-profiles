@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1908_012"
+key = "morris:1908_012"
 
 [[person.meta.citation]]
 title = "New Orleans Times-Democrat"

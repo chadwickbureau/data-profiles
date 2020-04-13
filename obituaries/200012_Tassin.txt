@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200012_Tassin"
+key = "obituaries:200012_Tassin"
 
 [[person.meta.citation]]
 title = "Houma Today"

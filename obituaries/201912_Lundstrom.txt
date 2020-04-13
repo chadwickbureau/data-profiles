@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Lundstrom"
+key = "obituaries:201912_Lundstrom"
 
 [[person.meta.citation]]
 title = "Horan & McConaty Funeral Home"

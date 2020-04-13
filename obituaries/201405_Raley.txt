@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_Raley"
+key = "obituaries:201405_Raley"
 
 [[person.meta.citation]]
 title = "Vinyard Funeral Home"

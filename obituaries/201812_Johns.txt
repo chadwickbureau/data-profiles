@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Johns"
+key = "obituaries:201812_Johns"
 
 [[person.meta.citation]]
 title = "St. Johns Family Funeral Home"

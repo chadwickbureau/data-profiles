@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200227_006"
+key = "blau:20200227_006"
 
 [[person.meta.citation]]
 title = "Des Moines Register"

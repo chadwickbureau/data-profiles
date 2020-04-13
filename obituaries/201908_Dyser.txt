@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Dyser"
+key = "obituaries:201908_Dyser"
 
 [[person.meta.citation]]
 title = "Newcomer Funeral Home"

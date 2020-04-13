@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Tuttle"
+key = "obituaries:201312_Tuttle"
 
 [[person.meta.citation]]
 title = "Albuquerque Journal"

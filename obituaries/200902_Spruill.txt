@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200902_Spruill"
+key = "obituaries:200902_Spruill"
 
 [[person.meta.citation]]
 title = "Main Street News Obit"

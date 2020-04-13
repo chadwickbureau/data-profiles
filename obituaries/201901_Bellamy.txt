@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Bellamy"
+key = "obituaries:201901_Bellamy"
 
 [[person.meta.citation]]
 title = "Rainge Memorial Chapel"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Griffin"
+key = "obituaries:201312_Griffin"
 
 [[person.meta.citation]]
 title = "Northwest Florida Daily News"

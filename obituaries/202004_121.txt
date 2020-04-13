@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_121"
+key = "obituaries:202004_121"
 
 [[person.meta.citation]]
 title = "Redman-Schwartz Funeral Home"

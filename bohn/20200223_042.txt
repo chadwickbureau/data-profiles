@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200223_042"
+key = "bohn:20200223_042"
 
 [[person.meta.citation]]
 title = "unpublished SABR biography of John Michaelson"

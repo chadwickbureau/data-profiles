@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_188"
+key = "blau:20170521_188"
 
 [[person.meta.citation]]
 title = "Hartford Courant"

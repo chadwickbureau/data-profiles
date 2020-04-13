@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200223_009"
+key = "bohn:20200223_009"
 
 [[person.meta.citation]]
 title = "Aberdeen American"

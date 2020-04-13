@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202002_Dube"
+key = "obituaries:202002_Dube"
 
 [[person.meta.citation]]
 title = "Tacoma News Tribune"

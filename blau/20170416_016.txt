@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_016"
+key = "blau:20170416_016"
 
 [[person.meta.citation]]
 title = "Emporia Gazette"

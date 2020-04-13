@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170521_132"
+key = "blau:20170521_132"
 
 [[person.meta.citation]]
 title = "Rochester Democrat and Chronicle"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Gebhard"
+key = "obituaries:201911_Gebhard"
 
 [[person.meta.citation]]
 title = "Belleville News-Democrat"

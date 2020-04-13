@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Wilson"
+key = "obituaries:201911_Wilson"
 
 [[person.meta.citation]]
 title = "Tampa Bay Times"

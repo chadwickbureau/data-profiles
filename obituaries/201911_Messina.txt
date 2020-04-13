@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201911_Messina"
+key = "obituaries:201911_Messina"
 
 [[person.meta.citation]]
 title = "Vincent Funeral Homes"

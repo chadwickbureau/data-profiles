@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201904_Eckstine"
+key = "obituaries:201904_Eckstine"
 
 [[person.meta.citation]]
 title = "Muellers Funeral Home"

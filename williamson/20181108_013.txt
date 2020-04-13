@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181108_013"
+key = "williamson:20181108_013"
 
 [[person.meta.citation]]
 title = "The Arkansas Gazette"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200220_007"
+key = "blau:20200220_007"
 
 [[person.meta.citation]]
 title = "Warren Evening Times"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Stille"
+key = "obituaries:201810_Stille"
 
 [[person.meta.citation]]
 title = "Farber & Otteman Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Borowy"
+key = "obituaries:201808_Borowy"
 
 [[person.meta.citation]]
 title = "Baltimore Sun"

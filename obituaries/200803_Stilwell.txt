@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "200803_Stilwell"
+key = "obituaries:200803_Stilwell"
 
 [[person.meta.citation]]
 title = "Edwards Funeral Home"

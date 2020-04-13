@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Wright"
+key = "obituaries:201312_Wright"
 
 [[person.meta.citation]]
 title = "Times-Georgian"

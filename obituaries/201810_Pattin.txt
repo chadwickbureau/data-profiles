@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Pattin"
+key = "obituaries:201810_Pattin"
 
 [[person.meta.citation]]
 title = "Adams Funeral Chapel"

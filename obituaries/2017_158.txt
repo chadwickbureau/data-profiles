@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_158"
+key = "obituaries:2017_158"
 
 [[person.meta.citation]]
 title = "Philly.com"

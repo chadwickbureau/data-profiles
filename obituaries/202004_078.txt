@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "202004_078"
+key = "obituaries:202004_078"
 
 [[person.meta.citation]]
 title = "Morning Call"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Pfeilsticker"
+key = "obituaries:201406_Pfeilsticker"
 
 [[person.meta.citation]]
 title = "Bucks County Courier Times"

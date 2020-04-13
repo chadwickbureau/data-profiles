@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Ciatto"
+key = "obituaries:201807_Ciatto"
 
 [[person.meta.citation]]
 title = "Kuhn Funeral Home"

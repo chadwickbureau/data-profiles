@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Sinks"
+key = "obituaries:201408_Sinks"
 
 [[person.meta.citation]]
 title = "Daily Tribune"

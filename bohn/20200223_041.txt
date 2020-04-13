@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200223_041"
+key = "bohn:20200223_041"
 
 [[person.meta.citation]]
 title = "Bismarck Tribune"

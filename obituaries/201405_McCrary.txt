@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201405_McCrary"
+key = "obituaries:201405_McCrary"
 
 [[person.meta.citation]]
 title = "The Dispatch"

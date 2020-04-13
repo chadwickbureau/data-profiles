@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201810_Michael"
+key = "obituaries:201810_Michael"
 
 [[person.meta.citation]]
 title = "Laughlin Funeral Home"

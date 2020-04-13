@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201902_Kluckhohn"
+key = "obituaries:201902_Kluckhohn"
 
 [[person.meta.citation]]
 title = "Buffalo News"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_White"
+key = "obituaries:201808_White"
 
 [[person.meta.citation]]
 title = "Orange County Register"

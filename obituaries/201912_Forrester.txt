@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201912_Forrester"
+key = "obituaries:201912_Forrester"
 
 [[person.meta.citation]]
 title = "Horizon Funeral Home"

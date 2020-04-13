@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Bartirome"
+key = "obituaries:201806_Bartirome"
 
 [[person.meta.citation]]
 title = "Brown & Sons Funeral Home"

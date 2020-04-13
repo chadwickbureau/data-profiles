@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_057"
+key = "blau:20170416_057"
 
 [[person.meta.citation]]
 title = "Harrisburg Daily Independent"

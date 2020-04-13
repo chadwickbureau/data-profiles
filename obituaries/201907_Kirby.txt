@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Kirby"
+key = "obituaries:201907_Kirby"
 
 [[person.meta.citation]]
 title = "Southern Cremations & Funerals"

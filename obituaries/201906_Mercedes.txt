@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_Mercedes"
+key = "obituaries:201906_Mercedes"
 
 [[person.meta.citation]]
 title = "Diario Libre"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20200123_013"
+key = "blau:20200123_013"
 
 [[person.meta.citation]]
 title = "Des Moines Tribune"

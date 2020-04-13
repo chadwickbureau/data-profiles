@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201907_Nelson"
+key = "obituaries:201907_Nelson"
 
 [[person.meta.citation]]
 title = "Eureka Times-Standard"

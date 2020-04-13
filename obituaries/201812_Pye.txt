@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201812_Pye"
+key = "obituaries:201812_Pye"
 
 [[person.meta.citation]]
 title = "Statesboro Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201909_Stoleson"
+key = "obituaries:201909_Stoleson"
 
 [[person.meta.citation]]
 title = "Missoulian"

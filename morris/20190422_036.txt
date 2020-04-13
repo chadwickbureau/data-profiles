@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20190422_036"
+key = "morris:20190422_036"
 
 [[person.meta.citation]]
 title = "San Diego Evening Tribune"

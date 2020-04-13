@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201901_Sullivan"
+key = "obituaries:201901_Sullivan"
 
 [[person.meta.citation]]
 title = "Mercer-Adams Funeral Home"

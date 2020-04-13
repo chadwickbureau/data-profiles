@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201407_Velazquez"
+key = "obituaries:201407_Velazquez"
 
 [[person.meta.citation]]
 title = "Charlotte Observer"

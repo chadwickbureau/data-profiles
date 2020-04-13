@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "194900_Manlove"
+key = "obituaries:194900_Manlove"
 
 [[person.meta.citation]]
 title = "Altoona Tribune"

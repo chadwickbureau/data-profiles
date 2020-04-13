@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201806_Newton"
+key = "obituaries:201806_Newton"
 
 [[person.meta.citation]]
 title = "Tuscaloosa News"

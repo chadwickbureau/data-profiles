@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201408_Walsh"
+key = "obituaries:201408_Walsh"
 
 [[person.meta.citation]]
 title = "Nardolillo Funeral Home"

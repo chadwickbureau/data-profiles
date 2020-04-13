@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Lucas"
+key = "obituaries:201811_Lucas"
 
 [[person.meta.citation]]
 title = "Westfield Funeral Home"

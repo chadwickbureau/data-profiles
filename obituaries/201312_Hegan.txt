@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Hegan"
+key = "obituaries:201312_Hegan"
 
 [[person.meta.citation]]
 title = "The News-Herald & The Morning Journal"

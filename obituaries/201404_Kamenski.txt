@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201404_Kamenski"
+key = "obituaries:201404_Kamenski"
 
 [[person.meta.citation]]
 title = "Pittsburgh Post-Gazette"

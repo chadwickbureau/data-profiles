@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201312_Haas"
+key = "obituaries:201312_Haas"
 
 [[person.meta.citation]]
 title = "Belleville News-Democrat"

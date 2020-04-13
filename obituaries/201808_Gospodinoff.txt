@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201808_Gospodinoff"
+key = "obituaries:201808_Gospodinoff"
 
 [[person.meta.citation]]
 title = "Akes Family Funeral Home"

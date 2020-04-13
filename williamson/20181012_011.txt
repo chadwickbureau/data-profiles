@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20181012_011"
+key = "williamson:20181012_011"
 
 [[person.meta.citation]]
 title = "The Decatur Herald"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2017_160"
+key = "obituaries:2017_160"
 
 [[person.meta.citation]]
 title = "Coreleto Latina Funeral Home"

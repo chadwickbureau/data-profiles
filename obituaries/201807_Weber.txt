@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Weber"
+key = "obituaries:201807_Weber"
 
 [[person.meta.citation]]
 title = "Williams Dingmann Funeral Home"

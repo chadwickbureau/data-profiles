@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20191201_016"
+key = "blau:20191201_016"
 
 [[person.meta.citation]]
 title = "Alma (MI) Record"

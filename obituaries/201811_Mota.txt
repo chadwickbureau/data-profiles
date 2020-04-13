@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201811_Mota"
+key = "obituaries:201811_Mota"
 
 [[person.meta.citation]]
 title = "Atlanta Journal-Constitution"

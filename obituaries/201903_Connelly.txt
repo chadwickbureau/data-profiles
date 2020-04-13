@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201903_Connelly"
+key = "obituaries:201903_Connelly"
 
 [[person.meta.citation]]
 title = "Cox Funeral Home"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201406_Davis"
+key = "obituaries:201406_Davis"
 
 [[person.meta.citation]]
 title = "The Kansan"

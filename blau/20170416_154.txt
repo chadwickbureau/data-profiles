@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_154"
+key = "blau:20170416_154"
 
 [[person.meta.citation]]
 title = "Bridgewater (NJ) Courier-News"

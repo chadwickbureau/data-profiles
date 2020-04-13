@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201906_McCarthy"
+key = "obituaries:201906_McCarthy"
 
 [[person.meta.citation]]
 title = "Duggan's Serra Mortuary"

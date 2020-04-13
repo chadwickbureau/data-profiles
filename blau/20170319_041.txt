@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170319_041"
+key = "blau:20170319_041"
 
 [[person.meta.citation]]
 title = "Escanaba Daily Press"

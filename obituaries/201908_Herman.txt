@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201908_Herman"
+key = "obituaries:201908_Herman"
 
 [[person.meta.citation]]
 title = "Egizi Funeral Home"

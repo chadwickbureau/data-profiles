@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "201807_Page"
+key = "obituaries:201807_Page"
 
 [[person.meta.citation]]
 title = "Saul Funeral Home"

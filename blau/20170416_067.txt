@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "20170416_067"
+key = "blau:20170416_067"
 
 [[person.meta.citation]]
 title = "Durham Sun"

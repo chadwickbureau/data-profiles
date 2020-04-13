@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "1908_010"
+key = "morris:1908_010"
 
 [[person.meta.citation]]
 title = "Daily Arkansas Gazette"

@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "2014_033"
+key = "obituaries:2014_033"
 
 [[person.meta.citation]]
 title = "Nassau Guardian"
