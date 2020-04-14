@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_151"
+
+[[person.meta.citation]]
+title = "DeJohn Funeral Homes"
+date = "2020-04-13"
+url = "https://www.dejohnfuneral.com/michael-r-costantino/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-13"
+
+[person.name]
+last = "Costantino"
+use = "Mike"
+given = "Michael R."
+
+[person.birth]
+date = "1931-10-23"
+place.country = "US"
+place.state = "PA"
+place.city = "NuMine"
+
+[person.death]
+date = "2020-04-05"
+
+[person.burial]
+cemetery.name = "Ohio Western Reserve National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Seville"
+
+[[person.education]]
+school.name = "East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cleveland"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

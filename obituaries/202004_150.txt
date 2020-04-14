@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_150"
+
+[[person.meta.citation]]
+title = "Jimerson-Lipsey Funeral Home"
+date = "2020-04-13"
+url = "https://www.jimerson-lipsey.com/obituary/chester-studdard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-13"
+
+[person.name]
+last = "Studdard"
+use = "Chester"
+given = "Chester Ward"
+
+[person.birth]
+date = "1925-08-04"
+place.country = "US"
+place.state = "TX"
+place.city = "De Berry"
+
+[person.death]
+date = "2020-04-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Gilmer"
+
+[person.burial]
+cemetery.name = "Mount Zion Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "De Berry"
+
+[[person.education]]
+school.name = "Carthage HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Carthage"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

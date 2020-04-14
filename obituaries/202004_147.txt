@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_147"
+
+[[person.meta.citation]]
+title = "Irwin Chapel"
+date = "2020-04-12"
+url = "https://www.irwinchapel.com/obituaries/Richard-Elmer-Branding?obId=3023597#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-12"
+
+[person.name]
+last = "Branding"
+use = "Richard"
+given = "Richard Elmer"
+
+[person.birth]
+date = "1930-02-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.death]
+date = "2018-03-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[person.burial]
+cemetery.name = "Sunset Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Glen Carbon"
+
+[[person.education]]
+school.name = "Granite City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Granite City"
+
+[[person.education]]
+school.name = "Elmhurst College"
+school.type = "college"
+
+

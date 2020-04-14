@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16653"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16653"
+title = "The Sporting News Player Contract Cards, ScanID: 1005003507"
+
+[person.name]
+last = "Branding"
+given = "Richard Elmer"
+nick = "Dick; Rich"
+
+[person.description]
+ancestry = "German-Swiss"
+position = "OF-1B"
+bats = "L"
+throws = "L"
+height = "77"
+weight = "200"
+married = "no"
+
+[person.birth]
+date = "1931-02-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[[person.resides]]
+place.address = "2156 Delmar Avenue"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[[person.education]]
+school.name = "Elmhurst College"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1952-07-25"
+type = "signed"
+join.name = "Allentown"
+note = "Allentown 1952-07-25"
+
+[[person.transaction]]
+date = "1952-12-17"
+type = "released"
+leave.name = "Allentown"
+join.name = "St. Joseph"
+note = "rel to St. Joseph 1952-12-17"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "St. Joseph"
+
+[[person.transaction]]
+date = "1953-04-16"
+type = "released"
+leave.name = "St. Joseph"
+note = "rel 1953-04-16"
+

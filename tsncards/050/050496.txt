@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:50496"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/50496"
+title = "The Sporting News Player Contract Cards, ScanID: 1009006573"
+
+[person.name]
+last = "Costantino"
+given = "Michael R."
+
+
+[[person.transaction]]
+date = "1951-02-03"
+type = "signed"
+join.name = "Spindale"
+note = "Spindale 1951-02-03"
+
+[[person.transaction]]
+date = "1951-04-21"
+type = "released"
+leave.name = "Spindale"
+join.name = "Janesville"
+note = "rel to Janesville 1951-04-21"
+
+[[person.transaction]]
+date = "1951-05-26"
+type = "released"
+leave.name = "Janesville"
+note = "rel 1951-05-26"
+
+[[person.transaction]]
+date = "1952-02-04"
+type = "signed"
+join.name = "Cedar Rapids"
+note = "Cedar Rapids 1952-02-04"
+
+[[person.transaction]]
+date = "1952-04-24"
+type = "temporarily-inactive"
+leave.name = "Cedar Rapids"
+note = "temp inactive list 1952-04-24"
+
+[[person.transaction]]
+date = "1952-06-02"
+type = "reinstated"
+join.name = "Cedar Rapids"
+note = "reins 1952-06-02"
+
+[[person.transaction]]
+date = "1952-06-02"
+type = "optioned"
+leave.name = "Cedar Rapids"
+join.name = "Green Bay"
+note = "opt to Green Bay 1952-06-02"
+
+[[person.transaction]]
+date = "1952-06-26"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1952-06-26"
+

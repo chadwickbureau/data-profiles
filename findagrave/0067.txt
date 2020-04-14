@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0067"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-13"
+url = "https://www.findagrave.com/memorial/8127137"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-13"
+
+[person.name]
+last = "Carter"
+use = "Bob"
+given = "Robert Glynn"
+
+[person.birth]
+date = "1932-07-01"
+
+[person.death]
+date = "2003-07-17"
+
+[person.burial]
+cemetery.name = "Greenoaks Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Baton Rouge"
+
+[person.sameas]
+findagrave = "8127137"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

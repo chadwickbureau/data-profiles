@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_146"
+
+[[person.meta.citation]]
+title = "Kutis Funeral Homes"
+date = "2020-04-12"
+url = "https://www.kutisfuneralhomes.com/zabel-leslie-v-les-2/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-12"
+
+[person.name]
+last = "Zabel"
+use = "Les"
+given = "Leslie V."
+
+[person.death]
+date = "2020-04-06"
+
+[person.description]
+note = [ "Minor league umpire" ]
+
+[[person.education]]
+school.name = "Mount Olive HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Mount Olive"
+
+[[person.education]]
+school.name = "St. Louis University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

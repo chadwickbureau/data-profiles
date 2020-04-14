@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_152"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "2003-07-19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-13"
+
+[person.name]
+last = "Carter"
+use = "Robert"
+given = "Robert Glynn"
+
+[person.death]
+date = "2003-07-17"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.burial]
+cemetery.name = "Greenoaks Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Baton Rouge"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

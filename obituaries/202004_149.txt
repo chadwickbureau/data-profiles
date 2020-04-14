@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_149"
+
+[[person.meta.citation]]
+title = "Valley Breeze"
+date = "2020-04-11"
+url = "https://www.valleybreeze.com/2020-04-11/woonsocket-north-smithfield/richard-j-dick-desrosiers-woonsocket#.XpRmJMhKhPZ"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-13"
+
+[person.name]
+last = "Desrosiers"
+use = "Dick"
+given = "Richard J."
+
+[person.birth]
+place.country = "US"
+place.state = "RI"
+place.city = "Woonsocket"
+
+[person.death]
+date = "2020-04-06"
+place.country = "US"
+place.state = "RI"
+place.city = "Woonsocket"
+
+[[person.education]]
+school.name = "Woonsocket HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Woonsocket"
+
+

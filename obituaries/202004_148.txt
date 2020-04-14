@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_148"
+
+[[person.meta.citation]]
+title = "Opyt Funeral Home"
+date = "2020-04-12"
+url = "https://www.opytfh.com/notices/EdwardJ-Jania"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-12"
+
+[person.name]
+last = "Jania"
+use = "Edward"
+given = "Edward J."
+
+[person.birth]
+date = "1926-05-01"
+
+[person.death]
+date = "2018-03-15"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+
