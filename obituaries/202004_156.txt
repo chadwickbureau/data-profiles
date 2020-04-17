@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_156"
+
+[[person.meta.citation]]
+title = "Gentry Funeral Service"
+date = "2020-04-15"
+url = "https://www.gentryfamilyfuneralservices.com/obituary/franklin-robinson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Robinson"
+use = "Franklin"
+given = "Franklin Leon"
+
+[person.birth]
+date = "1925-08-22"
+place.country = "US"
+place.state = "NC"
+place.city = "Huntsville"
+
+[person.death]
+date = "2020-04-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Clemmons"
+
+[[person.education]]
+school.name = "Courtney HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Yadkinville"
+
+[[person.education]]
+school.name = "University of North Carolina at Chapel Hill"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

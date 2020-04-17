@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_162"
+
+[[person.meta.citation]]
+title = "Nolan Funeral Home"
+date = "2020-04-15"
+url = "https://nolanfh.com/tribute/details/1960/Frank-Rupp/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Rupp"
+use = "Frank"
+given = "Frank B."
+
+[person.birth]
+date = "1928-02-12"
+place.country = "US"
+place.state = "NY"
+place.city = "Queens"
+
+[person.death]
+date = "2018-02-02"
+
+[person.burial]
+cemetery.name = "St. Philip Neri Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "East Northport"
+
+[[person.education]]
+school.name = "HS of Music & Art"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "New York"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

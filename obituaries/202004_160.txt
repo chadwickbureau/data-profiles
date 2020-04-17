@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_160"
+
+[[person.meta.citation]]
+title = "Wetzler Funeral Home"
+date = "2020-04-15"
+url = "https://wetzlerfuneralhome.com/book-of-memories/3435216/Petuck-John/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Petuck"
+use = "Jack"
+given = "John"
+
+[person.birth]
+date = "1927-11-20"
+
+[person.death]
+date = "2018-02-23"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.burial]
+cemetery.name = "Schencks Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Howard"
+
+[[person.education]]
+school.name = "Osceola Mills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Osceola Mills"
+
+[[person.education]]
+school.name = "Lock Haven University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18061"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18061"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004231"
+
+[person.name]
+last = "Barbee"
+given = "William C."
+
+
+[[person.transaction]]
+date = "1947-07-26"
+type = "signed"
+join.name = "Smithfield"
+note = "Smithfield 1947-07-26"
+
+[[person.transaction]]
+date = "1947-07-30"
+type = "temporarily-inactive"
+leave.name = "Smithfield"
+note = "temp inactive list 1947-07-30"
+
+[[person.transaction]]
+date = "1947-08-14"
+type = "reinstated"
+join.name = "Smithfield"
+note = "rein 1947-08-14"
+

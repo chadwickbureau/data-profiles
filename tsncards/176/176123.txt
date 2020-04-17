@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:176123"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/176123"
+title = "The Sporting News Player Contract Cards, ScanID: 1034001423"
+
+[person.name]
+last = "Padilla"
+given = "Henry M."
+
+
+[[person.transaction]]
+date = "1956-06-18"
+type = "signed"
+join.name = "North Platte"
+note = "North Platte 1956-06-18"
+
+[[person.transaction]]
+date = "1956-06-30"
+type = "released"
+leave.name = "North Platte"
+note = "rel 1956-06-30"
+

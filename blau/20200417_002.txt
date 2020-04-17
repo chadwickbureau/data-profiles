@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_002"
+
+[[person.meta.citation]]
+title = "St. Joseph News-Press"
+date = "1915-07-15"
+pages = "6"
+
+[person.name]
+last = "Patterson"
+use = "Bill"
+given = "Bill"
+
+[person.description]
+note = [ "broke leg" ]
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Patterson"
+person.name.use = "Ham"
+person.name.given = "Ham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fargo-Moorhead"
+team.league.name = "Northern League"
+
+
+[[person.transaction]]
+date = "<1915-07-15"
+type = "obtained"
+join.name = "Fargo-Moorhead"
+join.league.name = "Northern"
+leave.name = "St. Joseph"
+leave.league.name = "Western"
+
+

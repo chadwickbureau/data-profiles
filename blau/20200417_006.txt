@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_006"
+
+[[person.meta.citation]]
+title = "Eau Claire"
+date = "1915-08-27"
+pages = "2"
+
+[person.name]
+last = "Johnson"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Virginia"
+team.league.name = "Northern League"
+
+

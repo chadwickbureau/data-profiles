@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_154"
+
+[[person.meta.citation]]
+title = "Merit Memorial Funeral Home"
+date = "2020-04-15"
+url = "https://meritm.funeraltechweb.com/tribute/details/732/Ollie-Brantley/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Brantley"
+use = "Ollie"
+given = "Ollie"
+
+[person.birth]
+date = "1931-09-16"
+place.country = "US"
+place.state = "AR"
+place.city = "Phillips County"
+
+[person.death]
+date = "2020-04-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+

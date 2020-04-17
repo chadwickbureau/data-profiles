@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_003"
+
+[[person.meta.citation]]
+title = "Valley City (ND) Weekly Times-Record"
+date = "1915-07-29"
+pages = "4"
+
+[person.name]
+last = "Wallace"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fargo-Moorhead"
+team.league.name = "Northern League"
+description.throws = "L"
+
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:131411"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131411"
+title = "The Sporting News Player Contract Cards, ScanID: 1099023507"
+
+[person.name]
+last = "Sinnette"
+given = "Ronald Scott"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "75"
+weight = "160"
+
+[person.birth]
+date = "1940-02-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Pasadena"
+
+[[person.resides]]
+place.address = "2251 Spaulding Place"
+place.country = "US"
+place.state = "CA"
+place.city = "Altadena"
+
+[[person.education]]
+school.type = "college"
+school.name = "Pasadena City College"
+
+
+[[person.transaction]]
+date = "1958-12-28"
+type = "signed"
+join.name = "Fort Walton Beach"
+note = "Fort Walton Beach 1958-12-28"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Fort Walton Beach"
+
+[[person.transaction]]
+date = "1959-04-17"
+type = "released"
+leave.name = "Fort Walton Beach"
+note = "rel 1959-04-17"
+

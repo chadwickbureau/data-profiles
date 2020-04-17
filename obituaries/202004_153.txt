@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_153"
+
+[[person.meta.citation]]
+title = "McComb & Sons Funeral Homes"
+date = "2020-04-14"
+url = "https://www.dignitymemorial.com/obituaries/fort-wayne-in/james-thomas-9123680"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-14"
+
+[person.name]
+last = "Thomas"
+use = "Jim"
+given = "James Otis"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-02-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Richmond"
+
+[person.death]
+date = "2020-04-09"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Fort Wayne"
+
+[[person.education]]
+school.name = "Richmond HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Richmond"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

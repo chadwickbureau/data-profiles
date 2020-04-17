@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_001"
+
+[[person.meta.citation]]
+title = "Warren (MN) Sheaf"
+date = "1915-09-08"
+pages = "1"
+
+[person.name]
+last = "Wingfield"
+use = "Archie"
+given = "Archie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Duluth"
+team.league.name = "Northern League"
+
+

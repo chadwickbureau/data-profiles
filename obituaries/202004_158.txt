@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_158"
+
+[[person.meta.citation]]
+title = "Florida Times-Union"
+date = "2020-04-15"
+url = "https://www.legacy.com/obituaries/timesunion/obituary.aspx?n=james-gottfried-frey&pid=195980554"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-16"
+
+[person.name]
+last = "Frey"
+use = "Jim"
+given = "James Gottfried"
+
+[person.birth]
+date = "1931-05-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2020-04-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Ponte Vedra"
+

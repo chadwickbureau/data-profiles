@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_009"
+
+[[person.meta.citation]]
+title = "St. Louis Republican"
+date = "1901-03-14"
+
+[person.name]
+last = "Swaers"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Lebanon"
+team.league.name = "Independent League"
+description.throws = "L"
+
+

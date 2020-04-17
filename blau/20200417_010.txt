@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_010"
+
+[[person.meta.citation]]
+title = "Duluth Herald"
+date = "1915-06-29"
+pages = "12"
+
+[person.name]
+last = "McGraw"
+use = "Mickey"
+given = "Mickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Duluth"
+team.league.name = "Northern League"
+
+

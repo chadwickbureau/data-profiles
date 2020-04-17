@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_163"
+
+[[person.meta.citation]]
+title = "Wheeler & Woodlief Funeral Home"
+date = "2020-04-15"
+url = "https://www.wheeler-woodlief.com/obituary/william-bill-cromwell-barbee-sr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Barbee"
+use = "Bill"
+given = "William Cromwell"
+suffix = "Sr."
+
+[person.birth]
+date = "1926-02-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Lee County"
+
+[person.death]
+date = "2018-02-20"
+
+[person.burial]
+cemetery.name = "Rocky Mount Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Rocky Mount"
+
+[[person.education]]
+school.name = "Spring Hope HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Spring Hope"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

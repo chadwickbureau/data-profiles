@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_155"
+
+[[person.meta.citation]]
+title = "Daily Voice"
+date = "2020-04-13"
+url = "https://dailyvoice.com/new-york/whiteplains/obituaries/legendary-iona-prep-baseball-coach-fred-gallo-former-professional-player-dies-of-covid-19/786485/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Gallo"
+use = "Fred"
+given = "Fred"
+
+[person.death]
+date = "2020-04-10"
+
+[[person.education]]
+school.name = "Iona College"
+school.type = "college"
+
+

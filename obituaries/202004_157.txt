@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_157"
+
+[[person.meta.citation]]
+title = "Hansen-Lendman Funeral Home"
+date = "2020-04-15"
+url = "https://www.hansen-lendmanfuneralhome.com/obituary/harold-hal-cruthers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Cruthers"
+use = "Hal"
+given = "Harold"
+
+[person.birth]
+date = "1917-09-20"
+place.country = "US"
+place.state = "TN"
+place.city = "Memphis"
+
+[person.death]
+date = "2020-04-03"
+place.country = "US"
+place.state = "VA"
+place.city = "Chesapeake"
+
+[person.burial]
+cemetery.name = "Sunset Ridge Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Kenosha"
+
+[[person.education]]
+school.name = "Kenosha HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Kenosha"
+
+

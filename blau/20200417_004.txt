@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_004"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1915-07-06"
+pages = "10"
+
+[person.name]
+last = "Bartoff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fargo-Moorhead"
+team.league.name = "Northern League"
+
+
+[[person.transaction]]
+date = "<=1915-07-06"
+type = "obtained"
+join.name = "Duluth"
+join.league.name = "Northern"
+leave.name = "Fargo-Moorhead"
+leave.league.name = "Northern"
+
+

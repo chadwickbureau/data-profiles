@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_005"
+
+[[person.meta.citation]]
+title = "Saskatoon Star-Phoenix"
+date = "1916-05-15"
+pages = "5"
+
+[person.name]
+last = "Bartoff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Duluth"
+team.league.name = "Northern League"
+description.position = "P"
+
+

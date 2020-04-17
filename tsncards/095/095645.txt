@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:95645"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/95645"
+title = "The Sporting News Player Contract Cards, ScanID: 1039000117"
+
+[person.name]
+last = "Rupp"
+given = "Frank"
+
+
+[[person.transaction]]
+date = "1946-01"
+type = "signed"
+join.name = "Williamsport"
+note = "Williamsport 1946-01"
+
+[[person.transaction]]
+date = "1946-03-15"
+type = "military-service"
+note = "military service 1946-03-15"
+
+[[person.transaction]]
+date = "1948-02-05"
+type = "reinstated"
+join.name = "Williamsport"
+note = "rein from military list 1948-02-05"
+
+[[person.transaction]]
+date = "1948-04-26"
+type = "released"
+leave.name = "Williamsport"
+note = "rel 1948-04-26"
+

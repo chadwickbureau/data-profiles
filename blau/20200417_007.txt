@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200417_007"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1900-08-12"
+
+[person.name]
+last = "Gilliam"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Sioux City"
+team.league.name = "Western League"
+description.throws = "L"
+
+

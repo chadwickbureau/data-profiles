@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_159"
+
+[[person.meta.citation]]
+title = "Englewood Community Funeral Home"
+date = "2020-04-15"
+url = "https://www.englewoodfh.com/obituaries/Glenn-Beckert/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Beckert"
+use = "Glenn"
+given = "Glenn A."
+
+[person.birth]
+date = "1940-10-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2020-04-12"
+
+[[person.education]]
+school.name = "Allegheny College"
+school.type = "college"
+
+

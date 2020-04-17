@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_164"
+
+[[person.meta.citation]]
+title = "Cabot & Sons Funeral Home"
+date = "2020-04-15"
+url = "https://www.cabotandsonsfh.com/obituaries/Ronald--Scott-Sinnette?obId=3130338#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-15"
+
+[person.name]
+last = "Sinnette"
+use = "Ronnie"
+given = "Ronald Scott"
+
+[person.birth]
+date = "1940-02-20"
+
+[person.death]
+date = "2018-02-16"
+
+[person.burial]
+cemetery.name = "Mountain View Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Altadena"
+
