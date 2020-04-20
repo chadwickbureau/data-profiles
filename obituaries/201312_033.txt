@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_033"
+
+[[person.meta.citation]]
+title = "Warenski Funeral Home"
+date = "2014-01-19"
+url = "http://www.warenski.com/bennett.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-20"
+
+[person.name]
+last = "Bennett"
+use = "Charles"
+given = "Charles Ronald"
+
+[person.birth]
+date = "1938-03-04"
+place.country = "US"
+place.state = "OR"
+place.city = "North Bend"
+
+[person.death]
+date = "2013-12-12"
+place.country = "US"
+place.state = "UT"
+place.city = "American Fork"
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_037"
+
+[[person.meta.citation]]
+title = "Syracuse Post Standard"
+date = "2017-12-10"
+url = "http://obits.syracuse.com/obituaries/syracuse/obituary.aspx?n=robert-h-gilkey&pid=187482060&fhid=6505"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-10"
+
+[person.name]
+last = "Gilkey"
+use = "Herm"
+given = "Robert H."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "East Syracuse"
+
+[person.death]
+date = "2017-12-08"
+
+[person.burial]
+cemetery.name = "North Syracuse Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "North Syracuse"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

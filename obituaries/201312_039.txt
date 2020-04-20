@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_039"
+
+[[person.meta.citation]]
+title = "Roy W. Barber Funeral Home"
+date = "2014-01-06"
+url = "http://www.barberfhlaytonsville.com/obits/obituary.php?id=430416"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-06"
+
+[person.name]
+last = "Harvill"
+use = "John"
+given = "John H."
+
+[person.birth]
+date = "1925-02-03"
+
+[person.death]
+date = "2013-12-27"
+
+[[person.education]]
+school.name = "McKinley Technology HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DC"
+school.place.city = "Washington"
+
+[[person.education]]
+school.name = "University of Maryland"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

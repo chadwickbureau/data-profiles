@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_009"
+
+[[person.meta.citation]]
+title = "Urgel Bourgie Funeral Home"
+date = "2017-11-13"
+url = "https://www.urgelbourgie.com/fr/necrologie-avis-de-deces/48677-claude-brodeur"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-13"
+
+[person.name]
+last = "Brodeur"
+use = "Claude"
+given = "Claude"
+
+[person.birth]
+date = "1959"
+
+[person.death]
+date = "2017-11-11"
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+

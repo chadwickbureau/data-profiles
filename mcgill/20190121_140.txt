@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_140"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Journal"
+date = "1909-04-18"
+pages = "61"
+
+[person.name]
+last = "Carruthers"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Northwestern League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_273"
+
+[[person.meta.citation]]
+title = "The Vicksburg Herald"
+date = "1908-08-01"
+pages = "6"
+
+[person.name]
+last = "Boyd"
+use = "Graham"
+given = "Graham"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Raton Rouge"
+team.league.name = "Cotton States League"
+
+

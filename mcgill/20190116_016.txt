@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_016"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-06-01"
+pages = "3"
+
+[person.name]
+last = "Reed"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+

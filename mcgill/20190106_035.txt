@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_035"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1908-05-02"
+pages = "11"
+
+[person.name]
+last = "Van Amane"
+given = "J. R."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Eastern Carolina League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_101"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Pappio"
+use = "Shelk"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.position = "CF"
+description.bats = "R"
+description.throws = "R"
+description.age = "23"
+description.height = "72"
+description.weight = "185"
+
+

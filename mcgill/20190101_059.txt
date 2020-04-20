@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_059"
+
+[[person.meta.citation]]
+title = "Vancouver Daily World"
+date = "1907-04-06"
+pages = "15"
+
+[person.name]
+last = "Mullane"
+use = "John"
+given = "John J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Northwestern League"
+
+

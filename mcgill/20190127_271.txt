@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_271"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1908-07-24"
+pages = "1"
+
+[person.name]
+last = "Boyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+

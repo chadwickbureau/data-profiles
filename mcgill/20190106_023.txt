@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_023"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1908-07-02"
+pages = "3"
+
+[person.name]
+last = "Woodward"
+use = "Samuel"
+given = "Samuel D."
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1908"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+

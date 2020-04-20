@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_075"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-08-17"
+pages = "4"
+
+[person.name]
+last = "Kretzer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+

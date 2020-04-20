@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_270"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1911-05-10"
+pages = "14"
+
+[person.name]
+last = "Birch"
+given = "W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Dayton"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

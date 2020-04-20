@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_009"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Andreas"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1880-08-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Rochester"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Johnstown"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Zanesville"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+

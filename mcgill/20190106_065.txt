@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_065"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1906-05-01"
+pages = "7"
+
+[person.name]
+last = "Farney"
+given = "P. T."
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "OK"
+place.city = "Krebs"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+
+

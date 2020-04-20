@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_052"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1907-02-09"
+pages = "8"
+
+[person.name]
+last = "Finneran"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1906"
+league.name = "Eastern League"
+
+

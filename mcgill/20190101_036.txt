@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_036"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1902-04-30"
+pages = "1"
+
+[person.name]
+last = "Harkins"
+use = "Moffett"
+given = "Moffett"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Southern Association"
+
+

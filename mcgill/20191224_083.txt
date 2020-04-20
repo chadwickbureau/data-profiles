@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_083"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-28"
+pages = "3"
+
+[person.name]
+last = "Killilay"
+use = "Martin"
+given = "Martin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Kansas State League"
+
+

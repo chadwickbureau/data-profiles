@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_228"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1910-04-28"
+pages = "8"
+
+[person.name]
+last = "Goff"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1919"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

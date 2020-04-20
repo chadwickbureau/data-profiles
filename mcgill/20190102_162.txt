@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_162"
+
+[[person.meta.citation]]
+title = "Norwich Bulletin"
+date = "1917-05-05"
+pages = "3"
+
+[person.name]
+last = "Irwin"
+use = "Tex"
+given = "Tex"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Eastern League"
+
+

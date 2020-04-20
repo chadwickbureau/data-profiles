@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_013"
+
+[[person.meta.citation]]
+title = "World War I Registration Card"
+date = "1917"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-05-29"
+
+[person.name]
+last = "Brannon"
+use = "Frank"
+given = "Frank Raymond"
+
+[person.birth]
+date = "1888-08-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Plains"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilkes-Barre"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_022"
+
+[[person.meta.citation]]
+title = "Messinger Mortuary"
+date = "2017-12-20"
+url = "https://www.messingermortuary.com/notices/BoyceJack-Keys"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-20"
+
+[person.name]
+last = "Keys"
+use = "Jack"
+given = "Boyce Lee"
+suffix = "Jr."
+
+[person.birth]
+date = "1939-01-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Tahlequah"
+
+[person.death]
+date = "2017-12-11"
+place.country = "US"
+place.state = "AZ"
+place.city = "Scottsdale"
+
+[[person.education]]
+school.name = "Tahlequah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Tahlequah"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

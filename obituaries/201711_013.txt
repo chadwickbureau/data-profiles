@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_013"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2017-12-04"
+url = "http://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=donald-cox&pid=187423518&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-04"
+
+[person.name]
+last = "Cox"
+use = "Donald"
+given = "Donald"
+
+[person.birth]
+place.country = "US"
+place.state = "TX"
+place.city = "Overton"
+
+[person.death]
+date = "2017-11-29"
+

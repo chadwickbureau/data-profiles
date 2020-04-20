@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_044"
+
+[[person.meta.citation]]
+title = "Columbus Dispatch"
+date = "2014-01-03"
+url = "http://www.legacy.com/obituaries/dispatch/obituary.aspx?n=Charles-Voss&pid=168865492"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-03"
+
+[person.name]
+last = "Voss"
+use = "Charley"
+given = "Charles W."
+
+[person.birth]
+date = "1928"
+
+[person.death]
+date = "2013-12-26"
+place.country = "US"
+place.state = "FL"
+place.city = "Orange Park"
+
+[[person.education]]
+school.name = "Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Columbus"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_099"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1913-04-17"
+pages = "11"
+
+[person.name]
+last = "Ryan"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Kentucky-Indiana-Tennessee League"
+
+

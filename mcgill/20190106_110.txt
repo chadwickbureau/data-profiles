@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_110"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1903-05-03"
+pages = "8"
+
+[person.name]
+last = "McNamara"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Secretary"
+
+

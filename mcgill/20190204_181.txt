@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_181"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1909-03-20"
+
+[person.name]
+last = "Gantt"
+given = "W. E."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Charleston"
+team.league.name = "South Atlantic League"
+title = "Official Scorer"
+
+

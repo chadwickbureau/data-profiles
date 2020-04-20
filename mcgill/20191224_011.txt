@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_011"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-20"
+pages = "3"
+
+[person.name]
+last = "Conner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+

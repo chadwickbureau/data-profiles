@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_085"
+
+[[person.meta.citation]]
+title = "The Daily Gate City"
+date = "1911-02-28"
+pages = "6"
+
+[person.name]
+last = "Ferguson"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "American Association"
+
+

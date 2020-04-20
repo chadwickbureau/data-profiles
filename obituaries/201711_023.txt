@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_023"
+
+[[person.meta.citation]]
+title = "Ritchie & Peach Funeral Home"
+date = "2017-11-08"
+url = "http://www.ritchieandpeach.com/obituary/john-halvachs-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-08"
+
+[person.name]
+last = "Halvachs"
+use = "John"
+given = "John B."
+suffix = "Jr."
+
+[person.birth]
+date = "1931-10-15"
+place.country = "US"
+place.state = "IL"
+place.city = "East St. Louis"
+
+[person.death]
+date = "2017-11-03"
+place.country = "US"
+place.state = "KY"
+place.city = "Lawrenceburg"
+
+[[person.education]]
+school.name = "Millikin University"
+school.type = "college"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_084"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-24"
+pages = "7"
+
+[person.name]
+last = "Taylor"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Western Association"
+
+

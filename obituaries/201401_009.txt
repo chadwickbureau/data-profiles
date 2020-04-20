@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_009"
+
+[[person.meta.citation]]
+title = "Mobile Register"
+date = "2014-01-26"
+url = "http://obits.al.com/obituaries/mobile/obituary.aspx?n=Billy-Clausen&pid=169276677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-25"
+
+[person.name]
+last = "Clausen"
+use = "Billy"
+given = "Billy"
+
+[person.birth]
+date = "1924-11-10"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.death]
+date = "2014-01-23"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.burial]
+cemetery.name = "Pine Crest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Mobile"
+
+[[person.education]]
+school.name = "Murphy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Murphy"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_004"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-09-06"
+pages = "7"
+
+[person.name]
+last = "Walsh"
+use = "Martin"
+given = "Martin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+

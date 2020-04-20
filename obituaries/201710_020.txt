@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_020"
+
+[[person.meta.citation]]
+title = "York Daily Record"
+date = "2017-11-02"
+url = "http://www.legacy.com/obituaries/york/obituary.aspx?n=stanley-walters&pid=187117486&fhid=4735&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-04"
+
+[person.name]
+last = "Walters"
+use = "Stanley"
+given = "Stanley C."
+suffix = "Jr."
+
+[person.birth]
+date = "1943-06-21"
+place.country = "US"
+place.state = "NE"
+place.city = "York"
+
+[person.death]
+date = "2017-10-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Spring Garden Township"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

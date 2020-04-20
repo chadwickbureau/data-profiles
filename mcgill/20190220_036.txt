@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_036"
+
+[[person.meta.citation]]
+title = "The McPherson Daily Republican"
+date = "1908-06-25"
+pages = "1"
+
+[person.name]
+last = "Funston"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Funston"
+person.name.use = "General"
+person.name.given = "General Fred"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+

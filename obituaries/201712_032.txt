@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_032"
+
+[[person.meta.citation]]
+title = "Hampton Funeral Service"
+date = "2017-12-15"
+url = "http://www.hamptonfuneralnc.com/obituary/4455261"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Corum"
+use = "Al"
+given = "Al"
+
+[person.birth]
+date = "1931-09-14"
+
+[person.death]
+date = "2017-12-04"
+place.country = "US"
+place.state = "NC"
+place.city = "Boone"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

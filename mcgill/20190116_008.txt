@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_008"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-06-25"
+pages = "12"
+
+[person.name]
+last = "Stahlhefer"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Evansville"
+team.league.name = "Central League"
+title = "President"
+
+

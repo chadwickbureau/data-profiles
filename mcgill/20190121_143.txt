@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_143"
+
+[[person.meta.citation]]
+title = "The Province"
+date = "1915-04-08"
+pages = "2"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Northwestern League"
+
+

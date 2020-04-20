@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_077"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-08-24"
+pages = "4"
+
+[person.name]
+last = "Short"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Minneapolis"
+team.league.name = "Central Kansas League"
+
+

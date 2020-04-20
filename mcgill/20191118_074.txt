@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_074"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-20"
+pages = "3"
+
+[person.name]
+last = "Murie"
+use = "Wallace"
+given = "Wallace"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

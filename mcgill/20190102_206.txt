@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_206"
+
+[[person.meta.citation]]
+title = "Calgary Herald"
+date = "1920-04-21"
+pages = "17"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "Western Canada League"
+
+

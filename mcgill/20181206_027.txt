@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_027"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-05-17"
+pages = "6"
+
+[person.name]
+last = "Kelly"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.position = "C"
+
+

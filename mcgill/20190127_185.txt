@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_185"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-07-08"
+pages = "6"
+
+[person.name]
+last = "Dupley"
+use = "Jacob"
+given = "Jacob"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Sunbury"
+team.league.name = "Atlantic League"
+
+

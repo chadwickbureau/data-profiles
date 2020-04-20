@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_011"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-20"
+pages = "3"
+
+[person.name]
+last = "Pittman"
+use = "Gill"
+given = "Gill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_032"
+
+[[person.meta.citation]]
+title = "Santa Cruz Evening News"
+date = "1909-03-16"
+pages = "1"
+
+[person.name]
+last = "Hodson"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "California State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "California State League"
+
+

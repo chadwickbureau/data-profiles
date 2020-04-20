@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_024"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-13"
+pages = "3"
+
+[person.name]
+last = "Brannon"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

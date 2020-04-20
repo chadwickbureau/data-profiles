@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_248"
+
+[[person.meta.citation]]
+title = "Daily Press"
+date = "1911-04-13"
+pages = "3"
+
+[person.name]
+last = "Rayfield"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Tidewater League"
+
+

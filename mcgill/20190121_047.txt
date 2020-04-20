@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_047"
+
+[[person.meta.citation]]
+title = "The Boston Globe"
+date = "1912-04-11"
+pages = "7"
+
+[person.name]
+last = "Stafford"
+given = "J. E."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "New England League"
+
+

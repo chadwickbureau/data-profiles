@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_021"
+
+[[person.meta.citation]]
+title = "Pittsburgh Dispatch"
+date = "1890-04-14"
+pages = "6"
+
+[person.name]
+last = "O'Brien"
+use = "Frank"
+given = "Frank H."
+
+[[person.resides]]
+dates = "1890"
+place.country = "US"
+place.state = "PA"
+place.city = "Allegheny"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1890"
+league.name = "Tri-State League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_049"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1908-03-20"
+pages = "1"
+
+[person.name]
+last = "McNamara"
+use = "Thomas"
+given = "Thomas"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "PA"
+place.city = "Allegheny"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Carolina Association"
+
+

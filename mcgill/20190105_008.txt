@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_008"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-08"
+pages = "2"
+
+[person.name]
+last = "Allen"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Coffeyville"
+description.position = "P"
+description.throws = "L"
+
+

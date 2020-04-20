@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_032"
+
+[[person.meta.citation]]
+title = "Daily Journal"
+date = "2017-11-14"
+url = "http://www.smdailyjournal.com/obituaries/richard-mirowski-jr/article_3497c2b6-c9b2-11e7-a4ff-1f4741f4c027.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-20"
+
+[person.name]
+last = "Mirowski"
+use = "Richie"
+given = "Richard"
+suffix = "Jr."
+
+[person.birth]
+date = "1989-04-30"
+place.country = "US"
+place.state = "CA"
+place.city = "San Mateo"
+
+[person.death]
+date = "2017-11-04"
+
+[[person.education]]
+school.name = "Serra HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "Oklahoma Baptist University"
+school.type = "college"
+
+

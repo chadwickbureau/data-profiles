@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_016"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1926-04-24"
+pages = "12"
+
+[person.name]
+last = "Wilson"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Corsicana"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Muskogee"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

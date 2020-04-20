@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_161"
+
+[[person.meta.citation]]
+title = "The Daily Review"
+date = "1908-04-11"
+pages = "4"
+
+[person.name]
+last = "Storm"
+use = "Orville"
+given = "Orville"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Shelbyville"
+team.league.name = "Eastern Illinois League"
+title = "Official Scorer"
+
+

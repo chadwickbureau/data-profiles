@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_249"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1911-04-15"
+pages = "7"
+
+[person.name]
+last = "Brockett"
+given = "D. Guy"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Elizabeth City"
+team.league.name = "Tidewater League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_011"
+
+[[person.meta.citation]]
+title = "Texarkana Funeral Home"
+date = "2014-01-27"
+url = "http://texarkanafuneralhome.com/sitemaker/memsol.cgi?user_id=1224441"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-27"
+
+[person.name]
+last = "Drabble"
+use = "Bill"
+given = "William Orville"
+
+[person.birth]
+date = "1938-02-08"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2014-01-24"
+place.country = "US"
+place.state = "AR"
+place.city = "Texarkana"
+
+[person.burial]
+cemetery.name = "Cedar Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Texarkana"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

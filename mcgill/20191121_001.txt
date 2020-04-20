@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_001"
+
+[[person.meta.citation]]
+title = "The Tiller and Toiler"
+date = "1911-06-16"
+pages = "3"
+
+[person.name]
+last = "Crittenden"
+use = "Richard"
+given = "Richard"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "WY"
+place.city = "Portland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Larned"
+team.league.name = "Kansas State League"
+
+

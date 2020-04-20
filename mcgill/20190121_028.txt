@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_028"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Capital"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Bartlesville"
+team.league.name = "Kansas State League"
+
+

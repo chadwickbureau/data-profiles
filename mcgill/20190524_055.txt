@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_055"
+
+[[person.meta.citation]]
+title = "The Waxahachie Daily Light"
+date = "1914-06-20"
+pages = "5"
+
+[person.name]
+last = "Myers"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ennis"
+team.league.name = "Central Texas League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Sherman"
+team.league.name = "Texas-Oklahoma League"
+
+

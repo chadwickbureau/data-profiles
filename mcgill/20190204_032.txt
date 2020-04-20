@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_032"
+
+[[person.meta.citation]]
+title = "The Daily News"
+date = "1892-07-16"
+pages = "4"
+
+[person.name]
+last = "Garrett"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Lebanon"
+team.league.name = "Pennsylvania State League"
+description.position = "P"
+
+

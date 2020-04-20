@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_023"
+
+[[person.meta.citation]]
+title = "The Washington Herald"
+date = "1913-02-06"
+pages = "8"
+
+[person.name]
+last = "Powers"
+use = "Charles"
+given = "Charles"
+
+[person.death]
+date = "1913-02-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburg"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1913"
+league.name = "National League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_155"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Journal"
+date = "1919-04-03"
+pages = "16"
+
+[person.name]
+last = "Phyle"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Pacific Coast League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_059"
+
+[[person.meta.citation]]
+title = "New Castle Herald"
+date = "1911-01-19"
+pages = "2"
+
+[person.name]
+last = "Peiper"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_047"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-06-08"
+pages = "3"
+
+[person.name]
+last = "Weise"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

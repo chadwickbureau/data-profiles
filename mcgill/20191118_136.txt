@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_136"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1909-05-12"
+pages = "8"
+
+[person.name]
+last = "Baker"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Freeport"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Clinton"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

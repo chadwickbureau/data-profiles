@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_126"
+
+[[person.meta.citation]]
+title = "Concordia Blade-Empire"
+date = "1910-07-09"
+pages = "5"
+
+[person.name]
+last = "Fowler"
+given = "C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-07-08"
+type = "released"
+leave.name = "Concordia"
+leave.league.name = "Central Kansas"
+
+

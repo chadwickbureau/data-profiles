@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_028"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Simpson"
+use = "Harry"
+given = "Harry"
+
+[person.birth]
+date = "1890-01-18"
+
+[[person.education]]
+school.name = "St. Mary's College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Stockton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "C"
+description.weight = "160"
+description.height = "67.5"
+
+

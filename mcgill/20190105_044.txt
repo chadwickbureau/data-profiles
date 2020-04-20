@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_044"
+
+[[person.meta.citation]]
+title = "The Lethbridge Herald"
+date = "1911-04-26"
+pages = "4"
+
+[person.name]
+last = "Terry"
+given = "R. W."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "IL"
+place.city = "LeGrange"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Western Canada League"
+
+

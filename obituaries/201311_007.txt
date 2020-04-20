@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201311_007"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "2013-11-23"
+url = "https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=JOSEPH-LIPCHIK&pid=168140788"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-13"
+
+[person.name]
+last = "Lipchik"
+use = "Joe"
+given = "Joseph"
+
+[person.death]
+date = "2013-11-22"
+
+[[person.education]]
+school.name = "Taylor Allerdice HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittsburgh"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

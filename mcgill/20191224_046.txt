@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_046"
+
+[[person.meta.citation]]
+title = "The Great Bend Tribune"
+date = "1911-06-07"
+pages = "2"
+
+[person.name]
+last = "Lyons"
+use = "Ginger"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1910"
+team.name = "Arkansas City"
+team.league.name = "Kansas State League"
+
+

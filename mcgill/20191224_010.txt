@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_010"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-19"
+pages = "3"
+
+[person.name]
+last = "Morgan"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

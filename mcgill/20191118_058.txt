@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_058"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1910-06-15"
+pages = "3"
+
+[person.name]
+last = "Sporn"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

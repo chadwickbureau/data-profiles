@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_021"
+
+[[person.meta.citation]]
+title = "The Post-Standard"
+date = "1907-04-17"
+pages = "10"
+
+[person.name]
+last = "Smith"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = "1907"
+place.country = "CA"
+place.state = "ON"
+place.city = "Kingston"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Empire State League"
+
+

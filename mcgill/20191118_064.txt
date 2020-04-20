@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_064"
+
+[[person.meta.citation]]
+title = "Beloit Dail Gazette"
+date = "1910-06-16"
+pages = "4"
+
+[person.name]
+last = "Darrow"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Marysville"
+team.league.name = "Eastern Kansas League"
+
+

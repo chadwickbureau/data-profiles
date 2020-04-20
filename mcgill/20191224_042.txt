@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_042"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-06"
+pages = "3"
+
+[person.name]
+last = "Carver"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Larned"
+team.league.name = "Kansas State League"
+
+

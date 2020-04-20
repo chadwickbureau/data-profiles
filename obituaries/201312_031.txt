@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_031"
+
+[[person.meta.citation]]
+title = "Pioneer Press Doings"
+date = "2014-01-23"
+url = "http://legacy.pioneerlocal.com/obituaries/pioneerlocal-burrridge/obituary.aspx?n=Fredrick-Ballantine&pid=169234280"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-23"
+
+[person.name]
+last = "Ballantine"
+use = "Ace"
+given = "Fredrick William"
+suffix = "Sr."
+
+[person.birth]
+date = "1924-05-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2013-12-08"
+place.country = "US"
+place.state = "MI"
+place.city = "Spring Lake"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+
+[[person.education]]
+school.name = "University of Illinois"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_085"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1911-03-13"
+pages = "2"
+
+[person.name]
+last = "Collins"
+given = "J. J."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MO"
+place.city = "East St. Louis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Cotton State League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_013"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-24"
+pages = "3"
+
+[person.name]
+last = "DeArmond"
+use = "Charlie"
+given = "Charlie"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "OH"
+place.city = "Hamilton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+

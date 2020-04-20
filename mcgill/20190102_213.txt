@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_213"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1921-03-04"
+pages = "12"
+
+[person.name]
+last = "Clark"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "Piedmont League"
+
+

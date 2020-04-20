@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_090"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1902-03-14"
+pages = "16"
+
+[person.name]
+last = "Haskell"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1902"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Western League"
+
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_027"
+
+[[person.meta.citation]]
+title = "Niagara Gazette"
+date = "2014-01-19"
+url = "http://www.niagara-gazette.com/obituaries/x1427966934/Joseph-Michael-Promowicz"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-20"
+
+[person.name]
+last = "Promowicz"
+use = "Joe"
+given = "Joseph Michael"
+
+[person.birth]
+date = "1927-02-21"
+
+[person.death]
+date = "2014-01-18"
+
+[person.burial]
+cemetery.name = "Holy Angels Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Lewiston"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

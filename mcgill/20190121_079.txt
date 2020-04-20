@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_079"
+
+[[person.meta.citation]]
+title = "The Daily Gate City"
+date = "1911-02-28"
+pages = "6"
+
+[person.name]
+last = "Chivington"
+use = "Thomas"
+given = "Thomas M."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1911"
+league.name = "American Association"
+title = "President"
+
+

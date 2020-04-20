@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_007"
+
+[[person.meta.citation]]
+title = "Calvary Hill Funeral Home"
+date = "2014-01-22"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=DONALD-BEITTER&lc=1458&pid=169231265&mid=5827122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-22"
+
+[person.name]
+last = "Beitter"
+use = "Don"
+given = "Donald George"
+
+[person.birth]
+date = "1931-09-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Flushing"
+
+[person.death]
+date = "2014-01-20"
+
+[person.burial]
+cemetery.name = "Calvary Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Bayside HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Bayside"
+
+[[person.education]]
+school.name = "Seton Hall University"
+school.type = "college"
+dates = "/1952"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_067"
+
+[[person.meta.citation]]
+title = "The Brooklyn Daily Eagle"
+date = "1889-03-20"
+pages = "4"
+
+[person.name]
+last = "Hoover"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1889"
+league.name = "International Association"
+
+

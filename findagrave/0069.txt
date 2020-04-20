@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0069"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-17"
+url = "https://www.findagrave.com/memorial/96575737"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-17"
+
+[person.name]
+last = "Slavens"
+use = "Paul"
+given = "Paul A."
+
+[person.birth]
+date = "1922-10-08"
+place.country = "US"
+place.state = "IN"
+place.city = "Brookston"
+
+[person.death]
+date = "2012-08-28"
+place.country = "US"
+place.state = "IN"
+place.city = "Lafayette"
+
+[person.burial]
+cemetery.name = "Spring Vale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Lafayette"
+
+[person.sameas]
+findagrave = "96575737"
+
+[[person.education]]
+school.name = "Fowler HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Fowler"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

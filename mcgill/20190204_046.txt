@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_046"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1902-03-26"
+pages = "3"
+
+[person.name]
+last = "Cline"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Southern Association"
+
+

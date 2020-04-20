@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_063"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-06-14"
+pages = "3"
+
+[person.name]
+last = "Liston"
+use = "Emil"
+given = "Emil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

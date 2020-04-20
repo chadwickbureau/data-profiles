@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_204"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Stratton"
+use = "Edward"
+given = "Edward C."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Trenton"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

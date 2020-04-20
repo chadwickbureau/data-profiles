@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_036"
+
+[[person.meta.citation]]
+title = "Daily Times"
+date = "2017-12-13"
+url = "http://www.legacy.com/obituaries/delcotimes/obituary.aspx?n=john-h-gilbert&pid=187508062&fhid=23007"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-13"
+
+[person.name]
+last = "Gilbert"
+use = "John"
+given = "John H."
+suffix = "Sr."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Glenolden"
+
+[person.death]
+date = "2017-12-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Ridley Park"
+
+[person.burial]
+cemetery.name = "Arlington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Drexel Hill"
+
+[[person.education]]
+school.name = "Glen-Nor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Glenolden"
+
+

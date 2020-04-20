@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_005"
+
+[[person.meta.citation]]
+title = "Mitchell-Jerdan Funeral Home"
+date = "2017-11-13"
+url = "http://www.mitchell-jerdan.com/obituaries/James-Bain-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-13"
+
+[person.name]
+last = "Bain"
+use = "Boomer"
+given = "James C."
+
+[person.birth]
+date = "1932-01-27"
+place.country = "US"
+place.state = "MO"
+place.city = "Puxico"
+
+[person.death]
+date = "2017-11-01"
+place.country = "US"
+place.state = "FL"
+place.city = "Bonita Springs"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

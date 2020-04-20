@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_025"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1904-12-16"
+pages = "7"
+
+[person.name]
+last = "Cusack"
+use = "Stephen"
+given = "Stephen"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Illinois-Indiana-Iowa League"
+
+

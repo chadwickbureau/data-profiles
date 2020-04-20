@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_018"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Miller"
+use = "Charles"
+given = "Charles"
+
+[person.birth]
+date = "1882-09-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Massolin"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Mount Vernon"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.playing]]
+season = "1906"
+split.0.team.name = "@ US"
+split.1.team.name = "OH"
+split.2.team.name = "Mount Vernon"
+
+[[person.playing]]
+season = "1907"
+split.0.team.name = "@ US"
+split.1.team.name = "OH"
+split.2.team.name = "Mount Vernon"
+
+

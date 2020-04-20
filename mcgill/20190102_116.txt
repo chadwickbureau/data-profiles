@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_116"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Capital"
+date = "1913-02-21"
+pages = "2"
+
+[person.name]
+last = "Anderson"
+use = "Ollie"
+given = "Ollie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Western League"
+
+

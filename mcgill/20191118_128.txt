@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_128"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1910-07-11"
+pages = "4"
+
+[person.name]
+last = "Miller"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+description.position = "C"
+
+

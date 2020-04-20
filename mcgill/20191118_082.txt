@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_082"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-22"
+pages = "5"
+
+[person.name]
+last = "Stack"
+use = "Judd"
+given = "Judd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

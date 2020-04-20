@@ -1,0 +1,82 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_029"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "McClelland"
+use = "Walter"
+given = "Walter"
+
+[person.birth]
+date = "1884-12-29"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "3B"
+description.weight = "165"
+description.height = "69.5"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Calgary"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Wheeling"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Akron"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+

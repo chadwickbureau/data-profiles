@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_077"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-06-20"
+pages = "3"
+
+[person.name]
+last = "Womack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+

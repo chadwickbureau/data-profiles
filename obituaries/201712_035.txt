@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_035"
+
+[[person.meta.citation]]
+title = "Magnolia Chapel"
+date = "2017-12-16"
+url = "http://www.magnoliafh.com/book-of-memories/3374287/Lary-Frank/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-16"
+
+[person.name]
+last = "Lary"
+use = "Frank"
+given = "Frank S."
+
+[person.birth]
+date = "1930-04-10"
+
+[person.death]
+date = "2017-12-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Northport"
+
+[person.burial]
+cemetery.name = "Tuscaloosa Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Tuscaloosa"
+
+[[person.education]]
+school.name = "Tuscaloosa County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Northport"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

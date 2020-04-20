@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_028"
+
+[[person.meta.citation]]
+title = "Evening Star"
+date = "1895-03-12"
+pages = "11"
+
+[person.name]
+last = "O'Brien"
+use = "Timothy"
+given = "Timothy"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Western League"
+
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_015"
+
+[[person.meta.citation]]
+title = "Gaston Gazette"
+date = "2014-01-16"
+url = "http://www.legacy.com/obituaries/gastongazette/obituary.aspx?n=William-Gibson&pid=169119335"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-15"
+
+[person.name]
+last = "Gibson"
+use = "William"
+given = "William Joel"
+suffix = "Sr."
+
+[person.birth]
+date = "1939-07-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Gastonia"
+
+[person.death]
+date = "2014-01-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+
+[[person.education]]
+school.name = "University of North Carolina Wilmington"
+school.type = "college"
+
+[[person.education]]
+school.name = "North Carolina State University"
+school.type = "college"
+
+

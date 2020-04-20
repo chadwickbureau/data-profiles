@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_103"
+
+[[person.meta.citation]]
+title = "The Circleville Herald"
+date = "1941-03-14"
+pages = "3"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[person.death]
+date = "1941-03-13"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus; age 71"
+

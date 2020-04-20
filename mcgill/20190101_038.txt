@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_038"
+
+[[person.meta.citation]]
+title = "Lebanon Daily News"
+date = "1904-07-11"
+pages = "6"
+
+[person.name]
+last = "Connor"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Tri-State League"
+
+

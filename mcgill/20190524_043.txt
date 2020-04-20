@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_043"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-17"
+pages = "4"
+
+[person.name]
+last = "O'Neil"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

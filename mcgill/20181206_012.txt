@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_012"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-06-05"
+pages = "3"
+
+[person.name]
+last = "Hazleton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+description.throws = "L"
+
+

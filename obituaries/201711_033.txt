@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_033"
+
+[[person.meta.citation]]
+title = "Gasch's Funeral Home"
+date = "2017-11-25"
+url = "http://www.gaschs.com/notices/HaroldNitty-Nitowitz"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-25"
+
+[person.name]
+last = "Nitowitz"
+use = "Harold"
+given = "Harold A."
+
+[person.birth]
+date = "1928-10-29"
+
+[person.death]
+date = "2017-11-23"
+place.country = "US"
+place.state = "MD"
+place.city = "College Park"
+

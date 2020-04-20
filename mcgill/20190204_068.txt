@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_068"
+
+[[person.meta.citation]]
+title = "Pine Bluff Daily Graphic"
+date = "1903-05-05"
+pages = "5"
+
+[person.name]
+last = "Byington"
+given = "G. W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+title = "Official Scorer"
+
+

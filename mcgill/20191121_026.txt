@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_026"
+
+[[person.meta.citation]]
+title = "Great Bend Tribune"
+date = "1911-05-13"
+pages = "4"
+
+[person.name]
+last = "Falkenberg"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+

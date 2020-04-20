@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_005"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1885-05-24"
+pages = "7"
+
+[person.name]
+last = "McCue"
+given = "J. B."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1885"
+league.name = "Southern League"
+
+

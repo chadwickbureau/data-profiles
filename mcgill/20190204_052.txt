@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_052"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1903-04-03"
+pages = "3"
+
+[person.name]
+last = "Horst"
+use = "Rudolf"
+given = "Rudolf H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "South Bend"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

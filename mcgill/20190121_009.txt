@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_009"
+
+[[person.meta.citation]]
+title = "The Post-Standard"
+date = "1911-01-13"
+pages = "14"
+
+[person.name]
+last = "Augur"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Central League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "New York State League"
+
+

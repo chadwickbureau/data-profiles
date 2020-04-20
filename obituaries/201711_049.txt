@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_049"
+
+[[person.meta.citation]]
+title = "St. Cloud TImes"
+date = "2017-11-22"
+url = "http://www.legacy.com/obituaries/sctimes/obituary.aspx?n=john-k-tennant&pid=187317050&fhid=12816"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-22"
+
+[person.name]
+last = "Tennant"
+use = "John"
+given = "John K."
+
+[person.birth]
+date = "1929-03-08"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2017-11-01"
+place.country = "US"
+place.state = "MN"
+place.city = "Waite Park"
+

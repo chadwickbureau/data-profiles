@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_017"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1926-04-24"
+pages = "12"
+
+[person.name]
+last = "Cole"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1903"
+
+[[person.resides]]
+dates = "1926"
+place.country = "US"
+place.state = "TX"
+place.city = "Streetman"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Corsicana"
+team.league.name = "Texas Association"
+
+

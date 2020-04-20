@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_034"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre Times Leader"
+date = "1908-03-27"
+pages = "10"
+
+[person.name]
+last = "Bligh"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Pennsylvania-New Jersey League"
+
+

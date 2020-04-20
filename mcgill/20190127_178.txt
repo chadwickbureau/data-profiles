@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_178"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-07-08"
+pages = "6"
+
+[person.name]
+last = "Dubbs"
+use = "Frank"
+given = "Frank W."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Shamokin"
+team.league.name = "Atlantic League"
+
+

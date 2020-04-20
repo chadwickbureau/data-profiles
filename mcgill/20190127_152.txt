@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_152"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1916-04-26"
+pages = "14"
+
+[person.name]
+last = "Geisel"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Central League"
+
+

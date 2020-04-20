@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_028"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2014-01-03"
+url = "http://www.legacy.com/obituaries/charlotte/obituary.aspx?n=James-Raugh&pid=168876830"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-01"
+
+[person.name]
+last = "Raugh"
+use = "Jim"
+given = "James Plummer"
+suffix = "Jr."
+
+[person.birth]
+date = "1934-09-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2014-01-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Newton"
+
+[[person.education]]
+school.name = "Haverford School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Haverford"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+dates = "/1957"
+
+

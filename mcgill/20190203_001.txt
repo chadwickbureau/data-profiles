@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_001"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1912-03-19"
+pages = "2"
+
+[person.name]
+last = "O'Brien"
+use = "Henry"
+given = "Henry"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "MA"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+

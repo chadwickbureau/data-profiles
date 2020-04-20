@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_005"
+
+[[person.meta.citation]]
+title = "Boxwell Brothers Funeral Directors"
+date = "2013-12-08"
+url = "http://www.boxwellbrothers.com/obit/?p=8711"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-10"
+
+[person.name]
+last = "Luquette"
+use = "A. J."
+given = "Aurelian Joseph"
+suffix = "Jr."
+
+[person.birth]
+date = "1926-04-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Beaumont"
+
+[person.death]
+date = "2013-12-05"
+
+[[person.education]]
+school.name = "St. Anthony's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Beaumont"
+
+[[person.education]]
+school.name = "Stephen F. Austin"
+school.type = "college"
+
+[[person.education]]
+school.name = "Lamar"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Beaumont"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

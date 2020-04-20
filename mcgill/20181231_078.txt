@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_078"
+
+[[person.meta.citation]]
+title = "Boston Post"
+date = "1902-03-26"
+pages = "3"
+
+[person.name]
+last = "Morrissey"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Connecticut State League"
+
+

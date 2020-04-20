@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_019"
+
+[[person.meta.citation]]
+title = "The Philipsburg Mail"
+date = "1899-02-03"
+pages = "6"
+
+[person.name]
+last = "Power"
+use = "Charles"
+given = "Charles B."
+
+[person.birth]
+date = "1859-06-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Johnstown"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1899"
+league.name = "Interstate League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1898"
+league.name = "Interstate League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1897"
+league.name = "Interstate League"
+title = "President"
+
+[[person.affiliation]]
+type = "player"
+dates = "1887"
+team.name = "Eau Claire"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1887"
+team.name = "Oshkosh"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1888"
+league.name = "Western League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1888"
+league.name = "National League"
+
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201709_001"
+
+[[person.meta.citation]]
+title = "Salisbury Post"
+date = "2017-11-07"
+url = "http://www.salisburypost.com/2017/11/07/sports-obit-alex-morrow-jr-was-a-solid-player-in-local-professional-baseball/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-07"
+
+[person.name]
+last = "Morrow"
+use = "Alex"
+given = "Carl Alex"
+suffix = "Jr."
+
+[person.birth]
+date = "1934"
+
+[person.death]
+date = "2017"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.burial]
+cemetery.name = "Triplett United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Mooresville"
+
+[person.description]
+height = "70"
+weight = "165"
+
+[[person.education]]
+school.name = "Mount Ulla HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Mount Ulla"
+
+

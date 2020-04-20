@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_002"
+
+[[person.meta.citation]]
+title = "Kopicki's Funeral Home"
+date = "2018-08-17"
+url = "https://www.heritageberwyn.com/notices/Donald-Stange"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-17"
+
+[person.name]
+last = "Stange"
+use = "Donald"
+given = "Donald C."
+
+[person.birth]
+date = "1930-11-27"
+
+[person.death]
+date = "2017-11-15"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hillside"
+

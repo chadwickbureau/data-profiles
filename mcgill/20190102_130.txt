@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_130"
+
+[[person.meta.citation]]
+title = "The Dayton Herald"
+date = "1915-02-11"
+pages = "6"
+
+[person.name]
+last = "Goehler"
+use = "Jesse"
+given = "Jesse"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Central League"
+
+

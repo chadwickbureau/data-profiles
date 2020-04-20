@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_024"
+
+[[person.meta.citation]]
+title = "Abilene Daily Reflector"
+date = "1909-06-05"
+pages = "3"
+
+[person.name]
+last = "Brumage"
+use = "Alph"
+given = "Alph"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KS"
+place.city = "Beloit"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Central Kansas League"
+
+

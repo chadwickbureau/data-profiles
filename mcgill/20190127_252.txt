@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_252"
+
+[[person.meta.citation]]
+title = "Durham Morning Herald"
+date = "1914-06-19"
+pages = "2"
+
+[person.name]
+last = "Belanger"
+use = "Jerry"
+given = "Jerry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Durham"
+team.league.name = "North Carolina State League"
+
+

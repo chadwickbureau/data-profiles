@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_123"
+
+[[person.meta.citation]]
+title = "The Montgomery Advertiser"
+date = "1910-03-27"
+pages = "15"
+
+[person.name]
+last = "Boyd"
+use = "Smith"
+given = "Smith"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+
+[[person.playing]]
+season = "1909"
+league.name = "Montgomery City League"
+split.0.team.name = ""
+
+

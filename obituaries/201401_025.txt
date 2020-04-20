@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_025"
+
+[[person.meta.citation]]
+title = "Windsor Star"
+date = "2014-01-03"
+url = "http://blogs.windsorstar.com/2014/01/03/former-high-school-star-newton-dead-at-80/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-05"
+
+[person.name]
+last = "Newton"
+use = "Harold"
+given = "Harold"
+
+[person.birth]
+date = "1933"
+
+[person.death]
+date = "2014-01-02"
+
+[[person.education]]
+school.name = "J. C. Patterson Collegiate Institute"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "ON"
+school.place.city = "Windsor"
+
+

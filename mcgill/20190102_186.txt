@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_186"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1919-05-07"
+pages = "13"
+
+[person.name]
+last = "Matteson"
+use = "Matty"
+given = "Matty"
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "MI"
+place.city = "Bay City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1919"
+team.league.name = "Canadian League"
+
+

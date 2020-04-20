@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_079"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Schnelle"
+given = "R. A."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "President"
+
+

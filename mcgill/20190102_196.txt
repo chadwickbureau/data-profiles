@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_196"
+
+[[person.meta.citation]]
+title = "Star-Phoenix"
+date = "1920-01-29"
+pages = "7"
+
+[person.name]
+last = "Moran"
+use = "Augie"
+given = "Augie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "International League"
+
+

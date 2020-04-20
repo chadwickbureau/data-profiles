@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_130"
+
+[[person.meta.citation]]
+title = "The Anaconda Standard"
+date = "1900-05-19"
+pages = "4"
+
+[person.name]
+last = "Ives"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Great Falls"
+team.league.name = "Montana State League"
+
+

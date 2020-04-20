@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_132"
+
+[[person.meta.citation]]
+title = "Pittsburgh Dispatch"
+date = "1889-05-05"
+pages = "6"
+
+[person.name]
+last = "Craig"
+use = "Hugh"
+given = "Hugh"
+
+[[person.affiliation]]
+type = "player"
+dates = "1889"
+team.name = "Atlanta"
+team.league.name = "Southern League"
+
+

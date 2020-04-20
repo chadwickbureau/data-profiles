@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_011"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-10"
+pages = "2"
+
+[person.name]
+last = "Coverdale"
+use = "Claude"
+given = "Claude"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Coffeyville"
+team.league.name = "Western Association"
+
+

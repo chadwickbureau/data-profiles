@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_056"
+
+[[person.meta.citation]]
+title = "The Waxahachie Daily Light"
+date = "1914-06-20"
+pages = "5"
+
+[person.name]
+last = "Biggs"
+use = "Edward"
+given = "Edward"
+
+[[person.education]]
+school.name = "Austin College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ennis"
+team.league.name = "Central Texas League"
+
+

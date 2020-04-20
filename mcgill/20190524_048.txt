@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_048"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1909-06-21"
+pages = "2"
+
+[person.name]
+last = "McDill"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_103"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-03"
+pages = "7"
+
+[person.name]
+last = "Tearney"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

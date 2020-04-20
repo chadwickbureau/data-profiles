@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_240"
+
+[[person.meta.citation]]
+title = "The Evening Review"
+date = "1911-01-23"
+pages = "6"
+
+[person.name]
+last = "Manning"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+
+

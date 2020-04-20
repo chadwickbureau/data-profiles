@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_260"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1911-05-03"
+pages = "12"
+
+[person.name]
+last = "Remsburg"
+use = "Walter"
+given = "Walter R."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "York"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

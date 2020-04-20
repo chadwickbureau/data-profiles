@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_268"
+
+[[person.meta.citation]]
+title = "The Evening Review"
+date = "1911-08-12"
+pages = "8"
+
+[person.name]
+last = "Blinke"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "OH"
+place.city = "Canton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "East Liverpool"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "McKeesport"
+team.league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Wheeling"
+team.league.name = "Central League"
+
+

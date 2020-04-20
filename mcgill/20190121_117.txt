@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_117"
+
+[[person.meta.citation]]
+title = "The Vancouver Sun"
+date = "1916-03-24"
+pages = "6"
+
+[person.name]
+last = "Blewett"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1916"
+team.name = "Northwestern"
+title = "President"
+
+

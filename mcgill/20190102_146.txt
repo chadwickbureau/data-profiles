@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_146"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1915-05-01"
+pages = "1"
+
+[person.name]
+last = "Tpfirnanof"
+use = "Charles"
+given = "Charles H."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "IN"
+place.city = "Terre Haute"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Ohio State League"
+
+

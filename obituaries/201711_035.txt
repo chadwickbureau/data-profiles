@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_035"
+
+[[person.meta.citation]]
+title = "West Harpeth Funeral Home"
+date = "2017-11-29"
+url = "https://www.westharpethfh.com/obit/odell-e-osborne-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-29"
+
+[person.name]
+last = "Osborne"
+use = "Odell"
+given = "Odell E."
+suffix = "Jr."
+
+[person.birth]
+date = "1921-03-25"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"
+
+[person.death]
+date = "2017-11-26"
+

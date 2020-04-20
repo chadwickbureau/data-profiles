@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_048"
+
+[[person.meta.citation]]
+title = "Woodland Hills Funeral Home"
+date = "2017-12-16"
+url = "http://www.woodlandhillsfh.com/obits/obituary.php?id=655490"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-16"
+
+[person.name]
+last = "Marquardt"
+use = "Delmar"
+given = "Delmar Paul"
+
+[person.birth]
+date = "1925-01-14"
+
+[person.death]
+date = "2017-12-09"
+place.country = "US"
+place.state = "MN"
+place.city = "North Mankato"
+

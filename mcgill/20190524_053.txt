@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_053"
+
+[[person.meta.citation]]
+title = "The Waxahachie Daily Light"
+date = "1914-06-20"
+pages = "5"
+
+[person.name]
+last = "Carpenter"
+use = "Johnnie"
+given = "Johnnie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ennis"
+team.league.name = "Central Texas League"
+
+

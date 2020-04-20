@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_124"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1913-02-07"
+pages = "16"
+
+[person.name]
+last = "Chill"
+use = "Ollie"
+given = "Ollie"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "American Association"
+
+

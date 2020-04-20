@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_011"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1887-04-04"
+pages = "3"
+
+[person.name]
+last = "Moore"
+given = "J. W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1887"
+league.name = "California League"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_027"
+
+[[person.meta.citation]]
+title = "Abilene Daily Chronicle"
+date = "1910-05-31"
+pages = "4"
+
+[person.name]
+last = "Scheele"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+description.position = "P"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "1910-05-28"
+type = "released"
+leave.name = "Abilene"
+leave.league.name = "Central Kansas"
+
+

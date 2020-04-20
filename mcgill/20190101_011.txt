@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_011"
+
+[[person.meta.citation]]
+title = "The Times"
+date = "1896-03-08"
+pages = "8"
+
+[person.name]
+last = "Betts"
+use = "William"
+given = "William G."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1896"
+league.name = "Virginia League"
+
+

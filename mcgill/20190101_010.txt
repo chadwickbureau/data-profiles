@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_010"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1906-03-27"
+pages = "1"
+
+[person.name]
+last = "Knell"
+use = "Phil"
+given = "Phil"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Pacific Coast League"
+
+

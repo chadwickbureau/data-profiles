@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_176"
+
+[[person.meta.citation]]
+title = "Evening Times-Republican"
+date = "1918-04-13"
+pages = "2"
+
+[person.name]
+last = "Fitzpatrick"
+use = "Matty"
+given = "Matty"
+
+[[person.resides]]
+dates = "1918"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1918"
+league.name = "Western League"
+
+

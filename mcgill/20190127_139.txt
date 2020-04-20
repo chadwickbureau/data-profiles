@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_139"
+
+[[person.meta.citation]]
+title = "The Oshkosh Northwestern"
+date = "1910-04-05"
+pages = "7"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Wisconsin-Illinois League"
+
+

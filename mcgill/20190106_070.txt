@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_070"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1906-05-02"
+pages = "7"
+
+[person.name]
+last = "McConnell"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1906"
+team.name = "Rock Island"
+team.league.name = "Illinis-Indiana-Iowa League"
+
+

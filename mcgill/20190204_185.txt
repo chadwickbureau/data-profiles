@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_185"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1909-03-20"
+
+[person.name]
+last = "Bell"
+use = "Brian"
+given = "Brian"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+title = "Official Scorer"
+
+

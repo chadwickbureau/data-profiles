@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_037"
+
+[[person.meta.citation]]
+title = "Kiser-Rose Hill Funeral Home"
+date = "2017-11-13"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Rance-Pless&lc=1067&pid=187221732&mid=7636067"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-13"
+
+[person.name]
+last = "Pless"
+use = "Rance"
+given = "Rance"
+
+[person.birth]
+date = "1925-12-06"
+
+[person.death]
+date = "2017-11-11"
+place.country = "US"
+place.state = "TN"
+place.city = "Greeneville"
+
+[person.burial]
+cemetery.name = "GreeneLawn Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Greeneville"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

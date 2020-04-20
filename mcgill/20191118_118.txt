@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_118"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1910-07-06"
+pages = "5"
+
+[person.name]
+last = "Mier"
+given = "O."
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "St. Joseph"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_034"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1902-03-07"
+pages = "5"
+
+[person.name]
+last = "Wagenseller"
+use = "Charles"
+given = "Charles N."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1902"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1900"
+team.name = "Decatur"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

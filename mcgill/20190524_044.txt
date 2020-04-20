@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_044"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-06-14"
+pages = "4"
+
+[person.name]
+last = "Leach"
+given = "H."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

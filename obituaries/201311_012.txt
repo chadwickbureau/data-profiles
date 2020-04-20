@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201311_012"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2014-01-04"
+url = "http://www.legacy.com/obituaries/latimes/obituary.aspx?n=Kenneth-Peters&pid=168883397"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-04"
+
+[person.name]
+last = "Peters"
+use = "Kenneth"
+given = "Kenneth Leroy"
+
+[person.birth]
+date = "1915-06-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Orange"
+
+[person.death]
+date = "2013-11-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Tarzana"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+dates = "/1936"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

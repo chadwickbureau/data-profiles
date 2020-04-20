@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_057"
+
+[[person.meta.citation]]
+title = "The Scranton Republican"
+date = "1916-07-14"
+pages = "14"
+
+[person.name]
+last = "Roche"
+use = "Connie"
+given = "Connie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Scranton"
+team.league.name = "New York State League"
+
+
+[[person.transaction]]
+date = "1916-07-03"
+type = "released"
+leave.name = "Scranton"
+leave.league.name = "New York State"
+
+

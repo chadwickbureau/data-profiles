@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_158"
+
+[[person.meta.citation]]
+title = "The Clay Center Dispatch"
+date = "1910-07-23"
+pages = "1"
+
+[person.name]
+last = "Oswalt"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

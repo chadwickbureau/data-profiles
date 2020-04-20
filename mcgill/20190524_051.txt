@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_051"
+
+[[person.meta.citation]]
+title = "The Dispatch-Republican"
+date = "1909-06-23"
+pages = "1"
+
+[person.name]
+last = "Forsberg"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

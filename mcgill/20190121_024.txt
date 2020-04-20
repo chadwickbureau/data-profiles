@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_024"
+
+[[person.meta.citation]]
+title = "The Watertown News"
+date = "1893-05-17"
+pages = "5"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1893"
+team.name = "Laurels"
+team.place.country = "US"
+team.place.state = "WI"
+team.place.city = "Milwaukee"
+team.caliber = "semipro"
+
+

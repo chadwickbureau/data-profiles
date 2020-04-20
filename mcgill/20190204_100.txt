@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_100"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1905-05-08"
+pages = "5"
+
+[person.name]
+last = "Byington"
+use = "George"
+given = "George W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_039"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-07"
+pages = "4"
+
+[person.name]
+last = "Moss"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Minneapolis"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_159"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-07-25"
+pages = "5"
+
+[person.name]
+last = "Scanlan"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Chapman"
+team.league.name = "Central Kansas League"
+
+

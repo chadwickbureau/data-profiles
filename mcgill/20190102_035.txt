@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_035"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1906-07-17"
+pages = "2"
+
+[person.name]
+last = "Schuster"
+given = "H. W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1906"
+league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_020"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1911-06-24"
+pages = "4"
+
+[person.name]
+last = "Callahan"
+use = "Mike"
+given = "Mike"
+
+[[person.education]]
+school.name = "St. Vincent's"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.age = "21"
+description.height = "70"
+description.weight = "160"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_156"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-08-16"
+pages = "3"
+
+[person.name]
+last = "Burton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Montpelier-Barre"
+team.league.name = "Northern Independent League"
+description.throws = "L"
+
+

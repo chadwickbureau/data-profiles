@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_002"
+
+[[person.meta.citation]]
+title = "The News-Herald"
+date = "1915-07-08"
+pages = "8"
+
+[person.name]
+last = "McKeithan"
+use = "Make"
+given = "Make"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lenoir"
+team.league.name = "Western North Carolina League"
+
+

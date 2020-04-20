@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_101"
+
+[[person.meta.citation]]
+title = "St. Louis Star"
+date = "1918-03-21"
+pages = "15"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+

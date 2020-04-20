@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_155"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1916-04-26"
+pages = "14"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Central League"
+
+

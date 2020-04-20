@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_061"
+
+[[person.meta.citation]]
+title = "The Muscatine Journal"
+date = "1913-12-12"
+pages = "16"
+
+[person.name]
+last = "Fitzgerald"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Muscatine"
+team.league.name = "Central Association"
+
+

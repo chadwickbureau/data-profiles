@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_123"
+
+[[person.meta.citation]]
+title = "The Billings Gazette"
+date = "1912-02-18"
+pages = "4"
+
+[person.name]
+last = "Anderson"
+use = "Ollie"
+given = "Ollie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "American Association"
+
+

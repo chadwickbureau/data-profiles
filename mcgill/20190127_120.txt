@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_120"
+
+[[person.meta.citation]]
+title = "The Billings Gazette"
+date = "1912-02-18"
+pages = "4"
+
+[person.name]
+last = "Hayes"
+use = "Gerald"
+given = "Gerald"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "American Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_020"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1912-05-24"
+pages = "11"
+
+[person.name]
+last = "Barrett"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

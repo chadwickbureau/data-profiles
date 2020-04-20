@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_066"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1906-05-01"
+pages = "7"
+
+[person.name]
+last = "Lawrence"
+use = "Michael"
+given = "Michael"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+
+

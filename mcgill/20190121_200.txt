@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_200"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1927-04-26"
+pages = "32"
+
+[person.name]
+last = "Crooke"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1927"
+league.name = "Pacific Coast League"
+
+

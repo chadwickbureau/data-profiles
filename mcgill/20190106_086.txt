@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_086"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-04-30"
+pages = "3"
+
+[person.name]
+last = "Setley"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "IL"
+place.city = "Litchfield"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+
+

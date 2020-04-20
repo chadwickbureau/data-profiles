@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_095"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Stuvengen"
+use = "Stuvy"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux City"
+team.league.name = "Tri-State League"
+description.position = "1B"
+description.bats = "R"
+description.throws = "R"
+description.age = "25"
+description.height = "72"
+description.weight = "195"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Worcester"
+team.league.name = "Eastern League"
+
+

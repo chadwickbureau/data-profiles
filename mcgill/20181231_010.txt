@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_010"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1908-02-14"
+pages = "7"
+
+[person.name]
+last = "Basset"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Texas League"
+
+

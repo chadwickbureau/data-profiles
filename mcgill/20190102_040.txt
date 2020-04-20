@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_040"
+
+[[person.meta.citation]]
+title = "News-Journal"
+date = "1907-03-26"
+pages = "8"
+
+[person.name]
+last = "Steinberg"
+use = "Louie"
+given = "Louie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Interstate League"
+
+

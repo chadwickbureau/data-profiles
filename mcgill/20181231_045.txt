@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_045"
+
+[[person.meta.citation]]
+title = "The Galveston Daily News"
+date = "1904-04-06"
+pages = "4"
+
+[person.name]
+last = "Spencer"
+use = "Wirt"
+given = "Wirt"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "TX"
+place.city = "Denison"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "North Texas League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "South Texas League"
+
+

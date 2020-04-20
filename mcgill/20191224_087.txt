@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_087"
+
+[[person.meta.citation]]
+title = "El Dorado Daily Republican"
+date = "1911-06-27"
+pages = "6"
+
+[person.name]
+last = "Lyons"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+

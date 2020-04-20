@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_170"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Journal"
+date = "1921-04-01"
+pages = "16"
+
+[person.name]
+last = "Crotter"
+use = "Jacob"
+given = "Jacob"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Pacific Coast League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_007"
+
+[[person.meta.citation]]
+title = "The Fort Scott Republican"
+date = "1905-06-10"
+pages = "1"
+
+[person.name]
+last = "Mason"
+use = "Cy"
+given = "Cy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Fort Scott"
+team.league.name = "Missouri Valley League"
+
+

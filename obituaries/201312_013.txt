@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_013"
+
+[[person.meta.citation]]
+title = "Tyler Morning Telegraph"
+date = "2013-12-12"
+url = "http://obituaries.tylerpaper.com/obituaries/tylerpaper/obituary.aspx?n=Lindsay-Cary&pid=168487414"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-13"
+
+[person.name]
+last = "Cary"
+use = "Lindsay"
+given = "Lindsay E."
+suffix = "Jr."
+
+[person.birth]
+date = "1923-08-31"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2013-12-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Tyler"
+
+[person.burial]
+cemetery.name = "New Harmony Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Tyler"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_078"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times"
+date = "1905-04-27"
+pages = "8"
+
+[person.name]
+last = "Wood"
+use = "George"
+given = "George A."
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "New York State League"
+
+

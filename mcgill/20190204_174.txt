@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_174"
+
+[[person.meta.citation]]
+title = "Santa Cruz Evening News"
+date = "1908-11-26"
+pages = "2"
+
+[person.name]
+last = "Lucas"
+use = "George"
+given = "George H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Santa Cruz"
+team.league.name = "California State League"
+title = "Official Scorer"
+
+

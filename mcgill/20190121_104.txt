@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_104"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1911-09-06"
+pages = "7"
+
+[person.name]
+last = "Bush"
+use = "Garnett"
+given = "Garnett C."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "National League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Texas League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "American Association"
+
+

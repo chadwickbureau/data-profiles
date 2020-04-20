@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_094"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1912-06-26"
+pages = "9"
+
+[person.name]
+last = "Graves"
+given = "W. R."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "OK"
+place.city = "Guthrie"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Oklahoma State League"
+
+

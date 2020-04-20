@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_043"
+
+[[person.meta.citation]]
+title = "Folk Funeral Home"
+date = "2017-12-10"
+url = "http://www.folkfuneralhome.com/obituary?id=312673"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-10"
+
+[person.name]
+last = "Jolley"
+use = "Bob"
+given = "Buren Lee"
+
+[person.birth]
+date = "1931-06-29"
+place.country = "US"
+place.state = "NC"
+place.city = "Shelby"
+
+[person.death]
+date = "2017-12-07"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

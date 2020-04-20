@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_015"
+
+[[person.meta.citation]]
+title = "The Great Bend Tribune"
+date = "1911-05-22"
+pages = "4"
+
+[person.name]
+last = "Fox"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+

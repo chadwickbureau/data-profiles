@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_025"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1912-02-11"
+pages = "3"
+
+[person.name]
+last = "Lynch"
+use = "Sam"
+given = "Sam"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+description.throws = "R"
+description.weight = "190"
+description.age = "22"
+
+

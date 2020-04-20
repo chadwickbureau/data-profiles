@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_030"
+
+[[person.meta.citation]]
+title = "Daytona Beach News-Journal"
+date = "2014-01-19"
+url = "http://www.legacy.com/obituaries/news-journalonline/obituary.aspx?n=Joseph-Scott&pid=169167061"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-19"
+
+[person.name]
+last = "Scott"
+use = "Joe"
+given = "Joseph N."
+
+[person.birth]
+date = "1923-07-17"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2014-01-15"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

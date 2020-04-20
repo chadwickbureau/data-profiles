@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_038"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "1906-01-24"
+pages = "12"
+
+[person.name]
+last = "Bannon"
+use = "Thomas"
+given = "Thomas"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "MA"
+place.city = "Lynn"
+
+
+[[person.affiliation]]
+type = "manager"
+dates = "1905"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1904"
+team.name = "New London"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Hartford"
+team.league.name = "Connecticut State League"
+
+

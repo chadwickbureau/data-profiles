@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_033"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Agnew"
+use = "Troy"
+given = "Troy"
+
+[person.birth]
+place.country = "US"
+place.state = "MO"
+place.city = "Farmington"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Agnew"
+person.name.use = "Sam"
+person.name.given = "Sam"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "C"
+description.weight = "160"
+description.height = "67.75"
+description.age = "22"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Nebraska State League"
+
+

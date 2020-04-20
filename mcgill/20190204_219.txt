@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_219"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-05-03"
+pages = "8"
+
+[person.name]
+last = "Williams"
+given = "W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+

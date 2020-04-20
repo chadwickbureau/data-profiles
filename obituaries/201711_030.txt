@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_030"
+
+[[person.meta.citation]]
+title = "Devlin Funeral Home"
+date = "2017-11-13"
+url = "https://www.devlinfuneralhome.com/obituaries/william-h-bill-knoch/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-13"
+
+[person.name]
+last = "Knoch"
+use = "Bill"
+given = "William H."
+
+[person.birth]
+date = "1942-08-21"
+
+[person.death]
+date = "2017-11-11"
+
+[person.burial]
+cemetery.name = "Allegheny County Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Allison Park"
+

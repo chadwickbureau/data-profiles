@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_106"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-03"
+pages = "7"
+
+[person.name]
+last = "Sexton"
+given = "M. H."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1903"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1902"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1901"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

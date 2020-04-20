@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_100"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-02"
+pages = "3"
+
+[person.name]
+last = "Boyle"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Waterloo"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

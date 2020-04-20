@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_024"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-08-29"
+pages = "2"
+
+[person.name]
+last = "Touchstone"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+
+

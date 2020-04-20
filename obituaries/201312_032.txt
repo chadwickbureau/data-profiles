@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_032"
+
+[[person.meta.citation]]
+title = "The South Reporter (Holly Springs, MS)"
+date = "2013-12-26"
+url = "http://www.southreporter.com/obits.html"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2013-12-30"
+
+[person.name]
+last = "Beard"
+use = "Sam"
+given = "Clarence Sam"
+nick = "Fat Sam"
+
+[person.death]
+date = "2013-12-17"
+place.country = "US"
+place.state = "MS"
+place.city = "Potts Camp"
+
+[person.burial]
+cemetery.name = "Reid's Gift Missionary Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Potts Camp"
+
+[[person.education]]
+school.name = "W. T. Sims High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Holly Springs"
+
+

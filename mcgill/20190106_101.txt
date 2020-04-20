@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_101"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-02"
+pages = "3"
+
+[person.name]
+last = "Keenan"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_007"
+
+[[person.meta.citation]]
+title = "The Vicksburg Herald"
+date = "1907-01-13"
+pages = "1"
+
+[person.name]
+last = "Pfenninger"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Southern Association"
+
+

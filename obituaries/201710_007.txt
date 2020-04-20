@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_007"
+
+[[person.meta.citation]]
+title = "Newcomer Funeral Home"
+date = "2017-10-29"
+url = "http://www.newcomeralbany.com/Obituary/149349/Matthew-Daskalakis%2c-Sr/Albany-New-York"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-29"
+
+[person.name]
+last = "Daskalakis"
+use = "Babe"
+given = "Matthew"
+suffix = "Sr."
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2017-10-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

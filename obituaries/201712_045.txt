@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_045"
+
+[[person.meta.citation]]
+title = "Robert Barham Family Funeral Home"
+date = "2017-12-15"
+url = "http://www.robertbarhamffh.com/memsol.cgi?page=profile&section=info&user_id=2044366"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Kennedy"
+use = "Jodie"
+given = "Jodie"
+
+[person.birth]
+date = "1979-07-16"
+
+[person.death]
+date = "2017-12-04"
+place.country = "US"
+place.state = "MS"
+place.city = "Meridian"
+
+[person.burial]
+cemetery.name = "Forest Lawn Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Meridian"
+

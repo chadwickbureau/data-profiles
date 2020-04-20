@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_274"
+
+[[person.meta.citation]]
+title = "Wausau Daily Herald"
+date = "1912-05-18"
+pages = "4"
+
+[person.name]
+last = "Brenton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Wausau"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Danville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "La Crosse"
+team.league.name = "Minnesota-Wisconsin League"
+
+

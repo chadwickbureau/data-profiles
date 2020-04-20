@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_002"
+
+[[person.meta.citation]]
+title = "Roanoke.com"
+date = "2014-01-26"
+url = "http://m.roanoke.com/obituaries/article_dd49bfe3-29e5-5ae1-bcb9-3c5c3853b36c.html?mode=jqm"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-26"
+
+[person.name]
+last = "Abel"
+use = "Ed"
+given = "Edward Ronald"
+
+[person.birth]
+date = "1939-06-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2014-01-01"
+place.country = "US"
+place.state = "VA"
+place.city = "Pearisburg"
+
+[[person.education]]
+school.name = "West View HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittsburgh"
+
+[[person.education]]
+school.name = "Colgate University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Hamilton"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_032"
+
+[[person.meta.citation]]
+title = "Coffeyville Daily Record"
+date = "1906-04-12"
+pages = "6"
+
+[person.name]
+last = "Tessmer"
+use = "Guy"
+given = "Guy"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "KS"
+place.city = "Pittsburg"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Kansas State League"
+
+

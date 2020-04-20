@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_096"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Phillips"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Wheeling"
+team.league.name = "Central League"
+
+

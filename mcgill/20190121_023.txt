@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_023"
+
+[[person.meta.citation]]
+title = "The Baltimore Sun"
+date = "1911-03-12"
+pages = "15"
+
+[person.name]
+last = "Accorsini"
+use = "Leo"
+given = "Leo"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Accorsini"
+person.name.use = "Victor"
+person.name.given = "Victor"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Johnson City"
+team.league.name = "Southeastern League"
+
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_068"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1911-06-02"
+pages = "9"
+
+[person.name]
+last = "Serber"
+given = "W. H."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Southeastern League"
+
+

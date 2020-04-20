@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_241"
+
+[[person.meta.citation]]
+title = "The San Bernadino County Sun"
+date = "1934-03-29"
+pages = "8"
+
+[person.name]
+last = "Cady"
+use = "Forest"
+given = "Forest"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1934"
+league.name = "Pacific Coast League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_149"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-09"
+pages = "9"
+
+[person.name]
+last = "Collins"
+use = "Ray"
+given = "Ray"
+
+[[person.education]]
+school.name = "University of Vermont"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Burlington"
+team.league.name = "Northern Independent League"
+
+

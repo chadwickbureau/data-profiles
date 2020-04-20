@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_010"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1904-05-24"
+pages = "6"
+
+[person.name]
+last = "Shaw"
+use = "John"
+given = "John S."
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Southern Association"
+
+

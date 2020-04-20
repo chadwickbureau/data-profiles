@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_012"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-12"
+pages = "2"
+
+[person.name]
+last = "Miller"
+use = "Faye"
+given = "Faye"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Coffeyville"
+team.league.name = "Western Association"
+
+

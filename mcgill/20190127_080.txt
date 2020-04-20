@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_080"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Perkins"
+use = "Ben"
+given = "Ben"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "WV"
+place.city = "Wheeling"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "Vice President"
+
+

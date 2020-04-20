@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_035"
+
+[[person.meta.citation]]
+title = "The McPherson Daily Republican"
+date = "1908-06-25"
+pages = "1"
+
+[person.name]
+last = "Aiton"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "McPherson"
+team.league.name = "Central Kansas League"
+
+

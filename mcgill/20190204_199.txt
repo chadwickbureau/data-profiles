@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_199"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Schuyler"
+given = "E. L."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Williamsport"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

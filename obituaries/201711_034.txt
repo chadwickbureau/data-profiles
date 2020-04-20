@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_034"
+
+[[person.meta.citation]]
+title = "Tennessean"
+date = "2017-11-29"
+url = "http://www.legacy.com/obituaries/tennessean/obituary.aspx?n=odell-e-osborne&pid=187371165&fhid=14292"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-29"
+
+[person.name]
+last = "Osborne"
+use = "Odell"
+given = "Odell E."
+suffix = "Jr."
+
+[person.death]
+date = "2017-11-26"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

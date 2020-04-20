@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_210"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-04-27"
+pages = "9"
+
+[person.name]
+last = "Annin"
+given = "J. P."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "South Bend"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

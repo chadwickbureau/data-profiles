@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_030"
+
+[[person.meta.citation]]
+title = "Bronson & Guthlein Funeral Home"
+date = "2013-12-27"
+url = "http://www.bronsonandguthleinfh.com/fh/obituaries/obituary.cfm?o_id=2362084&fh_id=11292"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-25"
+
+[person.name]
+last = "Barisano"
+use = "Gene"
+given = "Eugene"
+
+[person.birth]
+date = "1947-01-08"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.death]
+date = "2013-12-25"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Brunswick"
+
+[person.burial]
+cemetery.name = "Holy Cross Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "East Brunswick"
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_023"
+
+[[person.meta.citation]]
+title = "Pellerin Funeral Home"
+date = "2013-12-20"
+url = "http://pellerinfuneralhome.com/sitemaker/memsol.cgi?page=profile&section=info&user_id=1196523"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-20"
+
+[person.name]
+last = "Delaune"
+use = "Martin"
+given = "Martin J."
+suffix = "Sr."
+
+[person.birth]
+date = "1935-10-26"
+place.country = "US"
+place.state = "LA"
+place.city = "New Iberia"
+
+[person.death]
+date = "2013-12-18"
+place.country = "US"
+place.state = "LA"
+place.city = "Lafayette"
+
+[[person.military]]
+country = "US"
+branch = "National Guard"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_022"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2017-11-07"
+url = "http://www.espn.com/mlb/story/_/id/21331438/roy-halladay-40-dies-plane-crash-gulf-mexico"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-07"
+
+[person.name]
+last = "Halladay"
+use = "Roy"
+given = "Roy"
+
+[person.death]
+date = "2017-11-07"
+place.country = "QS"
+place.city = "Gulf of Mexico"
+

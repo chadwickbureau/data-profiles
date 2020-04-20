@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_136"
+
+[[person.meta.citation]]
+title = "The Fort Wayne Sentinel"
+date = "1900-06-21"
+pages = "6"
+
+[person.name]
+last = "Criss"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1900"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1900"
+league.name = "Interstate League"
+
+

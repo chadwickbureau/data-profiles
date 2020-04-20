@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_002"
+
+[[person.meta.citation]]
+title = "The Courier"
+date = "1910-04-30"
+pages = "8"
+
+[person.name]
+last = "Fremer"
+use = "Tony"
+given = "Tony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Waterloo"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.bats = "R"
+
+

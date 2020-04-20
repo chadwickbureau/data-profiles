@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_075"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1904-04-09"
+pages = "7"
+
+[person.name]
+last = "Johnston"
+use = "William"
+given = "William G."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_024"
+
+[[person.meta.citation]]
+title = "Westview Funeral Chapel"
+date = "2017-11-27"
+url = "http://www.westviewfuneralchapel.com/pages/obituaries/details.php?p=3397"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-27"
+
+[person.name]
+last = "Hammond"
+use = "Dave"
+given = "David Richard"
+
+[person.death]
+date = "2017-11-20"
+

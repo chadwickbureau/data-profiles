@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_140"
+
+[[person.meta.citation]]
+title = "The Oshkosh Northwestern"
+date = "1910-04-05"
+pages = "7"
+
+[person.name]
+last = "Pollock"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1909"
+league.name = "Central Association League"
+
+

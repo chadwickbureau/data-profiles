@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_020"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-24"
+pages = "3"
+
+[person.name]
+last = "Brown"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MO"
+place.city = "Lee's Summit"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+description.height = "73"
+description.age = "19"
+
+

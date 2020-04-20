@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_046"
+
+[[person.meta.citation]]
+title = "Gunderson Funeral Home"
+date = "2017-12-18"
+url = "http://www.gundersonfh.com/obituaries/Damian-Doc-Kraemer?obId=2790754#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-18"
+
+[person.name]
+last = "Kraemer"
+use = "Damian"
+given = "Damian"
+nick = "Doc"
+
+[person.birth]
+date = "1930-05-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Plain"
+
+[person.death]
+date = "2017-12-12"
+
+[[person.education]]
+school.name = "St. Luke's Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Plain"
+
+[[person.education]]
+school.name = "University of Wisconsin-Platteville"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

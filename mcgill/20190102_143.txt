@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_143"
+
+[[person.meta.citation]]
+title = "Pittston Gazette"
+date = "1915-05-04"
+pages = "2"
+
+[person.name]
+last = "McBride"
+given = "J. A."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "NJ"
+place.city = "Phillipsburg"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "New York State League"
+
+

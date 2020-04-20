@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_008"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1906-03-27"
+pages = "1"
+
+[person.name]
+last = "Perrine"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Pacific Coast League"
+
+

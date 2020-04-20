@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_069"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1907-03-01"
+pages = "8"
+
+[person.name]
+last = "Cusack"
+given = "S. P."
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Eastern League"
+
+

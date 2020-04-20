@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_029"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1907-04-11"
+pages = "2"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Bartlesville"
+team.league.name = "Oklahoma-Arkansas-Kansas League"
+
+

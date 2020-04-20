@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_028"
+
+[[person.meta.citation]]
+title = "The Buffalo Commercial"
+date = "1901-05-06"
+pages = "4"
+
+[person.name]
+last = "Burns"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Eastern League"
+
+

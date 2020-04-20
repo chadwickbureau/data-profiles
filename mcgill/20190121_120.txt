@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_120"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1917-07-12"
+pages = "10"
+
+[person.name]
+last = "Dailey"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Western League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1917"
+league.name = "Illinois-Indiana-Iowa League"
+
+

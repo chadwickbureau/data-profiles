@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_007"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat"
+date = "1901-04-14"
+pages = "6"
+
+[person.name]
+last = "Malone"
+given = "A. W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Statesville"
+team.league.name = "North Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

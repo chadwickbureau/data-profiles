@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_116"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1889-04-26"
+pages = "1"
+
+[person.name]
+last = "Johnson"
+use = "Cato"
+given = "Cato"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1889"
+league.name = "Middle States League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_244"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1910-05-02"
+pages = "13"
+
+[person.name]
+last = "Williams"
+use = "George"
+given = "George W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_073"
+
+[[person.meta.citation]]
+title = "The Times-Picayune"
+date = "1895-04-25"
+pages = "6"
+
+[person.name]
+last = "Craig"
+use = "Hugh"
+given = "Hugh"
+
+[[person.resides]]
+dates = "1895"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Southern Association"
+
+

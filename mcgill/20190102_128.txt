@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_128"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1914-03-22"
+pages = "12"
+
+[person.name]
+last = "Connolly"
+given = "F. R."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "American Association"
+
+

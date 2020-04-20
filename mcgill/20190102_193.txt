@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_193"
+
+[[person.meta.citation]]
+title = "Star-Phoenix"
+date = "1920-01-29"
+pages = "7"
+
+[person.name]
+last = "Stockdale"
+given = "M. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "International League"
+
+

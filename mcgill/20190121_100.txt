@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_100"
+
+[[person.meta.citation]]
+title = "The Baltimore Sun"
+date = "1914-07-28"
+pages = "5"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Central League"
+
+

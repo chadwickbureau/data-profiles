@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_069"
+
+[[person.meta.citation]]
+title = "The Daily Gate City"
+date = "1912-01-08"
+pages = "8"
+
+[person.name]
+last = "Boswell"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "IL"
+place.city = "Kewanee"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1912"
+league.name = "Nebraska State League"
+
+

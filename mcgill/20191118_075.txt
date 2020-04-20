@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_075"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-20"
+pages = "3"
+
+[person.name]
+last = "Jepson"
+given = "J. P."
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+

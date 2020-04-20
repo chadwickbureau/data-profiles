@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_042"
+
+[[person.meta.citation]]
+title = "Kalamazoo Gazette"
+date = "2014-01-03"
+url = "http://obits.mlive.com/obituaries/kalamazoo/obituary.aspx?n=Allan-Suter&pid=168868130"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-03"
+
+[person.name]
+last = "Suter"
+use = "Allan"
+given = "Allan"
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2013-12-26"
+place.country = "US"
+place.state = "AZ"
+place.city = "Green Valley"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "Kalamazoo Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Kalamazoo"
+
+[[person.education]]
+school.name = "University of Wisconsin"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

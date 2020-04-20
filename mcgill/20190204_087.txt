@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_087"
+
+[[person.meta.citation]]
+title = "The Leaf-Chronicle"
+date = "1904-05-04"
+pages = "1"
+
+[person.name]
+last = "Green"
+use = "Perry"
+given = "Perry D."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Vincennes"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+title = "Official Scorer"
+
+

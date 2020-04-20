@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_031"
+
+[[person.meta.citation]]
+title = "Washington Post"
+date = "2017-11-04"
+url = "http://www.legacy.com/obituaries/washingtonpost/obituary.aspx?n=robert-lewis-bob&pid=187143072"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-05"
+
+[person.name]
+last = "Lewis"
+use = "Bob"
+given = "Robert J."
+
+[person.birth]
+date = "1928-06-07"
+place.country = "US"
+place.state = "TX"
+place.city = "Hale Center"
+
+[person.death]
+date = "2017-11-01"
+
+[[person.education]]
+school.name = "Texas Tech University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

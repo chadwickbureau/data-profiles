@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_030"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1914-04-19"
+pages = "9"
+
+[person.name]
+last = "Doyle"
+use = "Bernard"
+given = "Bernard"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Sioux City"
+team.league.name = "Western League"
+description.throws = "R"
+
+

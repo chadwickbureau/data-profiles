@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201709_002"
+
+[[person.meta.citation]]
+title = "Cavin-Cook Funeral Home"
+date = "2017-11-07"
+url = "http://www.cavin-cook.com/memsol.cgi?user_id=2025013"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-07"
+
+[person.name]
+last = "Morrow"
+use = "Alex"
+given = "Carl Alex"
+suffix = "Jr."
+
+[person.death]
+date = "2017-09-03"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[person.burial]
+cemetery.name = "Triplett United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Mooresville"
+
+[[person.education]]
+school.name = "Mount Ulla HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Mount Ulla"
+
+

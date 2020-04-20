@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_028"
+
+[[person.meta.citation]]
+title = "Argus Observer"
+date = "2017-12-13"
+url = "http://www.argusobserver.com/obituaries/dan-bolzendahl/article_8ec6fdd0-e02b-11e7-a6e8-270e33f42bb0.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Bolzendahl"
+use = "Dan"
+given = "Dan"
+
+[person.birth]
+date = "1928"
+
+[person.death]
+date = "2017-12-06"
+place.country = "US"
+place.state = "ID"
+place.city = "Emmett"
+
+[person.burial]
+cemetery.name = "Rosedale Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Payette"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

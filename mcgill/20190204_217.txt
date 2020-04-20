@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_217"
+
+[[person.meta.citation]]
+title = "Webb City Register"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Johnson"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Webb City"
+team.league.name = "Western Association"
+title = "Official Scorer"
+
+

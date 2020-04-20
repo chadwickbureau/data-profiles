@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_009"
+
+[[person.meta.citation]]
+title = "Moore & Parker Funeral Home"
+date = "2017-10-29"
+url = "http://mooreandparkerfh.com/displayobit1.aspx?callid=4149"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-29"
+
+[person.name]
+last = "Feldhaus"
+use = "Allen"
+given = "Allen"
+
+[person.birth]
+date = "1940-07-15"
+place.country = "US"
+place.state = "KY"
+place.city = "Burlington"
+
+[person.death]
+date = "2017-10-28"
+
+[[person.education]]
+school.name = "Boone County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Florence"
+
+[[person.education]]
+school.name = "University of Kentucky"
+school.type = "college"
+
+

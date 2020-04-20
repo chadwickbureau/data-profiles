@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_101"
+
+[[person.meta.citation]]
+title = "Pittsburg Daily Post"
+date = "1910-04-13"
+pages = "9"
+
+[person.name]
+last = "Guthrie"
+given = "W. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "American Association"
+
+

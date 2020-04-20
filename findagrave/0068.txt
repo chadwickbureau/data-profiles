@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0068"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-14"
+url = "https://www.findagrave.com/memorial/20623367"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-14"
+
+[person.name]
+last = "Stacey"
+use = "Joe"
+given = "Joe Emerson"
+
+[person.birth]
+date = "1921-08-26"
+place.country = "US"
+place.state = "MO"
+place.city = "Bois d'Arc"
+
+[person.death]
+date = "2007-07-23"
+
+[person.burial]
+cemetery.name = "Hazelwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[person.sameas]
+findagrave = "20623367"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

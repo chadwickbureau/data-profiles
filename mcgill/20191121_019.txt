@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_019"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-12"
+pages = "3"
+
+[person.name]
+last = "Grooms"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Kansas State League"
+
+

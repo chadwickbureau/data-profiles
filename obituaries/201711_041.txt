@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_041"
+
+[[person.meta.citation]]
+title = "McComb & Sons Funeral Home"
+date = "2017-11-26"
+url = "http://hosting-24267.tributes.com/obituary/show/Manuel-Jungle-JIm-Rivera-105502080"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Rivera"
+use = "Jim"
+given = "Manuel Joseph"
+nick = "Jungle Jim; Big Jim"
+
+[person.birth]
+date = "1921-07-22"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2017-11-14"
+

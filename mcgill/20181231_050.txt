@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_050"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1911-05-15"
+pages = "3"
+
+[person.name]
+last = "Barrett"
+use = "George"
+given = "George B."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Appalachian League"
+
+

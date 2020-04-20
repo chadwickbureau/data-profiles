@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_018"
+
+[[person.meta.citation]]
+title = "Hopkinsville Kentuckian"
+date = "1910-07-23"
+pages = "8"
+
+[person.name]
+last = "Rieser"
+use = "Nathan"
+given = "Nathan L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Kentucky-Indiana-Tennessee League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Blue Grass League"
+
+

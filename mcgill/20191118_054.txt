@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_054"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1910-06-14"
+pages = "5"
+
+[person.name]
+last = "Fowler"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+

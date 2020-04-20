@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_173"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Journal"
+date = "1921-04-01"
+pages = "16"
+
+[person.name]
+last = "Eason"
+use = "Mal"
+given = "Mal W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Pacific Coast League"
+
+

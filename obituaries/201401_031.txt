@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_031"
+
+[[person.meta.citation]]
+title = "Fort Wayne Newspapers"
+date = "2014-01-11"
+url = "http://www.legacy.com/obituaries/fortwayne/obituary.aspx?n=CHARLES-SHIPMAN&pid=169012376"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-01-10"
+
+[person.name]
+last = "Shipman"
+use = "Charlie"
+given = "Charles F."
+
+[person.birth]
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2014-01-09"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+
+[person.description]
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

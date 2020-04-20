@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_145"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1900-04-11"
+pages = "1"
+
+[person.name]
+last = "Pheland"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1900"
+league.name = "Atlantic League"
+
+

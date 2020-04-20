@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_042"
+
+[[person.meta.citation]]
+title = "ListinDiario.com"
+date = "2017-12-12"
+url = "https://www.listindiario.com/el-deporte/2017/12/11/494488/fallece-el-mulo-jimenez"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-12"
+
+[person.name]
+last = "Jimenez"
+use = "Manuel"
+given = "Manuel Emilio"
+nick = "El Mulo"
+
+[person.birth]
+date = "1937-11-19"
+place.country = "DO"
+place.state = "San Pedro de Macoris"
+place.city = "San Pedro de Macoris"
+
+[person.death]
+date = "2017-12-11"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+

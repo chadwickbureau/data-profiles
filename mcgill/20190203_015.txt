@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_015"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-12"
+pages = "2"
+
+[person.name]
+last = "Cook"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.throws = "R"
+description.height = "73"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Tidewater League"
+
+

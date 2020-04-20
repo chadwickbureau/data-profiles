@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_057"
+
+[[person.meta.citation]]
+title = "The Morning Post"
+date = "1901-03-27"
+pages = "6"
+
+[person.name]
+last = "Clark"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Virginia-North Carolina League"
+
+

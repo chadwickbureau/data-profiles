@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_049"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1907-02-09"
+pages = "8"
+
+[person.name]
+last = "Moran"
+use = "Augy"
+given = "Augy"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Tri-State League"
+
+

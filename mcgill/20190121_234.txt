@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_234"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1933-01-23"
+pages = "10"
+
+[person.name]
+last = "Rue"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1933"
+league.name = "Pacific Coast League"
+
+

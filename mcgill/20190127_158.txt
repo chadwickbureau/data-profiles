@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_158"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1917-04-25"
+pages = "16"
+
+[person.name]
+last = "Slear"
+use = "Bo"
+given = "Bo"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Central League"
+
+

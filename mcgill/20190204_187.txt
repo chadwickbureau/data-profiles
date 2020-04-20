@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_187"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1909-04-01"
+pages = "12"
+
+[person.name]
+last = "Obensham"
+use = "Earl"
+given = "Earl"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

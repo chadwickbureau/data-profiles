@@ -1,0 +1,104 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_010"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Welch"
+use = "Harry"
+given = "Harry A."
+
+[person.birth]
+date = "1880-09-19"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Allentown"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Utica"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Ilion"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Binghamtom"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.playing]]
+season = "1900"
+split.0.team.name = "@ US"
+split.1.team.name = "NY"
+split.2.team.name = "Corning"
+
+

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_176"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2020-04-19"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Robert-NELSON&lc=2160&pid=188057453&mid=7748076&locale=en_US"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-19"
+
+[person.name]
+last = "Nelson"
+use = "Red"
+given = "Robert James"
+
+[person.birth]
+date = "1926-08-27"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+[person.death]
+date = "2018-02-01"
+
+[person.burial]
+cemetery.name = "Fort Logan National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CO"
+cemetery.place.city = "Denver"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Denver"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

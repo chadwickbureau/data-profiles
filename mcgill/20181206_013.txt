@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_013"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-07-05"
+pages = "3"
+
+[person.name]
+last = "Accorsini"
+use = "Victor"
+given = "Victor"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+

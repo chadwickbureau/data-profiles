@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_031"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Herald"
+date = "1906-03-02"
+pages = "8"
+
+[person.name]
+last = "Lewinson"
+use = "Hart"
+given = "Hart"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Western Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western Association"
+
+

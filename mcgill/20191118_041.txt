@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_041"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-08"
+pages = "5"
+
+[person.name]
+last = "Fowler"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

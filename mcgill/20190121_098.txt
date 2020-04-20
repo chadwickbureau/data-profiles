@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_098"
+
+[[person.meta.citation]]
+title = "Illustrated Buffalo Express"
+date = "1913-03-09"
+pages = "6"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "International League"
+
+

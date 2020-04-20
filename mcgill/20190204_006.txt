@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_006"
+
+[[person.meta.citation]]
+title = "The Dispatch"
+date = "1916-03-22"
+pages = "10"
+
+[person.name]
+last = "Cerny"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

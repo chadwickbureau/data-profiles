@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_064"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1908-01-25"
+pages = "8"
+
+[person.name]
+last = "Killeen S. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Wisconsin-Illinois League"
+
+

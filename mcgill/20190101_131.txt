@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_131"
+
+[[person.meta.citation]]
+title = "The Anaconda Standard"
+date = "1900-05-19"
+pages = "4"
+
+[person.name]
+last = "Cody"
+given = "J. W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1900"
+league.name = "Montana State League"
+
+

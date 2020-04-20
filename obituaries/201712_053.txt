@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_053"
+
+[[person.meta.citation]]
+title = "Dearth Funeral Home"
+date = "2017-12-11"
+url = "http://www.dearthfh.com/notices/George-Vargulich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-11"
+
+[person.name]
+last = "Vargulich"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1924-01-26"
+
+[person.death]
+date = "2017-12-09"
+place.country = "US"
+place.state = "PA"
+place.city = "New Salem"
+
+[person.burial]
+cemetery.name = "Holy Trinity Orthodox Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Salem"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

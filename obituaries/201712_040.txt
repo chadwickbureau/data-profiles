@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_040"
+
+[[person.meta.citation]]
+title = "Hanes Lineberry Funeral Home"
+date = "2017-12-18"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Jack-Hinkle&lc=7296&pid=187549946&mid=7681646"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-18"
+
+[person.name]
+last = "Hinkle"
+use = "Jack"
+given = "Gaston Edaniel"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-12-01"
+
+[person.death]
+date = "2017-12-15"
+
+[person.burial]
+cemetery.name = "Guilford Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Greensboro"
+

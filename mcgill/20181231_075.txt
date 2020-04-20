@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_075"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1905-07-07"
+pages = "8"
+
+[person.name]
+last = "McLaughlin"
+given = "M. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Cotton States League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_122"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-07-08"
+pages = "7"
+
+[person.name]
+last = "Bullock"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

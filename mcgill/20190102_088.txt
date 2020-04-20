@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_088"
+
+[[person.meta.citation]]
+title = "The Morning Tulsa Daily World"
+date = "1912-04-04"
+pages = "6"
+
+[person.name]
+last = "Fitzsimmons"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Southern Association"
+
+

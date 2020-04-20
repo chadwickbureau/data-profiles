@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_147"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-02"
+pages = "3"
+
+[person.name]
+last = "McGovern"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rutland"
+team.league.name = "Northern Independent League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Toronto"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Boston"
+team.league.name = "American League"
+
+

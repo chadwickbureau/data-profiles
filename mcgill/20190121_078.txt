@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_078"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1910-02-03"
+pages = "8"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "American Association"
+
+

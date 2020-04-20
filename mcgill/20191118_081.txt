@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_081"
+
+[[person.meta.citation]]
+title = "The Manhattan Mercury"
+date = "1910-06-20"
+pages = "3"
+
+[person.name]
+last = "Pierce"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

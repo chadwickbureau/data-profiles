@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_018"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-12"
+pages = "2"
+
+[person.name]
+last = "Flowers"
+use = "Buck"
+given = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+

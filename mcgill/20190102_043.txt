@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_043"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1907-07-10"
+pages = "7"
+
+[person.name]
+last = "Fox"
+use = "Daniel"
+given = "Daniel"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "New York State League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_052"
+
+[[person.meta.citation]]
+title = "Dunn Funeral Home"
+date = "2017-12-08"
+url = "http://www.dunnfuneralhome.com/obituaries/James-L-Studer?obId=2752466#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-08"
+
+[person.name]
+last = "Studer"
+use = "Jim"
+given = "James L."
+
+[person.birth]
+date = "1934-05-09"
+place.country = "US"
+place.state = "OH"
+place.city = "Whitehouse"
+
+[person.death]
+date = "2017-12-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Perrysburg"
+
+[person.burial]
+cemetery.name = "Whitehouse Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Whitehouse"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

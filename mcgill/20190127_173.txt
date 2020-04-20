@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_173"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-09"
+pages = "3"
+
+[person.name]
+last = "Donovan"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Northern Association"
+
+

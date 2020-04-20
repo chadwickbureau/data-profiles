@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_002"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1905-04-22"
+pages = "3"
+
+[person.name]
+last = "Voges"
+use = "Herman"
+given = "Herman"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1905"
+team.name = "Springfield"
+team.league.name = "Central League"
+title = "President"
+
+

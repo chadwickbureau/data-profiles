@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_047"
+
+[[person.meta.citation]]
+title = "Star Tribune"
+date = "2017-11-06"
+url = "http://www.startribune.com/former-twins-coach-rick-stelmaszek-dies-at-69/455680823/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-06"
+
+[person.name]
+last = "Stelmaszek"
+use = "Rick"
+given = "Rick"
+
+[person.death]
+date = "2017-11-06"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+

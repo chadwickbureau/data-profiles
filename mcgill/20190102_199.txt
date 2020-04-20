@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_199"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1920-03-11"
+pages = "4"
+
+[person.name]
+last = "Altezer"
+use = "Dave"
+given = "Dave A."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "American Association"
+
+

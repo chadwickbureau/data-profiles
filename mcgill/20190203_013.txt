@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_013"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-02-08"
+pages = "2"
+
+[person.name]
+last = "Donnelly"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.throws = "R"
+description.bats = "R"
+description.height = "71"
+description.weight = "170"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_138"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1909-05-27"
+pages = "8"
+
+[person.name]
+last = "Dominik"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+description.position = "P"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "1909-05-25"
+type = "released"
+leave.name = "Appleton"
+leave.league.name = "Wisconsin-Illinois"
+
+

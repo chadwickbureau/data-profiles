@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_017"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-05-17"
+pages = "3"
+
+[person.name]
+last = "Baird"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Carolina Association"
+
+

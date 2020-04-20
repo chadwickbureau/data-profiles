@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_076"
+
+[[person.meta.citation]]
+title = "The Indianapolis Star"
+date = "1912-02-20"
+pages = "8"
+
+[person.name]
+last = "Weddidge"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Central League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Ohio-Pennsylvania League"
+
+

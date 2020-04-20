@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_130"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1910-05-02"
+pages = "9"
+
+[person.name]
+last = "Myers"
+use = "John"
+given = "John H."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "PA"
+place.city = "Lancaster"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Tri-State"
+title = "Director"
+
+

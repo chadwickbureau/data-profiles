@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_168"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1907-05-01"
+pages = "3"
+
+[person.name]
+last = "Dawkins"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Cotton States League"
+
+

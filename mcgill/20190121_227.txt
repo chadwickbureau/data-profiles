@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_227"
+
+[[person.meta.citation]]
+title = "Salt Lake Telegram"
+date = "1931-01-17"
+pages = "4"
+
+[person.name]
+last = "Cady"
+use = "Forrest"
+given = "Forrest L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1931"
+league.name = "Pacific Coast League"
+
+

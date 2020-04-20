@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_034"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1906-07-17"
+pages = "2"
+
+[person.name]
+last = "Campau"
+use = "Count"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "<=1906"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "<=1906"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+

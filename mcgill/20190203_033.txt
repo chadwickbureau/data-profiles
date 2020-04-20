@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_033"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1912-06-24"
+pages = "2"
+
+[person.name]
+last = "Hafford"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1912"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<-1912"
+team.name = "Louisville"
+team.league.name = "American Association"
+
+

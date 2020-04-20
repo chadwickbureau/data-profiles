@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_014"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2014-01-10"
+url = "http://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=William-GETZ&pid=168993338"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-10"
+
+[person.name]
+last = "Getz"
+use = "Bill"
+given = "William Murray"
+
+[person.death]
+date = "2014-01-07"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+
+

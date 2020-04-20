@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_161"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1917-07-13"
+pages = "11"
+
+[person.name]
+last = "Browne"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "New York State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Western League"
+
+

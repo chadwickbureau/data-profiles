@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_009"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1906-04-25"
+pages = "3"
+
+[person.name]
+last = "Carson"
+given = "F. R."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1906"
+league.name = "Central League"
+title = "President"
+
+

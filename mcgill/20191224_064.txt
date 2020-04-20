@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_064"
+
+[[person.meta.citation]]
+title = "The Wichita Beacon"
+date = "1911-06-14"
+pages = "7"
+
+[person.name]
+last = "Rector"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "OK"
+place.city = "Enid"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+

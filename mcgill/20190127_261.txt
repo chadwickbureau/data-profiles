@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_261"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Callaghan"
+use = "Mike"
+given = "Mike"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "24"
+description.height = "72"
+description.weight = "160"
+description.throws = "R"
+description.bats = "S"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Galesburg"
+team.league.name = "Central Association"
+
+

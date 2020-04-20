@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_054"
+
+[[person.meta.citation]]
+title = "Altoona Times"
+date = "1908-03-11"
+pages = "9"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Tri-State League"
+
+

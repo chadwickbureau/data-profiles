@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_175"
+
+[[person.meta.citation]]
+title = "The Raleigh Times"
+date = "1909-03-15"
+pages = "2"
+
+[person.name]
+last = "Washington"
+given = "T. M"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilson"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Eastern Carolina"
+title = "President"
+
+

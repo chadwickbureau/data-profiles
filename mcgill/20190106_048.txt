@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_048"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1910-05-03"
+pages = "8"
+
+[person.name]
+last = "Tearney"
+use = "Al"
+given = "Al R."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Illinois-Indiana-Iowa"
+title = "President"
+
+

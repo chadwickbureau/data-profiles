@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_006"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2017-12-31"
+url = "http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=thomas-p-torchia-tommy&pid=187687418"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-31"
+
+[person.name]
+last = "Torchia"
+use = "Tommy"
+given = "Thomas P."
+
+[person.birth]
+date = "1924-01-20"
+place.country = "US"
+place.state = "NY"
+place.city = "Ithaca"
+
+[person.death]
+date = "2017-12-18"
+
+[[person.education]]
+school.name = "Sacramento HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

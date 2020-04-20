@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_039"
+
+[[person.meta.citation]]
+title = "Lyons Daily News"
+date = "1911-06-02"
+pages = "3"
+
+[person.name]
+last = "Clark"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

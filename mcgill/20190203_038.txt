@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_038"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1912-07-25"
+pages = "7"
+
+[person.name]
+last = "Coombs"
+use = "Chug"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

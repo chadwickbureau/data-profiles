@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_060"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1912-04-30"
+pages = "4"
+
+[person.name]
+last = "Wright"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+
+

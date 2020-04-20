@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_172"
+
+[[person.meta.citation]]
+title = "Salisbury (MD) Daily Times"
+date = "1971-10-19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-18"
+
+[person.name]
+last = "Kibler"
+use = "Tom"
+given = "Tom"
+
+[person.death]
+date = "1971-10-18"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_213"
+
+[[person.meta.citation]]
+title = "The Journal Times"
+date = "1912-11-12"
+pages = "9"
+
+[person.name]
+last = "Sheffield"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Oshkosh"
+team.league.name = "Wisconsin-Illinois League"
+
+

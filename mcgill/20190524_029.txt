@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_029"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-19"
+pages = "4"
+
+[person.name]
+last = "Culver"
+use = "Armour"
+given = "Armour"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

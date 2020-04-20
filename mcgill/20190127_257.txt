@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_257"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Kubat"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.education]]
+school.name = "Chicago University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "20"
+description.height = "68"
+description.weight = "160"
+description.throws = "L"
+description.bats = "L"
+
+

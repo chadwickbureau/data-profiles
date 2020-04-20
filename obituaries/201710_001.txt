@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_001"
+
+[[person.meta.citation]]
+title = "Moultrie Observer"
+date = "2017-10-20"
+url = "http://obituaries.moultrieobserver.com/obituary/edsel-f-ed-griffin-1925-2017-991169721"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-08-24"
+
+[person.name]
+last = "Griffin"
+use = "Ed"
+given = "Edsel Ford"
+
+[person.birth]
+date = "1925-12-29"
+place.country = "US"
+place.state = "GA"
+place.city = "Norman Park"
+
+[person.death]
+date = "2017-10-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Moultrie"
+
+[person.burial]
+cemetery.name = "Camp Ground Cemetery Mount Zion Church"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Morven"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

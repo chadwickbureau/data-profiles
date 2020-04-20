@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_041"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1912-07-30"
+pages = "3"
+
+[person.name]
+last = "Haddow"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

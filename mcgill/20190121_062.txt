@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_062"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Eagle-News"
+date = "1914-04-20"
+pages = "9"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "New England League"
+
+

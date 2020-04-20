@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_072"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1903-09-16"
+pages = "1"
+
+[person.name]
+last = "Christian"
+use = "Frank"
+given = "Frank R."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1903"
+team.name = "Pine Bluff"
+team.league.name = "Cotton States League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_150"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-10"
+pages = "1"
+
+[person.name]
+last = "Beach"
+use = "Harry"
+given = "Harry"
+
+[[person.alias]]
+name.last = "Ward"
+dates = "1906/1906"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Burlington"
+team.league.name = "Northern Independent League"
+
+

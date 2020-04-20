@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_239"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1910-04-30"
+pages = "15"
+
+[person.name]
+last = "Moyer"
+use = "Rpbert"
+given = "Rpbert"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Reading"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

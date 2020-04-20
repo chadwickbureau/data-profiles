@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_030"
+
+[[person.meta.citation]]
+title = "Meierhoffer Funeral Home"
+date = "2017-12-11"
+url = "http://www.meierhoffer.com/obituaries/David-L-Dave-Brown?obId=2767098#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-11"
+
+[person.name]
+last = "Brown"
+use = "Dave"
+given = "David L."
+
+[person.birth]
+date = "1929-08-11"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+[person.death]
+date = "2017-12-08"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+[person.burial]
+cemetery.name = "St. Joseph Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Joseph"
+
+[[person.education]]
+school.name = "Benton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Joseph"
+
+

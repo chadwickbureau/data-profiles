@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_254"
+
+[[person.meta.citation]]
+title = "The Daiky Gate City"
+date = "1915-08-08"
+pages = "6"
+
+[person.name]
+last = "Bierman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Keokuk"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.league.name = "Tri-State League"
+
+

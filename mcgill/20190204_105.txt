@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_105"
+
+[[person.meta.citation]]
+title = "Journal Gazette"
+date = "1906-03-13"
+pages = "1"
+
+[person.name]
+last = "Heermans"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "Matoon-Charleston"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+title = "Official Scorer"
+
+

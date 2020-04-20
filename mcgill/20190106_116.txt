@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_116"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1911-05-03"
+pages = "7"
+
+[person.name]
+last = "Hayes"
+use = "James"
+given = "James T."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1911"
+league.name = "Illinois-Indiana-Iowa League"
+title = "Vice President"
+
+

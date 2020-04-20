@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_019"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1910-05-10"
+pages = "4"
+
+[person.name]
+last = "Donovan"
+use = "Fred"
+given = "Fred"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Northern Association"
+
+

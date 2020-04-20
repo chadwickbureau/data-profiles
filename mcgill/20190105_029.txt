@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_029"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1910-04-14"
+pages = "8"
+
+[person.name]
+last = "Eckman"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_060"
+
+[[person.meta.citation]]
+title = "The Anaconda Standard"
+date = "1903-04-20"
+pages = "10"
+
+[person.name]
+last = "Walsworth"
+given = "W. W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Butte"
+team.league.name = "Pacific National League"
+title = "Official Scorer"
+
+

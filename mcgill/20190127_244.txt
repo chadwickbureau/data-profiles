@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_244"
+
+[[person.meta.citation]]
+title = "The Fort Wayne News"
+date = "1896-09-27"
+pages = "2"
+
+[person.name]
+last = "Thurston"
+use = "Earl"
+given = "Earl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1896"
+team.name = "Wheeling"
+team.league.name = "Interstate League"
+
+

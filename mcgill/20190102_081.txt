@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_081"
+
+[[person.meta.citation]]
+title = "The Owensboro Messenger"
+date = "1912-03-27"
+pages = "7"
+
+[person.name]
+last = "Nugent"
+use = "Ed"
+given = "Ed"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Kentucky-Indiana-Tennessee League"
+
+

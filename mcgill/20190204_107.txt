@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_107"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1906-03-20"
+pages = "7"
+
+[person.name]
+last = "Foote"
+use = "Amon"
+given = "Amon W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1902"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "Utica"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+

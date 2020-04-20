@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_031"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-06-15"
+pages = "6"
+
+[person.name]
+last = "Tribble"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+

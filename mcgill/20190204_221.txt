@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_221"
+
+[[person.meta.citation]]
+title = "New Castle Herald"
+date = "1910-04-12"
+pages = "2"
+
+[person.name]
+last = "Molesbach"
+given = "J. J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Akron"
+team.league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_029"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-01"
+pages = "3"
+
+[person.name]
+last = "Ramsey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-05-31"
+type = "released"
+leave.name = "Junction City"
+leave.league.name = "Central Kansas"
+
+[[person.transaction]]
+date = "1910-06-01"
+type = "signed"
+join.name = "Manhattan"
+join.league.name = "Central Kansas"
+
+

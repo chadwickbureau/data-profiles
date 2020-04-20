@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_027"
+
+[[person.meta.citation]]
+title = "Marshall Funeral Home"
+date = "2017-12-15"
+url = "http://www.marshallfuneralhomes.com/obituaries/William-Balcom-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Balcom"
+use = "Bill"
+given = "William E."
+
+[person.birth]
+date = "1935-12-20"
+place.country = "US"
+place.state = "OK"
+place.city = "San Springs"
+
+[person.death]
+date = "2017-12-03"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[person.burial]
+cemetery.name = "Alva Municipal Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Alva"
+
+[[person.education]]
+school.name = "Long Beach Polytechnic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Long Beach"
+
+

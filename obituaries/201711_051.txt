@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_051"
+
+[[person.meta.citation]]
+title = "Windsor Star"
+date = "2017-11-03"
+url = "http://windsorstar.com/news/local-news/legendary-basketball-coach-paul-doc-thomas-dead-at-91"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-06"
+
+[person.name]
+last = "Thomas"
+use = "Paul"
+given = "Paul"
+nick = "Doc"
+
+[person.death]
+date = "2017-11-02"
+
+[[person.education]]
+school.name = "Niagara Falls Collegiate Institute"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "ON"
+school.place.city = "Niagara Falls"
+
+[[person.education]]
+school.name = "University of Western Ontario"
+school.type = "college"
+
+

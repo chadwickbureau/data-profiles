@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_252"
+
+[[person.meta.citation]]
+title = "The Dispatch"
+date = "1911-05-02"
+pages = "10"
+
+[person.name]
+last = "Mulkem"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Waterloo"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

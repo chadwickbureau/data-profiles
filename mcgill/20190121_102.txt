@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_102"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1919-03-04"
+pages = "71"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+

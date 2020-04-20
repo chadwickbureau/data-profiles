@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_104"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-28"
+pages = "7"
+
+[person.name]
+last = "Hawk"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Tulsa"
+team.league.name = "Western Association"
+
+

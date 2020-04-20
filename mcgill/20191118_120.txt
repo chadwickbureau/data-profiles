@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_120"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-07-06"
+pages = "3"
+
+[person.name]
+last = "Woods"
+given = "C. B."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+
+

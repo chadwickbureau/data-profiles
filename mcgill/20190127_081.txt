@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_081"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Annis"
+use = "Bert"
+given = "Bert"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "Director"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_042"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1910-12-25"
+pages = "22"
+
+[person.name]
+last = "O'Connor"
+use = "Peter"
+given = "Peter"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Southern Michigan League"
+
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201311_005"
+
+[[person.meta.citation]]
+title = "Stamford Advocate"
+date = "2013-11-20"
+url = "https://www.legacy.com/obituaries/stamfordadvocate/obituary.aspx?n=Richard-HaggertyJr&pid=168087056"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-13"
+
+[person.name]
+last = "Haggerty"
+use = "Richard"
+given = "Richard W."
+suffix = "Jr."
+
+[person.birth]
+date = "1930-08-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Mount Vernon"
+
+[person.death]
+date = "2013-11-18"
+place.country = "US"
+place.state = "CT"
+place.city = "Stamford"
+
+[person.burial]
+cemetery.name = "St. John Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Darien"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

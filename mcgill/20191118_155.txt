@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_155"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-08-06"
+pages = "2"
+
+[person.name]
+last = "O'Brien"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "NY"
+place.city = "Plattsburgh"
+
+
+[[person.education]]
+school.name = "Yale University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Ottawa"
+team.league.name = "Northern Independent League"
+
+

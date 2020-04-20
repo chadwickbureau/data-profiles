@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_154"
+
+[[person.meta.citation]]
+title = "Buffalo Courier"
+date = "1903-04-02"
+pages = "13"
+
+[person.name]
+last = "Swartwood"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Eastern League"
+
+

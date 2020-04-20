@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_026"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-05-17"
+pages = "6"
+
+[person.name]
+last = "Boyd"
+use = "Smith"
+given = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+

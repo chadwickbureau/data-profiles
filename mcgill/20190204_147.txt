@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_147"
+
+[[person.meta.citation]]
+title = "The Buffalo Times"
+date = "1907-08-15"
+pages = "12"
+
+[person.name]
+last = "La Provost"
+use = "Estelle"
+given = "Estelle"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Clinton"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

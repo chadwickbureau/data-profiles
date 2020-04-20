@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_008"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times"
+date = "1906-02-02"
+pages = "8"
+
+[person.name]
+last = "Buckley"
+use = "William"
+given = "William"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "New York State League"
+
+

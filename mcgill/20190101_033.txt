@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_033"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1905-04-23"
+pages = "33"
+
+[person.name]
+last = "Caruthers"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western League"
+
+

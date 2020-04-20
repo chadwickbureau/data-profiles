@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_142"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1901-06-05"
+pages = "1"
+
+[person.name]
+last = "Miller"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1901"
+place.country = "US"
+place.state = "PA"
+place.city = "Easton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Pennsylvania State League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_083"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Varnell"
+given = "C. S."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "Director"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_044"
+
+[[person.meta.citation]]
+title = "Sagarino Funeral Home"
+date = "2017-11-16"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Daniel-Siracusa&lc=2487&pid=187205939&mid=7634332"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-16"
+
+[person.name]
+last = "Siracusa"
+use = "Daniel"
+given = "Daniel"
+suffix = "Sr."
+
+[person.birth]
+date = "1927-05-15"
+place.country = "US"
+place.state = "NY"
+place.city = "Staten Island"
+
+[person.death]
+date = "2017-11-09"
+place.country = "US"
+place.state = "CT"
+place.city = "Vernon"
+
+[[person.education]]
+school.name = "New Dorp HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Staten Island"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

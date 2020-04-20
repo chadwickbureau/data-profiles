@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_027"
+
+[[person.meta.citation]]
+title = "Greensboro News & Record"
+date = "2017-11-26"
+url = "http://www.greensboro.com/sports/greensboro-basketball-legend-cal-irvin-passes-away/article_9df7393c-ad2c-5edb-a340-49dca4c808a7.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-26"
+
+[person.name]
+last = "Irvin"
+use = "Cal"
+given = "Cal"
+
+[person.death]
+date = "2017-11-25"
+

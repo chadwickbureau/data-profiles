@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_133"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1915-04-28"
+pages = "15"
+
+[person.name]
+last = "Jacobs"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1915"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

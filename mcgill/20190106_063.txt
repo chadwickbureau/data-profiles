@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_063"
+
+[[person.meta.citation]]
+title = "The Courier"
+date = "1911-05-01"
+pages = "2"
+
+[person.name]
+last = "Core"
+given = "C. G."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "IA"
+place.city = "Rolfe"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Central Association"
+
+

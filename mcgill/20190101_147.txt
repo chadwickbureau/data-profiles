@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_147"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1901-07-11"
+pages = "2"
+
+[person.name]
+last = "Cauliflower"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Connecticut State League"
+
+

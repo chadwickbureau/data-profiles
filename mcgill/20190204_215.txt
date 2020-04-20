@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_215"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-04-27"
+pages = "9"
+
+[person.name]
+last = "Connors"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Dayton"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

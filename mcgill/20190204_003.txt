@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_003"
+
+[[person.meta.citation]]
+title = "The Journal Times"
+date = "1912-07-13"
+pages = "9"
+
+[person.name]
+last = "Campbell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Racine"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Fond du Loc"
+team.league.name = "Wisconsin-Illinois League"
+
+

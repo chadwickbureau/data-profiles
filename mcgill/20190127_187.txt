@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_187"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-07-08"
+pages = "6"
+
+[person.name]
+last = "Dobbins"
+use = "John"
+given = "John W."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Atlantic League"
+title = "President"
+
+

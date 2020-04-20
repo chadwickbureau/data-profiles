@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_123"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1907-04-02"
+pages = "10"
+
+[person.name]
+last = "Linn"
+use = "Turk"
+given = "Turk"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Fairmont"
+team.league.name = "Western Pennsylvania League"
+title = "Official Scorer"
+
+

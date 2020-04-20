@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_094"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Myers"
+use = "Bade"
+given = "Bade"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+

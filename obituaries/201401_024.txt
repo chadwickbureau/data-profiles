@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_024"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "2014-01-04"
+url = "http://www.legacy.com/obituaries/statesman/obituary.aspx?n=Herbert-Nauert&pid=168887629"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-04"
+
+[person.name]
+last = "Nauert"
+use = "Herbert"
+given = "Herbert Martin"
+suffix = "Jr."
+
+[person.birth]
+date = "1930-08-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Travis County"
+
+[person.death]
+date = "2014-01-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.burial]
+cemetery.name = "Capital Parks Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Pflugerville"
+
+[[person.education]]
+school.name = "Pflugerville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Pflugerville"
+dates = "/1948"
+
+

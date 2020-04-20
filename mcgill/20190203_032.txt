@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_032"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-06-22"
+pages = "2"
+
+[person.name]
+last = "Taylor"
+use = "Buck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_032"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1909-07-15"
+pages = "3"
+
+[person.name]
+last = "Whelan"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+

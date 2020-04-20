@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_063"
+
+[[person.meta.citation]]
+title = "Democrat and Chronicle"
+date = "1897-05-11"
+pages = "14"
+
+[person.name]
+last = "Daly"
+use = "John"
+given = "John J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1897"
+league.name = "New York State League"
+
+

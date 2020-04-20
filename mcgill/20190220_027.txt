@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_027"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1913-06-21"
+pages = "13"
+
+[person.name]
+last = "Topham"
+use = "Tippy"
+given = "Earl M."
+
+[[person.education]]
+school.name = "Bucknell"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1913-06-21"
+type = "signed"
+join.name = "Pittsburgh"
+join.league.name = "National"
+
+

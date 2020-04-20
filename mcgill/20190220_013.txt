@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_013"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Wilson"
+use = "Kiddo"
+given = "William"
+
+[person.birth]
+date = "1885-01-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Siouc City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

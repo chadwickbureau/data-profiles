@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_055"
+
+[[person.meta.citation]]
+title = "Fort Scott Tribune-Monitor"
+date = "1909-04-29"
+pages = "5"
+
+[person.name]
+last = "Finney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Fort Scott"
+team.league.name = "Kansas State League"
+
+

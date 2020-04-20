@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_002"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-03"
+pages = "3"
+
+[person.name]
+last = "Poor"
+use = "Jap"
+given = "Jap"
+
+[[person.alias]]
+name.last = "Wagner"
+name.use = "John"
+name.given = "John"
+dates = "1904/1904"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Kansas City"
+team.league.name = "American Association"
+description.position = "SS"
+
+

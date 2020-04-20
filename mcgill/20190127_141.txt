@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_141"
+
+[[person.meta.citation]]
+title = "The Oshkosh Northwestern"
+date = "1910-04-05"
+pages = "7"
+
+[person.name]
+last = "Wright"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1909"
+league.name = "Central League"
+
+

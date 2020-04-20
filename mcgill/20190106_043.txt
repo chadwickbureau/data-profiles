@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_043"
+
+[[person.meta.citation]]
+title = "The Fort Scott Daily Tribune and Monitor"
+date = "1905-05-13"
+pages = "4"
+
+[person.name]
+last = "Horath"
+use = "Tony"
+given = "Tony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Fort Scott"
+team.league.name = "Missouri Valley League"
+description.position = "3B"
+
+

@@ -1,0 +1,148 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18695"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18695"
+title = "The Sporting News Player Contract Cards, ScanID: 1004005378"
+
+[person.name]
+last = "Boerner"
+given = "George A."
+
+[person.description]
+position = "INF-OF"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "193"
+
+[person.birth]
+date = "1919-01-12"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[[person.resides]]
+place.address = "360 N. Lexington Parkway"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1941-07"
+type = "signed"
+join.name = "Columbus (GA)"
+note = "Columbus (GA) 1941-07"
+
+[[person.transaction]]
+date = "1941-08"
+type = "optioned"
+leave.name = "Columbus (GA)"
+join.name = "Cooleemee"
+note = "opt to Cooleemee 1941-08"
+
+[[person.transaction]]
+date = "1941-08"
+type = "recalled"
+leave.name = "Cooleemee"
+join.name = "Columbus (GA)"
+note = "rec by Columbus (GA) 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Columbus (GA)"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-05"
+type = "suspended"
+join.name = "Columbus (GA)"
+note = "susp 1942-05"
+
+[[person.transaction]]
+date = "1942-07"
+type = "reinstated"
+join.name = "Columbus (GA)"
+note = "rein 1942-07"
+
+[[person.transaction]]
+date = "1942-07"
+type = "voluntarily-retired"
+leave.name = "Columbus (GA)"
+note = "vol ret 1942-07"
+
+[[person.transaction]]
+date = "1942-08"
+type = "released"
+leave.name = "Columbus (GA)"
+join.name = "Decautur"
+note = "rel to Decautur 1942-08"
+
+[[person.transaction]]
+date = "1942-08"
+type = "reinstated"
+join.name = "Decautur"
+note = "rein 1942-08"
+
+[[person.transaction]]
+date = "1942-10"
+type = "military-service"
+join.name = "nat def service"
+note = "nat def service 1942-10"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Decatur"
+
+[[person.transaction]]
+date = "1943-02"
+type = "released"
+leave.name = "Decatur"
+join.name = "Columbus (OH)"
+note = "rel to Columbus (OH) 1943-02"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Columbus (OH)"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-02-07"
+type = "reinstated"
+join.name = "Columbus (OH)"
+note = "rein from service list 1947-02-07"
+
+[[person.transaction]]
+date = "1947-04-06"
+type = "released"
+leave.name = "Columbus (OH)"
+note = "rel 1947-04-06"
+
+[[person.transaction]]
+date = "1947-04-25"
+type = "signed"
+join.name = "Daytona Beach"
+note = "Daytona Beach 1947-04-25"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Daytona Beach"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1947-12-09"
+type = "released"
+leave.name = "Daytona Beach"
+note = "rel 1947-12-09"
+

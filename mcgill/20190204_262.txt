@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_262"
+
+[[person.meta.citation]]
+title = "The Scranton Republican"
+date = "1911-05-03"
+pages = "1"
+
+[person.name]
+last = "Briggs"
+given = "G. N."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Scranton"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_018"
+
+[[person.meta.citation]]
+title = "Smith Funeral Chapels"
+date = "2017-11-11"
+url = "http://www.smithfuneralchapels.com/book-of-memories/3300612/Glasgow-Colin/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-11"
+
+[person.name]
+last = "Glasgow"
+use = "Colin"
+given = "Colin F."
+
+[person.birth]
+date = "1925-05-21"
+place.country = "US"
+place.state = "MN"
+place.city = "Barnesville"
+
+[person.death]
+date = "2017-11-08"
+
+[[person.education]]
+school.name = "Barnesville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Barnesville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

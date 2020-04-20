@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_021"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1913-04-25"
+pages = "14"
+
+[person.name]
+last = "James"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

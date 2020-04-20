@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_016"
+
+[[person.meta.citation]]
+title = "The Herald Democrat"
+date = "2014-01-17"
+url = "http://www.legacy.com/obituaries/heralddemocrat/obituary.aspx?n=Bill-Harrison&pid=169134264"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-18"
+
+[person.name]
+last = "Harrison"
+use = "Bill"
+given = "Bill Darwin"
+
+[person.birth]
+date = "1937-12-17"
+place.country = "US"
+place.state = "OK"
+place.city = "Ardmore"
+
+[person.death]
+date = "2014-01-15"
+place.country = "US"
+place.state = "TX"
+place.city = "Whitewright"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Norman"
+
+[[person.education]]
+school.name = "Norman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Norman"
+
+[[person.education]]
+school.name = "Capitol Hill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Oklahoma City"
+
+

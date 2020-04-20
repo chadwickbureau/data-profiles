@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_049"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1907-06-24"
+pages = "2"
+
+[person.name]
+last = "Brown"
+use = "Tim"
+given = "Tim"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Tri-State League"
+
+

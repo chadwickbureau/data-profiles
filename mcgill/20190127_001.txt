@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_001"
+
+[[person.meta.citation]]
+title = "The Indianapolis Star"
+date = "1906-08-05"
+pages = "9"
+
+[person.name]
+last = "Chill"
+use = "Ollie"
+given = "Ollie"
+
+[[person.alias]]
+name.last = "Ryan"
+name.use = "Jack"
+name.given = "Jack"
+dates = "1906/1906"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Kentucky-Illinois-Tennessee League"
+
+

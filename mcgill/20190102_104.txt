@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_104"
+
+[[person.meta.citation]]
+title = "The Los Angeles Times"
+date = "1913-02-02"
+
+[person.name]
+last = "Finney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Pacific Coast League"
+
+

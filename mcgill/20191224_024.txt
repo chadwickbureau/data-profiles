@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_024"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-27"
+pages = "3"
+
+[person.name]
+last = "Garrett"
+use = "Lee"
+given = "Lee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.weight = "158"
+description.height = "70"
+description.age = "23"
+
+

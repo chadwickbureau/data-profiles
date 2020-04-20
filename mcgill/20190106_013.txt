@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_013"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat"
+date = "1901-04-14"
+pages = "6"
+
+[person.name]
+last = "Richardson"
+given = "L. F."
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Highland Park College"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_025"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-13"
+pages = "3"
+
+[person.name]
+last = "Tomlin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Laredo"
+team.league.name = "Southwest Texas League"
+
+

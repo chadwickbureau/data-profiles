@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_012"
+
+[[person.meta.citation]]
+title = "Greenwood Funeral Home"
+date = "2013-12-10"
+url = "http://greenwood.tributes.com/our_obituaries/Alvin-Edwin-Lichtenstein-97340749"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2013-12-13"
+
+[person.name]
+last = "Lichtenstein"
+use = "Al"
+given = "Alvin Edwin"
+
+[person.birth]
+date = "1930-09-01"
+
+[person.death]
+date = "2013-12-06"
+
+[[person.education]]
+school.name = "St. Aloysius HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "New Orleans"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_032"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1908-09-12"
+pages = "2"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Western Association"
+
+

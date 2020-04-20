@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_118"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1913-06-24"
+pages = "7"
+
+[person.name]
+last = "Degnan"
+use = "Thomas"
+given = "Thomas"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "NJ"
+place.city = "High Bridge"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "North Carolina State League"
+
+

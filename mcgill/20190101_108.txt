@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_108"
+
+[[person.meta.citation]]
+title = "The Sedalia Democrat"
+date = "1903-04-16"
+pages = "1"
+
+[person.name]
+last = "Carter"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1903"
+place.country = "US"
+place.state = "KS"
+place.city = "Pittsburg"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Missouri Valley League"
+
+

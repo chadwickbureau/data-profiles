@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_054"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1903-04-06"
+pages = "8"
+
+[person.name]
+last = "Mautner"
+use = "Isadore"
+given = "Isadore"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1903"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+title = "President"
+
+

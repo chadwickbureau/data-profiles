@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_122"
+
+[[person.meta.citation]]
+title = "The Vancouver Sun"
+date = "1914-06-12"
+pages = "8"
+
+[person.name]
+last = "Wheeler"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Northwestern League"
+
+

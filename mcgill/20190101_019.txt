@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_019"
+
+[[person.meta.citation]]
+title = "Tyrone Daily Herald"
+date = "1893-04-18"
+pages = "1"
+
+[person.name]
+last = "Hoffman"
+use = "Simon"
+given = "Simon"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1893"
+league.name = "Pennsylvania State League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_061"
+
+[[person.meta.citation]]
+title = "Mount Carmel Item"
+date = "1909-05-11"
+pages = "1"
+
+[person.name]
+last = "Quigley"
+use = "Thomas"
+given = "Thomas"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "PA"
+place.city = "Centralia"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Atlantic League"
+
+

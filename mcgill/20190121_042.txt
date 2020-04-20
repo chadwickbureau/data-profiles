@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_042"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1906-02-27"
+pages = "8"
+
+[person.name]
+last = "Laville"
+use = "Martin"
+given = "Martin"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Central League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Ohio-Pennsylvania League"
+
+

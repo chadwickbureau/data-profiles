@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_151"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1908-04-09"
+pages = "9"
+
+[person.name]
+last = "Haberer"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Dayton"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

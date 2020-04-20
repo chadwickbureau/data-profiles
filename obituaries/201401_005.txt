@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_005"
+
+[[person.meta.citation]]
+title = "Peoria Journal Star"
+date = "2014-01-21"
+url = "http://www.legacy.com/obituaries/pjstar/obituary.aspx?n=Donald-Alford&pid=169197596"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-21"
+
+[person.name]
+last = "Alford"
+use = "Don"
+given = "Donald Ray"
+
+[person.birth]
+date = "1929-09-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+[person.death]
+date = "2014-01-03"
+place.country = "US"
+place.state = "TX"
+place.city = "The Woodlands"
+
+[[person.education]]
+school.name = "Woodruff HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Peoria"
+
+[[person.education]]
+school.name = "Bradley University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Peoria"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

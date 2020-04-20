@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_074"
+
+[[person.meta.citation]]
+title = "The Times-Picayune"
+date = "1895-04-25"
+pages = "6"
+
+[person.name]
+last = "Quest"
+use = "Joe"
+given = "Joe"
+
+[[person.resides]]
+dates = "1895"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Southern Association"
+
+

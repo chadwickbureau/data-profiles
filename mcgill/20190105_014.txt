@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_014"
+
+[[person.meta.citation]]
+title = "The Star Press"
+date = "1904-03-14"
+pages = "5"
+
+[person.name]
+last = "Kane"
+use = "Stephen"
+given = "Stephen J."
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Central League"
+
+

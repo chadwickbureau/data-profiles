@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_070"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-20"
+pages = "5"
+
+[person.name]
+last = "Bacon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+

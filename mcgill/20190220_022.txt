@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_022"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1913-04-29"
+pages = "9"
+
+[person.name]
+last = "Hartley"
+use = "Chick"
+given = "Chick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

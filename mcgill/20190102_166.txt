@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_166"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1917-02-21"
+pages = "11"
+
+[person.name]
+last = "Johnston"
+use = "George"
+given = "George H."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "American Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "American Association"
+
+

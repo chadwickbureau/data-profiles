@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_011"
+
+[[person.meta.citation]]
+title = "The Star Press"
+date = "1908-05-17"
+pages = "9"
+
+[person.name]
+last = "Farnan"
+use = "Reddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Muncie"
+team.league.name = "Ohio-Indiana League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Adrian"
+team.league.name = "Michigan State League"
+
+

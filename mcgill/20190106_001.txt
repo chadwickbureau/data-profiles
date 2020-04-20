@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_001"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1909-05-07"
+pages = "8"
+
+[person.name]
+last = "Murphy"
+use = "Joe"
+given = "Joe"
+
+[person.description]
+note = [ "Resigned as Dubuque president 1909-05-06" ]
+
+[[person.affiliation]]
+type = "executive"
+dates = "1907"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1908"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

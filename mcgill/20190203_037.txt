@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_037"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1912-05-10"
+pages = "6"
+
+[person.name]
+last = "Brandon"
+use = "Rube"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+

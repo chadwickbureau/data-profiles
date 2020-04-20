@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_105"
+
+[[person.meta.citation]]
+title = "The Daily Review"
+date = "1912-08-24"
+pages = "5"
+
+[person.name]
+last = "Bush"
+use = "Garnett"
+given = "Garnett"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "National League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Michigan State League"
+
+

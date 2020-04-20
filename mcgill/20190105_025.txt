@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_025"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1908-02-07"
+pages = "4"
+
+[person.name]
+last = "Connolly"
+use = "Pipes"
+given = "John"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Central League"
+
+

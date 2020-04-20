@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_015"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-25"
+pages = "3"
+
+[person.name]
+last = "Gormley"
+use = "Gene"
+given = "Gene"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+

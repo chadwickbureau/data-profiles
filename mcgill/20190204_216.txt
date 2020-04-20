@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_216"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-04-27"
+pages = "9"
+
+[person.name]
+last = "Nuischlitz"
+use = "Earl"
+given = "Earl"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Evansville"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

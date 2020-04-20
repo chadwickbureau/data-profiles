@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_202"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Smith"
+use = "Roy"
+given = "Roy T."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_038"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "2013-12-31"
+url = "http://www.legacy.com/obituaries/readingeagle/obituary.aspx?n=edward-frazer&pid=168832859&fhid=23069&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-31"
+
+[person.name]
+last = "Frazer"
+use = "Edward"
+given = "Edward J."
+
+[person.birth]
+date = "1930-10-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Newmanstown"
+
+[person.death]
+date = "2013-12-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Lebanon"
+
+[person.burial]
+cemetery.name = "Christ Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Stouchsburg"
+
+[[person.education]]
+school.name = "Newmanstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Newmanstown"
+
+

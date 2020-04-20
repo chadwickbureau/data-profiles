@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_006"
+
+[[person.meta.citation]]
+title = "Chicago Suburban Daily Herald"
+date = "2014-01-06"
+url = "http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=ROBERT-SLENCAK&pid=163005478#fbLoggedOut"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-06"
+
+[person.name]
+last = "Balodimas"
+use = "Nick"
+given = "Nicholas J."
+
+[person.birth]
+date = "1943-04-27"
+
+[person.death]
+date = "2014-01-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Lake in the Hills"
+
+[person.burial]
+cemetery.name = "Naperville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Naperville"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "Eastern Illinois University"
+school.type = "college"
+
+

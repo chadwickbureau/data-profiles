@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_084"
+
+[[person.meta.citation]]
+title = "Abilene Daily Chronicle"
+date = "1909-06-16"
+pages = "4"
+
+[person.name]
+last = "Burke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Arkansas State League"
+
+

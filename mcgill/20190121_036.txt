@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_036"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre Times Leader"
+date = "1908-03-27"
+pages = "10"
+
+[person.name]
+last = "Conover"
+use = "Willard"
+given = "Willard"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Pennsylvania-New Jersey League"
+
+

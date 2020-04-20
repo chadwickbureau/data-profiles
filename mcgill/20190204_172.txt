@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_172"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1908-05-05"
+pages = "3"
+
+[person.name]
+last = "Goff"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

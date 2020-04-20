@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_026"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1912-07-17"
+pages = "6"
+
+[person.name]
+last = "Dimpfel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1912"
+team.league.name = "South Michigan League"
+
+

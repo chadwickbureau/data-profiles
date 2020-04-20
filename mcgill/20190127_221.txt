@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_221"
+
+[[person.meta.citation]]
+title = "The Journal Times"
+date = "1912-11-12"
+pages = "9"
+
+[person.name]
+last = "Ulrich"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+
+

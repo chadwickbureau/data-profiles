@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_051"
+
+[[person.meta.citation]]
+title = "El Dorado Daily Republican"
+date = "1911-06-09"
+pages = "6"
+
+[person.name]
+last = "Smith"
+use = "Jim"
+given = "Jim"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "KS"
+place.city = "Anthony"
+
+
+[[person.education]]
+school.name = "Kansas University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

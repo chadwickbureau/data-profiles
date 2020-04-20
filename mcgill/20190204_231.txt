@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_231"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1910-04-28"
+pages = "9"
+
+[person.name]
+last = "Henry"
+use = "Alexander"
+given = "Alexander"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+title = "Official Scorer"
+
+

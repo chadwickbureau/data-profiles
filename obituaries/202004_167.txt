@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_167"
+
+[[person.meta.citation]]
+title = "ESPN.com"
+date = "2020-04-15"
+url = "https://www.espn.com/mlb/story/_/id/29038959/former-blue-jays-2b-damaso-garcia-dies-63"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-17"
+
+[person.name]
+last = "Garcia"
+use = "Damaso"
+given = "Damaso"
+
+[person.death]
+date = "2020-04-15"
+place.country = "DO"
+

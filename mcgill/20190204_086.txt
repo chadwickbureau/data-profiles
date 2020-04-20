@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_086"
+
+[[person.meta.citation]]
+title = "The Leaf-Chronicle"
+date = "1904-05-04"
+pages = "1"
+
+[person.name]
+last = "Cummings"
+given = "W. H. Jr."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+title = "Official Scorer"
+
+

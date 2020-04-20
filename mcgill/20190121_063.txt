@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_063"
+
+[[person.meta.citation]]
+title = "The Paducah Sun"
+date = "1904-04-25"
+pages = "2"
+
+[person.name]
+last = "Bassett"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1903"
+team.name = "Hopkinsville"
+team.league.name = "Kentucky-Indiana-Tennessee League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Cotton States League"
+
+

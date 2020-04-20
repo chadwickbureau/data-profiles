@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_054"
+
+[[person.meta.citation]]
+title = "The Waxahachie Daily Light"
+date = "1914-06-20"
+pages = "5"
+
+[person.name]
+last = "Brice"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ennis"
+team.league.name = "Central Texas League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1914"
+team.name = "Hugo"
+team.league.name = "Texas-Oklahoma League"
+
+

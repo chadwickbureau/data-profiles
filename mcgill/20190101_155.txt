@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_155"
+
+[[person.meta.citation]]
+title = "The Inter Ocean"
+date = "1888-02-12"
+pages = "12"
+
+[person.name]
+last = "Brown"
+given = "D."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1888"
+league.name = "Central Interstate League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_063"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-08-05"
+pages = "4"
+
+[person.name]
+last = "Quinn"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

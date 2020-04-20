@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_026"
+
+[[person.meta.citation]]
+title = "Star Tribune"
+date = "2017-12-11"
+url = "http://m.startribune.com/obituaries/detail/232282/?fullname=roger-&-mary-anderson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-11"
+
+[person.name]
+last = "Anderson"
+use = "Roger"
+given = "Roger"
+
+[person.death]
+date = "2017-12-01"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"
+
+

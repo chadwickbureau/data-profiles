@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_019"
+
+[[person.meta.citation]]
+title = "MLB.com"
+date = "2017-11-26"
+url = "http://m.phillies.mlb.com/news/article/262394906/former-phils-rhp-miguel-alfredo-gonzalez-dies/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-26"
+
+[person.name]
+last = "Gonzalez"
+use = "Miguel"
+given = "Miguel Alfredo"
+
+[person.death]
+date = "2017-11-23"
+place.country = "CU"
+

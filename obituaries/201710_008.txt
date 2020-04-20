@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_008"
+
+[[person.meta.citation]]
+title = "Arlington Park Funeral Home"
+date = "2017-11-05"
+url = "http://www.arlingtonparkfuneralhome.com/book-of-memories/3262593/Davis-Eugene/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-05"
+
+[person.name]
+last = "Davis"
+use = "Gene"
+given = "Eugene Earl"
+
+[person.birth]
+date = "1934-05-01"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.death]
+date = "2017-10-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Jacksonville"
+
+[person.burial]
+cemetery.name = "Arlington Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Jacksonville"
+

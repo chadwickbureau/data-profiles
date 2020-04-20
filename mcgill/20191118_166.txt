@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_166"
+
+[[person.meta.citation]]
+title = "The Chattanooga News"
+date = "1909-09-24"
+pages = "10"
+
+[person.name]
+last = "Winters"
+use = "George"
+given = "George William"
+
+[person.birth]
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.height = "68"
+description.weight = "175"
+description.age = "34"
+
+

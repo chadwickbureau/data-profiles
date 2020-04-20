@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_062"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1909-08-05"
+pages = "6"
+
+[person.name]
+last = "Thompson"
+given = "C. E."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1909-08-04"
+type = "released"
+leave.name = "Abilene"
+leave.league.name = "Central Kansas"
+
+

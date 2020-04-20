@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_038"
+
+[[person.meta.citation]]
+title = "The Buffalo Times"
+date = "1907-02-11"
+pages = "10"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "MA"
+place.city = "Lynn"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Ohio-Pennsylvania League"
+
+

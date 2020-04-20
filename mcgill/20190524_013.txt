@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_013"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1909-07-05"
+pages = "5"
+
+[person.name]
+last = "Eberheardt"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1908"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+

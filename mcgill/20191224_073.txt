@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_073"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-20"
+pages = "3"
+
+[person.name]
+last = "Price"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+

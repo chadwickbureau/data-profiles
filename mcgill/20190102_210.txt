@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_210"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1921-03-04"
+pages = "12"
+
+[person.name]
+last = "Blythe"
+given = "J. E."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Piedmont League"
+
+

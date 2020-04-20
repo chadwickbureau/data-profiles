@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_009"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1910-05-23"
+pages = "4"
+
+[person.name]
+last = "Rice"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+description.position = "P"
+
+
+[[person.transaction]]
+date = "1910-05-23"
+type = "released"
+leave.name = "Manhattan"
+leave.league.name = "Central Kansas"
+
+

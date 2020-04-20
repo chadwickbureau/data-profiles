@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_008"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Patterson"
+use = "Thomas"
+given = "Thomas"
+
+[person.birth]
+date = "1879-04-23"
+place.country = "US"
+place.state = "IL"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "IA"
+place.city = "Fairweather"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+title = "President"
+
+

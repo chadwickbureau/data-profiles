@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_075"
+
+[[person.meta.citation]]
+title = "The Indianapolis Star"
+date = "1912-02-20"
+pages = "8"
+
+[person.name]
+last = "Groeschow"
+use = "Cuppy"
+given = "William F."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Central League"
+
+

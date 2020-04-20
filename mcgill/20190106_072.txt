@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_072"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-05-01"
+pages = "3"
+
+[person.name]
+last = "Stark"
+use = "Claud"
+given = "Claud"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

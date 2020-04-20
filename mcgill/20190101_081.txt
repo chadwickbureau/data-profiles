@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_081"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1904-12-24"
+pages = "9"
+
+[person.name]
+last = "Pfenninger"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Southern Association"
+
+

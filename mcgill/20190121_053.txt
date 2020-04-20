@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_053"
+
+[[person.meta.citation]]
+title = "The Marion Daily Mirror"
+date = "1907-07-17"
+pages = "6"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Ohio-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Youngstown"
+team.league.name = "Ohio-Pennsylvania League"
+
+

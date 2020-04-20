@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_165"
+
+[[person.meta.citation]]
+title = "San Diego Union Tribune"
+date = "2020-04-17"
+url = "https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=shannon-w-deniston&pid=195991290"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-17"
+
+[person.name]
+last = "Deniston"
+use = "Shan"
+given = "Shannon W."
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "Long Beach"
+
+[person.death]
+date = "2020-04-04"
+
+[[person.education]]
+school.name = "Alhambra HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Alhambra"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

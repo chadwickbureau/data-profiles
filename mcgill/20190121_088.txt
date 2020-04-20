@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_088"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1912-02-18"
+pages = "13"
+
+[person.name]
+last = "Chivington"
+use = "Thomas"
+given = "Thomas M."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1912"
+league.name = "American Association"
+title = "President"
+
+

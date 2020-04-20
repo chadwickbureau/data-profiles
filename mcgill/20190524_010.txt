@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_010"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1909-07-05"
+pages = "5"
+
+[person.name]
+last = "Horrell"
+use = "Will"
+given = "Will"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

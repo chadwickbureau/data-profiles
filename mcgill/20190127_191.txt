@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_191"
+
+[[person.meta.citation]]
+title = "The Baltimore Sun"
+date = "1911-08-06"
+pages = "14"
+
+[person.name]
+last = "Conway"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Virginia League"
+
+

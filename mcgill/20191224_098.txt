@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_098"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-07-12"
+pages = "3"
+
+[person.name]
+last = "Miller"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Kansas State League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_066"
+
+[[person.meta.citation]]
+title = "El Dorado Daily Republican"
+date = "1911-06-15"
+pages = "1"
+
+[person.name]
+last = "Ferrell"
+use = "Texas"
+given = "Texas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Coffeyville"
+team.league.name = "Western Association"
+
+

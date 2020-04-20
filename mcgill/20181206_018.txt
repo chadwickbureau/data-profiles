@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_018"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-01-04"
+pages = "7"
+
+[person.name]
+last = "Collins"
+given = "D. W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

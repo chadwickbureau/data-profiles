@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_046"
+
+[[person.meta.citation]]
+title = "Buffalo News"
+date = "2017-11-23"
+url = "http://buffalonews.com/2017/11/23/smolinski-philip-d/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-23"
+
+[person.name]
+last = "Smolinski"
+use = "Phil"
+given = "Philip D."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Boston"
+
+[person.death]
+date = "2017-11-16"
+place.country = "US"
+place.state = "FL"
+place.city = "Venice"
+
+[[person.education]]
+school.name = "Georgetown University"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Buffalo"
+school.type = "college"
+
+

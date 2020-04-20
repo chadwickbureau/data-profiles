@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_025"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-06-07"
+pages = "6"
+
+[person.name]
+last = "Collins"
+use = "Dan"
+given = "Dan W."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+
+[[person.transaction]]
+date = "1909-06-06"
+type = "released"
+leave.name = "Charlotte"
+leave.league.name = "Carolina Association"
+
+

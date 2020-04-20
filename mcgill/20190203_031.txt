@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_031"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-30"
+pages = "2"
+
+[person.name]
+last = "James"
+use = "Dud"
+given = "Dud"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "SC"
+place.city = "Greenville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.bats = "L"
+
+

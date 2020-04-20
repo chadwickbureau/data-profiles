@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_101"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1913-04-17"
+pages = "11"
+
+[person.name]
+last = "Lauzen"
+use = "Ed"
+given = "Ed"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Kentucky-Indiana-Tennessee League"
+
+

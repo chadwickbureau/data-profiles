@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_115"
+
+[[person.meta.citation]]
+title = "Beloit Daily Gazette"
+date = "1910-06-30"
+pages = "4"
+
+[person.name]
+last = "St. Johns"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

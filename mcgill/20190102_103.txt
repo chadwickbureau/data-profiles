@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_103"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Eagle-News"
+date = "1913-06-13"
+pages = "2"
+
+[person.name]
+last = "Dwyer"
+use = "William"
+given = "William"
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "New York-New Jersey League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_145"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1907-05-04"
+pages = "5"
+
+[person.name]
+last = "Ritchie"
+given = "L. J."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Akron"
+team.league.name = "Ohio-Pennsylvania League"
+title = "Official Scorer"
+
+

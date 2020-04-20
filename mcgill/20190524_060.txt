@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_060"
+
+[[person.meta.citation]]
+title = "The Muscatine Journal"
+date = "1913-12-12"
+pages = "16"
+
+[person.name]
+last = "Bromley"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Muscatine"
+team.league.name = "Central Association"
+
+

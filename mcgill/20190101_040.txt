@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_040"
+
+[[person.meta.citation]]
+title = "The Galveston Daily News"
+date = "1896-04-23"
+pages = "2"
+
+[person.name]
+last = "McGinnis"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1896"
+league.name = "Texas League"
+
+

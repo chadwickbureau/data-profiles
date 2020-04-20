@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_169"
+
+[[person.meta.citation]]
+title = "Pittsburgh Daily Post"
+date = "1917-02-21"
+pages = "11"
+
+[person.name]
+last = "Carney"
+given = "W. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "American Association"
+
+

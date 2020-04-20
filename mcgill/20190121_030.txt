@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_030"
+
+[[person.meta.citation]]
+title = "The Daily Record"
+date = "1907-05-30"
+pages = "4"
+
+[person.name]
+last = "Alberts"
+use = "Gud"
+given = "Gud"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Parsons"
+team.league.name = "Oklahoma-Arkansas-Kansas League"
+
+

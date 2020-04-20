@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_062"
+
+[[person.meta.citation]]
+title = "Abilene Daily Reflector"
+date = "1910-06-16"
+pages = "3"
+
+[person.name]
+last = "Sommers"
+use = "Herbert"
+given = "Herbert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

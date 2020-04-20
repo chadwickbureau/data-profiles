@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_010"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-10"
+pages = "2"
+
+[person.name]
+last = "Near"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Sapulpa"
+team.league.name = "Western Association"
+
+

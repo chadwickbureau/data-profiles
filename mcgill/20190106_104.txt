@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_104"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-03"
+pages = "7"
+
+[person.name]
+last = "Loftus"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

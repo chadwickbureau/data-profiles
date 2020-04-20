@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_016"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-04-29"
+pages = "3"
+
+[person.name]
+last = "Aiken"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

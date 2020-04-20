@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_007"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-14"
+pages = "3"
+
+[person.name]
+last = "Klose"
+given = "J."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "KS"
+place.city = "Pratt"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+description.position = "SS"
+
+

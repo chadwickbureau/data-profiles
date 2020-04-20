@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201706_004"
+
+[[person.meta.citation]]
+title = "Mainichi.JP"
+date = "2017-06-24"
+url = "https://mainichi.jp/articles/20170625/k00/00m/050/044000c"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-08"
+
+[person.name]
+last = "Nagai"
+use = "Tamotsu"
+given = "Tamotsu"
+
+[person.death]
+date = "2017-06-24"
+

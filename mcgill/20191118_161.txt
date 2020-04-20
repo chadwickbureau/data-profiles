@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_161"
+
+[[person.meta.citation]]
+title = "The Chattanooga News"
+date = "1909-09-24"
+pages = "10"
+
+[person.name]
+last = "Walker"
+use = "Scott"
+given = "Scott"
+
+[person.birth]
+place.country = "US"
+place.state = "IA"
+place.city = "Jamaica"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.height = "67"
+description.weight = "150"
+description.age = "23"
+
+

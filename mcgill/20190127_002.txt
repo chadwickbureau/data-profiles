@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_002"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1907-02-08"
+pages = "16"
+
+[person.name]
+last = "Chill"
+use = "Ollie"
+given = "Ollie"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Central League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_027"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1901-04-18"
+pages = "2"
+
+[person.name]
+last = "Horn"
+given = "A. G."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "Inter-Mountain"
+title = "Official Scorer"
+
+

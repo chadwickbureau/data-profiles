@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_022"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-05-19"
+pages = "3"
+
+[person.name]
+last = "Waters"
+nick = "Chick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Fayetteville"
+team.league.name = "Eastern Carolina League"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_015"
+
+[[person.meta.citation]]
+title = "Chattanooga Funeral Home"
+date = "2017-11-27"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Richard-Muckenthaler&lc=2371&pid=187307967&mid=7648200"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-27"
+
+[person.name]
+last = "Muckenthaler"
+use = "Rick"
+given = "Richard Joseph"
+
+[person.birth]
+date = "1953-06-23"
+
+[person.death]
+date = "2017-10-20"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Chattanooga"
+
+[[person.education]]
+school.name = "University of Tennessee at Chattanooga"
+school.type = "college"
+
+[[person.education]]
+school.name = "Carson-Newman University"
+school.type = "college"
+
+

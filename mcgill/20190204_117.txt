@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_117"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1906-05-07"
+pages = "3"
+
+[person.name]
+last = "Archer"
+given = "R. M."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "Wheeling"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

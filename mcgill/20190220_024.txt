@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_024"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1913-06-29"
+pages = "9"
+
+[person.name]
+last = "Striegel"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Sioux City"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Le Mars"
+team.place.country = "US"
+team.place.state = "SD"
+team.caliber = "semipro"
+
+

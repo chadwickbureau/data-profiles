@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_033"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat and Leader"
+date = "1906-06-18"
+pages = "6"
+
+[person.name]
+last = "McGreevy"
+use = "Eugene"
+given = "Eugene"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1906"
+team.name = "Bloomington"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1906"
+team.name = "Davenport"
+
+

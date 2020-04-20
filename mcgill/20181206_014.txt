@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_014"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-05-25"
+pages = "3"
+
+[person.name]
+last = "Cosmo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Erie"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

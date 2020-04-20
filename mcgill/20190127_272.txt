@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_272"
+
+[[person.meta.citation]]
+title = "The Vicksburg Herald"
+date = "1908-07-25"
+pages = "6"
+
+[person.name]
+last = "Boyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1908"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+

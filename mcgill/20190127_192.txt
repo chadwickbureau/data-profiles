@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_192"
+
+[[person.meta.citation]]
+title = "Star-Gazett"
+date = "1913-04-15"
+pages = "8"
+
+[person.name]
+last = "Johnson"
+use = "George"
+given = "George H."
+
+[[person.resides]]
+dates = "1913"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "New York State League"
+description.age = "27"
+description.height = "63"
+description.weight = "160"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Wisconsin-Illinois League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_028"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-05-17"
+pages = "6"
+
+[person.name]
+last = "McCarthy"
+use = "Thomas"
+given = "Thomas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.position = "P"
+
+

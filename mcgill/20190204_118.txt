@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_118"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1907-03-29"
+pages = "8"
+
+[person.name]
+last = "Rau"
+use = "William"
+given = "William A."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Freeport"
+team.league.name = "Wisconsin State League"
+title = "Official Scorer"
+
+

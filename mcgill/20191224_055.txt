@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_055"
+
+[[person.meta.citation]]
+title = "The Wellington Journal"
+date = "1911-06-12"
+pages = "1"
+
+[person.name]
+last = "Meade"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

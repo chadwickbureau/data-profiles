@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_162"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-04-05"
+pages = "8"
+
+[person.name]
+last = "Fellon"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "PA"
+place.city = "Easton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Atlantic League"
+
+

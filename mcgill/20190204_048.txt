@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_048"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1902-05-15"
+pages = "7"
+
+[person.name]
+last = "Eddy"
+given = "L. G."
+title = "Mrs."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1902"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_015"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Herald"
+date = "1904-04-29"
+pages = "2"
+
+[person.name]
+last = "Regan"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Missouri Valley League"
+
+

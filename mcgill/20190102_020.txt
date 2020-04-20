@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_020"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1910-05-10"
+pages = "4"
+
+[person.name]
+last = "Fleming"
+given = "D. F."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "CO"
+place.city = "Cheyenne Wells"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Northern Association"
+
+

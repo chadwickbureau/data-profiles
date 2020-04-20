@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_040"
+
+[[person.meta.citation]]
+title = "Denver Post"
+date = "2014-01-21"
+url = "http://www.legacy.com/obituaries/denverpost/obituary.aspx?n=Michael-Lucas&pid=169189871"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-21"
+
+[person.name]
+last = "Lucas"
+use = "Mike"
+given = "Michael Dale"
+
+[person.birth]
+date = "1935-08-15"
+place.country = "US"
+place.state = "CO"
+place.city = "Sterling"
+
+[person.death]
+date = "2013-12-30"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+[[person.education]]
+school.name = "University of Northern Colorado"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CO"
+school.place.city = "Greeley"
+
+

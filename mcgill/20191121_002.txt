@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_002"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-14"
+pages = "3"
+
+[person.name]
+last = "Keller"
+given = "E. S."
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Arkansas City"
+team.league.name = "Kansas State League"
+
+

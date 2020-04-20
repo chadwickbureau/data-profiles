@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_007"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-05"
+pages = "4"
+
+[person.name]
+last = "Neal"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+
+[[person.playing]]
+season = "1909"
+split.0.team.name = "@ US"
+split.1.team.name = "KS"
+split.2.team.name = "Smith Center"
+
+

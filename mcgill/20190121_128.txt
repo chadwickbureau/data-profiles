@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_128"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "1885-12-29"
+pages = "3"
+
+[person.name]
+last = "Carlin"
+use = "William"
+given = "William J."
+
+[[person.resides]]
+dates = "1885"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1886"
+league.name = "American Association"
+
+

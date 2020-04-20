@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_077"
+
+[[person.meta.citation]]
+title = "The Manhattan Mercury"
+date = "1910-06-20"
+pages = "3"
+
+[person.name]
+last = "Oswalt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-06-18"
+type = "released"
+leave.name = "Manhattan"
+leave.league.name = "Central Kansas"
+
+

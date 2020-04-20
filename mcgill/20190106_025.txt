@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_025"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1908-07-02"
+pages = "3"
+
+[person.name]
+last = "Wess"
+given = "W. W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+title = "Official Scorer"
+
+

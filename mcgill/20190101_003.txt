@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_003"
+
+[[person.meta.citation]]
+title = "The Brooklyn Daily Eagle"
+date = "1902-04-30"
+pages = "2"
+
+[person.name]
+last = "Snyder"
+use = "Charles"
+given = "Charles M."
+
+[[person.resides]]
+dates = "1902"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Eastern League"
+
+

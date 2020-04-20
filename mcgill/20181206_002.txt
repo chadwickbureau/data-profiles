@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_002"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-09-06"
+pages = "8"
+
+[person.name]
+last = "Eldridge"
+given = "J. M."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "NC"
+place.city = "Glenola"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+description.throws = "L"
+
+

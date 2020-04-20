@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_030"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Schmid"
+use = "Henry"
+given = "Henry"
+
+[person.birth]
+place.country = "US"
+place.state = "IN"
+place.city = "Madison"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "RF"
+description.height = "69"
+description.weight = "160"
+description.age = "26"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Tulsa"
+team.league.name = "Western Association"
+
+

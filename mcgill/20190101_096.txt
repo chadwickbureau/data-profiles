@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_096"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1909-01-28"
+pages = "13"
+
+[person.name]
+last = "Stafford"
+given = "J. E."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Eastern League"
+
+

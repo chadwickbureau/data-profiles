@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_209"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Davis"
+given = "J. L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Tri-State League"
+
+

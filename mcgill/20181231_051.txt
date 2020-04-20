@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_051"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1911-05-15"
+pages = "3"
+
+[person.name]
+last = "McLaughlin"
+given = "M. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Appalachian League"
+
+

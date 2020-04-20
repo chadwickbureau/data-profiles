@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_023"
+
+[[person.meta.citation]]
+title = "The Courier"
+date = "1909-07-30"
+pages = "8"
+
+[person.name]
+last = "Davie"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Quincy"
+team.league.name = "Central Association"
+
+

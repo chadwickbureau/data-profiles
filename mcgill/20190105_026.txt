@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_026"
+
+[[person.meta.citation]]
+title = "The San Francisco Examiner"
+date = "1909-02-02"
+pages = "10"
+
+[person.name]
+last = "Toman"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "Pacific"
+team.name = "Coast League"
+
+

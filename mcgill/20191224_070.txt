@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_070"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-19"
+pages = "3"
+
+[person.name]
+last = "Ornsby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+

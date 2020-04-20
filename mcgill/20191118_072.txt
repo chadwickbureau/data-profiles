@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_072"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-20"
+pages = "5"
+
+[person.name]
+last = "Parks"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

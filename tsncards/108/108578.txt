@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:108578"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/108578"
+title = "The Sporting News Player Contract Cards, ScanID: 1040000203"
+
+[person.name]
+last = "Schmidt"
+given = "John George"
+
+
+[[person.transaction]]
+date = "1952-02-17"
+type = "signed"
+join.name = "Wilmington (DE)"
+note = "Wilmington (DE) 1952-02-17"
+
+[[person.transaction]]
+date = "1952-04-21"
+type = "optioned"
+leave.name = "Wilmington (DE)"
+join.name = "Bradford"
+note = "opt to Bradford 1952-04-21"
+
+[[person.transaction]]
+date = "1952-05-26"
+type = "returned"
+leave.name = "Bradford"
+join.name = "Wilmington (DE)"
+note = "ret to Wilmington (DE) 1952-05-26"
+
+[[person.transaction]]
+date = "1952-05-26"
+type = "released"
+leave.name = "Wilmington (DE)"
+note = "rel 1952-05-26"
+

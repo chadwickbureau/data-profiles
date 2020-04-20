@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_001"
+
+[[person.meta.citation]]
+title = "The News-Herald"
+date = "1915-07-08"
+pages = "8"
+
+[person.name]
+last = "Brouthers"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lenoir"
+team.league.name = "Western North Carolina League"
+
+

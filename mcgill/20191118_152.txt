@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_152"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-17"
+pages = "3"
+
+[person.name]
+last = "Davis"
+use = "Dickey"
+given = "Dickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Montpelier-Barre"
+team.league.name = "Northern Independent League"
+
+

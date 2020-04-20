@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_102"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1905-05-10"
+pages = "8"
+
+[person.name]
+last = "Mackenzie"
+given = "A. G."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Salt Lake City"
+team.league.name = "Pacific National League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_086"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1911-03-13"
+pages = "2"
+
+[person.name]
+last = "Thiel"
+use = "Otto"
+given = "Otto"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Cotton States League"
+
+

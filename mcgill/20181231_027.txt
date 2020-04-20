@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_027"
+
+[[person.meta.citation]]
+title = "Democrat and Chronicle"
+date = "1897-06-29"
+pages = "10"
+
+[person.name]
+last = "Boyle"
+use = "James"
+given = "James D."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1897"
+league.name = "New York State League"
+
+

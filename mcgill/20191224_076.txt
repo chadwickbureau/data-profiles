@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_076"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-06-20"
+pages = "3"
+
+[person.name]
+last = "Ozee"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_047"
+
+[[person.meta.citation]]
+title = "The Manhattan Mercury"
+date = "1910-06-09"
+pages = "1"
+
+[person.name]
+last = "Gardiner"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-06-08"
+type = "released"
+leave.name = "Manhattan"
+leave.league.name = "Central Kansas"
+
+

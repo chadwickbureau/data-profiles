@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_245"
+
+[[person.meta.citation]]
+title = "The Clay Center Dispatch"
+date = "1910-05-12"
+pages = "7"
+
+[person.name]
+last = "Oberg"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+title = "Official Scorer"
+
+

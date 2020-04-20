@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_017"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-12"
+pages = "2"
+
+[person.name]
+last = "Fitzpatrick"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "NJ"
+place.city = "Hamilton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.bats = "L"
+description.throws = "L"
+description.height = "72"
+description.weight = "180"
+
+

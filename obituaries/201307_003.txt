@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201307_003"
+
+[[person.meta.citation]]
+title = "McCombs Funeral Home"
+date = "2014-01-12"
+url = "http://www.mccombsfuneralhome.com/fh/obituaries/obituary.cfm?o_id=2184562&fh_id=11431"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-01-10"
+
+[person.name]
+last = "Rellergert"
+use = "Ed"
+given = "Edgar H."
+
+[person.birth]
+date = "1929-05-29"
+place.country = "US"
+place.state = "MO"
+place.city = "Old Appleton"
+
+[person.death]
+date = "2013-07-31"
+place.country = "US"
+place.state = "MO"
+place.city = "Cape Girardeau"
+
+[person.burial]
+cemetery.name = "Russell Heights Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Jackson"
+

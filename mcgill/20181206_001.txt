@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_001"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-04-20"
+pages = "20"
+
+[person.name]
+last = "Drumm"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

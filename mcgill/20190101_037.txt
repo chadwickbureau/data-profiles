@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_037"
+
+[[person.meta.citation]]
+title = "The Daily Review"
+date = "1908-06-01"
+pages = "8"
+
+[person.name]
+last = "McFarland"
+use = "Monte"
+given = "Monte"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Illinois-Indiana-Iowa League"
+
+

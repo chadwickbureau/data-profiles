@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_086"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Wold"
+use = "Joseph"
+given = "Joseph"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "Director"
+
+

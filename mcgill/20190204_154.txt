@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_154"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1908-04-09"
+pages = "9"
+
+[person.name]
+last = "Jones"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

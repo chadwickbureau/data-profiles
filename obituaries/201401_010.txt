@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_010"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2014-01-05"
+url = "http://www.utsandiego.com/news/2014/jan/05/jerry-coleman-died-padres/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-05"
+
+[person.name]
+last = "Coleman"
+use = "Jerry"
+given = "Jerry"
+
+[person.death]
+date = "2014-01-05"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_059"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-15"
+pages = "3"
+
+[person.name]
+last = "Vitters"
+use = "Roland"
+given = "Roland"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

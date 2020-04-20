@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_068"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-06-17"
+pages = "4"
+
+[person.name]
+last = "Short"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+

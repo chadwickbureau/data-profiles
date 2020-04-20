@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_128"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1907-04-23"
+pages = "3"
+
+[person.name]
+last = "Carpenter"
+use = "Charles"
+given = "Charles F."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1907"
+team.name = "Tri-State"
+title = "President"
+
+

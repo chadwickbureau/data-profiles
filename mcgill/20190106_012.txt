@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_012"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat"
+date = "1901-04-14"
+pages = "6"
+
+[person.name]
+last = "Thurston"
+given = "N. F."
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "North Adams"
+team.league.name = "Massachusetts State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

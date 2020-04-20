@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_029"
+
+[[person.meta.citation]]
+title = "Journal News"
+date = "2017-12-03"
+url = "http://www.legacy.com/obituaries/lohud/obituary.aspx?n=charles-edwards-kerr&pid=187413921&fhid=2248"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-03"
+
+[person.name]
+last = "Kerr"
+use = "Chuck"
+given = "Charles Edward"
+
+[person.birth]
+date = "1938-01-19"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2017-11-30"
+place.country = "US"
+place.state = "NY"
+place.city = "Dobbs Ferry"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Hawthorne"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

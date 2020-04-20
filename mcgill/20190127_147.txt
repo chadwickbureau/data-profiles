@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_147"
+
+[[person.meta.citation]]
+title = "Milone Daily Dispatch"
+date = "1911-02-04"
+pages = "12"
+
+[person.name]
+last = "Cusack"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Illinois-Indiana-Iowa League"
+
+

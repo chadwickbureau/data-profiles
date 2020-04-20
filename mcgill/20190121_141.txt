@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_141"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1911-08-05"
+pages = "6"
+
+[person.name]
+last = "Carruthers"
+use = "Robert"
+given = "Robert"
+
+[person.death]
+date = "1911-08-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+

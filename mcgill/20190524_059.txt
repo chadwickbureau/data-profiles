@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_059"
+
+[[person.meta.citation]]
+title = "The Montgomery Advertiser"
+date = "1909-05-11"
+pages = "9"
+
+[person.name]
+last = "Debalt"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+
+
+[[person.transaction]]
+date = "1909-05-10"
+type = "purchased"
+leave.name = "Montgomery"
+leave.league.name = "Southern Association"
+join.name = "Jacksonville"
+join.league.name = "South Atlantic"
+
+

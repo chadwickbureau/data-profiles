@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_040"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2017-11-14"
+url = "http://www.legacy.com/ns/jim-rivera-obituary/187242801"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Rivera"
+use = "Jim"
+given = "Jim"
+nick = "Jungle Jim"
+
+[person.death]
+date = "2017-11-13"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_049"
+
+[[person.meta.citation]]
+title = "The Bakersfield Californian"
+date = "1912-04-23"
+pages = "5"
+
+[person.name]
+last = "Ziegler"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Californian State League"
+
+

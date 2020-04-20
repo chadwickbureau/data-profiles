@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_276"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1912-02-12"
+pages = "8"
+
+[person.name]
+last = "Brunner"
+use = "Allen"
+given = "Allen G."
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+
+

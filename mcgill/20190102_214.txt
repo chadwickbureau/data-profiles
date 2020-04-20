@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_214"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1921-04-21"
+pages = "7"
+
+[person.name]
+last = "Mahley"
+use = "Ed"
+given = "Ed"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "KS"
+place.city = "Coffeyville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Southwestern League"
+
+

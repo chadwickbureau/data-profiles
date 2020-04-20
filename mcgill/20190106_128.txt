@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_128"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1910-05-02"
+pages = "9"
+
+[person.name]
+last = "Clarke"
+given = "W. P."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Williamsport"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

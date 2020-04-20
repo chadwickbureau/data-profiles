@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_169"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1905-07-23"
+pages = "5"
+
+[person.name]
+last = "Dodd"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Pacific National League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Northwestern League"
+
+

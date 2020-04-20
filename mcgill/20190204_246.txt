@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_246"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1911-02-09"
+pages = "8"
+
+[person.name]
+last = "Weaver"
+use = "Frank"
+given = "Frank G."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Kalamazoo"
+team.league.name = "Southern Michigan League"
+title = "Official Scorer"
+
+

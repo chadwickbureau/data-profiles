@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_035"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1902-03-26"
+pages = "3"
+
+[person.name]
+last = "Frank"
+use = "Aaron"
+given = "Aaron"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1902"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+title = "President"
+
+

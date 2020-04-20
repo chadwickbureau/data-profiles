@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_014"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-02-08"
+pages = "2"
+
+[person.name]
+last = "Watson"
+given = "W. W."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "SC"
+place.city = "Piedmont"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.throws = "L"
+description.bats = "L"
+description.height = "71"
+description.weight = "165"
+
+

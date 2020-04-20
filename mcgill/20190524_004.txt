@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_004"
+
+[[person.meta.citation]]
+title = "Ellsworth Messenger"
+date = "1909-07-01"
+pages = "4"
+
+[person.name]
+last = "Davis"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

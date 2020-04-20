@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_088"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1902-03-14"
+pages = "16"
+
+[person.name]
+last = "Tindell"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = ""
+place.country = "1902 US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Western League"
+
+

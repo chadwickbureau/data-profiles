@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_051"
+
+[[person.meta.citation]]
+title = "The Sedalia Democrat"
+date = "1903-03-13"
+pages = "2"
+
+[person.name]
+last = "Patterson"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Sedalia"
+team.league.name = "Missouri Valley League"
+title = "Official Scorer"
+
+

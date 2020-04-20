@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_021"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2014-01-04"
+url = "http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=Richard-Mesa&pid=168889040"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-04"
+
+[person.name]
+last = "Mesa"
+use = "Pete"
+given = "Richard Peter"
+
+[person.birth]
+date = "1929-08-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Monica"
+
+[person.death]
+date = "2014-01-02"
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_085"
+
+[[person.meta.citation]]
+title = "The Leaf-Chronicle"
+date = "1904-05-04"
+pages = "1"
+
+[person.name]
+last = "Ward"
+given = "V. H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Clarksville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+title = "Official Scorer"
+
+

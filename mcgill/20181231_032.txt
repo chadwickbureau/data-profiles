@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_032"
+
+[[person.meta.citation]]
+title = "The Pantagraph"
+date = "1897-04-20"
+pages = "1"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1897"
+league.name = "Western Association"
+
+

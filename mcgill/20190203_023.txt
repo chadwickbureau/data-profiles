@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_023"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1912-06-26"
+pages = "6"
+
+[person.name]
+last = "Powell"
+use = "Bull"
+given = "Bull"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.position = "C"
+
+

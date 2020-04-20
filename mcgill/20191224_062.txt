@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_062"
+
+[[person.meta.citation]]
+title = "The Walnut Valley News"
+date = "1911-06-13"
+pages = "3"
+
+[person.name]
+last = "Lancaster"
+use = "Eddie"
+given = "Eddie"
+nick = "Slim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+

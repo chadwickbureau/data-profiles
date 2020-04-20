@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_220"
+
+[[person.meta.citation]]
+title = "The Ogden Standard-Examiner"
+date = "1930-02-11"
+pages = "15"
+
+[person.name]
+last = "Cady"
+use = "Forrest"
+given = "Forrest L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1930"
+league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1929"
+league.name = "Pacific Coast League"
+
+

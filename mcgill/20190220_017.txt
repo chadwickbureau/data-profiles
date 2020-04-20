@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_017"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Hartman"
+use = "Charles"
+given = "Charles"
+
+[person.birth]
+date = "1887-01-01"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Pottsville"
+team.league.name = "Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "1908"
+type = "drafted"
+join.name = "Philadelphia"
+join.league.name = "American"
+
+

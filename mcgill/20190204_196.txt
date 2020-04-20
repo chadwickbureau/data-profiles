@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_196"
+
+[[person.meta.citation]]
+title = "The Daily Sentinel"
+date = "1909-04-26"
+pages = "4"
+
+[person.name]
+last = "Harvey"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+title = "Official Scorer"
+
+

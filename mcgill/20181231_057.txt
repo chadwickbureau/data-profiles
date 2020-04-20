@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_057"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1895-03-13"
+pages = "1"
+
+[person.name]
+last = "Doescher"
+use = "Herman"
+given = "Herman"
+
+[[person.resides]]
+dates = "1895"
+place.country = "US"
+place.state = "NY"
+place.city = "Binghamton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Eastern League"
+
+

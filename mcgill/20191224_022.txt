@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_022"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-26"
+pages = "3"
+
+[person.name]
+last = "Salm"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

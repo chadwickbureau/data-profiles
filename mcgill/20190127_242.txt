@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_242"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1913-10-18"
+pages = "10"
+
+[person.name]
+last = "Mathews"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Evansville"
+team.league.name = "Central League"
+
+

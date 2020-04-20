@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_030"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-06-02"
+pages = "5"
+
+[person.name]
+last = "Eckert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-06-02"
+type = "released"
+leave.name = "Beloit"
+leave.league.name = "Central Kansas"
+
+

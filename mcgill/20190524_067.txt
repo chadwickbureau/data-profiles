@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_067"
+
+[[person.meta.citation]]
+title = "Abilene Daily Chronicle"
+date = "1909-08-17"
+pages = "4"
+
+[person.name]
+last = "Bankhead"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+
+

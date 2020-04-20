@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_159"
+
+[[person.meta.citation]]
+title = "The Daily Review"
+date = "1908-04-11"
+pages = "4"
+
+[person.name]
+last = "McCart"
+given = "D. F."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Taylorville"
+team.league.name = "Eastern Illinois League"
+title = "Official Scorer"
+
+

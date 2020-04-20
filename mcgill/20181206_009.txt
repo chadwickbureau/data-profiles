@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_009"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-03-23"
+pages = "9"
+
+[person.name]
+last = "Riley"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

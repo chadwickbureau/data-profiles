@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_022"
+
+[[person.meta.citation]]
+title = "Abilene Daily Reflector"
+date = "1909-06-05"
+pages = "3"
+
+[person.name]
+last = "Siegler"
+given = "S. W."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Central Kansas League"
+
+

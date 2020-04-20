@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_005"
+
+[[person.meta.citation]]
+title = "Star-Gazette"
+date = "1916-07-15"
+pages = "2"
+
+[person.name]
+last = "Casey"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Rochester"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Providence"
+team.league.name = "International League"
+
+

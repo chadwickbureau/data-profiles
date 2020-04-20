@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_021"
+
+[[person.meta.citation]]
+title = "Hagan-Chamberlain Funeral Home"
+date = "2017-10-30"
+url = "http://hagan-chamberlain.com/tribute/details/471/Donald-Weigand/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-30"
+
+[person.name]
+last = "Weigand"
+use = "Donald"
+given = "Donald H."
+
+[person.birth]
+date = "1931"
+place.country = "US"
+place.state = "NJ"
+place.city = "High Bridge"
+
+[person.death]
+date = "2017-10-20"
+place.country = "US"
+place.state = "NJ"
+place.city = "Martinsville"
+
+[[person.education]]
+school.name = "High Bridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "High Bridge"
+
+

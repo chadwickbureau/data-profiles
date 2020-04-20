@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_033"
+
+[[person.meta.citation]]
+title = "Star Tribune"
+date = "1910-05-08"
+pages = "38"
+
+[person.name]
+last = "Anderson"
+use = "Ollie"
+given = "Ollie"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MN"
+place.city = "Wilmar"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Minnesota-Wisconsin League"
+
+

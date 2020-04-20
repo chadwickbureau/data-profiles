@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_009"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-17"
+pages = "3"
+
+[person.name]
+last = "Ketter"
+use = "Phil"
+given = "Phil"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

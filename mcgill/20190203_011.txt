@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_011"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-03-28"
+pages = "2"
+
+[person.name]
+last = "Pettit"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "NC"
+place.city = "Pinnacle"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.weight = "185"
+
+

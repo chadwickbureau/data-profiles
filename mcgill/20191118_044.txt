@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_044"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-06-09"
+pages = "8"
+
+[person.name]
+last = "White"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+

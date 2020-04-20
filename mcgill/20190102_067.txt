@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_067"
+
+[[person.meta.citation]]
+title = "The Baltimore Sun"
+date = "1911-02-05"
+pages = "7"
+
+[person.name]
+last = "Rudderham"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Eastern League"
+
+

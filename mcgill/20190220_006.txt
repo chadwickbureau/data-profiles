@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_006"
+
+[[person.meta.citation]]
+title = "The Fort Scott Republican"
+date = "1905-05-26"
+pages = "1"
+
+[person.name]
+last = "Mason"
+use = "Home Run"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Fort Scott"
+team.league.name = "Missouri Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Vinita"
+team.league.name = "Missouri Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Oklahoma City"
+team.league.name = "Southwestern League"
+
+

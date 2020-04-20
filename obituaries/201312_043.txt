@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_043"
+
+[[person.meta.citation]]
+title = "Johnstown Tribune-Democrat"
+date = "2013-12-23"
+url = "http://www.tribune-democrat.com/obituaries/x1956139664/William-L-Tremel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-30"
+
+[person.name]
+last = "Tremel"
+use = "Bill"
+given = "William L."
+
+[person.birth]
+date = "1929-07-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Lilly"
+
+[person.death]
+date = "2013-12-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Hollidaysburg"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Altoona"
+
+[[person.education]]
+school.name = "Lilly HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Lilly"
+
+

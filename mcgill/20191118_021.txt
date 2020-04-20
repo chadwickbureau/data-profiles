@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_021"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-05-26"
+pages = "3"
+
+[person.name]
+last = "Wright"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-05-25"
+type = "released"
+leave.name = "Junction City"
+leave.league.name = "Central Kansas"
+
+

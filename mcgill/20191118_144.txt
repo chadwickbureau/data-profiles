@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_144"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-06-22"
+pages = "3"
+
+[person.name]
+last = "Paine"
+
+[[person.education]]
+school.name = "Brown University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Plattsburgh"
+team.league.name = "Northern Independent League"
+
+

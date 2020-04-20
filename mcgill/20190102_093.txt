@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_093"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1912-06-26"
+pages = "9"
+
+[person.name]
+last = "Oliver"
+use = "Charles"
+given = "Charles"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "OK"
+place.city = "Holdenville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Oklahoma State League"
+
+

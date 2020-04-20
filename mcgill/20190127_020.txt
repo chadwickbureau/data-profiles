@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_020"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1908-06-10"
+pages = "6"
+
+[person.name]
+last = "Hannon"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Tri-State League"
+
+

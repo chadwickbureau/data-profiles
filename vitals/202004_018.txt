@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_018"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-18"
+
+[person.name]
+last = "Boerner"
+use = "George"
+given = "George Albert"
+suffix = "Jr."
+
+[person.birth]
+date = "1917-01-12"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[person.death]
+date = "2005-04-30"
+
+[person.sameas]
+ssn = "701-18-9719"
+

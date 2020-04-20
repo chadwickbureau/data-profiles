@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_249"
+
+[[person.meta.citation]]
+title = "The San Bernadino County Sun"
+date = "1936-08-03"
+
+[person.name]
+last = "Woodall"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1936"
+league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "San Francisco"
+team.league.name = "Pacific Coast League"
+description.position = "C"
+
+

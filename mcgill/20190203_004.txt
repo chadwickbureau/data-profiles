@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_004"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-03-09"
+pages = "10"
+
+[person.name]
+last = "Howard"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+

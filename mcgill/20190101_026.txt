@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_026"
+
+[[person.meta.citation]]
+title = "Evening Star"
+date = "1895-03-12"
+pages = "11"
+
+[person.name]
+last = "McDermott"
+use = "Sandy"
+given = "Sandy"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Western League"
+
+

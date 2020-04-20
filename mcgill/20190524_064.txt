@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_064"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-08-05"
+pages = "4"
+
+[person.name]
+last = "Green"
+use = "Gerald"
+given = "Gerald"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KS"
+place.city = "Burr Oak"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1909-08-04"
+type = "released"
+leave.name = "Beloit"
+leave.league.name = "Central Kansas"
+
+

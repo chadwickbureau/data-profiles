@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_034"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Esola"
+use = "Joseph"
+given = "Joseph"
+
+[person.birth]
+date = "1890-05-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Amador City"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.weight = "148"
+description.height = "65.5"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Portland"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "San Jose"
+team.league.name = "California League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Vallejo"
+team.league.name = "California League"
+
+

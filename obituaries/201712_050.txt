@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_050"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2017-12-08"
+url = "https://www.nytimes.com/2017/12/08/obituaries/tracy-stallard-who-gave-up-historic-maris-homer-dies-at-80.html?_r=0"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-09"
+
+[person.name]
+last = "Stallard"
+use = "Tracy"
+given = "Evart Tracy"
+
+[person.birth]
+date = "1937-08-31"
+place.country = "US"
+place.state = "VA"
+place.city = "Coeburn"
+
+[person.death]
+date = "2017-12-06"
+place.country = "US"
+place.state = "TN"
+place.city = "Kingsport"
+

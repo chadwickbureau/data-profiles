@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_134"
+
+[[person.meta.citation]]
+title = "The Asheville Citizen-Times"
+date = "1897-05-10"
+pages = "1"
+
+[person.name]
+last = "Craig"
+use = "Hugh"
+given = "Hugh"
+
+[[person.resides]]
+dates = "1897"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1897"
+league.name = "Southeastern League"
+
+

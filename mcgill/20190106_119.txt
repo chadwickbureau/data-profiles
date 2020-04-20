@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_119"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1911-05-03"
+pages = "7"
+
+[person.name]
+last = "Casteel"
+given = "L. M."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1911"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Secretary/Treasurer"
+
+

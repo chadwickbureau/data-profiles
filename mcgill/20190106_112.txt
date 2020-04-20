@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_112"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1903-05-03"
+pages = "8"
+
+[person.name]
+last = "Lane"
+use = "Dick"
+given = "Dick R."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1910"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

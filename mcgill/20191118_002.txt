@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_002"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-05-19"
+pages = "8"
+
+[person.name]
+last = "Williams"
+use = "Sandy"
+given = "Sandy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

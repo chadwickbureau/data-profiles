@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_181"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-07-08"
+pages = "6"
+
+[person.name]
+last = "Moore"
+use = "Ezra"
+given = "Ezra"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Mount Carmel"
+team.league.name = "Atlantic League"
+
+

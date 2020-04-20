@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_004"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-05"
+pages = "2"
+
+[person.name]
+last = "Graves"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Coffeyville"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_116"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-07-02"
+pages = "5"
+
+[person.name]
+last = "Bankhead"
+use = "Cecil"
+given = "Cecil"
+
+[[person.relation]]
+relationship = "grandson of"
+person.name.last = "Bankhead"
+person.name.use = "Jack"
+person.name.given = "Jack"
+
+

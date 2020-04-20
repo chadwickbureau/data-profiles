@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_138"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1901-06-05"
+pages = "1"
+
+[person.name]
+last = "Dean"
+given = "W. S."
+
+[[person.resides]]
+dates = "1901"
+place.country = "US"
+place.state = "PA"
+place.city = "Lancaster"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Pennsylvania State League"
+
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_126"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1889-04-26"
+pages = "1"
+
+[person.name]
+last = "Houser"
+given = "B. J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1889"
+league.name = "Middle States League"
+
+

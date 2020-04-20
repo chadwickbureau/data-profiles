@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_130"
+
+[[person.meta.citation]]
+title = "Concordia Blade-Empire"
+date = "1910-07-15"
+pages = "1"
+
+[person.name]
+last = "Drew"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-07-15"
+type = "released"
+leave.name = "Concordia"
+leave.league.name = "Central Kansas"
+
+

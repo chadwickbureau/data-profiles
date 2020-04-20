@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_110"
+
+[[person.meta.citation]]
+title = "The Indianapolis News"
+date = "1914-03-19"
+pages = "13"
+
+[person.name]
+last = "Mannasau"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Federal League"
+
+

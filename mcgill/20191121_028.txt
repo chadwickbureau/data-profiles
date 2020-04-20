@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_028"
+
+[[person.meta.citation]]
+title = "The Evening Kansan-Republican"
+date = "1911-05-15"
+pages = "6"
+
+[person.name]
+last = "White"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+

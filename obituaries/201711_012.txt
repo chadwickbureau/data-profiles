@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_012"
+
+[[person.meta.citation]]
+title = "Lafond-Ardoin Funeral Home"
+date = "2017-11-14"
+url = "http://www.lafondardoin.com/memorialpage.asp?page=odetail&id=80813&locid=6"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Couvillion"
+use = "Ray"
+given = "Raymond Cecil"
+
+[person.birth]
+date = "1925-07-31"
+
+[person.death]
+date = "2017-11-12"
+place.country = "US"
+place.state = "LA"
+place.city = "Opelousas"
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Washington"
+

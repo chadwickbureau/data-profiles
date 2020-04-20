@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_167"
+
+[[person.meta.citation]]
+title = "Chattanooga Daily Times"
+date = "1922-12-24"
+pages = "15"
+
+[person.name]
+last = "Lafitte"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

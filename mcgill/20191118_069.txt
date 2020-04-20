@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_069"
+
+[[person.meta.citation]]
+title = "The Dispatch-Republican"
+date = "1910-06-17"
+pages = "1"
+
+[person.name]
+last = "Jewell"
+use = "Stony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

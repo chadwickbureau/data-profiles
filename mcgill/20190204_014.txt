@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_014"
+
+[[person.meta.citation]]
+title = "The Dispatch"
+date = "1916-06-30"
+pages = "14"
+
+[person.name]
+last = "Crissman"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

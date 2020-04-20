@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_089"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Grant"
+given = "A. A."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "South Bend"
+team.league.name = "Central League"
+
+

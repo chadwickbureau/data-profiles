@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_036"
+
+[[person.meta.citation]]
+title = "Brenna Funeral Home"
+date = "2013-12-30"
+url = "http://www.brennafuneralhome.com/fh/obituaries/obituary.cfm?o_id=2362097&fh_id=12057"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-30"
+
+[person.name]
+last = "Chianese"
+use = "Carl"
+given = "Carl J."
+
+[person.birth]
+date = "1934-02-12"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "2013-12-26"
+place.country = "US"
+place.state = "SC"
+place.city = "Myrtle Beach"
+
+[[person.education]]
+school.name = "Trenton Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Trenton"
+
+

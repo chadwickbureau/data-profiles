@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_078"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Carson"
+given = "F. R."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+league.name = "Central League"
+title = "President"
+
+

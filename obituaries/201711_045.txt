@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_045"
+
+[[person.meta.citation]]
+title = "Thompson Funeral Home"
+date = "2017-12-15"
+url = "http://www.thompsonsfuneral.com/obituaries/Daniel-Smigay/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Smigay"
+use = "Daniel"
+given = "Daniel Bernard"
+
+[person.birth]
+date = "1930-07-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+
+[person.death]
+date = "2017-11-29"
+
+[person.burial]
+cemetery.name = "Woodbridge Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Lexington"
+
+[[person.education]]
+school.name = "Joliet HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Joliet"
+
+[[person.education]]
+school.name = "Arkansas State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

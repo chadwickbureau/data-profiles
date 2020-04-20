@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_248"
+
+[[person.meta.citation]]
+title = "The Evening Review"
+date = "1911-03-13"
+pages = "6"
+
+[person.name]
+last = "Simon"
+use = "Ralph"
+given = "Ralph Roscoe"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "PA"
+place.city = "Clarks Mills"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Youngstown"
+team.league.name = "Ohio-Pennsylvania League"
+description.age = "21"
+description.weight = "175"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Meadville"
+team.caliber = "amateur"
+
+

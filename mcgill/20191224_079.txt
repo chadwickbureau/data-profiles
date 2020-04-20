@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_079"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-06-21"
+pages = "3"
+
+[person.name]
+last = "Parrott"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Independence"
+team.league.name = "Western Association"
+
+

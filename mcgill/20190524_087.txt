@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_087"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-04-15"
+pages = "1"
+
+[person.name]
+last = "Irwin"
+given = "P. C."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

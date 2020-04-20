@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_010"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "2017-11-10"
+url = "http://www.legacy.com/obituaries/tucson/obituary.aspx?n=dave-casanega-cachas&pid=187201753"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-10"
+
+[person.name]
+last = "Casanega"
+use = "Dave"
+given = "Dave"
+nick = "Cachas"
+
+[person.birth]
+date = "1934-03-13"
+place.country = "US"
+place.state = "AZ"
+place.city = "Nogales"
+
+[person.death]
+date = "2017-11-07"
+
+[[person.education]]
+school.name = "Nogales HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Nogales"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_137"
+
+[[person.meta.citation]]
+title = "The Dayton Herald"
+date = "1900-07-03"
+pages = "6"
+
+[person.name]
+last = "Cook"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1900"
+league.name = "Interstate League"
+
+

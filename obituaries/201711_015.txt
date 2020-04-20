@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_015"
+
+[[person.meta.citation]]
+title = "Musgrove Funeral Home"
+date = "2017-12-10"
+url = "https://www.musgroves.com/obituary.cfm?name=RobertDoerr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Doerr"
+use = "Bobby"
+given = "Robert Pershing"
+
+[person.birth]
+date = "1918-04-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2017-11-13"
+
+[[person.education]]
+school.name = "Fremont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

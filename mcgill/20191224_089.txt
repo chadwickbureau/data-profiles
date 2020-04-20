@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_089"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-29"
+pages = "3"
+
+[person.name]
+last = "Quinlan"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "KS"
+place.city = "Lyons"
+
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Quinlan"
+person.name.given = "W. J."
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

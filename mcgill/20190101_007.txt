@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_007"
+
+[[person.meta.citation]]
+title = "The Courier-Journal"
+date = "1901-04-08"
+pages = "6"
+
+[person.name]
+last = "Horning"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1901"
+league.name = "Western Association"
+
+

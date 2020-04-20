@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_019"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-12"
+pages = "2"
+
+[person.name]
+last = "Lispcomb"
+use = "Gerard"
+given = "Gerard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+description.throws = "R"
+description.bats = "L"
+
+

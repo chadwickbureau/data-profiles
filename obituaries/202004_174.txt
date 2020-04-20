@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_174"
+
+[[person.meta.citation]]
+title = "Duke & Haugh Funeral Home"
+date = "2020-04-19"
+url = "https://www.dukerandhaugh.com/services/april-2020/james-michael-mike-rokita"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-19"
+
+[person.name]
+last = "Rokita"
+use = "Mike"
+given = "James Michael"
+
+[person.birth]
+date = "1941-07-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.death]
+date = "2020-04-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Quincy"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Quincy"
+
+[person.description]
+note = [ "Minor league umpire" ]
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

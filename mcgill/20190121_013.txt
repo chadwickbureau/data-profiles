@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_013"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1924-04-20"
+pages = "22"
+
+[person.name]
+last = "Fyfe"
+use = "Louis"
+given = "Louis C."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1923"
+league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1924"
+league.name = "Michigan-Ontario League"
+
+

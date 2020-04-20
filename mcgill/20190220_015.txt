@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_015"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Isbell"
+use = "Albert"
+given = "Albert"
+
+[person.birth]
+date = "1888-10-08"
+place.country = "US"
+place.state = "MN"
+place.city = "North Branch"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "South McAlester"
+team.league.name = "Oklahoma-Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_071"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1903-06-05"
+pages = "14"
+
+[person.name]
+last = "Maynes"
+given = "W. A."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Dayton"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

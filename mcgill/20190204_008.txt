@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_008"
+
+[[person.meta.citation]]
+title = "Muncie Evening Press"
+date = "1908-05-22"
+pages = "6"
+
+[person.name]
+last = "Wagner"
+use = "Ed"
+given = "Ed"
+
+[[person.resides]]
+dates = "1908"
+place.country = "US"
+place.state = "OH"
+place.city = "Springfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Muncie"
+team.league.name = "Ohio-Indiana League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.league.name = "Southern Association"
+
+

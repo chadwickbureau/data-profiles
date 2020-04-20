@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_005"
+
+[[person.meta.citation]]
+title = "Claffey & Rota Funeral Home"
+date = "2017-11-08"
+url = "http://www.claffeyandrota.com/obituaries/William-Connolly-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-08"
+
+[person.name]
+last = "Connolly"
+use = "Willy"
+given = "William J."
+suffix = "Jr."
+
+[person.birth]
+date = "1943-04-19"
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+[person.death]
+date = "2017-10-27"
+
+[[person.education]]
+school.name = "Bellarmine College Preparatory"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Jose"
+
+[[person.education]]
+school.name = "Santa Clara University"
+school.type = "college"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_081"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-07-21"
+pages = "4"
+
+[person.name]
+last = "Stack"
+use = "Judd"
+given = "Judd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

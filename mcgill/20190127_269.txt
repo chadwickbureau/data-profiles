@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_269"
+
+[[person.meta.citation]]
+title = "News-Journal 1912-07-18"
+pages = "10"
+
+[person.name]
+last = "Blue"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mansfield"
+team.league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_072"
+
+[[person.meta.citation]]
+title = "The Galveston Daily News"
+date = "1889-03-31"
+pages = "8"
+
+[person.name]
+last = "Kittle"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1889"
+league.name = "Texas League"
+
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_056"
+
+[[person.meta.citation]]
+title = "The Galveston Daily News"
+date = "1889-05-21"
+pages = "3"
+
+[person.name]
+last = "Horsford"
+given = "J. M."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1889"
+league.name = "Texas League"
+
+

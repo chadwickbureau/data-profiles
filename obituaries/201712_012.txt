@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_012"
+
+[[person.meta.citation]]
+title = "Calgary Herald"
+date = "2017-12-27"
+url = "http://www.legacy.com/obituaries/calgaryherald/obituary.aspx?n=john-francis-cozens&pid=187646137&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-27"
+
+[person.name]
+last = "Cozens"
+use = "John"
+given = "John Francis"
+
+[person.birth]
+date = "1931-10-19"
+place.country = "CA"
+place.state = "ON"
+place.city = "Toronto"
+
+[person.death]
+date = "2017-12-23"
+place.country = "CA"
+place.state = "AB"
+place.city = "Calgary"
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_091"
+
+[[person.meta.citation]]
+title = "The Twin-City Daily Sentinel"
+date = "1912-05-24"
+pages = "10"
+
+[person.name]
+last = "Hickey"
+use = "William"
+given = "William P."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Carolina Association"
+
+

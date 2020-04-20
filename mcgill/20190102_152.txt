@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_152"
+
+[[person.meta.citation]]
+title = "The Boston Globe"
+date = "1916-04-06"
+pages = "7"
+
+[person.name]
+last = "Doherty"
+given = "M. J."
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Eastern League"
+
+

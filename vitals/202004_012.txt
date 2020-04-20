@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_012"
+
+[[person.meta.citation]]
+title = "World War II Registration Card"
+date = "2019-10-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-10-03"
+
+[person.name]
+last = "Query"
+use = "Wray"
+given = "Wray Huffines"
+
+[person.birth]
+date = "1893-09-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Ennis"
+

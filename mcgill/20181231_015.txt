@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_015"
+
+[[person.meta.citation]]
+title = "The Evening Review"
+date = "1910-04-09"
+pages = "6"
+
+[person.name]
+last = "Lindsey"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Ohio-Pennsylvania League"
+
+

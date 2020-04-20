@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_019"
+
+[[person.meta.citation]]
+title = "Northwest Florida Daily News"
+date = "2013-12-16"
+url = "http://www.legacy.com/obituaries/nwfdailynews/obituary.aspx?n=Daniel-Griffin&pid=168582154"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-16"
+
+[person.name]
+last = "Griffin"
+use = "Danny"
+given = "Daniel Andrew"
+
+[person.birth]
+date = "1962-10-01"
+place.country = "US"
+place.state = "AL"
+place.city = "Atmore"
+
+[person.death]
+date = "2013-12-14"
+place.country = "US"
+place.state = "FL"
+place.city = "Niceville"
+
+[person.burial]
+cemetery.name = "Sunset Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Valparaiso"
+
+[[person.education]]
+school.name = "Niceville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Niceville"
+
+[[person.education]]
+school.name = "Florida State"
+school.type = "college"
+
+[[person.education]]
+school.name = "South Alabama"
+school.type = "college"
+
+

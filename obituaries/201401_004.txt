@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_004"
+
+[[person.meta.citation]]
+title = "Press Democrat"
+date = "2014-01-07"
+url = "http://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=Theo-ADKINS&pid=168947885"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-07"
+
+[person.name]
+last = "Adkins"
+use = "Ted"
+given = "Theo"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-02-19"
+place.country = "US"
+place.state = "MS"
+place.city = "Greenville"
+
+[person.death]
+date = "2014-01-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Petaluma"
+
+[person.description]
+throws = "L"
+
+[[person.education]]
+school.name = "College of the Pacific"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Stockton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

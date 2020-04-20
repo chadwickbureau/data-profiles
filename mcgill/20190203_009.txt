@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_009"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-06-06"
+pages = "8"
+
+[person.name]
+last = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Daville"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.throws = "L"
+
+

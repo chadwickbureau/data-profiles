@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_052"
+
+[[person.meta.citation]]
+title = "The Waxahachie Daily Light"
+date = "1914-06-20"
+pages = "5"
+
+[person.name]
+last = "Brown"
+use = "Earl"
+given = "Earl"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "TX"
+place.city = "Ennis"
+
+
+[[person.education]]
+school.name = "Texas"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ennis"
+team.league.name = "Central Texas League"
+
+

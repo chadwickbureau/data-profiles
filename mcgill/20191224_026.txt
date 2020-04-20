@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_026"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Edmondson"
+use = "Roger"
+given = "Roger"
+
+[person.birth]
+date = "1889-12-11"
+place.country = "US"
+place.state = "TX"
+place.city = "Waxahachie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "P"
+description.weight = "180"
+description.height = "73"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Houston"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Venice"
+team.league.name = "Pacific Coast League"
+
+

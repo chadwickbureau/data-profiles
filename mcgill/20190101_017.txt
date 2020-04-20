@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_017"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1890-02-12"
+pages = "1"
+
+[person.name]
+last = "Taylor"
+use = "Walter"
+given = "Walter"
+
+[[person.resides]]
+dates = "1890"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1890"
+league.name = "Eastern Interstate League"
+
+

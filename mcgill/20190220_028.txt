@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_028"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1913-09-01"
+pages = "8"
+
+[person.name]
+last = "Streetor"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "1913-08-31"
+type = "released"
+leave.name = "Sioux City"
+leave.league.name = "Western"
+
+

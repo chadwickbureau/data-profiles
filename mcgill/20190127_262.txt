@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_262"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Weise"
+use = "Ruddy"
+given = "Ruddy"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "23"
+description.throws = "R"
+description.bats = "R"
+description.height = "72"
+description.weight = "165"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Larned"
+team.league.name = "Central Kansas League"
+
+

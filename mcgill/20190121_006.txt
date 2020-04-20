@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_006"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1905-04-22"
+pages = "3"
+
+[person.name]
+last = "Bement"
+given = "G. W."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1905"
+team.name = "Evansville"
+team.league.name = "Central League"
+title = "President"
+
+

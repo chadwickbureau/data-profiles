@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_032"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1908-05-02"
+pages = "11"
+
+[person.name]
+last = "Gattis"
+given = "C. H."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1908"
+league.name = "Eastern Carolina League"
+title = "Secretary/Treasurer"
+
+

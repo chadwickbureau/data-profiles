@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_012"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-05-20"
+pages = "3"
+
+[person.name]
+last = "Johnson"
+given = "D. G."
+
+[[person.education]]
+school.name = "St. Marys College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+
+[[person.playing]]
+season = "1911"
+league.name = "St. Louis Trolley League"
+split.0.team.name = ""
+
+

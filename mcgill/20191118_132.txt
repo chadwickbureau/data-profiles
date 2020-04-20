@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_132"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1909-05-07"
+pages = "1"
+
+[person.name]
+last = "Newton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+

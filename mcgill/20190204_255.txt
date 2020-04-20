@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_255"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1911-05-03"
+pages = "12"
+
+[person.name]
+last = "Dunlop"
+use = "Webster"
+given = "Webster H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

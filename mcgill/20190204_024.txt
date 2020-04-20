@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_024"
+
+[[person.meta.citation]]
+title = "The San Francisco Call"
+date = "1901-04-01"
+pages = "6"
+
+[person.name]
+last = "McFarlin"
+given = "H. S."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "California"
+title = "Official Scorer"
+
+

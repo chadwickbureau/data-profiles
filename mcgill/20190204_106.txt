@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_106"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1906-03-15"
+pages = "0"
+
+[person.name]
+last = "Blauch"
+use = "Rufus"
+given = "Rufus"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

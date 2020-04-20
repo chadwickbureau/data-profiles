@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_048"
+
+[[person.meta.citation]]
+title = "Consigli Ruggerio Funeral Home"
+date = "2017-12-03"
+url = "http://www.consigliruggeriofuneralhome.com/Obitituaries/1054"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-03"
+
+[person.name]
+last = "Stoico"
+use = "Joe"
+given = "Joseph T."
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Milford"
+
+[person.death]
+date = "2017-11-30"
+place.country = "US"
+place.state = "MA"
+place.city = "Milford"
+
+[[person.education]]
+school.name = "Milford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Milford"
+
+[[person.education]]
+school.name = "Boston University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

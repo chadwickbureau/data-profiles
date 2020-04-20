@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_154"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-28"
+pages = "3"
+
+[person.name]
+last = "Johnson"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "ME"
+place.city = "Brunswick"
+
+
+[[person.education]]
+school.name = "Bates College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Montpelier-Barre"
+team.league.name = "Northern Independent League"
+
+

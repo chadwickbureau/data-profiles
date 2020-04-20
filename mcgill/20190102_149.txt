@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_149"
+
+[[person.meta.citation]]
+title = "The Twin-City Daily Sentinel"
+date = "1915-02-27"
+
+[person.name]
+last = "Cameron"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "RI"
+place.city = "Pawtucket"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "North Carolina State League"
+
+

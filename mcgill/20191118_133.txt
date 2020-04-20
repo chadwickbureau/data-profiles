@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_133"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1909-05-12"
+pages = "8"
+
+[person.name]
+last = "Cummins"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Freeport"
+team.league.name = "Wisconsin-Illinois League"
+
+
+[[person.transaction]]
+date = "1909-05-11"
+type = "traded"
+leave.name = "Freeport"
+leave.league.name = "Wisconsin-Illinois"
+join.name = "Rockford"
+join.league.name = "Wisconsin-Illinois"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Jacobson"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Rorabaugh"
+
+

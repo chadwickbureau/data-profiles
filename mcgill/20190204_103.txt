@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_103"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times"
+date = "1905-05-10"
+pages = "8"
+
+[person.name]
+last = "McCollum"
+use = "William"
+given = "William L."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+title = "Official Scorer"
+
+

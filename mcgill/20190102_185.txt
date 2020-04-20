@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_185"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1919-05-07"
+pages = "13"
+
+[person.name]
+last = "Zeimer"
+use = "Gus"
+given = "Gus"
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "<1919"
+team.name = "Hamilton"
+
+

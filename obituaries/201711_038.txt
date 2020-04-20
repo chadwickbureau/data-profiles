@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_038"
+
+[[person.meta.citation]]
+title = "Mears Funeral Home"
+date = "2017-11-11"
+url = "http://www.mearesfh.com/obituary/donald-prince"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-11"
+
+[person.name]
+last = "Prince"
+use = "Donald"
+given = "Donald Mark"
+
+[person.birth]
+date = "1938-04-05"
+place.country = "US"
+place.state = "NC"
+place.city = "Fair Bluff"
+
+[person.death]
+date = "2017-11-08"
+
+[person.burial]
+cemetery.name = "Hammond Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Nichols"
+
+[[person.education]]
+school.name = "Campbell University"
+school.type = "college"
+
+[[person.education]]
+school.name = "East Carolina University"
+school.type = "college"
+
+

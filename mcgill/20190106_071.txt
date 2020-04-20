@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_071"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-05-01"
+pages = "3"
+
+[person.name]
+last = "Hill"
+use = "Belden"
+given = "Belden"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

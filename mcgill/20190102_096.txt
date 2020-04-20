@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_096"
+
+[[person.meta.citation]]
+title = "Edminton Journal"
+date = "1913-04-02"
+pages = "22"
+
+[person.name]
+last = "Mackin"
+use = "John"
+given = "John H."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Western Canada League"
+
+

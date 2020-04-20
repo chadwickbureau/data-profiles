@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_048"
+
+[[person.meta.citation]]
+title = "The Manhattan Mercury"
+date = "1910-06-09"
+pages = "1"
+
+[person.name]
+last = "Strong"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

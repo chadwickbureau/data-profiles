@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_019"
+
+[[person.meta.citation]]
+title = "East Oregonian"
+date = "1914-05-12"
+pages = "2"
+
+[person.name]
+last = "Coen"
+use = "Curly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pendleton"
+team.league.name = "Western Tri-State League"
+
+

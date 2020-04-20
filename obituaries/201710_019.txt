@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_019"
+
+[[person.meta.citation]]
+title = "Visalia Times-Delta"
+date = "2017-11-08"
+url = "http://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=robert-d-talbot&pid=187165165&fhid=31063"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-07"
+
+[person.name]
+last = "Talbot"
+use = "Bob"
+given = "Robert D."
+
+[person.birth]
+date = "1928-06-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Visalia"
+
+[person.death]
+date = "2017-10-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Visalia"
+

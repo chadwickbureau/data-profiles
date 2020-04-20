@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_007"
+
+[[person.meta.citation]]
+title = "MLB news"
+date = "2017-11-20"
+url = "http://m.mlb.com/news/article/262239182/former-mlb-outfielder-bob-borkowski-dies-at-91/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-21"
+
+[person.name]
+last = "Borkowski"
+use = "Bob"
+given = "Bob"
+
+[person.birth]
+date = "1926-01-27"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2017-11-18"
+

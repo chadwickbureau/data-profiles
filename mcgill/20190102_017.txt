@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_017"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "1903-05-13"
+pages = "9"
+
+[person.name]
+last = "Mahaffey"
+use = "Louis"
+given = "Louis"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Pacific National League"
+
+

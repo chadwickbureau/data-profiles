@@ -8,11 +8,6 @@ title = "Fort Worth Telegram"
 date = "1903-07-12"
 pages = "2"
 
-[[person.meta.contributor]]
-name.last = "McGill"
-name.use = "Chuck"
-email = "cmcgill.vt@gmail.com"
-
 [person.name]
 last = "Jarvis"
 use = "Jack"

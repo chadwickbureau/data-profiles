@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_051"
+
+[[person.meta.citation]]
+title = "The Clay Center Dispatch"
+date = "1910-06-13"
+pages = "1"
+
+[person.name]
+last = "Shimeall"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sabetha"
+team.league.name = "Eastern Kansas League"
+
+

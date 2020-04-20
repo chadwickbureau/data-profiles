@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_166"
+
+[[person.meta.citation]]
+title = "Moline Daily Dispatch"
+date = "1918-04-11"
+pages = "8"
+
+[person.name]
+last = "Fitzpatrick"
+use = "Matty"
+given = "Matty"
+
+[[person.resides]]
+dates = "1918"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1918"
+league.name = "Western League"
+
+

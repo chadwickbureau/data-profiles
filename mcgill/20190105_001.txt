@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_001"
+
+[[person.meta.citation]]
+title = "The La Crosse Tribune"
+date = "1912-06-03"
+pages = "6"
+
+[person.name]
+last = "Graves"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "La Crosse"
+team.league.name = "Minnesota-Wisconsin League"
+
+

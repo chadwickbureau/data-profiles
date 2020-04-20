@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_008"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat"
+date = "1901-04-14"
+pages = "6"
+
+[person.name]
+last = "Weihrauck"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.league.name = "Pennsylvania State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "P"
+description.throws = "L"
+
+

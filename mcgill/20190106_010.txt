@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_010"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat"
+date = "1901-04-14"
+pages = "6"
+
+[person.name]
+last = "Conlon"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1901"
+team.name = "Sterling"
+team.place.country = "US"
+team.place.state = "IL"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Davenport"
+team.league.name = "Illinis-Indiana-Iowa League"
+
+

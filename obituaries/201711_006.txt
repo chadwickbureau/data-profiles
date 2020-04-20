@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_006"
+
+[[person.meta.citation]]
+title = "TheSnapOnline.com"
+date = "2017-11-27"
+url = "http://obituaries.thesnaponline.com/obituary/ronald-barbee-1940-2017-1003896301"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-27"
+
+[person.name]
+last = "Barbee"
+use = "Ron"
+given = "Ronald"
+
+[person.birth]
+date = "1940-06-12"
+
+[person.death]
+date = "2017-11-19"
+
+[[person.education]]
+school.name = "Stanfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Stanfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

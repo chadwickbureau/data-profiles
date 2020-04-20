@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_264"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Blake"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "28"
+description.throws = "R"
+description.bats = "S"
+description.height = "69"
+description.weight = "175"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Canton"
+team.league.name = "Ohio-Pennsylvania League"
+
+

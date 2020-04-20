@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0070"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-18"
+url = "https://www.findagrave.com/memorial/173689385"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-18"
+
+[person.name]
+last = "Kibler"
+use = "John"
+given = "John Thomas"
+
+[person.birth]
+date = "1886"
+
+[person.death]
+date = "1971"
+
+[person.burial]
+cemetery.name = "Chester Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Chestertown"
+
+[person.sameas]
+findagrave = "173689385"
+

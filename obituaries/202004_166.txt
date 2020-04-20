@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_166"
+
+[[person.meta.citation]]
+title = "The Ledger"
+date = "2020-04-16"
+url = "https://www.theledger.com/sports/20200416/mark-angelo-member-of-1981-fsc-baseball-title-team-dies-at-59"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-17"
+
+[person.name]
+last = "Angelo"
+use = "Mark"
+given = "Mark"
+
+[person.death]
+date = "2020-04-13"
+place.country = "US"
+place.state = "FL"
+place.city = "Orlando"
+
+[[person.education]]
+school.name = "Florida Southern College"
+school.type = "college"
+
+

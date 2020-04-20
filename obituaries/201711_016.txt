@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_016"
+
+[[person.meta.citation]]
+title = "Daily Hampshire Gazette"
+date = "2017-11-16"
+url = "http://www.legacy.com/obituaries/gazettenet/obituary.aspx?n=robert-farrick-bob&pid=187252941"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-16"
+
+[person.name]
+last = "Farrick"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1929-06-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Whately"
+
+[person.death]
+date = "2017-11-03"
+
+[person.burial]
+cemetery.name = "Sarasota National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Sarasota"
+
+[[person.education]]
+school.name = "Easthampton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Easthampton"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

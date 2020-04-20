@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_027"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Andrada"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1887-06-23"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "P"
+description.throws = "L"
+description.height = "68"
+description.weight = "168"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Elmira"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Macon"
+team.league.name = "South Atlantic League"
+
+

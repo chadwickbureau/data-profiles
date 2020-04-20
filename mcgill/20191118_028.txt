@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_028"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-01"
+pages = "3"
+
+[person.name]
+last = "Sullivan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-05-31"
+type = "signed"
+join.name = "Manhattan"
+join.league.name = "Central Kansas"
+
+

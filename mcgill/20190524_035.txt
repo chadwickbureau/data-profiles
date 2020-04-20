@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_035"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1909-07-15"
+pages = "3"
+
+[person.name]
+last = "Hicks"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Kansas City"
+team.caliber = "semipro"
+
+

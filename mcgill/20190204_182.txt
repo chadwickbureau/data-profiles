@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_182"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1909-03-20"
+
+[person.name]
+last = "Hamilton"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+title = "Official Scorer"
+
+

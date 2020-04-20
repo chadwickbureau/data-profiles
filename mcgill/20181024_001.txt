@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181024_001"
+
+[[person.meta.citation]]
+title = "Gaffney Ledger"
+date = "1910-07-01"
+pages = "1"
+
+[person.name]
+last = "Curry"
+use = "Olin"
+given = "Olin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+

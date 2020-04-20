@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_247"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1935-05-25"
+pages = "39"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1935"
+league.name = "Pacific Coast League"
+
+

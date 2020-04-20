@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_020"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-12"
+pages = "3"
+
+[person.name]
+last = "Donovan"
+use = "Red"
+given = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+

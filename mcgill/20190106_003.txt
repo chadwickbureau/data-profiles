@@ -1,0 +1,94 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_003"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1909-05-02"
+pages = "4"
+
+[person.name]
+last = "Moore"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1896"
+team.name = "Hazelton"
+team.league.name = "Pennsylvania State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1900"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Brewton"
+team.league.name = "Interstate League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1906"
+team.name = "Temple"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

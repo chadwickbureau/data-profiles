@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_008"
+
+[[person.meta.citation]]
+title = "Newcomer Funeral Home"
+date = "2017-11-21"
+url = "http://www.newcomerdayton.com/Obituary/150964/Bob-Borkowski/Dayton-Ohio"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-21"
+
+[person.name]
+last = "Borkowski"
+use = "Bob"
+given = "Bob"
+nick = "Bush"
+
+[person.birth]
+date = "1926"
+
+[person.death]
+date = "2017-11-18"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Kettering"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

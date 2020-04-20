@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_014"
+
+[[person.meta.citation]]
+title = "Legacy.com"
+date = "2017-11-14"
+url = "http://www.legacy.com/ns/bobby-doerr-obituary/187237898"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Doerr"
+use = "Bobby"
+given = "Robert Pershing"
+
+[person.birth]
+date = "1918-04-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2017-11-13"
+place.country = "US"
+place.state = "OR"
+place.city = "Junction City"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

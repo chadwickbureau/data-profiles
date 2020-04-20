@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_049"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-09"
+pages = "3"
+
+[person.name]
+last = "Johnson"
+use = "Roy"
+given = "Roy"
+
+[[person.education]]
+school.name = "Baker College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+

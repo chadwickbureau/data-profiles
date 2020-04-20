@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_094"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Thompsen"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux City"
+team.league.name = "Tri-State League"
+description.position = "C"
+description.bats = "R"
+description.throws = "R"
+description.age = "24"
+description.height = "70"
+description.weight = "183"
+
+

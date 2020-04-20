@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_151"
+
+[[person.meta.citation]]
+title = "The Boston Globe"
+date = "1916-04-06"
+pages = "7"
+
+[person.name]
+last = "Stafford"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "MA"
+place.city = "West Somerville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Eastern League"
+
+

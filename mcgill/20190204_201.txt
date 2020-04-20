@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_201"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Gantz"
+given = "J. W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "York"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

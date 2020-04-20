@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_036"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-07-06"
+pages = "4"
+
+[person.name]
+last = "Koehler"
+use = "Gardner"
+given = "Gardner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1909-07-05"
+type = "released"
+leave.name = "Manhattan"
+leave.league.name = "Central Kansas"
+
+

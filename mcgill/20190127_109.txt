@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_109"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1911-03-01"
+pages = "6"
+
+[person.name]
+last = "Eddinger"
+given = "J. W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "American Association"
+
+

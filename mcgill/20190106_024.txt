@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_024"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1908-07-02"
+pages = "3"
+
+[person.name]
+last = "Heins"
+given = "E. D."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1908"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+

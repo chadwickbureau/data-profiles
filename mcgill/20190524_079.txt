@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_079"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-22"
+pages = "3"
+
+[person.name]
+last = "Ash"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

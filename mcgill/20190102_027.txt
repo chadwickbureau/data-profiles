@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_027"
+
+[[person.meta.citation]]
+title = "The Province"
+date = "1905-07-22"
+pages = "12"
+
+[person.name]
+last = "Dodd"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Northwestern League"
+
+

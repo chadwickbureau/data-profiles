@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_061"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1913-06-20"
+pages = "17"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_020"
+
+[[person.meta.citation]]
+title = "Smith Funeral Home"
+date = "2017-11-29"
+url = "http://www.wjsmithfh.com/book-of-memories/3354604/Grabert-Herman/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-29"
+
+[person.name]
+last = "Grabert"
+use = "Herman"
+given = "Herman"
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "RI"
+place.city = "Bristol"
+
+[person.death]
+date = "2017-11-28"
+place.country = "US"
+place.state = "RI"
+place.city = "Bristol"
+
+[person.burial]
+cemetery.name = "St. Mary of the Bay Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Warren"
+
+[person.description]
+throws = "R"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

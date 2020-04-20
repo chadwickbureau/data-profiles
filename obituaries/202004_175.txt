@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_175"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "2018-02-11"
+url = "https://www.legacy.com/obituaries/indystar/obituary.aspx?n=frank-rex-gourdouze&pid=188133036"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-19"
+
+[person.name]
+last = "Gourdouze"
+use = "Frank"
+given = "Frank Rex"
+
+[person.birth]
+date = "1920-12-20"
+place.country = "US"
+place.state = "IN"
+place.city = "Bicknell"
+
+[person.death]
+date = "2017-12-26"
+
+[person.burial]
+cemetery.name = "Worthington Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Worthington"
+
+[[person.education]]
+school.name = "Bicknell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Bicknell"
+
+[[person.education]]
+school.name = "Indiana State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

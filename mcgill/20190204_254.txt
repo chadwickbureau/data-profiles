@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_254"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1911-05-03"
+pages = "12"
+
+[person.name]
+last = "Blough"
+given = "J. A."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Johnstown"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

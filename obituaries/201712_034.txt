@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_034"
+
+[[person.meta.citation]]
+title = "Walker Funeral Home"
+date = "2017-12-08"
+url = "http://www.walkerfuneralhomes.com/obituaries/Richard-W-Fought?obId=2761897#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-08"
+
+[person.name]
+last = "Fought"
+use = "Richard"
+given = "Richard Ward"
+
+[person.birth]
+date = "1930-01-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Oak Harbor"
+
+[person.death]
+date = "2017-12-06"
+place.country = "US"
+place.state = "OH"
+place.city = "Maumee"
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_129"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "1885-12-29"
+pages = "3"
+
+[person.name]
+last = "Young"
+given = "B. F."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1886"
+league.name = "American Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1885"
+league.name = "Southern League"
+
+

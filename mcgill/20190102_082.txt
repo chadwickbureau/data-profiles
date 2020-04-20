@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_082"
+
+[[person.meta.citation]]
+title = "The Morning Tulsa Daily World"
+date = "1912-04-04"
+pages = "6"
+
+[person.name]
+last = "Brietenstein"
+use = "Ted"
+given = "Ted"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Southern Association"
+
+

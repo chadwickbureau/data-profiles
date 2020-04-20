@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_024"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1912-03-12"
+pages = "3"
+
+[person.name]
+last = "Jeter"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "VA"
+place.city = "Roanoke"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+
+

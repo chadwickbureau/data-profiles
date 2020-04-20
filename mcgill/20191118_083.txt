@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_083"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-06-22"
+pages = "3"
+
+[person.name]
+last = "Abbott"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Central Kansas League"
+
+

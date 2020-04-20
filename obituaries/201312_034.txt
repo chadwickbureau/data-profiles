@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_034"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2013-12-27"
+url = "http://www.latimes.com/obituaries/la-me-paul-blair-20131228,0,4556396.story#axzz2oxud8DSd"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-30"
+
+[person.name]
+last = "Blair"
+use = "Paul"
+given = "Paul"
+
+[person.death]
+date = "2013-12-26"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+

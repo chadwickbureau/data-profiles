@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_091"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1905-04-18"
+pages = "5"
+
+[person.name]
+last = "Miller"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Newark"
+team.league.name = "Ohio-Pennsylvania League"
+title = "Official Scorer"
+
+

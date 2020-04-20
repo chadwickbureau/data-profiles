@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_012"
+
+[[person.meta.citation]]
+title = "The Times Dispatch"
+date = "1915-07-18"
+pages = "13"
+
+[person.name]
+last = "Cram"
+use = "Ralph"
+given = "Ralph"
+
+[[person.education]]
+school.name = "Brown University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Richmond"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Boston"
+team.league.name = "National League"
+
+

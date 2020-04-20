@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_084"
+
+[[person.meta.citation]]
+title = "The Leaf-Chronicle"
+date = "1904-05-04"
+pages = "1"
+
+[person.name]
+last = "Ladd"
+use = "John"
+given = "John H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Cairo"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+title = "Official Scorer"
+
+

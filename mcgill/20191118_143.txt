@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_143"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-06-21"
+pages = "3"
+
+[person.name]
+last = "McRae"
+
+[[person.education]]
+school.name = "Amherst College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Burlington"
+team.league.name = "Northern Independent League"
+description.position = "P"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_251"
+
+[[person.meta.citation]]
+title = "Press and Sun-Bulletin"
+date = "1915-09-15"
+pages = "11"
+
+[person.name]
+last = "Becker"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Binghamton"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "New York"
+team.league.name = "National League"
+
+

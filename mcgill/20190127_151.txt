@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_151"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1915-05-27"
+pages = "9"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Central League"
+
+

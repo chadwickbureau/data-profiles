@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_027"
+
+[[person.meta.citation]]
+title = "The Evening Review"
+date = "1908-07-23"
+pages = "6"
+
+[person.name]
+last = "Brittsen"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Canton"
+team.league.name = "Ohio-Pennsylvania League"
+description.position = "P"
+description.throws = "L"
+
+

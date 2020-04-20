@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_049"
+
+[[person.meta.citation]]
+title = "Delaware Online"
+date = "2017-12-08"
+url = "http://www.delawareonline.com/story/sports/college/ud/2017/12/08/long-time-university-delaware-football-coach-tubby-raymond-dies-92/935617001/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-11"
+
+[person.name]
+last = "Raymond"
+use = "Tubby"
+given = "Harold R."
+
+[person.death]
+date = "2017-12-08"
+place.country = "US"
+place.state = "DE"
+place.city = "Newark"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+

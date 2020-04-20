@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_218"
+
+[[person.meta.citation]]
+title = "The Daily Sentinel"
+date = "1909-04-29"
+pages = "4"
+
+[person.name]
+last = "Dorn"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+title = "Official Scorer"
+
+

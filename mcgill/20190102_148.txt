@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_148"
+
+[[person.meta.citation]]
+title = "The Twin-City Daily Sentinel"
+date = "1915-02-27"
+
+[person.name]
+last = "Pasateri"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "North Carolina State League"
+
+

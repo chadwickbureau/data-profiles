@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_099"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1913-07-09"
+pages = "7"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Ohio State League"
+
+

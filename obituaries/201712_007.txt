@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_007"
+
+[[person.meta.citation]]
+title = "Shives Funeral Home"
+date = "2017-12-30"
+url = "http://www.shivesfuneralhome.com/obituaries/Jerome-Baughman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-30"
+
+[person.name]
+last = "Baughman"
+use = "Jerome"
+given = "Jerome"
+
+[person.birth]
+date = "1928-10-11"
+place.country = "US"
+place.state = "SC"
+place.city = "North"
+
+[person.death]
+date = "2017-12-29"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Columbia"
+

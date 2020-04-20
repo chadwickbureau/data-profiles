@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_138"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1915-04-28"
+pages = "15"
+
+[person.name]
+last = "Van Buskirk"
+use = "William"
+given = "William E."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_244"
+
+[[person.meta.citation]]
+title = "The San Bernadino County Sun"
+date = "1934-03-29"
+pages = "8"
+
+[person.name]
+last = "Snyder"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1934"
+league.name = "Pacific Coast League"
+
+

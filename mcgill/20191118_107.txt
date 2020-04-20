@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_107"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Gazette"
+date = "1910-06-28"
+pages = "4"
+
+[person.name]
+last = "Riley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+
+

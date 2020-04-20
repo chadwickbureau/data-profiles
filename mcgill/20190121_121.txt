@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_121"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1917-07-12"
+pages = "10"
+
+[person.name]
+last = "Castle"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1917"
+team.name = "Hannibal"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Hannibal"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

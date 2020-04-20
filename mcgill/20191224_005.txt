@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_005"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-05-18"
+pages = "3"
+
+[person.name]
+last = "Snyder"
+use = "Wilbur"
+given = "Wilbur"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "KS"
+place.city = "Rose Hill"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+description.position = "P"
+
+

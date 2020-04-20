@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_116"
+
+[[person.meta.citation]]
+title = "New Castle Herald"
+date = "1906-04-19"
+pages = "2"
+
+[person.name]
+last = "Smilet"
+given = "E. A."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "New Castle"
+team.league.name = "Ohio-Pennsylvania League"
+title = "Official Scorer"
+
+

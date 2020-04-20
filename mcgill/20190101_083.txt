@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_083"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1904-12-24"
+pages = "9"
+
+[person.name]
+last = "Burke"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Southern Association"
+
+

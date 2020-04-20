@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_119"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1914-04-14"
+pages = "10"
+
+[person.name]
+last = "West"
+use = "William"
+given = "William M."
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Western Association"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_033"
+
+[[person.meta.citation]]
+title = "The Evening Kansan-Republican"
+date = "1911-05-16"
+pages = "6"
+
+[person.name]
+last = "Block"
+given = "C. W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_200"
+
+[[person.meta.citation]]
+title = "The Wilkes-Barre News"
+date = "1909-04-27"
+pages = "1"
+
+[person.name]
+last = "Douglass"
+use = "William"
+given = "William R."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Harrisburg"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_061"
+
+[[person.meta.citation]]
+title = "The Courier"
+date = "1911-05-01"
+pages = "2"
+
+[person.name]
+last = "Mead"
+use = "George"
+given = "George A."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "UT"
+place.city = "Ogden"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Central Association"
+
+

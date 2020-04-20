@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_058"
+
+[[person.meta.citation]]
+title = "The Courier"
+date = "1909-05-03"
+pages = "2"
+
+[person.name]
+last = "Fleming"
+given = "E. E."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1908"
+team.name = "Ottumwa"
+team.league.name = "Central Association"
+
+

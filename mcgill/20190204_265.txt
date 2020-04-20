@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_265"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1911-05-10"
+pages = "14"
+
+[person.name]
+last = "Spalding"
+use = "Charles"
+given = "Charles H."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

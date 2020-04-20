@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_003"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-09-06"
+pages = "7"
+
+[person.name]
+last = "Clapp"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+
+

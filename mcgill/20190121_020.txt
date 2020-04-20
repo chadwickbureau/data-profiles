@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_020"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1924-04-20"
+pages = "22"
+
+[person.name]
+last = "Powell"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1923"
+league.name = "Michigan-Ontario League"
+
+

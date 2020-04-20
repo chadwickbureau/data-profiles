@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_088"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Freeman"
+use = "Buck"
+given = "Arnett J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.position = "P"
+description.bats = "R"
+description.throws = "R"
+description.age = "22"
+description.height = "72"
+description.weight = "175"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+

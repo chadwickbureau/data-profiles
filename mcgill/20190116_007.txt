@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_007"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-06-25"
+pages = "12"
+
+[person.name]
+last = "West"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Evansville"
+team.league.name = "Central League"
+
+

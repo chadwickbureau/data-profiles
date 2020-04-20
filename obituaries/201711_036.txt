@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_036"
+
+[[person.meta.citation]]
+title = "Beacon Funeral Home"
+date = "2017-11-10"
+url = "http://www.beaconfh.com/obituary/peter-palmer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-10"
+
+[person.name]
+last = "Palmer"
+use = "Peter"
+given = "Peter Norman"
+
+[person.birth]
+date = "1928-11-07"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2017-11-07"
+place.country = "US"
+place.state = "MI"
+place.city = "Muskegon"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

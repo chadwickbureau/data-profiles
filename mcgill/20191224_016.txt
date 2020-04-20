@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_016"
+
+[[person.meta.citation]]
+title = "The Great Bend Tribune"
+date = "1911-05-22"
+pages = "4"
+
+[person.name]
+last = "Bumb"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+

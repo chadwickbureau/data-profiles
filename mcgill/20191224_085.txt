@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_085"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-28"
+pages = "3"
+
+[person.name]
+last = "Guinn"
+use = "Ike"
+given = "Ike"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Kansas State League"
+
+

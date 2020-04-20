@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_150"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1908-04-06"
+pages = "4"
+
+[person.name]
+last = "Wise"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Freeport"
+team.league.name = "Wisconsin-Illinois League"
+title = "Official Scorer"
+
+

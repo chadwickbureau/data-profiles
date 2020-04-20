@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_066"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-17"
+pages = "7"
+
+[person.name]
+last = "Sommers"
+
+[[person.transaction]]
+date = "1910-06-16"
+type = "traded"
+leave.name = "Ellsworth"
+leave.league.name = "Central Kansas"
+join.name = "Clay Center"
+join.league.name = "Central Kansas"
+
+

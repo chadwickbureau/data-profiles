@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_070"
+
+[[person.meta.citation]]
+title = "The Paducah Evening Sun"
+date = "1913-04-16"
+pages = "7"
+
+[person.name]
+last = "Bassett"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1913"
+team.name = "Kentucky-Indiana-Tennessee"
+title = "President"
+
+

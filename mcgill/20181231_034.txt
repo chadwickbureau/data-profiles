@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_034"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1909-05-01"
+pages = "5"
+
+[person.name]
+last = "Edwards"
+given = "W. A."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Wichita"
+team.league.name = "Western Association"
+description.position = "C"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Western Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Kansas State League"
+
+

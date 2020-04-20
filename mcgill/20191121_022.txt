@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_022"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-13"
+pages = "3"
+
+[person.name]
+last = "Langley"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas League"
+
+

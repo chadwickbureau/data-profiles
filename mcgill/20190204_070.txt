@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_070"
+
+[[person.meta.citation]]
+title = "Pittsburg Kansas"
+date = "1903-05-07"
+pages = "5"
+
+[person.name]
+last = "Carter"
+use = "Jonathan"
+given = "Jonathan"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Springfield"
+team.league.name = "Missouri Valley League"
+title = "Official Scorer"
+
+

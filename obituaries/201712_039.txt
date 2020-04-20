@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_039"
+
+[[person.meta.citation]]
+title = "Douglas County Post-Gazette"
+date = "2017-12-13"
+url = "http://www.dcpostgazette.com/people/donald-heldt/article_80a50384-e042-11e7-b7b5-77a7a8a17069.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-18"
+
+[person.name]
+last = "Heldt"
+use = "Don"
+given = "Donald Clarence"
+
+[person.birth]
+date = "1942-05-12"
+place.country = "US"
+place.state = "NE"
+place.city = "Wahoo"
+
+[person.death]
+date = "2017-12-02"
+place.country = "US"
+place.state = "NE"
+place.city = "Yutan"
+
+[[person.education]]
+school.name = "Yutan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Yutan"
+
+[[person.education]]
+school.name = "University of Nebraska"
+school.type = "college"
+
+

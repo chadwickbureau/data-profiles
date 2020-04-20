@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_019"
+
+[[person.meta.citation]]
+title = "French Funerals"
+date = "2014-01-13"
+url = "http://www.frenchfunerals.com/obituaries/Stephen-Lagomarsino/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-13"
+
+[person.name]
+last = "Lagomarsino"
+use = "Steve"
+given = "Stephen Frank"
+
+[person.birth]
+date = "1925-12-22"
+
+[person.death]
+date = "2014-01-09"
+
+[person.burial]
+cemetery.name = "Santa Fe National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Santa Fe"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

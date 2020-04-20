@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_014"
+
+[[person.meta.citation]]
+title = "World War II registration card"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-26"
+
+[person.name]
+last = "Roth"
+use = "Vincent"
+given = "Vincent Thomas"
+
+[person.birth]
+date = "1892-01-18"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+

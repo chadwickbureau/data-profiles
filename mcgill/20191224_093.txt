@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_093"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-07-03"
+pages = "3"
+
+[person.name]
+last = "Anderson"
+use = "Tony"
+given = "Tony"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "<1911"
+team.league.name = "Missouri Valley League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "<1911"
+team.league.name = "Western League"
+
+

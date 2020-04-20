@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_026"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "2017-11-14"
+url = "http://www.legacy.com/obituaries/orlandosentinel/obituary.aspx?n=del-helms&pid=187235340"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Helms"
+use = "Del"
+given = "Del"
+
+[person.birth]
+date = "1929-08-08"
+place.country = "US"
+place.state = "FL"
+place.city = "Lake County"
+
+[person.death]
+date = "2017-11-08"
+place.country = "US"
+place.state = "FL"
+place.city = "Longwood"
+
+[[person.education]]
+school.name = "Lyman HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Longwood"
+
+[[person.education]]
+school.name = "Rollins College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

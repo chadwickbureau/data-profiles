@@ -1,0 +1,15 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_017"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-06-02"
+pages = "3"
+
+[person.name]
+last = "Halderman"
+use = "William"
+given = "William H."
+

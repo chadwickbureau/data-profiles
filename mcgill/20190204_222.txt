@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_222"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1910-04-23"
+pages = "2"
+
+[person.name]
+last = "Byars"
+given = "H. T."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Caruthersville"
+team.league.name = "Northeast Arkansas League"
+title = "Official Scorer"
+
+

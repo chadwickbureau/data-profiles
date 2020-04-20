@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_109"
+
+[[person.meta.citation]]
+title = "The Clay Center Dispatch"
+date = "1910-06-28"
+pages = "1"
+
+[person.name]
+last = "Stokesberry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Clay Center"
+team.league.name = "Central Kansas League"
+description.throws = "L"
+
+

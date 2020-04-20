@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_139"
+
+[[person.meta.citation]]
+title = "The Sioux City Journal"
+date = "1905-04-23"
+pages = "9"
+
+[person.name]
+last = "Mace"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western League"
+
+

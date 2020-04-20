@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_071"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1908-07-20"
+pages = "7"
+
+[person.name]
+last = "Black"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Western League"
+
+

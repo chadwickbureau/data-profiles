@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_002"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-06-30"
+pages = "4"
+
+[person.name]
+last = "Young"
+use = "Benny"
+given = "Benny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

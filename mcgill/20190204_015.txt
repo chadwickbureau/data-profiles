@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_015"
+
+[[person.meta.citation]]
+title = "The Dispatch"
+date = "1916-06-30"
+pages = "14"
+
+[person.name]
+last = "Lang"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Moline"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.position = "P"
+description.throws = "L"
+
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_105"
+
+[[person.meta.citation]]
+title = "The Los Angeles Times"
+date = "1913-02-02"
+
+[person.name]
+last = "McCarthy"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Pacific Coast League"
+
+

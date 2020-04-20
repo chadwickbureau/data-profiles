@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_138"
+
+[[person.meta.citation]]
+title = "The Sioux City Journal"
+date = "1905-04-23"
+pages = "9"
+
+[person.name]
+last = "Burns"
+use = "James"
+given = "James"
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western League"
+
+

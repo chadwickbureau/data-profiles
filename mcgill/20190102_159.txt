@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_159"
+
+[[person.meta.citation]]
+title = "The Times Recorder"
+date = "1916-02-28"
+pages = "12"
+
+[person.name]
+last = "Shuster"
+given = "J. F."
+
+[[person.resides]]
+dates = "1916"
+place.country = "CA"
+place.state = "SK"
+place.city = "Moose Jaw"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Central League"
+
+

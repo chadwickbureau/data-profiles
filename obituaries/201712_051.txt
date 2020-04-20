@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_051"
+
+[[person.meta.citation]]
+title = "Bufrod G. Sturgill Funeral Home"
+date = "2017-12-09"
+url = "http://www.sturgillfuneral.com/fh/obituaries/obituary.cfm?o_id=4458056&fh_id=14008"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-09"
+
+[person.name]
+last = "Stallard"
+use = "Tracy"
+given = "Tracy"
+
+[person.death]
+date = "2017-12-06"
+place.country = "US"
+place.state = "TN"
+place.city = "Kingsport"
+
+[person.burial]
+cemetery.name = "Powell Valley Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Big Stone Gap"
+
+[[person.education]]
+school.name = "Coeburn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Coeburn"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_040"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-10"
+pages = "4"
+
+[person.name]
+last = "Huseman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Minneapolis"
+team.league.name = "Central Kansas League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_033"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1909-07-15"
+pages = "3"
+
+[person.name]
+last = "Lawrence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+description.age = "19"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_114"
+
+[[person.meta.citation]]
+title = "The Vancouver Sun"
+date = "1916-03-24"
+pages = "6"
+
+[person.name]
+last = "Bush"
+use = "Garnett"
+given = "Garnett"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Northwestern League"
+
+

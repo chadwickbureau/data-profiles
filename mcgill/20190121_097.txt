@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_097"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1912-03-02"
+pages = "12"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "American Association"
+
+

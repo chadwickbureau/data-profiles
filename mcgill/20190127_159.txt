@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_159"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1917-07-13"
+pages = "11"
+
+[person.name]
+last = "Gaston"
+given = "W. T."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Western League"
+
+

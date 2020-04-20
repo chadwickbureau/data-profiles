@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_047"
+
+[[person.meta.citation]]
+title = "Tuscaloosanews.com"
+date = "2017-12-14"
+url = "http://www.tuscaloosanews.com/news/20171214/major-league-standout-frank-lary-of-northport-dies-at-age-87"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Lary"
+use = "Frank"
+given = "Frank"
+
+[person.death]
+date = "2017-12-13"
+
+[[person.education]]
+school.name = "Tuscaloosa County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Northport"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

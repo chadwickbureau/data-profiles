@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_005"
+
+[[person.meta.citation]]
+title = "The Charlotte News"
+date = "1909-09-06"
+pages = "7"
+
+[person.name]
+last = "Lynch"
+use = "Edward"
+given = "Edward S."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "NY"
+place.city = "Olean"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Greensboro"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1909"
+team.name = "Niagara Uniersity"
+team.caliber = "college"
+
+

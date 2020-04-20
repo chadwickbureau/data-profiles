@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_028"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Herald"
+date = "1906-03-02"
+pages = "8"
+
+[person.name]
+last = "Meyer"
+use = "Phil"
+given = "Phil"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "KS"
+place.city = "Topeka"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Western Association"
+
+

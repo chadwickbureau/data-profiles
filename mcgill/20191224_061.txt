@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_061"
+
+[[person.meta.citation]]
+title = "The Walnut Valley News"
+date = "1911-06-13"
+pages = "3"
+
+[person.name]
+last = "Sizemore"
+use = "Cy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1911"
+team.name = "Oklahoma City"
+team.league.name = "Western Association"
+
+

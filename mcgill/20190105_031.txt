@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_031"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1910-04-14"
+pages = "8"
+
+[person.name]
+last = "Genins"
+use = "Frank"
+given = "Frank L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+
+

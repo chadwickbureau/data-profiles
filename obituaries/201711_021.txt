@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_021"
+
+[[person.meta.citation]]
+title = "Hickey Funeral Home"
+date = "2017-11-23"
+url = "http://www.hickeyfuneral.com/sitemaker/sites/HICKEY1/obit.cgi?user=35064148_WGrayson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-23"
+
+[person.name]
+last = "Grayson"
+use = "Walter"
+given = "Walter H."
+
+[person.birth]
+date = "1940-01-05"
+
+[person.death]
+date = "2017-11-17"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+

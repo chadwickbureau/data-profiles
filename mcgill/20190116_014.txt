@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_014"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-25"
+pages = "3"
+
+[person.name]
+last = "Sapp"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Marion"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Dayton"
+team.league.name = "Central League"
+
+

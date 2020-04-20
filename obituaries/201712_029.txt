@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_029"
+
+[[person.meta.citation]]
+title = "Knapp-Johnson Funeral Home"
+date = "2017-12-15"
+url = "http://www.knappjohnson.com/obituaries/Kenneth-Bracey/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-15"
+
+[person.name]
+last = "Bracey"
+use = "Ken"
+given = "Kenneth W."
+
+[person.birth]
+date = "1937-06-11"
+place.country = "US"
+place.state = "IL"
+place.city = "New Holland"
+
+[person.death]
+date = "2017-12-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Dunlap"
+
+[person.burial]
+cemetery.name = "Mason City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Mason City"
+

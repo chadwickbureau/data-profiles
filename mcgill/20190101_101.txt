@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_101"
+
+[[person.meta.citation]]
+title = "The Record Union"
+date = "1898-03-04"
+pages = "8"
+
+[person.name]
+last = "Alzeina"
+use = "Enoch"
+given = "Enoch"
+
+[[person.resides]]
+dates = "1898"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Cruz"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1898"
+league.name = "Pacific States League"
+
+

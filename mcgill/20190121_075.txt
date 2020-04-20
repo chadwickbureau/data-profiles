@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_075"
+
+[[person.meta.citation]]
+title = "The Paducah Evening Sun"
+date = "1914-05-28"
+pages = "6"
+
+[person.name]
+last = "Lewis"
+use = "Dudley"
+given = "Dudley"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Kentucky-Indiana-Tennessee League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_168"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1908-04-24"
+pages = "10"
+
+[person.name]
+last = "Smith"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

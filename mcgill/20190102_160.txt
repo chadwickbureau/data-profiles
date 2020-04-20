@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_160"
+
+[[person.meta.citation]]
+title = "The Atlanta Constitution"
+date = "1917-05-01"
+pages = "5"
+
+[person.name]
+last = "Manning"
+given = "E. M."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Georgia-Alabama League"
+
+

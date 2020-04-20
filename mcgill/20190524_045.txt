@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_045"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-06-23"
+pages = "4"
+
+[person.name]
+last = "Green"
+given = "A. J."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MO"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

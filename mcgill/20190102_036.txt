@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_036"
+
+[[person.meta.citation]]
+title = "The Buffalo Times"
+date = "1907-02-11"
+pages = "10"
+
+[person.name]
+last = "Latham"
+use = "Arlie"
+given = "Arlie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Ohio-Pennsylvania League"
+
+

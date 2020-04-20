@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_106"
+
+[[person.meta.citation]]
+title = "The New Castle News"
+date = "1895-05-13"
+pages = "4"
+
+[person.name]
+last = "Maskrey"
+use = "Harry"
+given = "Harry H."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1895"
+league.name = "Iron and Oil League"
+
+

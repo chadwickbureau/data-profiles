@@ -1,0 +1,93 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:150982"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/150982"
+title = "The Sporting News Player Contract Cards, ScanID: 1099023609"
+
+[person.name]
+last = "Slavens"
+given = "Paul Arthur"
+nick = "Pete"
+
+[person.description]
+position = "C-OF"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "180"
+married = "Anita Marie Lund on 1945-01-13"
+
+[person.birth]
+date = "1922-10-08"
+place.country = "US"
+place.state = "IN"
+place.city = "Brookston"
+
+[[person.resides]]
+place.address = "RR #3"
+place.country = "US"
+place.state = "IN"
+place.city = "Fowler"
+
+
+[[person.transaction]]
+date = "1942-05"
+type = "signed"
+join.name = "Statesville"
+note = "Statesville 1942-05"
+
+[[person.transaction]]
+date = "1942-06"
+type = "released"
+leave.name = "Statesville"
+note = "rel 1942-06"
+
+[[person.transaction]]
+date = "1942-06"
+type = "signed"
+join.name = "Elizabethton"
+note = "Elizabethton 1942-06"
+
+[[person.transaction]]
+date = "1942-06"
+type = "released"
+leave.name = "Elizabethton"
+note = "rel 1942-06"
+
+[[person.transaction]]
+date = "1942-09"
+type = "signed"
+join.name = "Fond du Lac"
+note = "Fond du Lac 1942-09"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Fond du Lac"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+dates = "1943-01-22/1945-10-25"
+
+[[person.transaction]]
+date = "1945-11-03"
+type = "released"
+leave.name = "Fond du Lac"
+note = "rein from service list and made free agent 1945-11-03"
+
+[[person.transaction]]
+date = "1946-02"
+type = "signed"
+join.name = "Quincy"
+note = "Quincy 1946-02"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Quincy"
+note = "rel 1946-07"
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_022"
+
+[[person.meta.citation]]
+title = "The Windsor Star"
+date = "1898-04-01"
+pages = "5"
+
+[person.name]
+last = "Accorsini"
+use = "Victor"
+given = "Victor"
+
+[[person.affiliation]]
+type = "player"
+dates = "1898"
+team.name = "London"
+team.league.name = "Canadian League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "coach"
+dates = "1898"
+team.name = "Allegheny Institute @ US/VA/Roanoke"
+
+

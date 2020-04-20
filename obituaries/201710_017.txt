@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_017"
+
+[[person.meta.citation]]
+title = "H.D. Oliver Funeral Home"
+date = "2017-11-01"
+url = "http://www.hdoliver.com/obituary/Allen-Gordon-Richter/Virginia-Beach-VA/1761480"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-01"
+
+[person.name]
+last = "Richter"
+use = "Allen"
+given = "Allen Gordon"
+
+[person.birth]
+date = "1927-02-07"
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+[person.death]
+date = "2017-10-29"
+place.country = "US"
+place.state = "VA"
+place.city = "Virginia Beach"
+
+[person.burial]
+cemetery.name = "Forest Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Norfolk"
+
+[[person.education]]
+school.name = "Maury HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Norfolk"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

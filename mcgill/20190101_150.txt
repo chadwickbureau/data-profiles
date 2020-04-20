@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_150"
+
+[[person.meta.citation]]
+title = "The Times Recorder"
+date = "1904-03-09"
+pages = "1"
+
+[person.name]
+last = "Peters"
+use = "Charles"
+given = "Charles J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Central League"
+
+

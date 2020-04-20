@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_030"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-04-19"
+pages = "8"
+
+[person.name]
+last = "Redfern"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Spartanburg"
+team.league.name = "Carolina Association"
+
+

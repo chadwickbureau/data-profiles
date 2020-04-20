@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_021"
+
+[[person.meta.citation]]
+title = "The McPherson Daily Republican"
+date = "1911-05-25"
+pages = "1"
+
+[person.name]
+last = "Clawson"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+
+

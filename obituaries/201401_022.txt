@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_022"
+
+[[person.meta.citation]]
+title = "www.News-Herald.com"
+date = "2014-01-12"
+url = "http://www.legacy.com/obituaries/news-herald/obituary.aspx?n=james-j-mulqueeny&pid=169021999&fhid=13070&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-12"
+
+[person.name]
+last = "Mulqueeny"
+use = "Jim"
+given = "James J."
+
+[person.birth]
+date = "1927-10-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Painesville"
+
+[person.death]
+date = "2014-01-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Madison"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Painesville"
+
+[[person.education]]
+school.name = "T. W. Harvey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Painesville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

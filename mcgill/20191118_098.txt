@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_098"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Cleveland"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.position = "3B"
+description.bats = "L"
+description.throws = "R"
+description.age = "23"
+description.height = "69.5"
+description.weight = "155"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Marshalltown"
+team.league.name = "Mississippi Valley League"
+
+

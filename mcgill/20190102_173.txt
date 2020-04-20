@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_173"
+
+[[person.meta.citation]]
+title = "Evening Times-Republican"
+date = "1918-04-13"
+pages = "2"
+
+[person.name]
+last = "Shannon"
+use = "Spike"
+given = "Spike"
+
+[[person.resides]]
+dates = "1918"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1918"
+league.name = "Western League"
+
+

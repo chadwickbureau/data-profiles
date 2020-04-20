@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_024"
+
+[[person.meta.citation]]
+title = "Camden Daily Courier"
+date = "1905-04-06"
+pages = "3"
+
+[person.name]
+last = "Eagan"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1892"
+team.name = "Camden"
+
+

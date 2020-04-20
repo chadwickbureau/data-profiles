@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_173"
+
+[[person.meta.citation]]
+title = "Kriegshauser Brothers Funeral Home"
+date = "2020-04-19"
+url = "http://k-brothers.com/obituary/lester-severin/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-19"
+
+[person.name]
+last = "Severin"
+use = "Lester"
+given = "Lester Walter"
+
+[person.birth]
+date = "1926-12-16"
+
+[person.death]
+date = "2020-04-16"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.education]]
+school.name = "McKinley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

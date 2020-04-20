@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_146"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-02"
+pages = "3"
+
+[person.name]
+last = "Umstead"
+
+[[person.education]]
+school.name = "Cornell University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Plattsburgh"
+team.league.name = "Northern Independent League"
+
+

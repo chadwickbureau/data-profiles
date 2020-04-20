@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_263"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Burke"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "26"
+description.throws = "L"
+description.bats = "L"
+
+

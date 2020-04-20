@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_076"
+
+[[person.meta.citation]]
+title = "Abilene Daily Reflector"
+date = "1909-08-18"
+pages = "3"
+
+[person.name]
+last = "Burton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1909-08-17"
+type = "released"
+leave.name = "Abilene"
+leave.league.name = "Central Kansas"
+
+

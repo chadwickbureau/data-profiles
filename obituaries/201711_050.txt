@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_050"
+
+[[person.meta.citation]]
+title = "Windsor Star"
+date = "2017-11-06"
+url = "http://www.legacy.com/obituaries/windsorstar/obituary.aspx?n=paul-thomas&pid=187145965"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-06"
+
+[person.name]
+last = "Thomas"
+use = "Paul"
+given = "Paul Ernest"
+nick = "Doc"
+
+[person.birth]
+date = "1926-04-14"
+place.country = "CA"
+place.state = "NB"
+place.city = "St. John"
+
+[person.death]
+date = "2017-11-02"
+

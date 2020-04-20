@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_095"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Montgomery"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Zanesville"
+team.league.name = "Central League"
+
+

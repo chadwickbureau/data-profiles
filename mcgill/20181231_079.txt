@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_079"
+
+[[person.meta.citation]]
+title = "Boston Post"
+date = "1902-03-26"
+pages = "3"
+
+[person.name]
+last = "Reardon"
+use = "Dennis"
+given = "Dennis"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Connecticut State League"
+
+

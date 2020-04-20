@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_007"
+
+[[person.meta.citation]]
+title = "Edmonton Journal"
+date = "1914-06-10"
+pages = "10"
+
+[person.name]
+last = "Chapman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Edmonton"
+team.league.name = "Western Canada League"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Victoria"
+team.league.name = "Northwestern League"
+
+

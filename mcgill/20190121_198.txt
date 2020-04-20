@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_198"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1926-01-15"
+pages = "34"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "coach"
+dates = "1926"
+team.name = "Hollywood"
+team.league.name = "Pacific Coast League"
+
+

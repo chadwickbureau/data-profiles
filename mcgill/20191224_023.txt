@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_023"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-05-27"
+pages = "2"
+
+[person.name]
+last = "Garrett"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Brookfield"
+team.league.name = "Missouri State League"
+
+

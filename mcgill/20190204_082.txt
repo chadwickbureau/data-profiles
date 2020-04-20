@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_082"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1904-04-15"
+pages = "6"
+
+[person.name]
+last = "Lawshe"
+use = "Er."
+given = "Er."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+title = "Offical Scorer"
+
+

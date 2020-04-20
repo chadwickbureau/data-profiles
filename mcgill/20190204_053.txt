@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_053"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1903-04-06"
+pages = "8"
+
+[person.name]
+last = "Edmiston"
+given = "M. B."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Marion"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

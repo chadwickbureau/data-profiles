@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_011"
+
+[[person.meta.citation]]
+title = "Natalie.Mu"
+date = "2017-10-19"
+url = "http://natalie.mu/eiga/news/253400"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-08"
+
+[person.name]
+last = "Hashimoto"
+use = "Chikara"
+given = "Chikara"
+
+[person.death]
+date = "2017-10-11"
+

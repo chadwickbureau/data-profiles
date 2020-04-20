@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_053"
+
+[[person.meta.citation]]
+title = "Willamsport Sun-Gazette"
+date = "1902-03-21"
+pages = "8"
+
+[person.name]
+last = "Gill"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1902"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Pennsylvania State League"
+
+

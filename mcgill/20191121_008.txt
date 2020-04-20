@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_008"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-17"
+pages = "3"
+
+[person.name]
+last = "Powell"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+title = "President"
+
+

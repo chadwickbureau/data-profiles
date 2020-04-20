@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_011"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-01-26"
+pages = "4"
+
+[person.name]
+last = "Henderson"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Eastern Carolina League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Carolina Association"
+
+

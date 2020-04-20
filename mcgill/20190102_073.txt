@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_073"
+
+[[person.meta.citation]]
+title = "The San Frnaciso Examiner"
+date = "1912-01-28"
+pages = "70"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1912"
+team.league.name = "Pacific Coast League"
+
+

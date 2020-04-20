@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_030"
+
+[[person.meta.citation]]
+title = "The Times-Democrat"
+date = "1902-07-13"
+pages = "11"
+
+[person.name]
+last = "Tlford"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1902"
+league.name = "Cotton States League"
+title = "President"
+
+

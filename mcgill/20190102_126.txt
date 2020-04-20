@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_126"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1914-03-22"
+pages = "12"
+
+[person.name]
+last = "O'Brien"
+use = "Joseph"
+given = "Joseph"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "American Association"
+
+

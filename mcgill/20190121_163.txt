@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_163"
+
+[[person.meta.citation]]
+title = "Salt Lake Telegram"
+date = "1920-03-22"
+pages = "6"
+
+[person.name]
+last = "Byron"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "Pacific Coast League"
+
+

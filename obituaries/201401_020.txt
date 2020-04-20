@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_020"
+
+[[person.meta.citation]]
+title = "Hartman-Graziano Funeral Home"
+date = "2014-01-19"
+url = "http://www.meaningfulfunerals.net/fh/obituaries/obituary.cfm?o_id=2384974&fh_id=14518"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-19"
+
+[person.name]
+last = "Menarchek"
+use = "Joe"
+given = "Joseph J."
+
+[person.birth]
+date = "1928-10-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Whitney"
+
+[person.death]
+date = "2014-01-17"
+place.country = "US"
+place.state = "PA"
+place.city = "Latrobe"
+
+[person.burial]
+cemetery.name = "St. Vincent Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Latrobe"
+
+[[person.education]]
+school.name = "Redstone Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Republic"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_156"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1917-03-01"
+pages = "20"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Central League"
+
+

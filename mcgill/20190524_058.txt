@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_058"
+
+[[person.meta.citation]]
+title = "The Montgomer Times"
+date = "1909-03-25"
+pages = "8"
+
+[person.name]
+last = "Debalt"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1909"
+team.league.name = "Tri-State League"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_043"
+
+[[person.meta.citation]]
+title = "Allison Memorial Chapel"
+date = "2017-11-27"
+url = "http://allisonmemorialchapelandfuneralhome.com/?p=1823"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-27"
+
+[person.name]
+last = "Shadron"
+use = "Don"
+given = "Donald"
+
+[person.birth]
+date = "1938-12-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Baxley"
+
+[person.death]
+date = "2017-11-24"
+place.country = "US"
+place.state = "GA"
+place.city = "Brunswick"
+
+[person.burial]
+cemetery.name = "Oak Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "St. Marys"
+
+[[person.education]]
+school.name = "Glynn Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Brunswick"
+
+

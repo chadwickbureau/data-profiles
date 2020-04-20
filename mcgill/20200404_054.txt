@@ -8,11 +8,6 @@ title = "Sporting Life"
 date = "1911-07-08"
 pages = "20"
 
-[[person.meta.contributor]]
-name.last = "McGill"
-name.use = "Chuck"
-email = "cmcmgill.vt@gmail.com"
-
 [person.name]
 last = "Reynolds"
 use = "Rube"

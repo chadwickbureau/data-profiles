@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_049"
+
+[[person.meta.citation]]
+title = "The Philadelphia Inquirer"
+date = "1909-02-17"
+pages = "10"
+
+[person.name]
+last = "Goehler"
+use = "Jesse"
+given = "Jesse"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "OH"
+place.city = "Barberton"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Ohio-Pennsylvania League"
+
+

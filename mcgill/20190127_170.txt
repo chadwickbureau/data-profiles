@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_170"
+
+[[person.meta.citation]]
+title = "The Spokane Press"
+date = "1906-05-29"
+pages = "1"
+
+[person.name]
+last = "Dodd"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Northwestern League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_118"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1917-07-12"
+pages = "10"
+
+[person.name]
+last = "Bush"
+use = "Garnett"
+given = "Garnett"
+
+[[person.resides]]
+dates = "1917"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Western League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_025"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1903-07-08"
+pages = "1"
+
+[person.name]
+last = "Alberts"
+use = "Gus"
+given = "Gus"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Missouri Valley League"
+
+

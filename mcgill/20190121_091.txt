@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_091"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1912-02-18"
+pages = "13"
+
+[person.name]
+last = "Bierhalter"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "American Association"
+
+

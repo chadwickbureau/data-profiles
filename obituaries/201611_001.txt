@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201611_001"
+
+[[person.meta.citation]]
+title = "McCourt & Trudden Funeral Home"
+date = "2017-12-11"
+url = "http://www.mccourtandtrudden.org/book-of-memories/2774086/lipetri-michael/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-11"
+
+[person.name]
+last = "LiPetri"
+use = "Michael"
+given = "Michael A."
+
+[person.birth]
+date = "1929-07-06"
+
+[person.death]
+date = "2016-11-17"
+

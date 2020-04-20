@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_184"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1919-05-07"
+pages = "13"
+
+[person.name]
+last = "McKee"
+use = "William"
+given = "William A."
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "IN"
+place.city = "Newcastle"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Michigan-Ontario League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_126"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1910-05-02"
+pages = "9"
+
+[person.name]
+last = "Anderson"
+use = "William"
+given = "William N."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

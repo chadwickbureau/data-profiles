@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_041"
+
+[[person.meta.citation]]
+title = "The Evening Kansan-Republican"
+date = "1911-06-05"
+pages = "6"
+
+[person.name]
+last = "Bashange"
+use = "Albert"
+given = "Albert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Newton"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Central Association"
+
+

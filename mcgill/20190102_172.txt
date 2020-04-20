@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_172"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1918-02-08"
+pages = "8"
+
+[person.name]
+last = "Hart"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1918"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1918"
+league.name = "American Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "American League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "American League"
+
+

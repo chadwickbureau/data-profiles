@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_020"
+
+[[person.meta.citation]]
+title = "Concordia Daily Kansas"
+date = "1910-05-26"
+pages = "1"
+
+[person.name]
+last = "Livingston"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Concordia"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-05-25"
+type = "released"
+leave.name = "Concordia"
+leave.league.name = "Central Kansas"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_015"
+
+[[person.meta.citation]]
+title = "The Galveston Daily News"
+date = "1895-06-01"
+pages = "2"
+
+[person.name]
+last = "Brennan"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1905"
+team.name = "Austin"
+team.league.name = "Texas-Southern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Texas-Southern League"
+
+

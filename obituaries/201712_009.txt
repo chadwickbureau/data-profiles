@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_009"
+
+[[person.meta.citation]]
+title = "Deisler Funeral Home"
+date = "2017-12-29"
+url = "http://www.deislerfuneralhome.com/obituaries/Alvin-Al-Luplow/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-29"
+
+[person.name]
+last = "Luplow"
+use = "Al"
+given = "Alvin D."
+
+[person.birth]
+date = "1939-03-13"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+[person.death]
+date = "2017-12-28"
+
+[person.burial]
+cemetery.name = "St. Andrew Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Saginaw"
+
+[[person.education]]
+school.name = "St. Andrew HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Saginaw"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+

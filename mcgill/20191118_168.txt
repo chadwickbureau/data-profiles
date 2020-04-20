@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_168"
+
+[[person.meta.citation]]
+title = "The Salina Daily Union"
+date = "1910-08-17"
+pages = "6"
+
+[person.name]
+last = "Wheatley"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Abilene"
+team.league.name = "Central Kansas League"
+description.height = "72"
+description.weight = "175"
+
+

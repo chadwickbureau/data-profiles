@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_071"
+
+[[person.meta.citation]]
+title = "Altoona Tribune"
+date = "1914-02-04"
+pages = "10"
+
+[person.name]
+last = "Bassett"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1914"
+team.name = "Kentucky-Indiana-Tennessee"
+title = "President"
+
+

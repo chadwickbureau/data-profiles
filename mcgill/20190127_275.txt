@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_275"
+
+[[person.meta.citation]]
+title = "Wisconsin State Journal"
+date = "1912-07-23"
+pages = "10"
+
+[person.name]
+last = "Breyette"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Madison"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Columbus"
+team.league.name = "South Atlantic League"
+
+

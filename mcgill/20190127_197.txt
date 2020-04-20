@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_197"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1915-04-11"
+pages = "18"
+
+[person.name]
+last = "Harrison"
+use = "Peter"
+given = "Peter"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "International League"
+
+

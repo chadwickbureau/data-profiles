@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_115"
+
+[[person.meta.citation]]
+title = "Evansville Press"
+date = "1911-03-01"
+pages = "6"
+
+[person.name]
+last = "Weddidge"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "American Association"
+
+

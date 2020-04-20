@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_171"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1907-04-24"
+pages = "8"
+
+[person.name]
+last = "Ward"
+use = "Piggy"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Northwestern League"
+
+

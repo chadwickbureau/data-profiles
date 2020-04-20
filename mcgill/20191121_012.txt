@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_012"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-04-21"
+pages = "3"
+
+[person.name]
+last = "Burgess"
+use = "Solon"
+given = "Solon"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Larned"
+team.league.name = "Kansas State League"
+title = "President"
+
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_010"
+
+[[person.meta.citation]]
+title = "The Post-Standard"
+date = "1911-01-13"
+pages = "14"
+
+[person.name]
+last = "Anderson"
+use = "Ollie"
+given = "Ollie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Northern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Minnesota-Wisconsin League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "New York State League"
+
+

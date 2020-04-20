@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_267"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1911-05-10"
+pages = "14"
+
+[person.name]
+last = "Harris"
+use = "Norval"
+given = "Norval"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

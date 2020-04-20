@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_046"
+
+[[person.meta.citation]]
+title = "The Philadelphia Inquirer"
+date = "1909-02-17"
+pages = "10"
+
+[person.name]
+last = "Keefe"
+use = "John"
+given = "John P."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburg"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Ohio-Pennsylvania League"
+
+

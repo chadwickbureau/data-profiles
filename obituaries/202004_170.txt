@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_170"
+
+[[person.meta.citation]]
+title = "Boles Funeral Home"
+date = "2020-04-18"
+url = "https://www.bolesfuneralhome.com/obituaries/Joseph-Bruce-Oxendine?obId=12711686#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-18"
+
+[person.name]
+last = "Oxendine"
+use = "Joseph"
+given = "Joseph Bruce"
+
+[person.birth]
+date = "1930-03-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Pembroke"
+
+[person.death]
+date = "2020-04-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Pinehurst"
+
+[[person.education]]
+school.name = "Catawba College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

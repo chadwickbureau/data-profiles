@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_126"
+
+[[person.meta.citation]]
+title = "The Hartford Courant"
+date = "1885-12-29"
+pages = "3"
+
+[person.name]
+last = "Kelly"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1885"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1886"
+league.name = "American Association"
+
+

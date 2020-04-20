@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_015"
+
+[[person.meta.citation]]
+title = "The Watchman and Southern"
+date = "1907-05-15"
+pages = "4"
+
+[person.name]
+last = "McGrath"
+given = "M."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "South Carolina League"
+
+

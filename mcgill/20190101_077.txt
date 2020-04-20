@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_077"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times"
+date = "1905-04-27"
+pages = "8"
+
+[person.name]
+last = "Sullivan"
+given = "W. J."
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "New England League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "New York State League"
+
+

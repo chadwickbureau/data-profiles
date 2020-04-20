@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_003"
+
+[[person.meta.citation]]
+title = "Wilmington Star-News"
+date = "2014-01-11"
+url = "http://www.legacy.com/obituaries/starnewsonline/obituary.aspx?n=Richard-Ackermann&pid=169001423"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-11"
+
+[person.name]
+last = "Ackermann"
+use = "Richard"
+given = "Richard John"
+
+[person.birth]
+date = "1929-05-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-01-09"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+
+[[person.education]]
+school.name = "Lane Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_032"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1909-08-15"
+pages = "1"
+
+[person.name]
+last = "Nissen"
+use = "Carl"
+given = "Carl"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "NC"
+place.city = "Waughtown"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+

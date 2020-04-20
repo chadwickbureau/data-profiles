@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_012"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-05-16"
+pages = "6"
+
+[person.name]
+last = "Walker"
+use = "Curtis"
+given = "Curtis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Connecticut State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+description.height = "74"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_035"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1905-04-23"
+pages = "33"
+
+[person.name]
+last = "McKee"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1905"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western League"
+
+

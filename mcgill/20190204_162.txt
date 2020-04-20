@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_162"
+
+[[person.meta.citation]]
+title = "The Montgomery Times"
+date = "1908-04-20"
+pages = "3"
+
+[person.name]
+last = "Goldthwaite"
+use = "Herbert"
+given = "Herbert"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Montgomery"
+team.league.name = "Cotton States League"
+title = "Official Scorer"
+
+

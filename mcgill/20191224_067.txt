@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_067"
+
+[[person.meta.citation]]
+title = "The Wichita Daily Eagle"
+date = "1911-06-15"
+pages = "7"
+
+[person.name]
+last = "Peckham"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Haven"
+team.place.country = "US"
+team.place.state = "KS"
+team.caliber = "amateur"
+
+

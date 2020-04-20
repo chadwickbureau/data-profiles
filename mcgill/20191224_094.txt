@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_094"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-07-05"
+pages = "3"
+
+[person.name]
+last = "Leonard"
+use = "Lott"
+given = "Lott"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

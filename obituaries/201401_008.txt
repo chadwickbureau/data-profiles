@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_008"
+
+[[person.meta.citation]]
+title = "Salisbury Post"
+date = "2014-01-22"
+url = "http://www.legacy.com/obituaries/salisburypost/obituary.aspx?n=Vernon-Benson&pid=169213959"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-22"
+
+[person.name]
+last = "Benson"
+use = "Vernon"
+given = "Vernon A."
+
+[person.birth]
+date = "1924-09-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Rowan County"
+
+[person.death]
+date = "2014-01-20"
+place.country = "US"
+place.state = "NC"
+place.city = "Salisbury"
+
+[person.burial]
+cemetery.name = "Rowan Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Salisbury"
+
+[[person.education]]
+school.name = "Granite Quarry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Granite Quarry"
+
+[[person.education]]
+school.name = "Catawba College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Salisbury"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

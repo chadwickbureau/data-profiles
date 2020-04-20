@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_003"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1905-04-22"
+pages = "3"
+
+[person.name]
+last = "Martin"
+use = "Fred"
+given = "Fred W."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1905"
+team.name = "South Bend"
+team.league.name = "Central League"
+title = "President"
+
+

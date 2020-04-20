@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_040"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-03"
+pages = "3"
+
+[person.name]
+last = "Simcox"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+
+

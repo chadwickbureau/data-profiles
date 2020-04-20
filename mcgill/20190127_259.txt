@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_259"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Rowe"
+use = "Red"
+
+[[person.resides]]
+dates = "1912"
+place.country = "CA"
+place.state = "ON"
+place.city = "Burlington"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "23"
+description.throws = "R"
+description.bats = "R"
+description.height = "68"
+description.weight = "157"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+

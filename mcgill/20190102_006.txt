@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_006"
+
+[[person.meta.citation]]
+title = "The Vicksburg Herald"
+date = "1907-01-13"
+pages = "1"
+
+[person.name]
+last = "Carruthers"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1907"
+team.name = "St. Louis"
+
+

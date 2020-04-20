@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_055"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1903-04-06"
+pages = "8"
+
+[person.name]
+last = "Halderman"
+given = "C. W."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1903"
+team.name = "Marion"
+team.league.name = "Central League"
+title = "President"
+
+

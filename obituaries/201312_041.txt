@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_041"
+
+[[person.meta.citation]]
+title = "Databution.com"
+date = "2013-12-30"
+url = "http://www.databution.com/zfiles/obit.php?display=5679"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-30"
+
+[person.name]
+last = "Mosley"
+use = "Tim"
+given = "Timothy J."
+
+[person.birth]
+date = "1974-10-16"
+
+[person.death]
+date = "2013-12-25"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[[person.education]]
+school.name = "Mohawk HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Bessemer"
+
+[[person.education]]
+school.name = "Crowder College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Neosho"
+
+[[person.education]]
+school.name = "University of Arkansas"
+school.type = "college"
+
+

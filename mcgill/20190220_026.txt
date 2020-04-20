@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_026"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1913-06-29"
+pages = "9"
+
+[person.name]
+last = "Topham"
+
+[[person.education]]
+school.name = "Bucknell"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "1913-06-29"
+type = "acquired"
+join.name = "Sioux City"
+join.league.name = "Western"
+leave.name = "Pittsburgh"
+leave.league.name = "National"
+
+[[person.transaction]]
+date = "1913-07-05"
+type = "released"
+leave.name = "Sioux City"
+leave.league.name = "Western"
+
+

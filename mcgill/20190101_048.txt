@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_048"
+
+[[person.meta.citation]]
+title = "The Hazelton Sentinel"
+date = "1887-04-08"
+pages = "1"
+
+[person.name]
+last = "Canfield"
+use = "Walter"
+given = "Walter"
+
+[[person.resides]]
+dates = "1887"
+place.country = "US"
+place.state = "CT"
+place.city = "Bridgeport"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1887"
+league.name = "Eastern League"
+
+

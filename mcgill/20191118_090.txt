@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_090"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Harkins"
+use = "Irish"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux City"
+team.league.name = "Tri-State League"
+description.position = "P"
+description.bats = "L"
+description.throws = "L"
+description.age = "33"
+description.height = "70.5"
+description.weight = "175"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_001"
+
+[[person.meta.citation]]
+title = "Palladium-Item"
+date = "1908-04-28"
+pages = "2"
+
+[person.name]
+last = "Cameron"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Richmond"
+team.league.name = "Ohio-Indiana League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Richmond"
+team.league.name = "Ohio-Indiana League"
+
+

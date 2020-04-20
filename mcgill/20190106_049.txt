@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_049"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1911-05-02"
+pages = "8"
+
+[person.name]
+last = "Hayes"
+use = "James"
+given = "James T."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1911"
+team.name = "Illinois-Indiana-Iowa"
+title = "Vice President"
+
+

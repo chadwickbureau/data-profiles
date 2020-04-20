@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_042"
+
+[[person.meta.citation]]
+title = "Jefferson Memorial Funeral Home"
+date = "2017-11-04"
+url = "http://jmgardens.com/tribute/details/8714/Joe-Schatz/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-04"
+
+[person.name]
+last = "Schatz"
+use = "Joe"
+given = "Joe E."
+suffix = "Jr."
+
+[person.birth]
+date = "1938"
+
+[person.death]
+date = "2017-11-01"
+
+[person.burial]
+cemetery.name = "Jefferson Memorial Gardens East"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Trussville"
+

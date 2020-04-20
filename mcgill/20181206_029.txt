@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_029"
+
+[[person.meta.citation]]
+title = "The Evening Chronicle"
+date = "1909-04-24"
+pages = "7"
+
+[person.name]
+last = "Ellinor"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Meridian"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_031"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1901-09-23"
+pages = "8"
+
+[person.name]
+last = "Gruber"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+title = "Official Scorer"
+
+

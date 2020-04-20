@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_002"
+
+[[person.meta.citation]]
+title = "The Hutchison Gazette"
+date = "1911-03-04"
+pages = "9"
+
+[person.name]
+last = "Wing"
+use = "Neil"
+given = "Neil"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Kansas State League"
+
+

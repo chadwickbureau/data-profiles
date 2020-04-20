@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_149"
+
+[[person.meta.citation]]
+title = "The Times-Democrat"
+date = "1908-03-22"
+pages = "15"
+
+[person.name]
+last = "Thomson"
+use = "Stennis"
+given = "Stennis"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Meridien"
+team.league.name = "Cotton States League"
+title = "Official Scorer"
+
+

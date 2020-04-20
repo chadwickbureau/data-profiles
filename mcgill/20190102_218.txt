@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_218"
+
+[[person.meta.citation]]
+title = "The Town Talk"
+date = "1922-01-02"
+pages = "4"
+
+[person.name]
+last = "Brennan"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1922"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "National League"
+
+

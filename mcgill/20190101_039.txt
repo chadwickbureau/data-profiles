@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_039"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Eagle News"
+date = "1905-06-07"
+pages = "3"
+
+[person.name]
+last = "Clark"
+given = "J. William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Hudson River League"
+
+

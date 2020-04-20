@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_091"
+
+[[person.meta.citation]]
+title = "The Leavenworth Times"
+date = "1886-05-28"
+pages = "4"
+
+[person.name]
+last = "Hurley"
+given = "M."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1886"
+league.name = "Western League"
+
+

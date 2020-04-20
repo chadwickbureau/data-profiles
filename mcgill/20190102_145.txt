@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_145"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1915-05-01"
+pages = "1"
+
+[person.name]
+last = "Long"
+use = "Fred"
+given = "Fred D."
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Ohio State League"
+
+

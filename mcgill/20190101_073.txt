@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_073"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1907-04-08"
+pages = "8"
+
+[person.name]
+last = "Cross"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Wisconsin State League"
+
+

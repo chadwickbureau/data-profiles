@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_021"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-13"
+pages = "3"
+
+[person.name]
+last = "Leach"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Horton"
+team.league.name = "Eastern Kansas League"
+
+

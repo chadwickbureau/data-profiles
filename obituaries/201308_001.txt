@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201308_001"
+
+[[person.meta.citation]]
+title = "Record/Herald News"
+date = "2013-08-31"
+url = "http://www.legacy.com/obituaries/northjersey/obituary.aspx?n=donald-e-brennan&pid=166780303"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-01-25"
+
+[person.name]
+last = "Brennan"
+use = "Don"
+given = "Donald E."
+
+[person.birth]
+date = "1935"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2013-08-26"
+place.country = "US"
+place.state = "NJ"
+place.city = "Ho-Ho-Kus"
+
+[[person.education]]
+school.name = "St. Anne's Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Manhattan"
+
+[[person.education]]
+school.name = "Iona College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "New Rochelle"
+
+[[person.education]]
+school.name = "Florida Southern College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Lakeland"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_131"
+
+[[person.meta.citation]]
+title = "The Post-Crescent"
+date = "1909-05-07"
+pages = "1"
+
+[person.name]
+last = "Persch"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Appleton"
+team.league.name = "Wisconsin-Illinois League"
+description.bats = "L"
+
+

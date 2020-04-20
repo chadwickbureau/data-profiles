@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_041"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-07-10"
+pages = "4"
+
+[person.name]
+last = "White"
+use = "Dad"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

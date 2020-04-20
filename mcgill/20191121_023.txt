@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_023"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-13"
+pages = "3"
+
+[person.name]
+last = "Keller"
+given = "E. S."
+
+[person.birth]
+date = "1887"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MN"
+place.city = "Minneapolis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.height = "72"
+description.weight = "190"
+
+

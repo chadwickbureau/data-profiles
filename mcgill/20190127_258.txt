@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_258"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-14"
+pages = "8"
+
+[person.name]
+last = "Draper"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "VA"
+place.city = "Roanoke"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+description.age = "20"
+description.bats = "L"
+description.throws = "L"
+description.height = "68"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Roanaoke"
+team.league.name = "Virginia League"
+
+

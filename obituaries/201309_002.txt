@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201309_002"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2013-09-04"
+url = "http://www.legacy.com/obituaries/sacbee/obituary.aspx?n=Kenneth-ORVICK&pid=166789309#fbLoggedOut"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2014-01-26"
+
+[person.name]
+last = "Orvick"
+use = "Ken"
+given = "Kenneth Matthew"
+
+[person.birth]
+date = "1933-01-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "2013-09-03"
+
+[[person.education]]
+school.name = "Christian Brothers HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"
+
+

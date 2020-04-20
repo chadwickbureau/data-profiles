@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_180"
+
+[[person.meta.citation]]
+title = "Vancouver Daily World"
+date = "1922-03-24"
+pages = "10"
+
+[person.name]
+last = "Finney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1922"
+league.name = "Pacific Coast League"
+
+

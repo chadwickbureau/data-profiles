@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_006"
+
+[[person.meta.citation]]
+title = "Herald-Dispatch"
+date = "2017-11-05"
+url = "http://www.legacy.com/obituaries/herald-dispatch/obituary.aspx?n=lewis-joseph-dantoni&pid=187152428"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-05"
+
+[person.name]
+last = "D'Antoni"
+use = "Lewis"
+given = "Lewis Joseph"
+
+[person.birth]
+date = "1913-12-31"
+place.country = "US"
+place.state = "WV"
+place.city = "McComas"
+
+[person.death]
+date = "2017-10-28"
+place.country = "US"
+place.state = "WV"
+place.city = "Barboursville"
+
+[[person.education]]
+school.name = "Mullens HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Mullens"
+
+[[person.education]]
+school.name = "Concord University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Athens"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_183"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1919-05-07"
+pages = "13"
+
+[person.name]
+last = "Davis"
+given = "J. Ira"
+
+[[person.resides]]
+dates = "1919"
+place.country = "US"
+place.state = "NY"
+place.city = "Massena"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Michigan-Ontario League"
+
+

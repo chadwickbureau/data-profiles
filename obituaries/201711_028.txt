@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_028"
+
+[[person.meta.citation]]
+title = "Sweeney-Phillips & Holdren Funeral Home"
+date = "2017-11-27"
+url = "http://www.sweeneyphillipsholdren.com/obituary/kenneth-jones"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-27"
+
+[person.name]
+last = "Jones"
+use = "Kenny"
+given = "Kenneth John"
+
+[person.birth]
+date = "1924-10-09"
+place.country = "US"
+place.state = "MO"
+place.city = "Mayview"
+
+[person.death]
+date = "2017-11-20"
+place.country = "US"
+place.state = "MO"
+place.city = "Warrensburg"
+
+[[person.education]]
+school.name = "Farmers HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Warrensburg"
+
+[[person.education]]
+school.name = "Missouri Valley College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

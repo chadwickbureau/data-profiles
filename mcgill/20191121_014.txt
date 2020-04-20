@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_014"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-09"
+pages = "3"
+
+[person.name]
+last = "Sizemore"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

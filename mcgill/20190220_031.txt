@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_031"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1914-04-10"
+pages = "12"
+
+[person.name]
+last = "Baird"
+use = "Douglas"
+given = "Douglas"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

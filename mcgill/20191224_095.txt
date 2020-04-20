@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_095"
+
+[[person.meta.citation]]
+title = "Lyons Daily News"
+date = "1911-07-05"
+pages = "4"
+
+[person.name]
+last = "Blank"
+use = "Cooney"
+given = "Cooney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Sapulpa"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

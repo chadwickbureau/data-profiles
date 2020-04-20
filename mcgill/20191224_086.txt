@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_086"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-06-25"
+pages = "8"
+
+[person.name]
+last = "Wetzel"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

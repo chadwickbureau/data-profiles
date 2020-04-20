@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_143"
+
+[[person.meta.citation]]
+title = "Green Bay Press-Gazette"
+date = "1910-04-11"
+pages = "7"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Wisconsin-Illinois League"
+
+

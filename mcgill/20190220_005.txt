@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_005"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1908-07-03"
+pages = "6"
+
+[person.name]
+last = "Clawson"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "McPherson"
+team.league.name = "Central Kansas League"
+
+

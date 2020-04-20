@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181206_015"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1909-05-07"
+pages = "3"
+
+[person.name]
+last = "Reggy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Charlotte"
+team.league.name = "Carolina Association"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_143"
+
+[[person.meta.citation]]
+title = "Austin-American-Statesman"
+date = "1902-04-21"
+pages = "4"
+
+[person.name]
+last = "Mace"
+use = "Harry"
+given = "Harry F."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "@"
+league.name = "1902 Southern Association"
+
+

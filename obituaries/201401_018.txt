@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_018"
+
+[[person.meta.citation]]
+title = "Spartanburg Herald-Journal"
+date = "2014-01-24"
+url = "http://www.legacy.com/obituaries/spartanburg/obituary.aspx?n=Timothy-Hosley&pid=169257973"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2014-01-24"
+
+[person.name]
+last = "Hosley"
+use = "Tim"
+given = "Timothy Kenneth"
+
+[person.death]
+date = "2014-01-21"
+place.country = "US"
+place.state = "SC"
+place.city = "Moore"
+
+[person.burial]
+cemetery.name = "Heritage Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Roebuck"
+

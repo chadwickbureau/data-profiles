@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_020"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-07-01"
+pages = "2"
+
+[person.name]
+last = "Vail"
+use = "Bobby"
+given = "Bobby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Greenville"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.league.name = "Vriginia League"
+
+

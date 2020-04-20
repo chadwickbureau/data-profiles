@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_090"
+
+[[person.meta.citation]]
+title = "The Cincinnati Enquirer"
+date = "1909-04-25"
+pages = "37"
+
+[person.name]
+last = "Hendricks"
+use = "John"
+given = "John G."
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+
+

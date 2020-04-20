@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_211"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1909-04-27"
+pages = "9"
+
+[person.name]
+last = "Jones"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Grand Rapids"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

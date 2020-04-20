@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_008"
+
+[[person.meta.citation]]
+title = "Victoria Times Colonist"
+date = "2017-12-30"
+url = "http://www.legacy.com/obituaries/timescolonist/obituary.aspx?n=arthur-worth&pid=187676892"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-30"
+
+[person.name]
+last = "Worth"
+use = "Art"
+given = "Arthur James"
+
+[person.birth]
+date = "1929-02-23"
+place.country = "CA"
+place.state = "BC"
+place.city = "Victoria"
+
+[person.death]
+date = "2017-12-20"
+

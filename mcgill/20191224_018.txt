@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_018"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-05-23"
+pages = "3"
+
+[person.name]
+last = "Price"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Hutchinson"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+

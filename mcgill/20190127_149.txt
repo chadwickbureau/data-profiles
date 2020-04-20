@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_149"
+
+[[person.meta.citation]]
+title = "The Bridgeport Evening Farmer"
+date = "1914-08-17"
+pages = "8"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "International League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1914"
+league.name = "Eastern Association League"
+
+

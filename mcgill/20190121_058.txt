@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_058"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1912-04-30"
+pages = "4"
+
+[person.name]
+last = "Cusack"
+use = "Steve"
+given = "Steve"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Illinois-Indiana-Iowa League"
+
+

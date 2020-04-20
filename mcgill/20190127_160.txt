@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_160"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1917-07-13"
+pages = "11"
+
+[person.name]
+last = "McGilvray"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Western League"
+
+

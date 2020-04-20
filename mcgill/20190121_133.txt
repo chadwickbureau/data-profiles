@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_133"
+
+[[person.meta.citation]]
+title = "The Topeka State Journal"
+date = "1904-03-02"
+pages = "10"
+
+[person.name]
+last = "Carruthers"
+use = "Robert"
+given = "Robert L."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Western League"
+
+

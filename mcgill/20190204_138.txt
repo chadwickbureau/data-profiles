@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_138"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1907-04-30"
+pages = "3"
+
+[person.name]
+last = "Marney"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

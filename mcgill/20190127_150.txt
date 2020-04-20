@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_150"
+
+[[person.meta.citation]]
+title = "Dayton Daily News"
+date = "1915-05-27"
+pages = "9"
+
+[person.name]
+last = "Peitz"
+use = "Heine"
+given = "Heine"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Central League"
+
+

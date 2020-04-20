@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_041"
+
+[[person.meta.citation]]
+title = "Swedberg-Taylor Funeral Home"
+date = "2017-12-08"
+url = "http://www.swedberg-taylor.com/obituary/david-hoffman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-08"
+
+[person.name]
+last = "Hoffman"
+use = "David"
+given = "David Raymond"
+
+[person.birth]
+date = "1944-03-12"
+
+[person.death]
+date = "2017-12-04"
+place.country = "US"
+place.state = "WI"
+place.city = "Danbury"
+
+[[person.education]]
+school.name = "Hutchinson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Hutchinson"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "Vietnam War"
+
+

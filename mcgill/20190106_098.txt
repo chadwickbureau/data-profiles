@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_098"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-02"
+pages = "3"
+
+[person.name]
+last = "Buelow"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1910"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

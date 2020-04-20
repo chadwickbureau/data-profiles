@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_176"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1912-05-07"
+pages = "13"
+
+[person.name]
+last = "Donovan"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Taylorville"
+team.league.name = "Illinois-Missouri League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Champaign-Urbana"
+team.league.name = "Illinois-Missouri League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1912"
+team.name = "Clinton"
+team.league.name = "Illinois-Missouri League"
+
+

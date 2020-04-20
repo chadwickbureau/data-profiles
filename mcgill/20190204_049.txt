@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_049"
+
+[[person.meta.citation]]
+title = "The Butte Daily Post"
+date = "1902-06-23"
+pages = "9"
+
+[person.name]
+last = "Nolan"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1902"
+team.name = "Dallas"
+team.league.name = "Texas League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_173"
+
+[[person.meta.citation]]
+title = "Wausau Daily Herald"
+date = "1908-09-15"
+pages = "5"
+
+[person.name]
+last = "Honan"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1908"
+team.name = "Wausau"
+team.league.name = "Wisconsin-Illinois League"
+title = "Official Scorer"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Wausau"
+team.league.name = "Wisconsin-Illinois League"
+title = "Official Scorer"
+
+

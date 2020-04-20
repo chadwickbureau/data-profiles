@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_011"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Freeman"
+use = "James"
+given = "James"
+
+[person.birth]
+date = "1878"
+place.country = "US"
+place.state = "TN"
+place.city = "Dresden"
+
+[person.description]
+note = [ "went to Chicago White Sox latter part of 1907", "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Evansville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Evansville"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

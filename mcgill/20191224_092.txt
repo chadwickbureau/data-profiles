@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_092"
+
+[[person.meta.citation]]
+title = "The Hutchinson Gazette"
+date = "1911-06-30"
+pages = "3"
+
+[person.name]
+last = "Landreth"
+use = "Cyrus"
+given = "Cyrus"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

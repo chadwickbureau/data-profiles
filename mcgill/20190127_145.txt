@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_145"
+
+[[person.meta.citation]]
+title = "The Davenport Democrat and Leader"
+date = "1910-06-19"
+pages = "13"
+
+[person.name]
+last = "Daly"
+use = "Con"
+given = "Con"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Wisconsin-Illinois League"
+
+

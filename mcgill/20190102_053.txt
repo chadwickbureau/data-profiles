@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_053"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre News"
+date = "1909-03-12"
+pages = "8"
+
+[person.name]
+last = "Brown"
+use = "Tom"
+given = "Tom"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "New York State League"
+
+

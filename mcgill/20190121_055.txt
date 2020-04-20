@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_055"
+
+[[person.meta.citation]]
+title = "New Castle Herald"
+date = "1909-06-15"
+pages = "2"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Ohio-Pennsylvania League"
+
+

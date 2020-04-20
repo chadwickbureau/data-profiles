@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_003"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-06-15"
+pages = "1"
+
+[person.name]
+last = "Brumage"
+use = "Alpha"
+given = "Alpha"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Central Kansas League"
+
+

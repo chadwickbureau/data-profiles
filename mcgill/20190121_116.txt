@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_116"
+
+[[person.meta.citation]]
+title = "The Vancouver Sun"
+date = "1916-03-24"
+pages = "6"
+
+[person.name]
+last = "Howell"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "St. Louis"
+team.league.name = "American League"
+description.position = "P"
+
+

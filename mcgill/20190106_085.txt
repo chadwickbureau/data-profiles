@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_085"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-04-30"
+pages = "3"
+
+[person.name]
+last = "Wheelock"
+use = "Wallace"
+given = "Wallace"
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+
+

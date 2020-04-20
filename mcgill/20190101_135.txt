@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_135"
+
+[[person.meta.citation]]
+title = "Davenport Democrat"
+date = "1904-01-24"
+pages = "8"
+
+[person.name]
+last = "Jannery"
+use = "Victor"
+given = "Victor"
+
+[[person.resides]]
+dates = "1904"
+place.country = "US"
+place.state = "IL"
+place.city = "Marshall"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Illinois-Indiana-Iowa League"
+
+

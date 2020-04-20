@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_045"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1909-04-05"
+pages = "6"
+
+[person.name]
+last = "Clifford"
+use = "Tom"
+given = "Tom"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Arkansas State League"
+
+

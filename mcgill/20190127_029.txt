@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_029"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1908-06-10"
+pages = "6"
+
+[person.name]
+last = "Peffer"
+given = "B."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "New York State League"
+
+

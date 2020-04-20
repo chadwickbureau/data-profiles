@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_166"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Journal"
+date = "1921-04-01"
+pages = "16"
+
+[person.name]
+last = "Phyle"
+use = "William"
+given = "William J."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Pacific Coast League"
+
+

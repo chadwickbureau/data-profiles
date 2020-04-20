@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_141"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1907-04-30"
+pages = "3"
+
+[person.name]
+last = "Goff"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_005"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1905-04-22"
+pages = "3"
+
+[person.name]
+last = "Smith"
+use = "Louis"
+given = "Louis D."
+
+[[person.affiliation]]
+type = "executive"
+dates = "1905"
+team.name = "Terre Haute"
+team.league.name = "Central League"
+title = "President"
+
+

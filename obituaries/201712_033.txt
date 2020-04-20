@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_033"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2017-12-08"
+url = "http://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=ernie-fazio&pid=187451279"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-08"
+
+[person.name]
+last = "Fazio"
+use = "Ernie"
+given = "Ernest Joseph"
+
+[person.birth]
+date = "1942-01-25"
+place.country = "US"
+place.state = "CA"
+place.city = "San Leandro"
+
+[person.death]
+date = "2017-12-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Danville"
+
+[[person.education]]
+school.name = "St. Elizabeth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+[[person.education]]
+school.name = "Santa Clara University"
+school.type = "college"
+
+

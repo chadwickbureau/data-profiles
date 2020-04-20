@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_059"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-06-12"
+pages = "3"
+
+[person.name]
+last = "Fuller"
+use = "Art"
+given = "Art"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "KS"
+place.city = "Winfield"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+
+

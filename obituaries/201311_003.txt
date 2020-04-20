@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201311_003"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2013-11-17"
+url = "https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=Robert-Kammien&pid=168025607"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-12-13"
+
+[person.name]
+last = "Kammien"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1932-12-28"
+
+[person.death]
+date = "2013-11-11"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

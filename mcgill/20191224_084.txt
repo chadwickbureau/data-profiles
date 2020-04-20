@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_084"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-28"
+pages = "3"
+
+[person.name]
+last = "Langley"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Kansas State League"
+
+

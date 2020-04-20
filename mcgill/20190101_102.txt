@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_102"
+
+[[person.meta.citation]]
+title = "The Record Union"
+date = "1898-03-04"
+pages = "8"
+
+[person.name]
+last = "Otto"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1898"
+league.name = "Pacific States League"
+
+

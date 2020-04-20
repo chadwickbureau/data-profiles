@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_089"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1909-06-25"
+pages = "1"
+
+[person.name]
+last = "Hunt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Arkansas State League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_158"
+
+[[person.meta.citation]]
+title = "The Oregon Daily Hournal"
+date = "1919-04-20"
+pages = "18"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Pacific Coast League"
+
+

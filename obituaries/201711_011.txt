@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_011"
+
+[[person.meta.citation]]
+title = "Scranton Times"
+date = "2017-11-14"
+url = "http://www.legacy.com/obituaries/thetimes-tribune/obituary.aspx?n=michael-edward-chorba&pid=187235372&fhid=28267"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-14"
+
+[person.name]
+last = "Chorba"
+use = "Mike"
+given = "Michael Edward"
+nick = "Ed"
+
+[person.birth]
+date = "1924-10-01"
+place.country = "US"
+place.state = "PA"
+place.city = "Throop"
+
+[person.death]
+date = "2017-11-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[[person.education]]
+school.name = "Throop HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Throop"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

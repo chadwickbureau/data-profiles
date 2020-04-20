@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_041"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1909-04-05"
+pages = "6"
+
+[person.name]
+last = "McDonald"
+use = "Bob"
+given = "Bob"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Arkansas State League"
+
+

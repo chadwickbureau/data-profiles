@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_048"
+
+[[person.meta.citation]]
+title = "Virginian-Pilot"
+date = "1900-06-13"
+pages = "11"
+
+[person.name]
+last = "Lassiter"
+use = "George"
+given = "George W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1900"
+league.name = "Virginia League"
+
+

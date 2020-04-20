@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_019"
+
+[[person.meta.citation]]
+title = "Great Bend Tribune"
+date = "1911-05-23"
+pages = "4"
+
+[person.name]
+last = "Ehret"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "McPherson"
+team.league.name = "Kansas State League"
+description.position = "P"
+description.throws = "L"
+
+

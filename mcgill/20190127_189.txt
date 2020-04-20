@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_189"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1908-06-30"
+pages = "7"
+
+[person.name]
+last = "Durand"
+use = "Dan"
+given = "Dan"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Arkansas State League"
+
+

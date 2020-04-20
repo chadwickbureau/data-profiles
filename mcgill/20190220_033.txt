@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_033"
+
+[[person.meta.citation]]
+title = "Ellsworth Messenger"
+date = "1909-06-17"
+pages = "1"
+
+[person.name]
+last = "Hamlin"
+use = "Fritz"
+given = "Fritz"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1909"
+team.name = "Lyons"
+team.league.name = "Kansas State League"
+
+

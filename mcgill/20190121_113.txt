@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_113"
+
+[[person.meta.citation]]
+title = "The Daily Gate City"
+date = "1915-07-30"
+pages = "5"
+
+[person.name]
+last = "Bush"
+use = "Garnett"
+given = "Garnett C."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Central Association"
+
+

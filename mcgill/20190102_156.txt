@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_156"
+
+[[person.meta.citation]]
+title = "The Times Recorder"
+date = "1916-02-28"
+pages = "12"
+
+[person.name]
+last = "Geisel"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Central League"
+
+

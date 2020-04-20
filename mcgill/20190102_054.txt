@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_054"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1909-04-03"
+pages = "6"
+
+[person.name]
+last = "Bush"
+given = "G. C."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1909"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1909"
+league.name = "Wisconsin State League"
+
+

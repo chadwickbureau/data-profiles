@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201711_025"
+
+[[person.meta.citation]]
+title = "Macon Memorial Park Funeral Home"
+date = "2017-11-26"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Charles-Haygood&lc=7134&pid=187342707&mid=7652804"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-26"
+
+[person.name]
+last = "Haygood"
+use = "Charlie"
+given = "Charles"
+nick = "Buck"
+
+[person.birth]
+date = "1942-08-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Macon"
+
+[person.death]
+date = "2017-11-24"
+
+[person.burial]
+cemetery.name = "Midway Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Macon"
+
+[[person.education]]
+school.name = "Lanier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Macon"
+
+

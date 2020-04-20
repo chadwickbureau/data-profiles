@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_029"
+
+[[person.meta.citation]]
+title = "The Times-Democrat"
+date = "1902-07-13"
+pages = "11"
+
+[person.name]
+last = "Wheatley"
+use = "George"
+given = "George"
+
+[[person.resides]]
+dates = "1902"
+place.country = "US"
+place.state = "MS"
+place.city = "Greenville"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1902"
+league.name = "Cotton States League"
+title = "President"
+
+

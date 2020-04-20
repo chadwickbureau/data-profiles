@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_151"
+
+[[person.meta.citation]]
+title = "Buffalo Courier"
+date = "1903-04-02"
+pages = "13"
+
+[person.name]
+last = "Kelly"
+use = "Thomas"
+given = "Thomas B."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Eastern League"
+
+

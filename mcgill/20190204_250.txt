@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_250"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1911-04-18"
+pages = "9"
+
+[person.name]
+last = "Gorman"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Saginaw"
+team.league.name = "Southern Michigan League"
+title = "Official Scorer"
+
+

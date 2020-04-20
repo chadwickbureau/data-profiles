@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_070"
+
+[[person.meta.citation]]
+title = "The Daily Gate City"
+date = "1912-01-08"
+pages = "8"
+
+[person.name]
+last = "Agur"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Central Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1912"
+league.name = "New York State League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1912"
+league.name = "Central League"
+
+

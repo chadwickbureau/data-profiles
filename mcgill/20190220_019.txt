@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_019"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1912-05-22"
+pages = "8"
+
+[person.name]
+last = "Moser"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+
+[[person.transaction]]
+date = "1912-04-22"
+type = "purchased"
+join.name = "Sioux City"
+join.league.name = "Western"
+leave.name = "St. Louis"
+leave.league.name = "American"
+
+[[person.transaction]]
+date = "1912-05-21"
+type = "returned"
+leave.name = "Sioux City"
+leave.league.name = "Western"
+join.name = "St. Louis"
+join.league.name = "American"
+
+

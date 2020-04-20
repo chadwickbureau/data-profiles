@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_014"
+
+[[person.meta.citation]]
+title = "Forbis & Dick Funeral Home"
+date = "2017-10-30"
+url = "http://www.forbisanddick.com/obituaries/William-Montgomery-13/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-30"
+
+[person.name]
+last = "Montgomery"
+use = "Donny"
+given = "William Donald"
+
+[person.birth]
+date = "1930-08-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Rockingham County"
+
+[person.death]
+date = "2017-10-26"
+place.country = "US"
+place.state = "NC"
+place.city = "Reidsville"
+
+[person.burial]
+cemetery.name = "Mayodan Municipal Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Mayodan"
+

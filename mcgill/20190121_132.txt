@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_132"
+
+[[person.meta.citation]]
+title = "Th Inter Ocean"
+date = "1903-05-25"
+pages = "4"
+
+[person.name]
+last = "Carruthers"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "American League"
+
+

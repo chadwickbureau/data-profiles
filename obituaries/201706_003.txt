@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201706_003"
+
+[[person.meta.citation]]
+title = "Sponichi.co.jp"
+date = "2017-06-28"
+url = "http://www.sponichi.co.jp/baseball/news/2017/06/28/kiji/20170628s00001173388000c.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-08"
+
+[person.name]
+last = "Mori"
+use = "Shinji"
+given = "Shinji"
+
+[person.death]
+date = "2017-06-28"
+place.country = "JP"
+place.city = "Fukuoka"
+

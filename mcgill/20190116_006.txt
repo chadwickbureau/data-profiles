@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_006"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-13"
+pages = "3"
+
+[person.name]
+last = "Lander"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1904"
+team.name = "Dayton"
+team.league.name = "Central League"
+title = "Director"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_012"
+
+[[person.meta.citation]]
+title = "Portland Press Herald"
+date = "2017-11-26"
+url = "http://obituaries.pressherald.com/obituaries/mainetoday-pressherald/obituary.aspx?n=arthur-wells-lamb&pid=187345701"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-11-26"
+
+[person.name]
+last = "Lamb"
+use = "Art"
+given = "Arthur Wells"
+
+[person.birth]
+date = "1941-06-30"
+place.country = "US"
+place.state = "CT"
+place.city = "Sharon"
+
+[person.death]
+date = "2017-10-31"
+place.country = "US"
+place.state = "ME"
+place.city = "Portland"
+

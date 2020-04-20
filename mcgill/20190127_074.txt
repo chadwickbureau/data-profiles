@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_074"
+
+[[person.meta.citation]]
+title = "Freeport Journal-Standard"
+date = "1908-06-10"
+pages = "6"
+
+[person.name]
+last = "Flynn"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1908"
+league.name = "Wisconsin-Illinois League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_029"
+
+[[person.meta.citation]]
+title = "The Salina Evening Jounral"
+date = "1908-08-18"
+pages = "5"
+
+[person.name]
+last = "Isbell"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+

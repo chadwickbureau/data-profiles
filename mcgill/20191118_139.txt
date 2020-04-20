@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_139"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1910-07-19"
+pages = "4"
+
+[person.name]
+last = "Davis"
+use = "Roy"
+given = "Roy"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "OK"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+description.position = "P"
+description.throws = "L"
+
+

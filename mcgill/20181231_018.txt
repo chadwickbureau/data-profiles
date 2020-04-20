@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_018"
+
+[[person.meta.citation]]
+title = "The Galena Evening News"
+date = "1902-04-15"
+pages = "1"
+
+[person.name]
+last = "Hamilton"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1902"
+place.country = "US"
+place.state = "MO"
+place.city = "Janesport"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1902"
+league.name = "Missouri Valley League"
+
+

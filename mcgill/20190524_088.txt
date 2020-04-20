@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_088"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-04-15"
+pages = "1"
+
+[person.name]
+last = "Koehler"
+use = "Louie"
+given = "Louie"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KS"
+place.city = "Paola"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

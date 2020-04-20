@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_056"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1910-06-21"
+pages = "6"
+
+[person.name]
+last = "Bannon"
+use = "Bill"
+given = "Bill"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Tom"
+person.name.given = "Tom"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "Jim"
+person.name.given = "Jim"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Bannon"
+person.name.use = "George"
+person.name.given = "George"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+description.height = "74"
+description.weight = "195"
+
+

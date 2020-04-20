@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_141"
+
+[[person.meta.citation]]
+title = "Abilene Daily Chronicle"
+date = "1910-07-20"
+pages = "4"
+
+[person.name]
+last = "Hogan"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

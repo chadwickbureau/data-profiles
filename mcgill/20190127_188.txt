@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_188"
+
+[[person.meta.citation]]
+title = "The Allentown Leader"
+date = "1909-07-08"
+pages = "6"
+
+[person.name]
+last = "Boyle"
+use = "Buck"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Atlantic League"
+
+

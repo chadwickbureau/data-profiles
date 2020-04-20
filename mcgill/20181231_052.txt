@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_052"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1911-05-15"
+pages = "3"
+
+[person.name]
+last = "Donahue"
+use = "Thomas"
+given = "Thomas E."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Appalachian League"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_004"
+
+[[person.meta.citation]]
+title = "Muncie Evening Press"
+date = "1908-06-05"
+pages = "6"
+
+[person.name]
+last = "Dowling"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Muncie"
+team.league.name = "Ohio-Indiana League"
+
+

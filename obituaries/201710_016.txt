@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_016"
+
+[[person.meta.citation]]
+title = "Turrentine-Jackson-Morrow Funeral Home"
+date = "2017-10-30"
+url = "http://www.turrentinejacksonmorrow.com/obituaries/ross-john-powell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-30"
+
+[person.name]
+last = "Powell"
+use = "Ross"
+given = "Ross"
+
+[person.birth]
+date = "1968-01-24"
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[person.death]
+date = "2017-10-25"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+

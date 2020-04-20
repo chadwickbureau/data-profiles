@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_002"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1910-02-21"
+pages = "3"
+
+[person.name]
+last = "Bates"
+use = "John"
+given = "John W."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MO"
+place.city = "Shelbina"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Southwest Texas League"
+
+

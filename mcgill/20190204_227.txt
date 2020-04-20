@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_227"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-04-26"
+pages = "3"
+
+[person.name]
+last = "Dorn"
+given = "T. W."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1910"
+team.name = "Junction City"
+team.league.name = "Central Kansas League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_014"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-05-22"
+pages = "3"
+
+[person.name]
+last = "Lewis"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

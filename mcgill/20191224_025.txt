@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_025"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Butler"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1893-03-20"
+place.country = "US"
+place.state = "CO"
+place.city = "Colorado Springs"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "SS"
+description.weight = "175"
+description.height = "72"
+
+

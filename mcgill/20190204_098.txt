@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_098"
+
+[[person.meta.citation]]
+title = "The Scranton Truth"
+date = "1905-04-27"
+pages = "3"
+
+[person.name]
+last = "Kern"
+given = "J. E."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Scranton"
+team.league.name = "Tri-State League"
+title = "Official Scorer"
+
+

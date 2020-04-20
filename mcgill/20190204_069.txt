@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_069"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1903-05-06"
+pages = "3"
+
+[person.name]
+last = "Hunt"
+use = "Maude"
+given = "Maude"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+title = "Official Scorer"
+
+

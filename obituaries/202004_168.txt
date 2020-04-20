@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_168"
+
+[[person.meta.citation]]
+title = "Courtney Funeral Home"
+date = "2020-04-17"
+url = "https://courtneyfh.com/tribute/details/764/Joseph-Kistner/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-17"
+
+[person.name]
+last = "Kistner"
+use = "Joseph"
+given = "Joseph Anthony"
+
+[person.birth]
+date = "1921-09-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Poughkeepsie"
+
+[person.death]
+date = "2018-02-16"
+place.country = "US"
+place.state = "NY"
+place.city = "Johnson City"
+
+[person.burial]
+cemetery.name = "Walton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Walton"
+
+[[person.education]]
+school.name = "St. Lawrence University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

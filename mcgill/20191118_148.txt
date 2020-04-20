@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_148"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-05"
+pages = "3"
+
+[person.name]
+last = "Sylvester"
+
+[[person.alias]]
+name.last = "Hughes"
+dates = "1906/1906"
+type = "alias"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rutland"
+team.league.name = "Northern Independent League"
+
+

@@ -1,0 +1,91 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_014"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Kilroy"
+use = "Orville"
+given = "Orville"
+
+[person.birth]
+date = "1881-05"
+place.country = "US"
+place.state = "WI"
+place.city = "New Richmond"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Superior"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Waterloo"
+team.league.name = "Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Toronto"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

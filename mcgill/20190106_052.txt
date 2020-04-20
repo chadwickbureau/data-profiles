@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_052"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1911-05-02"
+pages = "8"
+
+[person.name]
+last = "O'Hern"
+use = "Al"
+given = "Al F."
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "IA"
+place.city = "Davenport"
+
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Davenport"
+team.league.name = "Illinis-Indiana-Iowa League"
+title = "Official Scorer"
+
+

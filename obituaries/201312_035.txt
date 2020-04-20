@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_035"
+
+[[person.meta.citation]]
+title = "Heritage Funeral and Cremation Service"
+date = "2014-01-13"
+url = "http://www.heritagefuneral.net/obituaries/Jim-Burton/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-13"
+
+[person.name]
+last = "Burton"
+use = "Jim"
+given = "Jim Scott"
+
+[person.birth]
+date = "1949-10-27"
+place.country = "US"
+place.state = "MI"
+place.city = "Royal Oak"
+
+[person.death]
+date = "2013-12-12"
+
+[person.burial]
+cemetery.name = "Magnolia Memorial Garden at Calvary Church"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Charlotte"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+

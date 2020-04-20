@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_268"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1911-05-10"
+pages = "14"
+
+[person.name]
+last = "Taney Jr."
+use = "James"
+given = "James B."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1911"
+team.name = "Wheeling"
+team.league.name = "Central League"
+title = "Official Scorer"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_020"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2017-12-24"
+url = "http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=attilio-bazzani&pid=187590268&fhid=11431&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-21"
+
+[person.name]
+last = "Bazzani"
+use = "Til"
+given = "Attilio"
+
+[person.birth]
+date = "1926-07-21"
+place.country = "IT"
+place.state = "Brescia"
+place.city = "Bagolino"
+
+[person.death]
+date = "2017-12-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Grass Valley"
+
+[person.burial]
+cemetery.name = "Mohawk Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Mohawk"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+
+

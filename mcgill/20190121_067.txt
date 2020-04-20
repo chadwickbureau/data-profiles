@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_067"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1912-02-26"
+pages = "9"
+
+[person.name]
+last = "Thompson"
+given = "W. T."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "KY"
+place.city = "Henderson"
+
+
+[[person.affiliation]]
+type = "executive"
+dates = "1912"
+team.name = "Kentucky-Indiana-Tennessee"
+title = "Vice President"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_146"
+
+[[person.meta.citation]]
+title = "The Leader-Post"
+date = "1917-03-10"
+pages = "23"
+
+[person.name]
+last = "Guthrie"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1917"
+league.name = "Pacific Coast League"
+
+

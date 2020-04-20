@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_013"
+
+[[person.meta.citation]]
+title = "The Junction City Daily Union"
+date = "1910-05-24"
+pages = "3"
+
+[person.name]
+last = "Sommers"
+use = "Herbert"
+given = "Herbert"
+
+[[person.education]]
+school.name = "Kansas University"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+

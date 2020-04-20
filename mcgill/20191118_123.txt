@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_123"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-07-08"
+pages = "4"
+
+[person.name]
+last = "Swartzgill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+
+[[person.transaction]]
+date = "1910-07-08"
+type = "released"
+leave.name = "Beloit"
+leave.league.name = "Central Kansas"
+
+

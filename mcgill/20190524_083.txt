@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_083"
+
+[[person.meta.citation]]
+title = "Ellsworth Messenger"
+date = "1909-06-10"
+pages = "1"
+
+[person.name]
+last = "Brinker"
+given = "C. D."
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+
+

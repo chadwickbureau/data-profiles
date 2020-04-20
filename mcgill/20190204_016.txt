@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_016"
+
+[[person.meta.citation]]
+title = "East Oregonian"
+date = "1914-05-01"
+pages = "6"
+
+[person.name]
+last = "Daly"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Pendleton"
+team.league.name = "Western Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Walla Walla"
+team.league.name = "Western Tri-State League"
+
+

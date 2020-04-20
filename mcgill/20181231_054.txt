@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_054"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1921-04-26"
+pages = "2"
+
+[person.name]
+last = "Pelham"
+use = "Walter"
+given = "Walter"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "MS"
+place.city = "Pascagoula"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Mississippi State League"
+
+

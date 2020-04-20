@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190110_008"
+
+[[person.meta.citation]]
+title = "Twin-City Daily Sentinel"
+date = "1912-04-29"
+pages = "6"
+
+[person.name]
+last = "Jackson"
+given = "L. C."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "CT"
+place.city = "New Haven"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+

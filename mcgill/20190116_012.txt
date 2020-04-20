@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190116_012"
+
+[[person.meta.citation]]
+title = "The South Bend Tribune"
+date = "1904-05-19"
+pages = "3"
+
+[person.name]
+last = "Halderman"
+use = "Charles"
+given = "Charles W."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1904"
+league.name = "Central League"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1904"
+league.name = "Central League"
+title = "Vice President"
+
+

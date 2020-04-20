@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_010"
+
+[[person.meta.citation]]
+title = "Lexington Herald Leader"
+date = "2017-10-28"
+url = "http://www.kentucky.com/news/state/article181484161.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-29"
+
+[person.name]
+last = "Feldhaus"
+use = "Allen"
+given = "Allen"
+suffix = "Sr."
+
+[person.death]
+date = "2017-10-28"
+place.country = "US"
+place.state = "KY"
+place.city = "Maysville"
+

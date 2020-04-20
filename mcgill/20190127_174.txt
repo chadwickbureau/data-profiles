@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_174"
+
+[[person.meta.citation]]
+title = "The Journal Times"
+date = "1911-07-14"
+pages = "8"
+
+[person.name]
+last = "Donovan"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1911"
+team.name = "Champaign-Urbana"
+team.league.name = "Illinois-Missouri League"
+
+

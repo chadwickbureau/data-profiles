@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_267"
+
+[[person.meta.citation]]
+title = "Omaha Daily Bee"
+date = "1915-07-16"
+pages = "5"
+
+[person.name]
+last = "Blanck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Battle Creek"
+team.league.name = "South Michigan League"
+
+

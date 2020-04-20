@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_043"
+
+[[person.meta.citation]]
+title = "The Wellington Journal"
+date = "1911-06-06"
+pages = "2"
+
+[person.name]
+last = "Tomlin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_017"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "2014-01-18"
+url = "http://www.legacy.com/obituaries/readingeagle/obituary.aspx?n=Robert-Hartranft&pid=169151862"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-18"
+
+[person.name]
+last = "Hartranft"
+use = "Robert"
+given = "Robert L."
+
+[person.birth]
+date = "1928-02-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Newmanstown"
+
+[person.death]
+date = "2014-01-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Myerstown"
+
+[person.burial]
+cemetery.name = "Heidelberg Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Robesonia"
+
+[[person.education]]
+school.name = "Newmanstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Newmanstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

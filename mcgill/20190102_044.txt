@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_044"
+
+[[person.meta.citation]]
+title = "The Times"
+date = "1907-07-17"
+pages = "1"
+
+[person.name]
+last = "Flynn"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1907"
+team.name = "Ilion"
+team.league.name = "New York State League"
+
+

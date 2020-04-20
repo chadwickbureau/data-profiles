@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_215"
+
+[[person.meta.citation]]
+title = "The Kansas City Kansan"
+date = "1921-08-05"
+
+[person.name]
+last = "Quigley"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1921"
+league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1921"
+team.name = "Sapulpa"
+team.league.name = "Southwestern League"
+
+

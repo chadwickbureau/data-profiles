@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_114"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1910-06-30"
+pages = "8"
+
+[person.name]
+last = "Attebury"
+use = "Hi"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MO"
+place.city = "Webb City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

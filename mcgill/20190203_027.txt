@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_027"
+
+[[person.meta.citation]]
+title = "The Greenville News"
+date = "1912-04-07"
+pages = "10"
+
+[person.name]
+last = "McGinley"
+given = "W. H."
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "PA"
+place.city = "Mechanicsville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Anderson"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lancaster"
+team.league.name = "Tri-State League"
+
+

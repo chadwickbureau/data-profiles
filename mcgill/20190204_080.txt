@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_080"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1904-04-15"
+pages = "6"
+
+[person.name]
+last = "Jones"
+use = "Harrington"
+given = "Harrington"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1904"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+title = "Official Scorer"
+
+

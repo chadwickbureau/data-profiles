@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_014"
+
+[[person.meta.citation]]
+title = "The Watchman and Southern"
+date = "1907-05-15"
+pages = "4"
+
+[person.name]
+last = "Hemrick"
+use = "John"
+given = "John S."
+
+[[person.resides]]
+dates = "1907"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "South Carolina League"
+
+

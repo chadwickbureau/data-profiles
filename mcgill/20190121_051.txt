@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_051"
+
+[[person.meta.citation]]
+title = "The Pittsburgh Press"
+date = "1907-02-09"
+pages = "8"
+
+[person.name]
+last = "Connors"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1907"
+league.name = "Tri-State League"
+
+

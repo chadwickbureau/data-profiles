@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_093"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1905-04-25"
+pages = "5"
+
+[person.name]
+last = "Hazen"
+given = "O."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Sharon"
+team.league.name = "Ohio-Pennsylvania League"
+title = "Official Scorer"
+
+

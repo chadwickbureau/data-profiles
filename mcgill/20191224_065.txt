@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_065"
+
+[[person.meta.citation]]
+title = "The Wichita Beacon"
+date = "1911-06-14"
+pages = "7"
+
+[person.name]
+last = "Peckham"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+

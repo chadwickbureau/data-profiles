@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_031"
+
+[[person.meta.citation]]
+title = "Southern Memorial Funeral Home"
+date = "2017-12-10"
+url = "http://www.southernmemorialfuneral.com/memsol.cgi?user_id=2044353"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-10"
+
+[person.name]
+last = "Byrd"
+use = "Jay"
+given = "Jennings Murray"
+
+[person.birth]
+date = "1923-01-01"
+place.country = "US"
+place.state = "AL"
+place.city = "Brewton"
+
+[person.death]
+date = "2017-12-02"
+place.country = "US"
+place.state = "AL"
+place.city = "Montgomery"
+
+[[person.education]]
+school.name = "T. R. Miller HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Brewton"
+
+[[person.education]]
+school.name = "University of Alabama"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

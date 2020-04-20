@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_040"
+
+[[person.meta.citation]]
+title = "The Houston Post"
+date = "1915-07-25"
+pages = "17"
+
+[person.name]
+last = "Hayes"
+use = "Gerald"
+given = "Gerald"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Texas League"
+
+

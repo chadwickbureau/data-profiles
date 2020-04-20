@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_270"
+
+[[person.meta.citation]]
+title = "The Topeka Daily Capital"
+date = "1914-07-03"
+pages = "3"
+
+[person.name]
+last = "Bowen"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Americus"
+team.league.name = "South Atlantic League"
+
+

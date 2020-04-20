@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_034"
+
+[[person.meta.citation]]
+title = "The Walnut Valley Times"
+date = "1911-05-17"
+pages = "3"
+
+[person.name]
+last = "Kafora"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "El Dorado"
+team.league.name = "Kansas State League"
+description.position = "C"
+
+

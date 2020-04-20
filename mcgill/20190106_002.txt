@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_002"
+
+[[person.meta.citation]]
+title = "The Daily Times"
+date = "1909-05-07"
+pages = "8"
+
+[person.name]
+last = "Palen"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1909"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

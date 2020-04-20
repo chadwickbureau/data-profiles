@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_072"
+
+[[person.meta.citation]]
+title = "The San Frnaciso Examiner"
+date = "1912-01-28"
+pages = "70"
+
+[person.name]
+last = "Mertes"
+use = "Sandow"
+given = "Sandow"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "Pacific Coast League"
+
+

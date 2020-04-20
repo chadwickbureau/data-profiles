@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_013"
+
+[[person.meta.citation]]
+title = "Harrelson Funeral Home"
+date = "2017-12-16"
+url = "http://hosting-9639.tributes.com/obituary/read/Ralph-W.-Liebendorfer-105397969"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-16"
+
+[person.name]
+last = "Liebendorfer"
+use = "Ralph"
+given = "Ralph W."
+
+[person.birth]
+date = "1928-04-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Ellwood City"
+
+[person.death]
+date = "2017-10-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Saluda"
+
+[person.burial]
+cemetery.name = "Western Carolina State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Black Mountain"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_151"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-10"
+pages = "1"
+
+[person.name]
+last = "Kennedy"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Ottawa"
+team.league.name = "Northern Independent League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Rutland"
+team.league.name = "Northern New York League"
+
+

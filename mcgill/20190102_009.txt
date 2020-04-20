@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_009"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times"
+date = "1906-02-02"
+pages = "8"
+
+[person.name]
+last = "Rudderham"
+use = "Frank"
+given = "Frank F."
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1906"
+league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "<=1906"
+league.name = "Hudson River League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1906"
+team.name = "Albany"
+
+

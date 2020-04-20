@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_256"
+
+[[person.meta.citation]]
+title = "The Ottawa Journal"
+date = "1912-05-04"
+pages = "5"
+
+[person.name]
+last = "Blake"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Toronto"
+team.league.name = "Eastern League"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_016"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-26"
+
+[person.name]
+last = "Champlin"
+use = "Harry"
+given = "Harry J."
+
+[person.birth]
+date = "1891-08-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Elmwood Place"
+
+[person.death]
+date = "1949-09-11"
+
+[person.sameas]
+ssn = "289-09-0122"
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_253"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1916-08-04"
+pages = "8"
+
+[person.name]
+last = "Bergen"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Greensboro"
+team.league.name = "North Carolina State League"
+description.position = "C"
+
+

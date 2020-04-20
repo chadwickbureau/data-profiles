@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_074"
+
+[[person.meta.citation]]
+title = "The Hutchinson News"
+date = "1911-06-20"
+pages = "3"
+
+[person.name]
+last = "Porkeney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Lawton"
+team.league.name = "Texas-Oklahoma League"
+
+

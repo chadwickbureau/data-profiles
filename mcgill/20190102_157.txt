@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_157"
+
+[[person.meta.citation]]
+title = "The Times Recorder"
+date = "1916-02-28"
+pages = "12"
+
+[person.name]
+last = "Green"
+use = "Andrew"
+given = "Andrew"
+
+[[person.resides]]
+dates = "1916"
+place.country = "US"
+place.state = "MI"
+place.city = "Owosso"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1916"
+league.name = "Central League"
+
+

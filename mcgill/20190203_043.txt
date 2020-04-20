@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_043"
+
+[[person.meta.citation]]
+title = "The Twin-City Daily Sentinel"
+date = "1912-06-24"
+pages = "6"
+
+[person.name]
+last = "Wallace"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Winston-Salem"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1912"
+team.league.name = "Virginia League"
+
+

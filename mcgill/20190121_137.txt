@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_137"
+
+[[person.meta.citation]]
+title = "The Sioux City Journal"
+date = "1905-04-23"
+pages = "9"
+
+[person.name]
+last = "Carruthers"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Western League"
+
+

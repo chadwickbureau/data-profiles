@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_108"
+
+[[person.meta.citation]]
+title = "Evening Times-Republican"
+date = "1906-04-11"
+pages = "6"
+
+[person.name]
+last = "Goldthwait"
+given = "S. E."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1906"
+team.name = "Boone"
+team.league.name = "Iowa State League"
+title = "Official Scorer"
+
+

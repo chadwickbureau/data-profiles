@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201307_001"
+
+[[person.meta.citation]]
+title = "Obitsforlife.com"
+date = "2013-12-17"
+url = "http://www.obitsforlife.com/obituary/742163/Byrne-John.php"
+
+[[person.meta.contributor]]
+name.last = "Nemec"
+name.use = "Ray"
+email = "basebalray@aol.com"
+date = "2013-12-17"
+
+[person.name]
+last = "Byrne"
+use = "Jack"
+given = "John H."
+
+[person.birth]
+date = "1928-06-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2013-07-21"
+place.country = "US"
+place.state = "NY"
+place.city = "Batavia"
+
+[person.burial]
+cemetery.name = "Arlington National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Arlington"
+
+[[person.education]]
+school.name = "Ashtabula HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Ashtabula"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

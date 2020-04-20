@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_255"
+
+[[person.meta.citation]]
+title = "The Ottawa Citizen"
+date = "1912-05-01"
+pages = "4"
+
+[person.name]
+last = "Blake"
+use = "Bill"
+given = "Bill"
+
+[[person.resides]]
+dates = "1912"
+place.country = "US"
+place.state = "MI"
+place.city = "Saginaw"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Ottawa"
+team.league.name = "Canadian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.league.name = "Ohio-Pennsylvania League"
+
+

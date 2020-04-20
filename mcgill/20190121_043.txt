@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_043"
+
+[[person.meta.citation]]
+title = "Akron Beacon Journal"
+date = "1906-02-27"
+pages = "8"
+
+[person.name]
+last = "Wise"
+use = "Sam"
+given = "Sam"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "OH"
+place.city = "Akron"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1906"
+league.name = "Ohio-Pennsylvania League"
+
+

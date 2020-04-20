@@ -8,11 +8,6 @@ title = "Knoxville Sentinel"
 date = "1914-05-16"
 pages = "16"
 
-[[person.meta.contributor]]
-name.last = "McGill"
-name.use = "Chuck"
-email = "cmcgill.vt@gmail.com"
-
 [person.name]
 last = "Monk"
 use = "Howard"

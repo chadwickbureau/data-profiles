@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_110"
+
+[[person.meta.citation]]
+title = "The Victoria Daily Times"
+date = "1913-02-04"
+pages = "9"
+
+[person.name]
+last = "Casey"
+use = "Perle"
+given = "Perle"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1913"
+league.name = "Northwestern League"
+
+

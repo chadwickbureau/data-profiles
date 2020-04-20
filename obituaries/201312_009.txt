@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_009"
+
+[[person.meta.citation]]
+title = "Dignity Memorial.com"
+date = "2013-12-10"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Bobby-Tucker&lc=4924&pid=168423928&mid=5766246"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2013-12-10"
+
+[person.name]
+last = "Tucker"
+use = "Bobby"
+given = "Bobby Lloyd"
+
+[person.birth]
+date = "1951-04-22"
+
+[person.death]
+date = "2013-12-07"
+place.country = "US"
+place.state = "TN"
+place.city = "Cordova"
+
+[[person.education]]
+school.name = "Tennessee"
+school.type = "college"
+
+

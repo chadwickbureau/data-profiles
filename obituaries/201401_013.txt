@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_013"
+
+[[person.meta.citation]]
+title = "Linderendeportes.com"
+date = "2014-01-09"
+url = "http://www.liderendeportes.com/Noticias/Beisbol/Fallecio-el-expelotero-Luis--Camaleon--Garcia.aspx"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-10"
+
+[person.name]
+last = "Garcia"
+use = "Luis"
+given = "Luis"
+nick = "Chameleon"
+
+[person.death]
+date = "2014-01-09"
+

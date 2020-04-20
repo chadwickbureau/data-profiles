@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_063"
+
+[[person.meta.citation]]
+title = "The Baltimore Sun"
+date = "1911-02-05"
+pages = "7"
+
+[person.name]
+last = "Hart"
+use = "Robert"
+given = "Robert"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Eastern League"
+
+

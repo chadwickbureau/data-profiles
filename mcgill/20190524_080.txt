@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_080"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-07-21"
+pages = "4"
+
+[person.name]
+last = "Austin"
+use = "Earl"
+given = "Earl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

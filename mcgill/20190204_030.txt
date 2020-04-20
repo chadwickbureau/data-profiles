@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_030"
+
+[[person.meta.citation]]
+title = "The San Francisco Examiner"
+date = "1901-07-14"
+pages = "8"
+
+[person.name]
+last = "Rutherford"
+given = "E. C."
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1901"
+team.name = "California"
+title = "Official Scorer"
+
+

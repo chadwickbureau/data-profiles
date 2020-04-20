@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_039"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1906-02-24"
+pages = "5"
+
+[person.name]
+last = "O'Toole"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1905"
+league.name = "Ohio-Pennsylvania League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_146"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-06-21"
+pages = "3"
+
+[person.name]
+last = "Bannon"
+use = "James"
+given = "James"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Illinois-Indiana-Iowa League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_089"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1912-02-18"
+pages = "13"
+
+[person.name]
+last = "Ferguson"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1912"
+league.name = "American Association"
+
+

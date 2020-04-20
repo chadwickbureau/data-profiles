@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_012"
+
+[[person.meta.citation]]
+title = "Utah Golf Association"
+date = "2014-01-13"
+url = "http://www.uga.org/index.php/News/details/C135/garth_ford_obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-13"
+
+[person.name]
+last = "Ford"
+use = "Garth"
+given = "Garth"
+
+[person.birth]
+date = "1924-07-26"
+place.country = "US"
+place.state = "UT"
+place.city = "Provo"
+
+[person.death]
+date = "2014-01-01"
+
+[person.burial]
+cemetery.name = "Provo City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Provo"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

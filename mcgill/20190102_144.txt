@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_144"
+
+[[person.meta.citation]]
+title = "Pittston Gazette"
+date = "1915-05-04"
+pages = "2"
+
+[person.name]
+last = "Pender"
+use = "Bob"
+given = "Bob"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "New York State League"
+
+

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201710_018"
+
+[[person.meta.citation]]
+title = "McLean Funeral Home"
+date = "2017-10-29"
+url = "http://www.mcleanfuneral.com/obituaries/Giles-Grady-Setzer?obId=2659261#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-10-29"
+
+[person.name]
+last = "Setzer"
+use = "Giles"
+given = "Giles Grady"
+
+[person.birth]
+date = "1931-03-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Maiden"
+
+[person.death]
+date = "2017-10-26"
+place.country = "US"
+place.state = "NC"
+place.city = "Gastonia"
+
+[person.burial]
+cemetery.name = "St. Paul's Lutheran Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Dallas"
+
+[[person.education]]
+school.name = "Lenoir-Rhyne University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

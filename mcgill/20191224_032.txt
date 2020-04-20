@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_032"
+
+[[person.meta.citation]]
+title = "Stockton Daily Evening Record"
+date = "1913-09-23"
+pages = "4"
+
+[person.name]
+last = "Lewis"
+use = "Tex"
+given = "Tex"
+
+[person.birth]
+date = "1890"
+place.country = "US"
+place.state = "TX"
+place.city = "Cotulla"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Stockton"
+team.league.name = "California League"
+description.position = "P"
+description.weight = "163"
+description.height = "72"
+
+

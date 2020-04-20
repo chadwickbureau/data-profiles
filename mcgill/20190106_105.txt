@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190106_105"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-05-03"
+pages = "7"
+
+[person.name]
+last = "Holland"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1907"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1906"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1905"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1904"
+league.name = "Illinois-Indiana-Iowa League"
+title = "President"
+
+

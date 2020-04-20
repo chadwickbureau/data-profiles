@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_180"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1919-04-02"
+pages = "13"
+
+[person.name]
+last = "Finney"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1919"
+league.name = "Pacific Coast League"
+
+

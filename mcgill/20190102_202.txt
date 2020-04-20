@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190102_202"
+
+[[person.meta.citation]]
+title = "The Decatur Herald"
+date = "1920-03-11"
+pages = "4"
+
+[person.name]
+last = "Finneran"
+given = "W. F."
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1920"
+league.name = "American Association"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201712_038"
+
+[[person.meta.citation]]
+title = "Coffee County Funeral Chapel"
+date = "2017-12-08"
+url = "http://www.coffeecountyfuneralchapel.com/memsol.cgi?user_id=2043586"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2017-12-08"
+
+[person.name]
+last = "Carden"
+use = "Wimpy"
+given = "Lloyd Winfred"
+
+[person.birth]
+date = "1930-04-12"
+place.country = "US"
+place.state = "TN"
+place.city = "Coffee County"
+
+[person.death]
+date = "2017-12-03"
+place.country = "US"
+place.state = "TN"
+place.city = "Winchester"
+
+[person.burial]
+cemetery.name = "Farrar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Farrar Hill"
+

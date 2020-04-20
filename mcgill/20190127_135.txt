@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_135"
+
+[[person.meta.citation]]
+title = "The Asheville Citizen-Times"
+date = "1897-05-10"
+pages = "1"
+
+[person.name]
+last = "Quillan"
+use = "Robert"
+given = "Robert"
+
+[[person.resides]]
+dates = "1897"
+place.country = "US"
+place.state = "GA"
+place.city = "Harmony Grove"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1897"
+league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1896"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

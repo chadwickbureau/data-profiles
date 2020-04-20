@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_085"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1909-04-15"
+pages = "1"
+
+[person.name]
+last = "Faulkner"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KS"
+place.city = "Pleasanton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

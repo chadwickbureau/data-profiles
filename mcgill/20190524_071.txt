@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190524_071"
+
+[[person.meta.citation]]
+title = "The Beloit Daily Call"
+date = "1909-08-17"
+pages = "4"
+
+[person.name]
+last = "Salm"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Great Bend"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Beloit"
+team.league.name = "Central Kansas League"
+
+

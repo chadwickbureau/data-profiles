@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_202"
+
+[[person.meta.citation]]
+title = "The Journal Times"
+date = "1912-11-12"
+pages = "9"
+
+[person.name]
+last = "Breckenridge"
+given = "C. S."
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Racine"
+team.league.name = "Wisconsin-Illinois League"
+
+

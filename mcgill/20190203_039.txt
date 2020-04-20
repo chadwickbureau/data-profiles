@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190203_039"
+
+[[person.meta.citation]]
+title = "The Charlotte Observer"
+date = "1912-08-03"
+pages = "8"
+
+[person.name]
+last = "Damrau"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+
+

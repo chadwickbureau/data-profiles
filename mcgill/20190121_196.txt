@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_196"
+
+[[person.meta.citation]]
+title = "The Eugene Guard"
+date = "1925-04-07"
+pages = "8"
+
+[person.name]
+last = "Schmidt"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1925"
+league.name = "Pacific Coast League"
+
+

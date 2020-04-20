@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_007"
+
+[[person.meta.citation]]
+title = "The Coffeyville Daily Journal"
+date = "1911-05-08"
+pages = "2"
+
+[person.name]
+last = "Moffatt"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MO"
+place.city = "Monett"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Tulsa"
+team.league.name = "Western Association"
+
+

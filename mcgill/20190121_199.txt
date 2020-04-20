@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190121_199"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1927-04-26"
+pages = "32"
+
+[person.name]
+last = "Howard"
+use = "Ivan"
+given = "Ivan"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1927"
+team.name = "Oakland"
+team.league.name = "Pacific Coast League"
+
+

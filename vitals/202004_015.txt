@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202004_015"
+
+[[person.meta.citation]]
+title = "WWII Draft Registration Card"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2019-02-26"
+
+[person.name]
+last = "Champlin"
+use = "Harry"
+given = "Harry Joseph"
+
+[person.birth]
+date = "1892-08-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Elmwood Place"
+

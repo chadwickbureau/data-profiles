@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:125603"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/125603"
+title = "The Sporting News Player Contract Cards, ScanID: 1024003583"
+
+[person.name]
+last = "Kistner"
+given = "Joseph A."
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Lynn"
+note = "Lynn 1946-05"
+
+[[person.transaction]]
+date = "1946-05"
+type = "optioned"
+leave.name = "Lynn"
+join.name = "Oneonta"
+note = "opt to Oneonta 1946-05"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Oneonta"
+note = "rel 1946-07"
+

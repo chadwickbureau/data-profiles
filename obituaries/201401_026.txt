@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201401_026"
+
+[[person.meta.citation]]
+title = "Inside Bay Area"
+date = "2014-01-14"
+url = "http://www.legacy.com/obituaries/insidebayarea/obituary.aspx?n=frank-pacheco&pid=169090384&fhid=2387&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-14"
+
+[person.name]
+last = "Pacheco"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1917-02-02"
+
+[person.death]
+date = "2014-01-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Brentwood"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

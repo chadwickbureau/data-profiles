@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_046"
+
+[[person.meta.citation]]
+title = "The Lethbridge Herald"
+date = "1911-04-26"
+pages = "4"
+
+[person.name]
+last = "Morrison"
+use = "John"
+given = "John"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Western Canada League"
+
+

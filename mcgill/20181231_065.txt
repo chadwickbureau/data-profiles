@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20181231_065"
+
+[[person.meta.citation]]
+title = "The Fort Wayne Journal-Gazette"
+date = "1903-07-18"
+pages = "2"
+
+[person.name]
+last = "Criss"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1903"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1903"
+league.name = "Central League"
+
+

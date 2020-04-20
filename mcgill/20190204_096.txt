@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_096"
+
+[[person.meta.citation]]
+title = "The Akron Beacon Journal"
+date = "1905-04-25"
+pages = "5"
+
+[person.name]
+last = "Richards"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1905"
+team.name = "Massillon"
+team.league.name = "Ohio-Pennsylvania League"
+title = "Official Scorer"
+
+

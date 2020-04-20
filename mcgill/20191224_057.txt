@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191224_057"
+
+[[person.meta.citation]]
+title = "The Wichita Beacon"
+date = "1911-06-12"
+pages = "7"
+
+[person.name]
+last = "Harmon"
+use = "Gordon"
+given = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wichita"
+team.league.name = "Kansas State League"
+
+

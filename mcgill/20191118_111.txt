@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_111"
+
+[[person.meta.citation]]
+title = "The Salina Evening Journal"
+date = "1910-06-30"
+pages = "5"
+
+[person.name]
+last = "Ahearn"
+use = "Mike"
+given = "Mike"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1910"
+league.name = "Central Kansas League"
+
+

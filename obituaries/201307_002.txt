@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201307_002"
+
+[[person.meta.citation]]
+title = "Texarkana Gazette"
+date = "2013-07-19"
+url = "http://www.texarkanagazette.com/news/2013/07/19/charles-cross-322498.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2014-01-05"
+
+[person.name]
+last = "Cross"
+use = "Rick"
+given = "Charles Richard"
+
+[person.death]
+date = "2013-07-17"
+

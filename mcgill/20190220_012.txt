@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_012"
+
+[[person.meta.citation]]
+title = "Sioux City Journal"
+date = "1910-10-02"
+pages = "10"
+
+[person.name]
+last = "Chabek"
+use = "Joe"
+given = "Joe"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Louisville"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Denver"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Louisville"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

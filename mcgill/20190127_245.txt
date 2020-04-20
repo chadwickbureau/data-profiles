@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_245"
+
+[[person.meta.citation]]
+title = "News-Journal"
+date = "1912-04-12"
+pages = "3"
+
+[person.name]
+last = "Abbott"
+use = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mansfield"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "York"
+team.league.name = "Tri-State League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190105_043"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1910-12-25"
+pages = "22"
+
+[person.name]
+last = "Laroque"
+given = "S. H."
+
+[[person.resides]]
+dates = "1911"
+place.country = "CA"
+place.state = "QC"
+place.city = "Quebec City"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1911"
+league.name = "Southern Michigan League"
+
+

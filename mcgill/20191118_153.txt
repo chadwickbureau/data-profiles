@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_153"
+
+[[person.meta.citation]]
+title = "The Burlington Free Press"
+date = "1906-07-21"
+pages = "3"
+
+[person.name]
+last = "Hogarty"
+
+[[person.education]]
+school.name = "Holy Cross"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rutland"
+team.league.name = "Northern Independent League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_043"
+
+[[person.meta.citation]]
+title = "Concordia Blade-Empire"
+date = "1910-06-08"
+pages = "4"
+
+[person.name]
+last = "Hays"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Salina"
+team.league.name = "Central Kansas League"
+description.position = "C"
+
+

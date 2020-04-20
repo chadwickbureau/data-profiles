@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190204_059"
+
+[[person.meta.citation]]
+title = "The Anaconda Standard"
+date = "1903-04-20"
+pages = "10"
+
+[person.name]
+last = "Higgans"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1903"
+team.name = "Tacoma"
+team.league.name = "Pacific National League"
+title = "Official Scorer"
+
+

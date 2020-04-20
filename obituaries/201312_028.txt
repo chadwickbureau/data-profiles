@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:201312_028"
+
+[[person.meta.citation]]
+title = "The News-Herald & The Morning Journal"
+date = "2013-12-25"
+url = "http://www.news-herald.com/sports/20131225/indians-former-broadcaster-mike-hegan-dies"
+
+[[person.meta.contributor]]
+name.last = "Nelson"
+name.use = "Rod"
+email = "rodericnelson@gmail.com"
+date = "2013-12-25"
+
+[person.name]
+last = "Hegan"
+use = "Mike"
+given = "James Michael"
+
+[person.death]
+date = "2013-12-25"
+place.country = "US"
+place.state = "SC"
+place.city = "Hilton Head"
+
+[[person.education]]
+school.name = "St. Ignatius High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cleveland"
+
+[[person.education]]
+school.name = "Holy Cross"
+school.type = "college"
+
+

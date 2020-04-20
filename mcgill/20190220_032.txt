@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190220_032"
+
+[[person.meta.citation]]
+title = "Ellsworth Messenger"
+date = "1909-06-17"
+pages = "1"
+
+[person.name]
+last = "Gebhardt"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "administrator"
+dates = "1909"
+team.name = "Ellsworth"
+team.league.name = "Central Kansas League"
+title = "Official Scorer"
+
+

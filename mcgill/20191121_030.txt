@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191121_030"
+
+[[person.meta.citation]]
+title = "Great Bend Tribune"
+date = "1911-05-16"
+pages = "2"
+
+[person.name]
+last = "Meade"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Wellington"
+team.league.name = "Kansas State League"
+
+

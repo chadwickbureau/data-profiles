@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20191118_087"
+
+[[person.meta.citation]]
+title = "The Morning Chronicle"
+date = "1910-06-27"
+pages = "4"
+
+[person.name]
+last = "Lindsey"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Manhattan"
+team.league.name = "Central Kansas League"
+
+

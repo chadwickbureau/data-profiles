@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190101_044"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1909-04-05"
+pages = "6"
+
+[person.name]
+last = "Osborne"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Arkansas State League"
+
+

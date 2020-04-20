@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20190127_277"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1916-07-07"
+pages = "9"
+
+[person.name]
+last = "Busch"
+use = "Heinie"
+given = "Heinie"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1916"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1916"
+team.name = "Asheville"
+team.league.name = "North Carolina State League"
+
+
