@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:65979"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65979"
+title = "The Sporting News Player Contract Cards, ScanID: 1025017699"
+
+[person.name]
+last = "Haynes"
+given = "Oscar L."
+nick = "Sock"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "160"
+
+[person.birth]
+date = "1922-08-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Mt. Airy"
+
+[[person.resides]]
+place.address = "152 Junction Street"
+place.country = "US"
+place.state = "NC"
+place.city = "Mt. Airy"
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Mooresville"
+note = "Mooresville 1946-05"
+
+[[person.transaction]]
+date = "1946-06"
+type = "released"
+leave.name = "Mooresville"
+note = "rel 1946-06"
+
+[[person.transaction]]
+date = "1946-06"
+type = "signed"
+join.name = "Mt. Airy"
+note = "Mt. Airy 1946-06"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Mt. Airy"
+note = "rel 1946-07"
+
+[[person.transaction]]
+date = "1948-02-20"
+type = "signed"
+join.name = "Mt. Airy"
+note = "Mt. Airy 1948-02-20"
+
+[[person.transaction]]
+date = "1948-06-15"
+type = "released"
+leave.name = "Mt. Airy"
+note = "rel 1948-06-15"
+

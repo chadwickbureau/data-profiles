@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:60809"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/60809"
+title = "The Sporting News Player Contract Cards, ScanID: 1016001089"
+
+[person.name]
+last = "Ganier"
+given = "Mark Benard"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "71"
+weight = "155"
+
+[person.birth]
+date = "1935-08-20"
+place.country = "US"
+place.state = "LA"
+place.city = "Durant"
+
+[[person.resides]]
+place.country = "US"
+place.state = "LA"
+place.city = "Durant"
+
+
+[[person.transaction]]
+date = "1955-09-25"
+type = "signed"
+join.name = "Brunswick"
+note = "Brunswick 1955-09-25"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Brunswick"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-04-16"
+type = "released"
+leave.name = "Brunswick"
+note = "rel 1956-04-16"
+

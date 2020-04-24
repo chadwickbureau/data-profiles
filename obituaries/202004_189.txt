@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_189"
+
+[[person.meta.citation]]
+title = "Stewart-Kyle Funeral Home"
+date = "2020-04-22"
+url = "https://www.stewart-kyle.com/obituary/4573200"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Wood"
+use = "James"
+given = "James E."
+
+[person.birth]
+date = "1925-04-30"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[person.death]
+date = "2018-01-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+[[person.education]]
+school.name = "Liberty HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Youngstown"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

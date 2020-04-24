@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_191"
+
+[[person.meta.citation]]
+title = "Walukiewicz-Oravitz Fell Funeral Home"
+date = "2020-04-22"
+url = "http://www.woffuneralhome.com/2018/01/22/charles-j-herbie-wood/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Wood"
+use = "Herbie"
+given = "Charles J."
+
+[person.birth]
+date = "1926-11-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Raven Run"
+
+[person.death]
+date = "2018-01-22"
+
+[person.burial]
+cemetery.name = "Annunciation Blessed Virgin Mary Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Shenandoah"
+
+[[person.education]]
+school.name = "West Mahanoy Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Shenandoah"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

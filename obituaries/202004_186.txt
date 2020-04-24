@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_186"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2020-04-20"
+url = "https://www.legacy.com/obituaries/nytimes/obituary.aspx?n=william-heisig&pid=196013595"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Heisig"
+use = "Bill"
+given = "William Thomas"
+
+[person.death]
+date = "2020-04-16"
+

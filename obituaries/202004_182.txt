@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_182"
+
+[[person.meta.citation]]
+title = "J. Albert Walker Funeral Home"
+date = "2020-04-20"
+url = "https://walkerfh.com/tribute/details/2565/Harold-Morgan/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Morgan"
+use = "Harold"
+given = "Harold Charles"
+nick = "Duke"
+
+[person.birth]
+date = "1929"
+place.country = "CA"
+place.state = "NS"
+place.city = "Bridgewater"
+
+[person.death]
+date = "2020-04-17"
+
+[[person.education]]
+school.name = "Bridgewater HS"
+school.type = "secondary"
+school.place.country = "CA"
+school.place.state = "NS"
+school.place.city = "Bridgewater"
+
+

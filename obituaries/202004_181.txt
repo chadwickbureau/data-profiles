@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_181"
+
+[[person.meta.citation]]
+title = "Galveston County Daily News"
+date = "2020-04-15"
+url = "https://www.galvnews.com/obituaries/article_d4d47087-41e0-5b6e-91ca-b970ad5a63f1.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Devoy"
+use = "C. B."
+given = "Charles Bryan"
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Pine Bluff"
+
+[person.death]
+date = "2020-04-01"
+
+[[person.education]]
+school.name = "O'Connell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Galveston"
+
+[[person.education]]
+school.name = "University of Mary Hardin-Baylor"
+school.type = "college"
+
+

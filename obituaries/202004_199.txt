@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_199"
+
+[[person.meta.citation]]
+title = "Morrison Funeral Home"
+date = "2020-04-23"
+url = "https://www.themorrisonfuneralhome.com/obituary/4539866"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-23"
+
+[person.name]
+last = "Davies"
+use = "Jack"
+given = "John R."
+
+[person.birth]
+date = "1931-02-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2018-01-16"
+
+[[person.education]]
+school.name = "Verona HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Verona"
+
+[[person.education]]
+school.name = "St. Benedict's Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Newark"
+
+[[person.education]]
+school.name = "Montclair State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_184"
+
+[[person.meta.citation]]
+title = "Moody Funeral Service"
+date = "2020-04-21"
+url = "https://www.moodyfuneralservices.com/obituary/MrOscar-Haynes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-21"
+
+[person.name]
+last = "Haynes"
+use = "Sock"
+given = "Oscar Lee"
+
+[person.birth]
+date = "1923-08-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Surry County"
+
+[person.death]
+date = "2018-01-24"
+place.country = "US"
+place.state = "NC"
+place.city = "King"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

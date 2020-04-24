@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_196"
+
+[[person.meta.citation]]
+title = "West Virginia State Athletics"
+date = "2020-04-19"
+url = "https://wvsuyellowjackets.com/news/2020/4/19/west-virginia-state-mourns-the-loss-of-legendary-baseball-coach-cal-bailey.aspx"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Bailey"
+use = "Cal"
+given = "Calvin L."
+
+[person.birth]
+date = "1943-04-08"
+
+[person.death]
+date = "2020-04-19"
+
+[[person.education]]
+school.name = "Spencer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "Spencer"
+
+[[person.education]]
+school.name = "West Virginia State University"
+school.type = "college"
+
+

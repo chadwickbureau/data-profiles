@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_198"
+
+[[person.meta.citation]]
+title = "Tuscaloosa News"
+date = "2018-01-18"
+url = "https://www.legacy.com/obituaries/tuscaloosa/obituary.aspx?n=george-terrell-garrett&pid=187879807"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-23"
+
+[person.name]
+last = "Garrett"
+use = "Terrell"
+given = "George Terrell"
+
+[person.birth]
+date = "1928-02-22"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.death]
+date = "2018-01-12"
+place.country = "US"
+place.state = "AL"
+place.city = "Tuscaloosa"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

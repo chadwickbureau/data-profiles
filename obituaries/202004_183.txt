@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_183"
+
+[[person.meta.citation]]
+title = "Greer-McElveen Funeral Home"
+date = "2020-04-20"
+url = "https://www.greer-mcelveenfuneralhome.com/obituary/johnny-hatton"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Hatton"
+use = "Johnny"
+given = "Johnny Timothy"
+
+[person.birth]
+date = "1944-09-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Caldwell County"
+
+[person.death]
+date = "2020-04-16"
+place.country = "US"
+place.state = "NC"
+place.city = "Hudson"
+

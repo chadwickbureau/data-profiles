@@ -1,0 +1,146 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:52870"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/52870"
+title = "The Sporting News Player Contract Cards, ScanID: 1025012880"
+
+[person.name]
+last = "Davis"
+given = "Charles Edwin"
+
+[[person.resides]]
+place.address = "Box 18"
+place.country = "US"
+place.state = "GA"
+place.city = "Moreland"
+
+
+[[person.transaction]]
+date = "1948-04-14"
+type = "signed"
+join.name = "Opelika"
+note = "Opelika 1948-04-14"
+
+[[person.transaction]]
+date = "1948-06-03"
+type = "released"
+leave.name = "Opelika"
+note = "rel 1948-06-03"
+
+[[person.transaction]]
+date = "1949-10-16"
+type = "signed"
+join.name = "Opelika"
+note = "Opelika 1949-10-16"
+
+[[person.transaction]]
+date = "1949-05-23"
+type = "optioned"
+leave.name = "Opelika"
+join.name = "Andalusia"
+note = "opt to Andalusia 1949-05-23"
+
+[[person.transaction]]
+date = "1949-09-20"
+type = "recalled"
+leave.name = "Andalusia"
+join.name = "Opelika"
+note = "opt rec to Opelika 1949-09-20"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Opelika"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-06-04"
+type = "released"
+leave.name = "Opelika"
+note = "rel 1949-06-04"
+
+[[person.transaction]]
+date = "1950-06-10"
+type = "signed"
+join.name = "Henderson"
+note = "Henderson 1950-06-10"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Henderson"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-02-05"
+type = "released"
+leave.name = "Henderson"
+join.name = "Tyler"
+note = "rel to Tyler 1951-02-05"
+
+[[person.transaction]]
+date = "1951-05-04"
+type = "released"
+leave.name = "Tyler"
+join.name = "Abilene"
+note = "rel to Abilene 1951-05-04"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Abilene"
+note = "res for 1952"
+
+[[person.transaction]]
+date = "1952-02-21"
+type = "released-conditional"
+leave.name = "Abilene"
+join.name = "Brownsville"
+note = "cond rel to Brownsville 1952-02-21"
+
+[[person.transaction]]
+date = "1952-04-07"
+type = "returned"
+leave.name = "Brownsville"
+join.name = "Abilene"
+note = "ret to Abilene 1952-04-07"
+
+[[person.transaction]]
+date = "1952-05-22"
+type = "suspended"
+leave.name = "Abilene"
+note = "1952-05-22"
+
+[[person.transaction]]
+date = "1952-09-22"
+type = "reinstated"
+join.name = "Abilene"
+note = "reins 1952-09-22"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Abilene"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-02-09"
+type = "released"
+leave.name = "Abilene"
+note = "rel 1953-02-09"
+
+[[person.transaction]]
+date = "1954-05-19"
+type = "signed"
+join.name = "Kennewick"
+note = "Kennewick 1954-05-19"
+
+[[person.transaction]]
+date = "1954-06-02"
+type = "released"
+leave.name = "Kennewick"
+note = "rel 1954-06-02"
+

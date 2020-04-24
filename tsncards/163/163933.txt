@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:163933"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/163933"
+title = "The Sporting News Player Contract Cards, ScanID: 1099028173"
+
+[person.name]
+last = "Wood"
+given = "James Edward"
+nick = "Woodie"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "210"
+
+[person.birth]
+date = "1925-04-30"
+place.country = "US"
+place.state = "OH"
+place.city = "Churchill"
+
+[[person.resides]]
+place.address = "4550 Belmont"
+place.country = "US"
+place.state = "OH"
+place.city = "Youngstown"
+
+
+[[person.transaction]]
+date = "1949-09-29"
+type = "signed"
+join.name = "Youngstown"
+note = "Youngstown 1949-09-29"
+
+[[person.transaction]]
+date = "1950-06-12"
+type = "released"
+leave.name = "Youngstown"
+note = "rel 1950-06-12"
+

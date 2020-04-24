@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_197"
+
+[[person.meta.citation]]
+title = "Brandon Sun"
+date = "2020-04-23"
+url = "https://www.brandonsun.com/sports/baseball/Local-baseball-legend-Hunter-dies-at-59-569877411.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-23"
+
+[person.name]
+last = "Hunter"
+use = "Dale"
+given = "Dale"
+
+[person.death]
+date = "2020-04-20"
+

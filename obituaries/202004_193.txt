@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_193"
+
+[[person.meta.citation]]
+title = "Care Cremation & Funeral Service"
+date = "2020-04-22"
+url = "https://www.tributearchive.com/obituaries/2877152/John-Lewis-Kindred"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Kindred"
+use = "J. L."
+given = "John Lewis"
+
+[person.birth]
+date = "1922-12-31"
+
+[person.death]
+date = "2018-01-09"
+

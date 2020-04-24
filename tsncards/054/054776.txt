@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:54776"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/54776"
+title = "The Sporting News Player Contract Cards, ScanID: 1011001985"
+
+[person.name]
+last = "Davies"
+given = "John Robert"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+
+[[person.transaction]]
+date = "1954-09-28"
+type = "signed"
+join.name = "San Antonio"
+note = "San Antonio 1954-09-28"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-02"
+type = "released"
+leave.name = "San Antonio"
+note = "rel 1955-04-02"
+

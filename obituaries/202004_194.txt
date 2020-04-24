@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_194"
+
+[[person.meta.citation]]
+title = "Earthman Southwest Funeral Home"
+date = "2020-04-22"
+url = "https://www.dignitymemorial.com/obituaries/stafford-tx/lee-mitchell-7730702"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Mitchell"
+use = "Mitch"
+given = "Lee Edwin"
+
+[person.birth]
+date = "1933-01-11"
+place.country = "US"
+place.state = "TX"
+place.city = "Weslaco"
+
+[person.death]
+date = "2018-01-17"
+place.country = "US"
+place.state = "TX"
+place.city = "Richmond"
+
+[person.burial]
+cemetery.name = "Forest Park Lawndale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[[person.education]]
+school.name = "Weslaco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Weslaco"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

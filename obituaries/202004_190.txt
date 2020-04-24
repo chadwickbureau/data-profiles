@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_190"
+
+[[person.meta.citation]]
+title = "New Orleans Advocate"
+date = "2018-01-22"
+url = "https://obits.nola.com/obituaries/nola/obituary.aspx?n=mark-bernard-ganier&pid=187934785&fhid=17420"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Ganier"
+use = "Mark"
+given = "Mark Bernard"
+
+[person.birth]
+place.country = "US"
+place.state = "LA"
+place.city = "Davant"
+
+[person.death]
+date = "2018-01-17"
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_201"
+
+[[person.meta.citation]]
+title = "Johnson's Funeral Home"
+date = "2020-04-23"
+url = "https://www.dignitymemorial.com/obituaries/san-angelo-tx/charles-davis-7715256"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-23"
+
+[person.name]
+last = "Davis"
+use = "Charlie"
+given = "Charles Edwin"
+nick = "Ed"
+
+[person.birth]
+date = "1926-08-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Newnan"
+
+[person.death]
+date = "2018-01-07"
+place.country = "US"
+place.state = "TX"
+place.city = "San Angelo"
+
+[person.burial]
+cemetery.name = "Johnson's Lawnhaven Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "San Angelo"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

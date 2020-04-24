@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:50873"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/50873"
+title = "The Sporting News Player Contract Cards, ScanID: 1012003649"
+
+[person.name]
+last = "Dortman"
+given = "Robert R."
+
+
+[[person.transaction]]
+date = "1956-10-15"
+type = "signed"
+join.name = "Donalsonville"
+note = "Donalsonville 1956-10-15"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Donalsonville"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1957-02-09"
+type = "released"
+leave.name = "Donalsonville"
+join.name = "Panama City"
+note = "rel to Panama City 1957-02-09"
+
+[[person.transaction]]
+date = "1957-04-24"
+type = "released"
+leave.name = "Panama City"
+note = "rel 1957-04-24"
+

@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_178"
+
+[[person.meta.citation]]
+title = "Morgan Memorial Home"
+date = "2020-04-20"
+url = "https://www.morganmemorialhome.com/obituary/richard-e-dick-hyde/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Hyde"
+use = "Dick"
+given = "Richard E."
+
+[person.birth]
+date = "1928-08-03"
+place.country = "US"
+place.state = "IL"
+place.city = "Hindsboro"
+
+[person.death]
+date = "2020-04-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Champaign"
+
+[person.burial]
+cemetery.name = "Grandview Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Champaign"
+
+[[person.education]]
+school.name = "Champaign Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Champaign"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

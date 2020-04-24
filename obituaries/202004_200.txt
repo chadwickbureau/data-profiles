@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_200"
+
+[[person.meta.citation]]
+title = "Sheboygan Press"
+date = "2018-01-18"
+url = "https://www.legacy.com/obituaries/sheboyganpress/obituary.aspx?n=robert-r-dortman-bob&pid=187865320&fhid=14120"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-23"
+
+[person.name]
+last = "Dortman"
+use = "Bob"
+given = "Robert R."
+
+[person.birth]
+date = "1937-08-06"
+
+[person.death]
+date = "2018-01-15"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Wilson"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Sheboygan"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

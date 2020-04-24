@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_195"
+
+[[person.meta.citation]]
+title = "Keller Funeral Home"
+date = "2020-04-22"
+url = "https://www.kellerfuneralhome.net/obituary/calvin-bailey"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Bailey"
+use = "Calvin"
+given = "Calvin Lee"
+
+[person.birth]
+date = "1943-04-08"
+place.country = "US"
+place.state = "WV"
+place.city = "Spencer"
+
+[person.death]
+date = "2020-04-19"
+place.country = "US"
+place.state = "WV"
+place.city = "Cross Lanes"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

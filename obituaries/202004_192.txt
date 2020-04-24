@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_192"
+
+[[person.meta.citation]]
+title = "Heritage-Dilday Memorial Services"
+date = "2020-04-22"
+url = "https://www.heritage-dildaymemorialservices.com/tributes/Thomas-Roebuck"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Roebuck"
+use = "Thomas"
+given = "Thomas Parker"
+
+[person.birth]
+date = "1924-08-06"
+place.country = "US"
+place.state = "SC"
+place.city = "Winnsboro"
+
+[person.death]
+date = "2018-01-17"
+
+[person.burial]
+cemetery.name = "Good Shepherd Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Huntington Beach"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

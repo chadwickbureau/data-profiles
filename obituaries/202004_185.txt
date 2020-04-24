@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_185"
+
+[[person.meta.citation]]
+title = "Scotchlas Funeral Home"
+date = "2020-04-21"
+url = "https://scotchlasfuneralhome.com/site/obituaries/vladimir-sumple/213/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-21"
+
+[person.name]
+last = "Sumple"
+use = "Deemer"
+given = "Vladimir Deemer"
+
+[person.birth]
+date = "1928-09-27"
+
+[person.death]
+date = "2018-01-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.burial]
+cemetery.name = "St. Basil's Russian Orthodox Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Simpson"
+
+[[person.education]]
+school.name = "Fell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Simpson"
+
+

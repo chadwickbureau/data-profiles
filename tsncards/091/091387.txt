@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:91387"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/91387"
+title = "The Sporting News Player Contract Cards, ScanID: 1038002465"
+
+[person.name]
+last = "Roebuck"
+given = "Thomas Parker"
+
+
+[[person.transaction]]
+date = "1947-04-23"
+type = "signed"
+join.name = "Landis"
+note = "Landis 1947-04-23"
+
+[[person.transaction]]
+date = "1947-05-12"
+type = "released"
+leave.name = "Landis"
+note = "rel 1947-05-12"
+
+[[person.transaction]]
+date = "1949-01-23"
+type = "signed"
+join.name = "Fort Smith"
+note = "Fort Smith 1949-01-23"
+
+[[person.transaction]]
+date = "1949-05-07"
+type = "ineligible"
+leave.name = "Fort Smith"
+note = "ineligible list 1949-05-07"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Fort Smith"
+

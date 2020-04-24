@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_179"
+
+[[person.meta.citation]]
+title = "Butler Funeral Homes"
+date = "2020-04-20"
+url = "https://www.tributearchive.com/obituaries/12727235/Henry-Albert-Alby-Plain"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Plain"
+use = "Alby"
+given = "Henry Albert"
+
+[person.birth]
+date = "1927-07-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.death]
+date = "2020-04-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Camp Butler National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Springfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Springfield"
+
+[[person.education]]
+school.name = "The Todd School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Woodstock"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:136096"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/136096"
+title = "The Sporting News Player Contract Cards, ScanID: 1031001175"
+
+[person.name]
+last = "Mitchell"
+given = "Lee Edwin"
+
+
+[[person.transaction]]
+date = "1952-03-17"
+type = "signed"
+join.name = "Harlingen"
+note = "Harlingen 1952-03-17"
+
+[[person.transaction]]
+date = "1952-05-02"
+type = "optioned"
+leave.name = "Harlingen"
+join.name = "Ardmore"
+note = "opt to Ardmore 1952-05-02"
+
+[[person.transaction]]
+date = "1952-05-23"
+type = "returned"
+leave.name = "Ardmore"
+join.name = "Harlingen"
+note = "ret to Harlingen 1952-05-23"
+
+[[person.transaction]]
+date = "1952-05-26"
+type = "released"
+leave.name = "Harlingen"
+note = "rel 1952-05-26"
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_188"
+
+[[person.meta.citation]]
+title = "Toledo Blade"
+date = "2020-04-22"
+url = "https://www.legacy.com/obituaries/toledoblade/obituary.aspx?n=george-h-baker&pid=196029333&fhid=13948"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-22"
+
+[person.name]
+last = "Baker"
+use = "George"
+given = "George H."
+
+[person.birth]
+date = "1940-05-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Walbridge"
+
+[person.death]
+date = "2020-04-20"
+place.country = "US"
+place.state = "OH"
+place.city = "Elmore"
+
+[[person.education]]
+school.name = "Lake HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Millbury"
+
+

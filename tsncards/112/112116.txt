@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:112116"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/112116"
+title = "The Sporting News Player Contract Cards, ScanID: 1024002199"
+
+[person.name]
+last = "Kindred"
+given = "John Lewis"
+
+
+[[person.transaction]]
+date = "1940-02"
+type = "signed"
+join.name = "Mayodan"
+note = "Mayodan 1940-02"
+
+[[person.transaction]]
+date = "1940-06"
+type = "released"
+leave.name = "Mayodan"
+note = "rel 1940-06"
+
+[[person.transaction]]
+date = "1941-04"
+type = "signed"
+join.name = "Johnson City"
+note = "Johnson City 1941-04"
+
+[[person.transaction]]
+date = "1941-04"
+type = "released"
+leave.name = "Johnson City"
+note = "rel 1941-04"
+
