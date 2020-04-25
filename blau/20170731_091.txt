@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_091"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-17"
+pages = "7"
+
+[person.name]
+last = "Roberts"
+use = "Rusty"
+given = "Rusty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+

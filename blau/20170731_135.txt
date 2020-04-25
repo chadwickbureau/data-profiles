@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_135"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Schmidt"
+use = "Boss"
+given = "Boss"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1919"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_022"
+
+[[person.meta.citation]]
+title = "Miami News"
+date = "1922-06-20"
+pages = "9"
+
+[person.name]
+last = "Mathews"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jacksonville"
+team.league.name = "Florida State League"
+
+

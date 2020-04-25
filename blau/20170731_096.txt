@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_096"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-28"
+pages = "8"
+
+[person.name]
+last = "Stone"
+use = "Big"
+given = "Big"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+

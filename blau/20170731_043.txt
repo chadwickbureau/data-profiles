@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_043"
+
+[[person.meta.citation]]
+title = "Jefferson City Post-Tribune"
+date = "1928-03-24"
+pages = "4"
+
+[person.name]
+last = "Burnett"
+use = "Fred"
+given = "Fred"
+
+[person.description]
+note = [ "Played semi-pro ball in 1927" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+

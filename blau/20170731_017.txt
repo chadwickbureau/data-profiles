@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_017"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1932-08-30"
+pages = "22"
+
+[person.name]
+last = "Martin"
+use = "Louie"
+given = "Louie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Hollywood"
+team.league.name = "Pacific Coast League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_107"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1926-08-03"
+pages = "2"
+
+[person.name]
+last = "Roseberry"
+use = "John"
+given = "John Albert"
+
+[person.birth]
+date = "1898"
+place.country = "US"
+place.state = "NJ"
+place.city = "Boonton"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

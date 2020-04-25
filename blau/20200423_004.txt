@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_004"
+
+[[person.meta.citation]]
+title = "Vancouver Province"
+date = "1915-03-19"
+pages = "4"
+
+[person.name]
+last = "Moore"
+use = "Charley"
+given = "Charley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Vancouver"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Los Angeles"
+team.league.name = "Pacific Coast League"
+
+

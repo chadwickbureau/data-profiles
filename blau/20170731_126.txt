@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_126"
+
+[[person.meta.citation]]
+title = "Decatur Review"
+date = "1910-03-28"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1910-03-23"
+pages = "8"
+
+[person.name]
+last = "Moore"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Aberdeen"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

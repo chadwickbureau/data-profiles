@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_100"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-03"
+pages = "7"
+
+[person.name]
+last = "Williams"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+
+

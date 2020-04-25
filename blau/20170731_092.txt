@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_092"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-05-30"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-06"
+pages = "5"
+
+[person.name]
+last = "Parsel"
+use = "Harry"
+given = "Harry"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+description.throws = "L"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_052"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1922-03-21"
+pages = "7"
+
+[person.name]
+last = "Phillips"
+use = "Ernie"
+given = "Ernie"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "AR"
+place.city = "Fort Smith"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

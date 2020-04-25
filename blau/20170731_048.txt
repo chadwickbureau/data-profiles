@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_048"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1928-03-03"
+pages = "11"
+
+[person.name]
+last = "Boyd"
+use = "Dutch"
+given = "Dutch"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Corsicana"
+team.league.name = "Lone Star League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Selma"
+team.league.name = "Southeastern League"
+
+

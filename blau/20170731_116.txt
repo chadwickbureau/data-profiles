@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_116"
+
+[[person.meta.citation]]
+title = "Appleton (WI) Post-Crescent"
+date = "1921-08-05"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Reading Eagle"
+date = "1922-04-11"
+pages = "10"
+
+[person.name]
+last = "Jimerson"
+use = "Earl"
+given = "Earl T."
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+description.throws = "L"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_053"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1923-05-05"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Lincoln Journal Star"
+date = "1924-07-15"
+pages = "9"
+
+[person.name]
+last = "McCafferty"
+given = "T."
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Norfolk"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Norfolk"
+team.league.name = "Tri-State League"
+
+

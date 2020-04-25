@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_114"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1914-05-11"
+pages = "11"
+
+[person.name]
+last = "Miller"
+use = "Vic"
+given = "Vic"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Oklahoma City"
+team.league.name = "Western Association"
+description.position = "CF"
+
+

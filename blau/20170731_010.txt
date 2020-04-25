@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_010"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/300-FINK_Herman.pdf"
+
+[person.name]
+last = "Fink"
+use = "Herman"
+given = "Herman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Charlotte"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Philadelphia"
+team.league.name = "American League"
+
+

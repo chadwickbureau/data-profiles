@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_119"
+
+[[person.meta.citation]]
+title = "Green Bay Press-Gazette"
+date = "1912-06-12"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Oshkosh Northwestern"
+date = "1913-02-05"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Green Bay Press-Gazette"
+date = "1914-02-07"
+pages = "7"
+
+[person.name]
+last = "Mills"
+use = "Arthur"
+given = "Arthur"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Madison"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Madison"
+team.league.name = "Wisconsin-Illinois League"
+
+
+[[person.transaction]]
+date = "<1914-02-07"
+type = "traded"
+join.name = "Saginaw"
+
+

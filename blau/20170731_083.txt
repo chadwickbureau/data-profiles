@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_083"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1951-08-15"
+pages = "33"
+
+[[person.meta.citation]]
+title = "Elmira Advertiser"
+date = "1952-04-16"
+pages = "10"
+
+[person.name]
+last = "Meyers"
+use = "Billy"
+given = "Billy Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1951"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1952"
+team.name = "Reading"
+team.league.name = "Eastern League"
+
+

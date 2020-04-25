@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_051"
+
+[[person.meta.citation]]
+title = "Hopkinsville Kentuckian"
+date = "1910-08-09"
+
+[person.name]
+last = "Overton"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

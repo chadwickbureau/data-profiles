@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_099"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-12"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-03"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-07-16"
+pages = "3"
+
+[person.name]
+last = "Loach"
+use = "Dada"
+given = "Dada"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Knoxville"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+

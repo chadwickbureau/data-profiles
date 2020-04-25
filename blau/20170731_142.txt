@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_142"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1922-06-01"
+pages = "5"
+
+[person.name]
+last = "Thomas"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+

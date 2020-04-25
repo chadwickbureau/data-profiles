@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_042"
+
+[[person.meta.citation]]
+title = "Salisbury (MD) Daily Times"
+date = "1928-08-07"
+pages = "6"
+
+[person.name]
+last = "Atkinson"
+use = "Hubert"
+given = "Hubert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Washington"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Albany"
+team.league.name = "Southeastern League"
+
+

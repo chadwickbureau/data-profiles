@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_123"
+
+[[person.meta.citation]]
+title = "Sherman Daily Democrat"
+date = "1915-04-26"
+
+[person.name]
+last = "Weber"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Jacksonville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Cleburne"
+team.league.name = "South Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Sherman"
+team.league.name = "Texas-Oklahoma League"
+
+

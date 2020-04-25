@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_040"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1929-03-10"
+pages = "12"
+
+[person.name]
+last = "Chambers"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+description.throws = "L"
+
+

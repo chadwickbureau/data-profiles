@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_011"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Martin"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Newark"
+team.league.name = "International League"
+
+

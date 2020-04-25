@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_028"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-02-17"
+pages = "2"
+
+[person.name]
+last = "Euller"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tulsa"
+team.league.name = "Western League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Akron"
+team.league.name = "Central League"
+
+

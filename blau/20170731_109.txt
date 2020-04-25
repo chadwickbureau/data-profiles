@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_109"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1924-06-09"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1923-11-28"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1928-03-02"
+pages = "18"
+
+[person.name]
+last = "Stuvengen"
+use = "Charles"
+given = "Charles"
+nick = "Moose"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Worcester"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

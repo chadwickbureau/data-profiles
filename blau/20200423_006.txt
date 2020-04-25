@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_006"
+
+[[person.meta.citation]]
+title = "Helena Daily Independent"
+date = "1914-05-12"
+pages = "6"
+
+[person.name]
+last = "Belford"
+use = "Virgil"
+given = "Virgil"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Helena"
+team.league.name = "Union Association"
+description.throws = "R"
+
+

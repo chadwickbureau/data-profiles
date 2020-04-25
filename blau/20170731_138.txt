@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_138"
+
+[[person.meta.citation]]
+title = "Wichita Beacon"
+date = "1918-07-05"
+pages = "7"
+
+[person.name]
+last = "Hardgrove"
+use = "Roy"
+given = "Roy"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Hardgrove"
+person.name.use = "Pat"
+person.name.given = "Pat"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+

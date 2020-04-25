@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_113"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1907-12-28"
+pages = "9"
+
+[person.name]
+last = "Miller"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Dubuque"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.height = "74"
+description.weight = "210"
+
+

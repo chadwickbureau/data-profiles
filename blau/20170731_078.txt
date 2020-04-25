@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_078"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1924-07-16"
+pages = "6"
+
+[person.name]
+last = "Camp"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Bradenton"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Orlando"
+team.league.name = "Florida State League"
+
+

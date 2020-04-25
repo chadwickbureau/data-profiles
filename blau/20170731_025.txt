@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_025"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-02-17"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1929-04-15"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-05-18"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1929-05-08"
+pages = "8"
+
+[person.name]
+last = "Mayes"
+use = "Joe"
+given = "Joe"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Tulsa"
+team.league.name = "Western League"
+description.bats = "L"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Joplin"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Shawnee"
+team.league.name = "Western Association"
+
+

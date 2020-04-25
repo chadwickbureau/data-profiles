@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_137"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1918-05-09"
+pages = "11"
+
+[person.name]
+last = "Hardgrove"
+use = "Omer"
+given = "Omer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

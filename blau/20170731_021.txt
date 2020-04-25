@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_021"
+
+[[person.meta.citation]]
+title = "St. Cloud Times"
+date = "1933-07-07"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Bloomington Pantagraph"
+date = "1935-05-02"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Bismarck Tribune"
+date = "1935-04-20"
+pages = "8"
+
+[person.name]
+last = "Massman"
+use = "Harold"
+given = "Harold"
+
+[[person.education]]
+school.name = "Villanova"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "North Platte"
+team.league.name = "Nebraska State League"
+description.weight = "150"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Fort Wayne"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

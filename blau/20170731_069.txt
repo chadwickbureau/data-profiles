@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_069"
+
+[[person.meta.citation]]
+title = "Wilmington (DE) Evening Journal"
+date = "1924-07-24"
+pages = "16"
+
+[person.name]
+last = "McDougall"
+use = "Floyd"
+given = "Floyd"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Newton"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+

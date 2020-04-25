@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_095"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-26"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-07-16"
+pages = "3"
+
+[person.name]
+last = "Smaltz"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Danville"
+team.league.name = "Piedmont League"
+
+

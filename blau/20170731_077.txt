@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_077"
+
+[[person.meta.citation]]
+title = "Miami News"
+date = "1923-06-29"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Orlando Sentinel"
+date = "1924-06-14"
+pages = "6"
+
+[person.name]
+last = "McLaughlin"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Orlando"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Orlando"
+team.league.name = "Florida State League"
+
+

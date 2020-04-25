@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_027"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-02-17"
+pages = "2"
+
+[person.name]
+last = "Rice"
+use = "John"
+given = "John"
+
+[person.description]
+note = [ "1928 was first year in pro baseball" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+description.bats = "R"
+description.throws = "R"
+
+

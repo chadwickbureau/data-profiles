@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_090"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-17"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-06"
+pages = "5"
+
+[person.name]
+last = "Wampler"
+use = "Lawton"
+given = "Lawton Westinghouse"
+nick = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+description.throws = "L"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_124"
+
+[[person.meta.citation]]
+title = "St. Louis Post Dispatch"
+date = "1921-09-22"
+pages = "19"
+
+[person.name]
+last = "Tecarr"
+use = "Bob"
+given = "Bob"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Jersey City"
+team.league.name = "International League"
+description.throws = "L"
+
+
+[[person.transaction]]
+date = "<1921-09-22"
+type = "purchased"
+join.name = "New York"
+join.league.name = "American"
+leave.name = "Jersey City"
+leave.league.name = "International"
+
+

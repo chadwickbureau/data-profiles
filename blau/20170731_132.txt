@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_132"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-09-13"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1925-03-19"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1925-05-16"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Philadelphia Inquirer"
+date = "1931-04-19"
+pages = "38"
+
+[person.name]
+last = "Moore"
+use = "Jim"
+given = "Jim"
+nick = "Hollywood"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Ardmore"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Philadelphia"
+team.league.name = "American League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_038"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1907-05-01"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1906-12-08"
+pages = "11"
+
+[person.name]
+last = "Northen"
+use = "Hub"
+given = "Hub"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Opelousas"
+team.league.name = "Gulf Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+

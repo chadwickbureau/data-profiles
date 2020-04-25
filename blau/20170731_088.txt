@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_088"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-04-25"
+pages = "5"
+
+[person.name]
+last = "Miller"
+use = "Charley"
+given = "Charley"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "St. Louis"
+team.league.name = "American League"
+
+

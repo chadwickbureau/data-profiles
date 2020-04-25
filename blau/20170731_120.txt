@@ -1,0 +1,104 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_120"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1922-04-05"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1922-01-15"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1926-08-10"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1926-06-01"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1916-04-20"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1915-04-29"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Morning Tulsa Daily World"
+date = "1917-03-22"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Morning Tulsa Daily World"
+date = "1917-05-13"
+pages = "21"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat"
+date = "1914-08-24"
+pages = "7"
+
+[person.name]
+last = "Robinson"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Henryetta"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_015"
+
+[[person.meta.citation]]
+title = "arkbaseball.com"
+url = "http://arkbaseball.com/tiki-index.php?page=Cleve+Turner"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1939-10-02"
+pages = "6"
+
+[person.name]
+last = "Turner"
+use = "Cleve"
+given = "Cleve"
+
+[person.birth]
+date = "1884-05-12"
+place.country = "US"
+place.state = "AR"
+
+[person.death]
+date = "1939-10-01"
+place.country = "US"
+place.state = "AR"
+place.city = "Arkadelphia"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1906"
+team.name = "Camden"
+team.league.name = "Arkansas-Texas League"
+
+

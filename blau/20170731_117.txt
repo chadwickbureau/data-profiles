@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_117"
+
+[[person.meta.citation]]
+title = "Salt Lake Telegram"
+date = "1931-05-04"
+pages = "7"
+
+[person.name]
+last = "Miller"
+use = "Perry"
+given = "Perry"
+
+[[person.resides]]
+dates = "1931"
+place.country = "US"
+place.state = "UT"
+place.city = "Salt Lake City"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "North Platte"
+team.league.name = "Nebraska State League"
+
+

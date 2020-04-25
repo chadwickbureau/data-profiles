@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_001"
+
+[[person.meta.citation]]
+title = "Fargo Forum and Daily Republican"
+date = "1915-06-17"
+pages = "3"
+
+[person.name]
+last = "Rhoades"
+use = "Dusty"
+given = "Dusty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Duluth"
+team.league.name = "Northern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Winnipeg"
+team.league.name = "Northern League"
+
+

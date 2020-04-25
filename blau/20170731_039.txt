@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_039"
+
+[[person.meta.citation]]
+title = "Paducah Sun"
+date = "1903-05-25"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1903-07-07"
+
+[person.name]
+last = "Rusie"
+use = "Amos"
+given = "Amos"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Vincennes"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1901"
+team.name = "Cincinnati"
+team.league.name = "National League"
+
+

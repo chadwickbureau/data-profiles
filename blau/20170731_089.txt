@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_089"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-07-22"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1926-06-04"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1927-03-21"
+pages = "2"
+
+[person.name]
+last = "Henderson"
+use = "Forrest"
+given = "Forrest"
+nick = "Hack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Knoxville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Albany"
+team.league.name = "Southeastern League"
+
+

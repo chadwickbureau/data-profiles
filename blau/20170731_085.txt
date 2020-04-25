@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_085"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1931-04-02"
+pages = "18"
+
+[person.name]
+last = "Michaels"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_093"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-03"
+pages = "8"
+
+[person.name]
+last = "Moore"
+given = "W."
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+

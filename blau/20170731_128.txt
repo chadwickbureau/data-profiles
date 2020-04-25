@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_128"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "1913-05-07"
+pages = "7"
+
+[person.name]
+last = "Moore"
+use = "Edward"
+given = "Edward"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Cadillac"
+team.league.name = "Michigan State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+
+

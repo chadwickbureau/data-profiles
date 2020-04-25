@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_097"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-03"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-10"
+pages = "3"
+
+[person.name]
+last = "Fister"
+use = "Pete"
+given = "Pete"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+

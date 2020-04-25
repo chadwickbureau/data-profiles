@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_002"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1924-01-17"
+pages = "9"
+
+[person.name]
+last = "Holland"
+use = "Harry"
+given = "Harry"
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "TN"
+place.city = "Jackson"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+

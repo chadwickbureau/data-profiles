@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_008"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1926-07-28"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1926-08-30"
+pages = "7"
+
+[person.name]
+last = "Marshall"
+use = "Clarence"
+given = "Clarence"
+nick = "Moose"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Salisbury"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Salisbury"
+team.league.name = "Piedmont League"
+
+

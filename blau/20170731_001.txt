@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_001"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1924-01-17"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1927-03-15"
+pages = "11"
+
+[person.name]
+last = "Mann"
+use = "John"
+given = "John L."
+
+[[person.resides]]
+dates = "1924"
+place.country = "US"
+place.state = "IN"
+place.city = "West Terre Haute"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Asheville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"
+
+

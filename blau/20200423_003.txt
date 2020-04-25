@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_003"
+
+[[person.meta.citation]]
+title = "Moline Dispatch"
+date = "1915-02-15"
+pages = "10"
+
+[person.name]
+last = "Beatty"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+
+[[person.transaction]]
+date = "<=1915-02-15"
+type = "purchased"
+join.name = "Seattle"
+join.league.name = "Northwestern"
+leave.name = "Peoria"
+leave.league.name = "Illinois-Indiana-Iowa"
+
+

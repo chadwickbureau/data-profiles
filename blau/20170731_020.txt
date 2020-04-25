@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_020"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-05-08"
+pages = "5"
+
+[person.name]
+last = "Martin"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+description.throws = "L"
+
+

@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_108"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1926-09-11"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1926-02-04"
+pages = "19"
+
+[person.name]
+last = "Pritchard"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "St. Paul"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Milwaukee"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Flint"
+team.league.name = "Michigan-Ontario League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

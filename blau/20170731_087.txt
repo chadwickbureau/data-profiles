@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_087"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1923-11-13"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1926-05-08"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "1922-03-21"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1924-05-26"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1925-02-18"
+pages = "13"
+
+[person.name]
+last = "Ormand"
+given = "T. Lee"
+nick = "Mink"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+

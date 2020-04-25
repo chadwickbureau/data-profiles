@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_111"
+
+[[person.meta.citation]]
+title = "Fort Wayne Sentinel"
+date = "1906-05-18"
+pages = "7"
+
+[person.name]
+last = "Miller"
+use = "Al"
+given = "Al"
+
+[[person.resides]]
+dates = "1906"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Lima"
+team.league.name = "Interstate Association"
+
+

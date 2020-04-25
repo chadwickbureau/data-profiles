@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_112"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1907-02-10"
+pages = "6"
+
+[person.name]
+last = "Miller"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Wheeling"
+team.league.name = "Central League"
+description.throws = "L"
+
+

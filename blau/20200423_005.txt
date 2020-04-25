@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_005"
+
+[[person.meta.citation]]
+title = "Victoria Daily Times"
+date = "1915-07-03"
+pages = "10"
+
+[person.name]
+last = "Williams"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Victoria"
+team.league.name = "Northwestern League"
+description.throws = "R"
+
+

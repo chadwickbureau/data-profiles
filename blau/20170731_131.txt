@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_131"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1923-04-05"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1923-03-21"
+pages = "11"
+
+[person.name]
+last = "Moore"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Spartanburg"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1922"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

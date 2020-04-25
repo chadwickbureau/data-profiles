@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_084"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1928-09-09"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1928-04-07"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1930-07-04"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1932-03-20"
+pages = "25"
+
+[person.name]
+last = "Myers"
+use = "Fred"
+given = "Fred"
+nick = "Buddy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Fort Wayne"
+team.league.name = "Central League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Rochester"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1932"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+

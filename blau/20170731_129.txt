@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_129"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1926-04-16"
+pages = "30"
+
+[[person.meta.citation]]
+title = "Lincoln Journal Star"
+date = "1926-06-02"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Lincoln Journal Star"
+date = "1927-04-02"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1928-08-18"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1929-04-14"
+pages = "2"
+
+[[person.meta.citation]]
+title = "Sedalia (MO) Democrat"
+date = "1930-04-25"
+pages = "10"
+
+[person.name]
+last = "Moore"
+use = "Bob"
+given = "Bob"
+nick = "Specks"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Oklahoma City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wichita"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+

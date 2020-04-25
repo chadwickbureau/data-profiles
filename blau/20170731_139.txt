@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_139"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1922-05-02"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1922-04-19"
+pages = "11"
+
+[person.name]
+last = "Morgan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+

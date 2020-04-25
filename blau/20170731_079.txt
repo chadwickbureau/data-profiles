@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_079"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1923-01-26"
+pages = "21"
+
+[[person.meta.citation]]
+title = "Shamokin News-Dispatch"
+date = "1925-06-27"
+pages = "2"
+
+[person.name]
+last = "Mearkle"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Seattle"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Shamokin"
+team.league.name = "New York-Pennsylvania League"
+
+

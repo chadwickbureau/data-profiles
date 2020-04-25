@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_046"
+
+[[person.meta.citation]]
+title = "Vicksburg Herald"
+date = "1922-08-22"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1923-07-27"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1923-08-07"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1923-02-09"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1923-12-04"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1921-09-18"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1928-09-16"
+pages = "60"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Sun"
+date = "1928-03-03"
+pages = "11"
+
+[person.name]
+last = "McBride"
+use = "Edgar"
+given = "Edgar S."
+nick = "Skeet"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Milan"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "High Point"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Pensacola"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Corsicana"
+team.league.name = "Lone Star League"
+
+

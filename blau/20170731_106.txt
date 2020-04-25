@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_106"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1925-06-18"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1926-09-13"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1926-09-11"
+pages = "13"
+
+[person.name]
+last = "Ormand"
+use = "Hugh"
+given = "Hugh"
+nick = "Red"
+
+[[person.education]]
+school.name = "Duke"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+

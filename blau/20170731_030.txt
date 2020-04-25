@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_030"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-02-17"
+pages = "2"
+
+[person.name]
+last = "Smith"
+use = "Doc"
+given = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Tulsa"
+team.league.name = "Western League"
+description.bats = "L"
+description.throws = "R"
+
+

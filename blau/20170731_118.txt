@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_118"
+
+[[person.meta.citation]]
+title = "Minneapolis Star Tribune"
+date = "1931-08-11"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1931-04-17"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1932-05-02"
+pages = "2"
+
+[person.name]
+last = "Mills"
+use = "Dale"
+given = "Dale"
+
+[[person.resides]]
+dates = "1931"
+place.country = "US"
+place.state = "OK"
+place.city = "Crescent"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Bartlesville"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

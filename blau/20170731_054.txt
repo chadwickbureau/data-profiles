@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_054"
+
+[[person.meta.citation]]
+title = "Lansing State Journal"
+date = "1913-07-26"
+pages = "5"
+
+[person.name]
+last = "McCarthy"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Anderson"
+team.league.name = "Carolina Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Lansing"
+team.league.name = "Southern Michigan League"
+
+

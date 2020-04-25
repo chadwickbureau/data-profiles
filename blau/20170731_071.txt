@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_071"
+
+[[person.meta.citation]]
+title = "Zanesville Times Recorder"
+date = "1935-07-31"
+pages = "6"
+
+[person.name]
+last = "Kurken"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+description.throws = "L"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_070"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1924-02-14"
+pages = "9"
+
+[person.name]
+last = "McDowell"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Wichita"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

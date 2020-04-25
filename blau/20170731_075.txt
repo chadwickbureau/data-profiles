@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_075"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1923-04-06"
+pages = "8"
+
+[person.name]
+last = "Corrigan"
+use = "George"
+given = "George P."
+
+[person.birth]
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.description]
+note = [ "Played for US soccer team in 1920 Olympics" ]
+
+[[person.resides]]
+dates = "1923"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Joplin"
+team.league.name = "Western Association"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

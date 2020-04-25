@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_081"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1926-05-11"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1927-02-09"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Bridgeport Telegram"
+date = "1927-04-12"
+pages = "3"
+
+[person.name]
+last = "Meyers"
+use = "Freddie"
+given = "Freddie"
+nick = "Hap"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_115"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1936-06-20"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Danville Bee"
+date = "1935-08-12"
+pages = "3"
+
+[person.name]
+last = "Miller"
+use = "Mutt"
+given = "Mutt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Martinsville"
+team.league.name = "Bi-State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Martinsville"
+team.league.name = "Bi-State League"
+
+

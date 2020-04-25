@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_104"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-07-16"
+pages = "3"
+
+[person.name]
+last = "Mayer"
+use = "Ben"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Kingsport"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Hanover"
+team.league.name = "Blue Ridge League"
+
+

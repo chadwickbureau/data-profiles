@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_023"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1922-03-13"
+pages = "10"
+
+[person.name]
+last = "Francis"
+use = "Herbert"
+given = "Herbert"
+nick = "Chile"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+

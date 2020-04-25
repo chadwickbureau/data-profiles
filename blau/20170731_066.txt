@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_066"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1921-08-26"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Marshfield (WI) News-Herald"
+date = "1921-10-06"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Minneapolis Star"
+date = "1921-12-29"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Galveston Daily News"
+date = "1921-03-25"
+pages = "5"
+
+[person.name]
+last = "McDonald"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Galveston"
+team.league.name = "Texas League"
+description.bats = "L"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_019"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1924-05-08"
+pages = "5"
+
+[person.name]
+last = "Malspino"
+use = "Chick"
+given = "Chick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+

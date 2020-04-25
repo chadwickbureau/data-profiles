@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_056"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Evening News"
+date = "1923-08-01"
+pages = "14"
+
+[person.name]
+last = "McCormick"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+

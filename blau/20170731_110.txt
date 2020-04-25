@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_110"
+
+[[person.meta.citation]]
+title = "Fort Wayne Sentinel"
+date = "1906-05-18"
+pages = "7"
+
+[person.name]
+last = "Sealts"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Lima"
+team.league.name = "Interstate Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_125"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1920-04-15"
+pages = "9"
+
+[person.name]
+last = "Henrion"
+use = "Henry"
+given = "Henry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

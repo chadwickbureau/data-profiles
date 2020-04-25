@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_068"
+
+[[person.meta.citation]]
+title = "Raleigh News and Observer"
+date = "1922-06-02"
+pages = "11"
+
+[person.name]
+last = "McDonald"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+description.throws = "L"
+
+

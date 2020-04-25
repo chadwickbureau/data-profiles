@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_105"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1921-08-10"
+pages = "15"
+
+[person.name]
+last = "Miller"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Philadelphia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Louisville"
+team.league.name = "American Association"
+
+

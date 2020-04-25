@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_050"
+
+[[person.meta.citation]]
+title = "Paducah Evening Sun"
+date = "1910-08-06"
+
+[person.name]
+last = "Taylor"
+use = "Zeke"
+given = "Zeke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Paducah"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+

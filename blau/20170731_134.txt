@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_134"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1919-08-15"
+pages = "11"
+
+[person.name]
+last = "Moran"
+use = "Herbie"
+given = "Herbie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Boston"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1919"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+

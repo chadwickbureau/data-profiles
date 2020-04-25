@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_005"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1923-07-09"
+pages = "3"
+
+[person.name]
+last = "Mare"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+

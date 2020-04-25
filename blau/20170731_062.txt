@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_062"
+
+[[person.meta.citation]]
+title = "Topeka State Journal"
+date = "1911-06-17"
+
+[person.name]
+last = "Ulatowski"
+use = "Clemons"
+given = "Clemons"
+
+[[person.alias]]
+name.last = "Clemens"
+name.use = "Clem"
+name.given = "Clem"
+type = "alias"
+dates = "1914"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Chicago"
+team.league.name = "Federal League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+

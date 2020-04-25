@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200423_002"
+
+[[person.meta.citation]]
+title = "Colton (CA) Daily Courier"
+date = "1915-03-26"
+pages = "1"
+
+[person.name]
+last = "Eberlein"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Aberdeen"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "San Bernardino"
+
+

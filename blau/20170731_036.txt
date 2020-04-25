@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_036"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1926-05-12"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1926-05-07"
+pages = "24"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1927-06-02"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Cincinnati Enquirer"
+date = "1926-06-09"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1927-06-17"
+pages = "13"
+
+[person.name]
+last = "Chambers"
+use = "White"
+given = "White"
+
+[[person.education]]
+school.name = "Union College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Jackson"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Toledo"
+team.league.name = "American Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Peoria"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_045"
+
+[[person.meta.citation]]
+title = "Roswell Daily Record"
+date = "1924-06-05"
+pages = "1"
+
+[person.name]
+last = "McBride"
+given = "D. L."
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Roswell"
+team.league.name = "Panhandle-Pecos Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+

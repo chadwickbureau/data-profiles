@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_014"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-07-02"
+pages = "19"
+
+[person.name]
+last = "Sherman"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Syracuse"
+team.league.name = "New York-Pennsylvania League"
+
+

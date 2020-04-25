@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_018"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1924-07-15"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Wausau Daily Herald"
+date = "1924-09-11"
+pages = "9"
+
+[person.name]
+last = "Martin"
+use = "Abe"
+given = "Abe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Arkansas City"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Enid"
+team.league.name = "Southwestern League"
+
+

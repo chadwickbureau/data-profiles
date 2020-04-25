@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_133"
+
+[[person.meta.citation]]
+title = "Lethbridge Herald"
+date = "1911-03-16"
+pages = "6"
+
+[person.name]
+last = "Chick"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Lethbridge"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Calgary"
+team.league.name = "Western Canada League"
+
+

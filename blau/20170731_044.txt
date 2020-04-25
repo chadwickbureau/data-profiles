@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_044"
+
+[[person.meta.citation]]
+title = "Pittsburgh Post-Gazette"
+date = "1931-05-05"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican"
+date = "1931-05-16"
+pages = "5"
+
+[person.name]
+last = "McAllister"
+use = "John"
+given = "John"
+nick = "Shorty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Jeannette"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Charleroi"
+team.league.name = "Middle Atlantic League"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_082"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Myers"
+use = "Hap"
+given = "Hap"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Boston"
+team.league.name = "American League"
+
+

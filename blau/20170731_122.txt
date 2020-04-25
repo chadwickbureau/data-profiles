@@ -1,0 +1,96 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_122"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1921-12-19"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Wichita Beacon"
+date = "1923-02-11"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1923-02-22"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle"
+date = "1920-04-15"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1915-03-26"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrate"
+date = "1914-05-29"
+pages = "11"
+
+[person.name]
+last = "Robinson"
+use = "Buddy"
+given = "Joie"
+
+[person.death]
+date = "1923-02"
+place.country = "US"
+place.state = "OK"
+place.city = "Weleetka"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "OK"
+place.city = "Weleetka"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Bloomington"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Durant"
+team.league.name = "Texas-Oklahoma League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+

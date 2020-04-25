@@ -1,0 +1,74 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_127"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Smith"
+use = "Doug"
+given = "Doug"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Lowell"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Lowell"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Springfield"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Meriden"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "New Britain"
+team.league.name = "Eastern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Springfield"
+team.league.name = "Colonial League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Syracuse"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+

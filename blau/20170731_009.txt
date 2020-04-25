@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_009"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1914-04-20"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Evening News"
+date = "1914-05-29"
+pages = "9"
+
+[person.name]
+last = "Martin"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Rochester"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Wilkes-Barre"
+team.league.name = "New York State League"
+
+

@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_006"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1923-05-14"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Daily Arkansas Gazette"
+date = "1916-06-24"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Morning Tulsa Daily World"
+date = "1919-02-20"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Wichita Beacon"
+date = "1919-03-07"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Morning Tulsa Daily World"
+date = "1919-03-29"
+pages = "11"
+
+[[person.meta.citation]]
+title = "St. Louis Star"
+date = "1921-03-30"
+pages = "17"
+
+[person.name]
+last = "Meyer"
+use = "Benny"
+given = "Benny"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Salina"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Topeka"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1918"
+team.name = "Hutchinson"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "executive"
+dates = "1921"
+team.name = "Miami"
+team.league.name = "Southwestern League"
+title = "President"
+
+

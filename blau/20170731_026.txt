@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_026"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-02-17"
+pages = "2"
+
+[person.name]
+last = "Kelly"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Akron"
+team.league.name = "Central League"
+description.bats = "R"
+description.throws = "R"
+
+

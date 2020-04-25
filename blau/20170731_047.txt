@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_047"
+
+[[person.meta.citation]]
+title = "Vicksburg Herald"
+date = "1922-08-22"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1922-09-03"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1922-03-21"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1923-02-09"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1927-06-13"
+pages = "7"
+
+[person.name]
+last = "McCall"
+use = "Harold"
+given = "Harold"
+nick = "Jim"
+
+[[person.resides]]
+dates = "1922"
+place.country = "US"
+place.state = "OH"
+place.city = "New Athens"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

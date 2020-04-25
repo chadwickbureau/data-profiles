@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_061"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1924-04-05"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Lincoln State Journal"
+date = "1924-07-26"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-07-26"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Wichita Daily Eagle"
+date = "1922-04-09"
+pages = "15"
+
+[person.name]
+last = "McDonald"
+use = "Malcolm"
+given = "Malcolm"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

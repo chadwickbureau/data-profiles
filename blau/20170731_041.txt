@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170731_041"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1928-01-11"
+pages = "9"
+
+[person.name]
+last = "Brewer"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Greenville"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+
