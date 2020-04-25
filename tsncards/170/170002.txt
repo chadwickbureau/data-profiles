@@ -1,0 +1,92 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:170002"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/170002"
+title = "The Sporting News Player Contract Cards, ScanID: 1034004537"
+
+[person.name]
+last = "Patterson"
+given = "Gilbert W."
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "South Bend"
+note = "South Bend 1914-03"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "South Bend"
+note = "rel 1914-05"
+
+[[person.transaction]]
+date = "1914-05"
+type = "signed"
+join.name = "Grand Rapids"
+note = "Grand Rapids 1914-05"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Grand Rapids"
+note = "rel 1914-05"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Muskegon"
+note = "Muskegon 1914-07"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Traverse City"
+note = "Traverse City 1914-07"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Columbia"
+note = "Columbia 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Winston-Salem"
+note = "Winston-Salem 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1915-05"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Charleston (SC)"
+note = "Charleston (SC) 1915-05"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Charleston (SC)"
+note = "rel 1915-05"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "Fargo"
+note = "Fargo 1916-04"
+
+[[person.transaction]]
+date = "1916-04"
+type = "suspended"
+leave.name = "Fargo"
+note = "1916-04"
+

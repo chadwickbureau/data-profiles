@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:76008"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/76008"
+title = "The Sporting News Player Contract Cards, ScanID: 1017005005"
+
+[person.name]
+last = "Gray"
+given = "Clarence P."
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Chambersburg"
+note = "Chambersburg 1915-05"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Chambersburg"
+note = "rel 1915-06"
+

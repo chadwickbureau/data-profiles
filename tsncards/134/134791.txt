@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134791"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134791"
+title = "The Sporting News Player Contract Cards, ScanID: 1099015656"
+
+[person.name]
+last = "Meyer"
+given = "Leo P."
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+
+[person.death]
+date = "1961-05-17"
+place.country = "US"
+place.state = "IA"
+place.city = "Dubuque"
+
+
+[[person.transaction]]
+date = "1929-06"
+type = "signed"
+join.name = "Dubuque"
+note = "Dubuque 1929-06"
+
+[[person.transaction]]
+date = "1929-06"
+type = "released"
+leave.name = "Dubuque"
+note = "rel 1929-06"
+
+[[person.transaction]]
+date = "1930-07"
+type = "signed"
+join.name = "Dubuque"
+note = "Dubuque 1930-07"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Dubuque"
+note = "rel 1930-08"
+

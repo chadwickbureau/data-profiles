@@ -1,0 +1,163 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10743"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10743"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005353"
+
+[person.name]
+last = "Bailey"
+given = "Harry Ray"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+married = "no"
+ancestry = "German-English"
+height = "73"
+weight = "192"
+
+[person.birth]
+date = "1919-01-27"
+place.country = "US"
+place.state = "MI"
+place.city = "McBridged"
+
+[[person.resides]]
+place.address = "Box 101"
+place.country = "US"
+place.state = "MI"
+place.city = "McBrides"
+
+[[person.education]]
+school.type = "college"
+school.name = "Western State Teachers College (Western Michigan)"
+
+
+[[person.transaction]]
+date = "1940"
+type = "signed"
+join.name = "Toledo"
+note = "Toledo 1940"
+
+[[person.transaction]]
+date = "MI"
+type = "optioned"
+leave.name = "Toledo"
+join.name = "St. Joseph"
+note = "opt to St. Joseph MI"
+
+[[person.transaction]]
+date = "1940-06"
+type = "returned"
+leave.name = "St. Joseph"
+join.name = "Toledo"
+note = "ret to Toledo 1940-06"
+
+[[person.transaction]]
+date = "1940-06"
+type = "optioned"
+leave.name = "Toledo"
+join.name = "Greeneville TN"
+note = "opt to Greeneville TN 1940-06"
+
+[[person.transaction]]
+date = "1940-08"
+type = "returned"
+leave.name = "Greeneville TN"
+join.name = "Toledo"
+note = "ret to Toledo 1940-08"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Toledo"
+
+[[person.transaction]]
+date = "1941-06"
+type = "optioned"
+leave.name = "Toledo"
+join.name = "San Antonio"
+note = "opt to San Antonio 1941-06"
+
+[[person.transaction]]
+date = "1941-08"
+type = "optioned"
+leave.name = "San Antonio"
+join.name = "Springfield IL"
+note = "opt to Springfield IL 1941-08"
+
+[[person.transaction]]
+date = "1941-08"
+type = "recalled"
+leave.name = "Springfield IL"
+join.name = "Toledo"
+note = "rec by Toledo 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Toledo"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-04"
+type = "released"
+leave.name = "Toledo"
+join.name = "Springfield IL"
+note = "rel to Springfield IL 1942-04"
+
+[[person.transaction]]
+date = "1942-05"
+type = "released"
+leave.name = "Springfield IL"
+join.name = "Gloversville-Johnstown"
+note = "rel to Gloversville-Johnstown 1942-05"
+
+[[person.transaction]]
+date = "1942-09"
+type = "released"
+leave.name = "Gloversville-Johnstown"
+join.name = "Toledo"
+note = "rel to Toledo 1942-09"
+
+[[person.transaction]]
+date = "1942-09"
+type = "released"
+leave.name = "Toledo"
+join.name = "San Antonio"
+note = "rel to San Antonio 1942-09"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "San Antonio"
+note = "res for 1943"
+
+[[person.transaction]]
+date = "1943-02"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Toledo"
+note = "rel to Toledo 1943-02"
+
+[[person.transaction]]
+date = "1943-05"
+type = "voluntarily-retired"
+leave.name = "Toledo"
+note = "vol ret 1943-05"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Toledo"
+
+[[person.transaction]]
+date = "1948-12-14"
+type = "released"
+leave.name = "Toledo"
+note = "rel 1948-12-14"
+

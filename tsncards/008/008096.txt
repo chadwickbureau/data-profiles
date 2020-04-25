@@ -1,0 +1,138 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:8096"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/8096"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008020"
+
+[person.name]
+last = "Baham"
+given = "Carl Alton"
+
+[person.description]
+position = "R"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "175"
+
+
+[[person.transaction]]
+date = "1947-01-02"
+type = "signed"
+join.name = "Hammond"
+note = "Hammond 1947-01-02"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Hammond"
+
+[[person.transaction]]
+date = "1948-07-09"
+type = "released"
+leave.name = "Hammond"
+note = "rel 1948-07-09"
+
+[[person.transaction]]
+date = "1949-03-07"
+type = "signed"
+join.name = "Johnstown PA"
+note = "Johnstown PA 1949-03-07"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "optioned"
+leave.name = "Johnstown PA"
+join.name = "Smithfield"
+note = "opt to Smithfield 1949-04-20"
+
+[[person.transaction]]
+date = "1949-05-21"
+type = "disabled"
+leave.name = "Smithfield"
+note = "disabled list 1949-05-21"
+
+[[person.transaction]]
+date = "1949-06-01"
+type = "reinstated"
+join.name = "Smithfield"
+note = "rein 1949-06-01"
+
+[[person.transaction]]
+date = "1949-09-04"
+type = "recalled"
+leave.name = "Smithfield"
+join.name = "Johnstown"
+note = "opt rec to Johnstown 1949-09-04"
+
+[[person.transaction]]
+date = "1949-09-30"
+type = "released"
+leave.name = "Johnstown"
+join.name = "Nashua"
+note = "rel to Nashua 1949-09-30"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Nashua"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-01-10"
+type = "released"
+leave.name = "Nashua"
+join.name = "Lancaster"
+note = "rel to Lancaster 1950-01-10"
+
+[[person.transaction]]
+date = "suspended list 1950-04-25"
+type = "suspended"
+leave.name = "Lancaster"
+note = "suspended list 1950-04-25"
+
+[[person.transaction]]
+date = "1950-06-02"
+type = "reinstated"
+join.name = "Lancaster"
+note = "rein from suspended list 1950-06-02"
+
+[[person.transaction]]
+date = "1950-06-06"
+type = "released"
+leave.name = "Lancaster"
+join.name = "Smithfield"
+note = "rel to Smithfield 1950-06-06"
+
+[[person.transaction]]
+date = "1950-08-17"
+type = "released"
+leave.name = "Smithfield"
+join.name = "New Bern"
+note = "rel to New Bern 1950-08-17"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "New Bern"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-05-16"
+type = "restricted"
+leave.name = "New Bern"
+note = "restricted list 1951-05-16"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "New Bern"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "New Bern"
+

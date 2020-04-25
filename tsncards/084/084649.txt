@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:84649"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/84649"
+title = "The Sporting News Player Contract Cards, ScanID: 1039000245"
+
+[person.name]
+last = "Rushing"
+given = "Jesse"
+
+[person.description]
+position = "P"
+
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Bloomington"
+note = "Bloomington 1912"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1915-05"
+
+[[person.transaction]]
+date = "1915-05"
+type = "suspended"
+join.name = "Dothan"
+note = "susp 1915-05"
+
+[[person.transaction]]
+date = "1916-06"
+type = "reinstated"
+join.name = "Dothan"
+note = "reinstated 1916-06"
+
+[[person.transaction]]
+date = "1916-06"
+type = "released"
+leave.name = "Dothan"
+note = "rel 1916-06"
+

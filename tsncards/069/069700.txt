@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:69700"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/69700"
+title = "The Sporting News Player Contract Cards, ScanID: 1015002087"
+
+[person.name]
+last = "Forinash"
+given = "Elbert Allan"
+
+
+[[person.transaction]]
+date = "1950-05-03"
+type = "signed"
+join.name = "Wellsville"
+note = "Wellsville 1950-05-03"
+
+[[person.transaction]]
+date = "1950-05-28"
+type = "released"
+leave.name = "Wellsville"
+note = "rel 1950-05-28"
+

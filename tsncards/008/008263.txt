@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:8263"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/8263"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005439"
+
+[person.name]
+last = "Bailey"
+given = "Maurice"
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1936-06"
+type = "signed"
+join.name = "Fayetteville"
+note = "Fayetteville 1936-06"
+
+[[person.transaction]]
+date = "1939-02"
+type = "signed"
+join.name = "Longview"
+note = "Longview 1939-02"
+
+[[person.transaction]]
+date = "1939-05"
+type = "released"
+leave.name = "Longview"
+note = "rel 1939-05"
+

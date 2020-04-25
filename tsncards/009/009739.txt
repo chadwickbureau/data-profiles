@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:9739"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/9739"
+title = "The Sporting News Player Contract Cards, ScanID: 1005005261"
+
+[person.name]
+last = "Briney"
+given = "E."
+
+[person.description]
+position = "C"
+
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Frankfort"
+note = "Frankfort 1915-07"
+

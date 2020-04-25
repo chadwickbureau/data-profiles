@@ -1,0 +1,96 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:12389"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/12389"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005409"
+
+[person.name]
+last = "Bailey"
+given = "John Jones"
+nick = "Beetle"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "74"
+weight = "180"
+
+[person.birth]
+date = "1941-11-11"
+place.country = "US"
+place.state = "LA"
+place.city = "Hodge"
+
+[[person.resides]]
+place.country = "US"
+place.state = "LA"
+place.city = "Jonesboro"
+
+[[person.education]]
+school.type = "college"
+school.name = "Louisiana State University"
+
+
+[[person.transaction]]
+date = "1962-02-21"
+type = "signed"
+join.name = "Louisville"
+note = "Louisville 1962-02-21"
+
+[[person.transaction]]
+date = "1962-04-18"
+type = "released"
+leave.name = "Louisville"
+join.name = "Boise"
+note = "rel to Boise 1962-04-18"
+
+[[person.transaction]]
+date = "1962-02-22"
+type = "released"
+leave.name = "Boise"
+join.name = "Cedar Rapids"
+note = "rel to Cedar Rapids 1962-02-22"
+
+[[person.transaction]]
+date = "1962-09-10"
+type = "released"
+leave.name = "Cedar Rapids"
+join.name = "Louisville"
+note = "rel to Louisville 1962-09-10"
+
+[[person.transaction]]
+date = "1963"
+type = "reserved"
+join.name = "Louisville"
+note = "res for 1963"
+
+[[person.transaction]]
+date = "1962-12-17"
+type = "released"
+leave.name = "Louisville"
+join.name = "Denver"
+note = "rel to Denver 1962-12-17"
+
+[[person.transaction]]
+date = "1963"
+type = "reserved"
+join.name = "Denver"
+
+[[person.transaction]]
+date = "1963-04-12"
+type = "released"
+leave.name = "Denver"
+join.name = "Waycross"
+note = "rel to Waycross 1963-04-12"
+
+[[person.transaction]]
+date = "1963-05-04"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1963-05-04"
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:162781"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/162781"
+title = "The Sporting News Player Contract Cards, ScanID: 1033004267"
+
+[person.name]
+last = "Ohnoutka"
+given = "Dwain George"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "70"
+weight = "175"
+
+[person.birth]
+date = "1933-12-31"
+place.country = "US"
+place.state = "TX"
+place.city = "Wahoo"
+
+[[person.resides]]
+place.country = "US"
+place.state = "NE"
+place.city = "Touhy"
+
+
+[[person.transaction]]
+date = "1955-08-27"
+type = "signed"
+join.name = "Lincoln"
+note = "Lincoln 1955-08-27"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Lincoln"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-04-14"
+type = "released"
+leave.name = "Lincoln"
+note = "rel 1956-04-14"
+

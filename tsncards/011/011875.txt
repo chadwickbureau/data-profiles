@@ -1,0 +1,262 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11875"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11875"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005907"
+
+[person.name]
+last = "Baker"
+given = "James G."
+nick = "Jake"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "73"
+weight = "182"
+
+[person.birth]
+date = "1910-08-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Cartersville"
+
+[[person.resides]]
+place.address = "Box 1063"
+place.country = "US"
+place.state = "FL"
+place.city = "Cocoa"
+
+
+[[person.transaction]]
+date = "1928-05"
+type = "signed"
+join.name = "Savannah"
+note = "Savannah 1928-05"
+
+[[person.transaction]]
+date = "1929-05"
+type = "signed"
+join.name = "Lindale"
+note = "Lindale 1929-05"
+
+[[person.transaction]]
+date = "1929-05"
+type = "released"
+leave.name = "Lindale"
+note = "rel 1929-05"
+
+[[person.transaction]]
+date = "1929-07"
+type = "signed"
+join.name = "Lindale"
+note = "Lindale 1929-07"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Lindale"
+
+[[person.transaction]]
+date = "1931-05"
+type = "signed"
+join.name = "Vicksburg"
+note = "Vicksburg 1931-05"
+
+[[person.transaction]]
+date = "1931-09"
+type = "released"
+leave.name = "Vicksburg"
+join.name = "Memphis"
+note = "rel to Memphis 1931-09"
+
+[[person.transaction]]
+date = "1932"
+type = "reserved"
+join.name = "Memphis"
+
+[[person.transaction]]
+date = "1932-03"
+type = "released"
+leave.name = "Memphis"
+join.name = "Jackson"
+note = "rel to Jackson 1932-03"
+
+[[person.transaction]]
+date = "1932-06"
+type = "released"
+leave.name = "Jackson"
+note = "rel 1932-06"
+
+[[person.transaction]]
+date = "1934-01"
+type = "signed"
+join.name = "Atlanta"
+note = "Atlanta 1934-01"
+
+[[person.transaction]]
+date = "1934-04"
+type = "released"
+leave.name = "Atlanta"
+note = "rel 1934-04"
+
+[[person.transaction]]
+date = "1934-04"
+type = "signed"
+join.name = "Knoxville"
+note = "Knoxville 1934-04"
+
+[[person.transaction]]
+date = "1935"
+type = "reserved"
+join.name = "Knoxville"
+
+[[person.transaction]]
+date = "1935-03"
+type = "released"
+leave.name = "Knoxville"
+join.name = "Pine Bluff"
+note = "rel to Pine Bluff 1935-03"
+
+[[person.transaction]]
+date = "1936-03"
+type = "released"
+leave.name = "Pine Bluff"
+join.name = "Minneapolis"
+note = "rel to Minneapolis 1936-03"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "Minneapolis"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "Minneapolis"
+
+[[person.transaction]]
+date = "1938-05"
+type = "optioned"
+leave.name = "Minneapolis"
+join.name = "Chattanooga"
+note = "opt to Chattanooga 1938-05"
+
+[[person.transaction]]
+date = "1938-05"
+type = "sold"
+leave.name = "Dallas"
+note = "sold to Dallas 1938-05"
+
+[[person.transaction]]
+date = "1938-06"
+type = "released"
+leave.name = "Dallas"
+join.name = "Macon"
+note = "rel to Macon 1938-06"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Macon"
+
+[[person.transaction]]
+date = "1939-07"
+type = "suspended"
+join.name = "Macon"
+note = "susp 1939-07"
+
+[[person.transaction]]
+date = "1939-07"
+type = "reinstated"
+join.name = "Macon"
+note = "rein 1939-07"
+
+[[person.transaction]]
+date = "1939-07"
+type = "optioned"
+leave.name = "Macon"
+join.name = "Gadsden"
+note = "opt to Gadsden 1939-07"
+
+[[person.transaction]]
+date = "1939-07"
+type = "suspended"
+join.name = "Gadsden"
+note = "susp 1939-07"
+
+[[person.transaction]]
+date = "1939-08"
+type = "reinstated"
+join.name = "Gadsden"
+note = "rein 1939-08"
+
+[[person.transaction]]
+date = "1940"
+type = "reserved"
+join.name = "Gadsden"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Gadsden"
+note = "res for 1941"
+
+[[person.transaction]]
+date = "1941-07"
+type = "released"
+leave.name = "Gadsden"
+note = "rel 1941-07"
+
+[[person.transaction]]
+date = "1941-08"
+type = "signed"
+join.name = "Meridian"
+note = "Meridian 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Meridian"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-05"
+type = "released"
+leave.name = "Meridian"
+note = "rel 1942-05"
+
+[[person.transaction]]
+date = "1942-06"
+type = "signed"
+join.name = "Pensacola"
+note = "Pensacola 1942-06"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Pensacola"
+note = "res for 1943"
+
+[[person.transaction]]
+date = "1943-04"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1943-04"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Birmingham"
+note = "res for 1944"
+
+[[person.transaction]]
+date = "1944-08"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1944-08"
+

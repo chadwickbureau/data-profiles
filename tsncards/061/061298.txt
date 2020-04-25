@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:61298"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/61298"
+title = "The Sporting News Player Contract Cards, ScanID: 1016001263"
+
+[person.name]
+last = "Garabedian"
+given = "Hagop H."
+
+
+[[person.transaction]]
+date = "1945-06"
+type = "signed"
+join.name = "Marion"
+note = "Marion 1945-06"
+
+[[person.transaction]]
+date = "1945-06"
+type = "released"
+leave.name = "Marion"
+note = "rel 1945-06"
+
+[[person.transaction]]
+date = "1945-07"
+type = "signed"
+join.name = "Erie"
+note = "Erie 1945-07"
+
+[[person.transaction]]
+date = "1945-07"
+type = "released"
+leave.name = "Erie"
+note = "rel 1945-07"
+
+[[person.transaction]]
+date = "1947-02-07"
+type = "signed"
+join.name = "Wellsville"
+note = "Wellsville 1947-02-07"
+
+[[person.transaction]]
+date = "1947-04-29"
+type = "released"
+leave.name = "Wellsville"
+note = "rel 1947-04-29"
+
+[[person.transaction]]
+date = "1948-02-25"
+type = "signed"
+join.name = "Lanett"
+note = "Lanett 1948-02-25"
+
+[[person.transaction]]
+date = "1948-05-12"
+type = "released"
+leave.name = "Lanett"
+note = "rel 1948-05-12"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:142643"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/142643"
+title = "The Sporting News Player Contract Cards, ScanID: 1041003225"
+
+[person.name]
+last = "Simpson"
+given = "Edwin E."
+
+
+[[person.transaction]]
+date = "1947-03-31"
+type = "signed"
+join.name = "Leaksville"
+note = "Leaksville 1947-03-31"
+
+[[person.transaction]]
+date = "1947-04-18"
+type = "released"
+leave.name = "Leaksville"
+note = "rel 1947-04-18"
+

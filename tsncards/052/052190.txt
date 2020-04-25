@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:52190"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/52190"
+title = "The Sporting News Player Contract Cards, ScanID: 1013000815"
+
+[person.name]
+last = "Durborow"
+given = "LeRoy"
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Hamilton (ON)"
+note = "Hamilton (ON) 1914-03"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Hamilton (ON)"
+note = "rel 1914-05"
+
+[[person.transaction]]
+date = "1914-06"
+type = "signed"
+join.name = "Wilmington"
+note = "Wilmington 1914-06"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1914-07"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Charlotte"
+note = "res for 1915"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1915-05"
+
+[[person.transaction]]
+date = "1916"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1916"
+
+[[person.transaction]]
+date = "1916-06"
+type = "released"
+leave.name = "Martinsburg"
+note = "rel 1916-06"
+
+[[person.transaction]]
+date = "1916-06"
+type = "signed"
+join.name = "Gettysburg"
+note = "Gettysburg 1916-06"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Gettysburg"
+note = "res for 1917"
+

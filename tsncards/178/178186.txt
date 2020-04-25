@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:178186"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/178186"
+title = "The Sporting News Player Contract Cards, ScanID: 1028000867"
+
+[person.name]
+last = "Manson"
+given = "Robert H."
+
+[person.description]
+position = "P"
+note = [ "Semi-pro in 1914" ]
+
+[[person.resides]]
+place.country = "US"
+place.state = "GA"
+place.city = "Darien"
+
+
+[[person.transaction]]
+date = "1915-01"
+type = "signed"
+join.name = "Savannah"
+note = "Savannah 1915-01"
+
+[[person.transaction]]
+date = "1915-03"
+type = "released"
+leave.name = "Savannah"
+note = "rel 1915-03"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Brunswick"
+note = "Brunswick 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "suspended"
+join.name = "Brunswick"
+note = "susp 1915-05"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Brunswick"
+note = "rel 1915-07"
+

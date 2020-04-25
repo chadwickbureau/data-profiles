@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:92209"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/92209"
+title = "The Sporting News Player Contract Cards, ScanID: 1036003465"
+
+[person.name]
+last = "Pye"
+given = "Joseph"
+
+
+[[person.transaction]]
+date = "1963-01-05"
+type = "signed"
+join.name = "Auburn"
+note = "Auburn 1963-01-05"
+
+[[person.transaction]]
+date = "1964"
+type = "reserved"
+join.name = "Auburn"
+note = "for 1964"
+
+[[person.transaction]]
+date = "1964-04-15"
+type = "released"
+leave.name = "Auburn"
+join.name = "Williamsport"
+note = "rel to Williamsport 1964-04-15"
+
+[[person.transaction]]
+date = "1964-05-09"
+type = "disqualified"
+leave.name = "Williamsport"
+note = "disq list 1964-05-09"
+
+[[person.transaction]]
+date = "1965"
+type = "reserved"
+join.name = "Williamsport"
+note = "res for 1965"
+
+[[person.transaction]]
+date = "1965-05-10"
+type = "reinstated"
+join.name = "Williamsport"
+note = "rein 1965-05-10"
+
+[[person.transaction]]
+date = "1965-05-10"
+type = "released"
+leave.name = "Williamsport"
+note = "rel 1965-05-10"
+

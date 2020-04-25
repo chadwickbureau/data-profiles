@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:61827"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/61827"
+title = "The Sporting News Player Contract Cards, ScanID: 1015005799"
+
+[person.name]
+last = "Fuchs"
+given = "George Martin"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "195"
+
+[person.birth]
+date = "1933-12-05"
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+[[person.resides]]
+place.address = "309 Bright Avenue"
+place.country = "US"
+place.state = "NJ"
+place.city = "Oaklyn"
+
+
+[[person.transaction]]
+date = "1953-08-08"
+type = "signed"
+join.name = "Bradford"
+note = "Bradford 1953-08-08"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Bradford"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-04-21"
+type = "released"
+leave.name = "Bradford"
+join.name = "Mattoon"
+note = "rel to Mattoon 1954-04-21"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Mattoon"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1955-04-27"
+type = "released"
+leave.name = "Mattoon"
+join.name = "Pulaski"
+note = "rel to Pulaski 1955-04-27"
+
+[[person.transaction]]
+date = "1955-05-19"
+type = "released"
+leave.name = "Pulaski"
+note = "rel 1955-05-19"
+

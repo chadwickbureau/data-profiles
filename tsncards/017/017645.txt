@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:17645"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17645"
+title = "The Sporting News Player Contract Cards, ScanID: 1025011685"
+
+[person.name]
+last = "Betts"
+given = "Lloyd"
+
+[[person.resides]]
+place.country = "US"
+place.state = "NE"
+place.city = "Arcadia"
+
+
+[[person.transaction]]
+date = "1930-07"
+type = "signed"
+join.name = "York NE"
+note = "York NE 1930-07"
+
+[[person.transaction]]
+date = "1932"
+type = "suspended"
+join.name = "York NE"
+note = "susp 1932"
+

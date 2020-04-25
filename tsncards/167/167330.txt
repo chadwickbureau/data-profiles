@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:167330"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/167330"
+title = "The Sporting News Player Contract Cards, ScanID: 1032005021"
+
+[person.name]
+last = "Nelon"
+given = "Cecil"
+
+
+[[person.transaction]]
+date = "1938-04"
+type = "signed"
+join.name = "Tulsa"
+note = "Tulsa 1938-04"
+
+[[person.transaction]]
+date = "1938-05"
+type = "released"
+leave.name = "Tulsa"
+note = "rel 1938-05"
+

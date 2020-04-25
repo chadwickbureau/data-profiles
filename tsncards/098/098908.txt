@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:98908"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/98908"
+title = "The Sporting News Player Contract Cards, ScanID: 1035006499"
+
+[person.name]
+last = "Poole"
+given = "B. C."
+
+
+[[person.transaction]]
+date = "1925"
+type = "signed"
+join.name = "Waterbury"
+note = "Waterbury 1925"
+
+[[person.transaction]]
+date = "1925-07"
+type = "released"
+leave.name = "Waterbury"
+join.name = "Elmira"
+note = "rel to Elmira 1925-07"
+
+[[person.transaction]]
+date = "1926"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1927-06"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Elmira"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-10"
+type = "voluntarily-retired"
+leave.name = "Elmira"
+note = "vol ret 1928-10"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1932"
+type = "reserved"
+join.name = "Elmira"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:44029"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/44029"
+title = "The Sporting News Player Contract Cards, ScanID: 1009003190"
+
+[person.name]
+last = "Conley"
+given = "Donald"
+
+
+[[person.transaction]]
+date = "1939-05"
+type = "signed"
+join.name = "Ogden"
+note = "Ogden 1939-05"
+
+[[person.transaction]]
+date = "1939-07"
+type = "released"
+leave.name = "Ogden"
+note = "rel 1939-07"
+

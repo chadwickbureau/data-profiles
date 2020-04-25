@@ -1,0 +1,108 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16545"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16545"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004405"
+
+[person.name]
+last = "Barbour"
+given = "Calvin C."
+suffix = "Jr."
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "165"
+
+[person.birth]
+date = "1899-10-17"
+place.country = "US"
+place.state = "MS"
+place.city = "Canton"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MS"
+place.city = "Vicksburg"
+
+[[person.education]]
+school.type = "college"
+school.name = "University of Mississippi"
+
+
+[[person.transaction]]
+date = "1922"
+type = "signed"
+join.name = "Greenville"
+note = "Greenville 1922"
+
+[[person.transaction]]
+date = "1924-06"
+type = "signed"
+join.name = "Vicksburg"
+note = "Vicksburg 1924-06"
+
+[[person.transaction]]
+date = "1927"
+type = "signed"
+join.name = "Jackson MS"
+note = "Jackson MS 1927"
+
+[[person.transaction]]
+date = "1927-04"
+type = "released"
+leave.name = "Jackson MS"
+note = "rel 1927-04"
+
+[[person.transaction]]
+date = "1927-06"
+type = "signed"
+join.name = "Laurel MS"
+note = "Laurel MS 1927-06"
+
+[[person.transaction]]
+date = "1927-06"
+type = "released"
+leave.name = "Laurel MS"
+note = "rel 1927-06"
+
+[[person.transaction]]
+date = "1927-06"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1927-06"
+
+[[person.transaction]]
+date = "1927-07"
+type = "released"
+leave.name = "Charlotte"
+note = "rel 1927-07"
+
+[[person.transaction]]
+date = "1930"
+type = "signed"
+join.name = "Jackson MS"
+note = "Jackson MS 1930"
+
+[[person.transaction]]
+date = "1931-05"
+type = "released"
+leave.name = "Jackson MS"
+note = "rel 1931-05"
+
+[[person.transaction]]
+date = "1931-06"
+type = "signed"
+join.name = "Vicksburg"
+note = "Vicksburg 1931-06"
+
+[[person.transaction]]
+date = "1931-07"
+type = "released"
+leave.name = "Vicksburg"
+note = "rel 1931-07"
+

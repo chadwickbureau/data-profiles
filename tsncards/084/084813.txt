@@ -1,0 +1,119 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:84813"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/84813"
+title = "The Sporting News Player Contract Cards, ScanID: 1025019288"
+
+[person.name]
+last = "Janacone"
+given = "Richard W."
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+ancestry = "Saipan-Italian"
+height = "74"
+weight = "185"
+
+[person.birth]
+date = "1930-02-22"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[[person.resides]]
+place.address = "708 Oak Street"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+dates = "1950-12-15/1952-12-02"
+
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "signed"
+join.name = "New Castle"
+note = "New Castle 1949-04-20"
+
+[[person.transaction]]
+date = "1949-05-29"
+type = "temporarily-inactive"
+leave.name = "New Castle"
+note = "temp inactive list 1949-05-29"
+
+[[person.transaction]]
+date = "1949-06-10"
+type = "reinstated"
+join.name = "New Castle"
+note = "rein 1949-06-10"
+
+[[person.transaction]]
+date = "1949-06-13"
+type = "released"
+leave.name = "New Castle"
+note = "rel 1949-06-13"
+
+[[person.transaction]]
+date = "1950-04-24"
+type = "signed"
+join.name = "New Castle"
+note = "New Castle 1950-04-24"
+
+[[person.transaction]]
+date = "1950-08-04"
+type = "released"
+leave.name = "New Castle"
+note = "rel 1950-08-04"
+
+[[person.transaction]]
+date = "1950-10-21"
+type = "signed"
+join.name = "Sioux Falls"
+note = "Sioux Falls 1950-10-21"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Sioux Falls"
+
+[[person.transaction]]
+date = "1950-12-12"
+type = "national-defense-list"
+leave.name = "Sioux Falls"
+note = "National Defense List 1950-12-12"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Sioux Falls"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Sioux Falls"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Sioux Falls"
+
+[[person.transaction]]
+date = "1953-01-30"
+type = "reinstated"
+join.name = "Sioux Falls"
+note = "rein from National Defense List 1953-01-30"
+
+[[person.transaction]]
+date = "1953-06-12"
+type = "released"
+leave.name = "Sioux Falls"
+note = "rel 1953-06-12"
+

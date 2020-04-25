@@ -1,0 +1,98 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:113321"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/113321"
+title = "The Sporting News Player Contract Cards, ScanID: 1022006003"
+
+[person.name]
+last = "Johnson"
+given = "George Anderson"
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "175"
+
+[person.birth]
+date = "1892-03-28"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Baltimore semipro"
+note = "Baltimore semipro 1912"
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Lynchburg"
+note = "Lynchburg 1912"
+
+[[person.transaction]]
+date = "1913"
+type = "signed"
+join.name = "Bristol (TN)"
+note = "Bristol (TN) 1913"
+
+[[person.transaction]]
+date = "1914"
+type = "signed"
+join.name = "Baltimore semipro"
+note = "Baltimore semipro 1914"
+
+[[person.transaction]]
+date = "1915-02"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1915-02"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Martinsburg (WV)"
+note = "Martinsburg (WV) 1915-05"
+
+[[person.transaction]]
+date = "1916-03"
+type = "signed"
+join.name = "Nashville"
+note = "Nashville 1916-03"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Frederick"
+note = "Frederick 1916-05"
+
+[[person.transaction]]
+date = "1916-06"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1916-06"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Martinsburg"
+note = "res for 1917"
+

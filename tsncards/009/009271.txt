@@ -1,0 +1,90 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:9271"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/9271"
+title = "The Sporting News Player Contract Cards, ScanID: 1025012073"
+
+[person.name]
+last = "Bolger"
+given = "T. R."
+
+[person.description]
+position = "P"
+
+[[person.resides]]
+place.country = "US"
+place.state = "PA"
+place.city = "Altoona"
+
+
+[[person.transaction]]
+date = "1930-05"
+type = "signed"
+join.name = "Hazleton"
+note = "Hazleton 1930-05"
+
+[[person.transaction]]
+date = "1930-07"
+type = "released"
+leave.name = "Hazleton"
+join.name = "Albany"
+note = "rel to Albany 1930-07"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Albany"
+join.name = "Cumberland"
+note = "rel to Cumberland 1930-08"
+
+[[person.transaction]]
+date = "1930-09"
+type = "released"
+leave.name = "Cumberland"
+join.name = "Scranton"
+note = "rel to Scranton 1930-09"
+
+[[person.transaction]]
+date = "1931-05"
+type = "signed"
+join.name = "inel"
+note = "inel 1931-05"
+
+[[person.transaction]]
+date = "1931-07"
+type = "voluntarily-retired"
+leave.name = "inel"
+note = "vol ret 1931-07"
+
+[[person.transaction]]
+date = "1932"
+type = "reserved"
+join.name = "inel"
+
+[[person.transaction]]
+date = "1932-04"
+type = "reinstated"
+join.name = "inel"
+note = "rein 1932-04"
+
+[[person.transaction]]
+date = "1932-05"
+type = "released"
+leave.name = "inel"
+note = "rel 1932-05"
+
+[[person.transaction]]
+date = "1932-06"
+type = "signed"
+join.name = "Johnstown"
+note = "Johnstown 1932-06"
+
+[[person.transaction]]
+date = "1932-06"
+type = "released"
+leave.name = "Johnstown"
+note = "rel 1932-06"
+

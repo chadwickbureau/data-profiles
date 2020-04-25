@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130245"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130245"
+title = "The Sporting News Player Contract Cards, ScanID: 1023004733"
+
+[person.name]
+last = "Kauffman"
+given = "Alvin S."
+
+
+[[person.transaction]]
+date = "1947-12-06"
+type = "signed"
+join.name = "Oshkosh"
+note = "Oshkosh 1947-12-06"
+
+[[person.transaction]]
+date = "1948-04-10"
+type = "released"
+leave.name = "Oshkosh"
+note = "rel 1948-04-10"
+
+[[person.transaction]]
+date = "1948-04-23"
+type = "signed"
+join.name = "Mt. Vernon"
+note = "Mt. Vernon 1948-04-23"
+
+[[person.transaction]]
+date = "1948-05-03"
+type = "released"
+leave.name = "Mt. Vernon"
+note = "rel 1948-05-03"
+

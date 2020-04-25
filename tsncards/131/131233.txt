@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:131233"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131233"
+title = "The Sporting News Player Contract Cards, ScanID: 1026000957"
+
+[person.name]
+last = "Le Blanc"
+given = "Joseph A."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1952-03-15"
+type = "signed"
+join.name = "Wausau"
+note = "Wausau 1952-03-15"
+
+[[person.transaction]]
+date = "1952-04-30"
+type = "released"
+leave.name = "Wausau"
+note = "rel 1952-04-30"
+
+[[person.transaction]]
+date = "1952-09-01"
+type = "signed"
+join.name = "Valdosta"
+note = "Valdosta 1952-09-01"
+
+[[person.transaction]]
+date = "1952-10-01"
+type = "released"
+leave.name = "Valdosta"
+join.name = "Thomasville (GA)"
+note = "rel to Thomasville (GA) 1952-10-01"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Thomasville (GA)"
+
+[[person.transaction]]
+date = "1953-04-18"
+type = "released"
+leave.name = "Thomasville (GA)"
+note = "rel 1953-04-18"
+

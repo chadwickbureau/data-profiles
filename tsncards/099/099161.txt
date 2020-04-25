@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:99161"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/99161"
+title = "The Sporting News Player Contract Cards, ScanID: 1036001995"
+
+[person.name]
+last = "Price"
+given = "W. I."
+
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Eufaula"
+note = "Eufaula 1916-05"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Eufaula"
+note = "res for 1917"
+

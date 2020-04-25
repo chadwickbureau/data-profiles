@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:19840"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/19840"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008175"
+
+[person.name]
+last = "Barney"
+given = "Charles Everett"
+use = "Chuck"
+
+[person.description]
+position = "1B"
+bats = "L"
+throws = "L"
+height = "69.5"
+weight = "190"
+
+[person.birth]
+date = "1927-01-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[[person.resides]]
+place.address = "1454 Huy Road"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+
+[[person.transaction]]
+date = "1943-09"
+type = "signed"
+join.name = "Columbus"
+note = "Columbus 1943-09"
+
+[[person.transaction]]
+date = "1943-08"
+type = "optioned"
+leave.name = "Columbus"
+join.name = "Allentown"
+note = "opt to Allentown 1943-08"
+
+[[person.transaction]]
+date = "1943-08"
+type = "recalled"
+leave.name = "Allentown"
+join.name = "Columbus"
+note = "rec by Columbus 1943-08"
+
+[[person.transaction]]
+date = "1944 rel to Lima 1944-05"
+type = "reserved"
+join.name = "Columbus"
+note = "res for 1944 rel to Lima 1944-05"
+
+[[person.transaction]]
+date = "1944-06"
+type = "released"
+leave.name = "Columbus"
+join.name = "Marion"
+note = "rel to Marion 1944-06"
+
+[[person.transaction]]
+date = "1944-06"
+type = "released"
+leave.name = "Marion"
+note = "rel 1944-06"
+

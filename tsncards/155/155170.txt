@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:155170"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/155170"
+title = "The Sporting News Player Contract Cards, ScanID: 1043000251"
+
+[person.name]
+last = "Steinmann"
+given = "Charles Heisler"
+
+
+[[person.transaction]]
+date = "1954-07-01"
+type = "signed"
+join.name = "Welch"
+note = "Welch 1954-07-01"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Welch"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-13"
+type = "released"
+leave.name = "Welch"
+note = "rel 1955-04-13"
+

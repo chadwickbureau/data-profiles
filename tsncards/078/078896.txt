@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:78896"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/78896"
+title = "The Sporting News Player Contract Cards, ScanID: 1018005715"
+
+[person.name]
+last = "Hamilton"
+given = "Frank Dean"
+
+
+[[person.transaction]]
+date = "1947-02-19"
+type = "signed"
+join.name = "Wenatchee"
+note = "Wenatchee 1947-02-19"
+
+[[person.transaction]]
+date = "1947-05-07"
+type = "released"
+leave.name = "Wenatchee"
+join.name = "Anaheim"
+note = "rel to Anaheim 1947-05-07"
+
+[[person.transaction]]
+date = "1947-06-02"
+type = "released"
+leave.name = "Anaheim"
+note = "rel 1947-06-02"
+

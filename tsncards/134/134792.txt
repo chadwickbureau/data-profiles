@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134792"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134792"
+title = "The Sporting News Player Contract Cards, ScanID: 1026000741"
+
+[person.name]
+last = "Leaman"
+given = "Lyl"
+
+[person.description]
+position = "2B"
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Durham T.A."
+note = "Durham T.A. 1913-05"
+
+[[person.transaction]]
+date = "1913-06"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1913-06"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Gadsden"
+note = "Gadsden 1914-04"
+
+[[person.transaction]]
+date = "1914-06"
+type = "suspended"
+join.name = "Gadsden"
+note = "susp 1914-06"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1915"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1915-06"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1915-04"
+

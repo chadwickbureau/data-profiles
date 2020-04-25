@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15478"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15478"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005209"
+
+[person.name]
+last = "Bahr"
+given = "Gerald"
+
+
+[[person.transaction]]
+date = "1926-05"
+type = "signed"
+join.name = "Sarasota"
+note = "Sarasota 1926-05"
+
+[[person.transaction]]
+date = "1926-06"
+type = "released"
+leave.name = "Sarasota"
+note = "rel 1926-06"
+

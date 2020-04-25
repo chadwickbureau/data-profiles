@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:125828"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/125828"
+title = "The Sporting News Player Contract Cards, ScanID: 1023003747"
+
+[person.name]
+last = "Kalena"
+given = "Joe"
+
+
+[[person.transaction]]
+date = "?"
+type = "signed"
+join.name = "Thomasville"
+note = "Thomasville ?"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Thomasville"
+note = "rel 1915-05"
+

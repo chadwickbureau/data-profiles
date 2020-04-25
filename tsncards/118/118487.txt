@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:118487"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/118487"
+title = "The Sporting News Player Contract Cards, ScanID: 1046000463"
+
+[person.name]
+last = "Vedder"
+given = "Charles T."
+
+
+[[person.transaction]]
+date = "1948-08-27"
+type = "signed"
+join.name = "Hot Springs"
+note = "Hot Springs 1948-08-27"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Hot Springs"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-05-16"
+type = "released"
+leave.name = "Hot Springs"
+note = "rel 1949-05-16"
+

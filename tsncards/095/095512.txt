@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:95512"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/95512"
+title = "The Sporting News Player Contract Cards, ScanID: 1021002523"
+
+[person.name]
+last = "Hopkins"
+given = "R. B."
+
+
+[[person.transaction]]
+date = "1945-01"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1945-01"
+
+[[person.transaction]]
+date = "1945-04"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1945-04"
+
+[[person.transaction]]
+date = "1945-06"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1945-06"
+
+[[person.transaction]]
+date = "1945-06"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1945-06"
+

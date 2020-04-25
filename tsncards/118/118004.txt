@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:118004"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/118004"
+title = "The Sporting News Player Contract Cards, ScanID: 1044002189"
+
+[person.name]
+last = "Taylor"
+given = "Lowell Dean"
+
+
+[[person.transaction]]
+date = "1955-02-08"
+type = "signed"
+join.name = "Decatur"
+note = "Decatur 1955-02-08"
+
+[[person.transaction]]
+date = "1955-04-06"
+type = "released"
+leave.name = "Decatur"
+note = "rel 1955-04-06"
+

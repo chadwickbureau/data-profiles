@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:158882"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/158882"
+title = "The Sporting News Player Contract Cards, ScanID: 1048003057"
+
+[person.name]
+last = "Wilson"
+given = "Carl E."
+use = "Bruce"
+
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Greensboro"
+note = "Greensboro 1914-04"
+
+[[person.transaction]]
+date = "1914-04"
+type = "released"
+leave.name = "Greensboro"
+note = "rel 1914-04"
+
+[[person.transaction]]
+date = "1915-03"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1915-03"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1915-05"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1915"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "La Grange"
+note = "La Grange 1916-04"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "La Grange"
+note = "res for 1917"
+

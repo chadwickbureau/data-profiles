@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15179"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15179"
+title = "The Sporting News Player Contract Cards, ScanID: 1025007850"
+
+[person.name]
+last = "Babinec"
+use = "Joe"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "72.5"
+weight = "185"
+
+[person.birth]
+date = "1911-02-24"
+place.country = "US"
+place.state = "IL"
+place.city = "South Chicago"
+
+[[person.resides]]
+place.address = "4002 Fir St."
+place.country = "US"
+place.state = "IN"
+place.city = "East Chicago"
+
+
+[[person.transaction]]
+date = "1930-04"
+type = "signed"
+join.name = "Cedar Rapids"
+note = "Cedar Rapids 1930-04"
+

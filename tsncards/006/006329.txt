@@ -1,0 +1,187 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:6329"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/6329"
+title = "The Sporting News Player Contract Cards, ScanID: 1002006158"
+
+[person.name]
+last = "Baker"
+given = "Warren"
+
+[person.description]
+position = "1B"
+bats = "L"
+throws = "L"
+height = "71"
+weight = "190"
+
+[person.birth]
+date = "1914-06-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "8728 Lowe"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1935-01"
+type = "signed"
+join.name = "Galveston"
+note = "Galveston 1935-01"
+
+[[person.transaction]]
+date = "1935-04"
+type = "released"
+leave.name = "Galveston"
+join.name = "Helena"
+note = "rel to Helena 1935-04"
+
+[[person.transaction]]
+date = "1936"
+type = "reserved"
+join.name = "Helena"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "Helena"
+
+[[person.transaction]]
+date = "1937-05"
+type = "released"
+leave.name = "Helena"
+join.name = "Clarksdale"
+note = "rel to Clarksdale 1937-05"
+
+[[person.transaction]]
+date = "1938-01"
+type = "released"
+leave.name = "Clarksdale"
+join.name = "Savannah"
+note = "rel to Savannah 1938-01"
+
+[[person.transaction]]
+date = "1938-05"
+type = "assigned"
+leave.name = "Savannah"
+join.name = "Augusta"
+note = "assigned to Augusta 1938-05"
+
+[[person.transaction]]
+date = "1938-06"
+type = "released"
+leave.name = "Augusta"
+note = "rel 1938-06"
+
+[[person.transaction]]
+date = "1938"
+type = "signed"
+join.name = "Savnanah"
+note = "Savnanah 1938"
+
+[[person.transaction]]
+date = "1938-11"
+type = "released"
+leave.name = "Savnanah"
+join.name = "Knoxville"
+note = "rel to Knoxville 1938-11"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Knoxville"
+note = "res for 1939"
+
+[[person.transaction]]
+date = "1939-04"
+type = "optioned"
+leave.name = "Knoxville"
+join.name = "Rocky Mount"
+note = "opt to Rocky Mount 1939-04"
+
+[[person.transaction]]
+date = "1939-05"
+type = "optioned"
+leave.name = "Rocky Mount"
+join.name = "Gadsden"
+note = "opt to Gadsden 1939-05"
+
+[[person.transaction]]
+date = "1939-10"
+type = "recalled"
+leave.name = "Gadsden"
+join.name = "Knoxville"
+note = "rec by Knoxville 1939-10"
+
+[[person.transaction]]
+date = "1940"
+type = "reserved"
+join.name = "Knoxville"
+note = "res for 1940"
+
+[[person.transaction]]
+date = "1940-03"
+type = "released"
+leave.name = "Knoxville"
+join.name = "Gadsden"
+note = "rel to Gadsden 1940-03"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Gadsden"
+note = "res for 1941"
+
+[[person.transaction]]
+date = "1941-07"
+type = "optioned"
+leave.name = "Gadsden"
+join.name = "Savannah"
+note = "opt to Savannah 1941-07"
+
+[[person.transaction]]
+date = "1941-08"
+type = "returned"
+leave.name = "Savannah"
+join.name = "Gadsden"
+note = "ret to Gadsden 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Gadsden"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-03"
+type = "released"
+leave.name = "Gadsden"
+join.name = "Montgomery"
+note = "rel to Montgomery 1942-03"
+
+[[person.transaction]]
+date = "1942-05"
+type = "released"
+leave.name = "Montgomery"
+note = "rel 1942-05"
+
+[[person.transaction]]
+date = "1943-04"
+type = "signed"
+join.name = "Indianapolis"
+note = "Indianapolis 1943-04"
+
+[[person.transaction]]
+date = "1943-06"
+type = "released"
+leave.name = "Indianapolis"
+note = "rel 1943-06"
+

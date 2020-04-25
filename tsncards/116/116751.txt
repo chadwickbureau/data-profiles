@@ -1,0 +1,139 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:116751"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/116751"
+title = "The Sporting News Player Contract Cards, ScanID: 1024003369"
+
+[person.name]
+last = "Kirke"
+given = "M. M."
+
+[person.description]
+position = "SS-2B"
+bats = "R"
+throws = "R"
+weight = "165"
+
+[[person.resides]]
+place.country = "US"
+place.state = "NC"
+place.city = "China Grove"
+
+
+[[person.transaction]]
+date = "1914-08"
+type = "signed"
+join.name = "Muskogee"
+note = "Muskogee 1914-08"
+
+[[person.transaction]]
+date = "1914-08"
+type = "released"
+leave.name = "Muskogee"
+note = "rel 1914-08"
+
+[[person.transaction]]
+date = "1915-01"
+type = "signed"
+join.name = "Columbia (NC)"
+note = "Columbia (NC) 1915-01"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Columbia (NC)"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Asheville"
+note = "Asheville 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Asheville"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1915-05"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Griffin"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Durham"
+note = "Durham 1915-07"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Durham"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916-02"
+type = "awarded"
+join.name = "Griffin"
+note = "awarded by Nat Board to Griffin 1916-02"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Griffin"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1917-05"
+type = "released"
+leave.name = "Griffin"
+note = "rel 1917-05"
+
+[[person.transaction]]
+date = "1917-05"
+type = "signed"
+join.name = "Quitman"
+note = "Quitman 1917-05"
+
+[[person.transaction]]
+date = "1919"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1919"
+
+[[person.transaction]]
+date = "1919-05"
+type = "released"
+leave.name = "Charlotte"
+note = "rel 1919-05"
+
+[[person.transaction]]
+date = "1920-04"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1920-04"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1924"
+
+[[person.transaction]]
+date = "1925-02"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1925-02"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:129874"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/129874"
+title = "The Sporting News Player Contract Cards, ScanID: 1023006051"
+
+[person.name]
+last = "Kelley"
+given = "Herbert N."
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Utica"
+note = "Utica 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Utica"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Gettysburg"
+note = "Gettysburg 1915-05"
+

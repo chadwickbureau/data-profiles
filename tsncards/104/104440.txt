@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:104440"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/104440"
+title = "The Sporting News Player Contract Cards, ScanID: 1020003319"
+
+[person.name]
+last = "Hession"
+given = "Michael A."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1951-07-05"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1951-07-05"
+
+[[person.transaction]]
+date = "1951-07-27"
+type = "released"
+leave.name = "Americus"
+note = "rel 1951-07-27"
+

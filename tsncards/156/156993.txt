@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:156993"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/156993"
+title = "The Sporting News Player Contract Cards, ScanID: 1047003891"
+
+[person.name]
+last = "Wescott"
+given = "Deyerle Dean"
+
+
+[[person.transaction]]
+date = "1957-08-32"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1957-08-32"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Aberdeen"
+note = "for 1958"
+
+[[person.transaction]]
+date = "1958-04-20"
+type = "released"
+leave.name = "Aberdeen"
+join.name = "Bluefield"
+note = "rel to Bluefield 1958-04-20"
+
+[[person.transaction]]
+date = "1958-07-28"
+type = "released"
+leave.name = "Bluefield"
+note = "rel 1958-07-28"
+

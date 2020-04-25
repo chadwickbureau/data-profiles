@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:58249"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/58249"
+title = "The Sporting News Player Contract Cards, ScanID: 1012001394"
+
+[person.name]
+last = "Dirmann"
+given = "Henry"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1952-04-03"
+type = "signed"
+join.name = "Eufaula"
+note = "Eufaula 1952-04-03"
+
+[[person.transaction]]
+date = "1952-04-30"
+type = "released"
+leave.name = "Eufaula"
+note = "rel 1952-04-30"
+

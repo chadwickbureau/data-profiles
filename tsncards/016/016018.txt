@@ -1,0 +1,68 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16018"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16018"
+title = "The Sporting News Player Contract Cards, ScanID: 1006005938"
+
+[person.name]
+last = "Busey"
+given = "Gerald Lloyd"
+
+[person.description]
+position = "OF"
+bats = "L"
+throws = "L"
+height = "73"
+weight = "195"
+
+[person.birth]
+date = "1933-01-30"
+place.country = "US"
+place.state = "WA"
+place.city = "Yakima"
+
+[[person.resides]]
+place.country = "US"
+place.state = "WA"
+place.city = "Naches"
+
+
+[[person.transaction]]
+date = "1952-07-21"
+type = "signed"
+join.name = "San Jose"
+note = "San Jose 1952-07-21"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "San Jose"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-05-16"
+type = "temporarily-inactive"
+leave.name = "San Jose"
+note = "temp inactive 1953-05-16"
+
+[[person.transaction]]
+date = "1953-06-25"
+type = "national-defense-list"
+leave.name = "San Jose"
+note = "nat defense list 1953-06-25"
+
+[[person.transaction]]
+date = "1956-03-15"
+type = "reinstated"
+join.name = "San Jose"
+note = "reins 1956-03-15"
+
+[[person.transaction]]
+date = "1956-04-09"
+type = "voluntarily-retired"
+leave.name = "San Jose"
+note = "vol ret list 1956-04-09"
+

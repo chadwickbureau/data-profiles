@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:1242"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/1242"
+title = "The Sporting News Player Contract Cards, ScanID: 1001004111"
+
+[person.name]
+last = "Abercrombie"
+given = "H. L."
+
+[person.birth]
+place.country = "US"
+place.state = "GA"
+place.city = "Athens"
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Greenville"
+note = "Greenville 1911"
+
+[[person.transaction]]
+date = "1912-01"
+type = "suspended"
+join.name = "Greenville"
+note = "susp 1912-01"
+
+[[person.transaction]]
+date = "by Griffin 1915-07"
+type = "released"
+leave.name = "Greenville"
+note = "rel by Griffin 1915-07"
+

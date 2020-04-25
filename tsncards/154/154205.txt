@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154205"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154205"
+title = "The Sporting News Player Contract Cards, ScanID: 1029004677"
+
+[person.name]
+last = "McGrath"
+given = "Matt L."
+
+[person.description]
+position = "OF-C"
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Albany"
+note = "Albany 1913-05"
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Marshalltown"
+note = "Marshalltown 1914-03"
+
+[[person.transaction]]
+date = "1914-04"
+type = "released"
+leave.name = "Marshalltown"
+note = "rel 1914-04"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Troy"
+note = "Troy 1914-04"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Troy"
+note = "res for 1915"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Troy"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916-04"
+type = "released"
+leave.name = "Troy"
+note = "rel 1916-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1916-05"
+
+[[person.transaction]]
+date = "1916-05"
+type = "released"
+leave.name = "Elmira"
+note = "rel 1916-05"
+

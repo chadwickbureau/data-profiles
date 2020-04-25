@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:142397"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/142397"
+title = "The Sporting News Player Contract Cards, ScanID: 1031003047"
+
+[person.name]
+last = "Moon"
+given = "Eric Virgil"
+
+
+[[person.transaction]]
+date = "1961-09-22"
+type = "signed"
+join.name = "Tampa"
+note = "Tampa 1961-09-22"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Tampa"
+
+[[person.transaction]]
+date = "1962-04-17"
+type = "released"
+leave.name = "Tampa"
+note = "rel 1962-04-17"
+

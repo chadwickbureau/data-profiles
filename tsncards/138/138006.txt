@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:138006"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/138006"
+title = "The Sporting News Player Contract Cards, ScanID: 1029004679"
+
+[person.name]
+last = "McGrath"
+given = "Matty P."
+
+
+[[person.transaction]]
+date = "1920-05"
+type = "signed"
+join.name = "Wessington Springs"
+note = "Wessington Springs 1920-05"
+
+[[person.transaction]]
+date = "1921-01"
+type = "released"
+leave.name = "Wessington Springs"
+join.name = "Redfield"
+note = "rel to Redfield 1921-01"
+
+[[person.transaction]]
+date = "1921-02"
+type = "released"
+leave.name = "Redfield"
+join.name = "Watertown"
+note = "rel to Watertown 1921-02"
+
+[[person.transaction]]
+date = "1921-07"
+type = "released"
+leave.name = "Watertown"
+note = "rel 1921-07"
+
+[[person.transaction]]
+date = "1921-07"
+type = "signed"
+join.name = "Mitchell"
+note = "Mitchell 1921-07"
+
+[[person.transaction]]
+date = "1921-09"
+type = "released"
+leave.name = "Mitchell"
+note = "rel 1921-09"
+
+[[person.transaction]]
+date = "1923-09"
+type = "signed"
+join.name = "Beatrice"
+note = "Beatrice 1923-09"
+

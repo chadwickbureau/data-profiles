@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:57108"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/57108"
+title = "The Sporting News Player Contract Cards, ScanID: 1013003325"
+
+[person.name]
+last = "Eiler"
+given = "Charles Henry"
+
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Chambersburg (PA)"
+note = "Chambersburg (PA) 1915-05"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Chambersburg (PA)"
+note = "rel 1915-06"
+
+[[person.transaction]]
+date = "1916"
+type = "signed"
+join.name = "St. Mary's (PA)"
+note = "St. Mary's (PA) 1916"
+
+[[person.transaction]]
+date = "1916-05"
+type = "released"
+leave.name = "St. Mary's (PA)"
+note = "rel 1916-05"
+

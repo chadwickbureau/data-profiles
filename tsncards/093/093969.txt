@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:93969"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/93969"
+title = "The Sporting News Player Contract Cards, ScanID: 1036005069"
+
+[person.name]
+last = "Rajkowski"
+given = "Bernard"
+
+
+[[person.transaction]]
+date = "1936-05"
+type = "signed"
+join.name = "Jeanette"
+note = "Jeanette 1936-05"
+
+[[person.transaction]]
+date = "1936-05"
+type = "released"
+leave.name = "Jeanette"
+note = "rel 1936-05"
+

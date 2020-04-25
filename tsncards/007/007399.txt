@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7399"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7399"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005515"
+
+[person.name]
+last = "Bailey"
+given = "W. E."
+
+
+[[person.transaction]]
+date = "1927-08"
+type = "signed"
+join.name = "Texarkana"
+note = "Texarkana 1927-08"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Texarkana"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-06"
+type = "signed"
+join.name = "Carrollton"
+note = "Carrollton 1928-06"
+
+[[person.transaction]]
+date = "1928-06"
+type = "released"
+leave.name = "Carrollton"
+note = "rel 1928-06"
+

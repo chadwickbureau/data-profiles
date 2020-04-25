@@ -1,0 +1,164 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:103934"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/103934"
+title = "The Sporting News Player Contract Cards, ScanID: 1099020970"
+
+[person.name]
+last = "Rushing"
+given = "Herbert Ellis"
+
+[person.description]
+position = "INF"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "175"
+
+[person.birth]
+date = "1909-04-17"
+place.country = "US"
+place.state = "MS"
+place.city = "Hazlehurst"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MS"
+place.city = "Hazlehurst"
+
+[[person.education]]
+school.type = "college"
+school.name = "University of Mississippi"
+
+
+[[person.transaction]]
+date = "1930-01"
+type = "signed"
+join.name = "Ft. Smith"
+note = "Ft. Smith 1930-01"
+
+[[person.transaction]]
+date = "1930-09"
+type = "released"
+leave.name = "Ft. Smith"
+join.name = "Beaumont"
+note = "rel to Beaumont 1930-09"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Beaumont"
+
+[[person.transaction]]
+date = "1931-05"
+type = "released"
+leave.name = "Beaumont"
+join.name = "Evansville"
+note = "rel to Evansville 1931-05"
+
+[[person.transaction]]
+date = "1931-10"
+type = "signed"
+join.name = "Beaumont"
+note = "Beaumont 1931-10"
+
+[[person.transaction]]
+date = "1932"
+type = "reserved"
+join.name = "Beaumont"
+
+[[person.transaction]]
+date = "1932-05"
+type = "optioned"
+leave.name = "Beaumont"
+join.name = "Decatur"
+note = "opt to Decatur 1932-05"
+
+[[person.transaction]]
+date = "1932-07"
+type = "released"
+leave.name = "Decatur"
+join.name = "Huntington"
+note = "rel to Huntington 1932-07"
+
+[[person.transaction]]
+date = "1933"
+type = "signed"
+join.name = "Clarksburg"
+note = "Clarksburg 1933"
+
+[[person.transaction]]
+date = "1933-04"
+type = "signed"
+join.name = "Jackson"
+note = "Jackson 1933-04"
+
+[[person.transaction]]
+date = "1933-09"
+type = "released"
+leave.name = "Jackson"
+join.name = "Birmingham"
+note = "rel to Birmingham 1933-09"
+
+[[person.transaction]]
+date = "1934"
+type = "reserved"
+join.name = "Birmingham"
+
+[[person.transaction]]
+date = "1934-07"
+type = "released"
+leave.name = "Birmingham"
+join.name = "Henderson"
+note = "rel to Henderson 1934-07"
+
+[[person.transaction]]
+date = "1935"
+type = "reserved"
+join.name = "Henderson"
+
+[[person.transaction]]
+date = "1935-03"
+type = "released"
+leave.name = "Henderson"
+join.name = "Jackson"
+note = "rel to Jackson 1935-03"
+
+[[person.transaction]]
+date = "1936"
+type = "reserved"
+join.name = "Jackson"
+
+[[person.transaction]]
+date = "1936-04"
+type = "released"
+leave.name = "Jackson"
+join.name = "El Dorado"
+note = "rel to El Dorado 1936-04"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "El Dorado"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "El Dorado"
+note = "res for 1938"
+
+[[person.transaction]]
+date = "1938-06"
+type = "suspended"
+join.name = "El Dorado"
+note = "susp 1938-06"
+
+[[person.transaction]]
+date = "1939-05"
+type = "released"
+leave.name = "El Dorado"
+note = "rel 1939-05"
+

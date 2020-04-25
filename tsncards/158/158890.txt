@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:158890"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/158890"
+title = "The Sporting News Player Contract Cards, ScanID: 1099009377"
+
+[person.name]
+last = "Lundstrom"
+given = "James Delano"
+nick = "Jimbo"
+
+[person.description]
+ancestry = "German-Swede"
+position = "C"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"
+
+[person.birth]
+date = "1934-06-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[[person.resides]]
+place.address = "314 South Lincoln Street"
+place.country = "US"
+place.state = "CO"
+place.city = "Denver"
+
+
+[[person.transaction]]
+date = "1952-10"
+type = "signed"
+join.name = "Allentown"
+note = "Allentown 1952-10"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Allentown"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1952-12-17"
+type = "released"
+leave.name = "Allentown"
+join.name = "St. Joseph"
+note = "rel to St. Joseph 1952-12-17"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "St. Joseph"
+
+[[person.transaction]]
+date = "1953-04-07"
+type = "released"
+leave.name = "St. Joseph"
+note = "rel 1953-04-07"
+

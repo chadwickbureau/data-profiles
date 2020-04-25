@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134754"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134754"
+title = "The Sporting News Player Contract Cards, ScanID: 1029004511"
+
+[person.name]
+last = "McGonagle"
+given = "Urban S."
+
+[person.description]
+position = "SS"
+
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Dayton"
+note = "Dayton 1915-06"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Dayton"
+note = "rel 1915-06"
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Chillicothe"
+note = "Chillicothe 1915-06"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Chillicothe"
+note = "rel 1915-07"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:59305"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/59305"
+title = "The Sporting News Player Contract Cards, ScanID: 1013002739"
+
+[person.name]
+last = "Edwards"
+given = "Glenn Arthur"
+
+
+[[person.transaction]]
+date = "1947-06-20"
+type = "signed"
+join.name = "Fort Smith"
+note = "Fort Smith 1947-06-20"
+
+[[person.transaction]]
+date = "1947-07-01"
+type = "released"
+leave.name = "Fort Smith"
+note = "rel 1947-07-01"
+

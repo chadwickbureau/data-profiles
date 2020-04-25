@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10396"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10396"
+title = "The Sporting News Player Contract Cards, ScanID: 1004004814"
+
+[person.name]
+last = "Blubaugh"
+given = "Leo."
+
+[person.description]
+position = "P"
+
+
+[[person.transaction]]
+date = "1930"
+type = "signed"
+join.name = "Waynesboro"
+note = "Waynesboro 1930"
+
+[[person.transaction]]
+date = "1930-07"
+type = "released"
+leave.name = "Waynesboro"
+note = "rel 1930-07"
+

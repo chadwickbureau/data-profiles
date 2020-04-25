@@ -1,0 +1,74 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:55427"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/55427"
+title = "The Sporting News Player Contract Cards, ScanID: 1013004516"
+
+[person.name]
+last = "Elrod"
+given = "Chas. W."
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Thomasville"
+note = "Thomasville 1913-05"
+
+[[person.transaction]]
+date = "1913-05"
+type = "released"
+leave.name = "Thomasville"
+note = "rel 1913-05"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Americus"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "Albany (GA)"
+note = "Albany (GA) 1916-04"
+
+[[person.transaction]]
+date = "1916-04"
+type = "released"
+leave.name = "Albany (GA)"
+note = "rel 1916-04"
+
+[[person.transaction]]
+date = "1920-10"
+type = "signed"
+join.name = "Lakeland"
+note = "Lakeland 1920-10"
+
+[[person.transaction]]
+date = "1921-03"
+type = "released"
+leave.name = "Lakeland"
+note = "rel 1921-03"
+
+[[person.transaction]]
+date = "1923-06"
+type = "signed"
+join.name = "Daytona"
+note = "Daytona 1923-06"
+
+[[person.transaction]]
+date = "1923-06"
+type = "released"
+leave.name = "Daytona"
+note = "rel 1923-06"
+

@@ -1,0 +1,164 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:121054"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/121054"
+title = "The Sporting News Player Contract Cards, ScanID: 1044000969"
+
+[person.name]
+last = "Tamasy"
+given = "George Gabriel"
+nick = "Corky"
+
+[person.description]
+ancestry = "Hungarian"
+position = "P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "190"
+
+[person.birth]
+date = "1930-12-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Highland Park"
+
+[[person.resides]]
+place.address = "R.D. No. 4, Box 557"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Brunswick"
+
+
+[[person.transaction]]
+date = "1951-03-27"
+type = "signed"
+join.name = "Salisbury (NC)"
+note = "Salisbury (NC) 1951-03-27"
+
+[[person.transaction]]
+date = "1951-04-16"
+type = "released"
+leave.name = "Salisbury (NC)"
+join.name = "Brunswick (GA)"
+note = "rel to Brunswick (GA) 1951-04-16"
+
+[[person.transaction]]
+date = "1951-06-16"
+type = "optioned"
+leave.name = "Brunswick (GA)"
+join.name = "Cocoa"
+note = "opt to Cocoa 1951-06-16"
+
+[[person.transaction]]
+date = "1951-06-29"
+type = "returned"
+leave.name = "Cocoa"
+join.name = "Brunswick"
+note = "ret to Brunswick 1951-06-29"
+
+[[person.transaction]]
+date = "1951-07-01"
+type = "released"
+leave.name = "Brunswick"
+join.name = "Salisbury (NC)"
+note = "rel to Salisbury (NC) 1951-07-01"
+
+[[person.transaction]]
+date = "1951-07-02"
+type = "optioned"
+leave.name = "Salisbury (NC)"
+join.name = "Franklin"
+note = "opt to Franklin 1951-07-02"
+
+[[person.transaction]]
+date = "1951-09-01"
+type = "recalled"
+leave.name = "Franklin"
+join.name = "Salisbury (NC)"
+note = "rec by Salisbury (NC) 1951-09-01"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Salisbury (NC)"
+note = "res for 1952"
+
+[[person.transaction]]
+date = "1952-02-06"
+type = "released"
+leave.name = "Salisbury (NC)"
+join.name = "Brunswick"
+note = "rel to Brunswick 1952-02-06"
+
+[[person.transaction]]
+date = "1952-11-19"
+type = "national-defense-list"
+leave.name = "Brunswick"
+note = "Nat Def list 1952-11-19"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1955-02-04"
+type = "voluntarily-retired"
+leave.name = "Brunswick"
+note = "vol ret list 1955-02-04"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Brunswick"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Brunswick"
+join.name = "Jamestown"
+note = "rel to Jamestown 1957-02-01"
+
+[[person.transaction]]
+date = "1957-06-27"
+type = "released"
+leave.name = "Jamestown"
+join.name = "Salem (VA)"
+note = "rel to Salem (VA) 1957-06-27"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Salem (VA)"
+
+[[person.transaction]]
+date = "1960-01-18"
+type = "reinstated"
+join.name = "Salem (VA)"
+note = "reins vol ret 1960-01-18"
+
+[[person.transaction]]
+date = "1960-01-21"
+type = "released"
+leave.name = "Salem (VA)"
+note = "rel 1960-01-21"
+

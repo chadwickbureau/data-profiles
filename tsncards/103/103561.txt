@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:103561"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/103561"
+title = "The Sporting News Player Contract Cards, ScanID: 1022002065"
+
+[person.name]
+last = "Jacek"
+given = "Bernard J."
+
+
+[[person.transaction]]
+date = "1947-01-06"
+type = "signed"
+join.name = "Smithfield"
+note = "Smithfield 1947-01-06"
+
+[[person.transaction]]
+date = "1947-04-11"
+type = "released"
+leave.name = "Smithfield"
+note = "rel 1947-04-11"
+
+[[person.transaction]]
+date = "1948-08-19"
+type = "signed"
+join.name = "Clinton (NC)"
+note = "Clinton (NC) 1948-08-19"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Clinton (NC)"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-11"
+type = "released"
+leave.name = "Clinton (NC)"
+note = "rel 1949-04-11"
+

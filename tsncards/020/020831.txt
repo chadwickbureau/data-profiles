@@ -1,0 +1,92 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:20831"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/20831"
+title = "The Sporting News Player Contract Cards, ScanID: 1004000074"
+
+[person.name]
+last = "Bentley"
+given = "Wm. A."
+
+[person.description]
+position = "C-RF"
+bats = "L"
+throws = "R"
+ancestry = "German"
+height = "70"
+weight = "200"
+
+[person.birth]
+date = "1884"
+place.country = "US"
+place.state = "NC"
+place.city = "Lowell"
+
+
+[[person.transaction]]
+date = "1905"
+type = "signed"
+join.name = "Salisbury (NC)"
+note = "Salisbury (NC) 1905"
+
+[[person.transaction]]
+date = "1906"
+type = "signed"
+join.name = "Lynchburg"
+note = "Lynchburg 1906"
+
+[[person.transaction]]
+date = "1907"
+type = "reserved"
+join.name = "Lynchburg"
+
+[[person.transaction]]
+date = "1908"
+type = "reserved"
+join.name = "Lynchburg"
+
+[[person.transaction]]
+date = "1909"
+type = "signed"
+join.name = "Spartanburg"
+note = "Spartanburg 1909"
+
+[[person.transaction]]
+date = "1909-10-11"
+type = "signed"
+join.name = "Greensboro"
+note = "Greensboro 1909-10-11"
+
+[[person.transaction]]
+date = "1912-03"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1912-03"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Portland ME"
+note = "Portland ME 1914-04"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Portland ME"
+note = "rel 1914-05"
+
+[[person.transaction]]
+date = "1915-02"
+type = "signed"
+join.name = "Portland ME"
+note = "Portland ME 1915-02"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Portland ME"
+note = "rel 1915-04"
+

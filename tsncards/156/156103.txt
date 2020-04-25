@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:156103"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/156103"
+title = "The Sporting News Player Contract Cards, ScanID: 1028001777"
+
+[person.name]
+last = "Markley"
+given = "Raymond Duane"
+
+
+[[person.transaction]]
+date = "1947-06-13"
+type = "signed"
+join.name = "Richmond (IN)"
+note = "Richmond (IN) 1947-06-13"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Richmond (IN)"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-03-15"
+type = "optioned"
+leave.name = "Richmond (IN)"
+join.name = "Mount Vernon"
+note = "opt to Mount Vernon 1948-03-15"
+
+[[person.transaction]]
+date = "1948-07-19"
+type = "released"
+leave.name = "Mount Vernon"
+join.name = "Thomasville"
+note = "rel to Thomasville 1948-07-19"
+
+[[person.transaction]]
+date = "1948-09-13"
+type = "recalled"
+leave.name = "Thomasville"
+join.name = "Richmond (IN)"
+note = "opt recalled by Richmond (IN) 1948-09-13"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Richmond (IN)"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-01-08"
+type = "released"
+leave.name = "Richmond (IN)"
+join.name = "Owensboro"
+note = "rel to Owensboro 1949-01-08"
+
+[[person.transaction]]
+date = "1949-04-15"
+type = "optioned"
+leave.name = "Owensboro"
+join.name = "Richmond (IN)"
+note = "opt to Richmond (IN) 1949-04-15"
+
+[[person.transaction]]
+date = "1949-07-10"
+type = "released"
+leave.name = "Richmond (IN)"
+note = "rel 1949-07-10"
+

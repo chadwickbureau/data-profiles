@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:9987"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/9987"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004889"
+
+[person.name]
+last = "Bacon"
+given = "W. C."
+
+
+[[person.transaction]]
+date = "1939-04"
+type = "signed"
+join.name = "Clovis"
+note = "Clovis 1939-04"
+
+[[person.transaction]]
+date = "1939-06"
+type = "released"
+leave.name = "Clovis"
+note = "rel 1939-06"
+
+[[person.transaction]]
+date = "1939-06"
+type = "signed"
+join.name = "Lamesa"
+note = "Lamesa 1939-06"
+
+[[person.transaction]]
+date = "1939-08"
+type = "released"
+leave.name = "Lamesa"
+note = "rel 1939-08"
+

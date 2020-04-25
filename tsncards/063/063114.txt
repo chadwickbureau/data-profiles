@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:63114"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/63114"
+title = "The Sporting News Player Contract Cards, ScanID: 1016003793"
+
+[person.name]
+last = "Geffe"
+given = "John"
+
+[person.description]
+position = "IF"
+bats = "R"
+throws = "R"
+height = "69"
+weight = "180"
+
+[person.birth]
+date = "1930"
+
+[[person.resides]]
+place.country = "US"
+place.state = "WA"
+place.city = "Wapato"
+
+
+[[person.transaction]]
+date = "1949-04-28"
+type = "signed"
+join.name = "Klamath Falls"
+note = "Klamath Falls 1949-04-28"
+
+[[person.transaction]]
+date = "1949-05-04"
+type = "disabled"
+leave.name = "Klamath Falls"
+note = "disabled list 1949-05-04"
+
+[[person.transaction]]
+date = "1949-05-19"
+type = "reinstated"
+join.name = "Klamath Falls"
+note = "rein 1949-05-19"
+
+[[person.transaction]]
+date = "1949-05-26"
+type = "released"
+leave.name = "Klamath Falls"
+note = "rel 1949-05-26"
+
+[[person.transaction]]
+date = "1949-09-20"
+type = "signed"
+join.name = "Fresno"
+note = "Fresno 1949-09-20"
+
+[[person.transaction]]
+date = "1950-04-11"
+type = "released"
+leave.name = "Fresno"
+note = "rel 1950-04-11"
+

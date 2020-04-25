@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18312"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18312"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003078"
+
+[person.name]
+last = "Bay"
+given = "Burley F."
+
+
+[[person.transaction]]
+date = "1930-09"
+type = "signed"
+join.name = "Springfield MO"
+note = "Springfield MO 1930-09"
+
+[[person.transaction]]
+date = "1931-06"
+type = "released"
+leave.name = "Springfield MO"
+note = "rel 1931-06"
+

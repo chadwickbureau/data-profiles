@@ -1,0 +1,117 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16010"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16010"
+title = "The Sporting News Player Contract Cards, ScanID: 1002006124"
+
+[person.name]
+last = "Baker"
+given = "Stanley James"
+nick = "Punk"
+
+[person.description]
+position = "2B-IF"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "155"
+
+[person.birth]
+date = "1905-07-03"
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[[person.resides]]
+place.address = "212 Ellison Bldg."
+place.country = "US"
+place.state = "TX"
+place.city = "Fort Worth"
+
+[[person.education]]
+school.type = "college"
+school.name = "Texas A&M"
+
+
+[[person.transaction]]
+date = "1927-06"
+type = "signed"
+join.name = "Houston"
+note = "Houston 1927-06"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Houston"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-08"
+type = "sold"
+leave.name = "Dayton"
+note = "sold to Dayton 1928-08"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Dayton"
+note = "res for 1929"
+
+[[person.transaction]]
+date = "1929-03"
+type = "sold"
+leave.name = "Danville IL"
+note = "sold to Danville IL 1929-03"
+
+[[person.transaction]]
+date = "1929-10"
+type = "voluntarily-retired"
+leave.name = "Danville IL"
+note = "vol ret 1929-10"
+
+[[person.transaction]]
+date = "1932-03"
+type = "reinstated"
+join.name = "Danville IL"
+note = "rein 1932-03"
+
+[[person.transaction]]
+date = "1932-07"
+type = "released"
+leave.name = "Danville IL"
+join.name = "Houston"
+note = "rel to Houston 1932-07"
+
+[[person.transaction]]
+date = "1933-01"
+type = "released"
+leave.name = "Houston"
+note = "rel 1933-01"
+
+[[person.transaction]]
+date = "1933-04"
+type = "signed"
+join.name = "Fort Worth"
+note = "Fort Worth 1933-04"
+
+[[person.transaction]]
+date = "1933-06"
+type = "released"
+leave.name = "Fort Worth"
+note = "rel 1933-06"
+
+[[person.transaction]]
+date = "1933-06"
+type = "signed"
+join.name = "Tulsa"
+note = "Tulsa 1933-06"
+
+[[person.transaction]]
+date = "1933-06"
+type = "released"
+leave.name = "Tulsa"
+note = "rel 1933-06"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:140481"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/140481"
+title = "The Sporting News Player Contract Cards, ScanID: 1029003663"
+
+[person.name]
+last = "McDuffie"
+given = "Rogers"
+
+
+[[person.transaction]]
+date = "1914-11"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1914-11"
+
+[[person.transaction]]
+date = "1915-03"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1915-03"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1915"
+

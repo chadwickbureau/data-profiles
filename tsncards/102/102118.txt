@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:102118"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/102118"
+title = "The Sporting News Player Contract Cards, ScanID: 1035001421"
+
+[person.name]
+last = "Pete"
+given = "Eugene Floyd"
+
+
+[[person.transaction]]
+date = "1954-07-29"
+type = "signed"
+join.name = "Ft. Walton"
+note = "Ft. Walton 1954-07-29"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Ft. Walton"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-14"
+type = "released"
+leave.name = "Ft. Walton"
+note = "rel 1955-04-14"
+

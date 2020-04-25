@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:73187"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/73187"
+title = "The Sporting News Player Contract Cards, ScanID: 1019004449"
+
+[person.name]
+last = "Hatz"
+given = "Charles Christian"
+
+
+[[person.transaction]]
+date = "1964-01-27"
+type = "signed"
+join.name = "Clinton"
+note = "Clinton 1964-01-27"
+
+[[person.transaction]]
+date = "1964-04-15"
+type = "released"
+leave.name = "Clinton"
+note = "rel 1964-04-15"
+

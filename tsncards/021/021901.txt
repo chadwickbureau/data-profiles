@@ -1,0 +1,74 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:21901"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/21901"
+title = "The Sporting News Player Contract Cards, ScanID: 1003004058"
+
+[person.name]
+last = "Beck"
+given = "Fred"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71"
+weight = "169"
+
+[person.birth]
+date = "1910-06-22"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.resides]]
+place.address = "4442 S. Spring Av"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.transaction]]
+date = "1930-04"
+type = "signed"
+join.name = "Tampa"
+note = "Tampa 1930-04"
+
+[[person.transaction]]
+date = "1930-05"
+type = "released"
+leave.name = "Tampa"
+note = "rel 1930-05"
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "Columbia"
+note = "Columbia 1930-08"
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "Macon"
+note = "Macon 1930-08"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Macon"
+note = "rel 1930-08"
+
+[[person.transaction]]
+date = "1931-04"
+type = "signed"
+join.name = "Huntington"
+note = "Huntington 1931-04"
+
+[[person.transaction]]
+date = "1931-07"
+type = "released"
+leave.name = "Huntington"
+note = "rel 1931-07"
+

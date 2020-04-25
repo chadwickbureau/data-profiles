@@ -1,0 +1,104 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:21788"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/21788"
+title = "The Sporting News Player Contract Cards, ScanID: 1002001897"
+
+[person.name]
+last = "Askew"
+given = "H. H."
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1913-05"
+
+[[person.transaction]]
+date = "1913-04"
+type = "suspended"
+join.name = "Anniston"
+note = "susp 1913-04"
+
+[[person.transaction]]
+date = "1914-04"
+type = "reinstated"
+join.name = "Anniston"
+note = "rein 1914-04"
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1914-03"
+
+[[person.transaction]]
+date = "1914-03"
+type = "released"
+leave.name = "Augusta"
+note = "rel 1914-03"
+
+[[person.transaction]]
+date = "1914-06"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1914-06"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1915-07"
+
+[[person.transaction]]
+date = "1916-03"
+type = "signed"
+join.name = "Denison"
+note = "Denison 1916-03"
+
+[[person.transaction]]
+date = "1916-04"
+type = "released"
+leave.name = "Denison"
+note = "rel 1916-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1916-05"
+
+[[person.transaction]]
+date = "1916-05"
+type = "released"
+leave.name = "Dothan"
+note = "rel 1916-05"
+
+[[person.transaction]]
+date = "1916-06"
+type = "signed"
+join.name = "Bainbridge"
+note = "Bainbridge 1916-06"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Bainbridge"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1917"
+type = "signed"
+join.name = "Eufaula"
+note = "Eufaula 1917"
+
+[[person.transaction]]
+date = "1917-05"
+type = "released"
+leave.name = "Eufaula"
+note = "rel 1917-05"
+

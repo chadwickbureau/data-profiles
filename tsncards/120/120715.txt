@@ -1,0 +1,99 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:120715"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/120715"
+title = "The Sporting News Player Contract Cards, ScanID: 1023003951"
+
+[person.name]
+last = "Kammien"
+given = "Robert Marion"
+nick = "Bob"
+
+[person.description]
+ancestry = "English-German-Irish"
+position = "C"
+bats = "R"
+throws = "R"
+height = "66"
+weight = "157"
+
+[person.birth]
+date = "1932-12-28"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.resides]]
+place.address = "922 Talmadge"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.transaction]]
+date = "1952-07-22"
+type = "signed"
+join.name = "Johnson City"
+note = "Johnson City 1952-07-22"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Johnson City"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-02-02"
+type = "released"
+leave.name = "Johnson City"
+join.name = "Sanford"
+note = "rel to Sanford 1953-02-02"
+
+[[person.transaction]]
+date = "1953-04-13"
+type = "released"
+leave.name = "Sanford"
+join.name = "Albany (GA)"
+note = "rel to Albany (GA) 1953-04-13"
+
+[[person.transaction]]
+date = "1953-04-26"
+type = "temporarily-inactive"
+leave.name = "Albany (GA)"
+note = "inactive list 1953-04-26"
+
+[[person.transaction]]
+date = "1953-04-27"
+type = "national-defense-list"
+leave.name = "Albany (GA)"
+note = "national defense list 1953-04-27"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1955-05-19"
+type = "voluntarily-retired"
+leave.name = "Albany (GA)"
+note = "vol ret list 1955-05-19"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Albany (GA)"
+

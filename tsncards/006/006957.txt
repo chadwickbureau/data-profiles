@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:6957"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/6957"
+title = "The Sporting News Player Contract Cards, ScanID: 1025011971"
+
+[person.name]
+last = "Blough"
+given = "Henry"
+
+[person.description]
+position = "P"
+
+[[person.education]]
+school.type = "college"
+school.name = "Juniata"
+
+
+[[person.transaction]]
+date = "1930"
+type = "signed"
+join.name = "Waynesboro"
+note = "Waynesboro 1930"
+
+[[person.transaction]]
+date = "1930-07"
+type = "released"
+leave.name = "Waynesboro"
+note = "rel 1930-07"
+
+[[person.transaction]]
+date = "1932-06"
+type = "signed"
+join.name = "York PA"
+note = "York PA 1932-06"
+
+[[person.transaction]]
+date = "1932-07"
+type = "released"
+leave.name = "York PA"
+note = "rel 1932-07"
+

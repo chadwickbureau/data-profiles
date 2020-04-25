@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:119621"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/119621"
+title = "The Sporting News Player Contract Cards, ScanID: 1023000003"
+
+[person.name]
+last = "Johnson"
+given = "Ray Arnold"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "190"
+
+[person.birth]
+date = "1924-02-11"
+place.country = "US"
+place.state = "NE"
+place.city = "Dunne Groge"
+
+[[person.resides]]
+place.address = "210 1/2 N. Wheeler"
+place.country = "US"
+place.state = "NE"
+place.city = "Grand Island"
+
+[[person.military]]
+country = "US"
+dates = "1943-06/1946-03-02"
+
+
+[[person.transaction]]
+date = "1941-08"
+type = "signed"
+join.name = "Springfield (MO)"
+note = "Springfield (MO) 1941-08"
+
+[[person.transaction]]
+date = "1941-08"
+type = "optioned"
+leave.name = "Springfield (MO)"
+join.name = "Washington (PA)"
+note = "opt to Washington (PA) 1941-08"
+
+[[person.transaction]]
+date = "1941-08"
+type = "recalled"
+leave.name = "Washington (PA)"
+join.name = "Springfield (MO)"
+note = "rec by Springfield (MO) 1941-08"
+
+[[person.transaction]]
+date = "1942-06"
+type = "optioned"
+leave.name = "Springfield (MO)"
+join.name = "La Crosse"
+note = "opt to La Crosse 1942-06"
+
+[[person.transaction]]
+date = "1942-08"
+type = "recalled"
+leave.name = "La Crosse"
+join.name = "Springfield (MO)"
+note = "rec by Springfield (MO) 1942-08"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Springfield (MO)"
+note = "res for 1943"
+
+[[person.transaction]]
+date = "1943-01"
+type = "released"
+leave.name = "Springfield (MO)"
+join.name = "Columbus (OH)"
+note = "rel to Columbus (OH) 1943-01"
+
+[[person.transaction]]
+date = "1943-06"
+type = "military-service"
+leave.name = "Columbus (OH)"
+note = "in service 1943-06"
+
+[[person.transaction]]
+date = "1946-03-02"
+type = "reinstated"
+join.name = "Columbus (OH)"
+note = "rein from service list 1946-03-02"
+
+[[person.transaction]]
+date = "1946-04-19"
+type = "voluntarily-retired"
+leave.name = "Columbus (OH)"
+note = "vol ret 1946-04-19"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Columbus (OH)"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Columbus (OH)"
+note = "res for 1948"
+

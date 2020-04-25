@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:103478"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/103478"
+title = "The Sporting News Player Contract Cards, ScanID: 1021004131"
+
+[person.name]
+last = "Howe"
+given = "Jerry R."
+
+
+[[person.transaction]]
+date = "1950-10-05"
+type = "signed"
+join.name = "Pittsburg (KS)"
+note = "Pittsburg (KS) 1950-10-05"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Pittsburg (KS)"
+
+[[person.transaction]]
+date = "1951-04-07"
+type = "released"
+leave.name = "Pittsburg (KS)"
+note = "rel 1951-04-07"
+

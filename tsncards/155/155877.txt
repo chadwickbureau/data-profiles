@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:155877"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/155877"
+title = "The Sporting News Player Contract Cards, ScanID: 1046004979"
+
+[person.name]
+last = "Walukevich (Walluk)"
+given = "Edmund"
+
+
+[[person.transaction]]
+date = "1947-04-18"
+type = "signed"
+join.name = "Lancaster"
+note = "Lancaster 1947-04-18"
+
+[[person.transaction]]
+date = "1947-04-28"
+type = "optioned"
+leave.name = "Lancaster"
+join.name = "Niagara Falls"
+note = "opt to Niagara Falls 1947-04-28"
+
+[[person.transaction]]
+date = "1947-05-13"
+type = "returned"
+leave.name = "Niagara Falls"
+join.name = "Lancaster"
+note = "ret to Lancaster 1947-05-13"
+
+[[person.transaction]]
+date = "1947-05-26"
+type = "signed"
+join.name = "Goldsboro"
+note = "Goldsboro 1947-05-26"
+
+[[person.transaction]]
+date = "1947-05-28"
+type = "released"
+leave.name = "Goldsboro"
+note = "rel 1947-05-28"
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:85345"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/85345"
+title = "The Sporting News Player Contract Cards, ScanID: 1037006049"
+
+[person.name]
+last = "Rislove"
+given = "Keith"
+
+
+[[person.transaction]]
+date = "1950-04-22"
+type = "signed"
+join.name = "Boise"
+note = "Boise 1950-04-22"
+
+[[person.transaction]]
+date = "1950-05-08"
+type = "optioned"
+leave.name = "Boise"
+join.name = "Reno"
+note = "opt to Reno 1950-05-08"
+
+[[person.transaction]]
+date = "1950-05-10"
+type = "option-returned"
+leave.name = "Reno"
+join.name = "Boise"
+note = "opt ret to Boise 1950-05-10"
+
+[[person.transaction]]
+date = "1950-05-20"
+type = "released"
+leave.name = "Boise"
+note = "rel 1950-05-20"
+

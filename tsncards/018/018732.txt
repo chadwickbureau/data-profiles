@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18732"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18732"
+title = "The Sporting News Player Contract Cards, ScanID: 1004001588"
+
+[person.name]
+last = "Betts"
+given = "C. F."
+
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Rome"
+note = "Rome 1915"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Rome"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Gainesville"
+note = "Gainesville 1915-06"
+

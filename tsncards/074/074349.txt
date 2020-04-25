@@ -1,0 +1,160 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:74349"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/74349"
+title = "The Sporting News Player Contract Cards, ScanID: 1015004551"
+
+[person.name]
+last = "Freeman"
+given = "Alex V."
+
+[person.description]
+position = "P"
+bats = "S"
+throws = "R"
+height = "70"
+weight = "170"
+
+[person.birth]
+date = "1896"
+
+[[person.resides]]
+place.address = "428 West St."
+place.country = "US"
+place.state = "KS"
+place.city = "Emporia"
+
+
+[[person.transaction]]
+date = "1921"
+type = "signed"
+join.name = "Chicago NL"
+note = "Chicago NL 1921"
+
+[[person.transaction]]
+date = "1922"
+type = "reserved"
+join.name = "Chicago NL"
+
+[[person.transaction]]
+date = "1922"
+type = "released"
+leave.name = "Chicago NL"
+join.name = "Wichita Falls"
+note = "rel to Wichita Falls 1922"
+
+[[person.transaction]]
+date = "1923"
+type = "signed"
+join.name = "Des Moines"
+note = "Des Moines 1923"
+
+[[person.transaction]]
+date = "1923"
+type = "signed"
+join.name = "Tulsa"
+note = "Tulsa 1923"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "Wichita Falls"
+note = "Wichita Falls 1924"
+
+[[person.transaction]]
+date = "1924-06"
+type = "signed"
+join.name = "Denver"
+note = "Denver 1924-06"
+
+[[person.transaction]]
+date = "1925"
+type = "reserved"
+join.name = "Denver"
+
+[[person.transaction]]
+date = "1926-01"
+type = "sold"
+leave.name = "Oakland"
+note = "sold to Oakland 1926-01"
+
+[[person.transaction]]
+date = "1926-08"
+type = "released"
+leave.name = "Oakland"
+note = "rel 1926-08"
+
+[[person.transaction]]
+date = "1927-04"
+type = "signed"
+join.name = "New Orleans"
+note = "New Orleans 1927-04"
+
+[[person.transaction]]
+date = "1927-05"
+type = "signed"
+join.name = "Shreveport"
+note = "Shreveport 1927-05"
+
+[[person.transaction]]
+date = "1927-06"
+type = "released"
+leave.name = "Shreveport"
+note = "rel 1927-06"
+
+[[person.transaction]]
+date = "1927-07"
+type = "signed"
+join.name = "Beaumont"
+note = "Beaumont 1927-07"
+
+[[person.transaction]]
+date = "1927-07"
+type = "released"
+leave.name = "Beaumont"
+note = "rel 1927-07"
+
+[[person.transaction]]
+date = "1927-08"
+type = "signed"
+join.name = "Quincy"
+note = "Quincy 1927-08"
+
+[[person.transaction]]
+date = "1927-09"
+type = "released"
+leave.name = "Quincy"
+note = "rel 1927-09"
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Topeka"
+note = "Topeka 1929-04"
+
+[[person.transaction]]
+date = "1929-07"
+type = "released"
+leave.name = "Topeka"
+note = "rel 1929-07"
+
+[[person.transaction]]
+date = "1929-08"
+type = "signed"
+join.name = "Wichita"
+note = "Wichita 1929-08"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Wichita"
+
+[[person.transaction]]
+date = "1930-03"
+type = "released"
+leave.name = "Wichita"
+note = "rel 1930-03"
+

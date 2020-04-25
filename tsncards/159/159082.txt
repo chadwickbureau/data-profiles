@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:159082"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/159082"
+title = "The Sporting News Player Contract Cards, ScanID: 1033000465"
+
+[person.name]
+last = "Niemiec"
+given = "Robert J."
+
+
+[[person.transaction]]
+date = "1961-07-03"
+type = "signed"
+join.name = "Salisbury"
+note = "Salisbury 1961-07-03"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Salisbury"
+
+[[person.transaction]]
+date = "1961-12-05"
+type = "released"
+leave.name = "Salisbury"
+join.name = "Modesto"
+note = "rel to Modesto 1961-12-05"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Modesto"
+
+[[person.transaction]]
+date = "1962-04-09"
+type = "released"
+leave.name = "Modesto"
+note = "rel 1962-04-09"
+

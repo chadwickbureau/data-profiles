@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:127699"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/127699"
+title = "The Sporting News Player Contract Cards, ScanID: 1045003791"
+
+[person.name]
+last = "Turner"
+given = "Samuel W."
+
+[person.description]
+position = "1B"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "York"
+note = "York 1910"
+
+[[person.transaction]]
+date = "1910-05"
+type = "released"
+leave.name = "York"
+note = "rel 1910-05"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1913-05"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Raleigh"
+note = "res for 1914"
+
+[[person.transaction]]
+date = "1913-10"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1913-10"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1915-05"
+
+[[person.transaction]]
+date = "suspended list 1915-05"
+type = "suspended"
+leave.name = "Dothan"
+note = "suspended list 1915-05"
+
+[[person.transaction]]
+date = "1915-05"
+type = "reinstated"
+join.name = "Dothan"
+note = "reins 1915-05"
+

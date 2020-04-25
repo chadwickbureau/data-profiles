@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:5815"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/5815"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005981"
+
+[person.name]
+last = "Baker"
+given = "Lawrence J."
+
+[[person.resides]]
+place.country = "US"
+place.state = "PA"
+place.city = "Elkland"
+
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1929-04"
+
+[[person.transaction]]
+date = "1929-05"
+type = "released"
+leave.name = "Elmira"
+note = "rel 1929-05"
+
+[[person.transaction]]
+date = "1929-09"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Elmira"
+
+[[person.transaction]]
+date = "1930-04"
+type = "released"
+leave.name = "Elmira"
+note = "rel 1930-04"
+

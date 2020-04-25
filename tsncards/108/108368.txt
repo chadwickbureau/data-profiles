@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:108368"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/108368"
+title = "The Sporting News Player Contract Cards, ScanID: 1044006433"
+
+[person.name]
+last = "Tinney"
+given = "Charles Edward"
+
+
+[[person.transaction]]
+date = "1954-07-15"
+type = "signed"
+join.name = "Wytheville"
+note = "Wytheville 1954-07-15"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Wytheville"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1954-09-30"
+type = "released"
+leave.name = "Wytheville"
+join.name = "San Antonio"
+note = "rel to San Antonio 1954-09-30"
+
+[[person.transaction]]
+date = "1954-10-05"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Cordele"
+note = "rel to Cordele 1954-10-05"
+
+[[person.transaction]]
+date = "1955-04-05"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1955-04-05"
+

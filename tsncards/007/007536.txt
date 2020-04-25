@@ -1,0 +1,102 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7536"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7536"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005873"
+
+[person.name]
+last = "Baker"
+given = "Ervin S."
+
+[person.description]
+position = "P"
+throws = "R"
+height = "72"
+weight = "180"
+
+[person.birth]
+date = "1915"
+
+
+[[person.transaction]]
+date = "1936-07"
+type = "signed"
+join.name = "Fremont"
+note = "Fremont 1936-07"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "Fremont"
+
+[[person.transaction]]
+date = "1937-09"
+type = "released"
+leave.name = "Fremont"
+join.name = "Peoria"
+note = "rel to Peoria 1937-09"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "Peoria"
+note = "res for 1938"
+
+[[person.transaction]]
+date = "1938-03"
+type = "released"
+leave.name = "Peoria"
+note = "rel 1938-03"
+
+[[person.transaction]]
+date = "1938-05"
+type = "signed"
+join.name = "Charleston"
+note = "Charleston 1938-05"
+
+[[person.transaction]]
+date = "1938-05"
+type = "released"
+leave.name = "Charleston"
+note = "rel 1938-05"
+
+[[person.transaction]]
+date = "1938-07"
+type = "signed"
+join.name = "Johnstown"
+note = "Johnstown 1938-07"
+
+[[person.transaction]]
+date = "1938-07"
+type = "released"
+leave.name = "Johnstown"
+note = "rel 1938-07"
+
+[[person.transaction]]
+date = "1938-07"
+type = "signed"
+join.name = "McKeesport"
+note = "McKeesport 1938-07"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "McKeesport"
+note = "res for 1939"
+
+[[person.transaction]]
+date = "1939-07"
+type = "released"
+leave.name = "McKeesport"
+join.name = "Hutchinson"
+note = "rel to Hutchinson 1939-07"
+
+[[person.transaction]]
+date = "1940-02"
+type = "released"
+leave.name = "Hutchinson"
+note = "rel 1940-02"
+

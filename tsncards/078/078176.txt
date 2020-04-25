@@ -1,0 +1,121 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:78176"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/78176"
+title = "The Sporting News Player Contract Cards, ScanID: 1017003873"
+
+[person.name]
+last = "Grady"
+given = "Bruce"
+
+[person.description]
+ancestry = "Irish"
+position = "OF"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"
+
+[person.birth]
+date = "1938-07-28"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[[person.resides]]
+place.address = "Warrior River Road"
+place.country = "US"
+place.state = "AL"
+place.city = "Bessemer"
+
+
+[[person.transaction]]
+date = "1957-01-27"
+type = "signed"
+join.name = "Mobile"
+note = "Mobile 1957-01-27"
+
+[[person.transaction]]
+date = "1957-04-08"
+type = "optioned"
+leave.name = "Mobile"
+join.name = "Batavia"
+note = "opt to Batavia 1957-04-08"
+
+[[person.transaction]]
+date = "1957-07-07"
+type = "released"
+leave.name = "Batavia"
+note = "rel 1957-07-07"
+
+[[person.transaction]]
+date = "1957-07-16"
+type = "signed"
+join.name = "Wellsville"
+note = "Wellsville 1957-07-16"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Wellsville"
+note = "res for 1958"
+
+[[person.transaction]]
+date = "1958-04-22"
+type = "released"
+leave.name = "Wellsville"
+join.name = "Waycross"
+note = "rel to Waycross 1958-04-22"
+
+[[person.transaction]]
+date = "1959-04-17"
+type = "signed"
+join.name = "Fort Walton Beach"
+note = "Fort Walton Beach 1959-04-17"
+
+[[person.transaction]]
+date = "1959-05-24"
+type = "released"
+leave.name = "Fort Walton Beach"
+note = "rel 1959-05-24"
+
+[[person.transaction]]
+date = "1961-05-29"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1961-05-29"
+
+[[person.transaction]]
+date = "1961-07-09"
+type = "released"
+leave.name = "Raleigh"
+join.name = "Lexington"
+note = "rel to Lexington 1961-07-09"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Lexington"
+note = "res for 1962"
+
+[[person.transaction]]
+date = "1961-12-12"
+type = "released"
+leave.name = "Lexington"
+join.name = "Quincy"
+note = "rel to Quincy 1961-12-12"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Quincy"
+
+[[person.transaction]]
+date = "1962-04-23"
+type = "released"
+leave.name = "Quincy"
+note = "rel 1962-04-23"
+

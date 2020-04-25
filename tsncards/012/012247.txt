@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:12247"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/12247"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005769"
+
+[person.name]
+last = "Baker"
+given = "Brutus"
+
+
+[[person.transaction]]
+date = "1939-07"
+type = "signed"
+join.name = "Martinsville"
+note = "Martinsville 1939-07"
+
+[[person.transaction]]
+date = "1940-05"
+type = "voluntarily-retired"
+leave.name = "Martinsville"
+note = "vol ret 1940-05"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Martinsville"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Martinsville"
+

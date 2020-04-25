@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:13083"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/13083"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004861"
+
+[person.name]
+last = "Bacon"
+given = "Ellis"
+
+[person.description]
+position = "P"
+throws = "R"
+
+[[person.resides]]
+place.country = "US"
+place.state = "GA"
+place.city = "Cartersville"
+
+
+[[person.transaction]]
+date = "1935-04"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1935-04"
+
+[[person.transaction]]
+date = "1935-06"
+type = "released"
+leave.name = "Pine Bluff"
+join.name = "Portageville"
+note = "rel to Portageville 1935-06"
+
+[[person.transaction]]
+date = "1935-07"
+type = "recalled"
+leave.name = "Portageville"
+join.name = "Pine Bluff"
+note = "rec by Pine Bluff 1935-07"
+
+[[person.transaction]]
+date = "1935-08"
+type = "released"
+leave.name = "Pine Bluff"
+note = "rel 1935-08"
+
+[[person.transaction]]
+date = "1936-07"
+type = "signed"
+join.name = "inel by Pine Bluff"
+note = "inel by Pine Bluff 1936-07"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "inel by Pine Bluff"
+

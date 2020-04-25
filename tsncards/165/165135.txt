@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:165135"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/165135"
+title = "The Sporting News Player Contract Cards, ScanID: 1034002405"
+
+[person.name]
+last = "Panella"
+given = "J. A."
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Asheville"
+note = "Asheville 1911"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Griffin"
+note = "rel 1915-05"
+

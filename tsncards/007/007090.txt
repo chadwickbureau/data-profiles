@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7090"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7090"
+title = "The Sporting News Player Contract Cards, ScanID: 1004002660"
+
+[person.name]
+last = "Birdsall"
+given = "Ray P."
+
+
+[[person.transaction]]
+date = "1950-02-22"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1950-02-22"
+
+[[person.transaction]]
+date = "1950-06-02"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1950-06-02"
+

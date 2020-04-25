@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:119176"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/119176"
+title = "The Sporting News Player Contract Cards, ScanID: 1043004921"
+
+[person.name]
+last = "Sullivan"
+given = "Barry"
+
+[person.description]
+position = "OF-1B"
+bats = "L"
+throws = "L"
+height = "70"
+weight = "185"
+
+[person.birth]
+date = "1954-02-19"
+place.country = "US"
+place.state = "MA"
+place.city = "Fall River"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MA"
+place.city = "Somerset"
+
+
+[[person.transaction]]
+date = "1977-01-20"
+type = "signed"
+join.name = "Pompano Beach"
+note = "Pompano Beach 1977-01-20"
+
+[[person.transaction]]
+date = "1977-04-21"
+type = "released"
+leave.name = "Pompano Beach"
+note = "rel 1977-04-21"
+

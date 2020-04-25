@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15320"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15320"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005375"
+
+[person.name]
+last = "Bailey"
+given = "J. Wheeler"
+
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Hartford"
+note = "Hartford 1929-04"
+

@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:146312"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/146312"
+title = "The Sporting News Player Contract Cards, ScanID: 1099016381"
+
+[person.name]
+last = "Moroski"
+given = "William H."
+
+[person.description]
+position = "IF"
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "180"
+
+[person.birth]
+date = "1929-01-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[[person.resides]]
+place.address = "4 Ann Street N.E."
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+dates = "1946-07-16/1947-11-21"
+
+
+[[person.transaction]]
+date = "1948-09-07"
+type = "signed"
+join.name = "Winston-Salem"
+note = "Winston-Salem 1948-09-07"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Winston-Salem"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-13"
+type = "released"
+leave.name = "Winston-Salem"
+note = "rel 1949-04-13"
+

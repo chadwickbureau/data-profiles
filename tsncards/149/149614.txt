@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:149614"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/149614"
+title = "The Sporting News Player Contract Cards, ScanID: 1041000109"
+
+[person.name]
+last = "Sheppard"
+given = "H. A."
+
+[person.description]
+position = "C"
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1913-05"
+
+[[person.transaction]]
+date = "1914-03"
+type = "suspended"
+join.name = "Anniston"
+note = "susp 1914-03"
+
+[[person.transaction]]
+date = "1914-03"
+type = "reinstated"
+join.name = "Anniston"
+note = "reins 1914-03"
+
+[[person.transaction]]
+date = "1914-07"
+type = "released"
+leave.name = "Anniston"
+join.name = "Opelika"
+note = "rel to Opelika 1914-07"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Thomasville"
+note = "Thomasville 1915-04"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1915"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1915-04"
+

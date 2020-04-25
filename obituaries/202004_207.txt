@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_207"
+
+[[person.meta.citation]]
+title = "Epstein Funeral Home"
+date = "2020-04-24"
+url = "https://www.epsteinmemorialchapel.com/obituaries/Alvin-Kauffman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Kauffman"
+use = "Al"
+given = "Alvin Stanley"
+
+[person.birth]
+date = "1927-02-16"
+
+[person.death]
+date = "2018-01-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.burial]
+cemetery.name = "New Agudas Achim Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Columbus"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Columbus"
+
+

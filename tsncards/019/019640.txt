@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:19640"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/19640"
+title = "The Sporting News Player Contract Cards, ScanID: 1006003584"
+
+[person.name]
+last = "Bullington"
+given = "Daniel J."
+
+
+[[person.transaction]]
+date = "1950-03-21"
+type = "signed"
+join.name = "Fort Lauderdale"
+note = "Fort Lauderdale 1950-03-21"
+
+[[person.transaction]]
+date = "1950-04-04"
+type = "released"
+leave.name = "Fort Lauderdale"
+join.name = "Carrollton"
+note = "rel to Carrollton 1950-04-04"
+
+[[person.transaction]]
+date = "1950-05-09"
+type = "released"
+leave.name = "Carrollton"
+note = "rel 1950-05-09"
+

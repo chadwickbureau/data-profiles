@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:64763"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/64763"
+title = "The Sporting News Player Contract Cards, ScanID: 1018004967"
+
+[person.name]
+last = "Hall"
+given = "Donald"
+
+
+[[person.transaction]]
+date = "1963-08-29"
+type = "signed"
+join.name = "Stockton"
+note = "Stockton 1963-08-29"
+
+[[person.transaction]]
+date = "1964"
+type = "reserved"
+join.name = "Stockton"
+note = "for 1964"
+
+[[person.transaction]]
+date = "1964-04-03"
+type = "released"
+leave.name = "Stockton"
+note = "rel 1964-04-03"
+

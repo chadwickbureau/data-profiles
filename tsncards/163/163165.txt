@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:163165"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/163165"
+title = "The Sporting News Player Contract Cards, ScanID: 1031006465"
+
+[person.name]
+last = "Mosely"
+given = "D. C."
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Memphis"
+note = "Memphis 1914-03"
+
+[[person.transaction]]
+date = "1914-04"
+type = "suspended"
+join.name = "Memphis"
+note = "susp 1914-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "suspended"
+join.name = "Americus"
+note = "susp 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Americus"
+note = "rel 1915-05"
+

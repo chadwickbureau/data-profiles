@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7239"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7239"
+title = "The Sporting News Player Contract Cards, ScanID: 1005000205"
+
+[person.name]
+last = "Bope"
+given = "George"
+
+
+[[person.transaction]]
+date = "1921-04"
+type = "signed"
+join.name = "Pittsburg KS"
+note = "Pittsburg KS 1921-04"
+
+[[person.transaction]]
+date = "1921-09"
+type = "released"
+leave.name = "Pittsburg KS"
+join.name = "Joplin"
+note = "rel to Joplin 1921-09"
+
+[[person.transaction]]
+date = "by Brantford to Flint 1922-07"
+type = "released"
+leave.name = "Joplin"
+note = "rel by Brantford to Flint 1922-07"
+
+[[person.transaction]]
+date = "by Dover 1923-06"
+type = "suspended"
+join.name = "Joplin"
+note = "susp by Dover 1923-06"
+
+[[person.transaction]]
+date = "1923-06"
+type = "reinstated"
+join.name = "Joplin"
+note = "rein 1923-06"
+
+[[person.transaction]]
+date = "1923-08"
+type = "released"
+leave.name = "Joplin"
+note = "rel 1923-08"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "Dover"
+note = "Dover 1924"
+
+[[person.transaction]]
+date = "1924-06"
+type = "released"
+leave.name = "Dover"
+note = "rel 1924-06"
+

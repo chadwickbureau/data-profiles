@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7208"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7208"
+title = "The Sporting News Player Contract Cards, ScanID: 1004004464"
+
+[person.name]
+last = "Blevins"
+given = "Bruce Blake"
+
+
+[[person.transaction]]
+date = "1955-04-01"
+type = "signed"
+join.name = "Modesto"
+note = "Modesto 1955-04-01"
+
+[[person.transaction]]
+date = "1955-04-07"
+type = "released"
+leave.name = "Modesto"
+join.name = "Spokane"
+note = "rel to Spokane 1955-04-07"
+
+[[person.transaction]]
+date = "1955-05-31"
+type = "disabled"
+leave.name = "Spokane"
+note = "disabled list 1955-05-31"
+
+[[person.transaction]]
+date = "1955-06-07"
+type = "reinstated"
+join.name = "Spokane"
+note = "reins 1955-06-07"
+
+[[person.transaction]]
+date = "1955-06-07"
+type = "released"
+leave.name = "Spokane"
+note = "rel 1955-06-07"
+

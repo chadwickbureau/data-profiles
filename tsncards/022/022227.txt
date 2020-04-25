@@ -1,0 +1,91 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:22227"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22227"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005215"
+
+[person.name]
+last = "Bahr"
+given = "William"
+
+[person.description]
+position = "P"
+throws = "R"
+
+
+[[person.transaction]]
+date = "1923-02"
+type = "signed"
+join.name = "Portland"
+note = "Portland 1923-02"
+
+[[person.transaction]]
+date = "1923-03"
+type = "released"
+leave.name = "Portland"
+note = "rel 1923-03"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "semipro"
+note = "semipro 1924"
+
+[[person.transaction]]
+date = "1925-01"
+type = "signed"
+join.name = "Salt Lake"
+note = "Salt Lake 1925-01"
+
+[[person.transaction]]
+date = "1925-06"
+type = "released"
+leave.name = "Salt Lake"
+note = "rel 1925-06"
+
+[[person.transaction]]
+date = "1925-09"
+type = "signed"
+join.name = "Quincy"
+note = "Quincy 1925-09"
+
+[[person.transaction]]
+date = "1926"
+type = "reserved"
+join.name = "Quincy"
+
+[[person.transaction]]
+date = "1926-03"
+type = "released"
+leave.name = "Quincy"
+join.name = "Ottumwa"
+note = "rel to Ottumwa 1926-03"
+
+[[person.transaction]]
+date = "1926-06"
+type = "released"
+leave.name = "Ottumwa"
+join.name = "Quincy"
+note = "rel to Quincy 1926-06"
+
+[[person.transaction]]
+date = "1926-06"
+type = "released"
+leave.name = "Quincy"
+note = "rel 1926-06"
+
+[[person.transaction]]
+date = "1928-06"
+type = "signed"
+join.name = "Twin Falls"
+note = "Twin Falls 1928-06"
+
+[[person.transaction]]
+date = "1927-04"
+type = "released"
+leave.name = "Twin Falls"
+note = "rel 1927-04"
+

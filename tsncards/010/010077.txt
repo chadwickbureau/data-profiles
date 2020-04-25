@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10077"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10077"
+title = "The Sporting News Player Contract Cards, ScanID: 1005001280"
+
+[person.name]
+last = "Bowden"
+given = "Bryant"
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1915-05"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Gainesville"
+note = "Gainesville 1915-07"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1916-05"
+
+[[person.transaction]]
+date = "1916-05"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1916-05"
+
+[[person.transaction]]
+date = "1919-07"
+type = "signed"
+join.name = "Tampa"
+note = "Tampa 1919-07"
+
+[[person.transaction]]
+date = "1920-02"
+type = "signed"
+join.name = "High Point"
+note = "High Point 1920-02"
+

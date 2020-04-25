@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:128491"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/128491"
+title = "The Sporting News Player Contract Cards, ScanID: 1040003967"
+
+[person.name]
+last = "Sells"
+given = "A. A."
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Thomasville"
+note = "Thomasville 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Thomasville"
+note = "rel 1915-04"
+

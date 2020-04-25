@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:110804"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/110804"
+title = "The Sporting News Player Contract Cards, ScanID: 1024003303"
+
+[person.name]
+last = "Kirk"
+given = "Bob"
+
+
+[[person.transaction]]
+date = "1922-05"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1922-05"
+
+[[person.transaction]]
+date = "1922-07"
+type = "released"
+leave.name = "Charlotte"
+join.name = "Winston-Salem"
+note = "rel to Winston-Salem 1922-07"
+
+[[person.transaction]]
+date = "1922-07"
+type = "released"
+leave.name = "Winston-Salem"
+note = "rel 1922-07"
+
+[[person.transaction]]
+date = "1923-04"
+type = "signed"
+join.name = "Petersburg"
+note = "Petersburg 1923-04"
+
+[[person.transaction]]
+date = "1923-05"
+type = "released"
+leave.name = "Petersburg"
+join.name = "Wilson"
+note = "rel to Wilson 1923-05"
+
+[[person.transaction]]
+date = "by Rocky Mount 1924-03"
+type = "released"
+leave.name = "Wilson"
+note = "rel by Rocky Mount 1924-03"
+
+[[person.transaction]]
+date = "by Petersburg 1924-06"
+type = "released"
+leave.name = "Wilson"
+note = "rel by Petersburg 1924-06"
+
+[[person.transaction]]
+date = "1925-09"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1925-09"
+
+[[person.transaction]]
+date = "1925-09"
+type = "released"
+leave.name = "Augusta"
+note = "rel 1925-09"
+

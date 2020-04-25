@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:71404"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71404"
+title = "The Sporting News Player Contract Cards, ScanID: 1016002763"
+
+[person.name]
+last = "Garvey"
+given = "Robert Elmer"
+nick = "Bob"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "L"
+height = "74"
+weight = "152"
+
+[person.birth]
+date = "1932-06-06"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[[person.resides]]
+place.address = "104 W. Market St."
+place.country = "US"
+place.state = "DE"
+place.city = "Newport"
+
+
+[[person.transaction]]
+date = "1950-08-25"
+type = "signed"
+join.name = "Goldsboro"
+note = "Goldsboro 1950-08-25"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Goldsboro"
+
+[[person.transaction]]
+date = "1951-05-22"
+type = "released"
+leave.name = "Goldsboro"
+note = "rel 1951-05-22"
+
+[[person.transaction]]
+date = "1951-05-23"
+type = "signed"
+join.name = "Rocky Mount"
+note = "Rocky Mount 1951-05-23"
+
+[[person.transaction]]
+date = "1951-06-09"
+type = "released"
+leave.name = "Rocky Mount"
+note = "rel 1951-06-09"
+

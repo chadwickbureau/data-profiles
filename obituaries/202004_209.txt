@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_209"
+
+[[person.meta.citation]]
+title = "Forest Lake Times"
+date = "2018-01-03"
+url = "https://www.hometownsource.com/forest_lake_times/obituaries/kenneth-donald-crist/article_780f6306-44bc-5a9c-a83c-4808290a33f6.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Crist"
+use = "Ken"
+given = "Kenneth Donald"
+
+[person.birth]
+date = "1929-10-31"
+place.country = "US"
+place.state = "MN"
+place.city = "Austin"
+
+[person.death]
+date = "2017-12-28"
+place.country = "US"
+place.state = "IN"
+place.city = "New Richmond"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

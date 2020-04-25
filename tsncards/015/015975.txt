@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15975"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15975"
+title = "The Sporting News Player Contract Cards, ScanID: 1003004409"
+
+[person.name]
+last = "Becker"
+given = "H. A. Henry"
+nick = "Red"
+
+[person.description]
+position = "P"
+
+[[person.resides]]
+place.address = "1107 Fanning St."
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+
+[[person.transaction]]
+date = "1925-09"
+type = "signed"
+join.name = "Wichita"
+note = "Wichita 1925-09"
+
+[[person.transaction]]
+date = "1926"
+type = "reserved"
+join.name = "Wichita"
+
+[[person.transaction]]
+date = "1926-05"
+type = "released"
+leave.name = "Wichita"
+join.name = "Topeka"
+note = "rel to Topeka 1926-05"
+
+[[person.transaction]]
+date = "1926-08"
+type = "signed"
+join.name = "Wichita"
+note = "Wichita 1926-08"
+
+[[person.transaction]]
+date = "1927-04"
+type = "reserved"
+join.name = "Wichita"
+note = "res 1927-04"
+
+[[person.transaction]]
+date = "1927-05"
+type = "released"
+leave.name = "Wichita"
+note = "rel 1927-05"
+
+[[person.transaction]]
+date = "1927-09"
+type = "signed"
+join.name = "Joplin"
+note = "Joplin 1927-09"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Joplin"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Joplin"
+
+[[person.transaction]]
+date = "1929-09"
+type = "released"
+leave.name = "Joplin"
+join.name = "Waco"
+note = "rel to Waco 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Waco"
+
+[[person.transaction]]
+date = "1930-05"
+type = "returned"
+leave.name = "Waco"
+join.name = "Joplin"
+note = "ret to Joplin 1930-05"
+
+[[person.transaction]]
+date = "1930-10"
+type = "signed"
+join.name = "Waco"
+note = "Waco 1930-10"
+
+[[person.transaction]]
+date = "1931-03"
+type = "signed"
+join.name = "Galveston"
+note = "Galveston 1931-03"
+
+[[person.transaction]]
+date = "1931-05"
+type = "released"
+leave.name = "Galveston"
+note = "rel 1931-05"
+

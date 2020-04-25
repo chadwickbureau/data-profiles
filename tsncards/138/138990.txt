@@ -1,0 +1,136 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:138990"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/138990"
+title = "The Sporting News Player Contract Cards, ScanID: 1099016158"
+
+[person.name]
+last = "Montgomery"
+given = "Robert W."
+
+[person.description]
+ancestry = "English-German"
+position = "P"
+bats = "L"
+throws = "R"
+married = "Faye Akers, 1951-12-29"
+height = "73"
+weight = "190"
+
+[person.birth]
+date = "1933-05-23"
+place.country = "US"
+place.state = "VA"
+place.city = "Blacksburg"
+
+[[person.resides]]
+place.address = "R. F. D. #1"
+place.country = "US"
+place.state = "VA"
+place.city = "Carthage"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+dates = "1952-05-04/1956-05-04"
+
+
+[[person.transaction]]
+date = "1949-06-09"
+type = "signed"
+join.name = "Baxley"
+note = "Baxley 1949-06-09"
+
+[[person.transaction]]
+date = "1949-07-12"
+type = "released"
+leave.name = "Baxley"
+join.name = "Lanett"
+note = "rel to Lanett 1949-07-12"
+
+[[person.transaction]]
+date = "1949-08-06"
+type = "released"
+leave.name = "Lanett"
+join.name = "Miami (OK) @"
+note = "rel to Miami (OK) @ 1949-08-06"
+
+[[person.transaction]]
+date = "1949-09-03"
+type = "released"
+leave.name = "Miami (OK) @"
+note = "rel 1949-09-03"
+
+[[person.transaction]]
+date = "1950-03-10"
+type = "signed"
+join.name = "Mooresville"
+note = "Mooresville 1950-03-10"
+
+[[person.transaction]]
+date = "1950-06-08"
+type = "released"
+leave.name = "Mooresville"
+join.name = "Greenville (NC)"
+note = "rel to Greenville (NC) 1950-06-08"
+
+[[person.transaction]]
+date = "1950-06-13"
+type = "optioned"
+leave.name = "Greenville (NC)"
+join.name = "Lumberton"
+note = "opt to Lumberton 1950-06-13"
+
+[[person.transaction]]
+date = "1950-07-05"
+type = "returned"
+leave.name = "Lumberton"
+join.name = "Greenville (NC)"
+note = "ret to Greenville (NC) 1950-07-05"
+
+[[person.transaction]]
+date = "1950-07-05"
+type = "released"
+leave.name = "Greenville (NC)"
+join.name = "New Iberia"
+note = "rel to New Iberia 1950-07-05"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "New Iberia"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-04-23"
+type = "optioned"
+leave.name = "New Iberia"
+join.name = "Americus"
+note = "opt to Americus 1951-04-23"
+
+[[person.transaction]]
+date = "1951-05-10"
+type = "returned"
+leave.name = "Americus"
+join.name = "New Iberia"
+note = "ret to New Iberia 1951-05-10"
+
+[[person.transaction]]
+date = "1951-05-10"
+type = "ineligible"
+leave.name = "New Iberia"
+note = "ineligible list 1951-05-10"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "New Iberia"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "New Iberia"
+

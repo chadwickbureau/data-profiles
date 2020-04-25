@@ -1,0 +1,132 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11473"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11473"
+title = "The Sporting News Player Contract Cards, ScanID: 1025011780"
+
+[person.name]
+last = "Biot"
+given = "Alfred"
+
+[person.description]
+position = "P"
+
+[[person.resides]]
+place.address = "1920 Grand Ave."
+place.country = "US"
+place.state = "WI"
+place.city = "Wisconsin Rapids"
+
+
+[[person.transaction]]
+date = "1925-07"
+type = "signed"
+join.name = "Fort Smith"
+note = "Fort Smith 1925-07"
+
+[[person.transaction]]
+date = "1926"
+type = "reserved"
+join.name = "Fort Smith"
+
+[[person.transaction]]
+date = "opt to Blytheville 1926"
+type = "released"
+leave.name = "Fort Smith"
+note = "rel opt to Blytheville 1926"
+
+[[person.transaction]]
+date = "1926-07"
+type = "released"
+leave.name = "Fort Smith"
+join.name = "Fort Smith"
+note = "rel to Fort Smith 1926-07"
+
+[[person.transaction]]
+date = "1926-08"
+type = "released"
+leave.name = "Fort Smith"
+note = "rel 1926-08"
+
+[[person.transaction]]
+date = "1927"
+type = "signed"
+join.name = "Bloomington"
+note = "Bloomington 1927"
+
+[[person.transaction]]
+date = "1927-03"
+type = "reserved"
+join.name = "Bloomington"
+note = "res 1927-03"
+
+[[person.transaction]]
+date = "1927-05"
+type = "released"
+leave.name = "Bloomington"
+note = "rel 1927-05"
+
+[[person.transaction]]
+date = "1929-03"
+type = "signed"
+join.name = "Terre Haute"
+note = "Terre Haute 1929-03"
+
+[[person.transaction]]
+date = "1929-06"
+type = "released"
+leave.name = "Terre Haute"
+join.name = "Frederick"
+note = "rel to Frederick 1929-06"
+
+[[person.transaction]]
+date = "1929-09"
+type = "returned"
+leave.name = "Frederick"
+join.name = "Terre Haute"
+note = "ret to Terre Haute 1929-09"
+
+[[person.transaction]]
+date = "1929-09"
+type = "released"
+leave.name = "Terre Haute"
+join.name = "Springfield"
+note = "rel to Springfield 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Springfield"
+
+[[person.transaction]]
+date = "1930-02"
+type = "signed"
+join.name = "Terre Haute"
+note = "Terre Haute 1930-02"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Terre Haute"
+
+[[person.transaction]]
+date = "1931-04"
+type = "suspended"
+join.name = "Terre Haute"
+note = "susp 1931-04"
+
+[[person.transaction]]
+date = "1932-03"
+type = "reinstated"
+join.name = "Terre Haute"
+note = "rein 1932-03"
+
+[[person.transaction]]
+date = "1932-04"
+type = "released"
+leave.name = "Terre Haute"
+note = "rel 1932-04"
+

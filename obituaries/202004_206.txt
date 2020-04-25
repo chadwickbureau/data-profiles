@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_206"
+
+[[person.meta.citation]]
+title = "Baran Funeral Home"
+date = "2020-04-24"
+url = "https://www.baranfh.com/obituary/Richard-Davis"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Davis"
+use = "Dick"
+given = "Richard L."
+
+[person.birth]
+date = "1925-04-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Shelbyville"
+
+[person.death]
+date = "2018-01-05"
+place.country = "US"
+place.state = "IN"
+place.city = "East Chicago"
+

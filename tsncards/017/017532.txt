@@ -1,0 +1,85 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:17532"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17532"
+title = "The Sporting News Player Contract Cards, ScanID: 1002006516"
+
+[person.name]
+last = "Balis"
+given = "John J."
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1924-08"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1924-08"
+
+[[person.transaction]]
+date = "1924-08"
+type = "signed"
+join.name = "Detroit"
+note = "Detroit 1924-08"
+
+[[person.transaction]]
+date = "1924-08"
+type = "released"
+leave.name = "Detroit"
+note = "rel 1924-08"
+
+[[person.transaction]]
+date = "1925"
+type = "signed"
+join.name = "Martinsburg"
+note = "Martinsburg 1925"
+
+[[person.transaction]]
+date = "1925-03"
+type = "released"
+leave.name = "Martinsburg"
+note = "rel 1925-03"
+
+[[person.transaction]]
+date = "1926-04"
+type = "signed"
+join.name = "Hollywood"
+note = "Hollywood 1926-04"
+
+[[person.transaction]]
+date = "1928"
+type = "signed"
+join.name = "sus for"
+note = "sus for 1928"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "sus for"
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Reading"
+note = "Reading 1929-04"
+
+[[person.transaction]]
+date = "1929-05"
+type = "released"
+leave.name = "Reading"
+join.name = "Syracuse"
+note = "rel to Syracuse 1929-05"
+
+[[person.transaction]]
+date = "1929-05"
+type = "released"
+leave.name = "Syracuse"
+note = "rel 1929-05"
+

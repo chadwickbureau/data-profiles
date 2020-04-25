@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:67814"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/67814"
+title = "The Sporting News Player Contract Cards, ScanID: 1015004713"
+
+[person.name]
+last = "Freeman"
+given = "Robert L."
+
+
+[[person.transaction]]
+date = "1946-09"
+type = "signed"
+join.name = "Davenport"
+note = "Davenport 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Davenport"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-14"
+type = "released"
+leave.name = "Davenport"
+join.name = "Hutchinson"
+note = "rel to Hutchinson 1947-04-14"
+
+[[person.transaction]]
+date = "1947-04-29"
+type = "released"
+leave.name = "Hutchinson"
+join.name = "Sioux Falls"
+note = "rel to Sioux Falls 1947-04-29"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Sioux Falls"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-05-20"
+type = "restricted"
+leave.name = "Sioux Falls"
+note = "restricted list 1948-05-20"
+
+[[person.transaction]]
+date = "1948-06-03"
+type = "reinstated"
+join.name = "Sioux Falls"
+note = "rein from restricted list 1948-06-03"
+
+[[person.transaction]]
+date = "1948-06-03"
+type = "released-conditional"
+leave.name = "Sioux Falls"
+join.name = "Ogdensburg"
+note = "cond rel to Ogdensburg 1948-06-03"
+
+[[person.transaction]]
+date = "1948-07-06"
+type = "released"
+leave.name = "Ogdensburg"
+join.name = "Erie"
+note = "rel to Erie 1948-07-06"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Erie"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-02-15"
+type = "released"
+leave.name = "Erie"
+note = "rel 1949-02-15"
+

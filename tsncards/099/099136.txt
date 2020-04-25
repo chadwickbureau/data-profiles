@@ -1,0 +1,204 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:99136"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/99136"
+title = "The Sporting News Player Contract Cards, ScanID: 1099019355"
+
+[person.name]
+last = "Price"
+given = "Charles Calvin"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "115"
+
+[person.birth]
+date = "1926-09-18"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[[person.resides]]
+place.address = "449 East Adair Street"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+
+[[person.transaction]]
+date = "1943-12"
+type = "signed"
+join.name = "Baltimore"
+note = "Baltimore 1943-12"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Baltimore"
+
+[[person.transaction]]
+date = "1944-05"
+type = "optioned"
+leave.name = "Baltimore"
+join.name = "Wilkes-Barre"
+note = "opt to Wilkes-Barre 1944-05"
+
+[[person.transaction]]
+date = "1944-06"
+type = "returned"
+leave.name = "Wilkes-Barre"
+join.name = "Baltimore"
+note = "ret to Baltimore 1944-06"
+
+[[person.transaction]]
+date = "1944-06"
+type = "optioned"
+leave.name = "Baltimore"
+join.name = "Batavia"
+note = "opt to Batavia 1944-06"
+
+[[person.transaction]]
+date = "1944-08"
+type = "returned"
+leave.name = "Batavia"
+join.name = "Baltimore"
+note = "ret to Baltimore 1944-08"
+
+[[person.transaction]]
+date = "1944-09"
+type = "released"
+leave.name = "Baltimore"
+note = "rel 1944-09"
+
+[[person.transaction]]
+date = "1945-01"
+type = "signed"
+join.name = "Baltimore"
+note = "Baltimore 1945-01"
+
+[[person.transaction]]
+date = "1945-03"
+type = "military-service"
+leave.name = "Baltimore"
+note = "in service 1945-03"
+
+[[person.transaction]]
+date = "1946"
+type = "reserved"
+join.name = "Baltimore"
+
+[[person.transaction]]
+date = "1946-07-20"
+type = "reinstated"
+join.name = "Baltimore"
+note = "rein from service list 1946-07-20"
+
+[[person.transaction]]
+date = "1946-07"
+type = "optioned"
+leave.name = "Baltimore"
+join.name = "Centreville"
+note = "opt to Centreville 1946-07"
+
+[[person.transaction]]
+date = "1946-08"
+type = "recalled"
+leave.name = "Centreville"
+join.name = "Baltimore"
+note = "rec by Baltimore 1946-08"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Baltimore"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-01-02"
+type = "released"
+leave.name = "Baltimore"
+note = "rel 1947-01-02"
+
+[[person.transaction]]
+date = "1947-02-14"
+type = "signed"
+join.name = "Moline"
+note = "Moline 1947-02-14"
+
+[[person.transaction]]
+date = "1947-06-30"
+type = "released"
+leave.name = "Moline"
+note = "rel 1947-06-30"
+
+[[person.transaction]]
+date = "1947-06-07"
+type = "signed"
+join.name = "Greenville (MS)"
+note = "Greenville (MS) 1947-06-07"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Greenville (MS)"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-04-19"
+type = "released"
+leave.name = "Greenville (MS)"
+note = "rel 1948-04-19"
+
+[[person.transaction]]
+date = "1948-06-22"
+type = "signed"
+join.name = "Milford"
+note = "Milford 1948-06-22"
+
+[[person.transaction]]
+date = "1948-09-26"
+type = "released"
+leave.name = "Milford"
+note = "rel 1948-09-26"
+
+[[person.transaction]]
+date = "1948-11-23"
+type = "signed"
+join.name = "Danville (IL)"
+note = "Danville (IL) 1948-11-23"
+
+[[person.transaction]]
+date = "1949-04-24"
+type = "suspended"
+leave.name = "Danville (IL)"
+note = "1949-04-24"
+
+[[person.transaction]]
+date = "1949-05-05"
+type = "ineligible"
+leave.name = "Danville (IL)"
+note = "ineligible list 1949-05-05"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Danville (IL)"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Danville (IL)"
+
+[[person.transaction]]
+date = "1951-01-03"
+type = "released"
+leave.name = "Danville (IL)"
+join.name = "Newport News"
+note = "rel to Newport News 1951-01-03"
+

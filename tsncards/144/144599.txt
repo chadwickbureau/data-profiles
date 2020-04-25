@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:144599"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/144599"
+title = "The Sporting News Player Contract Cards, ScanID: 1030004535"
+
+[person.name]
+last = "Mickey"
+given = "Ted Andrew"
+
+
+[[person.transaction]]
+date = "1949-06-27"
+type = "signed"
+join.name = "Hickory"
+note = "Hickory 1949-06-27"
+
+[[person.transaction]]
+date = "1949-07-06"
+type = "released"
+leave.name = "Hickory"
+join.name = "Lenoir"
+note = "rel to Lenoir 1949-07-06"
+
+[[person.transaction]]
+date = "1949-08-11"
+type = "voluntarily-retired"
+leave.name = "Lenoir"
+note = "vol ret list 1949-08-11"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Lenoir"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Lenoir"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:102946"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/102946"
+title = "The Sporting News Player Contract Cards, ScanID: 1020005337"
+
+[person.name]
+last = "Hinds"
+given = "John Lewis"
+
+
+[[person.transaction]]
+date = "1967-02-10"
+type = "signed"
+join.name = "Clinton"
+note = "Clinton 1967-02-10"
+
+[[person.transaction]]
+date = "1967-04-10"
+type = "released"
+leave.name = "Clinton"
+note = "rel 1967-04-10"
+

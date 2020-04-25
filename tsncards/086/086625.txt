@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:86625"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/86625"
+title = "The Sporting News Player Contract Cards, ScanID: 1021000001"
+
+[person.name]
+last = "Hofmann"
+given = "Thomas Michael"
+
+[person.description]
+ancestry = "German-Irish"
+position = "1OF"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "190"
+
+[person.birth]
+date = "1940-11-16"
+place.country = "US"
+place.state = "MI"
+place.city = "Cadillac"
+
+[[person.resides]]
+place.address = "1030 Northlawn"
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[[person.education]]
+school.type = "college"
+school.name = "Aquinas College"
+dates = "1958/1961"
+
+
+[[person.transaction]]
+date = "1961-10-25"
+type = "signed"
+join.name = "Eugene"
+note = "Eugene 1961-10-25"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Eugene"
+
+[[person.transaction]]
+date = "1962-04-11"
+type = "released"
+leave.name = "Eugene"
+note = "rel 1962-04-11"
+

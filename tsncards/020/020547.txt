@@ -1,0 +1,76 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:20547"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/20547"
+title = "The Sporting News Player Contract Cards, ScanID: 1004002816"
+
+[person.name]
+last = "Bishop"
+given = "C. C."
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "70.5"
+weight = "166"
+
+[person.birth]
+date = "1910-01-20"
+place.country = "US"
+place.state = "MO"
+place.city = "Savannah"
+
+[[person.resides]]
+place.address = "824 1/2 N. 17th St."
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "St. Joseph"
+note = "St. Joseph 1930-08"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "St. Joseph"
+join.name = "Shawnee"
+note = "rel to Shawnee 1930-08"
+
+[[person.transaction]]
+date = "1931"
+type = "released"
+leave.name = "Shawnee"
+join.name = "Springfield"
+note = "rel to Springfield 1931"
+
+[[person.transaction]]
+date = "1931-05"
+type = "released"
+leave.name = "Springfield"
+note = "rel 1931-05"
+
+[[person.transaction]]
+date = "1932-05"
+type = "signed"
+join.name = "Pueblo"
+note = "Pueblo 1932-05"
+
+[[person.transaction]]
+date = "1932-06"
+type = "released"
+leave.name = "Pueblo"
+note = "rel 1932-06"
+
+[[person.transaction]]
+date = "1933-06"
+type = "signed"
+join.name = "St. Joseph"
+note = "St. Joseph 1933-06"
+

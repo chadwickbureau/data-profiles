@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:21211"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/21211"
+title = "The Sporting News Player Contract Cards, ScanID: 1025007789"
+
+[person.name]
+last = "Ault"
+given = "Edawrd"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "178"
+
+[person.birth]
+date = "1909-11-16"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[[person.resides]]
+place.address = "1322 Military Rd. N. W."
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+
+[[person.transaction]]
+date = "1930-04"
+type = "signed"
+join.name = "Rock Island"
+note = "Rock Island 1930-04"
+
+[[person.transaction]]
+date = "1930-06"
+type = "suspended"
+join.name = "Rock Island"
+note = "susp 1930-06"
+
+[[person.transaction]]
+date = "1930-07"
+type = "reinstated"
+join.name = "Rock Island"
+note = "rein 1930-07"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Rock Island"
+
+[[person.transaction]]
+date = "1931-03"
+type = "released"
+leave.name = "Rock Island"
+note = "rel 1931-03"
+

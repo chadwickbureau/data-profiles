@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:119993"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/119993"
+title = "The Sporting News Player Contract Cards, ScanID: 1023002011"
+
+[person.name]
+last = "Jones"
+given = "Ronnie Steve"
+nick = "Slick; Tex"
+
+[person.description]
+position = "P-1B-OF"
+bats = "S"
+throws = "R"
+married = "yes"
+height = "71"
+weight = "186"
+
+[person.birth]
+date = "1942-07-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Jacksonville"
+
+[[person.resides]]
+place.address = "213 Goethe Street"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+
+[[person.transaction]]
+date = "1964-04-11"
+type = "signed"
+join.name = "Statesville"
+note = "Statesville 1964-04-11"
+
+[[person.transaction]]
+date = "1964-05-19"
+type = "released"
+leave.name = "Statesville"
+join.name = "Cocoa Colts"
+note = "rel to Cocoa Colts 1964-05-19"
+
+[[person.transaction]]
+date = "1964-07-29"
+type = "optioned"
+leave.name = "Cocoa Colts"
+join.name = "Statesville"
+note = "opt to Statesville 1964-07-29"
+
+[[person.transaction]]
+date = "1964-09-28"
+type = "recalled"
+leave.name = "Statesville"
+join.name = "Cocoa Colts"
+note = "rec by Cocoa Colts 1964-09-28"
+
+[[person.transaction]]
+date = "1964-09-28"
+type = "released"
+leave.name = "Cocoa Colts"
+join.name = "Oklahoma City"
+note = "rel to Oklahoma City 1964-09-28"
+
+[[person.transaction]]
+date = "1965"
+type = "reserved"
+join.name = "Oklahoma City"
+note = "res for 1965"
+
+[[person.transaction]]
+date = "1965-04-17"
+type = "suspended"
+leave.name = "Oklahoma City"
+note = "1965-04-17"
+
+[[person.transaction]]
+date = "1965-05-01"
+type = "restricted"
+leave.name = "Oklahoma City"
+note = "restr list 1965-05-01"
+
+[[person.transaction]]
+date = "1965-06-17"
+type = "reinstated"
+join.name = "Oklahoma City"
+note = "rein 1965-06-17"
+
+[[person.transaction]]
+date = "1965-06-16"
+type = "released"
+leave.name = "Oklahoma City"
+join.name = "Cocoa"
+note = "rel to Cocoa 1965-06-16"
+
+[[person.transaction]]
+date = "1965-07-01"
+type = "released"
+leave.name = "Cocoa"
+note = "rel 1965-07-01"
+

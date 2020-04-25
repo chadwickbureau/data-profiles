@@ -1,0 +1,118 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:1236"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/1236"
+title = "The Sporting News Player Contract Cards, ScanID: 1025007060"
+
+[person.name]
+last = "Allen"
+given = "Joel Rembert"
+nick = "Joe"
+
+[person.description]
+ancestry = "English-Irish"
+position = "IF-OF"
+bats = "L"
+throws = "R"
+height = "69"
+weight = "155"
+
+[person.birth]
+date = "1931-05-22"
+place.country = "US"
+place.state = "OK"
+place.city = "Okmulgee"
+
+[[person.resides]]
+place.address = "2322 W. Okmulgee"
+place.country = "US"
+place.state = "OK"
+place.city = "Muskogee"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+dates = "1948-09/1949-12"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+dates = "1950-09/1951-11"
+
+
+[[person.transaction]]
+date = "1950-04-06"
+type = "signed"
+join.name = "Deland"
+note = "Deland 1950-04-06"
+
+[[person.transaction]]
+date = "1950-04-24"
+type = "optioned"
+leave.name = "Deland"
+join.name = "Douglas"
+note = "opt to Douglas 1950-04-24"
+
+[[person.transaction]]
+date = "1950-07-14"
+type = "released"
+leave.name = "Douglas"
+note = "rel 1950-07-14"
+
+[[person.transaction]]
+date = "1952-03-20"
+type = "signed"
+join.name = "Amarillo"
+note = "Amarillo 1952-03-20"
+
+[[person.transaction]]
+date = "1952-07-11"
+type = "disabled"
+leave.name = "Amarillo"
+note = "disabled list 1952-07-11"
+
+[[person.transaction]]
+date = "1952-09-27"
+type = "reinstated"
+join.name = "Amarillo"
+note = "reinst 1952-09-27"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Amarillo"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-05-09"
+type = "suspended"
+join.name = "Amarillo"
+note = "susp 1953-05-09"
+
+[[person.transaction]]
+date = "1953-05-18"
+type = "reinstated"
+join.name = "Amarillo"
+note = "reinst 1953-05-18"
+
+[[person.transaction]]
+date = "1953-05-18"
+type = "released"
+leave.name = "Amarillo"
+note = "rel 1953-05-18"
+
+[[person.transaction]]
+date = "1953-05-22"
+type = "signed"
+join.name = "Odessa"
+note = "Odessa 1953-05-22"
+
+[[person.transaction]]
+date = "1953-06-06"
+type = "released"
+leave.name = "Odessa"
+note = "rel 1953-06-06"
+

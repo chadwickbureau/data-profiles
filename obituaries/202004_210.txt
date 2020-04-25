@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_210"
+
+[[person.meta.citation]]
+title = "Lucas & Eaton Funeral Home"
+date = "2020-04-24"
+url = "https://www.lucaseatonfuneralhome.com/obituary/RobertT-Hynes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Hynes"
+use = "Bob"
+given = "Robert Theodore"
+
+[person.birth]
+date = "1932-12-22"
+
+[person.death]
+date = "2020-04-15"
+
+[[person.education]]
+school.name = "Bromfield School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Harvard"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,95 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:118257"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/118257"
+title = "The Sporting News Player Contract Cards, ScanID: 1023001711"
+
+[person.name]
+last = "Jones"
+given = "Lewis A."
+use = "Lew"
+nick = "Stretch"
+
+[person.description]
+ancestry = "Negro"
+position = "1B"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "76"
+weight = "200"
+
+[person.birth]
+date = "1931-07-29"
+place.country = "US"
+place.state = "FL"
+place.city = "Sanford"
+
+[[person.resides]]
+place.address = "326 Sumner Street"
+place.country = "US"
+place.state = "FL"
+place.city = "Kissimmee"
+
+
+[[person.transaction]]
+date = "1953-09-30"
+type = "signed"
+join.name = "Jacksonville"
+note = "Jacksonville 1953-09-30"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Jacksonville"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-04-12"
+type = "optioned"
+leave.name = "Jacksonville"
+join.name = "Eau Claire"
+note = "opt to Eau Claire 1954-04-12"
+
+[[person.transaction]]
+date = "1954-06-09"
+type = "option-transferred"
+leave.name = "Eau Claire"
+join.name = "Paris (IL)"
+note = "opt trans to Paris (IL) 1954-06-09"
+
+[[person.transaction]]
+date = "1954-06-28"
+type = "option-returned"
+leave.name = "Paris (IL)"
+join.name = "Jacksonville"
+note = "opt ret to Jacksonville 1954-06-28"
+
+[[person.transaction]]
+date = "1954-06-29"
+type = "disabled"
+leave.name = "Jacksonville"
+note = "disabled list 1954-06-29"
+
+[[person.transaction]]
+date = "1954-07-14"
+type = "reinstated"
+join.name = "Jacksonville"
+note = "reins 1954-07-14"
+
+[[person.transaction]]
+date = "1954-07-16"
+type = "optioned"
+leave.name = "Jacksonville"
+join.name = "Waycross"
+note = "opt to Waycross 1954-07-16"
+
+[[person.transaction]]
+date = "1954-07-30"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1954-07-30"
+

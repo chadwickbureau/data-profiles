@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:65608"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65608"
+title = "The Sporting News Player Contract Cards, ScanID: 1017000913"
+
+[person.name]
+last = "Godfrey"
+given = "G. W."
+
+[person.description]
+position = "2B-3B"
+
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Spokane"
+note = "Spokane 1912"
+
+[[person.transaction]]
+date = "1912-02"
+type = "released"
+leave.name = "Spokane"
+note = "rel 1912-02"
+
+[[person.transaction]]
+date = "1912-03"
+type = "signed"
+join.name = "Tacoma"
+note = "Tacoma 1912-03"
+
+[[person.transaction]]
+date = "1912-04"
+type = "released"
+leave.name = "Tacoma"
+note = "rel 1912-04"
+
+[[person.transaction]]
+date = "1912-07"
+type = "signed"
+join.name = "Red Deer"
+note = "Red Deer 1912-07"
+
+[[person.transaction]]
+date = "1913-09"
+type = "signed"
+join.name = "Medicine Hat"
+note = "Medicine Hat 1913-09"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Medicine Hat"
+note = "res for 1914"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1915"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Aberdeen"
+note = "rel 1915-07"
+

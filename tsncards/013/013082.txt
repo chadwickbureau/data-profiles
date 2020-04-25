@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:13082"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/13082"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005941"
+
+[person.name]
+last = "Baker"
+given = "John M."
+
+[[person.resides]]
+place.country = "US"
+place.state = "WV"
+place.city = "Parkersburg"
+
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1929-04"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Charlotte"
+
+[[person.transaction]]
+date = "1930-05"
+type = "voluntarily-retired"
+leave.name = "Charlotte"
+note = "vol ret 1930-05"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Charlotte"
+
+[[person.transaction]]
+date = "1932"
+type = "reserved"
+join.name = "Charlotte"
+

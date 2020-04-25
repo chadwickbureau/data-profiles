@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:121211"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/121211"
+title = "The Sporting News Player Contract Cards, ScanID: 1023002147"
+
+[person.name]
+last = "Jones"
+given = "Tray M."
+
+
+[[person.transaction]]
+date = "1913-06"
+type = "signed"
+join.name = "Norfolk"
+note = "Norfolk 1913-06"
+
+[[person.transaction]]
+date = "1913-06"
+type = "released"
+leave.name = "Norfolk"
+note = "rel 1913-06"
+
+[[person.transaction]]
+date = "1913-07"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross 1913-07"
+
+[[person.transaction]]
+date = "1914-04"
+type = "reserved"
+join.name = "Waycross"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Gettysburg"
+note = "Gettysburg 1915-05"
+

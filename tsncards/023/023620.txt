@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:23620"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/23620"
+title = "The Sporting News Player Contract Cards, ScanID: 1008001036"
+
+[person.name]
+last = "Caulfield"
+given = "James Benedict"
+
+
+[[person.transaction]]
+date = "1947-09-11"
+type = "signed"
+join.name = "Allentown"
+note = "Allentown 1947-09-11"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Allentown"
+
+[[person.transaction]]
+date = "1948-04-12"
+type = "released"
+leave.name = "Allentown"
+note = "rel 1948-04-12"
+

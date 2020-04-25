@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:129877"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/129877"
+title = "The Sporting News Player Contract Cards, ScanID: 1025000781"
+
+[person.name]
+last = "Krasovic"
+given = "Ray"
+
+
+[[person.transaction]]
+date = "1947-08-18"
+type = "signed"
+join.name = "Ponca City"
+note = "Ponca City 1947-08-18"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Ponca City"
+
+[[person.transaction]]
+date = "1948-04-03"
+type = "released"
+leave.name = "Ponca City"
+note = "rel 1948-04-03"
+

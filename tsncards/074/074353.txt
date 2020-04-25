@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:74353"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/74353"
+title = "The Sporting News Player Contract Cards, ScanID: 1025015136"
+
+[person.name]
+last = "Formento"
+given = "Stephen P."
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "173"
+
+[person.birth]
+date = "1931-03-08"
+place.country = "US"
+place.state = "PA"
+place.city = "Arnold"
+
+[[person.resides]]
+place.address = "Box 147"
+place.country = "US"
+place.state = "PA"
+place.city = "Curtisville"
+
+
+[[person.transaction]]
+date = "1949-11-07"
+type = "signed"
+join.name = "Lexington (NC)"
+note = "Lexington (NC) 1949-11-07"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Lexington (NC)"
+
+[[person.transaction]]
+date = "1950-05-18"
+type = "released"
+leave.name = "Lexington (NC)"
+join.name = "Tarboro"
+note = "rel to Tarboro 1950-05-18"
+
+[[person.transaction]]
+date = "1950-05-25"
+type = "released"
+leave.name = "Tarboro"
+note = "rel 1950-05-25"
+
+[[person.transaction]]
+date = "1951-03-22"
+type = "signed"
+join.name = "Tarboro"
+note = "Tarboro 1951-03-22"
+
+[[person.transaction]]
+date = "1951-04-17"
+type = "released"
+leave.name = "Tarboro"
+note = "rel 1951-04-17"
+

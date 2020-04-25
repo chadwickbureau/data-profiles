@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:47888"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/47888"
+title = "The Sporting News Player Contract Cards, ScanID: 1009002748"
+
+[person.name]
+last = "Comegys"
+given = "Ellwood Warren"
+nick = "Woody"
+
+[person.description]
+ancestry = "English-Irish"
+position = "P-OF"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "203"
+
+[person.birth]
+date = "1933-02-09"
+place.country = "US"
+place.state = "NJ"
+place.city = "Beverly"
+
+[[person.resides]]
+place.address = "109 Delacove Homes"
+place.country = "US"
+place.state = "NJ"
+place.city = "Beverly"
+
+
+[[person.transaction]]
+date = "1956-07-23"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1956-07-23"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Aberdeen"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1957-04-11"
+type = "released"
+leave.name = "Aberdeen"
+note = "rel 1957-04-11"
+
+[[person.transaction]]
+date = "1958-08-15"
+type = "signed"
+join.name = "Bakersfield"
+note = "Bakersfield 1958-08-15"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Bakersfield"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1959-04-17"
+type = "released"
+leave.name = "Bakersfield"
+note = "rel 1959-04-17"
+

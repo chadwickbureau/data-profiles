@@ -1,0 +1,143 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:68150"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/68150"
+title = "The Sporting News Player Contract Cards, ScanID: 1015004553"
+
+[person.name]
+last = "Freeman"
+given = "Arnett J."
+nick = "Buck"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "R"
+height = "73"
+weight = "175"
+
+[person.birth]
+date = "1896"
+
+[[person.resides]]
+place.address = "3323-B W 10th."
+place.country = "US"
+place.state = "TX"
+place.city = "Amarillo"
+
+
+[[person.transaction]]
+date = "1920"
+type = "signed"
+join.name = "Saginaw"
+note = "Saginaw 1920"
+
+[[person.transaction]]
+date = "1920-08"
+type = "released"
+leave.name = "Saginaw"
+join.name = "Boston AL"
+note = "rel to Boston AL 1920-08"
+
+[[person.transaction]]
+date = "1921"
+type = "released"
+leave.name = "Boston AL"
+join.name = "Saginaw"
+note = "rel to Saginaw 1921"
+
+[[person.transaction]]
+date = "1922"
+type = "reserved"
+join.name = "Saginaw"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "Danville IL"
+note = "Danville IL 1924"
+
+[[person.transaction]]
+date = "1924-05"
+type = "released"
+leave.name = "Danville IL"
+note = "rel 1924-05"
+
+[[person.transaction]]
+date = "1924"
+type = "signed"
+join.name = "Sioux Falls"
+note = "Sioux Falls 1924"
+
+[[person.transaction]]
+date = "1924-08"
+type = "signed"
+join.name = "Waterloo"
+note = "Waterloo 1924-08"
+
+[[person.transaction]]
+date = "1925-05"
+type = "reserved"
+join.name = "Waterloo"
+
+[[person.transaction]]
+date = "1925-05"
+type = "released"
+leave.name = "Waterloo"
+note = "rel 1925-05"
+
+[[person.transaction]]
+date = "1925"
+type = "signed"
+join.name = "Denver"
+note = "Denver 1925"
+
+[[person.transaction]]
+date = "1926-01"
+type = "sold"
+leave.name = "Oakland"
+note = "sold to Oakland 1926-01"
+
+[[person.transaction]]
+date = "1926"
+type = "signed"
+join.name = "Marshalltown"
+note = "Marshalltown 1926"
+
+[[person.transaction]]
+date = "1926-04"
+type = "released"
+leave.name = "Marshalltown"
+note = "rel 1926-04"
+
+[[person.transaction]]
+date = "1926-07"
+type = "signed"
+join.name = "Pittsfield"
+note = "Pittsfield 1926-07"
+
+[[person.transaction]]
+date = "1927"
+type = "signed"
+join.name = "Bloomington"
+note = "Bloomington 1927"
+
+[[person.transaction]]
+date = "1927-03"
+type = "reserved"
+join.name = "Bloomington"
+
+[[person.transaction]]
+date = "1928-06"
+type = "signed"
+join.name = "Amarillo"
+note = "Amarillo 1928-06"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Amarillo"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134011"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134011"
+title = "The Sporting News Player Contract Cards, ScanID: 1029006307"
+
+[person.name]
+last = "McLean"
+given = "H. R."
+
+[person.description]
+position = "P"
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Charleston (WV)"
+note = "Charleston (WV) 1915-04"
+

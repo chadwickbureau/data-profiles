@@ -1,0 +1,142 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11487"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11487"
+title = "The Sporting News Player Contract Cards, ScanID: 1002003272"
+
+[person.name]
+last = "Baker"
+given = "Robert S."
+
+[person.description]
+position = "C"
+
+[[person.resides]]
+place.address = "211 W. 35th St."
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+
+[[person.transaction]]
+date = "1938-03"
+type = "signed"
+join.name = "Trenton"
+note = "Trenton 1938-03"
+
+[[person.transaction]]
+date = "1938-03"
+type = "released"
+leave.name = "Trenton"
+note = "rel 1938-03"
+
+[[person.transaction]]
+date = "1938-03"
+type = "signed"
+join.name = "Norfolk VA"
+note = "Norfolk VA 1938-03"
+
+[[person.transaction]]
+date = "1938-05"
+type = "optioned"
+leave.name = "Norfolk VA"
+join.name = "South Boston"
+note = "opt to South Boston 1938-05"
+
+[[person.transaction]]
+date = "1938-09"
+type = "recalled"
+leave.name = "South Boston"
+join.name = "Norfolk VA"
+note = "rec by Norfolk VA 1938-09"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Norfolk VA"
+note = "res for 1939"
+
+[[person.transaction]]
+date = "1939-05"
+type = "optioned"
+leave.name = "Norfolk VA"
+join.name = "Akron"
+note = "opt to Akron 1939-05"
+
+[[person.transaction]]
+date = "1939-05"
+type = "signed"
+join.name = "Bassett"
+note = "Bassett 1939-05"
+
+[[person.transaction]]
+date = "1939-07"
+type = "released"
+leave.name = "Bassett"
+note = "rel 1939-07"
+
+[[person.transaction]]
+date = "1939-07"
+type = "signed"
+join.name = "Norfolk VA"
+note = "Norfolk VA 1939-07"
+
+[[person.transaction]]
+date = "1939-09"
+type = "optioned"
+leave.name = "Norfolk VA"
+join.name = "Akron"
+note = "opt to Akron 1939-09"
+
+[[person.transaction]]
+date = "1940"
+type = "reserved"
+join.name = "Akron"
+
+[[person.transaction]]
+date = "1940-03"
+type = "returned"
+leave.name = "Akron"
+join.name = "Norfolk VA"
+note = "ret to Norfolk VA 1940-03"
+
+[[person.transaction]]
+date = "1940-05"
+type = "voluntarily-retired"
+leave.name = "Norfolk VA"
+note = "vol ret 1940-05"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1945"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1945-01"
+type = "reinstated"
+join.name = "Norfolk VA"
+note = "rein and made free agent 1945-01"
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:143644"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/143644"
+title = "The Sporting News Player Contract Cards, ScanID: 1031000785"
+
+[person.name]
+last = "Miscia"
+given = "John William"
+
+
+[[person.transaction]]
+date = "1958-07-01"
+type = "signed"
+join.name = "Grand Island"
+note = "Grand Island 1958-07-01"
+
+[[person.transaction]]
+date = "1958-07-06"
+type = "temporarily-inactive"
+leave.name = "Grand Island"
+note = "temp inactive list 1958-07-06"
+
+[[person.transaction]]
+date = "1958-09-11"
+type = "reinstated"
+join.name = "Grand Island"
+note = "rein 1958-09-11"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Grand Island"
+note = "res for 1959"
+
+[[person.transaction]]
+date = "1958-12-22"
+type = "released"
+leave.name = "Grand Island"
+note = "rel 1958-12-22"
+

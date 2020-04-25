@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:159922"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/159922"
+title = "The Sporting News Player Contract Cards, ScanID: 1048003607"
+
+[person.name]
+last = "Wilson"
+given = "Karl"
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1911"
+
+[[person.transaction]]
+date = "1911-05"
+type = "released"
+leave.name = "Selma"
+note = "rel 1911-05"
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1914-03"
+
+[[person.transaction]]
+date = "1914-06"
+type = "suspended"
+join.name = "Talladega"
+note = "susp 1914-06"
+
+[[person.transaction]]
+date = "1914-06"
+type = "reinstated"
+join.name = "Talladega"
+note = "reins 1914-06"
+
+[[person.transaction]]
+date = "1915-03"
+type = "suspended"
+join.name = "Talladega"
+note = "susp 1915-03"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1915-04"
+

@@ -1,0 +1,93 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:174086"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/174086"
+title = "The Sporting News Player Contract Cards, ScanID: 1034003019"
+
+[person.name]
+last = "Parker"
+given = "Clarence Perkins"
+
+[person.description]
+position = "OF"
+
+[person.birth]
+date = "1893-05-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Somerville"
+
+[person.death]
+date = "1967-03-21"
+place.country = "US"
+place.state = "NH"
+place.city = "Claremont"
+
+[[person.education]]
+school.type = "college"
+school.name = "Albright College"
+dates = "1915"
+
+
+[[person.transaction]]
+date = "1915-08"
+type = "signed"
+join.name = "St. Louis AL"
+note = "St. Louis AL 1915-08"
+
+[[person.transaction]]
+date = "1915-08"
+type = "released"
+leave.name = "St. Louis AL"
+note = "rel 1915-08"
+
+[[person.transaction]]
+date = "1915-08"
+type = "signed"
+join.name = "Lowell"
+note = "Lowell 1915-08"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Lowell"
+
+[[person.transaction]]
+date = "1917-04"
+type = "signed"
+join.name = "Scranton"
+note = "Scranton 1917-04"
+
+[[person.transaction]]
+date = "1918-05"
+type = "signed"
+join.name = "Rochester"
+note = "Rochester 1918-05"
+
+[[person.transaction]]
+date = "1918-06"
+type = "signed"
+join.name = "Springfield (MA)"
+note = "Springfield (MA) 1918-06"
+
+[[person.transaction]]
+date = "1918-07"
+type = "released"
+leave.name = "Springfield (MA)"
+note = "rel 1918-07"
+
+[[person.transaction]]
+date = "1919-08"
+type = "signed"
+join.name = "New Haven"
+note = "New Haven 1919-08"
+
+[[person.transaction]]
+date = "1919-09"
+type = "released"
+leave.name = "New Haven"
+note = "rel 1919-09"
+

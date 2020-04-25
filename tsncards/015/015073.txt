@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15073"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15073"
+title = "The Sporting News Player Contract Cards, ScanID: 1002001209"
+
+[person.name]
+last = "Armstrong"
+given = "Richard Stoll"
+
+[person.description]
+note = [ "A's publicity director in 1952" ]
+
+[[person.education]]
+school.type = "college"
+school.name = "Princeton University"
+
+
+[[person.transaction]]
+date = "1947-07-07"
+type = "signed"
+join.name = "Martinsville"
+note = "Martinsville 1947-07-07"
+
+[[person.transaction]]
+date = "1947-07-19"
+type = "disabled"
+leave.name = "Martinsville"
+note = "disabled list 1947-07-19"
+
+[[person.transaction]]
+date = "1947-08-04"
+type = "reinstated"
+join.name = "Martinsville"
+note = "rein from disabled list 1947-08-04"
+
+[[person.transaction]]
+date = "1947-08-04"
+type = "released"
+leave.name = "Martinsville"
+join.name = "Lancaster"
+note = "rel to Lancaster 1947-08-04"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Lancaster"
+note = "res for 1948"
+

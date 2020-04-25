@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:145958"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/145958"
+title = "The Sporting News Player Contract Cards, ScanID: 1026005095"
+
+[person.name]
+last = "Lipchik"
+given = "Joseph"
+
+
+[[person.transaction]]
+date = "1951-03-19"
+type = "signed"
+join.name = "Mooresville"
+note = "Mooresville 1951-03-19"
+
+[[person.transaction]]
+date = "1951-05-11"
+type = "released"
+leave.name = "Mooresville"
+note = "rel 1951-05-11"
+

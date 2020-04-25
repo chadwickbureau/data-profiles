@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:97215"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/97215"
+title = "The Sporting News Player Contract Cards, ScanID: 1035004989"
+
+[person.name]
+last = "Pittman"
+given = "Walter"
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1915-03"
+type = "signed"
+join.name = "Thomasville"
+note = "Thomasville 1915-03"
+

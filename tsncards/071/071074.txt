@@ -1,0 +1,99 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:71074"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71074"
+title = "The Sporting News Player Contract Cards, ScanID: 1025015476"
+
+[person.name]
+last = "Fuqua"
+given = "Roger Cleveland"
+
+[person.description]
+position = "SS"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "170"
+
+[person.birth]
+date = "1908-11-08"
+place.country = "US"
+place.state = "KY"
+place.city = "Guthrie"
+
+[[person.resides]]
+place.address = "35 Lawn St."
+place.country = "US"
+place.state = "TN"
+place.city = "Clarksville"
+
+
+[[person.transaction]]
+date = "1928"
+type = "signed"
+join.name = "Anniston AL"
+note = "Anniston AL 1928"
+
+[[person.transaction]]
+date = "1928-09"
+type = "released"
+leave.name = "Anniston AL"
+note = "rel 1928-09"
+
+[[person.transaction]]
+date = "1928"
+type = "signed"
+join.name = "Nashville"
+note = "Nashville 1928"
+
+[[person.transaction]]
+date = "1928-10"
+type = "reserved"
+join.name = "Nashville"
+note = "res 1928-10"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Nashville"
+
+[[person.transaction]]
+date = "1929-01"
+type = "signed"
+join.name = "Canton"
+note = "Canton 1929-01"
+
+[[person.transaction]]
+date = "1929-02"
+type = "signed"
+join.name = "Nashville"
+note = "Nashville 1929-02"
+
+[[person.transaction]]
+date = "1929-02"
+type = "sold"
+leave.name = "Canton"
+note = "sold to Canton 1929-02"
+
+[[person.transaction]]
+date = "1929-04"
+type = "released"
+leave.name = "Canton"
+join.name = "Spartanburg"
+note = "rel to Spartanburg 1929-04"
+
+[[person.transaction]]
+date = "1929-05"
+type = "released"
+leave.name = "Spartanburg"
+join.name = "Annison"
+note = "rel to Annison 1929-05"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Annison"
+

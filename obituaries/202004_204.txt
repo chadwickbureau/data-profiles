@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_204"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2020-04-23"
+url = "https://www.sandiegouniontribune.com/sports/story/2020-04-23/dan-walters-padres-catcher-san-diego-police-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Walters"
+use = "Dan"
+given = "Dan"
+
+[person.death]
+date = "2020-04-23"
+
+[[person.education]]
+school.name = "Santana HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santee"
+
+

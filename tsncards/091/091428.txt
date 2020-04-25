@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:91428"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/91428"
+title = "The Sporting News Player Contract Cards, ScanID: 1036000997"
+
+[person.name]
+last = "Powers"
+given = "F. H."
+
+[person.description]
+position = "SS"
+
+
+[[person.transaction]]
+date = "1912-04"
+type = "signed"
+join.name = "Cleveland (TN)"
+note = "Cleveland (TN) 1912-04"
+
+[[person.transaction]]
+date = "(GA)"
+type = "signed"
+join.name = "Rome"
+note = "Rome (GA)"
+
+[[person.transaction]]
+date = "1913-05"
+type = "released"
+leave.name = "Rome"
+note = "rel 1913-05"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Cleveland (TN)"
+note = "Cleveland (TN) 1913-05"
+
+[[person.transaction]]
+date = "1913-08"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1913-08"
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1914-03"
+
+[[person.transaction]]
+date = "1914-06"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1914-06"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1915-04"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Americus"
+join.name = "Jacksonville 1915-05 to"
+note = "rel to Jacksonville 1915-05 to 1915-06"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Jacksonville 1915-05 to"
+note = "rel 1915-07"
+

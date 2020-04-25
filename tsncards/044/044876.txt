@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:44876"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/44876"
+title = "The Sporting News Player Contract Cards, ScanID: 1009001196"
+
+[person.name]
+last = "Colclough"
+given = "W. A."
+
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Gainesville"
+note = "Gainesville 1915-06"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Gainesville"
+note = "rel 1915-07"
+

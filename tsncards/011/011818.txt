@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11818"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11818"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005407"
+
+[person.name]
+last = "Bailey"
+given = "John"
+
+
+[[person.transaction]]
+date = "1921-03"
+type = "signed"
+join.name = "Akron"
+note = "Akron 1921-03"
+
+[[person.transaction]]
+date = "1921-05"
+type = "signed"
+join.name = "Newark"
+note = "Newark 1921-05"
+
+[[person.transaction]]
+date = "1921-05"
+type = "released"
+leave.name = "Newark"
+note = "rel 1921-05"
+

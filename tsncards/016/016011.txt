@@ -1,0 +1,89 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16011"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16011"
+title = "The Sporting News Player Contract Cards, ScanID: 1025010205"
+
+[person.name]
+last = "Carlan"
+given = "Charles Hampton"
+
+[person.description]
+ancestry = "Irish"
+position = "INF"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "72"
+weight = "170"
+
+[person.birth]
+date = "1937-07-21"
+place.country = "US"
+place.state = "FL"
+place.city = "DeFuniak Springs"
+
+[[person.resides]]
+place.address = "508 Circle Drive"
+place.country = "US"
+place.state = "FL"
+place.city = "DeFuniak Springs"
+
+[[person.education]]
+school.type = "college"
+school.name = "Auburn"
+
+
+[[person.transaction]]
+date = "1959-06-21"
+type = "signed"
+join.name = "McCook"
+note = "McCook 1959-06-21"
+
+[[person.transaction]]
+date = "1959-10-13"
+type = "released"
+leave.name = "McCook"
+join.name = "Sacramento"
+note = "rel to Sacramento 1959-10-13"
+
+[[person.transaction]]
+date = "1960"
+type = "reserved"
+join.name = "Sacramento"
+note = "res for 1960"
+
+[[person.transaction]]
+date = "1960-04-13"
+type = "released"
+leave.name = "Sacramento"
+join.name = "Eau Claire"
+note = "rel to Eau Claire 1960-04-13"
+
+[[person.transaction]]
+date = "1961"
+type = "reserved"
+join.name = "Eau Claire"
+note = "res for 1961"
+
+[[person.transaction]]
+date = "1961-04-30"
+type = "suspended"
+leave.name = "Eau Claire"
+note = "1961-04-30"
+
+[[person.transaction]]
+date = "1961-09-26"
+type = "reinstated"
+join.name = "Eau Claire"
+note = "reinst 1961-09-26"
+
+[[person.transaction]]
+date = "1961-09-26"
+type = "released"
+leave.name = "Eau Claire"
+note = "rel 1961-09-26"
+

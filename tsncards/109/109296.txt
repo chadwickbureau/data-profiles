@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:109296"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/109296"
+title = "The Sporting News Player Contract Cards, ScanID: 1024003087"
+
+[person.name]
+last = "Kirby"
+given = "Gerald Ray"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"
+
+[person.birth]
+date = "1939-10-19"
+place.country = "US"
+place.state = "GA"
+place.city = "Albany"
+
+[[person.resides]]
+place.address = "Box 243"
+place.country = "US"
+place.state = "GA"
+place.city = "La Grange"
+
+[[person.education]]
+school.type = "college"
+school.name = "Southern Union Junior College"
+
+
+[[person.transaction]]
+date = "1960-07-29"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1960-07-29"
+
+[[person.transaction]]
+date = "1961"
+type = "reserved"
+join.name = "Dothan"
+note = "for 1961"
+
+[[person.transaction]]
+date = "1960-09-23"
+type = "released"
+leave.name = "Dothan"
+join.name = "Winnipeg"
+note = "rel to Winnipeg 1960-09-23"
+
+[[person.transaction]]
+date = "1961"
+type = "reserved"
+join.name = "Winnipeg"
+
+[[person.transaction]]
+date = "1961-04-03"
+type = "released"
+leave.name = "Winnipeg"
+note = "rel 1961-04-03"
+
+[[person.transaction]]
+date = "1961"
+type = "signed"
+join.name = "Montgomery"
+note = "Montgomery 1961"
+
+[[person.transaction]]
+date = "1962"
+type = "reserved"
+join.name = "Montgomery"
+
+[[person.transaction]]
+date = "1962-04-03"
+type = "released"
+leave.name = "Montgomery"
+note = "rel 1962-04-03"
+

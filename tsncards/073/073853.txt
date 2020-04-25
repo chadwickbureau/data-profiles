@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:73853"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/73853"
+title = "The Sporting News Player Contract Cards, ScanID: 1017004853"
+
+[person.name]
+last = "Graves"
+given = "Harold Lee"
+
+[person.description]
+ancestry = "English-Irish"
+position = "P"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "190"
+
+[person.birth]
+date = "1936-10-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Jacksonville"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Bluffs"
+
+
+[[person.transaction]]
+date = "1955-09-03"
+type = "signed"
+join.name = "Ardmore"
+note = "Ardmore 1955-09-03"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Ardmore"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-04-14"
+type = "released"
+leave.name = "Ardmore"
+note = "rel 1956-04-14"
+

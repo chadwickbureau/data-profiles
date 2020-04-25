@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11276"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11276"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004841"
+
+[person.name]
+last = "Backus"
+given = "Coy"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "170"
+
+[person.birth]
+date = "1911-01-15"
+place.country = "US"
+place.state = "AR"
+place.city = "Green Forest"
+
+[[person.resides]]
+place.country = "US"
+place.state = "AR"
+place.city = "Springdale"
+
+
+[[person.transaction]]
+date = "1930-07"
+type = "signed"
+join.name = "Norfolk"
+note = "Norfolk 1930-07"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Norfolk"
+note = "rel 1930-08"
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:150258"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/150258"
+title = "The Sporting News Player Contract Cards, ScanID: 1041001579"
+
+[person.name]
+last = "Shroat"
+given = "Robert A."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "signed"
+join.name = "Marion (NC)"
+note = "Marion (NC) 1949-04-20"
+
+[[person.transaction]]
+date = "1949-05-25"
+type = "released"
+leave.name = "Marion (NC)"
+note = "rel 1949-05-25"
+

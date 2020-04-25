@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:14096"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/14096"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003400"
+
+[person.name]
+last = "Beall"
+given = "Roger"
+
+[[person.resides]]
+place.address = "919 Franklin St."
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+
+[[person.transaction]]
+date = "1923-02"
+type = "signed"
+join.name = "Wichita"
+note = "Wichita 1923-02"
+
+[[person.transaction]]
+date = "1923"
+type = "signed"
+join.name = "Fairbury"
+note = "Fairbury 1923"
+
+[[person.transaction]]
+date = "1923-06"
+type = "released"
+leave.name = "Fairbury"
+join.name = "Wichita"
+note = "rel to Wichita 1923-06"
+
+[[person.transaction]]
+date = "1924-04"
+type = "reserved"
+join.name = "Wichita"
+note = "res 1924-04"
+
+[[person.transaction]]
+date = "1924-05"
+type = "released"
+leave.name = "Wichita"
+join.name = "Beatrice"
+note = "rel to Beatrice 1924-05"
+
+[[person.transaction]]
+date = "1924-05"
+type = "released"
+leave.name = "Beatrice"
+join.name = "Wichita"
+note = "rel to Wichita 1924-05"
+
+[[person.transaction]]
+date = "1924-06"
+type = "signed"
+join.name = "Beatrice"
+note = "Beatrice 1924-06"
+
+[[person.transaction]]
+date = "1924-08"
+type = "signed"
+join.name = "Wichita"
+note = "Wichita 1924-08"
+
+[[person.transaction]]
+date = "1924-08"
+type = "released"
+leave.name = "Wichita"
+note = "rel 1924-08"
+
+[[person.transaction]]
+date = "1925-04"
+type = "signed"
+join.name = "Des Moines 1924"
+note = "Des Moines 1924 1925-04"
+
+[[person.transaction]]
+date = "1925-04"
+type = "released"
+leave.name = "Des Moines 1924"
+join.name = "Springfield IL"
+note = "rel to Springfield IL 1925-04"
+
+[[person.transaction]]
+date = "1925-05"
+type = "signed"
+join.name = "Cedar Rapids"
+note = "Cedar Rapids 1925-05"
+
+[[person.transaction]]
+date = "1925-06"
+type = "released"
+leave.name = "Cedar Rapids"
+note = "rel 1925-06"
+
+[[person.transaction]]
+date = "1925-06"
+type = "signed"
+join.name = "Burlington"
+note = "Burlington 1925-06"
+
+[[person.transaction]]
+date = "1927-08"
+type = "released"
+leave.name = "Burlington"
+note = "rel 1927-08"
+

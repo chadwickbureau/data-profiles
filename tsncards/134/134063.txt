@@ -1,0 +1,96 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134063"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134063"
+title = "The Sporting News Player Contract Cards, ScanID: 1029006775"
+
+[person.name]
+last = "McMillan"
+given = "John B."
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Anderson"
+note = "Anderson 1910"
+
+[[person.transaction]]
+date = "1910-03"
+type = "released"
+leave.name = "Anderson"
+note = "rel 1910-03"
+
+[[person.transaction]]
+date = "1912-03"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1912-03"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Cleveland (TN)"
+note = "Cleveland (TN) 1913-05"
+
+[[person.transaction]]
+date = "1913"
+type = "signed"
+join.name = "Morristown"
+note = "Morristown 1913"
+
+[[person.transaction]]
+date = "1914-02"
+type = "released"
+leave.name = "Morristown"
+join.name = "Charleston (SC)"
+note = "rel to Charleston (SC) 1914-02"
+
+[[person.transaction]]
+date = "1914-03"
+type = "reserved"
+join.name = "Charleston (SC)"
+
+[[person.transaction]]
+date = "opt to Augusta 1914-04"
+type = "released"
+leave.name = "Charleston (SC)"
+note = "rel opt to Augusta 1914-04"
+
+[[person.transaction]]
+date = "1914-08"
+type = "signed"
+join.name = "Valdosta"
+note = "Valdosta 1914-08"
+
+[[person.transaction]]
+date = "1915-04"
+type = "reserved"
+join.name = "Valdosta"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Greensboro"
+note = "Greensboro 1915"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "Charleston (SC)"
+note = "Charleston (SC) 1916-04"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Charleston (SC)"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1917-05"
+type = "reserved"
+join.name = "Charleston (SC)"
+

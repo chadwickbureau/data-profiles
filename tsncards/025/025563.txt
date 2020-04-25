@@ -1,0 +1,83 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:25563"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/25563"
+title = "The Sporting News Player Contract Cards, ScanID: 1008005311"
+
+[person.name]
+last = "Clark"
+given = "James F."
+
+[person.description]
+position = "OF"
+
+[[person.resides]]
+place.country = "US"
+place.state = "PA"
+place.city = "Houtzdale"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Johnstown"
+note = "Johnstown 1910"
+
+[[person.transaction]]
+date = "1911"
+type = "reserved"
+join.name = "Johnstown"
+
+[[person.transaction]]
+date = "1911-02"
+type = "released"
+leave.name = "Johnstown"
+join.name = "Waterbury"
+note = "rel to Waterbury 1911-02"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Johnstown"
+note = "Johnstown 1911"
+
+[[person.transaction]]
+date = "1912-03"
+type = "released"
+leave.name = "Johnstown"
+join.name = "York"
+note = "rel to York 1912-03"
+
+[[person.transaction]]
+date = "1913-02"
+type = "signed"
+join.name = "Trenton"
+note = "Trenton 1913-02"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Trenton"
+
+[[person.transaction]]
+date = "1914-04"
+type = "suspended"
+leave.name = "Trenton"
+note = "1914-04"
+
+[[person.transaction]]
+date = "1914"
+type = "signed"
+join.name = "York"
+note = "York 1914"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "York"
+join.name = "Trenton"
+note = "rel to Trenton 1914-05"
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:3256"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/3256"
+title = "The Sporting News Player Contract Cards, ScanID: 1004004462"
+
+[person.name]
+last = "Blevins"
+given = "Bruce"
+
+[[person.resides]]
+place.country = "US"
+place.state = "WA"
+place.city = "Burton"
+
+[[person.education]]
+school.type = "college"
+school.name = "University of Puget Sound"
+
+
+[[person.transaction]]
+date = "1929-08"
+type = "signed"
+join.name = "Seattle"
+note = "Seattle 1929-08"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Seattle"
+
+[[person.transaction]]
+date = "1930-05"
+type = "released"
+leave.name = "Seattle"
+note = "rel 1930-05"
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "San Francisco"
+note = "San Francisco 1930-08"
+
+[[person.transaction]]
+date = "1930-10"
+type = "released"
+leave.name = "San Francisco"
+note = "rel 1930-10"
+

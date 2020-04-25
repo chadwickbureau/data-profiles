@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:134918"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/134918"
+title = "The Sporting News Player Contract Cards, ScanID: 1026004157"
+
+[person.name]
+last = "Lightel"
+given = "Alvin Robert"
+
+
+[[person.transaction]]
+date = "1959-02-12"
+type = "signed"
+join.name = "Wenatchee"
+note = "Wenatchee 1959-02-12"
+
+[[person.transaction]]
+date = "1959-04-19"
+type = "released"
+leave.name = "Wenatchee"
+note = "rel 1959-04-19"
+
+[[person.transaction]]
+date = "1961-11-23"
+type = "signed"
+join.name = "Eau Claire"
+note = "Eau Claire 1961-11-23"
+
+[[person.transaction]]
+date = "1961-04-23"
+type = "released"
+leave.name = "Eau Claire"
+note = "rel 1961-04-23"
+

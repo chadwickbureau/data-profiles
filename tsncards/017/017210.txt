@@ -1,0 +1,80 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:17210"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17210"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008094"
+
+[person.name]
+last = "Baker"
+given = "Reginald"
+
+
+[[person.transaction]]
+date = "1930-04"
+type = "signed"
+join.name = "Columbia"
+note = "Columbia 1930-04"
+
+[[person.transaction]]
+date = "1931-05"
+type = "signed"
+join.name = "Decatur"
+note = "Decatur 1931-05"
+
+[[person.transaction]]
+date = "1931-06"
+type = "released"
+leave.name = "Decatur"
+note = "rel 1931-06"
+
+[[person.transaction]]
+date = "1931-06"
+type = "signed"
+join.name = "Waterloo"
+note = "Waterloo 1931-06"
+
+[[person.transaction]]
+date = "1931-09"
+type = "released"
+leave.name = "Waterloo"
+note = "rel 1931-09"
+
+[[person.transaction]]
+date = "1932-04"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1932-04"
+
+[[person.transaction]]
+date = "1932-04"
+type = "released"
+leave.name = "Selma"
+note = "rel 1932-04"
+
+[[person.transaction]]
+date = "1932-05"
+type = "signed"
+join.name = "Birmingham"
+note = "Birmingham 1932-05"
+
+[[person.transaction]]
+date = "1932-08"
+type = "released"
+leave.name = "Birmingham"
+note = "rel 1932-08"
+
+[[person.transaction]]
+date = "1933-05"
+type = "signed"
+join.name = "Richmond"
+note = "Richmond 1933-05"
+
+[[person.transaction]]
+date = "1933-07"
+type = "released"
+leave.name = "Richmond"
+note = "rel 1933-07"
+

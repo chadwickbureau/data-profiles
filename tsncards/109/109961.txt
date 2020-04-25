@@ -1,0 +1,216 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:109961"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/109961"
+title = "The Sporting News Player Contract Cards, ScanID: 1025020838"
+
+[person.name]
+last = "Kovach"
+given = "Steve Thomas"
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "71.75"
+weight = "180"
+
+[person.birth]
+date = "1926-05-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[[person.resides]]
+place.address = "159 India Street"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+dates = "1943-07/1946-03"
+
+
+[[person.transaction]]
+date = "1946-09"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Elmira"
+note = "for 1947"
+
+[[person.transaction]]
+date = "1947-04-14"
+type = "optioned"
+leave.name = "Elmira"
+join.name = "Pittsburg (KS)"
+note = "opt to Pittsburg (KS) 1947-04-14"
+
+[[person.transaction]]
+date = "1947-08-06"
+type = "disabled"
+leave.name = "Pittsburg (KS)"
+note = "disabled list 1947-08-06"
+
+[[person.transaction]]
+date = "1947-08-12"
+type = "reinstated"
+join.name = "Pittsburg (KS)"
+note = "rein 1947-08-12"
+
+[[person.transaction]]
+date = "1947-08-19"
+type = "recalled"
+leave.name = "Pittsburg (KS)"
+join.name = "Elmira"
+note = "opt recalled by Elmira 1947-08-19"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Elmira"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-01-30"
+type = "released"
+leave.name = "Elmira"
+join.name = "Aberdeen"
+note = "rel to Aberdeen 1948-01-30"
+
+[[person.transaction]]
+date = "1948-09-15"
+type = "released"
+leave.name = "Aberdeen"
+join.name = "Elmira"
+note = "rel to Elmira 1948-09-15"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Elmira"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-14"
+type = "released"
+leave.name = "Elmira"
+join.name = "Marshall"
+note = "rel to Marshall 1949-04-14"
+
+[[person.transaction]]
+date = "1949-10-12"
+type = "released"
+leave.name = "Marshall"
+join.name = "San Antonio"
+note = "rel to San Antonio 1949-10-12"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "San Antonio"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-04-10"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Wichita"
+note = "rel to Wichita 1950-04-10"
+
+[[person.transaction]]
+date = "1950-10-09"
+type = "released"
+leave.name = "Wichita"
+join.name = "Wichita Falls"
+note = "rel to Wichita Falls 1950-10-09"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Wichita Falls"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-04-17"
+type = "suspended"
+leave.name = "Wichita Falls"
+note = "1951-04-17"
+
+[[person.transaction]]
+date = "1951-06-01"
+type = "restricted"
+leave.name = "Wichita Falls"
+note = "restricted list 1951-06-01"
+
+[[person.transaction]]
+date = "1951-09-24"
+type = "released"
+leave.name = "Wichita Falls"
+join.name = "San Antonio"
+note = "rel to San Antonio 1951-09-24"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "San Antonio"
+
+[[person.transaction]]
+date = "1952-04-15"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Wichita"
+note = "rel to Wichita 1952-04-15"
+
+[[person.transaction]]
+date = "1952-04-15"
+type = "reinstated"
+join.name = "Wichita"
+note = "reins from restricted list 1952-04-15"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Wichita"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Wichita"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1954-04-27"
+type = "restricted"
+leave.name = "Wichita"
+note = "restricted list 1954-04-27"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Wichita"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1954-12-17"
+type = "released"
+leave.name = "Wichita"
+join.name = "Anderson"
+note = "rel to Anderson 1954-12-17"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Anderson"
+

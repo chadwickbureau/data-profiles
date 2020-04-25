@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10122"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10122"
+title = "The Sporting News Player Contract Cards, ScanID: 1007000104"
+
+[person.name]
+last = "Byham"
+given = "Smith Leroy"
+
+
+[[person.transaction]]
+date = "1951-02-27"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1951-02-27"
+
+[[person.transaction]]
+date = "1951-04-12"
+type = "released"
+leave.name = "Pine Bluff"
+note = "rel 1951-04-12"
+

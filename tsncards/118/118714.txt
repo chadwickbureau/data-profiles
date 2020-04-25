@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:118714"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/118714"
+title = "The Sporting News Player Contract Cards, ScanID: 1040001773"
+
+[person.name]
+last = "Schulz"
+given = "Larry Allen"
+
+[person.description]
+ancestry = "German-Swedish"
+position = "P"
+bats = "R"
+throws = "L"
+height = "72"
+weight = "185"
+
+[person.birth]
+date = "1938-09-30"
+place.country = "US"
+place.state = "MT"
+place.city = "Sheridan"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MT"
+place.city = "Sheridan"
+
+[[person.education]]
+school.type = "college"
+school.name = "Montana State University"
+
+
+[[person.transaction]]
+date = "1960-06-01"
+type = "signed"
+join.name = "Missoula"
+note = "Missoula 1960-06-01"
+
+[[person.transaction]]
+date = "1960-07-19"
+type = "released"
+leave.name = "Missoula"
+note = "rel 1960-07-19"
+

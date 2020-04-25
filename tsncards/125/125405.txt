@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:125405"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/125405"
+title = "The Sporting News Player Contract Cards, ScanID: 1046002985"
+
+[person.name]
+last = "Wade"
+given = "Burton Eugene"
+
+
+[[person.transaction]]
+date = "1952-10-05"
+type = "signed"
+join.name = "Paducah"
+note = "Paducah 1952-10-05"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Paducah"
+
+[[person.transaction]]
+date = "1953-04-07"
+type = "released"
+leave.name = "Paducah"
+note = "rel 1953-04-07"
+

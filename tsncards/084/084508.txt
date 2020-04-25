@@ -1,0 +1,147 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:84508"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/84508"
+title = "The Sporting News Player Contract Cards, ScanID: 1035004955"
+
+[person.name]
+last = "Pittman"
+given = "Gill (D)"
+
+[person.description]
+position = "OF-P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "170"
+
+[person.birth]
+date = "1890"
+
+[[person.resides]]
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+
+[[person.affiliation]]
+date = "1907"
+type = "player"
+team.name = "Jackson"
+team.location.country = "US"
+team.location.state = "TN"
+team.location.city = "Jackson"
+team.caliber = "semipro"
+
+
+[[person.transaction]]
+date = "1908"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1908"
+
+[[person.transaction]]
+date = "1909"
+type = "reserved"
+join.name = "Pine Bluff"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Newton"
+note = "Newton 1910"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Dallas"
+note = "Dallas 1911"
+
+[[person.transaction]]
+date = "1911-04"
+type = "released"
+leave.name = "Dallas"
+join.name = "Newton"
+note = "rel to Newton 1911-04"
+
+[[person.transaction]]
+date = "1911-08"
+type = "signed"
+join.name = "Beeville"
+note = "Beeville 1911-08"
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Great Bend"
+note = "Great Bend 1912"
+
+[[person.transaction]]
+date = "1913-02"
+type = "awarded"
+join.name = "Great Bend"
+note = "awarded to Great Bend by Nat. Bd. 1913-02"
+
+[[person.transaction]]
+date = "1913-04"
+type = "released"
+leave.name = "Great Bend"
+note = "rel 1913-04"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Stockton"
+note = "Stockton 1913-05"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Stockton"
+note = "res for 1914"
+
+[[person.transaction]]
+date = "1914-03"
+type = "released"
+leave.name = "Stockton"
+note = "rel 1914-03"
+
+[[person.transaction]]
+date = "1914"
+type = "signed"
+join.name = "Salt Lake"
+note = "Salt Lake 1914"
+
+[[person.transaction]]
+date = "1914-05"
+type = "suspended"
+join.name = "Salt Lake"
+note = "susp 1914-05"
+
+[[person.transaction]]
+date = "1921"
+type = "signed"
+join.name = "Dallas"
+note = "Dallas 1921"
+
+[[person.transaction]]
+date = "1921-03"
+type = "released"
+leave.name = "Dallas"
+note = "rel 1921-03"
+
+[[person.transaction]]
+date = "1921-06"
+type = "signed"
+join.name = "Bonham"
+note = "Bonham 1921-06"
+
+[[person.transaction]]
+date = "1922-03"
+type = "released"
+leave.name = "Bonham"
+note = "rel 1922-03"
+

@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154396"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154396"
+title = "The Sporting News Player Contract Cards, ScanID: 1030005853"
+
+[person.name]
+last = "Miller"
+given = "Horace L."
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "R"
+height = "71"
+weight = "178"
+
+[person.birth]
+date = "1892"
+
+[[person.resides]]
+place.country = "US"
+place.state = "CA"
+place.city = "Pasadena"
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Fresno"
+note = "Fresno 1913-05"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "York"
+note = "York 1914-07"
+
+[[person.transaction]]
+date = "1914-08"
+type = "released"
+leave.name = "York"
+note = "rel 1914-08"
+
+[[person.transaction]]
+date = "1914"
+type = "signed"
+join.name = "Portland"
+note = "Portland 1914"
+
+[[person.transaction]]
+date = "1915-02"
+type = "signed"
+join.name = "Spokane"
+note = "Spokane 1915-02"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Spokane"
+note = "rel 1915-04"
+

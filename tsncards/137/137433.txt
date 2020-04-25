@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:137433"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/137433"
+title = "The Sporting News Player Contract Cards, ScanID: 1030000667"
+
+[person.name]
+last = "McQuarrie"
+given = "Robert"
+
+
+[[person.transaction]]
+date = "1948-04-15"
+type = "signed"
+join.name = "Bloomingdale"
+note = "Bloomingdale 1948-04-15"
+
+[[person.transaction]]
+date = "1948-04-30"
+type = "released"
+leave.name = "Bloomingdale"
+note = "rel 1948-04-30"
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:160160"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/160160"
+title = "The Sporting News Player Contract Cards, ScanID: 1031006079"
+
+[person.name]
+last = "Morrow"
+given = "Jos. W."
+
+[person.description]
+position = "2B"
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Trenton"
+note = "Trenton 1914-03"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Chillicothe"
+note = "Chillicothe 1915-04"
+
+[[person.transaction]]
+date = "1915-06"
+type = "released"
+leave.name = "Chillicothe"
+note = "rel 1915-06"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Lexington"
+note = "Lexington 1915"
+

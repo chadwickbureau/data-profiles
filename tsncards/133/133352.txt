@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:133352"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/133352"
+title = "The Sporting News Player Contract Cards, ScanID: 1030003293"
+
+[person.name]
+last = "Mertz"
+given = "Lowell John"
+
+
+[[person.transaction]]
+date = "1941"
+type = "signed"
+join.name = "Cooleemee"
+note = "Cooleemee 1941"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Cooleemee"
+
+[[person.transaction]]
+date = "1942-01"
+type = "released"
+leave.name = "Cooleemee"
+join.name = "Johnson City"
+note = "rel to Johnson City 1942-01"
+
+[[person.transaction]]
+date = "1942-06"
+type = "released"
+leave.name = "Johnson City"
+note = "rel 1942-06"
+

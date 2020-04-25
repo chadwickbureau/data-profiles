@@ -1,0 +1,85 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:45308"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/45308"
+title = "The Sporting News Player Contract Cards, ScanID: 1010000019"
+
+[person.name]
+last = "Cotter"
+given = "H."
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "67"
+weight = "153"
+
+[[person.resides]]
+place.country = "US"
+place.state = "TN"
+place.city = "Chattanooga"
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Johnson City"
+note = "Johnson City 1911"
+
+[[person.transaction]]
+date = "1911-06"
+type = "released"
+leave.name = "Johnson City"
+note = "rel 1911-06"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Greensboro"
+note = "Greensboro 1915-04"
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Hagerstown"
+note = "Hagerstown 1915-06"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Hagerstown"
+note = "rel 1915-07"
+
+[[person.transaction]]
+date = "1916-03"
+type = "signed"
+join.name = "Chambersburg"
+note = "Chambersburg 1916-03"
+
+[[person.transaction]]
+date = "1916-06"
+type = "signed"
+join.name = "Winston-Salem"
+note = "Winston-Salem 1916-06"
+
+[[person.transaction]]
+date = "1917"
+type = "reserved"
+join.name = "Winston-Salem"
+note = "res for 1917"
+
+[[person.transaction]]
+date = "1917-03"
+type = "released"
+leave.name = "Winston-Salem"
+join.name = "Hanover"
+note = "rel to Hanover 1917-03"
+
+[[person.transaction]]
+date = "1917-04"
+type = "reserved"
+join.name = "Hanover"
+

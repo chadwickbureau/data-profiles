@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:55663"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/55663"
+title = "The Sporting News Player Contract Cards, ScanID: 1013004011"
+
+[person.name]
+last = "Elliott"
+given = "William Edward"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1945-04"
+type = "signed"
+join.name = "Thomasville (NC)"
+note = "Thomasville (NC) 1945-04"
+
+[[person.transaction]]
+date = "1945-04"
+type = "released"
+leave.name = "Thomasville (NC)"
+note = "rel 1945-04"
+

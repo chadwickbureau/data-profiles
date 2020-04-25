@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:77590"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/77590"
+title = "The Sporting News Player Contract Cards, ScanID: 1014004005"
+
+[person.name]
+last = "Festa"
+given = "Anthony"
+
+
+[[person.transaction]]
+date = "1947-06-26"
+type = "signed"
+join.name = "Elizabethton"
+note = "Elizabethton 1947-06-26"
+
+[[person.transaction]]
+date = "1947-07-10"
+type = "released"
+leave.name = "Elizabethton"
+join.name = "St. Augustine"
+note = "rel to St. Augustine 1947-07-10"
+
+[[person.transaction]]
+date = "1947-09-01"
+type = "disabled"
+leave.name = "St. Augustine"
+note = "disabled list 1947-09-01"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "St. Augustine"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-04-12"
+type = "released"
+leave.name = "St. Augustine"
+note = "rel 1948-04-12"
+

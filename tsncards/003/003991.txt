@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:3991"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/3991"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008399"
+
+[person.name]
+last = "Bays"
+given = "David Jacob"
+nick = "Bull"
+
+[person.description]
+ancestry = "Swedish"
+position = "C"
+bats = "R"
+throws = "R"
+married = "no"
+height = "72"
+weight = "175"
+
+[person.birth]
+date = "1930-01-17"
+place.country = "US"
+place.state = "IN"
+place.city = "South Bend"
+
+[[person.resides]]
+place.address = "Route #6, Box 190"
+place.country = "US"
+place.state = "MI"
+place.city = "Niles"
+
+
+[[person.transaction]]
+date = "1949-09-12"
+type = "signed"
+join.name = "Janesville"
+note = "Janesville 1949-09-12"
+
+[[person.transaction]]
+date = "1950-03-04"
+type = "released"
+leave.name = "Janesville"
+join.name = "Moultrie"
+note = "rel to Moultrie 1950-03-04"
+
+[[person.transaction]]
+date = "1950-04-01"
+type = "released"
+leave.name = "Moultrie"
+note = "rel 1950-04-01"
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:111003"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/111003"
+title = "The Sporting News Player Contract Cards, ScanID: 1043004867"
+
+[person.name]
+last = "Sules"
+given = "John Thomas"
+
+
+[[person.transaction]]
+date = "1950-03-27"
+type = "signed"
+join.name = "Fitzgerald"
+note = "Fitzgerald 1950-03-27"
+
+[[person.transaction]]
+date = "1950-05-13"
+type = "released"
+leave.name = "Fitzgerald"
+note = "rel 1950-05-13"
+
+[[person.transaction]]
+date = "1950-05-16"
+type = "signed"
+join.name = "St. Augustine"
+note = "St. Augustine 1950-05-16"
+
+[[person.transaction]]
+date = "1950-05-21"
+type = "released"
+leave.name = "St. Augustine"
+note = "rel 1950-05-21"
+

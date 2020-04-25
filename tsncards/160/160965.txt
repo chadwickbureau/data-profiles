@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:160965"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/160965"
+title = "The Sporting News Player Contract Cards, ScanID: 1031006437"
+
+[person.name]
+last = "Moseley"
+given = "C. S."
+
+[person.description]
+position = "SS"
+
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Chambersburg"
+note = "Chambersburg 1915-07"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Chambersburg"
+note = "res for 1916"
+

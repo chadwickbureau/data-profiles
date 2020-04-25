@@ -1,0 +1,102 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:95864"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/95864"
+title = "The Sporting News Player Contract Cards, ScanID: 1036001753"
+
+[person.name]
+last = "Price"
+given = "Charles Edward"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "69"
+weight = "150"
+
+[person.birth]
+date = "1933-01-18"
+place.country = "US"
+place.state = "NC"
+place.city = "New Bern"
+
+[[person.resides]]
+place.address = "808 So. Front Street"
+place.country = "US"
+place.state = "NC"
+place.city = "New Bern"
+
+
+[[person.transaction]]
+date = "1952-04-04"
+type = "signed"
+join.name = "Vidalia"
+note = "Vidalia 1952-04-04"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Vidalia"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-04-30"
+type = "disabled"
+leave.name = "Vidalia"
+note = "disabled 1953-04-30"
+
+[[person.transaction]]
+date = "1953-05-10"
+type = "reinstated"
+join.name = "Vidalia"
+note = "reinst 1953-05-10"
+
+[[person.transaction]]
+date = "1953-05-20"
+type = "disabled"
+leave.name = "Vidalia"
+note = "disabled 1953-05-20"
+
+[[person.transaction]]
+date = "1953-05-30"
+type = "reinstated"
+join.name = "Vidalia"
+note = "reinstated 1953-05-30"
+
+[[person.transaction]]
+date = "1953-06-18"
+type = "temporarily-inactive"
+leave.name = "Vidalia"
+note = "temp inactive 1953-06-18"
+
+[[person.transaction]]
+date = "1953-09-18"
+type = "national-defense-list"
+leave.name = "Vidalia"
+note = "nat defense list 1953-09-18"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Vidalia"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Vidalia"
+
+[[person.transaction]]
+date = "1955-06-09"
+type = "reinstated"
+join.name = "Vidalia"
+note = "reins nat defense list 1955-06-09"
+
+[[person.transaction]]
+date = "1955-06-23"
+type = "released"
+leave.name = "Vidalia"
+note = "rel 1955-06-23"
+

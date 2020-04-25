@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:64425"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/64425"
+title = "The Sporting News Player Contract Cards, ScanID: 1025017123"
+
+[person.name]
+last = "Haluska"
+given = "Rudolph Peter"
+nick = "Bugsi"
+
+[person.description]
+position = "OF"
+bats = "L"
+throws = "R"
+height = "74"
+weight = "168"
+
+[person.birth]
+date = "1931-04-29"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[[person.resides]]
+place.address = "1944 Franklin Street"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+
+[[person.transaction]]
+date = "1949-08-24"
+type = "signed"
+join.name = "Salina"
+note = "Salina 1949-08-24"
+
+[[person.transaction]]
+date = "1950-03-25"
+type = "released"
+leave.name = "Salina"
+note = "rel 1950-03-25"
+

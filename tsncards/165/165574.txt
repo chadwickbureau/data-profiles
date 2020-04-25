@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:165574"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/165574"
+title = "The Sporting News Player Contract Cards, ScanID: 1047001357"
+
+[person.name]
+last = "Webb"
+given = "Clyde M."
+
+
+[[person.transaction]]
+date = "1949-04-14"
+type = "signed"
+join.name = "Vicksburg"
+note = "Vicksburg 1949-04-14"
+
+[[person.transaction]]
+date = "1949-04-16"
+type = "optioned"
+leave.name = "Vicksburg"
+join.name = "Natchez"
+note = "opt to Natchez 1949-04-16"
+
+[[person.transaction]]
+date = "1949-05-14"
+type = "option-returned"
+leave.name = "Natchez"
+join.name = "Vicksburg"
+note = "opt ret to Vicksburg 1949-05-14"
+
+[[person.transaction]]
+date = "1949-05-14"
+type = "released"
+leave.name = "Vicksburg"
+note = "rel 1949-05-14"
+

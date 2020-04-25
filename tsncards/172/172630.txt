@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:172630"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/172630"
+title = "The Sporting News Player Contract Cards, ScanID: 1027004707"
+
+[person.name]
+last = "Macke"
+given = "John F."
+
+
+[[person.transaction]]
+date = "1949-06-22"
+type = "signed"
+join.name = "Lockport"
+note = "Lockport 1949-06-22"
+
+[[person.transaction]]
+date = "1949-07-28"
+type = "disabled"
+leave.name = "Lockport"
+note = "disabled list 1949-07-28"
+
+[[person.transaction]]
+date = "1949-08-17"
+type = "reinstated"
+join.name = "Lockport"
+note = "rein 1949-08-17"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Lockport"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-04-25"
+type = "released"
+leave.name = "Lockport"
+note = "rel 1950-04-25"
+

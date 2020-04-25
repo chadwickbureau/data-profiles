@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_202"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2020-04-24"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=clair-barth-johnson&pid=196053902&fhid=24652"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Johnson"
+use = "Bart"
+given = "Clair Barth"
+
+[person.death]
+date = "2020-04-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Palos Heights"
+

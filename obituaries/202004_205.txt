@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_205"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2020-04-24"
+url = "https://www.stltoday.com/sports/baseball/professional/former-cardinals-coach-rich-hacker-a-new-athens-product-like-whitey-herzog-dies-at-72/article_e1c3d47d-7755-5d53-afcf-9458e858d930.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Hacker"
+use = "Rich"
+given = "Rich"
+
+[person.death]
+date = "2020-04-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Fairview Heights"
+
+[[person.education]]
+school.name = "Southern Illinois University Carbondale"
+school.type = "college"
+
+

@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:23917"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/23917"
+title = "The Sporting News Player Contract Cards, ScanID: 1025010866"
+
+[person.name]
+last = "Clapp"
+given = "David Ray"
+
+[person.description]
+ancestry = "English-Irish-Dutch"
+position = "C"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "195"
+married = "1949-11-05 to Martha Louise Luttrell"
+
+[person.birth]
+date = "1929-08-30"
+place.country = "US"
+place.state = "TN"
+place.city = "Corryton"
+
+[[person.resides]]
+place.address = "Route 1"
+place.country = "US"
+place.state = "TN"
+place.city = "Corryton"
+
+
+[[person.transaction]]
+date = "1952-02-06"
+type = "signed"
+join.name = "Morristown"
+note = "Morristown 1952-02-06"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Morristown"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-08-07"
+type = "released"
+leave.name = "Morristown"
+note = "rel 1953-08-07"
+
+[[person.transaction]]
+date = "1953-08-07"
+type = "signed"
+join.name = "Knoxville"
+note = "Knoxville 1953-08-07"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Knoxville"
+note = "res for 1954"
+

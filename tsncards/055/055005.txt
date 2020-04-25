@@ -1,0 +1,92 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:55005"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/55005"
+title = "The Sporting News Player Contract Cards, ScanID: 1011002511"
+
+[person.name]
+last = "Davis"
+given = "Hazen E."
+
+[person.description]
+ancestry = "Irish-Welch"
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[person.birth]
+date = "1935-07-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Celina"
+
+[[person.resides]]
+place.address = "431 E. Fulton Street"
+place.country = "US"
+place.state = "OH"
+place.city = "Celina"
+
+
+[[person.transaction]]
+date = "1953-06-01"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1953-06-01"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Green Bay"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1953-12-22"
+type = "released"
+leave.name = "Green Bay"
+join.name = "Tifton"
+note = "rel to Tifton 1953-12-22"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Tifton"
+
+[[person.transaction]]
+date = "1954-05-10"
+type = "released"
+leave.name = "Tifton"
+join.name = "Jacksonville Beach"
+note = "rel to Jacksonville Beach 1954-05-10"
+
+[[person.transaction]]
+date = "1954-06-19"
+type = "optioned"
+leave.name = "Jacksonville Beach"
+join.name = "Andalusia"
+note = "opt to Andalusia 1954-06-19"
+
+[[person.transaction]]
+date = "1954-06-25"
+type = "option-returned"
+leave.name = "Andalusia"
+join.name = "Jacksonville Beach"
+note = "opt ret to Jacksonville Beach 1954-06-25"
+
+[[person.transaction]]
+date = "1954-07-01"
+type = "optioned"
+leave.name = "Jacksonville Beach"
+join.name = "Erie"
+note = "opt to Erie 1954-07-01"
+
+[[person.transaction]]
+date = "1954-08-04"
+type = "released"
+leave.name = "Erie"
+note = "rel 1954-08-04"
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:146261"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/146261"
+title = "The Sporting News Player Contract Cards, ScanID: 1043003515"
+
+[person.name]
+last = "Stremecki"
+given = "Alexander Michael"
+
+
+[[person.transaction]]
+date = "1951-07-24"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1951-07-24"
+
+[[person.transaction]]
+date = "1952-04-15"
+type = "released"
+leave.name = "Green Bay"
+join.name = "Fort Smith"
+note = "rel to Fort Smith 1952-04-15"
+
+[[person.transaction]]
+date = "1952-05-19"
+type = "released"
+leave.name = "Fort Smith"
+note = "rel 1952-05-19"
+

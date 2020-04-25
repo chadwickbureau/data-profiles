@@ -1,0 +1,238 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:146453"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/146453"
+title = "The Sporting News Player Contract Cards, ScanID: 1099023759"
+
+[person.name]
+last = "Smith"
+given = "George Francis"
+
+[person.description]
+ancestry = "Irish"
+position = "OF-3B-SS"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "190"
+
+[person.birth]
+date = "1931-07-19"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "3223 South Normal"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+dates = "1951-12-13/"
+
+
+[[person.transaction]]
+date = "1950-08-08"
+type = "signed"
+join.name = "Albany (GA)"
+note = "Albany (GA) 1950-08-08"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Albany (GA)"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Albany (GA)"
+note = "res for 1952"
+
+[[person.transaction]]
+date = "1951-12-13"
+type = "national-defense-list"
+leave.name = "Albany (GA)"
+note = "Nat Defense List 1951-12-13"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Albany (GA)"
+
+[[person.transaction]]
+date = "1954-01-11"
+type = "reinstated"
+join.name = "Albany (GA)"
+note = "rein 1954-01-11"
+
+[[person.transaction]]
+date = "1954-01-28"
+type = "released"
+leave.name = "Albany (GA)"
+join.name = "Joplin"
+note = "rel to Joplin 1954-01-28"
+
+[[person.transaction]]
+date = "1954-06-15"
+type = "temporarily-inactive"
+leave.name = "Joplin"
+note = "Temp inactive list 1954-06-15"
+
+[[person.transaction]]
+date = "1954-06-25"
+type = "reinstated"
+join.name = "Joplin"
+note = "rein 1954-06-25"
+
+[[person.transaction]]
+date = "1954-06-15"
+type = "temporarily-inactive"
+leave.name = "Joplin"
+note = "temp inactive list 1954-06-15"
+
+[[person.transaction]]
+date = "1954-09-20"
+type = "released"
+leave.name = "Joplin"
+join.name = "Winnipeg"
+note = "rel to Winnipeg 1954-09-20"
+
+[[person.transaction]]
+date = "1954-10-06"
+type = "released"
+leave.name = "Winnipeg"
+join.name = "Omaha"
+note = "rel to Omaha 1954-10-06"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Omaha"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1954-12-31"
+type = "released"
+leave.name = "Omaha"
+join.name = "Columbus (GA)"
+note = "rel to Columbus (GA) 1954-12-31"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Columbus (GA)"
+
+[[person.transaction]]
+date = "1955-04-16"
+type = "released"
+leave.name = "Columbus (GA)"
+join.name = "Winnipeg"
+note = "rel to Winnipeg 1955-04-16"
+
+[[person.transaction]]
+date = "1955-05-28"
+type = "released"
+leave.name = "Winnipeg"
+join.name = "Houston"
+note = "rel to Houston 1955-05-28"
+
+[[person.transaction]]
+date = "1955-05-28"
+type = "optioned"
+leave.name = "Houston"
+join.name = "Winnipeg"
+note = "opt to Winnipeg 1955-05-28"
+
+[[person.transaction]]
+date = "1955-08-18"
+type = "recalled"
+leave.name = "Winnipeg"
+join.name = "Houston"
+note = "rec by Houston 1955-08-18"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Houston"
+note = "res for 1956"
+
+[[person.transaction]]
+date = "1956-04-02"
+type = "released"
+leave.name = "Houston"
+join.name = "Sioux City"
+note = "rel to Sioux City 1956-04-02"
+
+[[person.transaction]]
+date = "1956-04-10"
+type = "optioned"
+leave.name = "Sioux City"
+join.name = "Beaumont"
+note = "opt to Beaumont 1956-04-10"
+
+[[person.transaction]]
+date = "1956-08-22"
+type = "recalled"
+leave.name = "Beaumont"
+join.name = "Sioux City"
+note = "rec by Sioux City 1956-08-22"
+
+[[person.transaction]]
+date = "1956-10-06"
+type = "released"
+leave.name = "Sioux City"
+join.name = "Winston-Salem"
+note = "rel to Winston-Salem 1956-10-06"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Winston-Salem"
+note = "res for 1957"
+
+[[person.transaction]]
+date = "1957-04-01"
+type = "suspended"
+leave.name = "Winston-Salem"
+note = "1957-04-01"
+
+[[person.transaction]]
+date = "1957-05-06"
+type = "disqualified"
+leave.name = "Winston-Salem"
+note = "disqualified list 1957-05-06"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Winston-Salem"
+
+[[person.transaction]]
+date = "1958-01-17"
+type = "reinstated"
+join.name = "Winston-Salem"
+note = "rein 1958-01-17"
+
+[[person.transaction]]
+date = "1958-01-23"
+type = "released"
+leave.name = "Winston-Salem"
+note = "rel 1958-01-23"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:4334"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/4334"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004173"
+
+[person.name]
+last = "Barbare"
+given = "M. P."
+
+
+[[person.transaction]]
+date = "1930"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1930"
+
+[[person.transaction]]
+date = "1930-07"
+type = "released"
+leave.name = "Talladega"
+note = "rel 1930-07"
+

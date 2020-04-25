@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:175365"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/175365"
+title = "The Sporting News Player Contract Cards, ScanID: 1028001639"
+
+[person.name]
+last = "Marion"
+given = "J. W."
+
+[person.description]
+position = "SS"
+married = "yes"
+
+[person.birth]
+date = "1891"
+place.country = "US"
+place.state = "SC"
+place.city = "Chester"
+
+[[person.resides]]
+place.country = "US"
+place.state = "SC"
+place.city = "Richburg"
+
+
+[[person.transaction]]
+date = "1912-04"
+type = "signed"
+join.name = "Columbia"
+note = "Columbia 1912-04"
+
+[[person.transaction]]
+date = "1915-02"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1915-02"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Charlotte"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Griffin"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Talladega"
+note = "Talladega 1915-05"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Talladega"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916-04"
+type = "suspended"
+join.name = "Talladega"
+note = "susp 1916-04"
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:141630"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/141630"
+title = "The Sporting News Player Contract Cards, ScanID: 1026002843"
+
+[person.name]
+last = "Lesiecki"
+given = "Robert Donald"
+
+[person.description]
+position = "1B"
+bats = "R"
+throws = "R"
+height = "75"
+weight = "183"
+
+[[person.resides]]
+place.country = "US"
+place.state = "OH"
+place.city = "Lorain"
+
+
+[[person.transaction]]
+date = "1952-10-22"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1952-10-22"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Green Bay"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-03-31"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1953-03-31"
+

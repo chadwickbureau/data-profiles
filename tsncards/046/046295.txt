@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:46295"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/46295"
+title = "The Sporting News Player Contract Cards, ScanID: 1025012384"
+
+[person.name]
+last = "Crosslin"
+given = "W. J."
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "68"
+weight = "150"
+
+[person.birth]
+date = "1908-04-20"
+place.country = "US"
+place.state = "TN"
+place.city = "Manchester"
+
+[[person.resides]]
+place.address = "207 W. Clinton St."
+place.country = "US"
+place.state = "AL"
+place.city = "Huntsville"
+
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "Huntsville"
+note = "Huntsville 1930-08"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Huntsville"
+

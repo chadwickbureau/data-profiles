@@ -1,0 +1,114 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:99963"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/99963"
+title = "The Sporting News Player Contract Cards, ScanID: 1099019709"
+
+[person.name]
+last = "Ramsey"
+given = "Bobby Lamontte"
+nick = "Choo Choo"
+
+[person.description]
+position = "1B"
+bats = "R"
+throws = "R"
+ancestry = "German-Irish"
+married = "yes"
+height = "72"
+weight = "195"
+
+[person.birth]
+date = "1931-02-18"
+place.country = "US"
+place.state = "TN"
+place.city = "Chattanooga"
+
+[[person.resides]]
+place.country = "US"
+place.state = "TN"
+place.city = "Ooltewah"
+
+
+[[person.transaction]]
+date = "1949-06-14"
+type = "signed"
+join.name = "Fond du Lac"
+note = "Fond du Lac 1949-06-14"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Fond du Lac"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-08-06"
+type = "released"
+leave.name = "Fond du Lac"
+join.name = "Independence"
+note = "rel to Independence 1950-08-06"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Independence"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-02-14"
+type = "released"
+leave.name = "Independence"
+join.name = "Joplin"
+note = "rel to Joplin 1951-02-14"
+
+[[person.transaction]]
+date = "1951-03-01"
+type = "national-defense-list"
+leave.name = "Joplin"
+note = "National Defense List 1951-03-01"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Joplin"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Joplin"
+
+[[person.transaction]]
+date = "1953-09-21"
+type = "released"
+leave.name = "Joplin"
+join.name = "Binghamton"
+note = "rel to Binghamton 1953-09-21"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Binghamton"
+
+[[person.transaction]]
+date = "1955-01-10"
+type = "reinstated"
+join.name = "Binghamton"
+note = "reins NDS list 1955-01-10"
+
+[[person.transaction]]
+date = "1955-04-15"
+type = "released"
+leave.name = "Binghamton"
+join.name = "Grand Forks"
+note = "rel to Grand Forks 1955-04-15"
+
+[[person.transaction]]
+date = "1955-05-25"
+type = "released"
+leave.name = "Grand Forks"
+note = "rel 1955-05-25"
+

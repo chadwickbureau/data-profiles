@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:94157"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/94157"
+title = "The Sporting News Player Contract Cards, ScanID: 1022002061"
+
+[person.name]
+last = "Jacavage"
+given = "Joseph B."
+
+
+[[person.transaction]]
+date = "1969-08-11"
+type = "signed"
+join.name = "Lakeland"
+note = "Lakeland 1969-08-11"
+
+[[person.transaction]]
+date = "1979"
+type = "reserved"
+join.name = "Lakeland"
+note = "for 1979"
+
+[[person.transaction]]
+date = "1970-03-16"
+type = "released"
+leave.name = "Lakeland"
+note = "rel 1970-03-16"
+

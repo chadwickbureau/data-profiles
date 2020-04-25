@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:139596"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/139596"
+title = "The Sporting News Player Contract Cards, ScanID: 1031001403"
+
+[person.name]
+last = "Mitternacht"
+given = "C. C."
+
+[person.description]
+position = "3B"
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1914-03"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1915"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Gainesville"
+note = "Gainesville 1915-07"
+

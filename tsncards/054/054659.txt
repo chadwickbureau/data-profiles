@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:54659"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/54659"
+title = "The Sporting News Player Contract Cards, ScanID: 1012004483"
+
+[person.name]
+last = "Dozier"
+given = "Perry"
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Americus"
+note = "rel 1915-04"
+

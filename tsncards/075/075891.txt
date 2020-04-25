@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:75891"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/75891"
+title = "The Sporting News Player Contract Cards, ScanID: 1019001715"
+
+[person.name]
+last = "Harmsen"
+given = "Harold Frederick"
+
+[person.description]
+position = "2B"
+bats = "L"
+throws = "R"
+height = "73.5"
+weight = "175"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Steeleville"
+
+
+[[person.transaction]]
+date = "1949-02-21"
+type = "signed"
+join.name = "Hamilton"
+note = "Hamilton 1949-02-21"
+
+[[person.transaction]]
+date = "1949-04-05"
+type = "released"
+leave.name = "Hamilton"
+note = "rel 1949-04-05"
+
+[[person.transaction]]
+date = "1949-04-30"
+type = "signed"
+join.name = "Big Stone Gap"
+note = "Big Stone Gap 1949-04-30"
+
+[[person.transaction]]
+date = "1949-05-02"
+type = "released"
+leave.name = "Big Stone Gap"
+note = "rel 1949-05-02"
+

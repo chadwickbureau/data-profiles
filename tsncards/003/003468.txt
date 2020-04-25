@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:3468"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/3468"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005405"
+
+[person.name]
+last = "Bailey"
+given = "John"
+
+
+[[person.transaction]]
+date = "1926-06"
+type = "signed"
+join.name = "Haverhill"
+note = "Haverhill 1926-06"
+
+[[person.transaction]]
+date = "1927-07"
+type = "reserved"
+join.name = "Haverhill"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Haverhill"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-06"
+type = "signed"
+join.name = "Haverhill"
+note = "Haverhill 1928-06"
+
+[[person.transaction]]
+date = "1928-06"
+type = "released"
+leave.name = "Haverhill"
+note = "rel 1928-06"
+

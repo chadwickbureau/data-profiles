@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:12504"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/12504"
+title = "The Sporting News Player Contract Cards, ScanID: 1005000209"
+
+[person.name]
+last = "Bope"
+given = "Lawrence"
+
+
+[[person.transaction]]
+date = "1924-06"
+type = "signed"
+join.name = "Grand Island"
+note = "Grand Island 1924-06"
+
+[[person.transaction]]
+date = "1924-09"
+type = "signed"
+join.name = "Marshalltown"
+note = "Marshalltown 1924-09"
+
+[[person.transaction]]
+date = "1925-05"
+type = "reserved"
+join.name = "Marshalltown"
+
+[[person.transaction]]
+date = "1925"
+type = "signed"
+join.name = "Des Moines"
+note = "Des Moines 1925"
+
+[[person.transaction]]
+date = "1925-06"
+type = "signed"
+join.name = "Marshalltown"
+note = "Marshalltown 1925-06"
+
+[[person.transaction]]
+date = "1925-08"
+type = "released"
+leave.name = "Marshalltown"
+note = "rel 1925-08"
+
+[[person.transaction]]
+date = "1927-07"
+type = "signed"
+join.name = "Charleroi"
+note = "Charleroi 1927-07"
+
+[[person.transaction]]
+date = "1927-10"
+type = "signed"
+join.name = "Clarksburg"
+note = "Clarksburg 1927-10"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Clarksburg"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-02"
+type = "released"
+leave.name = "Clarksburg"
+note = "rel 1928-02"
+

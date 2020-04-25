@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130870"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130870"
+title = "The Sporting News Player Contract Cards, ScanID: 1027002727"
+
+[person.name]
+last = "Ludwig"
+given = "Winfield"
+nick = "Lou"
+
+[person.description]
+position = "3B"
+bats = "L"
+throws = "R"
+height = "70"
+weight = "175"
+
+[person.birth]
+date = "1925-01-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[[person.resides]]
+place.address = "613 W. Wyomissing Blvd"
+place.country = "US"
+place.state = "PA"
+place.city = "West Lawn"
+
+
+[[person.transaction]]
+date = "1949-10-31"
+type = "signed"
+join.name = "Red Springs"
+note = "Red Springs 1949-10-31"
+
+[[person.transaction]]
+date = "1950-05-04"
+type = "released"
+leave.name = "Red Springs"
+note = "rel 1950-05-04"
+

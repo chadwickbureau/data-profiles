@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:88945"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/88945"
+title = "The Sporting News Player Contract Cards, ScanID: 1025018370"
+
+[person.name]
+last = "Hodge"
+given = "Clarence John"
+suffix = "Jr."
+nick = "Bud"
+
+[person.description]
+position = "OF"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "73.5"
+weight = "174"
+
+[person.birth]
+date = "1926-02-04"
+place.country = "US"
+place.state = "MI"
+place.city = "Port Huron"
+
+[[person.resides]]
+place.address = "1218 7th St."
+place.country = "US"
+place.state = "MI"
+place.city = "Port Huron"
+
+
+[[person.transaction]]
+date = "1946-07"
+type = "signed"
+join.name = "Albany GA"
+note = "Albany GA 1946-07"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Albany GA"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-03"
+type = "released"
+leave.name = "Albany GA"
+note = "rel 1947-04-03"
+

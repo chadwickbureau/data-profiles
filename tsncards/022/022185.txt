@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:22185"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22185"
+title = "The Sporting News Player Contract Cards, ScanID: 1002006051"
+
+[person.name]
+last = "Baker"
+given = "Orville Fred"
+
+[person.description]
+position = "IF"
+bats = "L"
+throws = "R"
+height = "69.5"
+weight = "165"
+
+[person.birth]
+date = "1915-12-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Libertyville"
+
+[[person.resides]]
+place.address = "532 N. 2nd"
+place.country = "US"
+place.state = "IL"
+place.city = "Libertyville"
+
+
+[[person.transaction]]
+date = "1933-06"
+type = "signed"
+join.name = "Rock Island"
+note = "Rock Island 1933-06"
+
+[[person.transaction]]
+date = "1933-07"
+type = "released"
+leave.name = "Rock Island"
+note = "rel 1933-07"
+
+[[person.transaction]]
+date = "1933-10"
+type = "reinstated"
+join.name = "Rock Island"
+note = "rein 1933-10"
+
+[[person.transaction]]
+date = "1934"
+type = "reserved"
+join.name = "Rock Island"
+
+[[person.transaction]]
+date = "1934-06"
+type = "released"
+leave.name = "Rock Island"
+note = "rel 1934-06"
+
+[[person.transaction]]
+date = "1935-06"
+type = "signed"
+join.name = "Dayton"
+note = "Dayton 1935-06"
+
+[[person.transaction]]
+date = "1936"
+type = "reserved"
+join.name = "Dayton"
+
+[[person.transaction]]
+date = "1936-02"
+type = "released"
+leave.name = "Dayton"
+note = "rel 1936-02"
+

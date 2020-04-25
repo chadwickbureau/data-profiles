@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:3893"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/3893"
+title = "The Sporting News Player Contract Cards, ScanID: 1003000026"
+
+[person.name]
+last = "Barker"
+given = "William Carl"
+
+
+[[person.transaction]]
+date = "1950-06-26"
+type = "signed"
+join.name = "LaGrange"
+note = "LaGrange 1950-06-26"
+
+[[person.transaction]]
+date = "1950-08-07"
+type = "released"
+leave.name = "LaGrange"
+note = "rel 1950-08-07"
+
+[[person.transaction]]
+date = "1950-11-02"
+type = "signed"
+join.name = "Newark (OH)"
+note = "Newark (OH) 1950-11-02"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Newark (OH)"
+
+[[person.transaction]]
+date = "1951-05-21"
+type = "released"
+leave.name = "Newark (OH)"
+note = "rel 1951-05-21"
+

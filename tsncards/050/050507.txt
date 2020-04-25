@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:50507"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/50507"
+title = "The Sporting News Player Contract Cards, ScanID: 1009005484"
+
+[person.name]
+last = "Corbett"
+given = "G. L."
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Cordele"
+note = "Cordele 1913-05"
+
+[[person.transaction]]
+date = "1915-06"
+type = "signed"
+join.name = "Valdosta"
+note = "Valdosta 1915-06"
+

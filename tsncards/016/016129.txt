@@ -1,0 +1,109 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16129"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16129"
+title = "The Sporting News Player Contract Cards, ScanID: 1025009336"
+
+[person.name]
+last = "Brown"
+given = "H. R. Harold"
+
+[person.description]
+position = "P"
+throws = "R"
+
+[[person.resides]]
+place.country = "US"
+place.state = "SD"
+place.city = "Woonsocket"
+
+
+[[person.transaction]]
+date = "1928"
+type = "signed"
+join.name = "Laurel"
+note = "Laurel 1928"
+
+[[person.transaction]]
+date = "1928-06"
+type = "released"
+leave.name = "Laurel"
+join.name = "Danville IL"
+note = "rel to Danville IL 1928-06"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Danville IL"
+
+[[person.transaction]]
+date = "1929"
+type = "signed"
+join.name = "St. Louis NL"
+note = "St. Louis NL 1929"
+
+[[person.transaction]]
+date = "1929-03"
+type = "returned"
+leave.name = "St. Louis NL"
+join.name = "Danville IL"
+note = "ret to Danville IL 1929-03"
+
+[[person.transaction]]
+date = "1929-06"
+type = "released"
+leave.name = "Danville IL"
+join.name = "Laurel"
+note = "rel to Laurel 1929-06"
+
+[[person.transaction]]
+date = "1929-09"
+type = "returned"
+leave.name = "Laurel"
+join.name = "Danville"
+note = "ret to Danville 1929-09"
+
+[[person.transaction]]
+date = "1929-09"
+type = "released"
+leave.name = "Danville"
+join.name = "Shawnee"
+note = "rel to Shawnee 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Shawnee"
+
+[[person.transaction]]
+date = "1930-06"
+type = "signed"
+join.name = "Independence"
+note = "Independence 1930-06"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Independence"
+note = "rel 1930-08"
+
+[[person.transaction]]
+date = "1930-09"
+type = "signed"
+join.name = "Omaha"
+note = "Omaha 1930-09"
+
+[[person.transaction]]
+date = "1931"
+type = "reserved"
+join.name = "Omaha"
+
+[[person.transaction]]
+date = "1931-04"
+type = "released"
+leave.name = "Omaha"
+note = "rel 1931-04"
+

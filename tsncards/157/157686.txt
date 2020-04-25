@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:157686"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/157686"
+title = "The Sporting News Player Contract Cards, ScanID: 1031006245"
+
+[person.name]
+last = "Morton"
+given = "Bert"
+
+[person.description]
+position = "2B"
+
+
+[[person.transaction]]
+date = "1909"
+type = "signed"
+join.name = "Nashville"
+note = "Nashville 1909"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Winchester"
+note = "Winchester 1910"
+
+[[person.transaction]]
+date = "1910-06"
+type = "released"
+leave.name = "Winchester"
+note = "rel 1910-06"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1911"
+
+[[person.transaction]]
+date = "1911-05"
+type = "released"
+leave.name = "Anniston"
+note = "rel 1911-05"
+
+[[person.transaction]]
+date = "1913-03"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1913-03"
+
+[[person.transaction]]
+date = "1913-04"
+type = "released"
+leave.name = "Selma"
+note = "rel 1913-04"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1913-05"
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Albany (GA)"
+note = "Albany (GA) 1913-05"
+
+[[person.transaction]]
+date = "1915"
+type = "signed"
+join.name = "Anniston"
+note = "Anniston 1915"
+

@@ -1,0 +1,109 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:57054"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/57054"
+title = "The Sporting News Player Contract Cards, ScanID: 1013005021"
+
+[person.name]
+last = "Engle"
+given = "Geo. M."
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "69"
+weight = "155"
+
+[person.birth]
+date = "1880"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.death]
+date = "1962-02-27"
+place.country = "US"
+place.state = "WA"
+place.city = "Seattle"
+
+
+[[person.transaction]]
+date = "1901"
+type = "signed"
+join.name = "Portland"
+note = "Portland 1901"
+
+[[person.transaction]]
+date = "1909"
+type = "signed"
+join.name = "Seattle"
+note = "Seattle 1909"
+
+[[person.transaction]]
+date = "1910"
+type = "reserved"
+join.name = "Seattle"
+
+[[person.transaction]]
+date = "1910-05"
+type = "signed"
+join.name = "susp."
+note = "susp. 1910-05"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Vancouver"
+note = "Vancouver 1910"
+
+[[person.transaction]]
+date = "1911"
+type = "reserved"
+join.name = "Vancouver"
+
+[[person.transaction]]
+date = "1910-08"
+type = "reinstated"
+join.name = "Vancouver"
+note = "reins 1910-08"
+
+[[person.transaction]]
+date = "1915-01"
+type = "signed"
+join.name = "Aberdeen"
+note = "Aberdeen 1915-01"
+
+[[person.transaction]]
+date = "1915-01"
+type = "signed"
+join.name = "Vancouver"
+note = "Vancouver 1915-01"
+
+[[person.transaction]]
+date = "1916-04"
+type = "signed"
+join.name = "Great Falls"
+note = "Great Falls 1916-04"
+
+[[person.transaction]]
+date = "1916-06"
+type = "released"
+leave.name = "Great Falls"
+note = "rel 1916-06"
+
+[[person.transaction]]
+date = "1918-05"
+type = "signed"
+join.name = "Seattle"
+note = "Seattle 1918-05"
+
+[[person.transaction]]
+date = "1918-07"
+type = "released"
+leave.name = "Seattle"
+note = "rel 1918-07"
+

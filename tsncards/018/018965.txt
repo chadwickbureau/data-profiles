@@ -1,0 +1,138 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18965"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18965"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008697"
+
+[person.name]
+last = "Bordes"
+given = "John L."
+
+[person.description]
+position = "INF"
+bats = "R"
+throws = "R"
+height = "68"
+weight = "149"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "1136 Oak St."
+place.country = "US"
+place.state = "CA"
+place.city = "Colusa"
+
+
+[[person.transaction]]
+date = "semipro"
+type = "signed"
+join.name = "Chicago"
+note = "Chicago semipro"
+
+[[person.transaction]]
+date = "1927-04"
+type = "signed"
+join.name = "Springfield IL"
+note = "Springfield IL 1927-04"
+
+[[person.transaction]]
+date = "1927-08"
+type = "signed"
+join.name = "Oakland"
+note = "Oakland 1927-08"
+
+[[person.transaction]]
+date = "1927-11"
+type = "signed"
+join.name = "Springfield"
+note = "Springfield 1927-11"
+
+[[person.transaction]]
+date = "1928-04"
+type = "signed"
+join.name = "Ogden"
+note = "Ogden 1928-04"
+
+[[person.transaction]]
+date = "1928-05"
+type = "released"
+leave.name = "Ogden"
+join.name = "Moline"
+note = "rel to Moline 1928-05"
+
+[[person.transaction]]
+date = "1928-07"
+type = "released"
+leave.name = "Moline"
+join.name = "Springfield IL"
+note = "rel to Springfield IL 1928-07"
+
+[[person.transaction]]
+date = "1929"
+type = "reserved"
+join.name = "Springfield IL"
+note = "res for 1929"
+
+[[person.transaction]]
+date = "1929-04"
+type = "released"
+leave.name = "Springfield IL"
+join.name = "Globe"
+note = "rel to Globe 1929-04"
+
+[[person.transaction]]
+date = "1929-06"
+type = "released"
+leave.name = "Globe"
+join.name = "Wheeling"
+note = "rel to Wheeling 1929-06"
+
+[[person.transaction]]
+date = "1929-09"
+type = "released"
+leave.name = "Wheeling"
+join.name = "Springfield"
+note = "rel to Springfield 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Springfield"
+
+[[person.transaction]]
+date = "1930-04"
+type = "voluntarily-retired"
+leave.name = "Springfield"
+note = "vol ret 1930-04"
+
+[[person.transaction]]
+date = "1930-08"
+type = "released"
+leave.name = "Springfield"
+note = "rel 1930-08"
+
+[[person.transaction]]
+date = "by Globe to El Paso 1930-05"
+type = "released"
+leave.name = "Springfield"
+note = "rel by Globe to El Paso 1930-05"
+
+[[person.transaction]]
+date = "1930-08"
+type = "signed"
+join.name = "Wheeling"
+note = "Wheeling 1930-08"
+
+[[person.transaction]]
+date = "1931-03"
+type = "released"
+leave.name = "Wheeling"
+note = "rel 1931-03"
+

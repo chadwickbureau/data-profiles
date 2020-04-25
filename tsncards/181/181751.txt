@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:181751"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/181751"
+title = "The Sporting News Player Contract Cards, ScanID: 1041001787"
+
+[person.name]
+last = "Shuman"
+given = "William"
+nick = "Dutch"
+
+
+[[person.transaction]]
+date = "1913-02"
+type = "signed"
+join.name = "Jacksonville"
+note = "Jacksonville 1913-02"
+
+[[person.transaction]]
+date = "?"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross ?"
+
+[[person.transaction]]
+date = "1913-05"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1913-05"
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross 1914-03"
+
+[[person.transaction]]
+date = "1914-03"
+type = "released"
+leave.name = "Waycross"
+note = "rel 1914-03"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Brunswick"
+note = "Brunswick 1914-04"
+
+[[person.transaction]]
+date = "1914-06"
+type = "released"
+leave.name = "Brunswick"
+note = "rel 1914-06"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Americus"
+note = "Americus 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "suspended"
+join.name = "Americus"
+note = "susp 1915-05"
+

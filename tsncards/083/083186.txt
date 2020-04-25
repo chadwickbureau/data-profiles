@@ -1,0 +1,167 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:83186"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/83186"
+title = "The Sporting News Player Contract Cards, ScanID: 1099019559"
+
+[person.name]
+last = "Quinn"
+given = "Robert"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "68.5"
+
+[person.birth]
+date = "1933"
+
+
+[[person.transaction]]
+date = "1955-05-24"
+type = "signed"
+join.name = "Lancaster"
+note = "Lancaster 1955-05-24"
+
+[[person.transaction]]
+date = "1955-05-28"
+type = "optioned"
+leave.name = "Lancaster"
+join.name = "Burlington (VT)"
+note = "opt to Burlington (VT) 1955-05-28"
+
+[[person.transaction]]
+date = "1955-08-19"
+type = "recalled"
+leave.name = "Burlington (VT)"
+join.name = "Lancaster"
+note = "rec by Lancaster 1955-08-19"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Lancaster"
+note = "res for 1956"
+
+[[person.transaction]]
+date = "1956-01-05"
+type = "released"
+leave.name = "Lancaster"
+join.name = "Abilene"
+note = "rel to Abilene 1956-01-05"
+
+[[person.transaction]]
+date = "1956-04-11"
+type = "released"
+leave.name = "Abilene"
+join.name = "Columbia"
+note = "rel to Columbia 1956-04-11"
+
+[[person.transaction]]
+date = "1956-05-04"
+type = "released"
+leave.name = "Columbia"
+join.name = "Abilene"
+note = "rel to Abilene 1956-05-04"
+
+[[person.transaction]]
+date = "1956-06-03"
+type = "disabled"
+leave.name = "Abilene"
+note = "disabled list 1956-06-03"
+
+[[person.transaction]]
+date = "1956-06-16"
+type = "reinstated"
+join.name = "Abilene"
+note = "reins 1956-06-16"
+
+[[person.transaction]]
+date = "1956-06-16"
+type = "optioned"
+leave.name = "Abilene"
+join.name = "Pocatello"
+note = "opt to Pocatello 1956-06-16"
+
+[[person.transaction]]
+date = "1956-07-28"
+type = "option-transferred"
+leave.name = "Pocatello"
+join.name = "Crowley"
+note = "opt trans to Crowley 1956-07-28"
+
+[[person.transaction]]
+date = "1956-08-01"
+type = "suspended"
+leave.name = "Crowley"
+note = "1956-08-01"
+
+[[person.transaction]]
+date = "1956-09-06"
+type = "reinstated"
+join.name = "Crowley"
+note = "reins 1956-09-06"
+
+[[person.transaction]]
+date = "1956-09-20"
+type = "returned"
+leave.name = "Crowley"
+join.name = "Abilene"
+note = "ret to Abilene 1956-09-20"
+
+[[person.transaction]]
+date = "1956-09-20"
+type = "disqualified"
+leave.name = "Abilene"
+note = "disqualified list 1956-09-20"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Abilene"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Abilene"
+
+[[person.transaction]]
+date = "1957-12-13"
+type = "released"
+leave.name = "Abilene"
+join.name = "Rochester (MN)"
+note = "rel to Rochester (MN) 1957-12-13"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Rochester (MN)"
+
+[[person.transaction]]
+date = "1958-12-18"
+type = "released"
+leave.name = "Rochester (MN)"
+join.name = "Sioux City"
+note = "rel to Sioux City 1958-12-18"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Sioux City"
+
+[[person.transaction]]
+date = "1959-08-04"
+type = "reinstated"
+join.name = "Sioux City"
+note = "reins disqual list 1959-08-04"
+
+[[person.transaction]]
+date = "1959-08-04"
+type = "released"
+leave.name = "Sioux City"
+note = "rel 1959-08-04"
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_203"
+
+[[person.meta.citation]]
+title = "Paul A. Shaker Funeral Home"
+date = "2020-04-24"
+url = "https://www.tributearchive.com/obituaries/12751623/Stephen-L-Dalkowski-Jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-24"
+
+[person.name]
+last = "Dalkowski"
+use = "Steve"
+given = "Stephen L."
+
+[person.birth]
+date = "1939-06-03"
+
+[person.death]
+date = "2020-04-19"
+place.country = "US"
+place.state = "CT"
+place.city = "New Britain"
+
+[[person.education]]
+school.name = "New Britain HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "New Britain"
+
+

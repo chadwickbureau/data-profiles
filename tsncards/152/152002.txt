@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:152002"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/152002"
+title = "The Sporting News Player Contract Cards, ScanID: 1029004011"
+
+[person.name]
+last = "McFarlin"
+given = "J. F."
+
+[person.description]
+position = "P"
+height = "71"
+weight = "160"
+
+[person.birth]
+date = "1885"
+
+
+[[person.transaction]]
+date = "1909"
+type = "signed"
+join.name = "Greenville"
+note = "Greenville 1909"
+
+[[person.transaction]]
+date = "1910"
+type = "reserved"
+join.name = "Greenville"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1911"
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Greenville"
+note = "Greenville 1912"
+
+[[person.transaction]]
+date = "1913-06"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1913-06"
+

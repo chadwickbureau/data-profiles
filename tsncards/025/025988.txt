@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:25988"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/25988"
+title = "The Sporting News Player Contract Cards, ScanID: 1025010895"
+
+[person.name]
+last = "Clark"
+given = "James Carrington"
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+married = "no"
+height = "70"
+weight = "170"
+
+[person.birth]
+date = "1926-08-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Chester"
+
+[[person.resides]]
+place.address = "1124 Upland St."
+place.country = "US"
+place.state = "PA"
+place.city = "Chester"
+
+
+[[person.transaction]]
+date = "1944-01"
+type = "signed"
+join.name = "Hartford"
+note = "Hartford 1944-01"
+

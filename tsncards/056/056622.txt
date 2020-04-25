@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:56622"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/56622"
+title = "The Sporting News Player Contract Cards, ScanID: 1011002955"
+
+[person.name]
+last = "Davis"
+given = "Richard Lee"
+
+
+[[person.transaction]]
+date = "1948-12-03"
+type = "signed"
+join.name = "Seminole"
+note = "Seminole 1948-12-03"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Seminole"
+
+[[person.transaction]]
+date = "1949-04-13"
+type = "released"
+leave.name = "Seminole"
+note = "rel 1949-04-13"
+

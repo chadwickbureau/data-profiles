@@ -1,0 +1,86 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:17435"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17435"
+title = "The Sporting News Player Contract Cards, ScanID: 1025012130"
+
+[person.name]
+last = "Bonker"
+given = "Fred Henry"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "71"
+weight = "185"
+
+[person.birth]
+date = "1908-01-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Garfield Heights"
+
+[[person.resides]]
+place.address = "4676 Turney Rd."
+place.country = "US"
+place.state = "OH"
+place.city = "Garfield Heights"
+
+
+[[person.transaction]]
+date = "1929-09"
+type = "signed"
+join.name = "Minneapolis"
+note = "Minneapolis 1929-09"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Minneapolis"
+
+[[person.transaction]]
+date = "1930-05"
+type = "signed"
+join.name = "Monroe"
+note = "Monroe 1930-05"
+
+[[person.transaction]]
+date = "1930-05"
+type = "released"
+leave.name = "Monroe"
+note = "rel 1930-05"
+
+[[person.transaction]]
+date = "1930-07"
+type = "signed"
+join.name = "Fort Wayne"
+note = "Fort Wayne 1930-07"
+
+[[person.transaction]]
+date = "1930-09"
+type = "released"
+leave.name = "Fort Wayne"
+note = "rel 1930-09"
+
+[[person.transaction]]
+date = "1931-03"
+type = "signed"
+join.name = "Wheeling"
+note = "Wheeling 1931-03"
+
+[[person.transaction]]
+date = "1931-06"
+type = "released"
+leave.name = "Wheeling"
+note = "rel 1931-06"
+
+[[person.transaction]]
+date = "1931-09"
+type = "signed"
+join.name = "New Orleans"
+note = "New Orleans 1931-09"
+

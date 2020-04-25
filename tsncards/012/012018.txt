@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:12018"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/12018"
+title = "The Sporting News Player Contract Cards, ScanID: 1007004522"
+
+[person.name]
+last = "Carpenter"
+given = "John William"
+
+
+[[person.transaction]]
+date = "1946-07"
+type = "signed"
+join.name = "Newnan"
+note = "Newnan 1946-07"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Newnan"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-05-22"
+type = "released"
+leave.name = "Newnan"
+note = "rel 1947-05-22"
+

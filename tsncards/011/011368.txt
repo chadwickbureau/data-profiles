@@ -1,0 +1,231 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11368"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11368"
+title = "The Sporting News Player Contract Cards, ScanID: 1025008073"
+
+[person.name]
+last = "Baker"
+given = "Ellsworth Jerome"
+use = "Al"
+
+[person.description]
+ancestry = "German"
+position = "IF"
+bats = "R"
+throws = "R"
+married = "Frances Inge, July 15, 1940"
+height = "70"
+weight = "180"
+
+[person.birth]
+date = "1912-11-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "c/o City Farms"
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+
+[[person.transaction]]
+date = "1937"
+type = "signed"
+join.name = "Akron"
+note = "Akron 1937"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "Akron"
+
+[[person.transaction]]
+date = "1938"
+type = "released"
+leave.name = "Akron"
+join.name = "Norfolk VA"
+note = "rel to Norfolk VA 1938"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1940"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1940-08"
+type = "released"
+leave.name = "Norfolk VA"
+join.name = "Augusta"
+note = "rel to Augusta 1940-08"
+
+[[person.transaction]]
+date = "1940-09"
+type = "optioned"
+leave.name = "Augusta"
+join.name = "Akron"
+note = "opt to Akron 1940-09"
+
+[[person.transaction]]
+date = "1940-09"
+type = "recalled"
+leave.name = "Akron"
+join.name = "Augusta"
+note = "rec by Augusta 1940-09"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Augusta"
+
+[[person.transaction]]
+date = "1941-01"
+type = "released"
+leave.name = "Augusta"
+join.name = "Akron"
+note = "rel to Akron 1941-01"
+
+[[person.transaction]]
+date = "1941-09"
+type = "suspended"
+join.name = "Akron"
+note = "susp 1941-09"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Akron"
+
+[[person.transaction]]
+date = "1942-02"
+type = "released"
+leave.name = "Akron"
+join.name = "Norfolk VA"
+note = "rel to Norfolk VA 1942-02"
+
+[[person.transaction]]
+date = "1942-03"
+type = "voluntarily-retired"
+leave.name = "Norfolk VA"
+note = "vol ret 1942-03"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Norfolk VA"
+
+[[person.transaction]]
+date = "1944-08"
+type = "reinstated"
+join.name = "Norfolk VA"
+note = "rein 1944-08"
+
+[[person.transaction]]
+date = "1944-09"
+type = "released"
+leave.name = "Norfolk VA"
+join.name = "Kansas City"
+note = "rel to Kansas City 1944-09"
+
+[[person.transaction]]
+date = "1945"
+type = "reserved"
+join.name = "Kansas City"
+note = "res for 1945"
+
+[[person.transaction]]
+date = "1945-01"
+type = "released"
+leave.name = "Kansas City"
+join.name = "Newark NJ"
+note = "rel to Newark NJ 1945-01"
+
+[[person.transaction]]
+date = "1945-03"
+type = "optioned"
+leave.name = "Newark NJ"
+join.name = "Norfolk VA"
+note = "opt to Norfolk VA 1945-03"
+
+[[person.transaction]]
+date = "1945-06"
+type = "released"
+leave.name = "Norfolk VA"
+join.name = "Norfolk"
+note = "rel to Norfolk 1945-06"
+
+[[person.transaction]]
+date = "1946"
+type = "reserved"
+join.name = "Norfolk"
+note = "res for 1946"
+
+[[person.transaction]]
+date = "1946-05"
+type = "suspended"
+join.name = "Norfolk"
+note = "susp 1946-05"
+
+[[person.transaction]]
+date = "1946-06"
+type = "reinstated"
+join.name = "Norfolk"
+note = "rein 1946-06"
+
+[[person.transaction]]
+date = "1946-07"
+type = "released"
+leave.name = "Norfolk"
+note = "rel 1946-07"
+
+[[person.transaction]]
+date = "1947-07-04"
+type = "signed"
+join.name = "Norfolk"
+note = "Norfolk 1947-07-04"
+
+[[person.transaction]]
+date = "1947-07-30"
+type = "disabled"
+leave.name = "Norfolk"
+note = "disabled list 1947-07-30"
+
+[[person.transaction]]
+date = "1947-08-03"
+type = "reinstated"
+join.name = "Norfolk"
+note = "rein 1947-08-03"
+
+[[person.transaction]]
+date = "1947-08-23"
+type = "disabled"
+leave.name = "Norfolk"
+note = "disabled list 1947-08-23"
+
+[[person.transaction]]
+date = "1947-09-04"
+type = "reinstated"
+join.name = "Norfolk"
+note = "rein from disabled list 1947-09-04"
+
+[[person.transaction]]
+date = "1947-09-04"
+type = "released"
+leave.name = "Norfolk"
+note = "rel 1947-09-04"
+

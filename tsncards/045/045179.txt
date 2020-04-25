@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:45179"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/45179"
+title = "The Sporting News Player Contract Cards, ScanID: 1010002443"
+
+[person.name]
+last = "Crist"
+given = "Kenneth Donald"
+
+[person.description]
+ancestry = "Norwegian"
+position = "SS"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "180"
+
+[person.birth]
+date = "1929-10-31"
+place.country = "US"
+place.state = "MN"
+place.city = "Austin"
+
+[[person.resides]]
+place.address = "703 Myrtle Street"
+place.country = "US"
+place.state = "MN"
+place.city = "Austin"
+
+
+[[person.transaction]]
+date = "1950-08-29"
+type = "signed"
+join.name = "Janesville"
+note = "Janesville 1950-08-29"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Janesville"
+
+[[person.transaction]]
+date = "1950-11-23"
+type = "national-defense-list"
+leave.name = "Janesville"
+note = "National Defense list 1950-11-23"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Janesville"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Janesville"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Janesville"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Janesville"
+

@@ -1,0 +1,113 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:4678"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/4678"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004725"
+
+[person.name]
+last = "Bachand"
+given = "Maurice"
+
+[person.description]
+position = "INF-2B"
+
+[[person.resides]]
+place.address = "137 Social Str."
+place.country = "US"
+place.state = "RI"
+place.city = "Woonsocket"
+
+
+[[person.transaction]]
+date = "1925-05"
+type = "signed"
+join.name = "New Haven"
+note = "New Haven 1925-05"
+
+[[person.transaction]]
+date = "1925-06"
+type = "signed"
+join.name = "Hanover"
+note = "Hanover 1925-06"
+
+[[person.transaction]]
+date = "1925-07"
+type = "released"
+leave.name = "Hanover"
+note = "rel 1925-07"
+
+[[person.transaction]]
+date = "1925-08"
+type = "signed"
+join.name = "New Haven"
+note = "New Haven 1925-08"
+
+[[person.transaction]]
+date = "1925-09"
+type = "released"
+leave.name = "New Haven"
+join.name = "Albany"
+note = "rel to Albany 1925-09"
+
+[[person.transaction]]
+date = "1925-10"
+type = "signed"
+join.name = "New Haven"
+note = "New Haven 1925-10"
+
+[[person.transaction]]
+date = "1926"
+type = "reserved"
+join.name = "New Haven"
+
+[[person.transaction]]
+date = "1926-05"
+type = "sold"
+leave.name = "Richmond"
+note = "sold to Richmond 1926-05"
+
+[[person.transaction]]
+date = "1926-05"
+type = "signed"
+join.name = "Bridgeport"
+note = "Bridgeport 1926-05"
+
+[[person.transaction]]
+date = "1926-06"
+type = "signed"
+join.name = "New Haven"
+note = "New Haven 1926-06"
+
+[[person.transaction]]
+date = "1926-06"
+type = "signed"
+join.name = "Lawrence"
+note = "Lawrence 1926-06"
+
+[[person.transaction]]
+date = "1927-04"
+type = "reserved"
+join.name = "Lawrence"
+
+[[person.transaction]]
+date = "1928"
+type = "reserved"
+join.name = "Lawrence"
+note = "res for 1928"
+
+[[person.transaction]]
+date = "1928-02"
+type = "released"
+leave.name = "Lawrence"
+join.name = "Lynn by Lawrence"
+note = "rel to Lynn by Lawrence 1928-02"
+
+[[person.transaction]]
+date = "1928-05"
+type = "released"
+leave.name = "Lynn by Lawrence"
+note = "rel 1928-05"
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:71422"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71422"
+title = "The Sporting News Player Contract Cards, ScanID: 1018002913"
+
+[person.name]
+last = "Guthrie"
+given = "Arthur J."
+nick = "Bad Eye"
+
+[person.description]
+position = "P"
+
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1914-07"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Charlotte"
+note = "res for 1915"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "released"
+leave.name = "Griffin"
+note = "rel 1915-05"
+

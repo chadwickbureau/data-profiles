@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10183"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10183"
+title = "The Sporting News Player Contract Cards, ScanID: 1002005377"
+
+[person.name]
+last = "Bailey"
+given = "Jack"
+
+
+[[person.transaction]]
+date = "1922"
+type = "signed"
+join.name = "Three Rivers"
+note = "Three Rivers 1922"
+
+[[person.transaction]]
+date = "1923-05"
+type = "released"
+leave.name = "Three Rivers"
+join.name = "Springfield MA"
+note = "rel to Springfield MA 1923-05"
+
+[[person.transaction]]
+date = "opt to Waterbury 1923-07"
+type = "released"
+leave.name = "Springfield MA"
+note = "rel opt to Waterbury 1923-07"
+
+[[person.transaction]]
+date = "1923-09"
+type = "recalled"
+leave.name = "Springfield MA"
+join.name = "Springfield"
+note = "rec by Springfield 1923-09"
+
+[[person.transaction]]
+date = "1924-06"
+type = "released"
+leave.name = "Springfield"
+note = "rel 1924-06"
+

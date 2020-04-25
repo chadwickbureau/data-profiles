@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:69241"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/69241"
+title = "The Sporting News Player Contract Cards, ScanID: 1018003999"
+
+[person.name]
+last = "Haggerty"
+given = "Richard"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949-10-17"
+type = "signed"
+join.name = "Zanesville"
+note = "Zanesville 1949-10-17"
+
+[[person.transaction]]
+date = "1950-04-21"
+type = "released"
+leave.name = "Zanesville"
+note = "rel 1950-04-21"
+
+[[person.transaction]]
+date = "1951-04-23"
+type = "signed"
+join.name = "Bluefield"
+note = "Bluefield 1951-04-23"
+
+[[person.transaction]]
+date = "1951"
+type = "released"
+leave.name = "Bluefield"
+join.name = "Gloversville"
+note = "rel to Gloversville 1951"
+
+[[person.transaction]]
+date = "1951-06-24"
+type = "released"
+leave.name = "Gloversville"
+note = "rel 1951-06-24"
+
+[[person.transaction]]
+date = "1954-02-18"
+type = "signed"
+join.name = "Quebec"
+note = "Quebec 1954-02-18"
+
+[[person.transaction]]
+date = "1954-05-01"
+type = "temporarily-inactive"
+leave.name = "Quebec"
+note = "temp inactive list 1954-05-01"
+
+[[person.transaction]]
+date = "1954-06-23"
+type = "reinstated"
+join.name = "Quebec"
+note = "rein 1954-06-23"
+
+[[person.transaction]]
+date = "1954-06-23"
+type = "released"
+leave.name = "Quebec"
+note = "rel 1954-06-23"
+

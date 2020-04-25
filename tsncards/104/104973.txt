@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:104973"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/104973"
+title = "The Sporting News Player Contract Cards, ScanID: 1034005837"
+
+[person.name]
+last = "Pearson"
+given = "M. Thomas"
+
+
+[[person.transaction]]
+date = "1915-03"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1915-03"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Augusta"
+join.name = "Thomasville"
+note = "rel to Thomasville 1915-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1916-05"
+
+[[person.transaction]]
+date = "1916-06"
+type = "released"
+leave.name = "Dothan"
+note = "rel 1916-06"
+
+[[person.transaction]]
+date = "1917-04"
+type = "signed"
+join.name = "Portsmouth (VA)"
+note = "Portsmouth (VA) 1917-04"
+
+[[person.transaction]]
+date = "Greenwood 1922-09"
+type = "released"
+leave.name = "Portsmouth (VA)"
+note = "rel Greenwood 1922-09"
+

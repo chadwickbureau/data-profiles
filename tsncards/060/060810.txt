@@ -1,0 +1,91 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:60810"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/60810"
+title = "The Sporting News Player Contract Cards, ScanID: 1016000289"
+
+[person.name]
+last = "Galvin"
+given = "Harry"
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+married = "yes"
+height = "67.5"
+weight = "152"
+
+[person.birth]
+date = "1884-12-11"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[[person.resides]]
+place.address = "33 Faulkner St."
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+
+[[person.transaction]]
+date = "1908"
+type = "signed"
+join.name = "Brockton"
+note = "Brockton 1908"
+
+[[person.transaction]]
+date = "1909"
+type = "reserved"
+join.name = "Brockton"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Fayetteville"
+note = "Fayetteville 1910"
+
+[[person.transaction]]
+date = "1911"
+type = "reserved"
+join.name = "Fayetteville"
+
+[[person.transaction]]
+date = "1912"
+type = "signed"
+join.name = "Winston-Salem"
+note = "Winston-Salem 1912"
+
+[[person.transaction]]
+date = "1913-02"
+type = "signed"
+join.name = "Lawrence"
+note = "Lawrence 1913-02"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Lawrence"
+
+[[person.transaction]]
+date = "1914-04"
+type = "released"
+leave.name = "Lawrence"
+note = "rel 1914-04"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Lewiston"
+note = "Lewiston 1914-04"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Lewiston"
+note = "rel 1914-05"
+

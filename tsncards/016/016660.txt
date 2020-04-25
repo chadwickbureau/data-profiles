@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16660"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16660"
+title = "The Sporting News Player Contract Cards, ScanID: 1006004368"
+
+[person.name]
+last = "Burgin"
+given = "Shirley Lewis"
+
+
+[[person.transaction]]
+date = "1954-02-22"
+type = "signed"
+join.name = "Knoxville"
+note = "Knoxville 1954-02-22"
+
+[[person.transaction]]
+date = "1954-04-10"
+type = "released"
+leave.name = "Knoxville"
+note = "rel 1954-04-10"
+

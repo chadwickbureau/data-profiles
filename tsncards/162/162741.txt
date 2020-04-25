@@ -1,0 +1,93 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:162741"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/162741"
+title = "The Sporting News Player Contract Cards, ScanID: 1048004561"
+
+[person.name]
+last = "Winters"
+given = "James F."
+
+
+[[person.transaction]]
+date = "1947-06-21"
+type = "signed"
+join.name = "Butler"
+note = "Butler 1947-06-21"
+
+[[person.transaction]]
+date = "1947-07-07"
+type = "released"
+leave.name = "Butler"
+join.name = "LaGrange"
+note = "rel to LaGrange 1947-07-07"
+
+[[person.transaction]]
+date = "1947-08-06"
+type = "disabled"
+leave.name = "LaGrange"
+note = "disabled list 1947-08-06"
+
+[[person.transaction]]
+date = "1947-08-16"
+type = "reinstated"
+join.name = "LaGrange"
+note = "rein 1947-08-16"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "LaGrange"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-05-08"
+type = "released"
+leave.name = "LaGrange"
+note = "rel 1948-05-08"
+
+[[person.transaction]]
+date = "1948-08-17"
+type = "signed"
+join.name = "Harlan"
+note = "Harlan 1948-08-17"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Harlan"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-14"
+type = "released"
+leave.name = "Harlan"
+note = "rel 1949-04-14"
+
+[[person.transaction]]
+date = "1949-04-25"
+type = "signed"
+join.name = "Rehoboth Beach"
+note = "Rehoboth Beach 1949-04-25"
+
+[[person.transaction]]
+date = "1949-05-01"
+type = "released"
+leave.name = "Rehoboth Beach"
+note = "rel 1949-05-01"
+
+[[person.transaction]]
+date = "1949-05-07"
+type = "signed"
+join.name = "New Castle"
+note = "New Castle 1949-05-07"
+
+[[person.transaction]]
+date = "1949-05-19"
+type = "released"
+leave.name = "New Castle"
+note = "rel 1949-05-19"
+

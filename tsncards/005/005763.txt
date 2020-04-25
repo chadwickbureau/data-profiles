@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:5763"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/5763"
+title = "The Sporting News Player Contract Cards, ScanID: 1006002008"
+
+[person.name]
+last = "Brundage"
+given = "Paul"
+
+
+[[person.transaction]]
+date = "1920-06"
+type = "signed"
+join.name = "Madison (SD)"
+note = "Madison (SD) 1920-06"
+
+[[person.transaction]]
+date = "1921-03"
+type = "released"
+leave.name = "Madison (SD)"
+note = "rel 1921-03"
+
