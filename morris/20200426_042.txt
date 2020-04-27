@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_042"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-05"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Peaster"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Texas League"
+
+

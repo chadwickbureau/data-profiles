@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_011"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-05-11"
+pages = "7"
+
+[person.name]
+last = "Hall"
+use = "Slim"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+

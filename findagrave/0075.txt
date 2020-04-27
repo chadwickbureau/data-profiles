@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0075"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-26"
+url = "https://www.findagrave.com/memorial/33328325"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "McLeod"
+use = "Daniel"
+given = "Daniel Herbert"
+nick = "Hub"
+
+[person.birth]
+date = "1887-04-28"
+
+[person.death]
+date = "1918-11-19"
+place.country = "US"
+place.state = "AL"
+place.city = "Florala"
+
+[person.burial]
+cemetery.name = "Euchee Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Eucheeanna"
+
+[person.sameas]
+findagrave = "33328325"
+

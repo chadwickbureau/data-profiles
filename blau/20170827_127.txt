@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_127"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1924-08-07"
+pages = "7"
+
+[person.name]
+last = "Kelly"
+use = "Irish"
+given = "Irish"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waco"
+team.league.name = "Texas Association"
+
+

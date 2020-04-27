@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_002"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-04-28"
+pages = "13"
+
+[person.name]
+last = "Hammond"
+use = "Eddie"
+given = "Eddie"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+description.throws = "R"
+
+

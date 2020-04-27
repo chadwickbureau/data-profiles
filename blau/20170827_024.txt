@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_024"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1936-05-29"
+pages = "13"
+
+[person.name]
+last = "Murphy"
+use = "James"
+given = "Aloysius Francis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Charlotte"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_095"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1936-03-28"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1936-04-07"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1937-04-12"
+pages = "11"
+
+[person.name]
+last = "Parsons"
+use = "Dixie"
+given = "Dixon"
+
+[[person.resides]]
+dates = "1936"
+place.country = "US"
+place.state = "AL"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Alexandria"
+team.league.name = "Evangeline League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+
+

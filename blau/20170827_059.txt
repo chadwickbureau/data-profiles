@@ -1,0 +1,74 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_059"
+
+[[person.meta.citation]]
+title = "Pittsburgh Press"
+date = "1930-03-30"
+pages = "44"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1930-05-23"
+pages = "15"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1930-04-12"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1931-09-15"
+pages = "8"
+
+[person.name]
+last = "O'Malley"
+use = "Paul"
+given = "Paul"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[[person.resides]]
+dates = "1929"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Binghamton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Salisbury-Spencer"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Durham"
+team.league.name = "Piedmont League"
+
+

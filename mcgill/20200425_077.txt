@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_077"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Menard"
+use = "Arville"
+given = "Arville"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.throws = "R"
+description.bats = "R"
+description.height = "72"
+description.weight = "175"
+description.age = "22"
+
+

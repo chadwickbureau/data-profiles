@@ -1,0 +1,72 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_057"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1923-06-22"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1924-07-11"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Waco News-Tribune"
+date = "1925-06-10"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1925-08-04"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1925-08-12"
+pages = "5"
+
+[person.name]
+last = "O'Byrne"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1924"
+team.name = "Coffeyville"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Emporia"
+team.league.name = "Southwestern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Mexia"
+team.league.name = "Texas Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1925"
+team.name = "Independence"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Independence"
+team.league.name = "Western Association"
+
+

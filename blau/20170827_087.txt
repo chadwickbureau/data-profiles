@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_087"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1924-07-23"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1925-04-13"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Fitchburg Sentinel"
+date = "1926-07-09"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1929-04-04"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1931-02-19"
+pages = "14"
+
+[person.name]
+last = "McGregor"
+use = "Walter"
+given = "Walter"
+nick = "Sandy"
+
+[[person.resides]]
+dates = "1929"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Montpelier"
+team.league.name = "Quebec-Ontario-Vermont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Nashua"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1926"
+team.name = "Nashua"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.league.name = "New England League"
+
+

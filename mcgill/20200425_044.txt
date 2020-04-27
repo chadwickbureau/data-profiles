@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_044"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-03-26"
+pages = "11"
+
+[person.name]
+last = "Lakaff"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "IA"
+place.city = "Delmar"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"
+description.bats = "L"
+description.age = "25"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

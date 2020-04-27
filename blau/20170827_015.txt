@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_015"
+
+[[person.meta.citation]]
+title = "Monongahela Daily Republican"
+date = "1929-05-09"
+pages = "5"
+
+[person.name]
+last = "Marable"
+use = "Chap"
+given = "Chap"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1929"
+team.name = "Clarksburg"
+team.league.name = "Middle Atlantic League"
+
+

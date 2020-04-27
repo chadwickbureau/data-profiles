@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_052"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-03-26"
+pages = "11"
+
+[person.name]
+last = "Janicki"
+given = "P. P."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "L"
+description.bats = "L"
+description.age = "21"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.league.name = "Ohio Trolley League"
+team.caliber = "semipro"
+description.throws = "L"
+description.bats = "L"
+description.age = "21"
+
+

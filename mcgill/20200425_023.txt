@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_023"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-20"
+pages = "2"
+
+[person.name]
+last = "Hoon"
+use = "Kirby"
+given = "Kirby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_043"
+
+[[person.meta.citation]]
+title = "Ruthven (IA) Free Press"
+date = "1926-05-12"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Olean Times Herald"
+date = "1925-04-15"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1924-12-10"
+pages = "14"
+
+[person.name]
+last = "Nicholai"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Evansville"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Columbus"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Martinsburg"
+team.league.name = "Blue Ridge League"
+
+

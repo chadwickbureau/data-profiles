@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_005"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1923-03-17"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Evening News"
+date = "1928-01-13"
+pages = "20"
+
+[person.name]
+last = "Meeks"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Louisville"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Birmingham"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Wilson"
+team.league.name = "Virginia League"
+description.bats = "R"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+

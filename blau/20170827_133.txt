@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_133"
+
+[[person.meta.citation]]
+title = "Berkshire Eagle"
+date = "1925-05-05"
+pages = "11"
+
+[person.name]
+last = "Purcell"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Pittsfield"
+team.league.name = "Eastern League"
+description.bats = "L"
+
+

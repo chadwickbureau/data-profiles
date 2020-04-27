@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_003"
+
+[[person.meta.citation]]
+title = "Streator Times 1915-05-08"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Cronin"
+use = "Arnold"
+given = "Arnold J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Virginia"
+team.league.name = "Northern League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "La Salle"
+team.league.name = "Illinois-Missouri League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Roseland Eclipse"
+team.caliber = "semipro"
+
+

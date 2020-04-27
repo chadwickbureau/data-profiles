@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_096"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-06-22"
+pages = "5"
+
+[person.name]
+last = "Dell"
+use = "Weezer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+
+[[person.transaction]]
+date = "1909-06-21"
+type = "released"
+leave.name = "Butte"
+leave.league.name = "Inter-Mountain"
+
+

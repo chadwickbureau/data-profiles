@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_044"
+
+[[person.meta.citation]]
+title = "Greensboro Daily News"
+date = "1921-03-06"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "1921-06-30"
+pages = "6"
+
+[person.name]
+last = "Norton"
+use = "Homer"
+given = "Homer"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Greensboro"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Lakeland"
+team.league.name = "Florida State League"
+
+

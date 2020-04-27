@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_080"
+
+[[person.meta.citation]]
+title = "Honolulu Star-Bulletin"
+date = "1919-04-03"
+pages = "4"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1920-06-01"
+pages = "10"
+
+[person.name]
+last = "Kotzelnick"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1919"
+team.name = "Milwaukee"
+team.league.name = "American Association"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Cisco"
+team.league.name = "West Texas League"
+
+

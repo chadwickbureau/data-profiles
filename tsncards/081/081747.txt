@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:81747"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/81747"
+title = "The Sporting News Player Contract Cards, ScanID: 1022002239"
+
+[person.name]
+last = "Jackson"
+given = "Gilbert"
+
+
+[[person.transaction]]
+date = "1950-06-16"
+type = "signed"
+join.name = "Tyler"
+note = "Tyler 1950-06-16"
+
+[[person.transaction]]
+date = "1950-07-15"
+type = "released"
+leave.name = "Tyler"
+note = "rel 1950-07-15"
+

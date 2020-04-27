@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_060"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1936-05-10"
+pages = "17"
+
+[person.name]
+last = "O'Neil"
+use = "Mickey"
+given = "Mickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

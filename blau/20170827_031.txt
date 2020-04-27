@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_031"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1932-07-22"
+pages = "15"
+
+[person.name]
+last = "Walsh"
+use = "Maurice"
+given = "Maurice"
+nick = "Bud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "New Haven"
+team.league.name = "Eastern League"
+
+

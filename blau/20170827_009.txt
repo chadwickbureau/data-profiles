@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_009"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1928-05-19"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1928-04-20"
+pages = "27"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1927-04-06"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1925-04-25"
+pages = "12"
+
+[person.name]
+last = "Morrison"
+use = "Gene"
+given = "Gene"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Providence"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Hartford"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

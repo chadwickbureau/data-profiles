@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_107"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-12"
+pages = "7"
+
+[person.name]
+last = "Stis"
+use = "Charley"
+given = "Charley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+

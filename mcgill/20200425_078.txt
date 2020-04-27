@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_078"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Conner"
+use = "Ben"
+given = "Ben"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.throws = "R"
+description.bats = "R"
+description.height = "68"
+description.weight = "172"
+description.age = "22"
+
+

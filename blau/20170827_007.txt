@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_007"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1923-02-19"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1923-12-19"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1924-04-15"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Columbia State"
+date = "1921-09-13"
+pages = "9"
+
+[person.name]
+last = "Morris"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Petersburg"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "St. Petersburg"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_073"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Mapel"
+use = "John"
+given = "John A."
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.throws = "R"
+description.bats = "R"
+description.height = "73"
+description.weight = "175"
+description.age = "24"
+
+

@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_085"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1931-06-16"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1931-04-15"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1931-10-04"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Muncie Press"
+date = "1931-09-27"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Indianapolis Star"
+date = "1932-10-07"
+pages = "19"
+
+[person.name]
+last = "Parks"
+use = "Stanley"
+given = "Stanley"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Selma"
+team.league.name = "Southeastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Quincy"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.league.name = "Piedmont League"
+
+

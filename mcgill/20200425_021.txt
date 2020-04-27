@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_021"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-05-25"
+pages = "2"
+
+[person.name]
+last = "Gardner"
+use = "Pepper"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_069"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1924-06-26"
+pages = "17"
+
+[person.name]
+last = "Belitz"
+use = "Herman"
+given = "Herman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+description.throws = "R"
+
+

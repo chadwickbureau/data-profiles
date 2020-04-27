@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0071"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-20"
+url = "https://www.findagrave.com/memorial/113065229"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-20"
+
+[person.name]
+last = "Newton"
+use = "Leo"
+given = "Leo Doin"
+
+[person.birth]
+date = "1938-09-06"
+
+[person.death]
+date = "2007-11-12"
+
+[person.burial]
+cemetery.name = "Smith Chapel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Zanoni"
+
+[person.sameas]
+findagrave = "113065229"
+

@@ -1,0 +1,59 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_002"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1923-03-29"
+pages = "6"
+
+[[person.meta.citation]]
+title = "St. Louis Star"
+date = "1923-02-06"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Lincoln Evening-Journal"
+date = "1923-09-03"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Reno Gazette-Journal"
+date = "1922-04-15"
+pages = "7"
+
+[person.name]
+last = "Makin"
+use = "Hal"
+given = "Hal"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Makin"
+person.name.use = "George"
+person.name.given = "George"
+
+
+[[person.education]]
+school.name = "Cal-Berkeley"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+description.bats = "R"
+description.throws = "R"
+description.height = "70"
+description.weight = "160"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Fairbury"
+team.league.name = "Nebraska State League"
+
+

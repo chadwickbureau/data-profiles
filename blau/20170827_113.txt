@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_113"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Baitchley"
+use = "Grover"
+given = "Grover"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Cedar Rapids"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1917"
+team.name = "Cedar Rapids"
+team.league.name = "Central Association"
+
+

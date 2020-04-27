@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_049"
+
+[[person.meta.citation]]
+title = "Mason City Globe-Gazette"
+date = "1930-04-18"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1930-04-18"
+pages = "15"
+
+[person.name]
+last = "Novak"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Keokuk"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Joplin"
+team.league.name = "Western Association"
+description.bats = "R"
+description.height = "72"
+description.weight = "172"
+
+

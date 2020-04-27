@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_081"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1930-07-29"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1930-06-29"
+pages = "7"
+
+[person.name]
+last = "Owens"
+use = "Harold"
+given = "Harold"
+nick = "Spud"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "McCook"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Norton"
+team.league.name = "Nebraska state League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Beatrice"
+team.league.name = "Nebraska State League"
+
+

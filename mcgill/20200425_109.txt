@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_109"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-13"
+pages = "7"
+
+[person.name]
+last = "Irby"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+
+[[person.transaction]]
+date = "1909"
+type = "purchased"
+leave.name = "Helena"
+leave.league.name = "Inter-Mountain"
+join.name = "Tacoma"
+join.league.name = "Northwestern"
+
+

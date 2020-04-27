@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_213"
+
+[[person.meta.citation]]
+title = "Burton Funeral Homes"
+date = "2020-04-26"
+url = "https://www.burtonfuneralhomes.com/obituaries/obituary/edward-smrekar"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Smrekar"
+use = "Ed"
+given = "Edward E."
+
+[person.birth]
+date = "1931-08-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Venus"
+
+[person.death]
+date = "2020-04-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Erie"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

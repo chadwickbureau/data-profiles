@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_040"
+
+[[person.meta.citation]]
+title = "Burlington Hawk-Eye"
+date = "1930-05-07"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Brooklyn Daily Eagle"
+date = "1930-05-07"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1933-05-10"
+pages = "7"
+
+[person.name]
+last = "Nebelung"
+use = "Ray"
+given = "Ray"
+
+[[person.education]]
+school.name = "University of Michigan"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Burlington"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Peoria"
+team.league.name = "Mississippi Valley League"
+
+

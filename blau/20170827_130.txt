@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_130"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-03-26"
+pages = "9"
+
+[person.name]
+last = "Dawson"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Fairmont"
+team.league.name = "Middle Atlantic League"
+description.bats = "R"
+description.throws = "R"
+description.height = "69"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_214"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2020-04-26"
+url = "https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=albert-g-grosch&pid=196079293&fhid=5885"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Grosch"
+use = "Al"
+given = "Albert George"
+
+[person.birth]
+date = "1918-10-25"
+
+[person.death]
+date = "2020-04-07"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

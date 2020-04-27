@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_070"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1924-06-26"
+pages = "17"
+
+[person.name]
+last = "Anderson"
+use = "Lefty"
+given = "Lefty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+

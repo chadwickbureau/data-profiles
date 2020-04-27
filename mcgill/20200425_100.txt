@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_100"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-19"
+pages = "2"
+
+[person.name]
+last = "Buckels"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Caldwell"
+team.place.country = "US"
+team.place.state = "ID"
+team.place.city = "Caldwell"
+team.caliber = "semipro"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_108"
+
+[[person.meta.citation]]
+title = "Kiowa County (KS) Signal"
+date = "1923-05-31"
+pages = "3"
+
+[person.name]
+last = "Pierce"
+use = "Jim"
+given = "Jim"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1923"
+team.name = "Hamilton"
+team.league.name = "Michigan-Ontario League"
+
+

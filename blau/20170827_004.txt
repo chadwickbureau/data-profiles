@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_004"
+
+[[person.meta.citation]]
+title = "El Paso Herald"
+date = "1926-08-02"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Vancouver Daily World"
+date = "1921-07-29"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1921-04-05"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Washington Times"
+date = "1921-08-11"
+pages = "14"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "1923-02-08"
+pages = "1"
+
+[person.name]
+last = "Dorman"
+use = "Red"
+given = "Red"
+
+[person.description]
+note = [ "Suspended between 1921-09 and 1923-02" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Vancouver"
+team.league.name = "Pacific International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Salt Lake City"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Washington"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Decatur"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+

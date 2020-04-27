@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_016"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-12"
+pages = "7"
+
+[person.name]
+last = "Houston"
+use = "Ash"
+given = "Ash"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

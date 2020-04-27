@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_003"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1926-07-12"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Lincoln Evening Journal"
+date = "1925-03-27"
+pages = "15"
+
+[person.name]
+last = "Dorman"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Lincoln"
+team.league.name = "Western League"
+
+

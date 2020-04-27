@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_105"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-11"
+pages = "7"
+
+[person.name]
+last = "Ralston"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Livingston"
+team.league.name = "Inter-Mountain League"
+description.position = "P"
+description.throws = "L"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_093"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-06-10"
+pages = "7"
+
+[person.name]
+last = "Manley"
+given = "A. E."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Murray"
+team.league.name = "Utah State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "Salt Lake City"
+team.league.name = "Utah State League"
+
+

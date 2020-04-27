@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_002"
+
+[[person.meta.citation]]
+title = "Raleigh News & Observer 1915-06-19"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Winston"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Morganton"
+team.league.name = "Western Carolina League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "North Carolina State University"
+team.caliber = "college"
+
+

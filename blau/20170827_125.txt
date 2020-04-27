@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_125"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-05-03"
+pages = "14"
+
+[person.name]
+last = "Heilberger"
+use = "Tom"
+given = "Tom"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

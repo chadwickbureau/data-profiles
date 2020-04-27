@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_101"
+
+[[person.meta.citation]]
+title = "Decatur Daily Review"
+date = "1932-02-25"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1932-09-11"
+pages = "13"
+
+[person.name]
+last = "Palmer"
+use = "Herb"
+given = "Herb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Springfield"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Pueblo"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+

@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_102"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-06-27"
+pages = "15"
+
+[person.name]
+last = "Wasson"
+use = "Dave"
+given = "Dave"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

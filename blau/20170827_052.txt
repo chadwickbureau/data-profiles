@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_052"
+
+[[person.meta.citation]]
+title = "Zanesville Times Recorder"
+date = "1925-03-21"
+pages = "10"
+
+[person.name]
+last = "Nutter"
+use = "Everett"
+given = "Everett"
+nick = "Dizzy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Zanesville"
+team.league.name = "Interstate League"
+
+

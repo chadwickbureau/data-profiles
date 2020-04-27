@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_103"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-06-27"
+pages = "8"
+
+[person.name]
+last = "Whaling"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+

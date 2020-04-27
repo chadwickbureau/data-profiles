@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_047"
+
+[[person.meta.citation]]
+title = "Rock Island Argus and Daily Union"
+date = "1914-07-16"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Rock Island Argus and Daily Union"
+date = "1914-07-18"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "1914-11-26"
+pages = "8"
+
+[person.name]
+last = "Ross"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "OH"
+place.city = "Crooksville"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Rock Island"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Muscatine"
+team.league.name = "Central Association"
+
+

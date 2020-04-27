@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_038"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-08-20"
+pages = "3"
+
+[person.name]
+last = "Scott"
+use = "Joe"
+given = "Joe"
+
+[person.birth]
+date = "1878-01-23"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

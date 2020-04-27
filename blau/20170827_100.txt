@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_100"
+
+[[person.meta.citation]]
+title = "Omaha Daily Bee"
+date = "1913-06-28"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Lincoln Daily News"
+date = "1913-07-01"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Marion Star"
+date = "1913-07-26"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1913-08-06"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1914-05-03"
+pages = "30"
+
+[person.name]
+last = "Payne"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "York"
+team.league.name = "Nebraska State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Omaha"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+
+

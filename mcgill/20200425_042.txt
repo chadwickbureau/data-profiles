@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_042"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-09-04"
+pages = "3"
+
+[person.name]
+last = "Dowers"
+use = "Roy"
+given = "Roy"
+
+[person.birth]
+date = "1883-05-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Stromburg"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Baker City"
+team.league.name = "Inland Empire League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Keokuk"
+team.league.name = "Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Keokuk"
+team.league.name = "Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

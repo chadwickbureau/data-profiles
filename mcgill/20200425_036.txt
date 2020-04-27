@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_036"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-08-17"
+pages = "3"
+
+[person.name]
+last = "Landin"
+use = "Arthur"
+given = "Arthur"
+
+[person.birth]
+date = "1879-03-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Orion"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Keokuk"
+team.place.country = "US"
+team.place.state = "IA"
+team.place.city = "Keokuk"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Keokuk"
+team.place.country = "US"
+team.place.state = "IA"
+team.place.city = "Keokuk"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

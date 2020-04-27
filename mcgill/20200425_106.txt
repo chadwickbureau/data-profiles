@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_106"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-11"
+pages = "7"
+
+[person.name]
+last = "Case"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

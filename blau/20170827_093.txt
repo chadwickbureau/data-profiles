@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_093"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-05-13"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1929-06-05"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1930-06-02"
+pages = "2"
+
+[person.name]
+last = "Lyons"
+use = "Terry"
+given = "Terry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Philadephia"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Johnstown"
+team.league.name = "Middle Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Beckley"
+team.league.name = "Tri-State League"
+
+

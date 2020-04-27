@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_032"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-04"
+pages = "2"
+
+[person.name]
+last = "Pender"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+
+[[person.transaction]]
+date = "1909-06-03"
+type = "traded"
+leave.name = "Butte"
+leave.league.name = "Inter-Mountain"
+join.name = "Boise"
+join.league.name = "Inter-Mountain"
+
+[[person.transaction.forperson]]
+
+[person.transaction.forperson.name]
+last = "Osborn"
+
+

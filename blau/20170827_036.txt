@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_036"
+
+[[person.meta.citation]]
+title = "Pittsburg (KS) Daily Headlight"
+date = "1909-05-03"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Pittsburg (KS) Daily Headlight"
+date = "1909-03-25"
+pages = "5"
+
+[person.name]
+last = "Cumrine"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Pittsburg"
+team.league.name = "Western Association"
+description.throws = "R"
+
+

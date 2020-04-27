@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_031"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-05-30"
+pages = "8"
+
+[person.name]
+last = "Marshal"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

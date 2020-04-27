@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_110"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1927-04-08"
+pages = "12"
+
+[person.name]
+last = "Ploger"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Pensacola"
+team.league.name = "Southeastern League"
+
+

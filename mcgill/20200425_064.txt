@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_064"
+
+[[person.meta.citation]]
+title = "Herald and Review"
+date = "1914-03-31"
+pages = "4"
+
+[person.name]
+last = "Wentz"
+given = "J. B."
+
+[[person.resides]]
+dates = "1914"
+place.country = "US"
+place.state = "OH"
+place.city = "Anna"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+description.bats = "R"
+
+

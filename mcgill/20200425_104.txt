@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_104"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-05"
+pages = "7"
+
+[person.name]
+last = "Butler"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

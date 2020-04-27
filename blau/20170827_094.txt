@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_094"
+
+[[person.meta.citation]]
+title = "Emporia Gazette"
+date = "1928-09-28"
+pages = "5"
+
+[person.name]
+last = "Ryerson"
+use = "Paul"
+given = "Paul"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+
+

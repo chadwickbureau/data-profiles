@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_071"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1925-06-19"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1925-07-21"
+pages = "14"
+
+[[person.meta.citation]]
+title = "San Bernardino County Sun"
+date = "1926-10-01"
+pages = "21"
+
+[person.name]
+last = "O'Shea"
+use = "Pat"
+given = "Pat"
+
+[person.description]
+note = [ "In spring training with Chicago Cubs in 1924" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Dubuque"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Vernon"
+team.league.name = "Pacific Coast League"
+
+

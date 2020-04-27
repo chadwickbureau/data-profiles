@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_033"
+
+[[person.meta.citation]]
+title = "Pittsburg (KS) Daily Headlight"
+date = "1909-03-25"
+pages = "5"
+
+[person.name]
+last = "Matthews"
+given = "J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Pittsburg"
+team.league.name = "Western Association"
+
+

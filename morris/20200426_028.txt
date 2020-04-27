@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_028"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-09"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Estill"
+use = "Buster"
+given = "Buster"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Middle Texas League"
+
+

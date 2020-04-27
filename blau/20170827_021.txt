@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_021"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/304-BERTRAND_Hank.pdf"
+
+[person.name]
+last = "Bertrand"
+use = "Henri"
+given = "Henri"
+
+[person.birth]
+date = "1912-03-18"
+place.country = "US"
+place.state = "NY"
+place.city = "Tupper Lake"
+
+[person.death]
+date = "1994-11-10"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "Salisbury"
+team.league.name = "Eastern Shore League"
+
+

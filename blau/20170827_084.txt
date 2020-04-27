@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_084"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1931-05-27"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Monroe News-Star"
+date = "1931-06-11"
+pages = "8"
+
+[person.name]
+last = "Parks"
+use = "Walter"
+given = "Walter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Monroe"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+
+

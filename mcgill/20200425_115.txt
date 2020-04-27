@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_115"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-17"
+pages = "7"
+
+[person.name]
+last = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Livingston"
+team.league.name = "Inter-Mountain League"
+
+

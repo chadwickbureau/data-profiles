@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:147266"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/147266"
+title = "The Sporting News Player Contract Cards, ScanID: 1027001301"
+
+[person.name]
+last = "Losonsky"
+given = "Norman R."
+
+
+[[person.transaction]]
+date = "1962-02-17"
+type = "signed"
+join.name = "Fort Walton Beach"
+note = "Fort Walton Beach 1962-02-17"
+
+[[person.transaction]]
+date = "1962-04-19"
+type = "released"
+leave.name = "Fort Walton Beach"
+note = "rel 1962-04-19"
+

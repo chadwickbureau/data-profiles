@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_103"
+
+[[person.meta.citation]]
+title = "Harrisburg Telegraph"
+date = "1929-07-31"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1929-12-10"
+pages = "23"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1930-04-25"
+pages = "9"
+
+[person.name]
+last = "Phelan"
+use = "Dick"
+given = "Richard"
+
+[[person.education]]
+school.name = "Holy Cross"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Canton"
+team.league.name = "Central League"
+
+

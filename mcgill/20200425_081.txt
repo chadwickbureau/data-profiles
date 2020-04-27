@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_081"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-06-15"
+pages = "5"
+
+[person.name]
+last = "Wells"
+use = "Albert"
+given = "Albert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

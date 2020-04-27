@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_041"
+
+[[person.meta.citation]]
+title = "Burlington Hawk-Eye"
+date = "1930-05-07"
+pages = "8"
+
+[person.name]
+last = "Connors"
+use = "Chuck"
+given = "Chuck"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Burlington"
+team.league.name = "Mississippi Valley League"
+description.throws = "L"
+
+

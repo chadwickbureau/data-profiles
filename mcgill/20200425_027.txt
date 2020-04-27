@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_027"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-05-27"
+pages = "12"
+
+[person.name]
+last = "King"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

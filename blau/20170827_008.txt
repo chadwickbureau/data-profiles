@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_008"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1923-02-19"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1922-05-10"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Greenville News"
+date = "1923-03-22"
+pages = "11"
+
+[person.name]
+last = "Leahy"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+

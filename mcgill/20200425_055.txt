@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_055"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-03-26"
+pages = "11"
+
+[person.name]
+last = "Engman"
+use = "Grover"
+given = "Grover"
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "MS"
+place.city = "Pass Christian"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+description.bats = "R"
+description.age = "20"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Cedar Rapids"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

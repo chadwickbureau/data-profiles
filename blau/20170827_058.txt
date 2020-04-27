@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_058"
+
+[[person.meta.citation]]
+title = "Franklin (PA) News-Herald"
+date = "1929-04-10"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1931-12-19"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean"
+date = "1932-04-15"
+pages = "18"
+
+[person.name]
+last = "O'Connell"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Columbia"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Baltimore"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+
+

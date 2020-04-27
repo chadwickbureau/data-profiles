@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_101"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-06-21"
+pages = "7"
+
+[person.name]
+last = "Annis"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+

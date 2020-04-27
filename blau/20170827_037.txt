@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_037"
+
+[[person.meta.citation]]
+title = "Abilene Reporter-News"
+date = "1929-06-02"
+pages = "4"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1930-05-09"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1930-06-26"
+pages = "11"
+
+[person.name]
+last = "Nebel"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Northampton"
+team.league.name = "Eastern Shore League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Abilene"
+team.league.name = "West Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Wichita Falls"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Augusta"
+team.league.name = "South Atlantic League"
+
+

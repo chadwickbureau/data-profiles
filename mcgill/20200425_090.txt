@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_090"
+
+[[person.meta.citation]]
+title = "The Butte Daily Post"
+date = "1909-06-14"
+pages = "2"
+
+[person.name]
+last = "Corbin"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+

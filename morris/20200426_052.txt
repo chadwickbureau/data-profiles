@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_052"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-26"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Berger"
+use = "Heine"
+given = "Charles"
+
+[person.birth]
+date = "1884"
+place.country = "US"
+place.state = "IL"
+place.city = "LaSalle"
+
+[person.description]
+height = "69.5"
+weight = "188"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0073"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-25"
+url = "https://www.findagrave.com/memorial/100590293"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-25"
+
+[person.name]
+last = "Tedeschi"
+use = "Nello"
+given = "Nello"
+nick = "Fungo"
+
+[person.birth]
+date = "1890-05-31"
+place.country = "IT"
+place.city = "Capestrano"
+
+[person.death]
+date = "1975-04-26"
+place.country = "US"
+place.state = "MI"
+place.city = "Iron Mountain"
+
+[person.burial]
+cemetery.name = "Iron Mountain Cemetery Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Iron Mountain"
+
+[person.sameas]
+findagrave = "100590293"
+

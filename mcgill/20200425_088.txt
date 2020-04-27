@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_088"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-14"
+pages = "2"
+
+[person.name]
+last = "Marshall"
+use = "Clarence"
+given = "Clarence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

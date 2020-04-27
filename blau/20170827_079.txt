@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_079"
+
+[[person.meta.citation]]
+title = "Hutchinson News"
+date = "1939-04-17"
+pages = "2"
+
+[person.name]
+last = "Olsen"
+use = "Ray"
+given = "Ray"
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Ponca City"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "St. Joseph"
+team.league.name = "Western Association"
+
+

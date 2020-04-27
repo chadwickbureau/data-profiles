@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_068"
+
+[[person.meta.citation]]
+title = "Hagerstown Daily Mail"
+date = "1927-04-13"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Harrisburg Evening News"
+date = "1926-05-08"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Hagerstown Morning Herald"
+date = "1926-05-12"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1926-04-01"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Newport News Daily Press"
+date = "1928-04-20"
+pages = "5"
+
+[person.name]
+last = "O'Shea"
+use = "Danny"
+given = "Danny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Hagerstown"
+team.league.name = "Blue Ridge League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+

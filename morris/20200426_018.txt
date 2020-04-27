@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_018"
+
+[[person.meta.citation]]
+title = "Waco Morning News 1915-02-28"
+pages = "19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Durr"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Beaumont"
+team.league.name = "Texas League"
+description.position = "C"
+
+

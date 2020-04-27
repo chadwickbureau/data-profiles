@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_212"
+
+[[person.meta.citation]]
+title = "Sioux Falls Argus-Leader"
+date = "1972-04-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-25"
+
+[person.name]
+last = "Nolt"
+use = "Albert"
+given = "Albert W."
+nick = "Nig"
+
+[person.birth]
+date = "1889-10-05"
+place.country = "US"
+place.state = "SD"
+place.city = "Mitchell"
+
+[person.death]
+date = "1972-03-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Redondo Beach"
+
+[person.burial]
+cemetery.name = "Green Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Rancho Palos Verdes"
+
+[[person.education]]
+school.name = "Dakota Wesleyan University"
+school.type = "college"
+
+

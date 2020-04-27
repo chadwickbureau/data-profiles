@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_122"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-05-03"
+pages = "14"
+
+[person.name]
+last = "Smith"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+

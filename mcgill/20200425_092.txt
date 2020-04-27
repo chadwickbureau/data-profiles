@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_092"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-06-10"
+pages = "7"
+
+[person.name]
+last = "Herwig"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1909"
+team.league.name = "Northwestern League"
+
+

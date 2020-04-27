@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0072"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-26"
+url = "https://www.findagrave.com/memorial/53062150/arthur-robert-lundin"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2020-04-26"
+
+[person.name]
+last = "Lundin"
+use = "Arthur"
+given = "Arthur Robert"
+
+[person.birth]
+date = "1879"
+
+[person.death]
+date = "1951"
+
+[person.burial]
+cemetery.name = "Western Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Orion"
+
+[person.sameas]
+findagrave = "53062150"
+

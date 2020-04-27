@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_108"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-07-12"
+pages = "7"
+
+[person.name]
+last = "Doyle"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Livingston"
+team.league.name = "Inter-Mountain League"
+
+

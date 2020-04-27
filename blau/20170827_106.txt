@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_106"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-03-24"
+pages = "5"
+
+[person.name]
+last = "Pierce"
+use = "Jimmy"
+given = "Jimmy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

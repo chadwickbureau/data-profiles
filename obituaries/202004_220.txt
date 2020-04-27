@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_220"
+
+[[person.meta.citation]]
+title = "Ledford Family Funeral Homes"
+date = "2020-04-26"
+url = "https://www.ledfordfamilyfh.com/obituaries/Gilbert-Jackson-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Jackson"
+use = "Gil"
+given = "Gilbert Shepard"
+
+[person.birth]
+date = "1930-11-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.death]
+date = "2017-12-24"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.burial]
+cemetery.name = "Missouri Veterans Cemetery at Higginsville"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Higginsville"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

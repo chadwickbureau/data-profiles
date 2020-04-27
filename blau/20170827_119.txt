@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_119"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-03-26"
+pages = "9"
+
+[person.name]
+last = "Williams"
+use = "Denny"
+given = "Denny"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Moose Jaw"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Cincinnati"
+team.league.name = "National League"
+
+

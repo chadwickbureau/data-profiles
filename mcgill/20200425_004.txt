@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_004"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-05-01"
+pages = "11"
+
+[person.name]
+last = "Hunt"
+use = "Slim"
+
+[person.description]
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+description.position = "P"
+description.throws = "L"
+
+

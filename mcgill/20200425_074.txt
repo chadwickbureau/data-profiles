@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_074"
+
+[[person.meta.citation]]
+title = "Argus-Leader"
+date = "1924-05-08"
+pages = "9"
+
+[person.name]
+last = "Snow"
+use = "Graeme"
+given = "Graeme"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Sioux Falls"
+team.league.name = "Tri-State League"
+description.throws = "R"
+description.bats = "S"
+description.height = "71"
+description.weight = "190"
+description.age = "28"
+
+

@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_102"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1930-04-17"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Richmond (IN) Item"
+date = "1930-05-09"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1932-06-28"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Reading Times"
+date = "1933-05-06"
+pages = "10"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Merena"
+use = "Spike"
+given = "Spike"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Canton"
+team.league.name = "Central League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Bridgeport"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1933"
+team.name = "Williamsport"
+team.league.name = "New York-Pennsylvania League"
+
+

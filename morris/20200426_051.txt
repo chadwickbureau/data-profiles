@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_051"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-25"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "McCabe"
+use = "Tommy"
+given = "Thomas"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.description]
+bats = "L"
+height = "69"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Racine"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Racine"
+team.league.name = "Wisconsin-Illinois League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Racine"
+team.league.name = "Wisconsin-Illinois League"
+description.position = "OF"
+
+

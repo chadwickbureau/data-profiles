@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_053"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-27"
+pages = "10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Baker"
+use = "Howard"
+given = "Howard"
+
+[person.birth]
+date = "1890"
+place.country = "US"
+place.state = "MD"
+place.city = "Harford County"
+
+[person.description]
+bats = "L"
+weight = "180"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+

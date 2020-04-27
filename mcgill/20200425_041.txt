@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_041"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-09-02"
+pages = "3"
+
+[person.name]
+last = "Swalm"
+use = "Albert"
+given = "Albert"
+
+[person.birth]
+date = "1883-09-21"
+place.country = "US"
+place.state = "IA"
+place.city = "Belle Plaine"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Swalm"
+person.name.use = "Harry"
+person.name.given = "Harry"
+
+
+[[person.education]]
+school.name = "Grinnell College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1902"
+team.name = "Grinnell College"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1903"
+team.name = "Grinnell College"
+team.caliber = "college"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

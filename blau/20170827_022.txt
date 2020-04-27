@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_022"
+
+[[person.meta.citation]]
+title = "diamondsinthedusk.com"
+url = "http://www.diamondsinthedusk.com/uploads/articles/304-BERTRAND_Hank.pdf"
+
+[person.name]
+last = "Meriwether"
+use = "Conk"
+given = "Conk"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "Easton"
+team.league.name = "Eastern Shore League"
+description.throws = "L"
+
+

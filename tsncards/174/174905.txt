@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:174905"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/174905"
+title = "The Sporting News Player Contract Cards, ScanID: 1033001547"
+
+[person.name]
+last = "Norrenberns"
+given = "James F."
+nick = "Jim"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "195"
+
+[person.birth]
+date = "1929-08-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Albers"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Albers"
+
+
+[[person.transaction]]
+date = "1950-06-29"
+type = "signed"
+join.name = "Centralia"
+note = "Centralia 1950-06-29"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Centralia"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-04-20"
+type = "national-defense-list"
+leave.name = "Centralia"
+note = "National Defense list 1951-04-20"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Centralia"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Centralia"
+
+[[person.transaction]]
+date = "1953-02-04"
+type = "released"
+leave.name = "Centralia"
+join.name = "Midland"
+note = "rel to Midland 1953-02-04"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Midland"
+

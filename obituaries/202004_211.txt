@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_211"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2020-04-25"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=jesus-corrales&pid=196070851"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-25"
+
+[person.name]
+last = "Corrales"
+use = "Jay"
+given = "Jesus Antonio"
+
+[person.birth]
+date = "1931-07-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Tampa"
+
+[person.death]
+date = "2020-04-14"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:135885"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/135885"
+title = "The Sporting News Player Contract Cards, ScanID: 1042003375"
+
+[person.name]
+last = "Spackman"
+given = "Ronald Max"
+
+[[person.resides]]
+place.address = "RD #3"
+place.country = "US"
+place.state = "PA"
+place.city = "Port Matilda"
+
+
+[[person.transaction]]
+date = "1949-09-06"
+type = "signed"
+join.name = "Carbondale"
+note = "Carbondale 1949-09-06"
+
+[[person.transaction]]
+date = "1950-04-25"
+type = "optioned"
+leave.name = "Carbondale"
+join.name = "Bradford"
+note = "opt to Bradford 1950-04-25"
+
+[[person.transaction]]
+date = "1950-05-19"
+type = "released"
+leave.name = "Bradford"
+note = "rel 1950-05-19"
+

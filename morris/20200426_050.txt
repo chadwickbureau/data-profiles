@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_050"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-24"
+pages = "12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "McLeod"
+use = "Herb"
+given = "Herb"
+
+[person.birth]
+place.country = "US"
+place.state = "FL"
+place.city = "DeFuniak Springs"
+
+[person.description]
+height = "74"
+weight = "182"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "AL"
+place.city = "Florala"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Columbus"
+team.league.name = "South Atlantic League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Boston"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Providence"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Albany"
+team.league.name = "New York State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Jersey City"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+
+

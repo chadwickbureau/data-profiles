@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_070"
+
+[[person.meta.citation]]
+title = "Herald and Review"
+date = "1915-04-04"
+pages = "18"
+
+[person.name]
+last = "Wilkes"
+use = "Joe"
+given = "Joe"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "WI"
+place.city = "Waupan"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Davenport"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+description.bats = "L"
+
+

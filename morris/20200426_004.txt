@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_004"
+
+[[person.meta.citation]]
+title = "Chambersburg Public Opinion 1915-08-28"
+pages = "5"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Gochenour"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chambersburg"
+team.league.name = "Blue Ridge League"
+
+

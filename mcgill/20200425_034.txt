@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_034"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-06"
+pages = "2"
+
+[person.name]
+last = "Nehring"
+use = "Fred"
+given = "Fred"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

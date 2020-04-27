@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_001"
+
+[[person.meta.citation]]
+title = "Reno Gazette-Journal"
+date = "1922-04-15"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Binghamton Press"
+date = "1922-09-27"
+pages = "25"
+
+[[person.meta.citation]]
+title = "Joplin Globe"
+date = "1922-07-20"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Rochester Democrat and Chronicle"
+date = "1922-12-07"
+pages = "29"
+
+[person.name]
+last = "Makin"
+use = "George"
+given = "George"
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Makin"
+person.name.use = "Hal"
+person.name.given = "Hal"
+
+
+[[person.education]]
+school.name = "Cal-Berkeley"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Syracuse"
+team.league.name = "International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western League"
+
+

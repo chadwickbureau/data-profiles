@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_012"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1929-08-28"
+pages = "18"
+
+[person.name]
+last = "Barnhart"
+use = "Leslie"
+given = "Leslie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Terre Haute"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Cleveland"
+team.league.name = "American League"
+
+

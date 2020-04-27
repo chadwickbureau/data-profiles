@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_109"
+
+[[person.meta.citation]]
+title = "Lincoln Star"
+date = "1929-03-01"
+pages = "1"
+
+[[person.meta.citation]]
+title = "Lincoln State Journal"
+date = "1928-02-13"
+pages = "8"
+
+[person.name]
+last = "Pierpont"
+given = "A. Walter"
+
+[person.death]
+date = "1929-02-28"
+place.country = "US"
+place.state = "NE"
+place.city = "Lexington"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "NE"
+place.city = "Grant"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+
+

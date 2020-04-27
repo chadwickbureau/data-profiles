@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_078"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Record"
+date = "1928-06-09"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1928-06-11"
+pages = "19"
+
+[person.name]
+last = "Ekeslon"
+use = "Juan"
+given = "Juan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Wilkes-Barre"
+team.league.name = "New York-Pennsylvania League"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Providence"
+team.league.name = "Eastern League"
+
+

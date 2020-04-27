@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_039"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-08-22"
+pages = "3"
+
+[person.name]
+last = "Howard"
+use = "Harry"
+given = "Harry"
+
+[person.birth]
+date = "1886-04-08"
+place.country = "US"
+place.state = "IL"
+place.city = "Cordova"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

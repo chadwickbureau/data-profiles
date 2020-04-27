@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_065"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1923-02-04"
+pages = "5"
+
+[person.name]
+last = "Wrenn"
+use = "Clyde"
+given = "Clyde"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Pawhuska"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Enid"
+team.league.name = "Western Association"
+
+

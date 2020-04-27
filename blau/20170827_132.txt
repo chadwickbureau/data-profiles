@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_132"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-03-26"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Vicksburg Herald"
+date = "1922-10-22"
+pages = "11"
+
+[person.name]
+last = "Schirmer"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Orlando"
+team.league.name = "Florida State League"
+description.height = "68"
+description.weight = "174"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Vicksburg"
+team.league.name = "Cotton States League"
+
+

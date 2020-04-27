@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_016"
+
+[[person.meta.citation]]
+title = "Sporting News"
+date = "1937-08-19"
+pages = "7"
+
+[person.name]
+last = "Mountain"
+use = "Ralph"
+given = "Ralph"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Vancouver"
+team.league.name = "Western International League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Vancouver"
+team.league.name = "Western International League"
+
+

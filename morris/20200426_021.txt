@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_021"
+
+[[person.meta.citation]]
+title = "Houston Post 1915-04-27"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Drennan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Waco"
+team.league.name = "Texas League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Memphis"
+team.league.name = "Southern Association"
+
+

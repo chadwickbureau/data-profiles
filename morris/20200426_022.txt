@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_022"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-05-25"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Smith"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "LF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Tulsa"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_074"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1928-06-03"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1928-06-19"
+pages = "19"
+
+[person.name]
+last = "Grube"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Portsmouth"
+team.league.name = "Virginia League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Hartford"
+team.league.name = "Eastern League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Williamsport"
+team.league.name = "Eastern League"
+
+

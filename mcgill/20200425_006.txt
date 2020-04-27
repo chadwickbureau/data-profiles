@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_006"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-05-03"
+pages = "7"
+
+[person.name]
+last = "McKibbon"
+use = "Byron"
+given = "Byron"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Inter-Mountain League"
+
+

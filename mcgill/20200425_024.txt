@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_024"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-21"
+pages = "2"
+
+[person.name]
+last = "Johnson"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+description.position = "P"
+description.throws = "L"
+
+

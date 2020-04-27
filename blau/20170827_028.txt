@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_028"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1931-09-11"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Evening News"
+date = "1932-06-28"
+pages = "15"
+
+[person.name]
+last = "Meyers"
+use = "Butch"
+given = "Howard"
+
+[[person.resides]]
+dates = "1931"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1932"
+team.name = "Scranton"
+team.league.name = "New York-Pennsylvania League"
+
+

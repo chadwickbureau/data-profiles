@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_029"
+
+[[person.meta.citation]]
+title = "Brooklyn Daily Eagle"
+date = "1929-01-28"
+pages = "27"
+
+[person.name]
+last = "White"
+use = "Lester"
+given = "Lester"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+description.throws = "R"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_014"
+
+[[person.meta.citation]]
+title = "The Butte Daily Post"
+date = "1909-05-05"
+pages = "6"
+
+[person.name]
+last = "Osburn"
+use = "Tamp"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1909"
+team.name = "Spokane"
+team.league.name = "Northwestern League"
+
+

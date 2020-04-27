@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_031"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-01"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Coe"
+use = "Frank"
+given = "Frank"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+

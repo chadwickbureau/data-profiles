@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_001"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-05-04"
+pages = "11"
+
+[person.name]
+last = "Carney"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1909"
+league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Salt Lake City"
+team.league.name = "Pacific National League"
+
+

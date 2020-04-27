@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_124"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-05-03"
+pages = "14"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1921-12-08"
+pages = "19"
+
+[person.name]
+last = "Anderson"
+use = "Andy"
+given = "Andy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+
+

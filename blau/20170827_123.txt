@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_123"
+
+[[person.meta.citation]]
+title = "Winnipeg Tribune"
+date = "1921-05-03"
+pages = "14"
+
+[person.name]
+last = "O'Neil"
+use = "Billy"
+given = "Billy"
+
+[[person.resides]]
+dates = "1921"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+description.bats = "L"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Springfield"
+team.league.name = "Eastern League"
+
+

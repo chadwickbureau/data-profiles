@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_072"
+
+[[person.meta.citation]]
+title = "Ogden (UT) Standard-Examiner"
+date = "1927-05-24"
+pages = "11"
+
+[person.name]
+last = "O'Shea"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Salt Lake City"
+team.league.name = "Utah-Idaho League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Logan"
+team.league.name = "Utah-Idaho League"
+
+

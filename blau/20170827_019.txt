@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_019"
+
+[[person.meta.citation]]
+title = "Vancouver Daily World"
+date = "1921-03-24"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-01-24"
+pages = "11"
+
+[person.name]
+last = "Mullen"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Tacoma"
+team.league.name = "Pacific Coast International League"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1921"
+team.name = "Tacoma"
+team.league.name = "Pacific Coast International League"
+
+

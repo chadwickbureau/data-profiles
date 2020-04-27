@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_095"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-06-17"
+pages = "10"
+
+[person.name]
+last = "Marshall"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Seattle"
+team.league.name = "Northwestern League"
+
+

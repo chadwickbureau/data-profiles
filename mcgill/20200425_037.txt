@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_037"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-08-19"
+pages = "3"
+
+[person.name]
+last = "Wilson"
+use = "Christy"
+given = "Christy"
+
+[person.birth]
+date = "1883-12-11"
+place.country = "US"
+place.state = "IA"
+place.city = "Davenport"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1904"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

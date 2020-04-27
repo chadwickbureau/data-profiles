@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_219"
+
+[[person.meta.citation]]
+title = "Claremore Daily Progress"
+date = "2017-12-28"
+url = "https://obituaries.claremoreprogress.com/obituary/roy-white-1018611082"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "White"
+use = "Roy"
+given = "Roy C."
+
+[person.death]
+date = "2017-12-28"
+place.country = "US"
+place.state = "MS"
+place.city = "Meridian"
+
+[person.burial]
+cemetery.name = "Mississippi Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Newton"
+
+[[person.education]]
+school.name = "Hickory HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Hickory"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

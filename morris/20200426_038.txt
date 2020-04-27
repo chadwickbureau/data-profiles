@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_038"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-05"
+pages = "13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Speer"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "L"
+
+

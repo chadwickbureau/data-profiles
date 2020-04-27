@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_007"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-05-04"
+pages = "10"
+
+[person.name]
+last = "Thomas"
+
+[person.description]
+note = [ "picture; belongs to Chicago Nationals" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+description.position = "P"
+description.throws = "R"
+
+

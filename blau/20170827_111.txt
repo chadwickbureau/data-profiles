@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_111"
+
+[[person.meta.citation]]
+title = "Vicksburg Evening Post"
+date = "1922-04-21"
+pages = "3"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1922-04-30"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Jackson Daily News"
+date = "1922-05-31"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1926-02-13"
+pages = "10"
+
+[person.name]
+last = "Poland"
+given = "E. F."
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Greenwood"
+team.league.name = "Cotton States League"
+description.bats = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Clarksdale"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Hattiesburg"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1926"
+team.name = "Alexandria"
+team.league.name = "Cotton States League"
+
+

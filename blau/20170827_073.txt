@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_073"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1928-04-27"
+pages = "2"
+
+[person.name]
+last = "Ferrell"
+
+[[person.education]]
+school.name = "University of North Carolina"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Norfolk"
+team.league.name = "Virginia League"
+description.position = "P"
+
+

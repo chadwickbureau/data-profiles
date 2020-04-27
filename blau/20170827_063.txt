@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_063"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-05-04"
+pages = "12"
+
+[person.name]
+last = "Rolf"
+use = "Eddie"
+given = "Eddie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+description.throws = "L"
+
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_050"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1930-07-21"
+pages = "8"
+
+[[person.meta.citation]]
+title = "Mason City Globe-Gazette"
+date = "1930-04-18"
+pages = "17"
+
+[person.name]
+last = "Mayes"
+use = "Joe"
+given = "Joe"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+dates = "/1927"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Tulsa"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1930"
+team.name = "Keokuk"
+team.league.name = "Mississippi Valley League"
+
+

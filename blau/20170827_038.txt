@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_038"
+
+[person.name]
+last = "Duggan"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Northampton"
+team.league.name = "Eastern Shore League"
+
+

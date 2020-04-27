@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_008"
+
+[[person.meta.citation]]
+title = "Raleigh News & Observer 1915-04-17"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Belanger"
+use = "Jerry"
+given = "Jerry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Raleigh"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Portsmouth"
+team.league.name = "North Carolina State League"
+
+

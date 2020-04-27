@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_020"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-05-22"
+pages = "2"
+
+[person.name]
+last = "Moore"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+

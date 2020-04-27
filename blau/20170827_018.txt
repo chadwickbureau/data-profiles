@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_018"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1936-04-21"
+pages = "16"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1937-03-09"
+pages = "16"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1938-03-06"
+pages = "43"
+
+[person.name]
+last = "Mueller"
+use = "Charley"
+given = "Charley"
+nick = "Mule"
+
+[[person.resides]]
+dates = "1935"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Mueller"
+person.name.use = "Heinie"
+person.name.given = "Heinie"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Marshall"
+team.league.name = "East Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1935"
+team.name = "Greensburg"
+team.league.name = "Pennsylvania State Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1937"
+team.name = "Huntington"
+team.league.name = "Mountain States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Fremont"
+team.league.name = "Ohio State League"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_216"
+
+[[person.meta.citation]]
+title = "Sujkowski Funeral Home"
+date = "2020-04-26"
+url = "https://www.sujkowskirossford.com/obituary/Norm-Losonsky"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Losonsky"
+use = "Norm"
+given = "Norman R."
+
+[person.birth]
+date = "1942-03-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Rossford"
+
+[person.death]
+date = "2018-01-02"
+place.country = "US"
+place.state = "OH"
+place.city = "Sylvania"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

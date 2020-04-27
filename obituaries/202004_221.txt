@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_221"
+
+[[person.meta.citation]]
+title = "Nordike Funeral Home"
+date = "2020-04-26"
+url = "https://www.nordikefuneralhome.com/obituaries/James-Norrenberns/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Norrenberns"
+use = "Jim"
+given = "James F."
+
+[person.birth]
+date = "1929-08-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Albers"
+
+[person.death]
+date = "2017-12-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Aviston"
+
+[person.burial]
+cemetery.name = "St. Bernard's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Albers"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

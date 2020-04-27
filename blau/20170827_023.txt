@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_023"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1923-05-19"
+pages = "9"
+
+[person.name]
+last = "Murphy"
+use = "Robert"
+given = "Robert"
+nick = "Buzz"
+
+[person.description]
+note = [ "Played outlaw ball for Denver in 1921" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Des Moines"
+team.league.name = "Western League"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_045"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "1921-06-30"
+pages = "6"
+
+[person.name]
+last = "Cashion"
+use = "Webb"
+given = "Webb"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Lakeland"
+team.league.name = "Florida State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Bradenton"
+team.league.name = "Florida State League"
+
+

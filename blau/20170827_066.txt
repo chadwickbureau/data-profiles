@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_066"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-05-27"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Springfield Republican"
+date = "1923-05-24"
+pages = "5"
+
+[person.name]
+last = "Palmatier"
+use = "Jacques"
+given = "Jacques"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+
+

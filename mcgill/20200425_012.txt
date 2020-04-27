@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_012"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-05-05"
+pages = "2"
+
+[person.name]
+last = "Campbell"
+use = "Willie"
+given = "Willie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

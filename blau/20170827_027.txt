@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_027"
+
+[[person.meta.citation]]
+title = "Brooklyn Daily Eagle"
+date = "1929-01-28"
+pages = "27"
+
+[person.name]
+last = "Meyers"
+use = "Howard"
+given = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+

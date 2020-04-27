@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_092"
+
+[[person.meta.citation]]
+title = "SABR bio"
+
+[person.name]
+last = "Marsans"
+use = "Armando"
+given = "Armando"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+

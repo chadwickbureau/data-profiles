@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_017"
+
+[[person.meta.citation]]
+title = "Pittsburg (KS) Sun"
+date = "1921-04-12"
+pages = "6"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1921-09-17"
+pages = "8"
+
+[[person.meta.citation]]
+title = "St. Louis Star"
+date = "1915-03-30"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1916-04-17"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1916-05-02"
+pages = "12"
+
+[person.name]
+last = "Mueller"
+use = "Walter"
+given = "Walter"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "MO"
+place.city = "Creve Coeur"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Joplin"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Pittsburgh"
+team.league.name = "National League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Burlington"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Hannibal"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Freeport"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+

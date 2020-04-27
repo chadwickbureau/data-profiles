@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_099"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1930-04-07"
+pages = "19"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1930-05-06"
+pages = "18"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1931-04-08"
+pages = "19"
+
+[person.name]
+last = "Patton"
+use = "Patrick"
+given = "Patrick"
+
+[[person.resides]]
+dates = "1930"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Rock Island"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Goldsboro"
+team.league.name = "Eastern Carolina League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "Moline"
+team.league.name = "Mississippi Valley League"
+
+

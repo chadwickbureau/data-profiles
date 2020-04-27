@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_048"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "1914-11-26"
+pages = "8"
+
+[person.name]
+last = "Reinhardt"
+use = "Charles"
+given = "Charles"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Galesburg"
+team.league.name = "Central Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Muscatine"
+team.league.name = "Central Association"
+
+

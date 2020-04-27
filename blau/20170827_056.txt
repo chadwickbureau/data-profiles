@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_056"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1921-09-16"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1921-12-18"
+pages = "7"
+
+[person.name]
+last = "O'Byrne"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Henryetta"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Drumright"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Okmulgee"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_098"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-06-22"
+pages = "5"
+
+[person.name]
+last = "Westall"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+
+[[person.transaction]]
+date = "1909-06-21"
+type = "released"
+leave.name = "Boise"
+leave.league.name = "Inter-Mountain"
+
+

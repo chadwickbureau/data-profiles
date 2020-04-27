@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_082"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-09"
+pages = "2"
+
+[person.name]
+last = "Fortier"
+use = "William"
+given = "William"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_107"
+
+[[person.meta.citation]]
+title = "Houston Post"
+date = "1922-03-03"
+pages = "9"
+
+[person.name]
+last = "Pierce"
+given = "W. J."
+
+[person.description]
+note = [ "With St. Paul for spring training in 1922" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1921"
+team.name = "Huron"
+team.league.name = "Dakota League"
+
+

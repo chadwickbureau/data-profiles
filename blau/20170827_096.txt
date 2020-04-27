@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_096"
+
+[[person.meta.citation]]
+title = "Alexandria Town Talk"
+date = "1936-03-28"
+pages = "11"
+
+[person.name]
+last = "Conner"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Alexandria"
+team.league.name = "Evangeline League"
+
+

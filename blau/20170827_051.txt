@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_051"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1924-06-10"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times"
+date = "1924-09-06"
+pages = "11"
+
+[[person.meta.citation]]
+title = "Kingsport Times"
+date = "1925-06-03"
+pages = "7"
+
+[person.name]
+last = "Nutter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Bristol"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Morristown"
+team.league.name = "Appalachian League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Morristown"
+team.league.name = "Appalachian League"
+
+

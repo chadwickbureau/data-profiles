@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_034"
+
+[[person.meta.citation]]
+title = "Pittsburg (KS) Daily Headlight"
+date = "1909-04-05"
+pages = "6"
+
+[person.name]
+last = "Myers"
+use = "William"
+given = "William"
+
+[[person.resides]]
+dates = "1909"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Pittsburg"
+team.league.name = "Western Association"
+
+

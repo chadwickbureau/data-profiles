@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:173388"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/173388"
+title = "The Sporting News Player Contract Cards, ScanID: 1047005857"
+
+[person.name]
+last = "White"
+given = "Roy Cornelius"
+
+
+[[person.transaction]]
+date = "1947-11-05"
+type = "signed"
+join.name = "Cordele"
+note = "Cordele 1947-11-05"
+
+[[person.transaction]]
+date = "1948-04-07"
+type = "optioned"
+leave.name = "Cordele"
+join.name = "Brewton"
+note = "opt to Brewton 1948-04-07"
+
+[[person.transaction]]
+date = "1948-05-01"
+type = "option-returned"
+leave.name = "Brewton"
+join.name = "Cordele"
+note = "opt ret to Cordele 1948-05-01"
+
+[[person.transaction]]
+date = "1948-05-07"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1948-05-07"
+
+[[person.transaction]]
+date = "1949-01-27"
+type = "signed"
+join.name = "Kinston"
+note = "Kinston 1949-01-27"
+
+[[person.transaction]]
+date = "1949-04-29"
+type = "released"
+leave.name = "Kinston"
+note = "rel 1949-04-29"
+
+[[person.transaction]]
+date = "1949-04-30"
+type = "signed"
+join.name = "Clinton (NC)"
+note = "Clinton (NC) 1949-04-30"
+
+[[person.transaction]]
+date = "1949-05-02"
+type = "released"
+leave.name = "Clinton (NC)"
+note = "rel 1949-05-02"
+

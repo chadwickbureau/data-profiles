@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_010"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-03"
+pages = "7"
+
+[person.name]
+last = "Huston"
+use = "Jack"
+given = "Jack"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_050"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1910-03-26"
+pages = "11"
+
+[person.name]
+last = "Brosieus"
+given = "C. C."
+
+[[person.resides]]
+dates = "1910"
+place.country = "US"
+place.state = "TX"
+place.city = "Rotan"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+description.throws = "R"
+description.bats = "R"
+description.age = "20"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Chillicothe"
+team.caliber = "semipro"
+team.place.country = "US"
+team.place.state = "OH"
+team.place.city = "Chillicothe"
+
+

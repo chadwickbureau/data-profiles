@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_104"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1928-01-08"
+pages = "10"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1928-03-03"
+pages = "17"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "1929-04-06"
+pages = "15"
+
+[person.name]
+last = "Whelan"
+use = "Gus"
+given = "August P."
+
+[[person.relation]]
+relationship = "brother of"
+person.name.last = "Whelan"
+person.name.use = "Tom"
+person.name.given = "Tom"
+
+
+[[person.education]]
+school.name = "Boston College"
+school.type = "college"
+degree = "graduated"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Lynn"
+team.league.name = "New England League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.bats = "R"
+description.throws = "R"
+description.height = "69.5"
+description.weight = "168"
+
+

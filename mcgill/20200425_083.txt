@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_083"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-09"
+pages = "2"
+
+[person.name]
+last = "Kelly"
+given = "W. A."
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+

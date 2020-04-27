@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_030"
+
+[[person.meta.citation]]
+title = "The Salt Lake Herald"
+date = "1909-05-27"
+pages = "5"
+
+[person.name]
+last = "Marshal"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Boise"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.name = "St. Louis"
+team.league.name = "National League"
+
+

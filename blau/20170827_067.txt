@@ -1,0 +1,84 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_067"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1930-04-07"
+pages = "23"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1929-04-09"
+pages = "28"
+
+[[person.meta.citation]]
+title = "Davenport Daily Times"
+date = "1923-06-23"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1924-08-26"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Decatur Herald"
+date = "1925-01-07"
+pages = "12"
+
+[[person.meta.citation]]
+title = "Des Moines Register"
+date = "1925-03-14"
+pages = "7"
+
+[person.name]
+last = "O'Shea"
+use = "Johnny"
+given = "John D."
+nick = "Red"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Henderson"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Winston-Salem"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Raleigh"
+team.league.name = "Piedmont League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Waterloo"
+team.league.name = "Mississippi Valley League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Minneapolis"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1925"
+team.name = "Marshalltown"
+team.league.name = "Mississippi Valley League"
+
+

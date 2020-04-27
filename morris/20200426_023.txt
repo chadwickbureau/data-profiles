@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_023"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-05-26"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Weeks"
+use = "Tommy"
+given = "Tommy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Sherman"
+team.league.name = "Western Association"
+description.position = "P"
+
+

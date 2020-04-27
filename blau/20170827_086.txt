@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_086"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "1924-04-21"
+pages = "9"
+
+[person.name]
+last = "Parrado"
+use = "Manuel"
+given = "Manuel"
+
+[[person.resides]]
+dates = "1924"
+place.country = "CU"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+

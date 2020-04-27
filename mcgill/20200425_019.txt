@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_019"
+
+[[person.meta.citation]]
+title = "The Salt Lake Tribune"
+date = "1909-05-24"
+pages = "7"
+
+[person.name]
+last = "Sturgeon"
+use = "Rabbit"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Salt Lake City"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Webb City"
+team.league.name = "Western Association"
+
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_017"
+
+[[person.meta.citation]]
+title = "Waco Morning News 1915-02-28"
+pages = "19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Yardley"
+use = "Finley"
+given = "Finley"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Ben Arnold"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Waco"
+team.league.name = "Texas League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+

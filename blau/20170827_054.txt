@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_054"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1928-01-09"
+pages = "15"
+
+[person.name]
+last = "Johnson"
+use = "Carl"
+given = "Carl"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Harrisburg"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "York"
+team.league.name = "New York-Pennsylvania League"
+
+

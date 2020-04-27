@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_025"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-24"
+pages = "2"
+
+[person.name]
+last = "Reed"
+use = "Zeke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+

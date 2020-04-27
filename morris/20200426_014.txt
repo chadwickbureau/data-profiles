@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_014"
+
+[[person.meta.citation]]
+title = "Waco Morning News 1915-04-18"
+pages = "20"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Pursell"
+use = "Lyle"
+given = "Lyle"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Waco"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "St. Joseph"
+team.league.name = "Western League"
+
+

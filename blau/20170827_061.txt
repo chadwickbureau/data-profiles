@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_061"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1936-04-20"
+pages = "7"
+
+[[person.meta.citation]]
+title = "Greenwood Commonwealth"
+date = "1936-05-09"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1936-05-17"
+pages = "13"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1936-05-12"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1936-08-09"
+pages = "15"
+
+[person.name]
+last = "O'Neil"
+use = "Jack"
+given = "Jack"
+
+[[person.resides]]
+dates = "1936"
+place.country = "US"
+place.state = "NY"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Greenwood"
+team.league.name = "Cotton States League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+description.throws = "L"
+
+[[person.affiliation]]
+type = "player"
+dates = "1936"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

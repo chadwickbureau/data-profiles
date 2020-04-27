@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_128"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1928-04-08"
+pages = "20"
+
+[[person.meta.citation]]
+title = "Arizona Daily Star"
+date = "1928-03-10"
+pages = "4"
+
+[person.name]
+last = "Pullins"
+use = "Cliff"
+given = "Cliff"
+
+[[person.resides]]
+dates = "1928"
+place.country = "US"
+place.state = "AZ"
+place.city = "Glendale"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Amarillo"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1927"
+team.name = "Mesa"
+team.league.name = "Arizona State League"
+
+

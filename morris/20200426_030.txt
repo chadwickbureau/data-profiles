@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_030"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-01"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Phelan"
+use = "Ed"
+given = "Ed"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+description.position = "P"
+
+

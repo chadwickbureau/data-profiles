@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_218"
+
+[[person.meta.citation]]
+title = "Dean K. Wetzler Funeral Home"
+date = "2020-04-26"
+url = "https://www.deankwetzlerfuneralhome.com/book-of-memories/3389566/Spackman-Ronald/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Spackman"
+use = "Ron"
+given = "Ronald Max"
+
+[person.birth]
+date = "1931-05-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Huston Township"
+
+[person.death]
+date = "2018-01-03"
+place.country = "US"
+place.state = "PA"
+place.city = "State College"
+
+[[person.education]]
+school.name = "Port Matilda HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Port Matilda"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

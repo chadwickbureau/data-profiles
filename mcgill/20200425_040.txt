@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_040"
+
+[[person.meta.citation]]
+title = "The Rock Island Argus"
+date = "1907-08-23"
+pages = "3"
+
+[person.name]
+last = "Eng"
+use = "Gus"
+given = "Gus"
+
+[person.birth]
+date = "1884-02-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Moline"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1905"
+team.name = "Rock Island"
+team.league.name = "Illinois-Indiana-Iowa League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1906"
+team.name = "Clinton"
+team.place.country = "US"
+team.place.state = "IA"
+team.place.city = "Clinton"
+team.caliber = "semipro"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_037"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-04-04"
+pages = "8"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "McCuller"
+use = "Doc"
+given = "Doc"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Shreveport"
+team.league.name = "Texas League"
+description.position = "P"
+description.throws = "R"
+
+

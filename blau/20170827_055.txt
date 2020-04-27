@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_055"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1931-10-09"
+pages = "18"
+
+[person.name]
+last = "Martin"
+use = "Pepper"
+given = "Pepper"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Ardmore"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1931"
+team.name = "St. Louis"
+team.league.name = "National League"
+
+

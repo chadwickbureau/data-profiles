@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_088"
+
+[[person.meta.citation]]
+title = "Scranton Republican"
+date = "1924-07-23"
+pages = "16"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1924-09-10"
+pages = "17"
+
+[person.name]
+last = "O'Brien"
+use = "Al"
+given = "Al"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1924"
+team.name = "Montpelier"
+team.league.name = "Quebec-Ontario-Vermont League"
+
+

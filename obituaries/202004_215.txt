@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_215"
+
+[[person.meta.citation]]
+title = "Eaton Funeral Home"
+date = "2020-04-26"
+url = "https://www.eatonfuneralhomes.com/obituary/Alcott-Phinney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Phinney"
+use = "Al"
+given = "Alcott Kellogg"
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Newton"
+
+[person.death]
+date = "2020-04-19"
+
+[[person.education]]
+school.name = "Newton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Newton"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

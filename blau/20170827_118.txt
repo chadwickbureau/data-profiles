@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_118"
+
+[[person.meta.citation]]
+title = "Jackson Clarion-Ledger"
+date = "1930-03-20"
+pages = "10"
+
+[person.name]
+last = "Dempsey"
+given = "E. L."
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Jackson"
+team.league.name = "Cotton States League"
+
+

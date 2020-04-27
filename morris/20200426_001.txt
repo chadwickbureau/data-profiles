@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_001"
+
+[[person.meta.citation]]
+title = "Raleigh News & Observer 1915-06-19"
+pages = "3"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Durborow"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charlotte"
+team.league.name = "North Carolina State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Martinsburg"
+team.league.name = "Blue Ridge League"
+
+

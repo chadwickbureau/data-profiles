@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_025"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-06-01"
+pages = "7"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Akin"
+use = "Roy"
+given = "Roy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mexia"
+team.league.name = "Central Texas League"
+description.position = "SS-C"
+
+

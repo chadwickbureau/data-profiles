@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_131"
+
+[[person.meta.citation]]
+title = "Iowa City Press-Citizen"
+date = "1921-03-26"
+pages = "9"
+
+[person.name]
+last = "Seiffert"
+use = "Leo"
+given = "Leo"
+
+[[person.affiliation]]
+type = "player"
+dates = "1920"
+team.name = "Winnipeg"
+team.league.name = "Western Canada League"
+description.height = "67"
+description.weight = "160"
+
+

@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_043"
+
+[[person.meta.citation]]
+title = "The Austin American"
+date = "1935-04-19"
+pages = "13"
+
+[person.name]
+last = "Raidy"
+use = "Joe"
+given = "Joe"
+
+[person.death]
+date = "1935-04-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Cheshire"
+

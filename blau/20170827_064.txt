@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_064"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Republican"
+date = "1923-02-04"
+pages = "5"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-02-04"
+pages = "9"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader"
+date = "1923-05-27"
+pages = "16"
+
+[person.name]
+last = "O'Reilly"
+use = "Dick"
+given = "Dick"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Pawhuska"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1922"
+team.name = "Fort Smith"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Springfield"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1923"
+team.name = "Grand Island"
+team.league.name = "Nebraska State League"
+
+

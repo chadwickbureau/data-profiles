@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_015"
+
+[[person.meta.citation]]
+title = "The Independent-Record"
+date = "1909-05-12"
+pages = "7"
+
+[person.name]
+last = "Cahill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1908"
+team.league.name = "Pacific Coast League"
+
+

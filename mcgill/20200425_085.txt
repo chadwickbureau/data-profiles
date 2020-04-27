@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_085"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-11"
+pages = "2"
+
+[person.name]
+last = "Gordon"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Helena"
+team.league.name = "Inter-Mountain League"
+
+

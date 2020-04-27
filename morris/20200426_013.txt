@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_013"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-05-01"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Anderson"
+use = "Ollie"
+given = "Ollie"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Texas League"
+
+

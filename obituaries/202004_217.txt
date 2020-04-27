@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_217"
+
+[[person.meta.citation]]
+title = "Carter-Ricks Funeral Homes"
+date = "2020-04-26"
+url = "https://carterricksfuneralhome.com/tribute/details/1414/Everett-Rottger/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-26"
+
+[person.name]
+last = "Rottger"
+use = "Everett"
+given = "Everett Anton"
+
+[person.birth]
+date = "1931-10-14"
+place.country = "US"
+place.state = "MO"
+place.city = "Chain of Rocks"
+
+[person.death]
+date = "2018-01-03"
+place.country = "US"
+place.state = "MO"
+place.city = "Elsberry"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

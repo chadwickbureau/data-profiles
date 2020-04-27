@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "mcgill:20200425_087"
+
+[[person.meta.citation]]
+title = "The Butte Miner"
+date = "1909-06-12"
+pages = "2"
+
+[person.name]
+last = "Dunn"
+use = "Bert"
+given = "Bert"
+
+[[person.affiliation]]
+type = "player"
+dates = "1909"
+team.name = "Butte"
+team.league.name = "Inter-Mountain League"
+
+

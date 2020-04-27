@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20170827_010"
+
+[[person.meta.citation]]
+title = "Elmira Star-Gazette"
+date = "1928-05-19"
+pages = "8"
+
+[person.name]
+last = "O'Hair"
+use = "Mickey"
+given = "Mickey"
+
+[[person.affiliation]]
+type = "player"
+dates = "1928"
+team.name = "Elmira"
+team.league.name = "New York-Pennsylvania League"
+
+

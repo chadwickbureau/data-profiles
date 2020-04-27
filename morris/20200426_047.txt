@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200426_047"
+
+[[person.meta.citation]]
+title = "Muskogee Times-Democrat 1915-03-30"
+pages = "25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+
+[person.name]
+last = "Patterson"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Muskogee"
+team.league.name = "Western Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+description.position = "LF"
+
+

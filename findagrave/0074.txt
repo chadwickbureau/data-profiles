@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0074"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-04-25"
+url = "https://www.findagrave.com/memorial/72205159"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-25"
+
+[person.name]
+last = "Nolt"
+use = "Albert"
+given = "Albert W."
+
+[person.birth]
+date = "1889-10-05"
+place.country = "US"
+place.state = "SD"
+place.city = "Hanson County"
+
+[person.death]
+date = "1972-03-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.burial]
+cemetery.name = "Green Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Rancho Palos Verdes"
+
+[person.sameas]
+findagrave = "72205159"
+
