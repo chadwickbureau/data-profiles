@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154600"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154600"
+title = "The Sporting News Player Contract Cards, ScanID: 1027001683"
+
+[person.name]
+last = "Lovera"
+given = "William Eugene"
+
+
+[[person.transaction]]
+date = "1952-08-14"
+type = "signed"
+join.name = "Big Spring"
+note = "Big Spring 1952-08-14"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Big Spring"
+note = "res for 1953"
+
+[[person.transaction]]
+date = "1953-02-17"
+type = "national-defense-list"
+leave.name = "Big Spring"
+note = "National Defense list 1953-02-17"
+

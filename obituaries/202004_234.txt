@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_234"
+
+[[person.meta.citation]]
+title = "Wellman Funeral Homes"
+date = "2020-04-30"
+url = "https://www.wellmanfuneralhomes.com/obituary/Jerry-Pritchard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-30"
+
+[person.name]
+last = "Pritchard"
+use = "Jerry"
+given = "Jerry Lee"
+
+[person.birth]
+date = "1934-03-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Circleville"
+
+[person.death]
+date = "2020-04-27"
+place.country = "US"
+place.state = "OH"
+place.city = "Circleville"
+
+[person.burial]
+cemetery.name = "Reber Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Ashville"
+
+[[person.education]]
+school.name = "Circleville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Circleville"
+
+[[person.education]]
+school.name = "Otterbein University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

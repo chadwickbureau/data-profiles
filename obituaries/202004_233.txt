@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_233"
+
+[[person.meta.citation]]
+title = "Wichmann Funeral Home"
+date = "2020-04-29"
+url = "https://wichmannfuneralhomes.com/obituary/allen-jorgen-hansen/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-29"
+
+[person.name]
+last = "Hansen"
+use = "Allen"
+given = "Allen Jorgen"
+
+[person.birth]
+date = "1930-04-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Gillett"
+
+[person.death]
+date = "2017-12-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Appleton"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Appleton"
+
+[[person.education]]
+school.name = "Menasha HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Menasha"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

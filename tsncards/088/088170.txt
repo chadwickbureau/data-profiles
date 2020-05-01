@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:88170"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/88170"
+title = "The Sporting News Player Contract Cards, ScanID: 1036000487"
+
+[person.name]
+last = "Potter"
+given = "J. M."
+
+
+[[person.transaction]]
+date = "1913-05"
+type = "signed"
+join.name = "Middlesboro"
+note = "Middlesboro 1913-05"
+
+[[person.transaction]]
+date = "1913-05"
+type = "released"
+leave.name = "Middlesboro"
+note = "rel 1913-05"
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:63361"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/63361"
+title = "The Sporting News Player Contract Cards, ScanID: 1019001073"
+
+[person.name]
+last = "Harding"
+given = "Dan J."
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1914-03"
+type = "signed"
+join.name = "Maysville"
+note = "Maysville 1914-03"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Maysville"
+note = "rel 1914-05"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Ironton"
+note = "Ironton 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "suspended"
+join.name = "Ironton"
+note = "susp 1915-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Huntington"
+note = "Huntington 1916-05"
+
+[[person.transaction]]
+date = "1916-05"
+type = "released"
+leave.name = "Huntington"
+note = "rel 1916-05"
+

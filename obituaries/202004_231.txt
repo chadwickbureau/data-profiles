@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_231"
+
+[[person.meta.citation]]
+title = "Sunset Memorial Gardens"
+date = "2020-04-29"
+url = "https://www.sunsetodessa.com/printnotice/William-Lovera/1o/0c/0q/0d/0b"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-29"
+
+[person.name]
+last = "Lovera"
+use = "Bill"
+given = "William"
+
+[person.birth]
+date = "1932-08-31"
+place.country = "US"
+place.state = "TX"
+place.city = "Strawn"
+
+[person.death]
+date = "2017-12-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Odessa"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Odessa"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

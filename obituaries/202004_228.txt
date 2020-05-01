@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_228"
+
+[[person.meta.citation]]
+title = "Moll Funeral Home"
+date = "2020-04-28"
+url = "http://www.mollfuneralhome.com/obituary/brian-fuess"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-28"
+
+[person.name]
+last = "Fuess"
+use = "Brian"
+given = "Brian Paul"
+
+[person.birth]
+date = "1977-03-08"
+place.country = "US"
+place.state = "IL"
+place.city = "Belleville"
+
+[person.death]
+date = "2020-04-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Jacksonville"
+
+[person.burial]
+cemetery.name = "Shepherd Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Barnhart"
+
+[[person.education]]
+school.name = "Belleville West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Belleville"
+
+[[person.education]]
+school.name = "Southwestern Illinois College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Missouri State University"
+school.type = "college"
+
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_014"
+
+[[person.meta.citation]]
+title = "Montgomery Advertiser"
+date = "1916-05-27"
+pages = "9"
+
+[person.name]
+last = "Kuhlman"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Valdosta"
+team.league.name = "Dixie League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1916"
+team.name = "Valdosta"
+team.league.name = "Dixie League"
+
+

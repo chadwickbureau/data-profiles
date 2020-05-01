@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:94612"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/94612"
+title = "The Sporting News Player Contract Cards, ScanID: 1035001115"
+
+[person.name]
+last = "Perry"
+given = "Harry"
+
+[person.birth]
+place.country = "US"
+place.state = "SC"
+place.city = "Greenville"
+
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Joplin"
+note = "Joplin 1910"
+
+[[person.transaction]]
+date = "1910-04"
+type = "released"
+leave.name = "Joplin"
+note = "rel 1910-04"
+
+[[person.transaction]]
+date = "1910"
+type = "signed"
+join.name = "Salina"
+note = "Salina 1910"
+
+[[person.transaction]]
+date = "1910-04"
+type = "released"
+leave.name = "Salina"
+note = "rel 1910-04"
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Greenville"
+note = "Greenville 1911"
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Ironton"
+note = "Ironton 1915-04"
+
+[[person.transaction]]
+date = "1915-07"
+type = "suspended"
+join.name = "Ironton"
+note = "susp 1915-07"
+
+[[person.transaction]]
+date = "1916-02"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1916-02"
+
+[[person.transaction]]
+date = "1916-04"
+type = "suspended"
+join.name = "Elmira"
+note = "susp 1916-04"
+

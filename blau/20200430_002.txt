@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_002"
+
+[[person.meta.citation]]
+title = "Chillicothe Gazette"
+date = "1914-08-25"
+pages = "6"
+
+[person.name]
+last = "McDaniels"
+use = "Chuck"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Ironton"
+team.league.name = "Ohio State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Manistee"
+team.league.name = "Michigan State League"
+
+

@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_227"
+
+[[person.meta.citation]]
+title = "Murdoch Funeral Homes"
+date = "2020-04-28"
+url = "https://www.murdochfuneralhome.com/obituaries/Estol-Jip-Fleming/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-28"
+
+[person.name]
+last = "Fleming"
+use = "Jip"
+given = "Estol R."
+
+[person.birth]
+date = "1930-07-28"
+place.country = "US"
+place.state = "IA"
+place.city = "Stockport"
+
+[person.death]
+date = "2020-04-25"
+place.country = "US"
+place.state = "IA"
+place.city = "Marion"
+
+[person.burial]
+cemetery.name = "Cedar Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Cedar Rapids"
+
+[[person.education]]
+school.name = "Stockport HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Stockport"
+
+[[person.education]]
+school.name = "Parsons College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

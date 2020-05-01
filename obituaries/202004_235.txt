@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_235"
+
+[[person.meta.citation]]
+title = "Craig Flagler Palms Funeral Home"
+date = "2020-04-30"
+url = "https://www.dignitymemorial.com/obituaries/flagler-beach-fl/eugene-engholm-7680303"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-30"
+
+[person.name]
+last = "Engholm"
+use = "Eugene"
+given = "Eugene H."
+
+[person.birth]
+date = "1929-06-17"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2017-12-08"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

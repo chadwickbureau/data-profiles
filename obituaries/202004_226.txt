@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_226"
+
+[[person.meta.citation]]
+title = "Wood Funeral Home"
+date = "2020-04-28"
+url = "http://www.woodfuneralhomeinc.com/obits/obituary.php?id=717803"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-28"
+
+[person.name]
+last = "Jillson"
+use = "Allen"
+given = "Allen W."
+suffix = "Sr."
+
+[person.birth]
+date = "1948-10-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "Tuckerton"
+
+[person.death]
+date = "2020-04-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Tuckerton"
+
+[[person.education]]
+school.name = "Southern Regional HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Stafford Township"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

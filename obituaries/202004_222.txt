@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_222"
+
+[[person.meta.citation]]
+title = "Gaylord Community Funeral Home"
+date = "2020-04-27"
+url = "https://www.gaylordfuneralhome.com/obituary/PhilipPeter-Olsen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-27"
+
+[person.name]
+last = "Olsen"
+use = "Pete"
+given = "Philip Peter"
+
+[person.birth]
+date = "1934-12-21"
+place.country = "US"
+place.state = "MI"
+place.city = "Reed City"
+
+[person.death]
+date = "2020-04-16"
+place.country = "US"
+place.state = "MI"
+place.city = "Gaylord"
+
+[[person.education]]
+school.name = "University of Wisconsin at Madison"
+school.type = "college"
+
+

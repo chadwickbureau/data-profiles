@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_229"
+
+[[person.meta.citation]]
+title = "Porto Funeral Homes"
+date = "2020-04-29"
+url = "https://www.portofuneralhomes.net/obituary/Vito-J.-DeVito/Orange-CT./1872463"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-29"
+
+[person.name]
+last = "DeVito"
+use = "Vito"
+given = "Vito Joseph"
+
+[person.birth]
+date = "1925-12-17"
+place.country = "US"
+place.state = "CT"
+place.city = "Stamford"
+
+[person.death]
+date = "2020-04-25"
+place.country = "US"
+place.state = "CT"
+place.city = "Bristol"
+
+[person.burial]
+cemetery.name = "Orange Center Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Orange"
+
+[[person.education]]
+school.name = "Stamford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Stamford"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

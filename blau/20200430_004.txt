@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_004"
+
+[[person.meta.citation]]
+title = "Charleston (WV) Daily Mail"
+date = "1915-04-27"
+pages = "6"
+
+[person.name]
+last = "McLean"
+given = "H. R."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charleston"
+team.league.name = "Ohio State League"
+description.throws = "L"
+
+

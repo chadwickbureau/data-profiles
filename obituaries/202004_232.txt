@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_232"
+
+[[person.meta.citation]]
+title = "Driscoll Funeral Home"
+date = "2020-04-29"
+url = "http://driscollfuneralhome.tributes.com/obituary/read/Aram-Mooradian-105616288"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-29"
+
+[person.name]
+last = "Mooradian"
+use = "Aram"
+given = "Aram George"
+
+[person.birth]
+date = "1930-12-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Haverhill"
+
+[person.death]
+date = "2017-12-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Haverhill"
+
+[person.burial]
+cemetery.name = "Linwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Haverhill"
+
+[[person.education]]
+school.name = "Haverhill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Haverhill"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

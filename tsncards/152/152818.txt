@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:152818"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/152818"
+title = "The Sporting News Player Contract Cards, ScanID: 1043001755"
+
+[person.name]
+last = "Stieglitz"
+given = "William Lee"
+
+
+[[person.transaction]]
+date = "1948-02-21"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1948-02-21"
+
+[[person.transaction]]
+date = "1948-04-17"
+type = "optioned"
+leave.name = "Selma"
+join.name = "Lumberton"
+note = "opt to Lumberton 1948-04-17"
+
+[[person.transaction]]
+date = "1948-05-22"
+type = "released"
+leave.name = "Lumberton"
+join.name = "Elizabethton"
+note = "rel to Elizabethton 1948-05-22"
+
+[[person.transaction]]
+date = "1948-06-01"
+type = "released"
+leave.name = "Elizabethton"
+join.name = "Janesville"
+note = "rel to Janesville 1948-06-01"
+
+[[person.transaction]]
+date = "1948-06-18"
+type = "released"
+leave.name = "Janesville"
+note = "rel 1948-06-18"
+

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_236"
+
+[[person.meta.citation]]
+title = "Lancaster Depew Bee"
+date = "2017-12-07"
+url = "https://www.lancasterbee.com/articles/salvatore-a-valvo-buffalo-police-officer/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-30"
+
+[person.name]
+last = "Valvo"
+use = "Salvatore"
+given = "Salvatore A."
+
+[person.death]
+date = "2017-11-30"
+
+[[person.education]]
+school.name = "Grover Cleveland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Buffalo"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:116427"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/116427"
+title = "The Sporting News Player Contract Cards, ScanID: 1023002185"
+
+[person.name]
+last = "Jones"
+given = "W. L."
+
+[person.description]
+position = "OF-3B"
+
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Lexington"
+note = "Lexington 1915-05"
+
+[[person.transaction]]
+date = "1915-07"
+type = "released"
+leave.name = "Lexington"
+note = "rel 1915-07"
+
+[[person.transaction]]
+date = "1922-06"
+type = "signed"
+join.name = "Winchester"
+note = "Winchester 1922-06"
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_225"
+
+[[person.meta.citation]]
+title = "A.A. Mariani and Son Funeral Home"
+date = "2020-04-28"
+url = "https://www.marianiandson.com/tributes/Richard-Hardy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-28"
+
+[person.name]
+last = "Hardy"
+use = "Dick"
+given = "Richard J."
+suffix = "Jr."
+
+[person.birth]
+date = "1940-09-11"
+
+[person.death]
+date = "2020-04-22"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+[[person.education]]
+school.name = "Dean College"
+school.type = "college"
+
+

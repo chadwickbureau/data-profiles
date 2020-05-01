@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_013"
+
+[[person.meta.citation]]
+title = "Abilene Weekly Chronicle"
+date = "1915-03-30"
+pages = "1"
+
+[person.name]
+last = "Briney"
+use = "Earl"
+given = "Earl"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "KS"
+place.city = "Abilene"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Frankfort"
+team.league.name = "Ohio State League"
+
+

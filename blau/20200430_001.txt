@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_001"
+
+[[person.meta.citation]]
+title = "King Bailey biography"
+url = "https://sabr.org/bioproj/person/465bb1eb"
+
+[person.name]
+last = "Bailey"
+use = "King"
+given = "King"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Gadsden"
+team.league.name = "Southeastern League"
+
+

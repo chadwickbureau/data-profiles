@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_012"
+
+[[person.meta.citation]]
+title = "Charleston (WV) Daily Mail"
+date = "1915-05-29"
+pages = "8"
+
+[person.name]
+last = "Ford"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charleston"
+team.league.name = "Ohio State League"
+description.bats = "R"
+description.throws = "L"
+description.position = "LF"
+
+

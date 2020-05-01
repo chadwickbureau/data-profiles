@@ -1,0 +1,88 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:131115"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131115"
+title = "The Sporting News Player Contract Cards, ScanID: 1029002947"
+
+[person.name]
+last = "McDaniels"
+given = "John"
+
+[person.description]
+position = "C"
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Frankfort"
+note = "Frankfort 1911"
+
+[[person.transaction]]
+date = "1913-02"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1913-02"
+
+[[person.transaction]]
+date = "1913-07"
+type = "signed"
+join.name = "Maysville"
+note = "Maysville 1913-07"
+
+[[person.transaction]]
+date = "1913-08"
+type = "suspended"
+leave.name = "Maysville"
+note = "1913-08"
+
+[[person.transaction]]
+date = "1913-08"
+type = "reinstated"
+join.name = "Maysville"
+note = "rein 1913-08"
+
+[[person.transaction]]
+date = "1914"
+type = "reserved"
+join.name = "Maysville"
+
+[[person.transaction]]
+date = "1914-05"
+type = "released"
+leave.name = "Maysville"
+join.name = "Ironton"
+note = "rel to Ironton 1914-05"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Ironton"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Ironton"
+note = "res for 1916"
+
+[[person.transaction]]
+date = "1916"
+type = "signed"
+join.name = "Marshalltown"
+note = "Marshalltown 1916"
+
+[[person.transaction]]
+date = "1916-04"
+type = "released"
+leave.name = "Marshalltown"
+note = "rel 1916-04"
+
+[[person.transaction]]
+date = "1916-05"
+type = "signed"
+join.name = "Huntington"
+note = "Huntington 1916-05"
+

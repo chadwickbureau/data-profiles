@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:121134"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/121134"
+title = "The Sporting News Player Contract Cards, ScanID: 1046001259"
+
+[person.name]
+last = "Vetter"
+given = "Wm."
+
+[person.description]
+position = "OF"
+
+[[person.resides]]
+place.address = "2674 Dennis St."
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Ironton"
+note = "Ironton 1915-04"
+
+[[person.transaction]]
+date = "1915-04"
+type = "released"
+leave.name = "Ironton"
+note = "rel 1915-04"
+
+[[person.transaction]]
+date = "1915-05"
+type = "signed"
+join.name = "Lexington"
+note = "Lexington 1915-05"
+

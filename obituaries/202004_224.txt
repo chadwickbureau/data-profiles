@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_224"
+
+[[person.meta.citation]]
+title = "French Funeral Home"
+date = "2020-04-27"
+url = "https://www.frenchfunerals.com/obituary/Robert-Garrecht"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-27"
+
+[person.name]
+last = "Garrecht"
+use = "Bob"
+given = "Robert Edwin"
+
+[person.birth]
+date = "1930-07-17"
+
+[person.death]
+date = "2020-04-22"
+
+[[person.education]]
+school.name = "Nyack HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Nyack"
+
+

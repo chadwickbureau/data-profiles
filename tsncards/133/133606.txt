@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:133606"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/133606"
+title = "The Sporting News Player Contract Cards, ScanID: 1031003149"
+
+[person.name]
+last = "Mooradian"
+given = "Aram"
+
+[[person.resides]]
+place.address = "48 Germain Avenue"
+place.country = "US"
+place.state = "MA"
+place.city = "Haverhill"
+
+
+[[person.transaction]]
+date = "1950-08-07"
+type = "signed"
+join.name = "St. Hyacinthe"
+note = "St. Hyacinthe 1950-08-07"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "St. Hyacinthe"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-02-08"
+type = "released"
+leave.name = "St. Hyacinthe"
+note = "rel 1951-02-08"
+
+[[person.transaction]]
+date = "1951-04-10"
+type = "signed"
+join.name = "LaGrange"
+note = "LaGrange 1951-04-10"
+
+[[person.transaction]]
+date = "1951-04-30"
+type = "released"
+leave.name = "LaGrange"
+note = "rel 1951-04-30"
+

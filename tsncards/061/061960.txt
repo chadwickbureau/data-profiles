@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:61960"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/61960"
+title = "The Sporting News Player Contract Cards, ScanID: 1016006399"
+
+[person.name]
+last = "Gilmore"
+given = "Paul L."
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1915-04"
+type = "signed"
+join.name = "Ironton"
+note = "Ironton 1915-04"
+
+[[person.transaction]]
+date = "1915-07"
+type = "suspended"
+join.name = "Ironton"
+note = "susp 1915-07"
+

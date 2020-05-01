@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200430_010"
+
+[[person.meta.citation]]
+title = "Portsmouth Daily Times"
+date = "1915-09-01"
+pages = "10"
+
+[person.name]
+last = "Hoffman"
+use = "Lawrence"
+given = "Lawrence"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charleston"
+team.league.name = "Ohio State League"
+
+

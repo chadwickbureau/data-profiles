@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202004_230"
+
+[[person.meta.citation]]
+title = "Herald-Tribune"
+date = "2020-04-28"
+url = "https://www.heraldtribune.com/sports/20200427/long-time-baseball-scout-george-zuraw-dies"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-29"
+
+[person.name]
+last = "Zuraw"
+use = "George"
+given = "George"
+
+[person.death]
+date = "2020-04-24"
+place.country = "US"
+place.state = "FL"
+
+[[person.education]]
+school.name = "Charleroi HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Charleroi"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

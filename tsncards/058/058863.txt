@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:58863"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/58863"
+title = "The Sporting News Player Contract Cards, ScanID: 1013004981"
+
+[person.name]
+last = "Engholm"
+given = "Eugene"
+
+
+[[person.transaction]]
+date = "1948-04-16"
+type = "signed"
+join.name = "Amsterdam"
+note = "Amsterdam 1948-04-16"
+
+[[person.transaction]]
+date = "1948-05-15"
+type = "released"
+leave.name = "Amsterdam"
+join.name = "Newark (OH)"
+note = "rel to Newark (OH) 1948-05-15"
+
+[[person.transaction]]
+date = "1948-05-26"
+type = "released"
+leave.name = "Newark (OH)"
+note = "rel 1948-05-26"
+
