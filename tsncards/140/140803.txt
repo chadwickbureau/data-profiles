@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:140803"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/140803"
+title = "The Sporting News Player Contract Cards, ScanID: 1041006449"
+
+[person.name]
+last = "Smith"
+given = "Howard Jesse"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "180"
+married = "yes"
+
+[person.birth]
+date = "1935-09-23"
+place.country = "US"
+place.state = "MD"
+place.city = "Frederick"
+
+[[person.resides]]
+place.address = "321 West 7th Street"
+place.country = "US"
+place.state = "MD"
+place.city = "Frederick"
+
+
+[[person.transaction]]
+date = "1955-07-11"
+type = "signed"
+join.name = "Paris (TX)"
+note = "Paris (TX) 1955-07-11"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Paris (TX)"
+note = "res 1956"
+
+[[person.transaction]]
+date = "1956-03-30"
+type = "released"
+leave.name = "Paris (TX)"
+note = "rel 1956-03-30"
+

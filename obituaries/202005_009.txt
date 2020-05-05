@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_009"
+
+[[person.meta.citation]]
+title = "Detroit News"
+date = "2007-01-28"
+url = "https://www.legacy.com/obituaries/detroitnews/obituary.aspx?n=donald-pete-fox&pid=182753199"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-04"
+
+[person.name]
+last = "Fox"
+use = "Donald"
+given = "Donald Pete"
+
+[person.birth]
+date = "1947-07-13"
+
+[person.death]
+date = "2007-01-07"
+

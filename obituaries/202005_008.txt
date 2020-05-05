@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_008"
+
+[[person.meta.citation]]
+title = "Scarponi Funeral Homes"
+date = "2020-05-04"
+url = "https://www.scarponifuneralhomes.com/obituary/Frank-Bernardo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-04"
+
+[person.name]
+last = "Bernardo"
+use = "Frank"
+given = "Frank S."
+
+[person.birth]
+date = "1937-09-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Kearny"
+
+[person.death]
+date = "2020-04-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Flemington"
+
+[person.burial]
+cemetery.name = "Immaculate Conception Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Annandale"
+
+[[person.education]]
+school.name = "Kearny HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Kearny"
+
+

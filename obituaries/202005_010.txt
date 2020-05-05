@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_010"
+
+[[person.meta.citation]]
+title = "Salisbury Daily Times"
+date = "1948-09-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-04"
+
+[person.name]
+last = "Smoot"
+use = "Roger"
+given = "Roger"
+
+[person.death]
+date = "1948-08-28"
+place.country = "US"
+place.state = "MD"
+place.city = "Annapolis"
+

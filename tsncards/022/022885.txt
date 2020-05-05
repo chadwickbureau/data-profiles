@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:22885"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22885"
+title = "The Sporting News Player Contract Cards, ScanID: 1004000784"
+
+[person.name]
+last = "Bernardo"
+given = "Frank"
+
+
+[[person.transaction]]
+date = "1956-12-30"
+type = "signed"
+join.name = "Danville"
+note = "Danville 1956-12-30"
+
+[[person.transaction]]
+date = "1957-03-23"
+type = "released"
+leave.name = "Danville"
+note = "rel 1957-03-23"
+

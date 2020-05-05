@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0076"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-04"
+url = "https://www.findagrave.com/memorial/132110973/roger-lee-smoot"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-04-25"
+
+[person.name]
+last = "Smoot"
+use = "Roger"
+given = "Roger Lee"
+
+[person.birth]
+date = "1905"
+
+[person.death]
+date = "1948"
+
+[person.burial]
+cemetery.name = "Glen Haven Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Glen Burnie"
+
+[person.sameas]
+findagrave = "132110973"
+

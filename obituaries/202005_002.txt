@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_002"
+
+[[person.meta.citation]]
+title = "Semian Funeral Home"
+date = "2020-05-03"
+url = "https://www.semiancares.com/obituary/John-Malina"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-03"
+
+[person.name]
+last = "Malina"
+use = "John"
+given = "John Joseph"
+
+[person.birth]
+date = "1929-03-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Taylor"
+
+[person.death]
+date = "2020-04-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.burial]
+cemetery.name = "St. Mary's Byzantine Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Taylor"
+
+[[person.education]]
+school.name = "Taylor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Taylor"
+
+[[person.education]]
+school.name = "University of Scranton"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

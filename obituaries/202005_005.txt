@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_005"
+
+[[person.meta.citation]]
+title = "Oconee Enterprise"
+date = "2020-04-29"
+url = "http://www.oconeeenterprise.com/news/article_1e035eaa-8a23-11ea-8ec6-ef3a8f9a00d7.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-04"
+
+[person.name]
+last = "Smith"
+use = "Morton"
+given = "Morton"
+
+[person.birth]
+date = "1922-11-16"
+place.country = "US"
+place.state = "GA"
+place.city = "Goshen"
+
+[person.death]
+date = "2020"
+
+[[person.education]]
+school.name = "Watkinsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Watkinsville"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

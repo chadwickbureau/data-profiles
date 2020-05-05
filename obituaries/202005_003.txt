@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_003"
+
+[[person.meta.citation]]
+title = "Bay Area Citizen"
+date = "2020-05-01"
+url = "https://www.legacy.com/obituaries/bay_area/obituary.aspx?n=olin-smith&pid=196127568"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-03"
+
+[person.name]
+last = "Smith"
+use = "Olin"
+given = "Olin Glenn"
+
+[person.birth]
+date = "1934-07-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Cridersville"
+
+[person.death]
+date = "2020-04-24"
+place.country = "US"
+place.state = "TX"
+place.city = "Clear Lake"
+
+[[person.education]]
+school.name = "Cridersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cridersville"
+
+[[person.education]]
+school.name = "Ohio Northern University"
+school.type = "college"
+
+

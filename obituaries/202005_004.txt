@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_004"
+
+[[person.meta.citation]]
+title = "Lord & Stephens Funeral Home"
+date = "2020-05-04"
+url = "https://www.lordandstephens.com/obituary/Morton-Smith"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-04"
+
+[person.name]
+last = "Smith"
+use = "Morton"
+given = "Morton"
+
+[person.birth]
+date = "1922-11-16"
+place.country = "US"
+place.state = "GA"
+place.city = "Goshen"
+
+[person.death]
+date = "2020-04-23"
+
+[person.burial]
+cemetery.name = "Oconee Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Watkinsville"
+
+[[person.education]]
+school.name = "Watkinsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Watkinsville"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+
