@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Cuppy"
+use = "George"
+given = "George Joseph"
+
+[person.birth]
+place.country = "US"
+place.state = "OH"
+place.city = "Washington Township"
+place.county = "Preble"
+
+[person.description]
+mlb_played = "1892/"
+

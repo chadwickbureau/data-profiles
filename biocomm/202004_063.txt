@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_063"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Rowe"
+use = "John"
+given = "John Charles"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Cold Spring"
+
+[person.description]
+mlb_played = "1879/"
+

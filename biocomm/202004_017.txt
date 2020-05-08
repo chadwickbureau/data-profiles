@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_017"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Farmer"
+use = "Edward"
+given = "Edward Joseph"
+
+[person.death]
+date = "2020-04-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.description]
+mlb_played = "1971/"
+

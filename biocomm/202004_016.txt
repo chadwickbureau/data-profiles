@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_016"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Divis"
+use = "Edward"
+given = "Edward George"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Brook Park"
+
+[person.description]
+mlb_played = "1916/"
+

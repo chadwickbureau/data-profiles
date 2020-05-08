@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_061"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Roach"
+use = "Wilbur"
+given = "Wilbur Charles"
+
+[person.burial]
+cemetery.name = "Memory Garden Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Tawas City"
+
+[person.description]
+mlb_played = "1910/"
+

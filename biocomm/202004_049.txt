@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_049"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Morgan"
+use = "Edwin"
+given = "Edwin Willis"
+
+[person.burial]
+cemetery.name = "Hillcrest Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Bedford Heights"
+
+[person.description]
+mlb_played = "1936/"
+

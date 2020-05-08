@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_006"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Bolger"
+use = "James"
+given = "James Cyril"
+
+[person.death]
+date = "2020-04-09"
+place.country = "US"
+place.state = "OH"
+place.city = "Green Township"
+place.county = "Hamilton"
+
+[person.burial]
+cemetery.name = "St. Joseph New Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"
+
+[person.description]
+mlb_played = "1950/"
+

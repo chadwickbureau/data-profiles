@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_013"
+
+[[person.meta.citation]]
+title = "G.L. Hills Funeral Home"
+date = "2020-05-05"
+url = "https://www.glhillsfuneralhome.com/obituary/david-kennedy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-05"
+
+[person.name]
+last = "Kennedy"
+use = "David"
+given = "David R."
+
+[person.birth]
+date = "1927-04-17"
+
+[person.death]
+date = "2020-04-29"
+place.country = "US"
+place.state = "MS"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

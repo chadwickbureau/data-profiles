@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_069"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Stephenson"
+use = "Robert"
+given = "Robert Loyd"
+
+[person.death]
+date = "2020-03-20"
+place.country = "US"
+place.state = "OK"
+place.city = "Norman"
+
+[person.description]
+mlb_played = "1955/"
+

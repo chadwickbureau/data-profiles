@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_040"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Kucab"
+use = "John"
+given = "John Albert"
+
+[person.burial]
+cemetery.name = "St. John Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Coltsville"
+
+[person.description]
+mlb_played = "1950/"
+

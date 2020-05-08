@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_019"
+
+[[person.meta.citation]]
+title = "Roberson Funeral Home"
+date = "2020-05-07"
+url = "https://www.robersonfh.com/obituary/richard-e-verbanic/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-07"
+
+[person.name]
+last = "Verbanic"
+use = "Richard"
+given = "Richard E."
+
+[person.birth]
+date = "1928-05-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Merrittstown"
+
+[person.death]
+date = "2017-10-21"
+place.country = "US"
+place.state = "FL"
+place.city = "Port Charlotte"
+
+[[person.education]]
+school.name = "Redstone HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Republic"
+
+[[person.education]]
+school.name = "Waynesburg University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

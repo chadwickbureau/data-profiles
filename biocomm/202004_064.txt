@@ -1,0 +1,19 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_064"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Schmidt"
+use = "David"
+given = "David Frederick"
+
+[person.description]
+mlb_played = "1981/"
+height = "74"
+weight = "215"
+

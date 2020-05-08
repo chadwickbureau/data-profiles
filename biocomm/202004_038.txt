@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_038"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Koshorek"
+use = "Clement"
+given = "Clement John"
+
+[person.burial]
+cemetery.name = "White Chapel Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Troy"
+
+[person.description]
+mlb_played = "1952/"
+

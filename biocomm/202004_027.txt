@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_027"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Hankins"
+use = "Jay"
+given = "Jay Nelson"
+
+[person.burial]
+cemetery.name = "Park Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Kansas City"
+
+[person.description]
+mlb_played = "1961/"
+

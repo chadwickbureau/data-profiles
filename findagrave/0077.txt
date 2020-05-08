@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0077"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-05"
+url = "https://www.findagrave.com/memorial/15654565"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-05"
+
+[person.name]
+last = "Koewing"
+use = "Wilson"
+given = "Wilson Carl"
+
+[person.birth]
+date = "1912-01-27"
+
+[person.death]
+date = "1990-10-31"
+
+[person.burial]
+cemetery.name = "Gumbo Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Chesterfield"
+
+[person.sameas]
+findagrave = "15654565"
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_056"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Patterson"
+use = "Jarrod"
+given = "Jarrod Zane"
+
+[person.death]
+date = "2020-03-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Chilton County"
+
+[person.burial]
+cemetery.name = "Martin Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Clanton"
+
+[person.description]
+mlb_played = "2001/"
+

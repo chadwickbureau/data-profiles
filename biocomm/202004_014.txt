@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "DeVormer"
+use = "Albert"
+given = "Albert E."
+
+[person.burial]
+cemetery.name = "Fairplains Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Grand Rapids"
+
+[person.description]
+mlb_played = "1918/"
+

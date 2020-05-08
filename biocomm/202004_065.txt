@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_065"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Shanks"
+use = "Howard"
+given = "Howard Samuel"
+
+[person.description]
+mlb_played = "1912/"
+bats = "L"
+

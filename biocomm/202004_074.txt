@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_074"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Weaver"
+use = "William"
+given = "William B."
+
+[person.burial]
+cemetery.name = "Hillside Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Akron"
+
+[person.description]
+mlb_played = "1888/"
+

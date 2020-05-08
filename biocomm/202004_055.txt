@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_055"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Oyler"
+use = "Raymond"
+given = "Raymond Francis"
+
+[person.birth]
+date = "1937-08-04"
+
+[person.description]
+mlb_played = "1965/"
+

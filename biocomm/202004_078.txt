@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_078"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Wynn"
+use = "James"
+given = "James Sherman"
+
+[person.death]
+date = "2020-03-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+mlb_played = "1963/"
+

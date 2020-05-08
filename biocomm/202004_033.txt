@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_033"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Hyde"
+use = "Richard"
+given = "Richard Elde"
+
+[person.death]
+date = "2020-04-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Champaign"
+
+[person.burial]
+cemetery.name = "Grandview Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Champaign"
+
+[person.description]
+mlb_played = "1955/"
+

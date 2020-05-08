@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_018"
+
+[[person.meta.citation]]
+title = "El Paso Times"
+date = "1992-10-27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-07"
+
+[person.name]
+last = "Ochoa"
+use = "Jimmy"
+given = "Jimmy"
+
+[person.death]
+date = "1992-10-25"
+
+[person.burial]
+cemetery.name = "Fort Bliss National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "El Paso"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

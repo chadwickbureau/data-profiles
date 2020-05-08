@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_054"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Oliver"
+use = "Robert"
+given = "Robert Lee"
+
+[person.death]
+date = "2020-04-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Rio Linda"
+
+[person.description]
+mlb_played = "1965/"
+

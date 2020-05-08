@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_053"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Northrup"
+use = "James"
+given = "James Thomas"
+
+[person.burial]
+cemetery.name = "Ridgelawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Breckenridge"
+
+[person.description]
+mlb_played = "1964/"
+

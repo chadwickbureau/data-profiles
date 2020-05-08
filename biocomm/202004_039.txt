@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_039"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Kreeger"
+use = "Edward"
+given = "Edward F."
+
+[person.death]
+date = "1899-07-12"
+
+[person.description]
+mlb_played = "1884/"
+

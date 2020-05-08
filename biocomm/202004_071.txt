@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_071"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Turner"
+use = "Terrance"
+given = "Terrance Lamont"
+
+[person.burial]
+cemetery.name = "Knollwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Mayfield Heights"
+
+[person.description]
+mlb_played = "1901/"
+

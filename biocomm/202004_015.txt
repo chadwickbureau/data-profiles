@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Diaz"
+use = "Carlos"
+given = "Carlos Antonio"
+
+[person.burial]
+cemetery.name = "Valley of the Temples Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "HI"
+cemetery.place.city = "Kaneohe"
+
+[person.description]
+mlb_played = "1982/"
+

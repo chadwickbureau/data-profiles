@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_020"
+
+[[person.meta.citation]]
+title = "Calaveras Enterprise"
+date = "2017-10-25"
+url = "http://www.calaverasenterprise.com/news/obituaries/article_8f6e39fc-b9ce-11e7-9a46-9fc4706d1150.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-07"
+
+[person.name]
+last = "Stone"
+use = "Babe"
+given = "James"
+
+[person.birth]
+date = "1926-07-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Copperopolis"
+
+[person.death]
+date = "2017-10-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Merced"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

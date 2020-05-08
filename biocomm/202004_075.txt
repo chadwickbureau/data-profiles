@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_075"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Wertz"
+use = "Dwight"
+given = "Dwight Lyman Moody"
+
+[person.burial]
+cemetery.name = "Highland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "South Bend"
+
+[person.description]
+mlb_played = "1914/"
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_051"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Murray"
+use = "Thomas"
+given = "Thomas Aloysius"
+
+[person.birth]
+date = "1867-03-23"
+place.country = "US"
+place.state = "NJ"
+place.city = "Paterson"
+
+[person.death]
+date = "1939-06-26"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.burial]
+cemetery.name = "Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Columbus"
+
+[person.description]
+mlb_played = "1894/"
+

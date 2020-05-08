@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_077"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Workman"
+use = "Henry"
+given = "Henry Kilgariff"
+
+[person.death]
+date = "2020-03-16"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Monica"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Culver City"
+
+[person.description]
+mlb_played = "1950/"
+

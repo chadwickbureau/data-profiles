@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_035"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Johnson"
+use = "Clair"
+given = "Clair Barth"
+
+[person.death]
+date = "2020-04-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Palos Heights"
+
+[person.description]
+mlb_played = "1969/"
+

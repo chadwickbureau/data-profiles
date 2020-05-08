@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:62054"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/62054"
+title = "The Sporting News Player Contract Cards, ScanID: 1014001271"
+
+[person.name]
+last = "Falkenstein"
+given = "Harold Robert"
+
+
+[[person.transaction]]
+date = "1950-0413"
+type = "signed"
+join.name = "Concord"
+note = "Concord 1950-0413"
+
+[[person.transaction]]
+date = "1950-06-08"
+type = "released"
+leave.name = "Concord"
+note = "rel 1950-06-08"
+

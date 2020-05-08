@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_014"
+
+[[person.meta.citation]]
+title = "Rossi Family Funeral Home"
+date = "2020-05-06"
+url = "https://www.rossifuneralhomeinc.com/obituary/Kenneth-Bandi"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-06"
+
+[person.name]
+last = "Bandi"
+use = "Ken"
+given = "Kenneth Paul"
+
+[person.birth]
+date = "1936-05-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Steubenville"
+
+[person.death]
+date = "2020-05-02"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Massillon"
+
+[[person.education]]
+school.name = "McKinley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Canton"
+
+[[person.education]]
+school.name = "Ohio State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

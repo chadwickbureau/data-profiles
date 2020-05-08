@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_015"
+
+[[person.meta.citation]]
+title = "Greenoaks Funeral Home"
+date = "2020-05-06"
+url = "https://www.dignitymemorial.com/obituaries/baton-rouge-la/jack-goetzmann-7636284"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-06"
+
+[person.name]
+last = "Goetzmann"
+use = "Jack"
+given = "Jack Felix"
+
+[person.birth]
+date = "1923-07-05"
+
+[person.death]
+date = "2017-11-11"
+
+[person.burial]
+cemetery.name = "Greenoaks Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Baton Rouge"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

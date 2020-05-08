@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_016"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "2017-11-07"
+url = "https://www.legacy.com/obituaries/stltoday/obituary.aspx?n=henry-theodore-likes-ted&pid=187167442"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-06"
+
+[person.name]
+last = "Likes"
+use = "Ted"
+given = "Henry Theodore"
+
+[person.death]
+date = "2017-11-03"
+
+[[person.education]]
+school.name = "Washington University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

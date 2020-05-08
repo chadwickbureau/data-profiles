@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_020"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Garcia"
+use = "Damaso"
+given = "Damaso Domingo"
+matrilineal = "Sanchez"
+
+[person.death]
+date = "2020-04-15"
+place.country = "DO"
+place.state = "Distrito Nacional"
+place.city = "Santo Domingo"
+
+[person.burial]
+cemetery.name = "Cementerio Puerta del Cielo"
+cemetery.place.country = "DO"
+cemetery.place.state = "Distrito Nacional"
+cemetery.place.city = "Santo Domingo"
+
+[person.description]
+mlb_played = "1978/"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_067"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Sherdel"
+use = "William"
+given = "William Henry"
+
+[person.burial]
+cemetery.name = "Annunciation of the Blessed Virgin Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "McSherrytown"
+
+[person.description]
+mlb_played = "1918/"
+

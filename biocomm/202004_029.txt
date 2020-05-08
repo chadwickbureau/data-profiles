@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_029"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Healy"
+use = "Thomas"
+given = "Thomas Fitzgerald"
+
+[person.death]
+date = "1974-01-15"
+
+[person.description]
+mlb_played = "1915/"
+

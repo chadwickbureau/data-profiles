@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_005"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Beckert"
+use = "Glenn"
+given = "Glenn Alfred"
+
+[person.death]
+date = "2020-04-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Englewood"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[person.description]
+mlb_played = "1965/"
+

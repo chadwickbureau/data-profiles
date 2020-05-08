@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_076"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Winkles"
+use = "Bobby"
+given = "Bobby Brooks"
+
+[person.death]
+date = "2020-04-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Indian Wells"
+
+[person.burial]
+cemetery.name = "El Toro Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Lake Forest"
+
+[person.description]
+mlb_managed = "1973/"
+

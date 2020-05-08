@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_025"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Hacker"
+use = "Richard"
+given = "Richard Warren"
+
+[person.death]
+date = "2020-04-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Fairview Heights"
+
+[person.burial]
+cemetery.name = "Oak Ridge Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "New Athens"
+
+[person.description]
+mlb_played = "1971/"
+

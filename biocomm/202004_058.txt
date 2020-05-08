@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_058"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Poat"
+use = "Raymond"
+given = "Raymond Willis"
+
+[person.burial]
+cemetery.name = "Chapel Hill Gardens South Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Oak Lawn"
+
+[person.description]
+mlb_played = "1942/"
+

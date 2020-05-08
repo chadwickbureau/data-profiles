@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_019"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Frey"
+use = "James"
+given = "James Gottfried"
+
+[person.death]
+date = "2020-04-12"
+place.country = "US"
+place.state = "FL"
+place.city = "Ponte Vedra Beach"
+
+[person.description]
+mlb_managed = "1980/"
+

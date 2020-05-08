@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0078"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-07"
+url = "https://www.findagrave.com/memorial/3325894"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-07"
+
+[person.name]
+last = "Ochoa"
+use = "Jimmy"
+given = "Jimmy"
+
+[person.birth]
+date = "1930-07-14"
+
+[person.death]
+date = "1992-10-25"
+
+[person.burial]
+cemetery.name = "Fort Bliss National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "El Paso"
+
+[person.sameas]
+findagrave = "3325894"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

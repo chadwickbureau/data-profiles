@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_044"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Matias"
+use = "John"
+given = "John Roy"
+
+[person.death]
+date = "2020-04-07"
+place.country = "US"
+place.state = "HI"
+place.city = "Aiea"
+
+[person.description]
+mlb_played = "1970/"
+
+[[person.relation]]
+relationship = "uncle of"
+person.name.last = "DeSa"
+person.name.use = "Joe"
+person.name.given = "Joe"
+
+

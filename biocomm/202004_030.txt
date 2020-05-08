@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_030"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Horner"
+use = "William"
+given = "William Frank"
+
+[person.description]
+mlb_played = "1894/"
+throws = "R"
+

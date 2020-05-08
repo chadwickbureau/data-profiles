@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_031"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Houtteman"
+use = "Arthur"
+given = "Arthur Joseph"
+
+[person.burial]
+cemetery.name = "Guardian Angels Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Rochester"
+
+[person.description]
+mlb_played = "1945/"
+

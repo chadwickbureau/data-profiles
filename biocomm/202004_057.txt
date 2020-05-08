@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_057"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Pavletich"
+use = "Donald"
+given = "Donald Stephen"
+
+[person.death]
+date = "2020-03-05"
+place.country = "US"
+place.state = "WI"
+place.city = "Brookfield"
+
+[person.burial]
+cemetery.name = "Wisconsin Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Brookfield"
+
+[person.description]
+mlb_played = "1957/"
+

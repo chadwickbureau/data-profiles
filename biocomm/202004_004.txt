@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_004"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Becker"
+use = "Martin"
+given = "Martin Henry"
+
+[person.birth]
+date = "1889-12-25"
+
+[person.description]
+mlb_played = "1915/"
+

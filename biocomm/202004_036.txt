@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_036"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Kaline"
+use = "Albert"
+given = "Albert William"
+
+[person.death]
+date = "2020-04-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Bloomfield Hills"
+
+[person.description]
+mlb_played = "1953/"
+

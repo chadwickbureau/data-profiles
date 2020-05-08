@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:124240"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/124240"
+title = "The Sporting News Player Contract Cards, ScanID: 1046000903"
+
+[person.name]
+last = "Verbanic"
+given = "Richard E."
+
+
+[[person.transaction]]
+date = "1948-11-03"
+type = "signed"
+join.name = "Welch"
+note = "Welch 1948-11-03"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Welch"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1949-05-13"
+type = "released"
+leave.name = "Welch"
+note = "rel 1949-05-13"
+

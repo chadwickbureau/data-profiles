@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_021"
+
+[[person.meta.citation]]
+title = "Fitzgerald Funeral Home"
+date = "2020-05-07"
+url = "https://www.fitzgeraldfh.com/obituaries/Harold--Bob--Falkenstein?obId=2631740#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-07"
+
+[person.name]
+last = "Falkenstein"
+use = "Bob"
+given = "Harold Robert"
+
+[person.birth]
+date = "1931-02-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Astoria"
+
+[person.death]
+date = "2017-10-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Rockford"
+
+[person.burial]
+cemetery.name = "Belvidere Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Belvidere"
+
+[[person.education]]
+school.name = "Belvidere HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Belvidere"
+
+

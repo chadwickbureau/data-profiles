@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_043"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Luff"
+use = "Harry"
+given = "Henry Thomas"
+
+[person.description]
+mlb_played = "1875/"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202004_018"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Ferris"
+use = "Albert"
+given = "Albert Samuel"
+
+[person.burial]
+cemetery.name = "Roseland Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Berkley"
+
+[person.description]
+mlb_played = "1901/"
+
