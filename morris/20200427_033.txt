@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_033"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-05-11"
+pages = "12"
+
+[person.name]
+last = "Kluttz"
+use = "Dewitt"
+given = "Dewitt"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Davidson College"
+team.caliber = "college"
+
+

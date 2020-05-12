@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_045"
+
+[[person.meta.citation]]
+title = "Corsicana Daily Dun 1915-05-10"
+pages = "4"
+
+[person.name]
+last = "Morton"
+use = "Roy"
+given = "Roy"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "TX"
+place.city = "Jacksboro"
+
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Corsicana"
+team.league.name = "Central Texas League"
+
+

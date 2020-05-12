@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_022"
+
+[[person.meta.citation]]
+title = "Marin Independent Journal"
+date = "2017-10-15"
+url = "https://www.legacy.com/obituaries/marinij/obituary.aspx?n=dominic-a-pomilia&pid=186956228&fhid=24159"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "Pomilia"
+use = "Dominic"
+given = "Dominic A."
+suffix = "Sr."
+
+[person.birth]
+date = "1930-09-17"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2017-10-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Corte Madera"
+
+[[person.education]]
+school.name = "Galileo HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_004"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-04-04"
+pages = "37"
+
+[person.name]
+last = "McGill"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "San Antonio"
+team.league.name = "Texas League"
+
+

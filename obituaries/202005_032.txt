@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_032"
+
+[[person.meta.citation]]
+title = "Smith Family Funeral Homes"
+date = "2020-05-09"
+url = "https://www.smithfamilyfuneralhomes.com/obituary/Carl-Bowles"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-09"
+
+[person.name]
+last = "Bowles"
+use = "Carl"
+given = "Carl Gaylord"
+
+[person.birth]
+date = "1930-09-12"
+place.country = "US"
+place.state = "MI"
+place.city = "Antrim Township"
+
+[person.death]
+date = "2017-10-02"
+place.country = "US"
+place.state = "MI"
+place.city = "Ashley"
+
+[[person.education]]
+school.name = "Morrice HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Morrice"
+
+

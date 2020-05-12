@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_048"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-06-17"
+pages = "9"
+
+[person.name]
+last = "Womack"
+use = "Harry"
+given = "Harry"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Western Association"
+
+

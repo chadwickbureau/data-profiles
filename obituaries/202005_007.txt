@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_007"
+
+[[person.meta.citation]]
+title = "Forastiere Family Funeral Home"
+date = "2020-05-08"
+url = "https://www.forastiere.com/tributes/Francis-DeVivo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "DeVivo"
+use = "Francis"
+given = "Francis Angelo"
+
+[person.birth]
+date = "1929-04-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2017-10-14"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

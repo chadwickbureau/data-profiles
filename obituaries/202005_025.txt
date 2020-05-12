@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_025"
+
+[[person.meta.citation]]
+title = "Southern Illinoisan"
+date = "1969-06-05"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "Jansco"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1915-08-08"
+
+[person.death]
+date = "1969-06-04"
+place.country = "US"
+place.state = "IL"
+place.city = "West Frankfort"
+

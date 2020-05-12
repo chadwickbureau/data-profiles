@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_040"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-05-11"
+pages = "12"
+
+[person.name]
+last = "Harker"
+use = "Frank"
+given = "Frank"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "SC"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "P"
+
+

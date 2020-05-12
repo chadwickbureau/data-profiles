@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_003"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-04-01"
+pages = "12"
+
+[person.name]
+last = "King"
+use = "Bert"
+given = "Albert"
+nick = "Tom"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Herrick"
+
+[person.description]
+height = "66"
+weight = "150"
+bats = "L"
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "IL"
+place.city = "Cowden"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+description.position = "OF"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

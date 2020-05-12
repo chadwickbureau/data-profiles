@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:10691"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/10691"
+title = "The Sporting News Player Contract Cards, ScanID: 003001772"
+
+[person.name]
+last = "Barton"
+given = "Thomas Lavon"
+
+
+[[person.transaction]]
+date = "1956-02-20"
+type = "signed"
+join.name = "Graceville"
+note = "Graceville 1956-02-20"
+
+[[person.transaction]]
+date = "1956-06-30"
+type = "released"
+leave.name = "Graceville"
+note = "rel 1956-06-30"
+

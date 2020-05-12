@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_027"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "1955-07-20"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "Harrison"
+use = "Edwin"
+given = "Edwin R."
+
+[person.death]
+date = "1955-07-18"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Malden"
+

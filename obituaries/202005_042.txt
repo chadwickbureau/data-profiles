@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_042"
+
+[[person.meta.citation]]
+title = "Roberts Funeral & Cremation Chapel"
+date = "2020-05-11"
+url = "https://robertsfuneralandcremation.com/onischuk-william-bill/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "Onischuk"
+use = "Bill"
+given = "William"
+
+[person.birth]
+date = "1927-01-23"
+place.country = "US"
+place.state = "MN"
+place.city = "South St. Paul"
+
+[person.death]
+date = "2020-04-15"
+
+[person.burial]
+cemetery.name = "General Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "South St. Paul"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

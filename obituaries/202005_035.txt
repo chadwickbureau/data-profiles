@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_035"
+
+[[person.meta.citation]]
+title = "Crowell Brothers Funeral Home"
+date = "2020-05-10"
+url = "https://www.crowellbrothers.com/obituaries/Barry-Alan-Fullerton?obId=12924628#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-10"
+
+[person.name]
+last = "Fullerton"
+use = "Barry"
+given = "Barry Alan"
+
+[person.birth]
+date = "1935-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2020-05-06"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

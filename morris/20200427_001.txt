@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_001"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-30"
+pages = "10"
+
+[person.name]
+last = "Diamond"
+use = "Jack"
+given = "Jack"
+
+[person.description]
+bats = "R"
+note = [ "picture" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.league.name = "Kentucky-Illinois-Tennessee League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+

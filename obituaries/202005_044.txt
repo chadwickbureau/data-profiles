@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_044"
+
+[[person.meta.citation]]
+title = "Huntsman Funeral Home"
+date = "2020-05-11"
+url = "http://huntsmanfuneralhomes.com/2020/05/05/william-a-dunn-sr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "Dunn"
+use = "William"
+given = "William A."
+suffix = "Sr."
+
+[person.birth]
+date = "1932-02-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Sheridan"
+
+[person.death]
+date = "2020-05-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Wexford"
+
+[person.burial]
+cemetery.name = "Sewickley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Sewickley"
+

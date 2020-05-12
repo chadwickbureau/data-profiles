@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_036"
+
+[[person.meta.citation]]
+title = "Hillis, Combs & Nestor Funeral Home"
+date = "2020-05-10"
+url = "https://www.hilliscombsnestor.com/obituaries/Francis-Carpenter-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-10"
+
+[person.name]
+last = "Carpenter"
+use = "Frank"
+given = "Francis Harold"
+
+[person.birth]
+date = "1923-08-20"
+
+[person.death]
+date = "2017-09-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Zanesville"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Zanesville"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

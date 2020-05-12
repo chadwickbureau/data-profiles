@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:59897"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/59897"
+title = "The Sporting News Player Contract Cards, ScanID: 1025013432"
+
+[person.name]
+last = "Ditusa"
+given = "Russell Sam"
+
+[person.description]
+ancestry = "Italian"
+position = "P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"
+
+[person.birth]
+date = "1923-11-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "3853 W. Davison Street"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1946-07-15"
+type = "signed"
+join.name = "Tallahassee"
+note = "Tallahassee 1946-07-15"
+
+[[person.transaction]]
+date = "1947-04-16"
+type = "released"
+leave.name = "Tallahassee"
+note = "rel 1947-04-16"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_016"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-03-14"
+pages = "12"
+
+[person.name]
+last = "Stuart"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1911"
+team.name = "Guilford College"
+team.caliber = "college"
+
+

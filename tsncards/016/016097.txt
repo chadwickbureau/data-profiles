@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16097"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16097"
+title = "The Sporting News Player Contract Cards, ScanID: 1003001346"
+
+[person.name]
+last = "Barry"
+given = "J. Reginald"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1947"
+type = "signed"
+join.name = "Cordele"
+note = "Cordele 1947"
+
+[[person.transaction]]
+date = "1947-04-14"
+type = "optioned"
+leave.name = "Cordele"
+join.name = "Statesville"
+note = "opt to Statesville 1947-04-14"
+
+[[person.transaction]]
+date = "1947-04-26"
+type = "returned"
+leave.name = "Statesville"
+join.name = "Cordele"
+note = "ret to Cordele 1947-04-26"
+

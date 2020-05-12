@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_024"
+
+[[person.meta.citation]]
+title = "Holman Mortuaries"
+date = "2020-05-08"
+url = "https://www.holmanmortuaries.com/obituary/thomas-l-barton"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "Barton"
+use = "Thomas"
+given = "Thomas L."
+
+[person.birth]
+date = "1933-08-30"
+place.country = "US"
+place.state = "FL"
+place.city = "Caryville"
+
+[person.death]
+date = "2017-10-05"
+place.country = "US"
+place.state = "AL"
+place.city = "Abbeville"
+
+[[person.education]]
+school.name = "Abbeville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Abbeville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_005"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-04-04"
+pages = "37"
+
+[person.name]
+last = "Brown"
+use = "Larry"
+given = "Larry"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+description.position = "C"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Anniston"
+team.league.name = "Georgia-Alabama League"
+
+

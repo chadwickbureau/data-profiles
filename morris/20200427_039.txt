@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_039"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-05-11"
+pages = "12"
+
+[person.name]
+last = "Gudger"
+use = "Jim"
+given = "Jim"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "NC"
+place.city = "Candler"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "P"
+
+

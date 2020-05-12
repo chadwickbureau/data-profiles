@@ -1,0 +1,70 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7670"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7670"
+title = "The Sporting News Player Contract Cards, ScanID: 1003001774"
+
+[person.name]
+last = "Barton"
+given = "Thomas Ravon"
+
+[[person.resides]]
+place.address = "Elm Street"
+place.country = "US"
+place.state = "AL"
+place.city = "Abbeville"
+
+
+[[person.transaction]]
+date = "1953-05-14"
+type = "signed"
+join.name = "Panama City"
+note = "Panama City 1953-05-14"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Panama City"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1953-12-03"
+type = "signed"
+join.name = "Abilene"
+note = "Abilene 1953-12-03"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Abilene"
+note = "res for 1954"
+
+[[person.transaction]]
+date = "1954-03-30"
+type = "optioned"
+leave.name = "Abilene"
+join.name = "Midland"
+note = "opt to Midland 1954-03-30"
+
+[[person.transaction]]
+date = "1954-09-01"
+type = "recalled"
+leave.name = "Midland"
+join.name = "Abilene"
+note = "rec by Abilene 1954-09-01"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Abilene"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1955-05-23"
+type = "released"
+leave.name = "Abilene"
+note = "rel 1955-05-23"
+

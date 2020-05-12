@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_025"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-03-14"
+pages = "12"
+
+[person.name]
+last = "Sheridan"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilson"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "OF"
+
+

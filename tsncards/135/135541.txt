@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:135541"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/135541"
+title = "The Sporting News Player Contract Cards, ScanID: 1043001153"
+
+[person.name]
+last = "Stevenson"
+given = "Gary Thomas"
+
+
+[[person.transaction]]
+date = "1973-02-09"
+type = "signed"
+join.name = "Geneva"
+note = "Geneva 1973-02-09"
+
+[[person.transaction]]
+date = "1973-05-08"
+type = "released"
+leave.name = "Geneva"
+note = "rel 1973-05-08"
+

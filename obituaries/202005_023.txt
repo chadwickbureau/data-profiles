@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_023"
+
+[[person.meta.citation]]
+title = "Berry Funeral Home"
+date = "2020-05-08"
+url = "https://www.dignitymemorial.com/obituaries/knoxville-tn/marion-nolan-7592952"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-08"
+
+[person.name]
+last = "Nolan"
+use = "Bud"
+given = "Marion Edward"
+
+[person.birth]
+date = "1929-04-14"
+place.country = "US"
+place.state = "OH"
+place.city = "DeGraff"
+
+[person.death]
+date = "2017-10-06"
+
+[person.burial]
+cemetery.name = "East Tennessee State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Knoxville"
+
+[[person.education]]
+school.name = "Huntsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Huntsville"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

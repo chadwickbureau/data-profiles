@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_002"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-03-30"
+pages = "10"
+
+[person.name]
+last = "Goalby"
+use = "Kitty"
+given = "Kitty"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "Nashville"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Roanoke"
+team.league.name = "Virginia League"
+
+

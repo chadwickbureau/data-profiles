@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_009"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-04-04"
+pages = "37"
+
+[person.name]
+last = "Wheatley"
+
+[person.description]
+note = [ "dog bit pitching hand three weeks prior" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Montgomery"
+team.league.name = "Southern Association"
+description.position = "P"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

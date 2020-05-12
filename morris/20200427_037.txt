@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_037"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-05-11"
+pages = "12"
+
+[person.name]
+last = "Smith"
+use = "Charlie"
+given = "Charlie"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "P"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1911"
+team.name = "China Grove"
+team.caliber = "semipro"
+
+[[person.affiliation]]
+type = "player"
+dates = "<1911"
+team.name = "Concord"
+team.caliber = "semipro"
+
+

@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_043"
+
+[[person.meta.citation]]
+title = "Rainey Family Funeral Services"
+date = "2020-05-11"
+url = "https://www.raineyfuneral.com/obituaries/James-Reginald-Barry-Jr?obId=12831091#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "Barry"
+use = "Reginald"
+given = "James Reginald"
+suffix = "Jr."
+
+[person.death]
+date = "2020-05-02"
+place.country = "US"
+place.state = "GA"
+place.city = "Cordele"
+
+[[person.education]]
+school.name = "West Crisp HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Cordele"
+
+[[person.education]]
+school.name = "Gordon Military College HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Barnesville"
+
+[[person.education]]
+school.name = "Mercer University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Georgia Institute of Technology"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

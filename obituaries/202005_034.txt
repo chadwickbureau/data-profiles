@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_034"
+
+[[person.meta.citation]]
+title = "J.J. Duffy Funeral Home"
+date = "2020-05-10"
+url = "https://www.jjduffyfuneralhome.com/obituary/paul-donovan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-10"
+
+[person.name]
+last = "Donovan"
+use = "Paul"
+given = "Paul F."
+
+[person.birth]
+date = "1929-02-04"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "2020-05-06"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Cumberland"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

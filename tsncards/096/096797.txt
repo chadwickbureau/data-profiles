@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:96797"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/96797"
+title = "The Sporting News Player Contract Cards, ScanID: 1035006295"
+
+[person.name]
+last = "Pomilia"
+given = "Dominic A."
+
+
+[[person.transaction]]
+date = "1949-05-13"
+type = "signed"
+join.name = "Victoria"
+note = "Victoria 1949-05-13"
+
+[[person.transaction]]
+date = "1949-05-14"
+type = "released"
+leave.name = "Victoria"
+note = "rel 1949-05-14"
+
+[[person.transaction]]
+date = "1949-05-15"
+type = "signed"
+join.name = "Modesto"
+note = "Modesto 1949-05-15"
+
+[[person.transaction]]
+date = "1949-05-25"
+type = "released"
+leave.name = "Modesto"
+note = "rel 1949-05-25"
+
+[[person.transaction]]
+date = "1950-05-10"
+type = "signed"
+join.name = "Mattoon"
+note = "Mattoon 1950-05-10"
+
+[[person.transaction]]
+date = "1950-05-15"
+type = "released"
+leave.name = "Mattoon"
+note = "rel 1950-05-15"
+
+[[person.transaction]]
+date = "1950-05-15"
+type = "signed"
+join.name = "Paris (IL)"
+note = "Paris (IL) 1950-05-15"
+
+[[person.transaction]]
+date = "1950-05-27"
+type = "released"
+leave.name = "Paris (IL)"
+note = "rel 1950-05-27"
+

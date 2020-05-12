@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_028"
+
+[[person.meta.citation]]
+title = "Frye Chapel"
+date = "2020-05-09"
+url = "https://www.fryechapel.com/obituary/clarence-jaime"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-09"
+
+[person.name]
+last = "Jaime"
+use = "Clarence"
+given = "Clarence Edward"
+nick = "Tito"
+
+[person.birth]
+date = "1922-03-22"
+place.country = "US"
+place.state = "CA"
+place.city = "Redlands"
+
+[person.death]
+date = "2020-05-06"
+place.country = "US"
+place.state = "AZ"
+place.city = "Mesa"
+
+[person.burial]
+cemetery.name = "Palo Verde Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Blythe"
+
+[[person.education]]
+school.name = "Colton Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Colton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_031"
+
+[[person.meta.citation]]
+title = "Schiavone Funeral Home"
+date = "2020-05-09"
+url = "https://www.schiavonefh.com/obituary/Stephen-Sheronovich"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-09"
+
+[person.name]
+last = "Sheronovich"
+use = "Stephen"
+given = "Stephen J."
+
+[person.birth]
+date = "1931-12-13"
+
+[person.death]
+date = "2017-09-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Boardman"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

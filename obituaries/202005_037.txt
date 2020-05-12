@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_037"
+
+[[person.meta.citation]]
+title = "Tributes.com"
+date = "2020-05-10"
+url = "http://www.tributes.com/obituary/show/Gary-Lee-Torgeson-105217409"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-10"
+
+[person.name]
+last = "Torgeson"
+use = "Gary"
+given = "Gary Lee"
+
+[person.birth]
+date = "1934-08-31"
+place.country = "US"
+place.state = "OR"
+place.city = "Albany"
+
+[person.death]
+date = "2017-09-19"
+place.country = "US"
+place.state = "OR"
+place.city = "Albany"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

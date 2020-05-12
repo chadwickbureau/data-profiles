@@ -7,11 +7,6 @@ key = "morris:20200426_015"
 title = "Houston Post 1915-04-13"
 pages = "5"
 
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
-
 [person.name]
 last = "Showers"
 use = "Dan"

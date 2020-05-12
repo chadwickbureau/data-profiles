@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_046"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-06-17"
+pages = "9"
+
+[person.name]
+last = "Hendley"
+use = "Johnny"
+given = "Johnny"
+
+[[person.affiliation]]
+type = "umpire"
+dates = "1915"
+league.name = "Western Association"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1914"
+team.name = "McAlester"
+team.league.name = "Western Association"
+
+

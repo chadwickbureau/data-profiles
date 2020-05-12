@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_027"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-05-11"
+pages = "12"
+
+[person.name]
+last = "Landgraf"
+use = "Luke"
+given = "Luke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "2B"
+
+[[person.affiliation]]
+type = "player"
+dates = "1910"
+team.name = "Richmond"
+team.league.name = "Virginia League"
+
+

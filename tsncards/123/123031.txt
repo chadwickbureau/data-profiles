@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:123031"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/123031"
+title = "The Sporting News Player Contract Cards, ScanID: 1045000783"
+
+[person.name]
+last = "Torgeson"
+given = "Gary Lee"
+
+
+[[person.transaction]]
+date = "1952-05-25"
+type = "signed"
+join.name = "Bakersfield"
+note = "Bakersfield 1952-05-25"
+
+[[person.transaction]]
+date = "1952-06-13"
+type = "optioned"
+leave.name = "Bakersfield"
+join.name = "Yuma"
+note = "opt to Yuma 1952-06-13"
+
+[[person.transaction]]
+date = "1952-06-21"
+type = "option-transferred"
+leave.name = "Yuma"
+join.name = "Rosell"
+note = "opt trans to Rosell 1952-06-21"
+
+[[person.transaction]]
+date = "1952-06-30"
+type = "released"
+leave.name = "Rosell"
+note = "rel 1952-06-30"
+

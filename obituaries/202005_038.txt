@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_038"
+
+[[person.meta.citation]]
+title = "MyLeaderPaper.com"
+date = "2020-05-11"
+url = "https://www.myleaderpaper.com/obituaries/leman-genedale-mahurin-sr-85-hillsboro/article_52184e42-932b-11ea-910d-efc71452f4e7.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "Mahurin"
+use = "Leman"
+given = "Leman Genedale"
+
+[person.death]
+date = "2020-05-09"
+place.country = "US"
+place.state = "MO"
+place.city = "Cape Girardeau"
+
+[person.burial]
+cemetery.name = "St. Francois Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Bonne Terre"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

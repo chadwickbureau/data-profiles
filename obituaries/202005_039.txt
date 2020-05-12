@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_039"
+
+[[person.meta.citation]]
+title = "Hultgren Funeral Home"
+date = "2020-05-11"
+url = "https://www.hultgrenfh.com/obituary/russell-ditusa"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "DiTusa"
+use = "Russell"
+given = "Russell S."
+
+[person.birth]
+date = "1922-11-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-05-05"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

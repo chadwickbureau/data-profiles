@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_011"
+
+[[person.meta.citation]]
+title = "Nashville Tennessean 1915-04-04"
+pages = "37"
+
+[person.name]
+last = "Cunningham"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Mobile"
+team.league.name = "Southern Association"
+description.position = "P"
+
+

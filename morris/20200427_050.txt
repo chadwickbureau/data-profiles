@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_050"
+
+[[person.meta.citation]]
+title = "Dallas Morning News 1915-06-17"
+pages = "8"
+
+[person.name]
+last = "Nichols"
+use = "Jitney"
+given = "Jitney"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Dallas"
+team.league.name = "Texas League"
+description.position = "P"
+description.height = "72"
+description.weight = "185"
+description.throws = "R"
+
+[[person.affiliation]]
+type = "player"
+dates = "<=1915"
+team.name = "Purdue University"
+team.caliber = "college"
+
+

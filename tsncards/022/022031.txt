@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:22031"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22031"
+title = "The Sporting News Player Contract Cards, ScanID: 1005001616"
+
+[person.name]
+last = "Bowles"
+given = "Carl G."
+
+
+[[person.transaction]]
+date = "1950-02-08"
+type = "signed"
+join.name = "Wilmington (DE)"
+note = "Wilmington (DE) 1950-02-08"
+
+[[person.transaction]]
+date = "1950-04-25"
+type = "temporarily-inactive"
+leave.name = "Wilmington (DE)"
+note = "inactive list 1950-04-25"
+
+[[person.transaction]]
+date = "1950-05-05"
+type = "reinstated"
+join.name = "Wilmington (DE)"
+note = "rein from inactive list 1950-05-05"
+
+[[person.transaction]]
+date = "1950-05-24"
+type = "optioned"
+leave.name = "Wilmington (DE)"
+join.name = "Lima"
+note = "opt to Lima 1950-05-24"
+
+[[person.transaction]]
+date = "1950-05-29"
+type = "released"
+leave.name = "Lima"
+note = "rel 1950-05-29"
+

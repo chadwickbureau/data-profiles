@@ -7,11 +7,6 @@ key = "morris:20200426_003"
 title = "Streator Times 1915-05-08"
 pages = "3"
 
-[[person.meta.contributor]]
-name.last = "Morris"
-name.use = "Jack"
-email = "jackmo77@comcast.net"
-
 [person.name]
 last = "Cronin"
 use = "Arnold"

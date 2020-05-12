@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "morris:20200427_020"
+
+[[person.meta.citation]]
+title = "Asheville Citizen-Times 1911-03-14"
+pages = "12"
+
+[person.name]
+last = "Baxter"
+
+[[person.resides]]
+dates = "1911"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1911"
+team.name = "Asheville"
+team.league.name = "Appalachian League"
+description.position = "P"
+
+

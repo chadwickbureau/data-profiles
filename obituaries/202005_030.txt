@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_030"
+
+[[person.meta.citation]]
+title = "Tribune-Democrat"
+date = "2020-05-09"
+url = "https://obituaries.tribdem.com/obituary/joseph-skibo-985952421"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-09"
+
+[person.name]
+last = "Skibo"
+use = "Joseph"
+given = "Joseph P."
+
+[person.birth]
+date = "1928-10-26"
+
+[person.death]
+date = "2017-10-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Colver"
+
+[person.burial]
+cemetery.name = "Holy Name Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Ebensburg"
+

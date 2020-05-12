@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_040"
+
+[[person.meta.citation]]
+title = "Blyth Funeral Home"
+date = "2020-05-11"
+url = "https://www.blythfuneralhome.com/obituaries/Benjamin-Franklin-Ben-Johnson-Jr-?obId=12974958#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-11"
+
+[person.name]
+last = "Johnson"
+use = "Ben"
+given = "Benjamin Franklin"
+suffix = "Jr."
+
+[person.birth]
+date = "1931-05-16"
+place.country = "US"
+place.state = "SC"
+place.city = "Greenwood"
+
+[person.death]
+date = "2020-05-08"
+
+[person.burial]
+cemetery.name = "Greenwood Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Hodges"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+
