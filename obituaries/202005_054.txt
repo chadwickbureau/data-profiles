@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_054"
+
+[[person.meta.citation]]
+title = "Costello-Greiner Funeral Home"
+date = "2020-05-15"
+url = "https://www.costello-greiner.com/memsol.cgi?user_id=1992794"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-15"
+
+[person.name]
+last = "Dobos"
+use = "John"
+given = "John R."
+
+[person.birth]
+date = "1935-08-25"
+place.country = "US"
+place.state = "NJ"
+place.city = "Woodbridge"
+
+[person.death]
+date = "2017-08-01"
+place.country = "US"
+place.state = "NJ"
+place.city = "Edison"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

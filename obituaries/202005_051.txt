@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_051"
+
+[[person.meta.citation]]
+title = "Stitzel Family Funeral Home"
+date = "2020-05-14"
+url = "https://www.stitzelfuneralhome.com/obituary/Raymond-Keller"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Keller"
+use = "Ray"
+given = "Raymond Wixon"
+
+[person.birth]
+date = "1926-10-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.death]
+date = "2017-08-14"
+
+[person.burial]
+cemetery.name = "Alsace Lutheran Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Reading"
+
+[[person.education]]
+school.name = "Muhlenberg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Reading"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

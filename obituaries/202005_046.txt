@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_046"
+
+[[person.meta.citation]]
+title = "Duggan's Serra Mortuary"
+date = "2020-05-12"
+url = "https://www.duggans-serra.com/obituaries/Thomas-Edwin-Teshara?obId=3345872#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-12"
+
+[person.name]
+last = "Teshara"
+use = "Tom"
+given = "Thomas Edwin"
+
+[person.birth]
+date = "1927-12-31"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2017-09-06"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Francisco"
+
+

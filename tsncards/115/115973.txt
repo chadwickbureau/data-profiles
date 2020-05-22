@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:115973"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/115973"
+title = "The Sporting News Player Contract Cards, ScanID: 1044003317"
+
+[person.name]
+last = "Teshara"
+given = "Thomas E."
+
+
+[[person.transaction]]
+date = "1948-03-23"
+type = "signed"
+join.name = "Anaheim"
+note = "Anaheim 1948-03-23"
+
+[[person.transaction]]
+date = "1948-05-08"
+type = "released"
+leave.name = "Anaheim"
+note = "rel 1948-05-08"
+

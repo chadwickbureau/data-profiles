@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_003"
+
+[[person.meta.citation]]
+title = "Philadelphia Press"
+date = "1895-04-29"
+
+[person.name]
+last = "Moore"
+use = "Zeke"
+given = "Zeke"
+
+[[person.affiliation]]
+type = "player"
+dates = "1895"
+team.name = "Hazleton"
+team.league.name = "Pennsylvania State League"
+description.height = "68"
+description.weight = "170"
+
+

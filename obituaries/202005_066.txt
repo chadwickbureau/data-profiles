@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_066"
+
+[[person.meta.citation]]
+title = "Hazleton Standard Speaker"
+date = "1969-08-13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-21"
+
+[person.name]
+last = "Morgan"
+use = "Cy}"
+given = "William P."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Slatington"
+
+[person.death]
+date = "1969-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Allentown"
+

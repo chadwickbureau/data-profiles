@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130456"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130456"
+title = "The Sporting News Player Contract Cards, ScanID: 1044004315"
+
+[person.name]
+last = "Thomas"
+given = "Lorne William"
+
+
+[[person.transaction]]
+date = "1952-06-25"
+type = "signed"
+join.name = "St. Hyacinthe"
+note = "St. Hyacinthe 1952-06-25"
+
+[[person.transaction]]
+date = "1952-07-02"
+type = "optioned"
+leave.name = "St. Hyacinthe"
+join.name = "Cordele"
+note = "opt to Cordele 1952-07-02"
+
+[[person.transaction]]
+date = "1952-07-21"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1952-07-21"
+
+[[person.transaction]]
+date = "1952-07-24"
+type = "signed"
+join.name = "Fitzgerald"
+note = "Fitzgerald 1952-07-24"
+
+[[person.transaction]]
+date = "1952-07-28"
+type = "released"
+leave.name = "Fitzgerald"
+note = "rel 1952-07-28"
+

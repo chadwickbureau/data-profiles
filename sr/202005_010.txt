@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_010"
+
+[[person.meta.citation]]
+title = "The Sporting News"
+date = "1973-11-03"
+pages = "27"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-05"
+
+[person.name]
+last = "Wilson"
+use = "George"
+given = "George P."
+
+[person.death]
+date = "1973-10-13"
+place.country = "US"
+place.state = "CA"
+place.city = "Moraga"
+
+[person.description]
+position = "OF"
+
+[[person.education]]
+school.name = "Saint Mary's College of California"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Detroit"
+team.league.name = "American League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Sioux City"
+team.league.name = "Western League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1934"
+team.name = "Duluth"
+team.league.name = "Northern League"
+
+

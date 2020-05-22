@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_061"
+
+[[person.meta.citation]]
+title = "Gent Funeral Home"
+date = "2020-05-20"
+url = "https://www.gentfuneralhome.com/obituaries/William-Ackerman-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Ackerman"
+use = "Bill"
+given = "William Charles"
+
+[person.birth]
+date = "1938-10-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[person.death]
+date = "2020-05-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Alton"
+
+[[person.education]]
+school.name = "Alton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Alton"
+
+

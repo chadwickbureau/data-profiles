@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_004"
+
+[[person.meta.citation]]
+title = "Maysville Public Ledger"
+date = "1916-06-09"
+pages = "4"
+
+[person.name]
+last = "Reed"
+use = "Plack"
+given = "Plack"
+
+[[person.affiliation]]
+type = "player"
+dates = "1916"
+team.name = "Maysville"
+team.league.name = "Ohio State League"
+description.position = "C"
+
+

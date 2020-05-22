@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_047"
+
+[[person.meta.citation]]
+title = "Shea Funeral Home"
+date = "2020-05-13"
+url = "https://www.sheafuneralhome.com/obituary/Albin-Malinowski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-13"
+
+[person.name]
+last = "Malinowski"
+use = "Albin"
+given = "Albin J."
+
+[person.birth]
+date = "1922-12-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Carteret"
+
+[person.death]
+date = "2017-08-29"
+
+[person.burial]
+cemetery.name = "Vestal Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Vestal"
+

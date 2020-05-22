@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0079"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-09"
+url = "https://www.findagrave.com/memorial/128132702"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-09"
+
+[person.name]
+last = "Corzine"
+use = "Bert"
+given = "Bert Worth"
+suffix = "Sr."
+
+[person.birth]
+date = "1889-06-13"
+place.country = "US"
+place.state = "TX"
+
+[person.death]
+date = "1968-11-17"
+place.country = "US"
+place.state = "TX"
+place.city = "Cleburne"
+
+[person.burial]
+cemetery.name = "Rosehill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Cleburne"
+
+[person.sameas]
+findagrave = "128132702"
+

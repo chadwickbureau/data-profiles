@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:93938"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/93938"
+title = "The Sporting News Player Contract Cards, ScanID: 1022001621"
+
+[person.name]
+last = "Irwin"
+given = "Billy Hugh"
+
+
+[[person.transaction]]
+date = "1947-10-20"
+type = "signed"
+join.name = "Cordele"
+note = "Cordele 1947-10-20"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Cordele"
+note = "res 1948"
+
+[[person.transaction]]
+date = "1948-04-25"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1948-04-25"
+

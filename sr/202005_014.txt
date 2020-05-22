@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_014"
+
+[[person.meta.citation]]
+title = "Corvallis Gazette-Times"
+date = "1966-04-14"
+pages = "7"
+url = "https://www.newspapers.com/clip/45350316/jon-baker-sunset/"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-02-26"
+
+[person.name]
+last = "Baker"
+use = "Jon"
+given = "Jon"
+
+[[person.education]]
+school.name = "Sunset HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "Columbia Basin College"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1966-01"
+type = "drafted"
+join.name = "St. Louis"
+join.league.name = "National"
+
+

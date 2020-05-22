@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_052"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "2017-08-20"
+url = "https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=william-thomas-mcbay&pid=186429194"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "McBay"
+use = "Bill"
+given = "William Thomas"
+
+[person.birth]
+date = "1929-03-16"
+place.country = "US"
+place.state = "AL"
+place.city = "Florence"
+
+[person.death]
+date = "2017-08-11"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

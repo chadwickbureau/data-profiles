@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_003"
+
+[[person.meta.citation]]
+title = "Dallas Morning News"
+date = "1930-05-30"
+pages = "9"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-13"
+
+[person.name]
+last = "Murray"
+use = "George"
+given = "George"
+
+[[person.affiliation]]
+type = "player"
+dates = "1929"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Kansas City"
+team.league.name = "American Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1930"
+team.name = "Dallas"
+team.league.name = "Texas League"
+
+

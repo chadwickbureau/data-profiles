@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0082"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-20"
+url = "https://www.findagrave.com/memorial/264131/robert-beaumont-akenhead"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Akenhead"
+use = "Robert"
+given = "Robert Beaumont"
+
+[person.birth]
+date = "1927-08-14"
+
+[person.death]
+date = "1993-09-06"
+
+[person.burial]
+cemetery.name = "Springfield National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[person.sameas]
+findagrave = "264131"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

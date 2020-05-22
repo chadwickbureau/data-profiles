@@ -1,0 +1,61 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:158964"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/158964"
+title = "The Sporting News Player Contract Cards, ScanID: 1046006605"
+
+[person.name]
+last = "Warner"
+given = "Tom"
+
+[[person.resides]]
+place.country = "US"
+place.state = "OH"
+place.city = "Upper Sandusky"
+
+
+[[person.transaction]]
+date = "1940-09"
+type = "signed"
+join.name = "Tiffin"
+note = "Tiffin 1940-09"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Tiffin"
+note = "res for 1941"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Tiffin"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-01"
+type = "released"
+leave.name = "Tiffin"
+note = "rel 1942-01"
+
+[[person.transaction]]
+date = "1942-06"
+type = "signed"
+join.name = "Grand Forks"
+note = "Grand Forks 1942-06"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Grand Forks"
+note = "res for 1943"
+
+[[person.transaction]]
+date = "1947-02-06"
+type = "signed"
+join.name = "Fort Lauderdale"
+note = "Fort Lauderdale 1947-02-06"
+

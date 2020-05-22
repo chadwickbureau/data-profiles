@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_007"
+
+[[person.meta.citation]]
+title = "Lexington Herald"
+date = "1915-06-16"
+pages = "7"
+
+[person.name]
+last = "Elliott"
+use = "Ross"
+given = "Ross"
+
+[person.description]
+note = [ "has photograph" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lexington"
+team.league.name = "Ohio State League"
+description.throws = "R"
+
+

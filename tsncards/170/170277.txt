@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:170277"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/170277"
+title = "The Sporting News Player Contract Cards, ScanID: 1028003073"
+
+[person.name]
+last = "Martin"
+given = "James E."
+
+[person.description]
+position = "OF"
+
+
+[[person.transaction]]
+date = "1914-05"
+type = "signed"
+join.name = "Traverse City"
+note = "Traverse City 1914-05"
+
+[[person.transaction]]
+date = "1915-07"
+type = "signed"
+join.name = "Jacksonville"
+note = "Jacksonville 1915-07"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Jacksonville"
+note = "res for 1916"
+

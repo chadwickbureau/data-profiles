@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_008"
+
+[[person.meta.citation]]
+title = "Lexington Herald"
+date = "1915-06-06"
+pages = "1"
+
+[person.name]
+last = "Wall"
+use = "Joe"
+given = "Joe"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Frankfort"
+team.league.name = "Ohio State League"
+description.position = "1B"
+
+[[person.affiliation]]
+type = "manager"
+dates = "1915"
+team.name = "Frankfort"
+team.league.name = "Ohio State League"
+
+

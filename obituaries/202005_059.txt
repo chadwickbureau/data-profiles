@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_059"
+
+[[person.meta.citation]]
+title = "The Telegraph"
+date = "2020-05-19"
+url = "https://www.legacy.com/obituaries/thetelegraph/obituary.aspx?n=kenneth-retzer&pid=196208766"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-19"
+
+[person.name]
+last = "Retzer"
+use = "Ken"
+given = "Kenneth Leo"
+
+[person.birth]
+date = "1934-04-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Wood River"
+
+[person.death]
+date = "2020-05-17"
+place.country = "US"
+place.state = "AZ"
+place.city = "Sun City"
+

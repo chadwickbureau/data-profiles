@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_065"
+
+[[person.meta.citation]]
+title = "AZCentral.com"
+date = "2020-05-14"
+url = "https://www.azcentral.com/story/sports/high-school/2020/05/14/former-centennial-stanford-athlete-zach-hoffpauir-dies-26/5196275002/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Hoffpauir"
+use = "Zach"
+given = "Zach"
+
+[person.death]
+date = "2020-05-14"
+
+[[person.education]]
+school.name = "Centennial HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Peoria"
+
+[[person.education]]
+school.name = "Stanford University"
+school.type = "college"
+
+

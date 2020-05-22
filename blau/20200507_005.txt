@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_005"
+
+[[person.meta.citation]]
+title = "Lexington Herald"
+date = "1915-07-07"
+pages = "8"
+
+[person.name]
+last = "Thomas"
+use = "Ad"
+given = "Ad"
+
+[[person.education]]
+school.name = "University of Kentucky"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Lexington"
+team.league.name = "Ohio State League"
+description.throws = "L"
+
+

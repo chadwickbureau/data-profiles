@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:141155"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/141155"
+title = "The Sporting News Player Contract Cards, ScanID: 1029000403"
+
+[person.name]
+last = "McBay"
+given = "William Thomas"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1947-04-26"
+type = "signed"
+join.name = "Hopkinsville"
+note = "Hopkinsville 1947-04-26"
+
+[[person.transaction]]
+date = "1947-05-03"
+type = "released"
+leave.name = "Hopkinsville"
+note = "rel 1947-05-03"
+
+[[person.transaction]]
+date = "1947-12-30"
+type = "signed"
+join.name = "Hopkinsville"
+note = "Hopkinsville 1947-12-30"
+
+[[person.transaction]]
+date = "1948-05-04"
+type = "released"
+leave.name = "Hopkinsville"
+note = "rel 1948-05-04"
+

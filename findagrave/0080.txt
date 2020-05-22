@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0080"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-14"
+url = "https://www.findagrave.com/memorial/135294367"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Bruder"
+use = "Hank"
+given = "Henry J."
+
+[person.birth]
+date = "1930"
+
+[person.death]
+date = "2003"
+
+[person.burial]
+cemetery.name = "St. Catherine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Genoa"
+
+[person.sameas]
+findagrave = "135294367"
+

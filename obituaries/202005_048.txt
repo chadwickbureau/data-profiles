@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_048"
+
+[[person.meta.citation]]
+title = "Mowell Funeral Home"
+date = "2020-05-13"
+url = "http://www.mowells.com/obituaries/Jesse-Havis-Smith?obId=2494365#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-13"
+
+[person.name]
+last = "Smith"
+use = "Jesse"
+given = "Jesse Havis"
+
+[person.birth]
+date = "1928-02-26"
+place.country = "US"
+place.state = "GA"
+place.city = "Hapeville"
+
+[person.death]
+date = "2017-08-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Fayetteville"
+
+[person.burial]
+cemetery.name = "College Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "College Park"
+
+[[person.education]]
+school.name = "Hapeville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Hapeville"
+
+

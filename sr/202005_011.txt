@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_011"
+
+[[person.meta.citation]]
+title = "Hickory Daily Record"
+date = "2009-05-04"
+url = "https://www.hickoryrecord.com/news/dedication-puts-flash-in-spotlight/article_5811df82-35c6-549f-9f92-d9fd4c32a55f.html"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-05"
+
+[person.name]
+last = "Arndt"
+use = "Leonard"
+given = "Leonard"
+
+[[person.education]]
+school.name = "Claremont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Hickory"
+
+[[person.education]]
+school.name = "Catawba"
+school.type = "college"
+
+[[person.education]]
+school.name = "Lenoir-Rhyne"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1948"
+team.name = "DeLand"
+team.league.name = "Florida State League"
+
+

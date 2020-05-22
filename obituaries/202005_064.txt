@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_064"
+
+[[person.meta.citation]]
+title = "Marshall Marra Funeral Home"
+date = "2020-05-20"
+url = "https://www.marshallmarrafuneralhome.com/obituary/4308348"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Norris"
+use = "Jim"
+given = "James D."
+
+[person.birth]
+date = "1944-02-01"
+place.country = "US"
+place.state = "PA"
+place.city = "Clearfield"
+
+[person.death]
+date = "2017-07-17"
+place.country = "US"
+place.state = "PA"
+place.city = "Monongahela"
+
+[person.burial]
+cemetery.name = "Mon Valley Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Donora"
+
+[[person.education]]
+school.name = "Curwensville High School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Curwensville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

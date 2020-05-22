@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:2116"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/2116"
+title = "The Sporting News Player Contract Cards, ScanID: 1001004437"
+
+[person.name]
+last = "Ackerman"
+given = "William Charles"
+
+
+[[person.transaction]]
+date = "1956-09-07"
+type = "signed"
+join.name = "Holdrege"
+note = "Holdrege 1956-09-07"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Holdrege"
+note = "res 1957"
+
+[[person.transaction]]
+date = "1956-09-18"
+type = "released"
+leave.name = "Holdrege"
+join.name = "Dubuque"
+note = "rel to Dubuque 1956-09-18"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Dubuque"
+note = "res 1957"
+
+[[person.transaction]]
+date = "1957-04-20"
+type = "released"
+leave.name = "Dubuque"
+note = "rel 1957-04-20"
+

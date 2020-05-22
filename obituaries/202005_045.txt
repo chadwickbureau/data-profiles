@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_045"
+
+[[person.meta.citation]]
+title = "Vanderplaat Funeral Home"
+date = "2020-05-12"
+url = "https://www.tributearchive.com/obituaries/13049584/Charles-Silverstein-Jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-12"
+
+[person.name]
+last = "Silverstein"
+use = "Charlie"
+given = "Charles"
+suffix = "Jr."
+
+[person.birth]
+date = "1933-03-08"
+place.country = "US"
+place.state = "NY"
+place.city = "Valley Stream"
+
+[person.death]
+date = "2020-05-11"
+
+[person.burial]
+cemetery.name = "Brigadier General William C. Doyle Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Wrightstown"
+
+[[person.education]]
+school.name = "Hofstra University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_049"
+
+[[person.meta.citation]]
+title = "Republican & Herald"
+date = "2020-05-14"
+url = "https://www.legacy.com/obituaries/schuylkill/obituary.aspx?n=robert-e-bassler-bobby&pid=196187584&fhid=22913"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Bassler"
+use = "Bobby"
+given = "Robert E."
+
+[person.birth]
+date = "1928-10-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Brockton"
+
+[person.death]
+date = "2020-05-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Whitehall"
+
+[[person.education]]
+school.name = "Tamaqua HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Tamaqua"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0081"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-14"
+url = "https://www.findagrave.com/memorial/38118693"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Wainwright"
+use = "James"
+given = "James Archie"
+
+[person.birth]
+date = "1892-10-24"
+place.country = "US"
+place.state = "LA"
+place.city = "Bernice"
+
+[person.death]
+date = "1943-05-12"
+place.country = "US"
+place.state = "AR"
+place.city = "Russellville"
+
+[person.burial]
+cemetery.name = "Farmerville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Farmerville"
+
+[person.sameas]
+findagrave = "38118693"
+

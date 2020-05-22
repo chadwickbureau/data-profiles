@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_067"
+
+[[person.meta.citation]]
+title = "Fayetteville Observe"
+date = "2020-05-21"
+url = "https://www.legacy.com/obituaries/fayettevilleobserver/obituary.aspx?n=donald-smith-gene&pid=196218948"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-21"
+
+[person.name]
+last = "Smith"
+use = "Gene"
+given = "Donald Gene"
+
+[person.death]
+date = "2020-05-20"
+
+[person.burial]
+cemetery.name = "Garland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Garland"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

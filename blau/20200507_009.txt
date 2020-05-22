@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200507_009"
+
+[[person.meta.citation]]
+title = "Lexington Herald"
+date = "1915-07-21"
+pages = "7"
+
+[person.name]
+last = "Potter"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Frankfort"
+team.league.name = "Ohio State League"
+description.throws = "L"
+
+

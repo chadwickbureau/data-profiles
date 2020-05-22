@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:113517"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/113517"
+title = "The Sporting News Player Contract Cards, ScanID: 1023005925"
+
+[person.name]
+last = "Keller"
+given = "Raymond Wixon"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1947-09-15"
+type = "signed"
+join.name = "Hamilton"
+note = "Hamilton 1947-09-15"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Hamilton"
+note = "res 1948"
+
+[[person.transaction]]
+date = "1948-02-11"
+type = "released"
+leave.name = "Hamilton"
+join.name = "Lawrenceville"
+note = "rel to Lawrenceville 1948-02-11"
+
+[[person.transaction]]
+date = "1948-04-06"
+type = "released"
+leave.name = "Lawrenceville"
+note = "rel 1948-04-06"
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_055"
+
+[[person.meta.citation]]
+title = "Watson-Hunt Funeral Home"
+date = "2020-05-15"
+url = "https://www.watsonhunt.com/obituaries/Billy-Irwin-37312/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-15"
+
+[person.name]
+last = "Irwin"
+use = "Billy"
+given = "Billy Hugh"
+suffix = "Sr."
+
+[person.birth]
+date = "1928-12-31"
+place.country = "US"
+place.state = "AL"
+place.city = "Jefferson County"
+
+[person.death]
+date = "2017-08-02"
+
+[person.burial]
+cemetery.name = "Walnut Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Unadilla"
+
+[[person.education]]
+school.name = "Middle Georgia State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

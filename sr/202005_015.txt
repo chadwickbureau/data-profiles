@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_015"
+
+[[person.meta.citation]]
+title = "The Globe and Mail"
+date = "1981-01-27"
+pages = "47"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-02-26"
+
+[person.name]
+last = "Montana"
+use = "Ricky"
+given = "Ricky"
+
+[person.description]
+position = "P"
+throws = "L"
+
+[[person.alias]]
+name.last = "Fagnani"
+name.use = "Ricky"
+name.given = "Ricky"
+type = "birth"
+
+
+[[person.education]]
+school.name = "Westchester Community College"
+school.type = "college"
+
+
+[[person.transaction]]
+date = "1981-01"
+type = "drafted"
+join.name = "Toronto"
+join.league.name = "American"
+
+

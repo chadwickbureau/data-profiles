@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_013"
+
+[[person.meta.citation]]
+title = "William J. Weiss questionnaire"
+date = "1960-08-22"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-02-27"
+
+[person.name]
+last = "Mutert"
+use = "Carl"
+given = "Carl"
+
+[person.birth]
+date = "1941-01-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "185"
+
+[[person.education]]
+school.name = "Lake View HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+[[person.education]]
+school.name = "Rollins College"
+school.type = "college"
+
+

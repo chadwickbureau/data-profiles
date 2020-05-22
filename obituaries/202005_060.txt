@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_060"
+
+[[person.meta.citation]]
+title = "Huff-Guthrie Funeral Home"
+date = "2020-05-19"
+url = "https://www.huffchapel.com/obituaries/David-Voit/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-19"
+
+[person.name]
+last = "Voit"
+use = "Dave"
+given = "David Thomas"
+
+[person.birth]
+date = "1965-09-27"
+
+[person.death]
+date = "2020-05-16"
+
+[[person.education]]
+school.name = "Henry Clay HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Lexington"
+
+[[person.education]]
+school.name = "University of Kentucky"
+school.type = "college"
+
+

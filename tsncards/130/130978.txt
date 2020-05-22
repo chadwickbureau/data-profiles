@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130978"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130978"
+title = "The Sporting News Player Contract Cards, ScanID: 1041006725"
+
+[person.name]
+last = "Smith"
+given = "Jesse H."
+
+
+[[person.transaction]]
+date = "1947-03-24"
+type = "signed"
+join.name = "Carrollton"
+note = "Carrollton 1947-03-24"
+
+[[person.transaction]]
+date = "1947-04-22"
+type = "released"
+leave.name = "Carrollton"
+note = "rel 1947-04-22"
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_004"
+
+[[person.meta.citation]]
+title = "Helibroner Baseball Bureau Index Card"
+date = "1939"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-12"
+
+[person.name]
+last = "Hickey"
+use = "James"
+given = "James Robert"
+
+[person.birth]
+date = "1920-10-22"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "204"
+
+[[person.affiliation]]
+type = "player"
+dates = "1938"
+team.name = "Beckley"
+team.league.name = "Mountain State League"
+
+[[person.affiliation]]
+type = "player"
+dates = "1939"
+team.name = "Hot Springs"
+team.league.name = "Cotton States League"
+
+

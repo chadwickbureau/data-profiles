@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130624"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130624"
+title = "The Sporting News Player Contract Cards, ScanID: 1039005855"
+
+[person.name]
+last = "Schaub"
+given = "Howard"
+
+
+[[person.transaction]]
+date = "1946-07"
+type = "signed"
+join.name = "Radford"
+note = "Radford 1946-07"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Radford"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-19"
+type = "released"
+leave.name = "Radford"
+note = "rel 1947-04-19"
+

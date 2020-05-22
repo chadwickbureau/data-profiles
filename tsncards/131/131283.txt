@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:131283"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131283"
+title = "The Sporting News Player Contract Cards, ScanID: 1026003117"
+
+[person.name]
+last = "Leu"
+given = "Otto C."
+
+
+[[person.transaction]]
+date = "1947-08-13"
+type = "signed"
+join.name = "Pittsfield"
+note = "Pittsfield 1947-08-13"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Pittsfield"
+note = "res 1948"
+
+[[person.transaction]]
+date = "1948-05-14"
+type = "temporarily-inactive"
+leave.name = "Pittsfield"
+note = "temp inactive list 1948-05-14"
+
+[[person.transaction]]
+date = "1948-07-06"
+type = "reinstated"
+join.name = "Pittsfield"
+note = "rein 1948-07-06"
+
+[[person.transaction]]
+date = "1948-07-06"
+type = "released"
+leave.name = "Pittsfield"
+note = "rel 1948-07-06"
+

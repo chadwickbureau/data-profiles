@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0084"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-20"
+url = "https://www.findagrave.com/memorial/61047146"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Breaux. Russell Joseph"
+use = "Sr."
+given = "Sr."
+
+[person.birth]
+date = "1894-12-08"
+place.country = "US"
+place.state = "LA"
+
+[person.death]
+date = "1954-08-05"
+place.country = "US"
+place.state = "LA"
+
+[person.burial]
+cemetery.name = "Franklin Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Franklin"
+
+[person.sameas]
+findagrave = "61047146"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"
+
+

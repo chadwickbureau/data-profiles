@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200514_001"
+
+[[person.meta.citation]]
+title = "Oakland Tribune"
+date = "1915-07-18"
+pages = "32"
+
+[person.name]
+last = "McDonough"
+use = "Pat"
+given = "Pat"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Oakland"
+team.league.name = "Pacific Coast League"
+
+

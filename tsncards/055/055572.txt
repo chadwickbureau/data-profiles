@@ -1,0 +1,116 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:55572"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/55572"
+title = "The Sporting News Player Contract Cards, ScanID: 1012001929"
+
+[person.name]
+last = "Dobos"
+given = "John Robert"
+
+[person.description]
+ancestry = "Hungarian"
+position = "1B"
+bats = "L"
+throws = "R"
+height = "75"
+weight = "200"
+
+[person.birth]
+date = "1935-08-25"
+place.country = "US"
+place.state = "NJ"
+place.city = "Perth Amboy"
+
+[[person.resides]]
+place.address = "353 St. James Avenue"
+place.country = "US"
+place.state = "NJ"
+place.city = "Woodbridge"
+
+
+[[person.transaction]]
+date = "1953-08-22"
+type = "signed"
+join.name = "St. Jean"
+note = "St. Jean 1953-08-22"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "St. Jean"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-04-19"
+type = "released"
+leave.name = "St. Jean"
+join.name = "Dublin"
+note = "rel to Dublin 1954-04-19"
+
+[[person.transaction]]
+date = "1954-04-26"
+type = "suspended"
+leave.name = "Dublin"
+note = "1954-04-26"
+
+[[person.transaction]]
+date = "1954-05-12"
+type = "reinstated"
+join.name = "Dublin"
+note = "reins 1954-05-12"
+
+[[person.transaction]]
+date = "1954-05-12"
+type = "returned"
+leave.name = "Dublin"
+join.name = "St. Jean"
+note = "ret to St. Jean 1954-05-12"
+
+[[person.transaction]]
+date = "1954-05-12"
+type = "voluntarily-retired"
+leave.name = "St. Jean"
+note = "vol ret list 1954-05-12"
+
+[[person.transaction]]
+date = "1954-09-30"
+type = "released"
+leave.name = "St. Jean"
+join.name = "Waco"
+note = "rel to Waco 1954-09-30"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Waco"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Waco"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Waco"
+join.name = "Beaumont"
+note = "rel to Beaumont 1957-02-01"
+
+[[person.transaction]]
+date = "1958-01-28"
+type = "reinstated"
+join.name = "Beaumont"
+note = "rein vol ret list 1958-01-28"
+
+[[person.transaction]]
+date = "1958-01-28"
+type = "released"
+leave.name = "Beaumont"
+note = "rel 1958-01-28"
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_050"
+
+[[person.meta.citation]]
+title = "Daily Chronicle"
+date = "2003-03-30"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Bruder"
+use = "Hank"
+given = "Henry J."
+
+[person.birth]
+date = "1930-04-17"
+place.country = "US"
+place.state = "IL"
+place.city = "LaSalle"
+
+[person.death]
+date = "2003-03-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Genoa"
+
+[[person.education]]
+school.name = "St. Bede Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Peru"
+
+

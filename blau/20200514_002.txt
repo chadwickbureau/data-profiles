@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200514_002"
+
+[[person.meta.citation]]
+title = "Buffalo Times"
+date = "1907-03-10"
+pages = "38"
+
+[person.name]
+last = "McDonough"
+use = "John"
+given = "John"
+
+[[person.affiliation]]
+type = "player"
+dates = "1907"
+team.name = "Troy"
+team.league.name = "New York State League"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_006"
+
+[[person.meta.citation]]
+title = "The Athletic"
+date = "2018-05-01"
+url = "https://theathletic.com/336427/2018/05/01/tony-santillan-leads-the-next-wave-of-reds-pitching-prospects/?redirected=1&redirected=1"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-12"
+
+[person.name]
+last = "Santillan"
+use = "Tony"
+given = "Tony"
+
+[[person.education]]
+school.name = "Seguin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Arlington"
+
+
+[[person.transaction]]
+date = "2015"
+type = "drafted"
+join.name = "Cincinnati"
+join.league.name = "National"
+
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0083"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-20"
+url = "https://www.findagrave.com/memorial/108855055"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-20"
+
+[person.name]
+last = "Crowson"
+use = "Howell"
+given = "Howell Jessie"
+
+[person.birth]
+date = "1886-09-04"
+place.country = "US"
+place.state = "TX"
+place.city = "Honey Grove"
+
+[person.death]
+date = "1929-02-07"
+
+[person.burial]
+cemetery.name = "Oakwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Honey Grove"
+
+[person.sameas]
+findagrave = "108855055"
+

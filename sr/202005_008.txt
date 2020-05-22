@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_008"
+
+[[person.meta.citation]]
+title = "mlive.com"
+date = "2019-07-12"
+url = "https://www.mlive.com/highschoolsports/2019/07/holland-christian-pitcher-chris-mokma-signs-with-marlins.html"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-10"
+
+[person.name]
+last = "Mokma"
+use = "Chris"
+given = "Chris"
+
+[person.description]
+position = "P"
+throws = "R"
+height = "77"
+
+[[person.education]]
+school.name = "Holland Christian HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Holland"
+
+
+[[person.transaction]]
+date = "2019"
+type = "drafted"
+join.name = "Miami"
+join.league.name = "National"
+
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:175413"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/175413"
+title = "The Sporting News Player Contract Cards, ScanID: 1047006239"
+
+[person.name]
+last = "Whiting"
+given = "Donald M."
+
+
+[[person.transaction]]
+date = "1981-07-11"
+type = "signed"
+join.name = "Lakeland"
+note = "Lakeland 1981-07-11"
+
+[[person.transaction]]
+date = "1982"
+type = "reserved"
+join.name = "Lakeland"
+note = "res for 1982"
+
+[[person.transaction]]
+date = "1982-04-08"
+type = "released"
+leave.name = "Lakeland"
+join.name = "Macon"
+note = "rel to Macon 1982-04-08"
+
+[[person.transaction]]
+date = "1982-09-30"
+type = "released"
+leave.name = "Macon"
+join.name = "Lakeland"
+note = "rel to Lakeland 1982-09-30"
+
+[[person.transaction]]
+date = "1983"
+type = "reserved"
+join.name = "Lakeland"
+note = "res for 1983"
+
+[[person.transaction]]
+date = "1983-04-05"
+type = "released"
+leave.name = "Lakeland"
+note = "rel 1983-04-05"
+

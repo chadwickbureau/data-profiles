@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_058"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2020-05-19"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=gerald-l-haines-jerry&pid=196211152"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-19"
+
+[person.name]
+last = "Haines"
+use = "Jerry"
+given = "Gerald L."
+
+[person.birth]
+date = "1927-09-10"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2020-04-24"
+
+[[person.education]]
+school.name = "Stockton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Stockton"
+
+[[person.education]]
+school.name = "College of the Pacific"
+school.type = "college"
+
+

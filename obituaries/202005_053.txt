@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_053"
+
+[[person.meta.citation]]
+title = "Purse Funeral Home"
+date = "2020-05-14"
+url = "https://www.pursefuneralhome.com/obituary/OttoOC-Leu"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-14"
+
+[person.name]
+last = "Leu"
+use = "O. C."
+given = "Otto Charles"
+
+[person.birth]
+date = "1926-02-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[person.death]
+date = "2017-08-09"
+
+[person.burial]
+cemetery.name = "Lake Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Walbridge"
+
+[[person.education]]
+school.name = "Lambertville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Lambertville"
+
+[[person.education]]
+school.name = "Bowling Green State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

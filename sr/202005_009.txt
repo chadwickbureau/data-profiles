@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "sr:202005_009"
+
+[[person.meta.citation]]
+title = "William J. Weiss questionnaire"
+date = "1957-07-29"
+
+[[person.meta.contributor]]
+name.last = "Bonilla"
+name.use = "Alex"
+email = "ab@sports-reference.com"
+date = "2020-03-05"
+
+[person.name]
+last = "Barbee"
+use = "James"
+given = "James Larry"
+
+[person.birth]
+date = "1939-06-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "74"
+weight = "203"
+
+[[person.education]]
+school.name = "Hanes HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Winston-Salem"
+
+
