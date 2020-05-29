@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_092"
+
+[[person.meta.citation]]
+title = "Belleville News-Democrat"
+date = "2017-06-13"
+url = "https://www.legacy.com/obituaries/belleville/obituary.aspx?n=william-l-jarosik-whitey&pid=185784167&fhid=29508"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-27"
+
+[person.name]
+last = "Jarosik"
+use = "Bill"
+given = "William Lawrence"
+nick = "Whitey"
+
+[person.birth]
+date = "1928-12-30"
+place.country = "US"
+place.state = "MO"
+place.city = "Cape Girardeau"
+
+[person.death]
+date = "2017-06-09"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

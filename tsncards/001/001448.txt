@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:1448"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/1448"
+title = "The Sporting News Player Contract Cards, ScanID: 1001002659"
+
+[person.name]
+last = "Anderson"
+given = "Edward Charles"
+
+
+[[person.transaction]]
+date = "1955-03-26"
+type = "signed"
+join.name = "Daytona Beach"
+note = "Daytona Beach 1955-03-26"
+
+[[person.transaction]]
+date = "1955-04-09"
+type = "released"
+leave.name = "Daytona Beach"
+note = "rel 1955-04-09"
+

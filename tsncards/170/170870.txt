@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:170870"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/170870"
+title = "The Sporting News Player Contract Cards, ScanID: 1046005615"
+
+[person.name]
+last = "Walters"
+given = "Ted Robert"
+
+
+[[person.transaction]]
+date = "1948-03-15"
+type = "signed"
+join.name = "Tacoma"
+note = "Tacoma 1948-03-15"
+
+[[person.transaction]]
+date = "1948-04-01"
+type = "optioned"
+leave.name = "Tacoma"
+join.name = "Riverside"
+note = "opt to Riverside 1948-04-01"
+
+[[person.transaction]]
+date = "1948-05-20"
+type = "released"
+leave.name = "Riverside"
+note = "rel 1948-05-20"
+
+[[person.transaction]]
+date = "1949-03-19"
+type = "signed"
+join.name = "Riverside"
+note = "Riverside 1949-03-19"
+
+[[person.transaction]]
+date = "1949-06-12"
+type = "released"
+leave.name = "Riverside"
+note = "rel 1949-06-12"
+
+[[person.transaction]]
+date = "1950-04-05"
+type = "signed"
+join.name = "Bisbee-Douglas"
+note = "Bisbee-Douglas 1950-04-05"
+
+[[person.transaction]]
+date = "1950-04-14"
+type = "released"
+leave.name = "Bisbee-Douglas"
+join.name = "Billings"
+note = "rel to Billings 1950-04-14"
+
+[[person.transaction]]
+date = "1950-05-22"
+type = "released"
+leave.name = "Billings"
+note = "rel 1950-05-22"
+

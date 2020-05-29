@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_091"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "2005-04-28"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-27"
+
+[person.name]
+last = "Williams"
+use = "William"
+given = "William J."
+
+[person.birth]
+date = "1925-11-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Wind Gap"
+
+[person.death]
+date = "2005-04-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilson"
+
+[person.burial]
+cemetery.name = "Wind Gap Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Wind Gap"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

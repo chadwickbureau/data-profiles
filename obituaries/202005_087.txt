@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_087"
+
+[[person.meta.citation]]
+title = "McComb Enterprise-Journal"
+date = "2003-02-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-26"
+
+[person.name]
+last = "Swayze"
+use = "Thomas"
+given = "Thomas King"
+
+[person.death]
+date = "2003-01-31"
+place.country = "US"
+place.state = "MS"
+place.city = "Oxford"
+
+[person.burial]
+cemetery.name = "Oxford Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Oxford"
+

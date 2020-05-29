@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:158743"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/158743"
+title = "The Sporting News Player Contract Cards, ScanID: 1031006225"
+
+[person.name]
+last = "Mortimer"
+given = "Albert T."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949-08-31"
+type = "signed"
+join.name = "Schenectady"
+note = "Schenectady 1949-08-31"
+
+[[person.transaction]]
+date = "1950-04-19"
+type = "released"
+leave.name = "Schenectady"
+note = "rel 1950-04-19"
+

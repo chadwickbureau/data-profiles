@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_085"
+
+[[person.meta.citation]]
+title = "St. Augustine Record"
+date = "2017-07-02"
+url = "https://www.legacy.com/obituaries/staugustine/obituary.aspx?n=albert-trout-mortimer&pid=185967274&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-26"
+
+[person.name]
+last = "Mortimer"
+use = "Al"
+given = "Albert Trout"
+
+[person.death]
+date = "2017-03-07"
+

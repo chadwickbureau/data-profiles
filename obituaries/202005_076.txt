@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_076"
+
+[[person.meta.citation]]
+title = "McLean Funeral Home"
+date = "2020-05-24"
+url = "https://www.mcleanfuneral.com/obituaries/Donald-Don-Reid-Lineberger?obId=14026061#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-24"
+
+[person.name]
+last = "Lineberger"
+use = "Don"
+given = "Donald Reid"
+
+[person.birth]
+date = "1933-04-25"
+
+[person.death]
+date = "2020-05-16"
+
+[[person.education]]
+school.name = "Belmont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Belmont"
+
+[[person.education]]
+school.name = "Appalachian State University"
+school.type = "college"
+
+

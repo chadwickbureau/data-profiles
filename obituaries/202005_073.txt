@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_073"
+
+[[person.meta.citation]]
+title = "Stellato Funeral Homes"
+date = "2020-05-22"
+url = "https://www.stellatofuneralhomes.com/obituaries/John-Riker/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Riker"
+use = "John"
+given = "John Andrew"
+suffix = "Jr."
+
+[person.birth]
+date = "1927-08-03"
+
+[person.death]
+date = "2017-07-03"
+
+[person.burial]
+cemetery.name = "Madonna Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Fort Lee"
+
+[[person.education]]
+school.name = "Leonia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Leonia"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

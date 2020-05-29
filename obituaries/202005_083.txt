@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_083"
+
+[[person.meta.citation]]
+title = "Haky Funeral Home"
+date = "2020-05-25"
+url = "https://www.hakyfuneralhome.com/obituary/john-kolar"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Kolar"
+use = "John"
+given = "John A."
+
+[person.birth]
+date = "1936-06-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Masontown"
+
+[person.death]
+date = "2020-05-23"
+
+[person.burial]
+cemetery.name = "Mount St. Macrina Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Uniontown"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

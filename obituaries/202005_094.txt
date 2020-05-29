@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_094"
+
+[[person.meta.citation]]
+title = "J. Henry Stuhr Funeral Home"
+date = "2020-05-28"
+url = "http://jhenrystuhr.tributes.com/obituary/show/Richard-Russell-Russ-Bissett-108486184"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-28"
+
+[person.name]
+last = "Bissett"
+use = "Russ"
+given = "Richard Russell"
+
+[person.birth]
+date = "1931-09-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Bayonne"
+
+[person.death]
+date = "2020-05-26"
+place.country = "US"
+place.state = "SC"
+place.city = "Mount Pleasant"
+
+[[person.education]]
+school.name = "Upsala College"
+school.type = "college"
+
+

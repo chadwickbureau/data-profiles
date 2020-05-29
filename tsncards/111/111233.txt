@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:111233"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/111233"
+title = "The Sporting News Player Contract Cards, ScanID: 1024002430"
+
+[person.name]
+last = "King"
+given = "Phillip Andrew"
+
+
+[[person.transaction]]
+date = "1983-10-01"
+type = "signed"
+join.name = "Calgary"
+note = "Calgary 1983-10-01"
+
+[[person.transaction]]
+date = "1984"
+type = "reserved"
+join.name = "Calgary"
+note = "res 1984"
+
+[[person.transaction]]
+date = "1984-03-28"
+type = "released"
+leave.name = "Calgary"
+note = "rel 1984-03-28"
+

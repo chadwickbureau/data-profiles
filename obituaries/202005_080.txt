@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_080"
+
+[[person.meta.citation]]
+title = "The Star"
+date = "2020-05-24"
+url = "https://www.thestar.com/sports/bluejays/2020/05/24/a-one-time-blue-jays-prospect-lost-to-covid-19-had-one-dream-season.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Kuziomko"
+use = "Tim"
+given = "Tim"
+
+[person.birth]
+place.country = "CA"
+place.state = "QC"
+place.city = "Montreal"
+
+[person.death]
+date = "2020-05"
+place.country = "CA"
+place.state = "ON"
+place.city = "Newmarket"
+

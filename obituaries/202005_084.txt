@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_084"
+
+[[person.meta.citation]]
+title = "Roth-Goldsteins' Memorial Chapel"
+date = "2020-05-25"
+url = "https://memorials.rothgoldsteins.com/joseph-skwisz/4224144/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Skwisz"
+use = "Joe"
+given = "Joseph R."
+
+[person.birth]
+date = "1935-05-31"
+place.country = "US"
+place.state = "NJ"
+place.city = "East Newark"
+
+[person.death]
+date = "2020-05-23"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

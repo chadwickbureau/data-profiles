@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:19523"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/19523"
+title = "The Sporting News Player Contract Cards, ScanID: 1006003884"
+
+[person.name]
+last = "Buob"
+given = "William Roy"
+
+
+[[person.transaction]]
+date = "1946-12-28"
+type = "signed"
+join.name = "Milford"
+note = "Milford 1946-12-28"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Milford"
+note = "res 1947"
+
+[[person.transaction]]
+date = "1947-04-21"
+type = "released"
+leave.name = "Milford"
+note = "rel 1947-04-21"
+

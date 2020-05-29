@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_095"
+
+[[person.meta.citation]]
+title = "Wages Funeral Home"
+date = "2020-05-28"
+url = "https://www.wagesfuneralhome.com/obituaries/Biff-Pocoroba/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-28"
+
+[person.name]
+last = "Pocoroba"
+use = "Biff"
+given = "Biff Benedict"
+suffix = "II"
+
+[person.birth]
+date = "1953-07-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Burbank"
+
+[person.death]
+date = "2020-05-24"
+
+[[person.education]]
+school.name = "Canoga Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+

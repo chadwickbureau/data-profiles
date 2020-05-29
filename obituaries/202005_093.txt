@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_093"
+
+[[person.meta.citation]]
+title = "Robinson Funeral Home"
+date = "2020-05-27"
+url = "http://robinsonfuneralhome.tributes.com/obituary/read/Guy-Russell-Rusty-Runge-108486084"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-27"
+
+[person.name]
+last = "Runge"
+use = "Rusty"
+given = "Guy Russell"
+
+[person.birth]
+date = "1937-01-03"
+place.country = "US"
+place.state = "MA"
+place.city = "Reading"
+
+[person.death]
+date = "2020-05-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Melrose"
+
+[person.burial]
+cemetery.name = "Wyoming Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Melrose"
+
+[[person.education]]
+school.name = "Reading HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Reading"
+
+

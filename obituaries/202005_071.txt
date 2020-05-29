@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_071"
+
+[[person.meta.citation]]
+title = "The News-Press"
+date = "2017-07-15"
+url = "https://www.legacy.com/obituaries/news-press/obituary.aspx?n=wilford-goff-willie&pid=186080393&fhid=10465"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Goff"
+use = "Willie"
+given = "Wilford Thomas"
+
+[person.birth]
+date = "1928-03-03"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.death]
+date = "2017-06-29"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Myers"
+
+[person.burial]
+cemetery.name = "Lee Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Fort Myers"
+

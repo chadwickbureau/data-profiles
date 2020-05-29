@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_074"
+
+[[person.meta.citation]]
+title = "Hollomon-Brown Funeral Home"
+date = "2020-05-22"
+url = "https://www.hollomon-brown.com/obituaries/Joseph-Robert-Bob-Stevens?obId=1990355#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Stevens"
+use = "Bob"
+given = "Joseph Robert"
+
+[person.birth]
+place.country = "US"
+place.state = "VA"
+place.city = "Norfolk"
+
+[person.death]
+date = "2017-07-04"
+
+[person.burial]
+cemetery.name = "Forest Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Norfolk"
+
+[[person.education]]
+school.name = "Maury HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Norfolk"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

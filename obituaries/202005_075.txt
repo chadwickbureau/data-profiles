@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_075"
+
+[[person.meta.citation]]
+title = "Cecil M. Burton Funeral Home"
+date = "2020-05-24"
+url = "https://www.cecilmburtonfuneralhome.com/obituary/don-bright-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-24"
+
+[person.name]
+last = "Bright"
+use = "Don"
+given = "Glen Donald"
+suffix = "Jr."
+
+[person.birth]
+date = "1951-12-03"
+place.country = "US"
+place.state = "NC"
+place.city = "Cleveland County"
+
+[person.death]
+date = "2020-05-21"
+place.country = "US"
+place.state = "NC"
+place.city = "Shelby"
+
+[[person.education]]
+school.name = "Shelby HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Shelby"
+
+[[person.education]]
+school.name = "Western Carolina University"
+school.type = "college"
+
+

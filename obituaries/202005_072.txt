@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_072"
+
+[[person.meta.citation]]
+title = "Waugh-Halley Wood Funeral Home"
+date = "2020-05-22"
+url = "https://www.waugh-halley-wood.com/obituary/phillip-king"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "King"
+use = "Phillip"
+given = "Phillip Andrew"
+
+[person.birth]
+date = "1964-02-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Gallipolis"
+
+[person.death]
+date = "2017-07-08"
+
+[[person.education]]
+school.name = "Gallia Academy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Gallipolis"
+
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_068"
+
+[[person.meta.citation]]
+title = "Visalia Times-Delta"
+date = "2020-05-22"
+url = "https://www.legacy.com/obituaries/visaliatimesdelta/obituary.aspx?n=thomas-james-biscotti&pid=196223483&fhid=7406"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Biscotti"
+use = "Tom"
+given = "Thomas James"
+
+[person.birth]
+date = "1938-11-02"
+
+[person.death]
+date = "2020-04-26"
+
+[[person.education]]
+school.name = "San Diego State University"
+school.type = "college"
+
+

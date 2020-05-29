@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_070"
+
+[[person.meta.citation]]
+title = "Citizens' Voice"
+date = "2020-05-21"
+url = "https://www.legacy.com/obituaries/citizensvoice/obituary.aspx?n=george-gresh&pid=196220994&fhid=22976"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Gresh"
+use = "George"
+given = "George"
+
+[person.death]
+date = "2020-05-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Kingston"
+
+[[person.education]]
+school.name = "Kingston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Kingston"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

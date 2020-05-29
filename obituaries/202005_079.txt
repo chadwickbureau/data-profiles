@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_079"
+
+[[person.meta.citation]]
+title = "Delehanty Funeral Home"
+date = "2020-05-25"
+url = "https://www.delehantyfuneral.com/book-of-memories/4223704/Anderson-Edward/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Anderson"
+use = "Ed"
+given = "Edward C."
+
+[person.birth]
+date = "1932-04-07"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2020-05-17"
+place.country = "US"
+place.state = "FL"
+place.city = "Boynton Beach"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Wappingers Falls"
+
+[[person.education]]
+school.name = "Poughkeepsie HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Poughkeepsie"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

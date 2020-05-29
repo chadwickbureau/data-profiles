@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_069"
+
+[[person.meta.citation]]
+title = "Carmon Funeral Home"
+date = "2020-05-22"
+url = "https://www.carmonfuneralhome.com/obituary/Robert-E.-Hyatt-Sr./Simsbury-Connecticut/1873948"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-22"
+
+[person.name]
+last = "Hyatt"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1925-06-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2020-05-18"
+place.country = "US"
+place.state = "CT"
+place.city = "Simsbury"
+
+[person.burial]
+cemetery.name = "St. Andrew's Episcopal Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Bloomfield"
+
+[[person.education]]
+school.name = "Franklin D. Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "Colgate University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

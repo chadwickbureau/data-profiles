@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_082"
+
+[[person.meta.citation]]
+title = "Tifton Gazette"
+date = "2020-05-25"
+url = "https://obituaries.tiftongazette.com/obituary/clair-troxell-1079228975"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Troxell"
+use = "Clair"
+given = "Clair Edward"
+
+[person.birth]
+date = "1932-11-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Homer City"
+
+[person.death]
+date = "2020-05-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Tifton"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

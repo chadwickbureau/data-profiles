@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_089"
+
+[[person.meta.citation]]
+title = "Adonizio Funeral Home"
+date = "2020-05-27"
+url = "https://www.adoniziofuneralhome.com/post/rinaldo-rene-lucarella"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-27"
+
+[person.name]
+last = "Lucarella"
+use = "Rene"
+given = "Rinaldo"
+
+[person.birth]
+date = "1928-08-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittston"
+
+[person.death]
+date = "2020-05-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilkes-Barre"
+
+[person.burial]
+cemetery.name = "Memorial Shrine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Carverton"
+
+[[person.education]]
+school.name = "Pittston HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Pittston"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

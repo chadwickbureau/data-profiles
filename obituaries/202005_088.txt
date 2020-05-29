@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_088"
+
+[[person.meta.citation]]
+title = "The Lubbock Avalanche-Journal"
+date = "2017-07-02"
+url = "https://www.legacy.com/obituaries/lubbockonline/obituary.aspx?n=ivory-lawrence-balch-lonnie&pid=185972224"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-26"
+
+[person.name]
+last = "Balch"
+use = "Lonnie"
+given = "Ivory Lawrence"
+
+[person.birth]
+date = "1927-01-30"
+place.country = "US"
+place.state = "TX"
+place.city = "New Home"
+
+[person.death]
+date = "2017-06-26"
+
+[[person.education]]
+school.name = "Lubbock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Lubbock"
+
+[[person.education]]
+school.name = "Texas Tech University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

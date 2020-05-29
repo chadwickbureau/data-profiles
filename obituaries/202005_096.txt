@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_096"
+
+[[person.meta.citation]]
+title = "Gorman-Scharpf Funeral Home"
+date = "2020-05-28"
+url = "https://www.gormanscharpf.com/obituary/charles-chuck-wiley"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-28"
+
+[person.name]
+last = "Wiley"
+use = "Chuck"
+given = "Charles Lamar"
+
+[person.birth]
+date = "1970-11-20"
+place.country = "US"
+place.state = "FL"
+place.city = "Tallahassee"
+
+[person.death]
+date = "2020-05-25"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Owatonna HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Owatonna"
+
+[[person.education]]
+school.name = "Johnson County Community College"
+school.type = "college"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_078"
+
+[[person.meta.citation]]
+title = "Newton County Funeral Home"
+date = "2020-05-25"
+url = "https://www.newtoncountyfuneralhome.com/obituary/2339166"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Pearson"
+use = "Larry"
+given = "Larry"
+
+[person.birth]
+date = "1931-01-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2013-12-02"
+place.country = "US"
+place.state = "MS"
+place.city = "Newton"
+
+[person.burial]
+cemetery.name = "Newton County Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Newton"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

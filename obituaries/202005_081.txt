@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_081"
+
+[[person.meta.citation]]
+title = "Centre Funeraire Cote-des-Neiges"
+date = "2020-05-25"
+url = "https://www.dignitymemorial.com/obituaries/montreal-qc/timothy-kuziomko-9175826"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-25"
+
+[person.name]
+last = "Kuziomko"
+use = "Timothy"
+given = "Timothy"
+
+[person.birth]
+date = "1963-01-27"
+
+[person.death]
+date = "2020-05-04"
+

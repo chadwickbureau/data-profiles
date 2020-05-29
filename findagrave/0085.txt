@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0085"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-28"
+url = "https://www.findagrave.com/memorial/98007826/russell-alfred-awkard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-28"
+
+[person.name]
+last = "Awkard"
+use = "Russell"
+given = "Russell Alfred"
+suffix = "Sr."
+
+[person.birth]
+date = "1917-10-07"
+place.country = "US"
+place.state = "MD"
+place.city = "Howard County"
+
+[person.death]
+date = "2002-04-01"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Silver Spring"
+
+[person.sameas]
+findagrave = "98007826"
+

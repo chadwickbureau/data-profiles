@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202005_097"
+
+[[person.meta.citation]]
+title = "McCriskin-Gustafson Funeral Home"
+date = "2020-05-28"
+url = "https://piscatawayfuneralhome.com/tribute/details/19917/William-Buob/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-28"
+
+[person.name]
+last = "Buob"
+use = "Bill"
+given = "William R."
+
+[person.birth]
+date = "1927"
+
+[person.death]
+date = "2020-05-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Piscataway"
+
+[person.burial]
+cemetery.name = "Resurrection Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Piscataway"
+
+[[person.education]]
+school.name = "Union HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Union"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+
