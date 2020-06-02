@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0086"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-31"
+url = "https://www.findagrave.com/memorial/197225515/james-f-mcgeehan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "McGeehan"
+use = "James"
+given = "James F."
+
+[person.birth]
+date = "1877-06-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Lansford"
+
+[person.death]
+date = "1951-10-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Jim Thorpe"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Nesquehoning"
+
+[person.sameas]
+findagrave = "197225515"
+

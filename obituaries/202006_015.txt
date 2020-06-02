@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_015"
+
+[[person.meta.citation]]
+title = "Summersett Funeral Home"
+date = "2020-06-01"
+url = "https://www.summersettfuneralhome.com/obituaries/Emil-Sparger/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Sparger"
+use = "Emil"
+given = "Emil Allen"
+
+[person.birth]
+date = "1927-04-05"
+place.country = "US"
+place.state = "VA"
+place.city = "Ararat"
+
+[person.death]
+date = "2020-05-25"
+place.country = "US"
+place.state = "NC"
+place.city = "Lexington"
+
+[person.burial]
+cemetery.name = "Rowan Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Salisbury"
+
+[[person.education]]
+school.name = "Spencer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Spencer"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_020"
+
+[[person.meta.citation]]
+title = "Austin American-Statesman"
+date = "1986-09-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Moers"
+use = "Bobby"
+given = "Robert O."
+
+[person.death]
+date = "1986-09-01"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[[person.education]]
+school.name = "University of Texas at Austin"
+school.type = "college"
+
+

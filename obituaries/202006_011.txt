@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_011"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "2020-06-01"
+url = "https://www.legacy.com/obituaries/app/obituary.aspx?n=joseph-j-yeninas&pid=196280476"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Yeninas"
+use = "Joe"
+given = "Joseph J."
+
+[person.death]
+date = "2020-05-29"
+place.country = "US"
+place.state = "NJ"
+place.city = "Neptune City"
+
+[person.burial]
+cemetery.name = "Washington Crossing National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Newton"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

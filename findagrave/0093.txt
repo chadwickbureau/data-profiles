@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0093"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/74007004"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Fleming"
+use = "Pete"
+given = "George Washington"
+suffix = "Jr."
+
+[person.birth]
+date = "1910-08-24"
+
+[person.death]
+date = "1983-08-16"
+
+[person.burial]
+cemetery.name = "Pine Crest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Jackson"
+
+[person.sameas]
+findagrave = "74007004"
+

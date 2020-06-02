@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0090"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-31"
+url = "https://www.findagrave.com/memorial/148590555/stephen-p_-regan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Regan"
+use = "Stephen"
+given = "Stephen P."
+
+[person.birth]
+date = "1890-12-26"
+
+[person.death]
+date = "1942-08-22"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Wellsville"
+
+[person.sameas]
+findagrave = "148590555"
+

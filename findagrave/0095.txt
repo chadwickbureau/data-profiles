@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0095"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/82384151"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Horn"
+use = "Vernon"
+given = "Vernon Thomas"
+
+[person.birth]
+date = "1917-01-31"
+place.country = "US"
+place.state = "KS"
+place.city = "Jefferson County"
+
+[person.death]
+date = "2005-03-15"
+place.country = "US"
+place.state = "FL"
+place.city = "Pensacola"
+
+[person.burial]
+cemetery.name = "Pensacola Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Pensacola"
+
+[person.sameas]
+findagrave = "82384151"
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0094"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/39495047"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Hader"
+use = "Pete"
+given = "George"
+suffix = "Jr."
+
+[person.birth]
+date = "1917-03-02"
+place.country = "US"
+place.state = "OH"
+place.city = "Groesbeck"
+
+[person.death]
+date = "1973-12-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Cincinnati"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Glendale"
+
+[person.sameas]
+findagrave = "39495047"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

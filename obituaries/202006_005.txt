@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_005"
+
+[[person.meta.citation]]
+title = "Taunton Gazette"
+date = "2017-05-26"
+url = "https://www.legacy.com/obituaries/tauntongazette/obituary.aspx?n=stanley-slavick&pid=185622038&fhid=30108"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-30"
+
+[person.name]
+last = "Slavick"
+use = "Stanley"
+given = "Stanley"
+nick = "Beans"
+
+[person.birth]
+date = "1924-09-12"
+place.country = "US"
+place.state = "MA"
+place.city = "Taunton"
+
+[person.death]
+date = "2017-05-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Middleboro"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Taunton"
+
+[[person.education]]
+school.name = "Monsignor Coyle HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Taunton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

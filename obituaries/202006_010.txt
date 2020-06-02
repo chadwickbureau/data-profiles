@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_010"
+
+[[person.meta.citation]]
+title = "Potter Enterprise"
+date = "1942-08-27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Regan"
+use = "Steve"
+given = "Stephen P."
+
+[person.death]
+date = "1942-08-22"
+place.country = "US"
+place.state = "NY"
+place.city = "Wellsville"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Wellsville"
+
+[[person.education]]
+school.name = "Cornell University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"
+
+

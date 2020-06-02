@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_017"
+
+[[person.meta.citation]]
+title = "NikkanSports.com"
+date = "2019-12-11"
+url = "https://www.nikkansports.com/baseball/news/201912110000669.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Daigo"
+use = "Takeo"
+given = "Takeo"
+
+[person.death]
+date = "2019-12-11"
+place.country = "JP"
+place.city = "Tokyo"
+

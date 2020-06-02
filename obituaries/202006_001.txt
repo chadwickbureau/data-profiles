@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_001"
+
+[[person.meta.citation]]
+title = "Frederick News-Post"
+date = "2017-06-01"
+url = "https://www.legacy.com/obituaries/fredericknewspost/obituary.aspx?n=maynard-clark-luhn&pid=185678372&fhid=13073&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-29"
+
+[person.name]
+last = "Luhn"
+use = "Maynard"
+given = "Maynard Clark"
+suffix = "Jr."
+
+[person.birth]
+date = "1927-11-21"
+place.country = "US"
+place.state = "MD"
+place.city = "Comus"
+
+[person.death]
+date = "2017-05-31"
+
+[person.burial]
+cemetery.name = "Monocacy Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Beallsville"
+

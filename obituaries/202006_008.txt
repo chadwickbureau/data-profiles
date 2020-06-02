@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_008"
+
+[[person.meta.citation]]
+title = "The Republican"
+date = "2020-05-31"
+url = "https://obits.masslive.com/obituaries/masslive/obituary.aspx?n=alfred-colonna&pid=196276918"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Colonna"
+use = "Al"
+given = "Alfred Henry"
+suffix = "Sr."
+
+[person.birth]
+date = "1929-01-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.death]
+date = "2020-05-28"
+place.country = "US"
+place.state = "MA"
+place.city = "Westfield"
+
+[[person.education]]
+school.name = "Springfield Tech HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Springfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

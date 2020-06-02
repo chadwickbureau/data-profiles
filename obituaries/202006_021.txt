@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_021"
+
+[[person.meta.citation]]
+title = "Hardage-Giddens Riverside Funeral Home"
+date = "2020-05-29"
+url = "https://www.dignitymemorial.com/obituaries/jacksonville-fl/bill-plaster-7422028"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-29"
+
+[person.name]
+last = "Plaster"
+use = "Bill"
+given = "William M."
+
+[person.birth]
+date = "1926-04-24"
+place.country = "US"
+place.state = "NC"
+place.city = "Madison"
+
+[person.death]
+date = "2017-05-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Palatka"
+
+[person.burial]
+cemetery.name = "Jacksonville National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Jacksonville"
+

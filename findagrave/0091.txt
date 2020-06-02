@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0091"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/73500111"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Barton"
+use = "Larry"
+given = "Larry"
+suffix = "Sr."
+
+[person.birth]
+date = "1912-11-21"
+place.country = "US"
+place.state = "CO"
+place.city = "Pueblo"
+
+[person.death]
+date = "1992-03-05"
+
+[person.burial]
+cemetery.name = "Maple Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[person.sameas]
+findagrave = "73500111"
+
+[[person.education]]
+school.name = "Freemont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+

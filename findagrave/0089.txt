@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0089"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-31"
+url = "https://www.findagrave.com/memorial/8067484"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Jennings"
+use = "William"
+given = "William Morley"
+
+[person.birth]
+date = "1890-01-23"
+place.country = "US"
+place.state = "MI"
+place.city = "Holland"
+
+[person.death]
+date = "1985-05-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.burial]
+cemetery.name = "City of Lubbock Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Lubbock"
+
+[person.sameas]
+findagrave = "8067484"
+

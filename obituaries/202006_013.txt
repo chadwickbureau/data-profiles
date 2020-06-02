@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_013"
+
+[[person.meta.citation]]
+title = "Scott & Barbieri Funeral Home"
+date = "2020-06-01"
+url = "https://www.sbfuneralhome.com/obituaries/William-Anderson-78/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Anderson"
+use = "Bill"
+given = "William"
+suffix = "Jr."
+
+[person.birth]
+date = "1970-09-23"
+place.country = "US"
+place.state = "NY"
+place.city = "Glens Falls"
+
+[person.death]
+date = "2020-05-23"
+place.country = "US"
+place.state = "NY"
+place.city = "Queensbury"
+
+[[person.education]]
+school.name = "Queensbury HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Queensbury"
+
+[[person.education]]
+school.name = "George Washington University"
+school.type = "college"
+
+

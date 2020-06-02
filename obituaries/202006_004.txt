@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_004"
+
+[[person.meta.citation]]
+title = "Hamilton Spectator"
+date = "2020-05-29"
+url = "https://www.legacy.com/obituaries/thespec/obituary.aspx?n=charles-wanke&pid=196269249&fhid=12292"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-30"
+
+[person.name]
+last = "Wanke"
+use = "Chuck"
+given = "Charles"
+
+[person.birth]
+place.country = "US"
+place.state = "TX"
+place.city = "Gordon"
+
+[person.death]
+date = "2020-05-22"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

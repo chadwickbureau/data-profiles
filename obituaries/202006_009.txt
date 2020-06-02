@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_009"
+
+[[person.meta.citation]]
+title = "Winston-Salem Journal"
+date = "2020-05-30"
+url = "https://www.journalnow.com/obituaries/stockton-richard-e-dick/article_e064da5b-4847-5806-b875-a4d905edebae.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Stockton"
+use = "Dick"
+given = "Richard E."
+
+[person.birth]
+date = "1928-07-02"
+place.country = "US"
+place.state = "NC"
+place.city = "Kernersville"
+
+[person.death]
+date = "2020-05-26"
+place.country = "US"
+place.state = "NC"
+place.city = "Greensboro"
+
+[[person.education]]
+school.name = "Kernersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Kernersville"
+
+[[person.education]]
+school.name = "Oak Ridge Military Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Oak Ridge"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

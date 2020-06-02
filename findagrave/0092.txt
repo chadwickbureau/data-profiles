@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0092"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/115244563"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Curlee"
+use = "Bill"
+given = "William A."
+suffix = "Sr."
+
+[person.birth]
+date = "1916-10-08"
+place.country = "US"
+place.state = "AL"
+place.city = "Piper"
+
+[person.death]
+date = "1994-06-07"
+place.country = "US"
+place.state = "VA"
+place.city = "Martinsville"
+
+[person.burial]
+cemetery.name = "Roselawn Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Martinsville"
+
+[person.sameas]
+findagrave = "115244563"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

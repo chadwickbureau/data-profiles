@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_022"
+
+[[person.meta.citation]]
+title = "Jay Chapel"
+date = "2020-05-30"
+url = "https://www.jaychapel.com/tributes/Martin-Iturbe"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-30"
+
+[person.name]
+last = "Iturbe"
+use = "Marty"
+given = "Martin John"
+
+[person.birth]
+date = "1951-03-06"
+
+[person.death]
+date = "2020-05-26"
+

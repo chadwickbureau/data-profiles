@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_006"
+
+[[person.meta.citation]]
+title = "Fortuna Funeral Home"
+date = "2020-05-30"
+url = "https://www.fortunafuneralhome.com/obituary/5481449"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-30"
+
+[person.name]
+last = "Krupa"
+use = "Joe"
+given = "Joseph T."
+
+[person.birth]
+date = "1932-11-12"
+
+[person.death]
+date = "2017-05-18"
+
+[person.burial]
+cemetery.name = "Maple Shade Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Independence"
+

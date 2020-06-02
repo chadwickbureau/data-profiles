@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_019"
+
+[[person.meta.citation]]
+title = "World Today News"
+date = "2020-05-08"
+url = "https://world-today-news.com/rodney-polonia-son-of-luis-polonia-former-dominican-major-leagues-dies/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Polonia"
+use = "Rodney"
+given = "Rodney"
+
+[person.death]
+date = "2020-05-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Polonia"
+person.name.use = "Luis"
+person.name.given = "Luis"
+
+

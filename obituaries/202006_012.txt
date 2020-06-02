@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_012"
+
+[[person.meta.citation]]
+title = "Lockstone Funeral Home"
+date = "2020-06-01"
+url = "https://www.lockstonefuneralhome.com/obituary/donald-jones"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Jones"
+use = "Jay"
+given = "Donald Jay"
+
+[person.birth]
+date = "1934-05-14"
+place.country = "US"
+place.state = "OK"
+place.city = "Taloga"
+
+[person.death]
+date = "2020-05-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+
+[[person.education]]
+school.name = "Leedey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Leedey"
+
+[[person.education]]
+school.name = "Southwestern Oklahoma State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0096"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-01"
+url = "https://www.findagrave.com/memorial/47980857"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Lowery"
+use = "Milton"
+given = "Milton James"
+
+[person.birth]
+date = "1914-11-04"
+place.country = "US"
+place.state = "MO"
+
+[person.death]
+date = "1979-03-29"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[person.sameas]
+findagrave = "47980857"
+

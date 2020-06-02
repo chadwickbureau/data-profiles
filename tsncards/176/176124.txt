@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:176124"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/176124"
+title = "The Sporting News Player Contract Cards, ScanID: 1027002843"
+
+[person.name]
+last = "Luhn"
+given = "Maynard C."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1950-05-11"
+type = "signed"
+join.name = "Concord"
+note = "Concord 1950-05-11"
+
+[[person.transaction]]
+date = "1950-05-25"
+type = "released"
+leave.name = "Concord"
+note = "rel 1950-05-25"
+

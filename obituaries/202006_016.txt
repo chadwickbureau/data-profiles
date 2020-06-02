@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_016"
+
+[[person.meta.citation]]
+title = "Ryan-Parke Funeral Home"
+date = "2020-06-01"
+url = "https://www.ryan-parke.com/obituary/John-Picchiotti"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-01"
+
+[person.name]
+last = "Picchiotti"
+use = "John"
+given = "John T."
+
+[person.birth]
+date = "1928-04-30"
+
+[person.death]
+date = "2020-05-27"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

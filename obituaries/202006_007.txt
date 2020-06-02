@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_007"
+
+[[person.meta.citation]]
+title = "Millet-Guidry Funeral Home"
+date = "2020-05-31"
+url = "https://www.milletguidry.com/obituaries/Robert-Catton/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Catton"
+use = "Bobby"
+given = "Robert H."
+
+[person.birth]
+date = "1937-12-17"
+
+[person.death]
+date = "2020-05-20"
+
+[[person.education]]
+school.name = "Southeastern Louisiana University"
+school.type = "college"
+
+

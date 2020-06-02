@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0087"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-05-31"
+url = "https://www.findagrave.com/memorial/205342514/george-william-andreas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-05-31"
+
+[person.name]
+last = "Andreas"
+use = "Red"
+given = "George William"
+
+[person.birth]
+date = "1879-08-23"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[person.death]
+date = "1959-02-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Sioux City"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Sioux City"
+
+[person.sameas]
+findagrave = "205342514"
+
