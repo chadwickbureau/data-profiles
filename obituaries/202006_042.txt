@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_042"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "2017-04-16"
+url = "https://www.legacy.com/obituaries/lowellsun/obituary.aspx?n=Edward-F-Slattery-Bud&pid=185107531"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Slattery"
+use = "Bud"
+given = "Edward F."
+
+[person.birth]
+date = "1937-04-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[person.death]
+date = "2017-04-13"
+place.country = "US"
+place.state = "NH"
+place.city = "Hampton"
+
+[person.burial]
+cemetery.name = "St. Patrick Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Lowell"
+
+[[person.education]]
+school.name = "Lowell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lowell"
+
+[[person.education]]
+school.name = "Providence College"
+school.type = "college"
+
+

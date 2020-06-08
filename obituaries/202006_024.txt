@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_024"
+
+[[person.meta.citation]]
+title = "Witty's Funeral Home"
+date = "2020-06-02"
+url = "https://www.wittyfuneralhome.com/obituary/WilliamJBill-Rogers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Rogers"
+use = "Bill"
+given = "William J."
+
+[person.birth]
+date = "1944-12-11"
+place.country = "US"
+place.state = "ME"
+place.city = "York"
+
+[person.death]
+date = "2020-05-26"
+place.country = "US"
+place.state = "VT"
+place.city = "Bennington"
+
+[person.burial]
+cemetery.name = "South Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Orange"
+
+[[person.education]]
+school.name = "Portsmouth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Portsmouth"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+
+

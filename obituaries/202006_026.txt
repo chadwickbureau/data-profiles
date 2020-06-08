@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_026"
+
+[[person.meta.citation]]
+title = "Witzler-Shank Funeral Home"
+date = "2020-06-02"
+url = "https://www.witzlershankfh.com/obituaries/Frederick-A-Sloyer?obId=12578681#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Sloyer"
+use = "Fred"
+given = "Frederick A."
+
+[person.birth]
+date = "1948-07-18"
+place.country = "US"
+place.state = "OH"
+place.city = "Galion"
+
+[person.death]
+date = "2017-05-09"
+place.country = "US"
+place.state = "OH"
+place.city = "Toledo"
+
+[person.burial]
+cemetery.name = "Restlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Perrysburg"
+
+[[person.education]]
+school.name = "Lake HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Millbury"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"
+
+

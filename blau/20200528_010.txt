@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_010"
+
+[[person.meta.citation]]
+title = "Chattanooga Daily Times"
+date = "1915-05-09"
+pages = "18"
+
+[person.name]
+last = "Burke"
+use = "Billy"
+given = "Billy"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.throws = "L"
+description.position = "P"
+
+

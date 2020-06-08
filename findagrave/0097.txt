@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0097"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-02"
+url = "https://www.findagrave.com/memorial/176630393"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Sherrill"
+use = "Lee"
+given = "Lee Woodrow"
+suffix = "Sr."
+
+[person.birth]
+date = "1914-09-10"
+place.country = "US"
+place.state = "NC"
+place.city = "Statesville"
+
+[person.death]
+date = "1992-02-02"
+place.country = "US"
+place.state = "FL"
+place.city = "Charlotte County"
+
+[person.sameas]
+findagrave = "176630393"
+
+[[person.education]]
+school.name = "High Point University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

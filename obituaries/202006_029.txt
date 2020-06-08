@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_029"
+
+[[person.meta.citation]]
+title = "Hansen Mortuaries"
+date = "2020-06-03"
+url = "https://www.hansenmortuary.com/obituary/457902/William-Hatcher/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-03"
+
+[person.name]
+last = "Hatcher"
+use = "William"
+given = "William F."
+
+[person.birth]
+date = "1935-09-01"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.death]
+date = "2020-05-30"
+
+[[person.education]]
+school.name = "West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AZ"
+school.place.city = "Phoenix"
+
+[[person.education]]
+school.name = "Phoenix College"
+school.type = "college"
+
+

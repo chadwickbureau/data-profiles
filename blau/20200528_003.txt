@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_003"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1915-06-06"
+pages = "3,6"
+
+[person.name]
+last = "Hunt"
+use = "Frank"
+given = "Frank"
+
+[person.description]
+note = [ "Has photograph" ]
+
+[[person.resides]]
+dates = "1915"
+place.country = "US"
+place.state = "GA"
+place.city = "Adairsville"
+
+
+[[person.education]]
+school.name = "Mercer College"
+school.type = "college"
+
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Atlanta"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_007"
+
+[[person.meta.citation]]
+title = "Chattanooga News"
+date = "1915-07-30"
+pages = "8"
+
+[person.name]
+last = "Taff"
+use = "Bill"
+given = "Bill"
+
+[person.description]
+note = [ "hit in head by pitch July 5, now out of action" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+

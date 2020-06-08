@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_038"
+
+[[person.meta.citation]]
+title = "Heritage Gardens Funeral Home"
+date = "2020-06-05"
+url = "https://www.heritagegardensfuneralhome.com/obituary/Robert-Jingling"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Jingling"
+use = "Bob"
+given = "Robert G."
+
+[person.birth]
+date = "1933-06-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-05-29"
+
+[person.burial]
+cemetery.name = "Heritage Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Niceville"
+
+[[person.education]]
+school.name = "University of Wyoming"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

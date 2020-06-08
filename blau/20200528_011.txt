@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_011"
+
+[[person.meta.citation]]
+title = "Chattanooga Daily Times"
+date = "1915-05-04"
+pages = "8"
+
+[person.name]
+last = "Wagner"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1912"
+team.name = "New Orleans"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1913"
+team.name = "Brooklyn"
+team.league.name = "National League"
+
+
+[[person.transaction]]
+date = "<=1915-05-04"
+type = "acquired"
+join.name = "Chattanooga"
+join.league.name = "Southern Association"
+leave.name = "Brooklyn"
+leave.league.name = "National"
+forconsideration = "cash"
+
+

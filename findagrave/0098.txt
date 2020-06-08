@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0098"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-02"
+url = "https://www.findagrave.com/memorial/46825009"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Sturdy"
+use = "Jack"
+given = "Maurice C."
+
+[person.birth]
+date = "1913-01-31"
+
+[person.death]
+date = "1999-12-01"
+
+[person.burial]
+cemetery.name = "Sturdy Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Crestwood"
+
+[person.sameas]
+findagrave = "46825009"
+

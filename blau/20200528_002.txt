@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_002"
+
+[[person.meta.citation]]
+title = "Chattanooga News"
+date = "1915-07-02"
+pages = "8"
+
+[person.name]
+last = "Marshall"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+

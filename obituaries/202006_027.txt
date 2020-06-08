@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_027"
+
+[[person.meta.citation]]
+title = "Herald-News"
+date = "2017-05-07"
+url = "https://www.legacy.com/obituaries/theherald-news/obituary.aspx?n=Edward-Stephen-Rutkowski&pid=185317309"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Rutkowski"
+use = "Ed"
+given = "Edward Stephen"
+
+[person.death]
+date = "2017-05-04"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+
+[person.description]
+throws = "R"
+
+[[person.education]]
+school.name = "Joliet Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Joliet"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

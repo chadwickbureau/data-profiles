@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_046"
+
+[[person.meta.citation]]
+title = "J&J Spratt Funeral Home"
+date = "2020-06-06"
+url = "https://www.jjsprattfh.com/notices/Rudolph-Smolar"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Smolar"
+use = "Rudy"
+given = "Rudolph W."
+
+[person.birth]
+date = "1929-05-26"
+place.country = "US"
+place.state = "PA"
+place.city = "New Brighton"
+
+[person.death]
+date = "2017-03-31"
+place.country = "US"
+place.state = "PA"
+place.city = "Beaver Falls"
+
+[person.burial]
+cemetery.name = "St. Joseph Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Brighton"
+
+[[person.education]]
+school.name = "New Brighton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "New Brighton"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

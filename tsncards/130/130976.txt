@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130976"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130976"
+title = "The Sporting News Player Contract Cards, ScanID: 1041004563"
+
+[person.name]
+last = "Slattery"
+given = "Edward Francis"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "77"
+weight = "190"
+
+[person.birth]
+date = "1937-04-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[[person.resides]]
+place.address = "321 Rogers Street"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+
+[[person.transaction]]
+date = "1958-10-10"
+type = "signed"
+join.name = "Eugene"
+note = "Eugene  1958-10-10"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Eugene"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1959-04-15"
+type = "released"
+leave.name = "Eugene"
+note = "rel 1959-04-15"
+

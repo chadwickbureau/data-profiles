@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_036"
+
+[[person.meta.citation]]
+title = "Daily Sentinel"
+date = "2017-04-26"
+url = "https://www.legacy.com/obituaries/gjsentinel/obituary.aspx?n=Richard-Reimer&pid=185208814"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-04"
+
+[person.name]
+last = "Reimer"
+use = "Dick"
+given = "Richard E."
+
+[person.birth]
+date = "1932-09-22"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2017-04-22"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

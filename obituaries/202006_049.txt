@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_049"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2020-06-07"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=fredrick-hasselman&pid=196310340"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-07"
+
+[person.name]
+last = "Hasselman"
+use = "Fred"
+given = "Fredrick Lee"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-05-25"
+
+[[person.education]]
+school.name = "New Trier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Winnetka"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_044"
+
+[[person.meta.citation]]
+title = "Haky Funeral Home"
+date = "2020-06-06"
+url = "https://www.hakyfuneralhome.com/obituary/lawrence-donald-bobby-locke"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Locke"
+use = "Bobby"
+given = "Lawrence Donald"
+
+[person.birth]
+date = "1934-03-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Rowes Run"
+
+[person.death]
+date = "2020-06-04"
+
+[person.burial]
+cemetery.name = "Sylvan Heights Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Oliver"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

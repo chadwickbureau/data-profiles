@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:59811"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/59811"
+title = "The Sporting News Player Contract Cards, ScanID: 1013006325"
+
+[person.name]
+last = "Estadt"
+given = "Francis H."
+
+[[person.resides]]
+place.country = "US"
+place.state = "NJ"
+place.city = "Cedarville"
+
+
+[[person.transaction]]
+date = "1948-07-29"
+type = "signed"
+join.name = "Red Springs"
+note = "Red Springs 1948-07-29"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Red Springs"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-05-05"
+type = "released"
+leave.name = "Red Springs"
+note = "rel 1949-05-05"
+
+[[person.transaction]]
+date = "1949-05-30"
+type = "signed"
+join.name = "Wilmington (NC)"
+note = "Wilmington (NC) 1949-05-30"
+
+[[person.transaction]]
+date = "1949-06-06"
+type = "released"
+leave.name = "Wilmington (NC)"
+note = "rel 1949-06-06"
+

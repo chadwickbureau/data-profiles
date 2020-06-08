@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:81153"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/81153"
+title = "The Sporting News Player Contract Cards, ScanID: 1039000835"
+
+[person.name]
+last = "Rutkowski"
+given = "Edward Stephen"
+
+
+[[person.transaction]]
+date = "1948-12-18"
+type = "signed"
+join.name = "Elizabethton"
+note = "Elizabethton 1948-12-18"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Elizabethton"
+note = "res 1949"
+
+[[person.transaction]]
+date = "1949-01-19"
+type = "released"
+leave.name = "Elizabethton"
+join.name = "Lumberton"
+note = "rel to Lumberton 1949-01-19"
+
+[[person.transaction]]
+date = "1949-05-09"
+type = "released"
+leave.name = "Lumberton"
+note = "rel 1949-05-09"
+

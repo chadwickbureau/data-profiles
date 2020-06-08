@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:146414"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/146414"
+title = "The Sporting News Player Contract Cards, ScanID: 11031002375"
+
+[person.name]
+last = "Monger"
+given = "James Otis"
+
+
+[[person.transaction]]
+date = "1948-10-23"
+type = "signed"
+join.name = "Bluefield"
+note = "Bluefield 1948-10-23"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Bluefield"
+note = "res 1949"
+
+[[person.transaction]]
+date = "1949-04-18"
+type = "released"
+leave.name = "Bluefield"
+note = "rel 1949-04-18"
+

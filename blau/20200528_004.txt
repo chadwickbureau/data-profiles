@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_004"
+
+[[person.meta.citation]]
+title = "Atlanta Constitution"
+date = "1915-02-03"
+pages = "12"
+
+[person.name]
+last = "Morgan"
+
+[[person.affiliation]]
+type = "player"
+dates = "1914"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+description.throws = "R"
+
+

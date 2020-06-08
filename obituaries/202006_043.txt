@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_043"
+
+[[person.meta.citation]]
+title = "The Tennessean"
+date = "1978-11-29"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Thompson"
+use = "James"
+given = "James Edgar Averett"
+
+[person.death]
+date = "1978-11-28"
+place.country = "US"
+place.state = "TN"
+place.city = "Clarksville"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Clarksville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

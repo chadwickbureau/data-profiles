@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:143272"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/143272"
+title = "The Sporting News Player Contract Cards, ScanID: 1041004937"
+
+[person.name]
+last = "Sloyer"
+given = "Fred A."
+
+
+[[person.transaction]]
+date = "1966-12-28"
+type = "signed"
+join.name = "Statesville"
+note = "Statesville 1966-12-28"
+
+[[person.transaction]]
+date = "1967"
+type = "reserved"
+join.name = "Statesville"
+note = "res 1967"
+
+[[person.transaction]]
+date = "1967-04-05"
+type = "released"
+leave.name = "Statesville"
+note = "rel 1967-04-05"
+

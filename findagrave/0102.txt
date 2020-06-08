@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0102"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-06"
+url = "https://www.findagrave.com/memorial/157987677"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Blackburn"
+use = "Wayne"
+given = "Wayne Tennyson"
+
+[person.birth]
+date = "1914-07-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Mount Joy"
+
+[person.death]
+date = "2000-02-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Portsmouth"
+
+[person.burial]
+cemetery.name = "Greenlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Portsmouth"
+
+[person.sameas]
+findagrave = "157987677"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

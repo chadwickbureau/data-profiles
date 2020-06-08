@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_047"
+
+[[person.meta.citation]]
+title = "Becker Ritter Funeral Home"
+date = "2020-06-06"
+url = "https://www.beckerritter.com/tributes/John-Richmond"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Richmond"
+use = "John"
+given = "John W."
+
+[person.birth]
+date = "1926-04-29"
+
+[person.death]
+date = "2017-03-13"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

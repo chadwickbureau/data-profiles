@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_034"
+
+[[person.meta.citation]]
+title = "Affinty Funeral Service"
+date = "2020-06-04"
+url = "https://affinityfuneralservice.com/obituaries/henry-mason/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-04"
+
+[person.name]
+last = "Mason"
+use = "Henry"
+given = "Henry"
+nick = "Pistol"
+
+[person.birth]
+date = "1931-06-19"
+place.country = "US"
+place.state = "MO"
+place.city = "Marshall"
+
+[person.death]
+date = "2020-05-29"
+

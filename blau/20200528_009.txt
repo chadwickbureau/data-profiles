@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_009"
+
+[[person.meta.citation]]
+title = "Arkansas Democrat"
+date = "1915-07-06"
+pages = "6"
+
+[person.name]
+last = "Howard"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Brooklyn"
+team.league.name = "Federal League"
+
+

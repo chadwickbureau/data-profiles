@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_012"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1915-09-07"
+pages = "9"
+
+[person.name]
+last = "Probst"
+given = "W. J."
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+description.bats = "L"
+
+

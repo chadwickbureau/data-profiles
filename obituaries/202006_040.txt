@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_040"
+
+[[person.meta.citation]]
+title = "Woodlawn Funeral Home"
+date = "2020-06-05"
+url = "https://www.woodlawnri.com/obituary/Vincent-Graziano"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Graziano"
+use = "Vincent"
+given = "Vincent W."
+
+[person.birth]
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "2017-04-20"
+
+[person.burial]
+cemetery.name = "St. Ann Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Cranston"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_048"
+
+[[person.meta.citation]]
+title = "Lowell Sun"
+date = "1975-12-27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Archinski"
+use = "Tony"
+given = "Anthony L."
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Westford"
+
+[person.death]
+date = "1975-12-25"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[[person.education]]
+school.name = "Lowell HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Lowell"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

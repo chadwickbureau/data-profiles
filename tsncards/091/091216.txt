@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:91216"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/91216"
+title = "The Sporting News Player Contract Cards, ScanID: 1038006165"
+
+[person.name]
+last = "Ruggiero"
+given = "Eugene Norman"
+
+
+[[person.transaction]]
+date = "1948-05-04"
+type = "signed"
+join.name = "Owensboro"
+note = "Owensboro 1948-05-04"
+
+[[person.transaction]]
+date = "1948-05-25"
+type = "disabled"
+leave.name = "Owensboro"
+note = "disabled list 1948-05-25"
+
+[[person.transaction]]
+date = "1948-06-04"
+type = "reinstated"
+join.name = "Owensboro"
+note = "rein from disabled list 1948-06-04"
+
+[[person.transaction]]
+date = "1948-0604"
+type = "released"
+leave.name = "Owensboro"
+join.name = "Richmond (IN)"
+note = "rel to Richmond (IN) 1948-0604"
+
+[[person.transaction]]
+date = "1948-06-06"
+type = "released"
+leave.name = "Richmond (IN)"
+note = "rel 1948-06-06"
+

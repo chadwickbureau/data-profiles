@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_006"
+
+[[person.meta.citation]]
+title = "Chattanooga Daily Times"
+date = "1915-06-25"
+pages = "8"
+
+[person.name]
+last = "Taff"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Fort Worth"
+team.league.name = "Texas League"
+
+
+[[person.playing]]
+season = "1914"
+league.name = "Texas League"
+split.0.team.name = "Beaumont"
+totals.P_W = "15"
+totals.P_L = "10"
+
+

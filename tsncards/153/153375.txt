@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:153375"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/153375"
+title = "The Sporting News Player Contract Cards, ScanID: 1029002521"
+
+[person.name]
+last = "McCreary"
+given = "Arthur Charles"
+
+
+[[person.transaction]]
+date = "1953-01-24"
+type = "signed"
+join.name = "Brunswick"
+note = "Brunswick 1953-01-24"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Brunswick"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-04-17"
+type = "released"
+leave.name = "Brunswick"
+join.name = "Dublin"
+note = "rel to Dublin 1954-04-17"
+
+[[person.transaction]]
+date = "1954-04-25"
+type = "released"
+leave.name = "Dublin"
+note = "rel 1954-04-25"
+
+[[person.transaction]]
+date = "1956-10-04"
+type = "signed"
+join.name = "Grand Forks"
+note = "Grand Forks 1956-10-04"
+
+[[person.transaction]]
+date = "1957-04-27"
+type = "released"
+leave.name = "Grand Forks"
+note = "rel 1957-04-27"
+

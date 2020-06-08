@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_030"
+
+[[person.meta.citation]]
+title = "Reeves Funeral Home"
+date = "2020-06-03"
+url = "https://www.dignitymemorial.com/obituaries/hope-mills-nc/francis-estadt-7391956"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-03"
+
+[person.name]
+last = "Estadt"
+use = "Fran"
+given = "Francis Harry"
+suffix = "Sr."
+
+[person.birth]
+date = "1924-08-19"
+place.country = "US"
+place.state = "NJ"
+place.city = "Cedarville"
+
+[person.death]
+date = "2017-05-01"
+place.country = "US"
+place.state = "NC"
+place.city = "Hope Mills"
+
+[person.burial]
+cemetery.name = "Lafayette Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Fayetteville"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

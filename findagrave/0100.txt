@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0100"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-05"
+url = "https://www.findagrave.com/memorial/7655273"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Thompson"
+use = "Averett"
+given = "Averett"
+
+[person.birth]
+date = "1912-01-14"
+place.country = "US"
+place.state = "TN"
+
+[person.death]
+date = "1978-11-28"
+place.country = "US"
+place.state = "TN"
+place.city = "Montgomery County"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Clarksville"
+
+[person.sameas]
+findagrave = "7655273"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

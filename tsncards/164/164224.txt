@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:164224"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/164224"
+title = "The Sporting News Player Contract Cards, ScanID: 1099016933"
+
+[person.name]
+last = "Neff"
+given = "David E."
+
+[person.description]
+position = "C"
+bats = "R"
+throws = "R"
+height = "75"
+weight = "180"
+
+[person.birth]
+date = "1931-06-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Germantown"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Germantown"
+
+
+[[person.transaction]]
+date = "1949-06-29"
+type = "signed"
+join.name = "St. Augustine"
+note = "St. Augustine 1949-06-29"
+
+[[person.transaction]]
+date = "1949-09-22"
+type = "released"
+leave.name = "St. Augustine"
+join.name = "Visalia"
+note = "rel to Visalia 1949-09-22"
+
+[[person.transaction]]
+date = "1949-09-28"
+type = "released"
+leave.name = "Visalia"
+join.name = "Carthage"
+note = "rel to Carthage 1949-09-28"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Carthage"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-04-19"
+type = "released"
+leave.name = "Carthage"
+note = "rel 1950-04-19"
+

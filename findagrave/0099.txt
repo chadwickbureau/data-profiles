@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0099"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-05"
+url = "https://www.findagrave.com/memorial/47114596"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Tichacek"
+use = "Richard"
+given = "Richard F."
+suffix = "Jr."
+
+[person.birth]
+date = "1917-08-30"
+
+[person.death]
+date = "1971-12-30"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "St. Louis"
+
+[person.sameas]
+findagrave = "47114596"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_041"
+
+[[person.meta.citation]]
+title = "Shook's Cedar Grove Funeral Home"
+date = "2020-06-05"
+url = "https://shookscedargrove.com/book-of-memories/2908048/Werner-John/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-05"
+
+[person.name]
+last = "Werner"
+use = "John"
+given = "John E."
+
+[person.death]
+date = "2017-04-20"
+
+[person.burial]
+cemetery.name = "Glendale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Bloomfield"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_031"
+
+[[person.meta.citation]]
+title = "Moss Funeral Home"
+date = "2020-06-03"
+url = "http://mossfuneralhome.com/obituaries/david-e-neff/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-03"
+
+[person.name]
+last = "Neff"
+use = "Dave"
+given = "David E."
+
+[person.birth]
+date = "1931-06-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Germantown"
+
+[person.death]
+date = "2017-05-01"
+place.country = "US"
+place.state = "MO"
+place.city = "Creve Coeur"
+
+[person.burial]
+cemetery.name = "St. Boniface Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Germantown"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

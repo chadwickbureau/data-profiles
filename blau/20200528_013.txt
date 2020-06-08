@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_013"
+
+[[person.meta.citation]]
+title = "Arkansas Gazette"
+date = "1915-09-13"
+pages = "6"
+
+[person.name]
+last = "Probst"
+use = "Bill"
+given = "Bill"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Little Rock"
+team.league.name = "Southern Association"
+
+

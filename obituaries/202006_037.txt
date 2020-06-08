@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_037"
+
+[[person.meta.citation]]
+title = "Halley-Olsen-Murphy Funeral Home"
+date = "2020-06-04"
+url = "https://www.halleyolsen.com/memorials/Burckle-Arthur/2907864/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-04"
+
+[person.name]
+last = "Burckle"
+use = "John"
+given = "Arthur John"
+
+[person.birth]
+date = "1927-12-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Waukegan"
+
+[person.death]
+date = "2017-04-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Lancaster"
+
+[person.burial]
+cemetery.name = "Joshua Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Lancaster"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

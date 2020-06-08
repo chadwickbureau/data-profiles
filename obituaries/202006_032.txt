@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_032"
+
+[[person.meta.citation]]
+title = "Fentress Mortuary"
+date = "2020-06-04"
+url = "https://www.dignitymemorial.com/obituaries/fort-smith-ar/richard-delong-9207068"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-04"
+
+[person.name]
+last = "DeLong"
+use = "Dick"
+given = "Richard Sidney"
+
+[person.birth]
+date = "1933-10-21"
+place.country = "US"
+place.state = "PA"
+place.city = "Hamburg"
+
+[person.death]
+date = "2020-06-03"
+place.country = "US"
+place.state = "AR"
+place.city = "Fort Smith"
+
+[person.burial]
+cemetery.name = "Fort Smith National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Fort Smith"
+
+[[person.education]]
+school.name = "Hamburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Hamburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

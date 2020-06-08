@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:165835"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/165835"
+title = "The Sporting News Player Contract Cards, ScanID: 1047003767"
+
+[person.name]
+last = "Werner"
+given = "John Edmund"
+
+
+[[person.transaction]]
+date = "1945-03"
+type = "signed"
+join.name = "Roanoke"
+note = "Roanoke 1945-03"
+
+[[person.transaction]]
+date = "1945-06"
+type = "optioned"
+leave.name = "Roanoke"
+join.name = "Durham"
+note = "opt to Durham 1945-06"
+
+[[person.transaction]]
+date = "1945-06"
+type = "returned"
+leave.name = "Durham"
+join.name = "Roanoke"
+note = "ret to Roanoke 1945-06"
+
+[[person.transaction]]
+date = "1945-06"
+type = "released"
+leave.name = "Roanoke"
+note = "rel 1945-06"
+

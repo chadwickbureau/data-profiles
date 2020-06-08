@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0101"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-06"
+url = "https://www.findagrave.com/memorial/17180505"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-06"
+
+[person.name]
+last = "Archinski"
+use = "Anthony"
+given = "Anthony L."
+
+[person.birth]
+date = "1915-11-07"
+
+[person.death]
+date = "1975-12"
+
+[person.burial]
+cemetery.name = "St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Tewksbury"
+
+[person.sameas]
+findagrave = "17180505"
+

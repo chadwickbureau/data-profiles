@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_025"
+
+[[person.meta.citation]]
+title = "R T Foard Funeral Home"
+date = "2020-06-02"
+url = "http://rtfoard.tributes.com/obituary/read/James-Otis-Monger-Jim--104774954"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-02"
+
+[person.name]
+last = "Monger"
+use = "Jim"
+given = "James Otis"
+
+[person.birth]
+date = "1931-04-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Elkton"
+
+[person.death]
+date = "2017-05-11"
+place.country = "US"
+place.state = "MD"
+place.city = "Port Deposit"
+
+[person.burial]
+cemetery.name = "Brookview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Rising Sun"
+
+[[person.education]]
+school.name = "Rising Sun HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Rising Sun"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

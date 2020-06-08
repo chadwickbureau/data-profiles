@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_033"
+
+[[person.meta.citation]]
+title = "Shreveport Times"
+date = "2020-06-04"
+url = "https://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=david-baldwin-clyde&pid=196294070&fhid=5721"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-04"
+
+[person.name]
+last = "Baldwin"
+use = "Clyde"
+given = "David Clyde"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-07-21"
+place.country = "US"
+place.state = "LA"
+place.city = "Monroe"
+
+[person.death]
+date = "2020-05-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Richardson"
+
+[person.burial]
+cemetery.name = "Forest Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Shreveport"
+
+[[person.education]]
+school.name = "Byrd HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Shreveport"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"
+
+

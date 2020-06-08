@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_050"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2020-06-07"
+url = "https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=edward-andrew-serrano&pid=196309157"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-07"
+
+[person.name]
+last = "Serrano"
+use = "Ed"
+given = "Edward Andrew"
+
+[person.birth]
+date = "1931-12-08"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.death]
+date = "2020-05-30"
+
+[[person.education]]
+school.name = "Point Loma HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Diego"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

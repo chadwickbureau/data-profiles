@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:178975"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/178975"
+title = "The Sporting News Player Contract Cards, ScanID: 1028001393"
+
+[person.name]
+last = "Marecek"
+given = "Edward G."
+
+
+[[person.transaction]]
+date = "1948-04-16"
+type = "signed"
+join.name = "Port Chester"
+note = "Port Chester 1948-04-16"
+
+[[person.transaction]]
+date = "1948-04-23"
+type = "released"
+leave.name = "Port Chester"
+join.name = "Gloversville-Johnstown"
+note = "rel to Gloversville-Johnstown 1948-04-23"
+
+[[person.transaction]]
+date = "1948-05-01"
+type = "released"
+leave.name = "Gloversville-Johnstown"
+join.name = "Port Chester"
+note = "rel to Port Chester 1948-05-01"
+
+[[person.transaction]]
+date = "1948-05-03"
+type = "released"
+leave.name = "Port Chester"
+note = "rel 1948-05-03"
+
+[[person.transaction]]
+date = "1949-03-10"
+type = "signed"
+join.name = "McAllen"
+note = "McAllen 1949-03-10"
+
+[[person.transaction]]
+date = "1949-04-26"
+type = "released"
+leave.name = "McAllen"
+note = "rel 1949-04-26"
+

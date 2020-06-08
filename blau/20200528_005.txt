@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "blau:20200528_005"
+
+[[person.meta.citation]]
+title = "Chattanooga Daily Times"
+date = "1915-07-24"
+pages = "7"
+
+[person.name]
+last = "Cain"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Chattanooga"
+team.league.name = "Southern Association"
+
+[[person.affiliation]]
+type = "player"
+dates = "1915"
+team.name = "Charleston"
+team.league.name = "South Atlantic League"
+
+
+[[person.transaction]]
+date = "<=1915-07-24"
+type = "obtained"
+join.name = "Chattanooga"
+join.league.name = "Southern Association"
+leave.name = "Charleston"
+leave.league.name = "South Atlantic"
+forconsideration = "cash"
+
+
