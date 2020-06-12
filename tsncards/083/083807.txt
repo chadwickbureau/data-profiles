@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:83807"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/83807"
+title = "The Sporting News Player Contract Cards, ScanID: 1037002021"
+
+[person.name]
+last = "Reinders"
+given = "Kenneth W."
+
+
+[[person.transaction]]
+date = "1941-03"
+type = "signed"
+join.name = "Decatur"
+note = "Decatur 1941-03"
+
+[[person.transaction]]
+date = "1941-04"
+type = "released"
+leave.name = "Decatur"
+note = "rel 1941-04"
+

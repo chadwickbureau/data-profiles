@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_056"
+
+[[person.meta.citation]]
+title = "Wood Funeral Home"
+date = "2020-06-08"
+url = "http://www.woodfuneralhomeinc.com/obits/obituary.php?id=718209"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Bugni"
+use = "Peter"
+given = "Peter R."
+
+[person.death]
+date = "2020-06-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "New Gretna"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

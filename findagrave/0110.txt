@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0110"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/182620124"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Gill"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1918-12-11"
+place.country = "US"
+place.state = "TN"
+
+[person.death]
+date = "1986-05-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.burial]
+cemetery.name = "Roosevelt Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Gardena"
+
+[person.sameas]
+findagrave = "182620124"
+

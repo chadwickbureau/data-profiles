@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0108"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/82210558"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Long"
+use = "Webber “GW”"
+given = "George Webber"
+
+[person.birth]
+date = "1888-07-08"
+place.country = "US"
+place.state = "AR"
+place.city = "Boone County"
+
+[person.death]
+date = "1961-06-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.burial]
+cemetery.name = "Fort Rosecrans National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "San Diego"
+
+[person.sameas]
+findagrave = "82210558"
+

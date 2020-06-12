@@ -1,0 +1,106 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:71255"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71255"
+title = "The Sporting News Player Contract Cards, ScanID: 1018003231"
+
+[person.name]
+last = "Gwin"
+given = "Thomas"
+
+[person.description]
+position = "OF"
+bats = "L"
+throws = "R"
+height = "70"
+weight = "165"
+
+[person.birth]
+date = "1917-12-22"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IN"
+place.city = "Shoals"
+
+
+[[person.transaction]]
+date = "1939-07"
+type = "signed"
+join.name = "Huntington"
+note = "Huntington 1939-07"
+
+[[person.transaction]]
+date = "1940-02"
+type = "sold"
+leave.name = "Louisville"
+note = "sold to Louisville 1940-02"
+
+[[person.transaction]]
+date = "1940-03"
+type = "optioned"
+leave.name = "Louisville"
+join.name = "Rocky Mount"
+note = "opt to Rocky Mount 1940-03"
+
+[[person.transaction]]
+date = "1940-05"
+type = "returned"
+leave.name = "Rocky Mount"
+join.name = "Louisville"
+note = "ret to Louisville 1940-05"
+
+[[person.transaction]]
+date = "1940-05"
+type = "optioned"
+leave.name = "Louisville"
+join.name = "Pine Bluff"
+note = "opt to Pine Bluff 1940-05"
+
+[[person.transaction]]
+date = "1940-07"
+type = "recalled"
+leave.name = "Pine Bluff"
+join.name = "Louisville"
+note = "rec by Louisville 1940-07"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Louisville"
+note = "for 1941"
+
+[[person.transaction]]
+date = "1941-08"
+type = "released"
+leave.name = "Louisville"
+join.name = "Scranton"
+note = "rel to Scranton 1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Scranton"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-05"
+type = "voluntarily-retired"
+leave.name = "Scranton"
+note = "vol ret 1942-05"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Scranton"
+note = "for 1943"
+
+[[person.transaction]]
+date = "1944"
+type = "reserved"
+join.name = "Scranton"
+note = "for 1944"
+

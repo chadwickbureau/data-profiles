@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_057"
+
+[[person.meta.citation]]
+title = "Perry-McStay Funeral Home"
+date = "2020-06-08"
+url = "https://perrymcstay.com/raymond-p-dame/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Dame"
+use = "Ray"
+given = "Raymond Paul"
+
+[person.birth]
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "2020-06-06"
+place.country = "US"
+place.state = "RI"
+place.city = "Bristol"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

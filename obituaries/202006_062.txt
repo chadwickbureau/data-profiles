@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_062"
+
+[[person.meta.citation]]
+title = "Poughkeepsie Journal"
+date = "2017-04-02"
+url = "https://www.legacy.com/obituaries/poughkeepsiejournal/obituary.aspx?n=Robert-Hare&pid=184789597"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-09"
+
+[person.name]
+last = "Hare"
+use = "Bob"
+given = "Robert D."
+
+[person.birth]
+date = "1934-01-19"
+place.country = "US"
+place.state = "NY"
+place.city = "Ellington"
+
+[person.death]
+date = "2017-03-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Lakeland"
+
+[person.burial]
+cemetery.name = "St. Denis Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Hopewell Junction"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

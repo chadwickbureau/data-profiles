@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0107"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-08"
+url = "https://www.findagrave.com/memorial/13591900"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Wolfe"
+use = "Harry"
+given = "Harry E."
+
+[person.birth]
+date = "1917-04-27"
+place.country = "US"
+place.state = "MI"
+
+[person.death]
+date = "1985-06-25"
+
+[person.burial]
+cemetery.name = "Grand Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Detroit"
+
+[person.sameas]
+findagrave = "13591900"
+

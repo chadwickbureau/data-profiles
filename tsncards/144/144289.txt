@@ -1,0 +1,132 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:144289"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/144289"
+title = "The Sporting News Player Contract Cards, ScanID: 1099024304"
+
+[person.name]
+last = "Stallings"
+given = "Leon"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "150"
+
+[person.birth]
+date = "1926-02-05"
+place.country = "US"
+place.state = "PA"
+place.city = "Hershey"
+
+[[person.resides]]
+place.address = "232 S. Atlantic Avenue"
+place.country = "US"
+place.state = "NJ"
+place.city = "Haddonfield"
+
+
+[[person.transaction]]
+date = "1946-09"
+type = "signed"
+join.name = "Three Rivers"
+note = "Three Rivers 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Three Rivers"
+note = "for 1947"
+
+[[person.transaction]]
+date = "1947-05-14"
+type = "temporarily-inactive"
+leave.name = "Three Rivers"
+note = "temp inactive list 1947-05-14"
+
+[[person.transaction]]
+date = "1947-06-09"
+type = "reinstated"
+join.name = "Three Rivers"
+note = "rein from temp inactive list 1947-06-09"
+
+[[person.transaction]]
+date = "1947-06-06"
+type = "voluntarily-retired"
+leave.name = "Three Rivers"
+note = "vol ret list 1947-06-06"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Three Rivers"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-06-21"
+type = "reinstated"
+join.name = "Three Rivers"
+note = "rein from vol. ret list 1948-06-21"
+
+[[person.transaction]]
+date = "1948-06-24"
+type = "released"
+leave.name = "Three Rivers"
+join.name = "Pulaski"
+note = "rel to Pulaski 1948-06-24"
+
+[[person.transaction]]
+date = "1948-08-01"
+type = "released"
+leave.name = "Pulaski"
+join.name = "Cairo"
+note = "rel to Cairo 1948-08-01"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Cairo"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-05-04"
+type = "temporarily-inactive"
+leave.name = "Cairo"
+note = "temp inactive list 1949-05-04"
+
+[[person.transaction]]
+date = "1949-10-01"
+type = "released"
+leave.name = "Cairo"
+join.name = "Ponca city"
+note = "rel to Ponca city 1949-10-01"
+
+[[person.transaction]]
+date = "1949-07-10"
+type = "voluntarily-retired"
+leave.name = "Ponca city"
+note = "vol retired 1949-07-10"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Ponca city"
+note = "for 1950"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Ponca city"
+note = "for 1951"
+
+[[person.transaction]]
+date = "1951-07-24"
+type = "released"
+leave.name = "Ponca city"
+note = "rel 1951-07-24"
+

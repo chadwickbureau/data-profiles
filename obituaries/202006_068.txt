@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_068"
+
+[[person.meta.citation]]
+title = "Peoria Journal Star"
+date = "2017-02-15"
+url = "https://www.legacy.com/obituaries/pjstar/obituary.aspx?n=kenneth-wayne-reinders&pid=184145361&fhid=11505&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-11"
+
+[person.name]
+last = "Reinders"
+use = "Ken"
+given = "Kenneth Wayne"
+
+[person.birth]
+date = "1920-04-24"
+place.country = "US"
+place.state = "NE"
+place.city = "Sargent"
+
+[person.death]
+date = "2017-02-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+[person.burial]
+cemetery.name = "Fondulac Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "East Peoria"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

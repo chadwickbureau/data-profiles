@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_055"
+
+[[person.meta.citation]]
+title = "Whitten Monelison Chapel"
+date = "2020-06-08"
+url = "https://www.dignitymemorial.com/obituaries/madison-heights-va/todd-abell-9207012"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Abell"
+use = "Todd"
+given = "Todd Marshall"
+
+[person.birth]
+date = "1967-07-22"
+
+[person.death]
+date = "2020-06-03"
+
+[[person.education]]
+school.name = "University of Lynchburg"
+school.type = "college"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_070"
+
+[[person.meta.citation]]
+title = "New Castle News"
+date = "2004-03-08"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-11"
+
+[person.name]
+last = "Shaffer"
+use = "Frederick"
+given = "Frederick Joseph"
+
+[person.birth]
+date = "1913-10-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Mercer"
+
+[person.death]
+date = "2004-03-05"
+place.country = "US"
+place.state = "PA"
+place.city = "New Castle"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "New Castle"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

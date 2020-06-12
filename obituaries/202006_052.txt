@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_052"
+
+[[person.meta.citation]]
+title = "Trinity Funeral Services"
+date = "2020-06-08"
+url = "https://www.trinityfuneralservices.com/obituaries-1"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Halabuk"
+use = "Rudy"
+given = "Rudolph Karol"
+nick = "Babe"
+
+[person.birth]
+date = "1929-08-19"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "2020-05-23"
+
+[[person.education]]
+school.name = "Trenton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Trenton"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

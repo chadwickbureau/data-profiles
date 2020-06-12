@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0103"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-08"
+url = "https://www.findagrave.com/memorial/35393126"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "French"
+use = "Don"
+given = "Donald Davis"
+
+[person.birth]
+date = "1911-08-31"
+place.country = "US"
+place.state = "MI"
+place.city = "Mount Pleasant"
+
+[person.death]
+date = "1991-11-19"
+place.country = "US"
+place.state = "MI"
+place.city = "Grand Rapids"
+
+[person.burial]
+cemetery.name = "Portland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Portland"
+
+[person.sameas]
+findagrave = "35393126"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

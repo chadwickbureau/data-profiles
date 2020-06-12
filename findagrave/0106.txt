@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0106"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-08"
+url = "https://www.findagrave.com/memorial/180613886/jesse-f_-newman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Newman"
+use = "Jesse"
+given = "Jesse F."
+
+[person.birth]
+date = "1915-01-01"
+
+[person.death]
+date = "1988-10-29"
+
+[person.burial]
+cemetery.name = "Gran View Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Pasadena"
+
+[person.sameas]
+findagrave = "180613886"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

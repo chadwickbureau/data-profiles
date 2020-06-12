@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_064"
+
+[[person.meta.citation]]
+title = "John J. Ferry & Sons Funeral Home"
+date = "2020-06-10"
+url = "https://jferryfh.com/book-of-memories/2881967/Kaemmer-Edward/service-details.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Kaemmer"
+use = "Ed"
+given = "Edward Ralph"
+
+[person.birth]
+date = "1933-01-08"
+
+[person.death]
+date = "2017-03-13"
+
+[[person.education]]
+school.name = "Meriden HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Meriden"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

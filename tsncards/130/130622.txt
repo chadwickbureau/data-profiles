@@ -1,0 +1,105 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130622"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130622"
+title = "The Sporting News Player Contract Cards, ScanID: 1023003469"
+
+[person.name]
+last = "Kaemmer"
+given = "Edward"
+
+
+[[person.transaction]]
+date = "1953-06-27"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1953-06-27"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Pine Bluff"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1953-10-23"
+type = "national-defense-list"
+leave.name = "Pine Bluff"
+note = "Nat Defense list 1953-10-23"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Pine Bluff"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-09-30"
+type = "released"
+leave.name = "Pine Bluff"
+join.name = "San Antonio"
+note = "rel to San Antonio 1954-09-30"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1958"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1960"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1960"
+
+[[person.transaction]]
+date = "1961"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1961"
+
+[[person.transaction]]
+date = ""
+type = "voluntarily-retired"
+leave.name = "San Antonio"
+note = "trans to vol ret"
+
+[[person.transaction]]
+date = "1961-02-08"
+type = "reinstated"
+join.name = "San Antonio"
+note = "rein 1961-02-08"
+
+[[person.transaction]]
+date = "1961-02-08"
+type = "released"
+leave.name = "San Antonio"
+note = "rel 1961-02-08"
+

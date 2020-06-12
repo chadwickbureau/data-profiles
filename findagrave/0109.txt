@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0109"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/7848667"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Burge"
+use = "Harry"
+given = "Harry"
+
+[person.birth]
+date = "1889-07-26"
+
+[person.death]
+date = "1937-12-22"
+
+[person.burial]
+cemetery.name = "Oak Hill Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "McAlester"
+
+[person.sameas]
+findagrave = "7848667"
+

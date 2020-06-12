@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_054"
+
+[[person.meta.citation]]
+title = "Times of Wayne County"
+date = "2020-06-04"
+url = "https://waynetimes.com/obituaries/arnitz-peter-a/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Arnitz"
+use = "Peter"
+given = "Peter A."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "Lyons"
+
+[person.death]
+date = "2020-06-01"
+
+[person.burial]
+cemetery.name = "St. John's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Clyde"
+

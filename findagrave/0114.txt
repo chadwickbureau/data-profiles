@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0114"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/90908564"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Nicholson"
+use = "James"
+given = "James Orr"
+
+[person.birth]
+date = "1917-07-17"
+
+[person.death]
+date = "1998-12-03"
+
+[person.burial]
+cemetery.name = "Wenatchee City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Wenatchee"
+
+[person.sameas]
+findagrave = "90908564"
+

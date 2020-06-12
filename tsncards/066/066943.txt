@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:66943"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/66943"
+title = "The Sporting News Player Contract Cards, ScanID: 1019001323"
+
+[person.name]
+last = "Hare"
+given = "Robert Donald"
+
+[person.description]
+ancestry = "English-Dutch-Irish"
+position = "C-3B"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "205"
+
+[person.birth]
+date = "1934-01-19"
+place.country = "US"
+place.state = "NY"
+place.city = "Ellington"
+
+[[person.resides]]
+place.address = "24 North Street"
+place.country = "US"
+place.state = "NY"
+place.city = "Attis"
+
+
+[[person.transaction]]
+date = "1951-11-29"
+type = "signed"
+join.name = "Daytona Beach"
+note = "Daytona Beach 1951-11-29"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Daytona Beach"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-04-03"
+type = "released"
+leave.name = "Daytona Beach"
+note = "rel 1952-04-03"
+

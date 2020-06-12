@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0104"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-08"
+url = "https://www.findagrave.com/memorial/39348141"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Harrington"
+use = "Roland"
+given = "Roland Vann"
+
+[person.birth]
+date = "1917-11-02"
+
+[person.death]
+date = "2009-04-24"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[person.sameas]
+findagrave = "39348141"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

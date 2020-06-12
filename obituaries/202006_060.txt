@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_060"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2020-06-08"
+url = "https://www.baltimoresun.com/sports/orioles/bs-sp-orioles-john-miller-obituary-20200608-cuk5v2n7unagrmftzp2u2cldii-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-09"
+
+[person.name]
+last = "Miller"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2020-06-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Westminster"
+
+[[person.education]]
+school.name = "Edmondson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+

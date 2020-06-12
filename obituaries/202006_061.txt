@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_061"
+
+[[person.meta.citation]]
+title = "Pistey Funeral Home"
+date = "2020-06-09"
+url = "https://www.pisteyfuneralhome.com/obituaries/obituary-listings?obId=1630278#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-09"
+
+[person.name]
+last = "Stevenson"
+use = "Nicholas"
+given = "Nicholas"
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "CT"
+place.city = "Stamford"
+
+[person.death]
+date = "2017-03-29"
+place.country = "US"
+place.state = "CT"
+place.city = "Fairfeild"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

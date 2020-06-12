@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0115"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/122115981"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Caldwell"
+use = "Blackie"
+given = "Herman"
+suffix = "Jr."
+
+[person.birth]
+date = "1915-12-25"
+
+[person.death]
+date = "1981-05-18"
+
+[person.burial]
+cemetery.name = "Rose Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Tallassee"
+
+[person.sameas]
+findagrave = "122115981"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

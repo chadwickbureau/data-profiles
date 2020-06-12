@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_059"
+
+[[person.meta.citation]]
+title = "Johnson County Funeral Chapel"
+date = "2020-06-09"
+url = "https://www.johnsoncountychapel.com/obituary/George-Carras"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-09"
+
+[person.name]
+last = "Carras"
+use = "George"
+given = "George John"
+
+[person.birth]
+date = "1923-02-04"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.death]
+date = "2020-06-07"
+place.country = "US"
+place.state = "MO"
+place.city = "Kansas City"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Kansas City"
+
+[[person.education]]
+school.name = "Westport HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Kansas City"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

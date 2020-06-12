@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18494"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18494"
+title = "The Sporting News Player Contract Cards, ScanID: 1004006154"
+
+[person.name]
+last = "Bombace"
+given = "Anthony J."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1952-03-14"
+type = "signed"
+join.name = "Kingsport"
+note = "Kingsport 1952-03-14"
+
+[[person.transaction]]
+date = "1952-04-16"
+type = "released"
+leave.name = "Kingsport"
+note = "rel 1952-04-16"
+
+[[person.transaction]]
+date = "1952-05-01"
+type = "signed"
+join.name = "Vincennes"
+note = "Vincennes 1952-05-01"
+
+[[person.transaction]]
+date = "1952-05-18"
+type = "released"
+leave.name = "Vincennes"
+note = "rel 1952-05-18"
+

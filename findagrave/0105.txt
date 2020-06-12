@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0105"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-08"
+url = "https://www.findagrave.com/memorial/30437341"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-08"
+
+[person.name]
+last = "Hunt"
+use = "Allen"
+given = "Allen Asa"
+
+[person.birth]
+date = "1911-10-17"
+place.country = "US"
+place.state = "MO"
+
+[person.death]
+date = "1995-08-16"
+place.country = "US"
+place.state = "MO"
+
+[person.burial]
+cemetery.name = "Ozarks Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Branson"
+
+[person.sameas]
+findagrave = "30437341"
+

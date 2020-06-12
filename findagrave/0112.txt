@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0112"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-10"
+url = "https://www.findagrave.com/memorial/96329814"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Haley"
+use = "John"
+given = "John R."
+
+[person.birth]
+date = "1914-10-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Fayette County"
+
+[person.death]
+date = "1952-07-23"
+place.country = "US"
+place.state = "PA"
+place.city = "O’Hara Township"
+
+[person.burial]
+cemetery.name = "New St. Joseph’s Roman Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Connellsville"
+
+[person.sameas]
+findagrave = "96329814"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

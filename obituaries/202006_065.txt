@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_065"
+
+[[person.meta.citation]]
+title = "Schnider Funeral Home"
+date = "2020-06-10"
+url = "https://www.schniderfuneralhome.com/obituaries/Richard-Hixson?obId=2690645#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-10"
+
+[person.name]
+last = "Hixson"
+use = "Dick"
+given = "Richard Stephen"
+
+[person.birth]
+date = "1930-05-20"
+place.country = "US"
+place.state = "MN"
+place.city = "Winona"
+
+[person.death]
+date = "2017-03-09"
+place.country = "US"
+place.state = "MT"
+place.city = "Great Falls"
+
+[[person.education]]
+school.name = "Ysleta HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "El Paso"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

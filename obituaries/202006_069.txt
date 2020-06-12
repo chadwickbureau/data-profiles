@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_069"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "1988-03-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-11"
+
+[person.name]
+last = "Lacy"
+use = "George"
+given = "George E."
+
+[person.death]
+date = "1988-02-28"
+place.country = "US"
+place.state = "VA"
+place.city = "Middlesex County"
+
+[[person.education]]
+school.name = "University of Richmond"
+school.type = "college"
+
+
