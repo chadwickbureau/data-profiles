@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_086"
+
+[[person.meta.citation]]
+title = "The Day"
+date = "2017-02-08"
+url = "https://www.legacy.com/obituaries/theday/obituary.aspx?n=Norman-Brett-Norm&pid=184064797"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Brett"
+use = "Norm"
+given = "Norman"
+
+[person.birth]
+date = "1926-12-25"
+place.country = "US"
+place.state = "CT"
+place.city = "Willimantic"
+
+[person.death]
+date = "2017-02-03"
+
+[[person.alias]]
+name.last = "Brettschneider"
+name.use = "Norm"
+name.given = "Norman"
+type = "birth"
+
+
+[[person.education]]
+school.name = "Windham HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Willimantic"
+
+[[person.education]]
+school.name = "Eastern Connecticut State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

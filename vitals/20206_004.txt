@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:20206_004"
+
+[[person.meta.citation]]
+title = "Calfornia DI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-12"
+
+[person.name]
+last = "Wilburn"
+use = "Chester"
+given = "Chester Franklin"
+
+[person.birth]
+date = "1906-09-27"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1982-01-23"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.sameas]
+ssn = "383-01-1200"
+

@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0119"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-14"
+url = "https://www.findagrave.com/memorial/69250056"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Sowada"
+use = "Ernest"
+given = "Ernest Joseph"
+
+[person.birth]
+date = "1914-02-24"
+place.country = "US"
+place.state = "MN"
+place.city = "Holdingford"
+
+[person.death]
+date = "2011-04-29"
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[person.burial]
+cemetery.name = "Fort Snelling National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[person.sameas]
+findagrave = "69250056"
+
+[[person.education]]
+school.name = "St. John's University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Joseph"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

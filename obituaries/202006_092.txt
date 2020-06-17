@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_092"
+
+[[person.meta.citation]]
+title = "Olean Times Herald"
+date = "2017-01-16"
+url = "https://www.legacy.com/obituaries/oleantimesherald/obituary.aspx?n=Wildun-Alva-Scribner-Scrib&pid=183610868"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Scribner"
+use = "Scrib"
+given = "Wildun Alva"
+
+[person.birth]
+date = "1923-07-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Kent"
+
+[person.death]
+date = "2017-01-13"
+place.country = "US"
+place.state = "NY"
+place.city = "Wellsville"
+
+[person.burial]
+cemetery.name = "Cuba Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Cuba"
+
+[[person.education]]
+school.name = "Theodore Roosevelt HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Kent"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

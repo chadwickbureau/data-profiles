@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_083"
+
+[[person.meta.citation]]
+title = "Fairhaven Funeral Home"
+date = "2020-06-14"
+url = "https://memorials.fairhavenfortwayne.com/rudolph-burson/4234583/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Burson"
+use = "Rudy"
+given = "Rudolph Keith"
+
+[person.birth]
+date = "1945-10-29"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.death]
+date = "2020-06-08"
+place.country = "US"
+place.state = "IN"
+place.city = "Fort Wayne"
+

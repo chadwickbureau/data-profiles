@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_075"
+
+[[person.meta.citation]]
+title = "McMullen Funeral Home"
+date = "2020-06-12"
+url = "https://www.mcmullenfuneralhome.com/obituaries/Frank-Clements-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Clements"
+use = "Frank"
+given = "Frank Mizell"
+nick = "Sonny"
+
+[person.birth]
+date = "1931-09-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2020-06-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Fortson"
+
+[person.burial]
+cemetery.name = "Rhine City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Rhine"
+
+[[person.education]]
+school.name = "Rhine HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Rhine"
+
+[[person.education]]
+school.name = "Georgia Southern University"
+school.type = "college"
+
+

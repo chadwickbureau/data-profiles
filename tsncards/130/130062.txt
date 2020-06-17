@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:130062"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/130062"
+title = "The Sporting News Player Contract Cards, ScanID: 1040001081"
+
+[person.name]
+last = "Schroeder"
+given = "Brad Dean"
+
+
+[[person.transaction]]
+date = "1983-02-08"
+type = "signed"
+join.name = "Pulaski"
+note = "Pulaski 1983-02-08"
+
+[[person.transaction]]
+date = "1983-05-30"
+type = "released"
+leave.name = "Pulaski"
+note = "rel 1983-05-30"
+

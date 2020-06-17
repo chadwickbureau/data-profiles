@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_084"
+
+[[person.meta.citation]]
+title = "Love Funeral Home"
+date = "2020-06-14"
+url = "https://www.lovefuneralhome.com/obituary/Brad-Schroeder"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Schroeder"
+use = "Brad"
+given = "Brad D."
+
+[person.birth]
+date = "1962-04-03"
+place.country = "US"
+place.state = "OH"
+place.city = "Lima"
+
+[person.death]
+date = "2017-02-10"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[[person.education]]
+school.name = "Ottawa-Glandorf HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Ottawa"
+
+[[person.education]]
+school.name = "Bluffton University"
+school.type = "college"
+
+

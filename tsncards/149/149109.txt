@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:149109"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/149109"
+title = "The Sporting News Player Contract Cards, ScanID: 1041002671"
+
+[person.name]
+last = "Silvius"
+given = "Ronald W."
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "75"
+weight = "170"
+
+[person.birth]
+date = "1941-02-22"
+
+
+[[person.transaction]]
+date = "1961-02-18"
+type = "signed"
+join.name = "Idaho Falls"
+note = "Idaho Falls 1961-02-18"
+
+[[person.transaction]]
+date = "1961-04-15"
+type = "released"
+leave.name = "Idaho Falls"
+note = "rel 1961-04-15"
+

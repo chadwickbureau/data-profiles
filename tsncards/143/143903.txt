@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:143903"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/143903"
+title = "The Sporting News Player Contract Cards, ScanID: 1099024774"
+
+[person.name]
+last = "Straub"
+given = "William Frederick"
+
+[person.description]
+position = "C"
+bats = "L"
+throws = "R"
+height = "71"
+weight = "185"
+
+[person.birth]
+date = "1926-12-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Catskill"
+
+[[person.resides]]
+place.address = "17 Dumond Street"
+place.country = "US"
+place.state = "NY"
+place.city = "Catskill"
+
+
+[[person.transaction]]
+date = "1950-05-29"
+type = "signed"
+join.name = "Lebanon"
+note = "Lebanon 1950-05-29"
+
+[[person.transaction]]
+date = "1950-07-28"
+type = "disabled"
+leave.name = "Lebanon"
+note = "disabled list 1950-07-28"
+
+[[person.transaction]]
+date = "1950-08-29"
+type = "reinstated"
+join.name = "Lebanon"
+note = "rein 1950-08-29"
+
+[[person.transaction]]
+date = "1950-10-01"
+type = "drafted"
+leave.name = "Lebanon"
+join.name = "Pocatello"
+note = "Pocatello 1950-10-01"
+
+[[person.transaction]]
+date = "1950-10-04"
+type = "released"
+leave.name = "Pocatello"
+join.name = "Hamilton"
+note = "rel to Hamilton 1950-10-04"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Hamilton"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-04-19"
+type = "released"
+leave.name = "Hamilton"
+note = "rel 1951-04-19"
+

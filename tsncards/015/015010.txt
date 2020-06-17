@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15010"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15010"
+title = "The Sporting News Player Contract Cards, ScanID: 1007003628"
+
+[person.name]
+last = "Caresani"
+given = "Joseph Leo"
+
+
+[[person.transaction]]
+date = "1951-06-04"
+type = "signed"
+join.name = "Butler"
+note = "Butler 1951-06-04"
+
+[[person.transaction]]
+date = "1951-06-14"
+type = "released"
+leave.name = "Butler"
+note = "rel 1951-06-14"
+

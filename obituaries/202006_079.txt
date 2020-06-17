@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_079"
+
+[[person.meta.citation]]
+title = "Ithaca Journal"
+date = "2017-02-23"
+url = "https://www.legacy.com/obituaries/theithacajournal/obituary.aspx?n=william-f-straub&pid=184220816&fhid=11708&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Straub"
+use = "William"
+given = "William F."
+
+[person.birth]
+date = "1926-12-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Catskill"
+
+[person.death]
+date = "2017-02-21"
+
+[person.burial]
+cemetery.name = "Sampson Veterans Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Romulus"
+
+[[person.education]]
+school.name = "Catskill HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Catskill"
+
+[[person.education]]
+school.name = "Ithaca College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

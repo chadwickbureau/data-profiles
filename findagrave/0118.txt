@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0118"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-14"
+url = "https://www.findagrave.com/memorial/87759570"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Barnacle"
+use = "William"
+given = "William James"
+
+[person.birth]
+date = "1918-09-09"
+
+[person.death]
+date = "2009-12-25"
+place.country = "US"
+place.state = "MN"
+place.city = "Longville"
+
+[person.burial]
+cemetery.name = "Riverside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Longville"
+
+[person.sameas]
+findagrave = "87759570"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

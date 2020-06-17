@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_087"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2017-02-04"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=Robert-William-Atthowe&pid=183911603"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Atthowe"
+use = "Bob"
+given = "Robert William"
+
+[person.birth]
+date = "1924-05-27"
+place.country = "US"
+place.state = "CA"
+place.city = "San Jose"
+
+[person.death]
+date = "2017-01-25"
+
+[[person.education]]
+school.name = "San Leandro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Leandro"
+
+

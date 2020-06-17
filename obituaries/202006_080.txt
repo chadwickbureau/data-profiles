@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_080"
+
+[[person.meta.citation]]
+title = "De John Funeral Home"
+date = "2020-06-13"
+url = "https://www.dejohnfuneral.com/joseph-caresani/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Caresani"
+use = "Joe"
+given = "Joseph L."
+
+[person.birth]
+date = "1932-11-24"
+
+[person.death]
+date = "2017-02-13"
+
+[person.burial]
+cemetery.name = "All Souls Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Chardon"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_071"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2020-06-12"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=william-oster&pid=196330834&fhid=22099"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Oster"
+use = "Bill"
+given = "William P."
+
+[person.death]
+date = "2020-06-06"
+
+[[person.education]]
+school.name = "New York University"
+school.type = "college"
+
+

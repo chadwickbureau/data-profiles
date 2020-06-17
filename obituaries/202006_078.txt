@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_078"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2020-06-13"
+url = "https://www.legacy.com/obituaries/latimes/obituary.aspx?n=frank-layana&pid=196336918"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Layana"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+date = "1934-09-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2020-05-31"
+place.country = "TH"
+place.city = "Pattaya"
+
+[[person.education]]
+school.name = "Loyola HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Los Angeles"
+
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0123"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-16"
+url = "https://www.findagrave.com/memorial/58906736"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Neville"
+use = "Eddie"
+given = "Edward Joseph"
+
+[person.birth]
+date = "1922-09-25"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "1989-01-23"
+place.country = "US"
+place.state = "NC"
+place.city = "Durham"
+
+[person.burial]
+cemetery.name = "Maplewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Durham"
+
+[person.sameas]
+findagrave = "58906736"
+

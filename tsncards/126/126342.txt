@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:126342"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/126342"
+title = "The Sporting News Player Contract Cards, ScanID: 1025001325"
+
+[person.name]
+last = "Krivacs"
+given = "Robert Alexander"
+
+[person.description]
+ancestry = "Hungarian-Lithuanian"
+position = "P-OF"
+bats = "R"
+throws = "L"
+height = "71"
+weight = "180"
+
+[person.birth]
+date = "1939-09-07"
+place.country = "US"
+place.state = "NJ"
+place.city = "Elizabeth"
+
+[[person.resides]]
+place.address = "223 Westfield Road"
+place.country = "US"
+place.state = "NJ"
+place.city = "Fanwood"
+
+
+[[person.transaction]]
+date = "1957-08-19"
+type = "signed"
+join.name = "Erie"
+note = "Erie 1957-08-19"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Erie"
+note = "for 1958"
+
+[[person.transaction]]
+date = "1958-04-03"
+type = "released"
+leave.name = "Erie"
+note = "rel 1958-04-03"
+

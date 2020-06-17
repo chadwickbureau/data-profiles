@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0121"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-16"
+url = "https://www.findagrave.com/memorial/138706479/arthur-mcconnell"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "McConnell"
+use = "A. J."
+given = "Arthur"
+
+[person.birth]
+date = "1927-08-30"
+
+[person.death]
+date = "2005-12-28"
+
+[person.burial]
+cemetery.name = "St. Patrick Cemetery #1"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"
+
+[person.sameas]
+findagrave = "138706479"
+

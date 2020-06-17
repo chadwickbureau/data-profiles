@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0117"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-12"
+url = "https://www.findagrave.com/memorial/115289761"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Herring"
+use = "William"
+given = "William A."
+
+[person.birth]
+date = "1911-09-24"
+
+[person.death]
+date = "1996-09-29"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Columbia"
+
+[person.sameas]
+findagrave = "115289761"
+

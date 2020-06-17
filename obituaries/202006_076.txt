@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_076"
+
+[[person.meta.citation]]
+title = "Cromes-Edwards Funeral Home"
+date = "2020-06-13"
+url = "https://www.cromesfh.com/obituary/ThomasTom-Goffena"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Goffena"
+use = "Tom"
+given = "Thomas Joseph"
+
+[person.birth]
+date = "1959-06-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Sidney"
+
+[person.death]
+date = "2020-06-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Sidney"
+

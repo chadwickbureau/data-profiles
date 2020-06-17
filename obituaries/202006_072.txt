@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_072"
+
+[[person.meta.citation]]
+title = "Cox-Giffords Seawinds Funeral Home"
+date = "2020-06-12"
+url = "https://www.coxgiffordseawinds.com/obituary/giacomuzzi-james"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Giacomuzzi"
+use = "Jacka"
+given = "James"
+
+[person.birth]
+date = "1929-09-06"
+place.country = "US"
+place.state = "MA"
+place.city = "Milford"
+
+[person.death]
+date = "2017-02-15"
+place.country = "US"
+place.state = "FL"
+place.city = "Vero Beach"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

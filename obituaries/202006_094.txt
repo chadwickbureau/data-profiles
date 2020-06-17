@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_094"
+
+[[person.meta.citation]]
+title = "Baker Funeral Home"
+date = "2020-06-16"
+url = "https://www.bakerfunerals.com/obituaries/Thomas-H-Robinson?obId=4502571#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Robinson"
+use = "Thomas"
+given = "Thomas Hazel"
+
+[person.birth]
+date = "1934-09-19"
+place.country = "US"
+place.state = "SC"
+place.city = "Heath Springs"
+
+[person.death]
+date = "2019-06-21"
+place.country = "US"
+place.state = "SC"
+place.city = "Heath Springs"
+
+[person.burial]
+cemetery.name = "Flint Ridge Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Heath Springs"
+

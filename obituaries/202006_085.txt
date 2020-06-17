@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_085"
+
+[[person.meta.citation]]
+title = "Beacon News"
+date = "2017-02-12"
+url = "https://www.legacy.com/obituaries/aurora-beacon-news/obituary.aspx?n=Ronald-Silvius&pid=184066089"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Silvius"
+use = "Ron"
+given = "Ronald W."
+
+[person.birth]
+date = "1941-02-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Aurora"
+
+[person.death]
+date = "2017-01-31"
+
+[[person.education]]
+school.name = "Oswego HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Oswego"
+
+[[person.education]]
+school.name = "Northern Illinois University"
+school.type = "college"
+
+

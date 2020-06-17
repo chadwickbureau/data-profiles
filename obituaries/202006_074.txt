@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_074"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2011-02-17"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Skurski"
+use = "Joe"
+given = "Joe"
+nick = "Brownie"
+
+[person.death]
+date = "1991"
+
+[person.burial]
+cemetery.name = "Resurrection Catholic Cemetery and Mausoleums"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Justice"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

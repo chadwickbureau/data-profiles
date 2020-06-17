@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_095"
+
+[[person.meta.citation]]
+title = "Kaul Funeral Home"
+date = "2020-06-16"
+url = "https://www.dignitymemorial.com/obituaries/st-clair-shores-mi/thaddeus-kapuscinski-7009200"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Kapuscinski"
+use = "Thaddeus"
+given = "Thaddeus"
+
+[person.birth]
+date = "1928-01-13"
+
+[person.death]
+date = "2016-07-12"
+

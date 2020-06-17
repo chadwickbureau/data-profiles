@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_073"
+
+[[person.meta.citation]]
+title = "The Millville Daily"
+date = "1987-04-08"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Dickinson"
+use = "Joseph"
+given = "Joseph"
+
+[person.death]
+date = "1987-04-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "Cedarville"
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Cedarville"
+

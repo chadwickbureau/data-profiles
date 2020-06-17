@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_077"
+
+[[person.meta.citation]]
+title = "Delaware State News"
+date = "2020-06-13"
+url = "https://www.legacy.com/obituaries/newszapde/obituary.aspx?n=roy-doyle-nease&pid=196334159"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Nease"
+use = "Roy"
+given = "Roy Doyle"
+
+[person.birth]
+place.country = "US"
+place.state = "AR"
+place.city = "Little Rock"
+
+[person.death]
+date = "2020-06-09"
+
+[[person.education]]
+school.name = "University of Central Arkansas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

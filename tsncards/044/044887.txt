@@ -1,0 +1,66 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:44887"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/44887"
+title = "The Sporting News Player Contract Cards, ScanID: 1010004711"
+
+[person.name]
+last = "Curran"
+given = "Jack B."
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Bremerton"
+note = "Bremerton 1946-05"
+
+[[person.transaction]]
+date = "1946-07"
+type = "optioned"
+leave.name = "Bremerton"
+join.name = "Boise"
+note = "opt to Boise 1946-07"
+
+[[person.transaction]]
+date = "1946-07"
+type = "returned"
+leave.name = "Boise"
+join.name = "Bremerton"
+note = "ret to Bremerton 1946-07"
+
+[[person.transaction]]
+date = "1946-08"
+type = "optioned"
+leave.name = "Bremerton"
+join.name = "Lamesa"
+note = "opt to Lamesa 1946-08"
+
+[[person.transaction]]
+date = "1946-08"
+type = "returned"
+leave.name = "Lamesa"
+join.name = "Bremerton"
+note = "ret to Bremerton 1946-08"
+
+[[person.transaction]]
+date = "1946-08"
+type = "released"
+leave.name = "Bremerton"
+note = "rel 1946-08"
+
+[[person.transaction]]
+date = "1947-03-05"
+type = "signed"
+join.name = "Bremerton"
+note = "Bremerton 1947-03-05"
+
+[[person.transaction]]
+date = "1947-04-04"
+type = "released"
+leave.name = "Bremerton"
+note = "rel 1947-04-04"
+

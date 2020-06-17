@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_081"
+
+[[person.meta.citation]]
+title = "Capital Gazette"
+date = "2017-02-18"
+url = "https://www.legacy.com/obituaries/CapitalGazette/obituary.aspx?n=Robert-Meyers&pid=184164562"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-13"
+
+[person.name]
+last = "Meyers"
+use = "Bob"
+given = "Robert Thomas"
+
+[person.birth]
+date = "1927-10-05"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.death]
+date = "2017-02-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Cape St. Claire"
+
+[[person.education]]
+school.name = "McKinley Technology HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DC"
+school.place.city = "Washington"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

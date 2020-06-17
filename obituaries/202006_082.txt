@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_082"
+
+[[person.meta.citation]]
+title = "Kenosha News"
+date = "2020-06-14"
+url = "https://www.legacy.com/obituaries/kenoshanews/obituary.aspx?n=joseph-l-pomponi&pid=196305893&fhid=12107"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-14"
+
+[person.name]
+last = "Pomponi"
+use = "Joe"
+given = "Joseph L."
+
+[person.birth]
+date = "1934-03-06"
+place.country = "US"
+place.state = "WI"
+place.city = "Kenosha"
+
+[person.death]
+date = "2020-06-06"
+place.country = "US"
+place.state = "IL"
+place.city = "Northbrook"
+
+[person.burial]
+cemetery.name = "St. George Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Kenosha"
+
+[[person.education]]
+school.name = "Mary D. Bradford HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Kenosha"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

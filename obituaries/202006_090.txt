@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_090"
+
+[[person.meta.citation]]
+title = "Tomon & Sons Funeral Homes"
+date = "2020-06-16"
+url = "https://www.tomonfh.com/obituary/theodore-budzik"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Budzik"
+use = "Ted"
+given = "Theodore Anthony"
+
+[person.birth]
+date = "1937-04-29"
+
+[person.death]
+date = "2020-06-13"
+place.country = "US"
+place.state = "OH"
+place.city = "Broadview Heights"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cleveland"
+
+[[person.education]]
+school.name = "Ohio State University"
+school.type = "college"
+
+

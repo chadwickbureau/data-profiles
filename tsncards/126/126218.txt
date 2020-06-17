@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:126218"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/126218"
+title = "The Sporting News Player Contract Cards, ScanID: 1040002873"
+
+[person.name]
+last = "Scribner"
+given = "Wildun"
+
+
+[[person.transaction]]
+date = "1942-10"
+type = "signed"
+join.name = "Janesville"
+note = "Janesville 1942-10"
+
+[[person.transaction]]
+date = "1943"
+type = "reserved"
+join.name = "Janesville"
+note = "for 1943"
+
+[[person.transaction]]
+date = "1943-04"
+type = "military-service"
+leave.name = "Janesville"
+note = "in service 1943-04"
+

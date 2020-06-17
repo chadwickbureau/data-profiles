@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0116"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-12"
+url = "https://www.findagrave.com/memorial/94272103"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-12"
+
+[person.name]
+last = "Dunlap"
+use = "Joseph"
+given = "Joseph Paul"
+
+[person.birth]
+date = "1910-04-08"
+place.country = "US"
+place.state = "NC"
+place.city = "Chatham County"
+
+[person.death]
+date = "1982-01-04"
+place.country = "US"
+place.state = "VA"
+place.city = "Hampton"
+
+[person.burial]
+cemetery.name = "Loves Creek Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Siler City"
+
+[person.sameas]
+findagrave = "94272103"
+

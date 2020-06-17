@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0122"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-16"
+url = "https://www.findagrave.com/memorial/154056663"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Mordarski"
+use = "Edward"
+given = "Edward Leonard"
+
+[person.birth]
+date = "1925-06-02"
+
+[person.death]
+date = "1999-07-19"
+place.country = "US"
+place.state = "MI"
+place.city = "Dearborn"
+
+[person.burial]
+cemetery.name = "St. Hedwig Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Dearborn Heights"
+
+[person.sameas]
+findagrave = "154056663"
+

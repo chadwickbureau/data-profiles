@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_093"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "2017-01-11"
+url = "https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=Robert-Seifman&pid=183551383"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-16"
+
+[person.name]
+last = "Seifman"
+use = "Bob"
+given = "Robert"
+
+[person.birth]
+date = "1933-09-26"
+place.country = "US"
+place.state = "IN"
+
+[person.death]
+date = "2016-10-29"
+place.country = "US"
+place.state = "AZ"
+place.city = "Mesa"
+
