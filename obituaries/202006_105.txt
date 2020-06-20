@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_105"
+
+[[person.meta.citation]]
+title = "Kaul Funeral Home"
+date = "2020-06-18"
+url = "https://www.dignitymemorial.com/obituaries/wilmington-nc/elverton-shands-7229925"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Shands"
+use = "Elverton"
+given = "Elverton Anderson"
+nick = "Curly"
+
+[person.birth]
+date = "1922-01-09"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+
+[person.death]
+date = "2016-12-26"
+
+[[person.education]]
+school.name = "New Hanover HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Wilmington"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

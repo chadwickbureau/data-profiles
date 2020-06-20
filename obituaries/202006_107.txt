@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_107"
+
+[[person.meta.citation]]
+title = "Seaside Funeral Home"
+date = "2020-06-19"
+url = "https://www.seasidefuneral.com/tributes/Willis-Carruth"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Carruth"
+use = "Bill"
+given = "Willis Frank"
+
+[person.birth]
+date = "1922-09-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Bosqueville"
+
+[person.death]
+date = "2020-06-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Allen"
+
+[person.burial]
+cemetery.name = "Seaside Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Corpus Christi"
+
+[[person.alias]]
+name.last = "Moore"
+name.use = "Bill"
+name.given = "Willis Monroe"
+type = "birth"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

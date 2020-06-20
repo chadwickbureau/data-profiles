@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_104"
+
+[[person.meta.citation]]
+title = "Fears Family Funeral Home"
+date = "2020-06-18"
+url = "https://www.fearsfamilyfuneralhome.com/memorials/grover-barham/3969785/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Barham"
+use = "Grover"
+given = "Grover Maddon"
+
+[person.birth]
+date = "1931-06-15"
+
+[person.death]
+date = "2016-12-23"
+
+[person.burial]
+cemetery.name = "Randolph Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Pocahontas"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

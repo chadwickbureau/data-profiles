@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0127"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-17"
+url = "https://www.findagrave.com/memorial/107981344/keith-f-bissonnette"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Bissonnette"
+use = "Keith"
+given = "Keith F."
+
+[person.birth]
+date = "1920-11-07"
+place.country = "US"
+place.state = "ND"
+place.city = "Cass County"
+
+[person.death]
+date = "1945-03-28"
+place.country = "MM"
+place.city = "Kengtung"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "St. Paul"
+
+[person.sameas]
+findagrave = "107981344"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

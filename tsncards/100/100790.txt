@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:100790"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/100790"
+title = "The Sporting News Player Contract Cards, ScanID: 1035003575"
+
+[person.name]
+last = "Piazzola"
+given = "Vincent Paul"
+
+[person.description]
+ancestry = "Italian"
+position = "P"
+bats = "R"
+throws = "R"
+height = "70 1/2"
+weight = "170"
+
+[person.birth]
+date = "1939-01-10"
+place.country = "US"
+place.state = "NY"
+place.city = "Long Island City"
+
+[[person.resides]]
+place.address = "Wading River Road"
+place.country = "US"
+place.state = "NY"
+place.city = "Manorville"
+
+
+[[person.transaction]]
+date = "1958-07-07"
+type = "signed"
+join.name = "Michigan City"
+note = "Michigan City 1958-07-07"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Michigan City"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1959-04-09"
+type = "released"
+leave.name = "Michigan City"
+note = "rel 1959-04-09"
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:68363"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/68363"
+title = "The Sporting News Player Contract Cards, ScanID: 1017002823"
+
+[person.name]
+last = "Goodyear"
+given = "Chalmers M."
+
+
+[[person.transaction]]
+date = "1947-12-08"
+type = "signed"
+join.name = "Griffin"
+note = "Griffin 1947-12-08"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Griffin"
+note = "for 1948"
+
+[[person.transaction]]
+date = "1948-04-23"
+type = "released"
+leave.name = "Griffin"
+join.name = "Belleville"
+note = "rel to Belleville 1948-04-23"
+
+[[person.transaction]]
+date = "1948-05-05"
+type = "released"
+leave.name = "Belleville"
+note = "rel 1948-05-05"
+

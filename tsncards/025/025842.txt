@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:25842"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/25842"
+title = "The Sporting News Player Contract Cards, ScanID: 1008002594"
+
+[person.name]
+last = "Chappell"
+given = "Louis"
+
+
+[[person.transaction]]
+date = "1940-01"
+type = "signed"
+join.name = "Superior"
+note = "Superior 1940-01"
+
+[[person.transaction]]
+date = "1940-07"
+type = "released"
+leave.name = "Superior"
+note = "rel 1940-07"
+

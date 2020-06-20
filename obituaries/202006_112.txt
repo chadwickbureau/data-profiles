@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_112"
+
+[[person.meta.citation]]
+title = "Harper-Morris Memorial Chapel"
+date = "2020-06-19"
+url = "https://www.harpermorrismemorialchapel.com/obituary/brandon-harmon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Harmon"
+use = "BJ"
+given = "Brandon Jacob"
+
+[person.birth]
+date = "1994-12-08"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2020-06-13"
+
+[person.burial]
+cemetery.name = "Holman Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Titus"
+
+[[person.education]]
+school.name = "Mill Creek HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Hoschton"
+
+[[person.education]]
+school.name = "Valdosta State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "College of Central Florida"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of West Florida"
+school.type = "college"
+
+

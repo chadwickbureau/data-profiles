@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0129"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-17"
+url = "https://www.findagrave.com/memorial/81304671"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Fisher"
+use = "Albert"
+given = "Albert B."
+
+[person.birth]
+date = "1912-09-03"
+
+[person.death]
+date = "1976-08-16"
+
+[person.burial]
+cemetery.name = "Jefferson Barracks National Cemtery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Lemay"
+
+[person.sameas]
+findagrave = "81304671"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

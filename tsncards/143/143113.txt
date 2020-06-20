@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:143113"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/143113"
+title = "The Sporting News Player Contract Cards, ScanID: 1031001877"
+
+[person.name]
+last = "Mohr"
+given = "John Lee"
+
+
+[[person.transaction]]
+date = "1972-08-07"
+type = "signed"
+join.name = "Clinton"
+note = "Clinton 1972-08-07"
+
+[[person.transaction]]
+date = "1973"
+type = "reserved"
+join.name = "Clinton"
+note = "for 1973"
+
+[[person.transaction]]
+date = "1973-04-16"
+type = "released"
+leave.name = "Clinton"
+join.name = "Lakeland"
+note = "rel to Lakeland 1973-04-16"
+
+[[person.transaction]]
+date = "1973-06-13"
+type = "released"
+leave.name = "Lakeland"
+note = "rel 1973-06-13"
+

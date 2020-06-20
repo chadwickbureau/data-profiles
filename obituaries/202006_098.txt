@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_098"
+
+[[person.meta.citation]]
+title = "Swaim Funeral Chapels"
+date = "2020-06-17"
+url = "https://www.swaimfuneralhome.com/obituary/4059313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Chappell"
+use = "Louis"
+given = "Louis Ivan"
+
+[person.birth]
+date = "1961-04-06"
+place.country = "US"
+place.state = "KS"
+place.city = "Plevna"
+
+[person.death]
+date = "2017-01-03"
+place.country = "US"
+place.state = "KS"
+place.city = "Dodge City"
+
+[person.burial]
+cemetery.name = "Plains Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Plains"
+
+[[person.education]]
+school.name = "Plains HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Plains"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

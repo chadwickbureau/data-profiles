@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_101"
+
+[[person.meta.citation]]
+title = "San Francisco Examiner"
+date = "1969-11-18"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Clifford"
+use = "Neil"
+given = "Cornelius"
+
+[person.death]
+date = "1969-11-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.burial]
+cemetery.name = "Golden Gate National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "San Bruno"
+

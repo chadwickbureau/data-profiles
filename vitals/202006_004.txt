@@ -1,7 +1,7 @@
 [[person]]
 
 [person.meta]
-key = "vitals:20206_004"
+key = "vitals:202006_004"
 
 [[person.meta.citation]]
 title = "Calfornia DI"
@@ -10,7 +10,7 @@ title = "Calfornia DI"
 name.last = "Morris"
 name.use = "Jack"
 email = "jackmo77@comcast.net"
-date = "2018-06-12"
+date = "2020-06-12"
 
 [person.name]
 last = "Wilburn"

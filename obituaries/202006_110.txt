@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_110"
+
+[[person.meta.citation]]
+title = "Main Line Media News"
+date = "2016-12-06"
+url = "https://www.legacy.com/obituaries/mainlinemedianews/obituary.aspx?n=William-H-Wilson&pid=183000699"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Wilson"
+use = "Willie"
+given = "William H."
+
+[person.death]
+date = "2016-12-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Newtown Square"
+
+[[person.education]]
+school.name = "Phillips Exeter Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Exeter"
+
+[[person.education]]
+school.name = "Amherst College"
+school.type = "college"
+
+

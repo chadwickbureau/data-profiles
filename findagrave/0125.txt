@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0125"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-17"
+url = "https://www.findagrave.com/memorial/22791861"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Beddingfield"
+use = "Marcus"
+given = "Marcus E."
+
+[person.birth]
+date = "1913-05-09"
+place.country = "US"
+place.state = "MS"
+
+[person.death]
+date = "1972-01-18"
+place.country = "US"
+place.state = "MS"
+place.city = "Meridian"
+
+[person.burial]
+cemetery.name = "Magnolia Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MS"
+cemetery.place.city = "Meridian"
+
+[person.sameas]
+findagrave = "22791861"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:200606_113"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "1984-01-04"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Madura"
+use = "Frank"
+given = "Frank"
+
+[person.death]
+date = "1984-01-03"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago Heights"
+

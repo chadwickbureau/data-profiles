@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:16145"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/16145"
+title = "The Sporting News Player Contract Cards, ScanID: 1002004643"
+
+[person.name]
+last = "Barham"
+given = "Grover M."
+
+
+[[person.transaction]]
+date = "1950-01-17"
+type = "signed"
+join.name = "Newnan"
+note = "Newnan 1950-01-17"
+
+[[person.transaction]]
+date = "1950-04-11"
+type = "released"
+leave.name = "Newnan"
+note = "rel 1950-04-11"
+

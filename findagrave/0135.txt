@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0135"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-18"
+url = "https://www.findagrave.com/memorial/34448153"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Wirkkala"
+use = "Lester"
+given = "Lester R."
+
+[person.birth]
+date = "1913-10-09"
+place.country = "US"
+place.state = "MN"
+place.city = "Sebeka"
+
+[person.death]
+date = "1944-09-06"
+place.country = "FR"
+place.city = "Gravelotte"
+
+[person.burial]
+cemetery.name = "Mantyla Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Sebeka"
+
+[person.sameas]
+findagrave = "34448153"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

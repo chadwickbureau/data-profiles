@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_099"
+
+[[person.meta.citation]]
+title = "Hot Springs Funeral Home"
+date = "2020-06-17"
+url = "https://www.hotspringsfh.com/obituaries/Le-Alexander/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Alexander"
+use = "Le"
+given = "Le"
+
+[person.birth]
+date = "1929-04-21"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.death]
+date = "2016-12-25"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

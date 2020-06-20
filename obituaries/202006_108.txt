@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_108"
+
+[[person.meta.citation]]
+title = "Ryan Funeral Homes"
+date = "2020-06-19"
+url = "https://www.ryanfuneralservice.com/obituary/Chalmers-Goodyear"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Goodyear"
+use = "Chalmers"
+given = "Chalmers McKinley"
+nick = "Goody"
+
+[person.birth]
+date = "1928-09-06"
+place.country = "US"
+place.state = "PA"
+place.city = "Harrisburg"
+
+[person.death]
+date = "2016-12-07"
+place.country = "US"
+place.state = "WI"
+place.city = "Waunakee"
+
+[person.burial]
+cemetery.name = "St. Stephen's Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Mifflintown"
+
+[[person.education]]
+school.name = "William Penn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Harrisburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

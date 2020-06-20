@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_103"
+
+[[person.meta.citation]]
+title = "Hulke Family Funeral Home"
+date = "2020-06-18"
+url = "https://www.hulkefamilyfh.com/obituaries/1335-Kronenberg-Harold-Diz-J"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Kronenberg"
+use = "Harold"
+given = "Harold John James"
+nick = "Diz"
+
+[person.birth]
+date = "1924-08-19"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.death]
+date = "2020-06-13"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.burial]
+cemetery.name = "Rest Haven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Washington"
+
+[[person.education]]
+school.name = "Eau Claire HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Eau Claire"
+
+[[person.education]]
+school.name = "University of Wisconsin"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

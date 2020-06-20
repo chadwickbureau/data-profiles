@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_096"
+
+[[person.meta.citation]]
+title = "San Francisco Examiner"
+date = "2020-06-15"
+url = "https://www.legacy.com/obituaries/sfexaminer/obituary.aspx?n=claudell-washintgon&pid=196350487"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Washington"
+use = "Claudell"
+given = "Claudell"
+
+[person.death]
+date = "2020-06-10"
+
+[[person.education]]
+school.name = "Berkeley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Berkeley"
+
+

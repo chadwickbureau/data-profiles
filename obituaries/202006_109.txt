@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_109"
+
+[[person.meta.citation]]
+title = ""
+date = "2020-06-19"
+url = "https://www.barr-price.com/obituary/Vincent-Piazzola"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Piazzola"
+use = "Vinny"
+given = "Vincent Paul"
+
+[person.birth]
+date = "1939-01-10"
+place.country = "US"
+place.state = "NY"
+place.city = "Queens"
+
+[person.death]
+date = "2016-12-02"
+
+[[person.education]]
+school.name = "Center Moriches HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Center Moriches"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"
+
+

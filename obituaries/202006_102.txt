@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_102"
+
+[[person.meta.citation]]
+title = "Squeezeplay.mx"
+date = "2020-06-15"
+url = "http://squeezeplay.mx/2020/06/15/muere-el-exlanzador-jorge-rubio/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Rubio"
+use = "Jorge"
+given = "Jorge"
+nick = "El Payo"
+
+[person.death]
+date = "2020-06-14"
+

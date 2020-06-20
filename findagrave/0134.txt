@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0134"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-18"
+url = "https://www.findagrave.com/memorial/67813336/charles-edmund-wagener"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Wagener"
+use = "Chili"
+given = "Charles Edmund"
+
+[person.birth]
+date = "1914-10-30"
+place.country = "US"
+place.state = "TX"
+place.city = "Guadalupe County"
+
+[person.death]
+date = "1973-07-10"
+place.country = "US"
+place.state = "TX"
+place.city = "Seguin"
+
+[person.burial]
+cemetery.name = "San Geronimo Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Seguin"
+
+[person.sameas]
+findagrave = "67813336"
+

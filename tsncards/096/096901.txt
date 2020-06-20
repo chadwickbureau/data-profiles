@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:96901"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/96901"
+title = "The Sporting News Player Contract Cards, ScanID: 1037001987"
+
+[person.name]
+last = "Reimer"
+given = "Robert Harris"
+
+
+[[person.transaction]]
+date = "1953-02-21"
+type = "signed"
+join.name = "Union City"
+note = "Union City 1953-02-21"
+
+[[person.transaction]]
+date = "1953-04-20"
+type = "released"
+leave.name = "Union City"
+join.name = "Sheboygan"
+note = "rel to Sheboygan 1953-04-20"
+
+[[person.transaction]]
+date = "1953-05-12"
+type = "released"
+leave.name = "Sheboygan"
+note = "rel 1953-05-12"
+

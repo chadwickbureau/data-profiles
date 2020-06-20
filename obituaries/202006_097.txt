@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_097"
+
+[[person.meta.citation]]
+title = "Shelly Funeral Home"
+date = "2020-06-17"
+url = "https://memorials.shellyfuneralhomes.com/vincent-huber/2810458/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Huber"
+use = "Lou"
+given = "Vincent L."
+suffix = "Jr."
+
+[person.birth]
+date = "1931-07-13"
+place.country = "US"
+place.state = "PA"
+place.city = "Jim Thorpe"
+
+[person.death]
+date = "2016-12-30"
+place.country = "US"
+place.state = "PA"
+place.city = "Warrington"
+
+[person.burial]
+cemetery.name = "St. John Neumann Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Chalfont"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

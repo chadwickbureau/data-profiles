@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_100"
+
+[[person.meta.citation]]
+title = "Mitchell-Hughes Funeral Home"
+date = "2020-06-17"
+url = "https://hughesfuneralhomes.com/2016/robert-bob-harris-reimer/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Reimer"
+use = "Bob"
+given = "Robert Harris"
+
+[person.birth]
+date = "1935-01-20"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2016-12-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Marion"
+
+[person.burial]
+cemetery.name = "Tower Heights Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "West Frankfort"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

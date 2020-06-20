@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0126"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-17"
+url = "https://www.findagrave.com/memorial/151675333/howard-alwyn-belknap"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-17"
+
+[person.name]
+last = "Belknap"
+use = "Howard"
+given = "Howard Alwyn"
+
+[person.birth]
+date = "1917"
+
+[person.death]
+date = "2007"
+
+[person.burial]
+cemetery.name = "Deepdale Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Delta Township"
+
+[person.sameas]
+findagrave = "151675333"
+

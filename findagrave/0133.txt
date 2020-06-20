@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0133"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-18"
+url = "https://www.findagrave.com/memorial/91591576"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-18"
+
+[person.name]
+last = "Mackie"
+use = "Vody"
+given = "Vernon R."
+
+[person.birth]
+date = "1901-11-15"
+
+[person.death]
+date = "1980-11-23"
+
+[person.burial]
+cemetery.name = "Yadkinville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Yadkinville"
+
+[person.sameas]
+findagrave = "91591576"
+

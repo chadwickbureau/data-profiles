@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_111"
+
+[[person.meta.citation]]
+title = "Cutler-O'Neill Funeral Homes"
+date = "2020-06-19"
+url = "https://www.cutleroneill.com/obituaries/John-L-Mohr?obId=1213919#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-19"
+
+[person.name]
+last = "Mohr"
+use = "John"
+given = "John L."
+
+[person.birth]
+date = "1953-10-28"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.death]
+date = "2016-11-26"
+place.country = "US"
+place.state = "IA"
+place.city = "Council Bluffs"
+
+[person.burial]
+cemetery.name = "Allen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Honey Creek"
+
+[[person.education]]
+school.name = "Omaha South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NE"
+school.place.city = "Omaha"
+
+
