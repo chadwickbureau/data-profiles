@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202006_012"
+
+[[person.meta.citation]]
+title = "California, Death Index 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-26"
+
+[person.name]
+last = "Lee"
+use = "Quinn"
+given = "Quinn O."
+
+[person.birth]
+date = "1910-11-16"
+place.country = "US"
+place.state = "AR"
+
+[person.death]
+date = "1976-04-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.sameas]
+ssn = "435-09-2424"
+

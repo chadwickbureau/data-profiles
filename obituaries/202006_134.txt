@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_134"
+
+[[person.meta.citation]]
+title = "Hagerstown Daily Mail"
+date = "1945-02-09"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Springer"
+use = "Earl"
+given = "Earl B."
+
+[person.death]
+date = "1945-01-25"
+place.country = "DE"
+
+[[person.education]]
+school.name = "Hagerstown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Hagerstown"
+
+[[person.education]]
+school.name = "University of Maryland"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_144"
+
+[[person.meta.citation]]
+title = "Fogelsanger-Bricker Funeral Home"
+date = "2020-06-26"
+url = "https://www.fogelsanger-brickerfuneralhome.com/book-of-memories/2742557/Frelin-Joel-/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Frelin"
+use = "Joel"
+given = "Joel L."
+
+[person.birth]
+date = "1935-05-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.death]
+date = "2016-10-19"
+
+[person.burial]
+cemetery.name = "Spring Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Shippensburg"
+
+[[person.education]]
+school.name = "Shippensburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Shippensburg"
+
+

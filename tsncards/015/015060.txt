@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15060"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15060"
+title = "The Sporting News Player Contract Cards, ScanID: 1005004122"
+
+[person.name]
+last = "Bredewater"
+given = "Arnold E."
+
+
+[[person.transaction]]
+date = "1939-02"
+type = "signed"
+join.name = "Elmira"
+note = "Elmira 1939-02"
+
+[[person.transaction]]
+date = "1939-08"
+type = "released"
+leave.name = "Elmira"
+note = "rel 1939-08"
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202006_016"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-27"
+
+[person.name]
+last = "Murdock"
+use = "Wayne"
+given = "Wayne Morgan"
+
+[person.birth]
+date = "1917-07-28"
+place.country = "US"
+place.state = "CA"
+place.city = "Monolith"
+
+[person.death]
+date = "2004-11-16"
+
+[person.sameas]
+ssn = "576-10-8632"
+

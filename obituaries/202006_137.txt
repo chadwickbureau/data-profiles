@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_137"
+
+[[person.meta.citation]]
+title = "20minutos.es"
+date = "2020-06-25"
+url = "https://www.20minutos.es/deportes/noticia/4291674/0/muere-juan-castro-leyenda-beisbol-cuba/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "Castro"
+use = "Juan"
+given = "Juan"
+
+[person.death]
+date = "2020-06-14"
+place.country = "CU"
+place.city = "Havana"
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0139"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-25"
+url = "https://www.findagrave.com/memorial/96912234"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "McCollum"
+use = "Fred"
+given = "Fred W."
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "1957"
+
+[person.burial]
+cemetery.name = "Chapel Hill Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Kansas City"
+
+[person.sameas]
+findagrave = "96912234"
+

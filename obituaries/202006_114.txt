@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_114"
+
+[[person.meta.citation]]
+title = "Republican"
+date = "2020-06-20"
+url = "https://obits.masslive.com/obituaries/masslive/obituary.aspx?n=john-ferrero&pid=196365397&fhid=2411"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-20"
+
+[person.name]
+last = "Ferrero"
+use = "John"
+given = "John Joseph"
+nick = "Lefty"
+
+[person.death]
+date = "2020-06-10"
+
+[[person.education]]
+school.name = "Springfield Tech HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Springfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

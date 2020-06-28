@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202006_010"
+
+[[person.meta.citation]]
+title = "US Dept of Veterans Affairs BIRLS Death File"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-26"
+
+[person.name]
+last = "Angelovich"
+use = "Peter"
+given = "Peter"
+
+[person.birth]
+date = "1918-07-14"
+
+[person.death]
+date = "1975-04-06"
+
+[person.sameas]
+ssn = "075-09-9351"
+

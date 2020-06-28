@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_133"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "1974-06-10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Lauenstein"
+use = "Charles"
+given = "Charles H."
+
+[person.death]
+date = "1974-06-06"
+

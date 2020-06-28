@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_127"
+
+[[person.meta.citation]]
+title = "Burns Funeral Home"
+date = "2020-06-23"
+url = "https://www.burnsfuneral.com/obituaries/James-Osborne-12/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-23"
+
+[person.name]
+last = "Osborne"
+use = "James"
+given = "James R."
+nick = "Ozzy"
+
+[person.birth]
+date = "1926-07-09"
+place.country = "US"
+place.state = "IL"
+place.city = "Decatur"
+
+[person.death]
+date = "2016-11-06"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

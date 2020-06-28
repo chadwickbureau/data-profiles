@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0140"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-26"
+url = "https://www.findagrave.com/memorial/188545440"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Harnick"
+use = "William"
+given = "William J."
+
+[person.birth]
+date = "1916"
+
+[person.death]
+date = "1946"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Lackawanna"
+
+[person.sameas]
+findagrave = "188545440"
+

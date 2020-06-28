@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_152"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2020-06-28"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=david-frank-borges&pid=196414379"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-28"
+
+[person.name]
+last = "Borges"
+use = "David"
+given = "David Frank"
+
+[person.birth]
+date = "1937-01-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "2020-06-18"
+
+[[person.education]]
+school.name = "Christian Brothers HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Sacramento"
+
+[[person.education]]
+school.name = "Sacramento City College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

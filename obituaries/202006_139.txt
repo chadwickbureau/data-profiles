@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_139"
+
+[[person.meta.citation]]
+title = "Seminole Producer"
+date = "1957-05-13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "McCollum"
+use = "Freddie"
+given = "Freddie"
+
+[person.death]
+date = "1957-05-11"
+place.country = "US"
+place.state = "KS"
+place.city = "Kansas City"
+

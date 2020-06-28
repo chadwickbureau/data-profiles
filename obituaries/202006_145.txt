@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_145"
+
+[[person.meta.citation]]
+title = "Wellsville Daily Reporter 1976-10-05"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Carnegie"
+use = "Ollie"
+given = "Ollie"
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "1976-10-04"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+

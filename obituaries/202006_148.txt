@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_148"
+
+[[person.meta.citation]]
+title = "Beaumont Journal"
+date = "1946-08-17"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-27"
+
+[person.name]
+last = "Wilson"
+use = "Les"
+given = "Les"
+
+[person.death]
+date = "1946-08-17"
+place.country = "US"
+place.state = "TX"
+place.city = "Dallas"
+

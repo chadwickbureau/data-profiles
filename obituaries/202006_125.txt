@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_125"
+
+[[person.meta.citation]]
+title = "Sorge Funeral Home"
+date = "2020-06-23"
+url = "https://www.sorgefuneralhome.com/obituary/James-Seymour"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-23"
+
+[person.name]
+last = "Seymour"
+use = "Jim"
+given = "James R."
+
+[person.birth]
+date = "1932-07-04"
+
+[person.death]
+date = "2016-11-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Altoona"
+
+[person.burial]
+cemetery.name = "New St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Hollidaysburg"
+
+[[person.education]]
+school.name = "Ebensburg-Cambria HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Ebensburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

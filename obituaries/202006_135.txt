@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_135"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2020-06-25"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=joseph-e-langhamer&pid=196388047&fhid=2042"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "Langhamer"
+use = "Joseph"
+given = "Joseph E."
+
+[person.birth]
+date = "1935-05-08"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-06-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Hinsdale"
+
+[person.burial]
+cemetery.name = "Resurrection Catholic Cemetery and Mausoleums"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Justice"
+
+[[person.education]]
+school.name = "De La Salle Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Chicago"
+
+

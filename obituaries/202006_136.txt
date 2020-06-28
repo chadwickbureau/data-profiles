@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_136"
+
+[[person.meta.citation]]
+title = "GradaNorte.mx"
+date = "2020-06-22"
+url = "https://www.gradanorte.mx/noticias/5187-coronavirus-falleceria-pitcher-sonorense-aldo-silva-por-complicaciones-derivadas-de-covid-19.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "Silva"
+use = "Aldo"
+given = "Aldo"
+
+[person.death]
+date = "2020-06-22"
+place.country = "US"
+place.state = "AZ"
+place.city = "Phoenix"
+

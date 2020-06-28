@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_122"
+
+[[person.meta.citation]]
+title = "Zoeller Funeral Home"
+date = "2020-06-22"
+url = "https://www.dignitymemorial.com/obituaries/new-braunfels-tx/arnold-bredewater-7170787"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-22"
+
+[person.name]
+last = "Bredewater"
+use = "Arnold"
+given = "Arnold R."
+
+[person.birth]
+date = "1917-08-12"
+place.country = "US"
+place.state = "IN"
+place.city = "Decatur County"
+
+[person.death]
+date = "2016-11-15"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.burial]
+cemetery.name = "Guadalupe Valley Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "New Braunfels"
+
+[[person.education]]
+school.name = "New Point HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "New Point"
+
+[[person.education]]
+school.name = "Purdue University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

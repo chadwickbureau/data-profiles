@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_146"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1946-12-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Harnick"
+use = "William"
+given = "William J."
+
+[person.death]
+date = "1946-12-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Wheatfield"
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0137"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-24"
+url = "https://www.findagrave.com/memorial/104980740"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Hamilton"
+use = "Robert"
+given = "Robert Lee"
+
+[person.birth]
+date = "1918-04-20"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.death]
+date = "1987-08-24"
+place.country = "US"
+place.state = "CA"
+place.city = "Visalia"
+
+[person.burial]
+cemetery.name = "Exeter District Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Exeter"
+
+[person.sameas]
+findagrave = "104980740"
+

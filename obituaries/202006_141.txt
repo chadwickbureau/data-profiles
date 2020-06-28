@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_141"
+
+[[person.meta.citation]]
+title = "AlBat.com"
+date = "2019-11-14"
+url = "https://www.albat.com/lmp/Luto-en-Naranjeros-de-Hermosillo-muere-el-ex-lanzador-Carlos-Ibarra-20191114-0028.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Ibarra"
+use = "Carlos"
+given = "Carlos"
+matrilineal = "Jacobo"
+
+[person.death]
+date = "2019-11-14"
+place.country = "MX"
+place.city = "Villahermosa"
+

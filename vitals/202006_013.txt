@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202006_013"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2018-06-26"
+
+[person.name]
+last = "Ogiego"
+use = "Walter"
+given = "Walter"
+
+[person.birth]
+date = "1914-04-27"
+
+[person.death]
+date = "1980-08"
+
+[person.sameas]
+ssn = "306-09-3120"
+

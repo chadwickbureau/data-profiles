@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_119"
+
+[[person.meta.citation]]
+title = "Cummings-Gagne Funeral Home"
+date = "2020-06-22"
+url = "https://www.cummings-gagnefh.com/obituary/J-Marien"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-22"
+
+[person.name]
+last = "Marien"
+use = "Roger"
+given = "Joseph Roger"
+
+[person.birth]
+date = "1927-03-27"
+place.country = "US"
+place.state = "CT"
+place.city = "Norwich"
+
+[person.death]
+date = "2016-11-22"
+
+[person.burial]
+cemetery.name = "Maplewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Norwich"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

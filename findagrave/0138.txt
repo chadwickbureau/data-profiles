@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0138"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-24"
+url = "https://www.findagrave.com/memorial/7242146"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Johnson"
+use = "Guy"
+given = "Guy B."
+
+[person.birth]
+date = "1914-07-23"
+
+[person.death]
+date = "1982-06-11"
+
+[person.burial]
+cemetery.name = "Brownsville Missionary Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Brownsville"
+
+[person.sameas]
+findagrave = "7242146"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

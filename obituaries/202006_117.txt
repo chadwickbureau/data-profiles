@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_117"
+
+[[person.meta.citation]]
+title = "San Diego Union-Tribune"
+date = "2020-06-21"
+url = "https://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=raymond-salvador-mendoza&pid=196371487"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-21"
+
+[person.name]
+last = "Mendoza"
+use = "Ray"
+given = "Raymond Salvador"
+
+[person.birth]
+date = "1929-09-26"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.death]
+date = "2020-06-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Carlsbad"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

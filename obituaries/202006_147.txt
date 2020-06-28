@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_147"
+
+[[person.meta.citation]]
+title = "Passiac Herald-News"
+date = "1963-04-09"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Roche"
+use = "Raymond"
+given = "Raymond J."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "1963-04-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Lyndhurst"
+
+[[person.education]]
+school.name = "University of Scranton"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

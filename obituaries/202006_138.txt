@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_138"
+
+[[person.meta.citation]]
+title = "SeptimaEntrada.com"
+date = "2020-06-23"
+url = "https://www.septimaentrada.com/liga-mexicana-de-beisbol/fallece-rafael-chivigon-castaneda"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-25"
+
+[person.name]
+last = "Castañeda"
+use = "Rafael"
+given = "Rafael"
+nick = "El Chivigón"
+
+[person.death]
+date = "2020-06-23"
+

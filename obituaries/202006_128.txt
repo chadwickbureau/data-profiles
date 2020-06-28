@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_128"
+
+[[person.meta.citation]]
+title = "Ziemer Funeral Home"
+date = "2020-06-24"
+url = "https://www.ziemerfuneralhome.com/obituaries/Donnie-Collins-4/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Collins"
+use = "Donnie"
+given = "Donnie C."
+
+[person.birth]
+date = "1948-10-27"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.death]
+date = "2020-06-21"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+

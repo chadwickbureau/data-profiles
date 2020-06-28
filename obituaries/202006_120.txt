@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_120"
+
+[[person.meta.citation]]
+title = "Pittsburgh Tribune Review"
+date = "2016-11-22"
+url = "https://www.legacy.com/obituaries/triblive-pittsburgh-tribune-review/obituary.aspx?n=Don-A-Nolder&pid=182665618"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-22"
+
+[person.name]
+last = "Nolder"
+use = "Don"
+given = "Don A."
+
+[person.death]
+date = "2016-11-20"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

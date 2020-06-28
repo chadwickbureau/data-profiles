@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:63695"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/63695"
+title = "The Sporting News Player Contract Cards, ScanID: 1017002455"
+
+[person.name]
+last = "Good"
+given = "Joseph C."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Middletown"
+note = "Middletown 1946-05"
+
+[[person.transaction]]
+date = "1946-05"
+type = "released"
+leave.name = "Middletown"
+note = "rel 1946-05"
+

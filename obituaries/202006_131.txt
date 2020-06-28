@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_131"
+
+[[person.meta.citation]]
+title = "The Day"
+date = "2016-10-31"
+url = "https://www.legacy.com/obituaries/theday/obituary.aspx?n=david-a-sanchez&pid=182216990&fhid=29576"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Sanchez"
+use = "David"
+given = "David A."
+matrilineal = "Rodriguez"
+
+[person.birth]
+date = "1939-06-13"
+place.country = "CU"
+place.city = "Holguin"
+
+[person.death]
+date = "2016-10-27"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Norwich"
+

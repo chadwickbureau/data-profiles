@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_113"
+
+[[person.meta.citation]]
+title = "McCauley Funeral Home"
+date = "2020-06-20"
+url = "https://www.crmfh.com/obituary/Steve-Karas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-20"
+
+[person.name]
+last = "Karas"
+use = "Steve"
+given = "Steve"
+
+[person.birth]
+date = "1928-11-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Hunker"
+
+[person.death]
+date = "2020-06-17"
+
+[person.burial]
+cemetery.name = "Westmoreland County Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Greensburg"
+
+[[person.education]]
+school.name = "Youngwood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Youngwood"
+
+

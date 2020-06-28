@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_115"
+
+[[person.meta.citation]]
+title = "Monterey Herald Obits"
+date = "2020-06-20"
+url = "https://www.legacy.com/obituaries/montereyherald/obituary.aspx?n=gene-howard-vandervort&pid=196365466"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-20"
+
+[person.name]
+last = "Vandervort"
+use = "Gene"
+given = "Gene Howard"
+
+[person.birth]
+date = "1931-09-24"
+place.country = "US"
+place.state = "SD"
+place.city = "De Smet"
+
+[person.death]
+date = "2020-06-03"
+
+[[person.education]]
+school.name = "Carmel HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Carmel"
+
+

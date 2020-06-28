@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_151"
+
+[[person.meta.citation]]
+title = "Milward Funeral Homes"
+date = "2020-06-28"
+url = "https://milwardfuneral.com/obituaries/727-clarence-g-musgrave"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-28"
+
+[person.name]
+last = "Musgrave"
+use = "Clarence"
+given = "Clarence G."
+
+[person.birth]
+date = "1929-01-27"
+place.country = "US"
+place.state = "IL"
+place.city = "Wayne City"
+
+[person.death]
+date = "2020-06-04"
+
+[[person.education]]
+school.name = "Bowling Green HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Bowling Green"
+
+[[person.education]]
+school.name = "Western Kentucky University"
+school.type = "college"
+
+

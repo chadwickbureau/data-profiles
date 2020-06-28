@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_143"
+
+[[person.meta.citation]]
+title = "ElUniversal.com"
+date = "2020-04-19"
+url = "https://www.eluniversal.com/deportes/68073/fallecio-faustino-zabala-gloria-del-beisbol-venezolano"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Zabala"
+use = "Faustino"
+given = "Faustino"
+
+[person.birth]
+date = "1947"
+place.country = "VE"
+place.city = "Cabimas"
+
+[person.death]
+date = "2020-04-19"
+place.country = "VE"
+place.city = "Barquisimeto"
+

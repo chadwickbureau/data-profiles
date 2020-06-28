@@ -1,0 +1,73 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154300"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154300"
+title = "The Sporting News Player Contract Cards, ScanID: 1040004839"
+
+[person.name]
+last = "Seymour"
+given = "James R."
+
+[[person.resides]]
+place.address = "RD #1"
+place.country = "US"
+place.state = "PA"
+place.city = "Ebensburg"
+
+
+[[person.transaction]]
+date = "1950-08-15"
+type = "signed"
+join.name = "Johnstown"
+note = "Johnstown 1950-08-15"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Johnstown"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-03-05"
+type = "released"
+leave.name = "Johnstown"
+join.name = "Erie"
+note = "rel to Erie 1951-03-05"
+
+[[person.transaction]]
+date = "1951-05-12"
+type = "optioned"
+leave.name = "Erie"
+join.name = "Roanoke Rapids"
+note = "opt to Roanoke Rapids 1951-05-12"
+
+[[person.transaction]]
+date = "1951-05-21"
+type = "option-transferred"
+leave.name = "Roanoke Rapids"
+join.name = "Fulton"
+note = "opt trans to Fulton 1951-05-21"
+
+[[person.transaction]]
+date = "1951-05-28"
+type = "returned"
+leave.name = "Fulton"
+join.name = "Erie"
+note = "ret to Erie 1951-05-28"
+
+[[person.transaction]]
+date = "1951-06-08"
+type = "released"
+leave.name = "Erie"
+join.name = "Oil City"
+note = "rel to Oil City 1951-06-08"
+
+[[person.transaction]]
+date = "1951-06-30"
+type = "released"
+leave.name = "Oil City"
+note = "rel 1951-06-30"
+

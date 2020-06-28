@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:106873"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/106873"
+title = "The Sporting News Player Contract Cards, ScanID: 1045006245"
+
+[person.name]
+last = "Vandervort"
+given = "Gene H."
+
+[[person.resides]]
+place.address = "Box 662"
+place.country = "US"
+place.state = "CA"
+place.city = "Carmel"
+
+
+[[person.transaction]]
+date = "1951-02-15"
+type = "signed"
+join.name = "Bartlesville"
+note = "Bartlesville 1951-02-15"
+
+[[person.transaction]]
+date = "1951-04-25"
+type = "voluntarily-retired"
+leave.name = "Bartlesville"
+note = "vol ret list 1951-04-25"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-02-06"
+type = "released"
+leave.name = "Bartlesville"
+join.name = "Brunswick"
+note = "rel to Brunswick 1952-02-06"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Brunswick"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Brunswick"
+join.name = "Jamestown"
+note = "rel to Jamestown 1957-02-01"
+
+[[person.transaction]]
+date = "1957-06-27"
+type = "released"
+leave.name = "Jamestown"
+join.name = "Salem (VA)"
+note = "rel to Salem (VA) 1957-06-27"
+
+[[person.transaction]]
+date = "1960-01-18"
+type = "reinstated"
+join.name = "Salem (VA)"
+note = "rein vol ret list 1960-01-18"
+
+[[person.transaction]]
+date = "1960-01-21"
+type = "released"
+leave.name = "Salem (VA)"
+note = "rel 1960-01-21"
+

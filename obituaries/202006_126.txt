@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_126"
+
+[[person.meta.citation]]
+title = "DeMarco-Stone Funeral Home"
+date = "2020-06-23"
+url = "https://www.demarcostonefuneralhome.com/obituary/Albert-Kausch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-23"
+
+[person.name]
+last = "Kausch"
+use = "Albert"
+given = "Albert James"
+
+[person.death]
+date = "2016-10-14"
+
+[[person.education]]
+school.name = "Benjamin Franklin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Rochester"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

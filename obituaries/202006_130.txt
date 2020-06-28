@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_130"
+
+[[person.meta.citation]]
+title = "Courier Post"
+date = "2016-10-29"
+url = "https://www.legacy.com/obituaries/courierpostonline/obituary.aspx?n=Nicholas-Sochanchak&pid=182195706"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Sochanchak"
+use = "Nicholas"
+given = "Nicholas"
+
+[person.death]
+date = "2016-10-27"
+
+[person.burial]
+cemetery.name = "St. Joseph's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Chews"
+
+[[person.education]]
+school.name = "Camden HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Camden"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

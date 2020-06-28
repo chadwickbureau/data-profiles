@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_116"
+
+[[person.meta.citation]]
+title = "Raymer-Kepner Funeral Home"
+date = "2020-06-21"
+url = "https://www.kepnerfh.com/obituary/michael-mccormick"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-21"
+
+[person.name]
+last = "McCormick"
+use = "Mike"
+given = "Michael Francis"
+suffix = "Sr."
+
+[person.birth]
+date = "1938-09-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Pasadena"
+
+[person.death]
+date = "2020-06-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Cornelius"
+

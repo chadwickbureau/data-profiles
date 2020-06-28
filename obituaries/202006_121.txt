@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_121"
+
+[[person.meta.citation]]
+title = "McIntire, Bradham & Sleek Funeral Home"
+date = "2020-06-22"
+url = "https://www.mcintirebradhamsleek.com/obituaries/john-c-keener"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-22"
+
+[person.name]
+last = "Keener"
+use = "John"
+given = "John C."
+
+[person.birth]
+date = "1934-11-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Congress Township"
+
+[person.death]
+date = "2016-11-12"
+place.country = "US"
+place.state = "OH"
+place.city = "Wooster"
+
+[person.burial]
+cemetery.name = "New Pittsburg Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "New Pittsburg"
+
+[[person.education]]
+school.name = "Northwestern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "West Salem"
+
+

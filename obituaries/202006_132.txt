@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_132"
+
+[[person.meta.citation]]
+title = "Lord Funeral Home"
+date = "2020-06-24"
+url = "https://www.lordfuneralhome.com/obituary/Robert-Johnson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-24"
+
+[person.name]
+last = "Johnson"
+use = "Robert"
+given = "Robert S."
+
+[person.death]
+date = "2016-10-22"
+place.country = "US"
+place.state = "NH"
+place.city = "Meredith"
+
+[person.burial]
+cemetery.name = "New Hampshire State Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Boscawen"
+
+[[person.education]]
+school.name = "Watertown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Watertown"
+
+[[person.education]]
+school.name = "Northeastern University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

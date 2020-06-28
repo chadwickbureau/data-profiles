@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_118"
+
+[[person.meta.citation]]
+title = "Summersett Funeral Home"
+date = "2020-06-21"
+url = "https://www.summersettfuneralhome.com/obituaries/Brian-Whitaker-2/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-21"
+
+[person.name]
+last = "Whitaker"
+use = "Brian"
+given = "Brian Graham"
+
+[person.death]
+date = "2020-06-17"
+place.country = "US"
+place.state = "NC"
+place.city = "Salisbury"
+
+[[person.education]]
+school.name = "North Rowan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Spencer"
+
+[[person.education]]
+school.name = "University of North Carolina at Wilmington"
+school.type = "college"
+
+

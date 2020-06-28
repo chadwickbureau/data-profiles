@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_123"
+
+[[person.meta.citation]]
+title = "Sun Chronicle"
+date = "2020-06-23"
+url = "https://www.legacy.com/obituaries/thesunchronicle/obituary.aspx?n=james-a-mitchell&pid=196374896&fhid=15454"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-23"
+
+[person.name]
+last = "Mitchell"
+use = "Jim"
+given = "James A."
+suffix = "Jr."
+
+[person.birth]
+date = "1933-03-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Everett"
+
+[person.death]
+date = "2020-06-19"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Mansfield"
+
+[[person.education]]
+school.name = "Hyde Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Boston"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

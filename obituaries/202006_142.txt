@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202006_142"
+
+[[person.meta.citation]]
+title = "ElNeuevoDiario.do"
+date = "2020-04-04"
+url = "https://elnuevodiario.com.do/fallece-en-la-ciudad-de-new-york-el-ex-lanzador-danilo-rivas/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-26"
+
+[person.name]
+last = "Rivas"
+use = "Danilo"
+given = "Danilo"
+
+[person.death]
+date = "2020-04-04"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+

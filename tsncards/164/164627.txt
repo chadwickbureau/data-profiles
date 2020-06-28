@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:164627"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/164627"
+title = "The Sporting News Player Contract Cards, ScanID: 1028001505"
+
+[person.name]
+last = "Marien"
+given = "Joseph R."
+
+
+[[person.transaction]]
+date = "1950-04-26"
+type = "signed"
+join.name = "Lumberton"
+note = "Lumberton 1950-04-26"
+
+[[person.transaction]]
+date = "1950-05-08"
+type = "disabled"
+leave.name = "Lumberton"
+note = "disabled list 1950-05-08"
+
+[[person.transaction]]
+date = "1950-05-19"
+type = "reinstated"
+join.name = "Lumberton"
+note = "rein from disabled list 1950-05-19"
+
+[[person.transaction]]
+date = "1950-05-19"
+type = "released"
+leave.name = "Lumberton"
+note = "rel 1950-05-19"
+
