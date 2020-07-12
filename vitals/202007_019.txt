@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_019"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-09"
+
+[person.name]
+last = "Spackman"
+use = "Robert"
+given = "Robert Reeser"
+
+[person.birth]
+date = "1917-12-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Phoenixville"
+

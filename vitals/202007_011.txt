@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_011"
+
+[[person.meta.citation]]
+title = "US Department of Veterans Affairs BIRLS Death File, 1850-2010"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Scudder"
+use = "Daniel"
+given = "Daniel"
+
+[person.birth]
+date = "1916-12-09"
+
+[person.death]
+date = "2002-10-07"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

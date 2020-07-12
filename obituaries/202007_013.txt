@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_013"
+
+[[person.meta.citation]]
+title = "Snyder & Hollenbaugh Funeral Home"
+date = "2020-07-01"
+url = "https://www.sandhfuneralservice.com/obituary/Albert-Heckenberg"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-01"
+
+[person.name]
+last = "Heckenberg"
+use = "Albert"
+given = "Albert Bernard"
+
+[person.birth]
+date = "1923-01-03"
+place.country = "US"
+place.state = "IA"
+place.city = "Sperry"
+
+[person.death]
+date = "2016-09-16"
+place.country = "US"
+place.state = "IA"
+place.city = "Sperry"
+
+[person.burial]
+cemetery.name = "St. Mary's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Kingston"
+
+[[person.education]]
+school.name = "Sperry HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Sperry"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

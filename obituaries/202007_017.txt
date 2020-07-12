@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_017"
+
+[[person.meta.citation]]
+title = "Washington Evening Star"
+date = "1965-07-08"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-02"
+
+[person.name]
+last = "Bassin"
+use = "Harry"
+given = "Harry"
+
+[person.death]
+date = "1965-07-07"
+place.country = "US"
+place.state = "DC"
+place.city = "Washington"
+
+[person.burial]
+cemetery.name = "King David Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Falls Church"
+
+[[person.education]]
+school.name = "Eastern HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DC"
+school.place.city = "Washington"
+
+[[person.education]]
+school.name = "Georgetown University"
+school.type = "college"
+
+

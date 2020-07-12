@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:142219"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/142219"
+title = "The Sporting News Player Contract Cards, ScanID: 1043004131"
+
+[person.name]
+last = "Strzelec"
+given = "Louie J."
+
+
+[[person.transaction]]
+date = "1946-09"
+type = "signed"
+join.name = "Milford"
+note = "Milford 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Milford"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-30"
+type = "released"
+leave.name = "Milford"
+note = "rel 1947-04-30"
+

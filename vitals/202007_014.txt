@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_014"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "House"
+use = "Beverly"
+given = "Beverly R."
+
+[person.birth]
+date = "1917-04-03"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1974-11-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.sameas]
+ssn = "465-07-7979"
+

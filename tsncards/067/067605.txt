@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:67605"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/67605"
+title = "The Sporting News Player Contract Cards, ScanID: 1015004877"
+
+[person.name]
+last = "French"
+given = "David Herriot"
+
+
+[[person.transaction]]
+date = "1949-12-31"
+type = "signed"
+join.name = "DeLand"
+note = "DeLand 1949-12-31"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "DeLand"
+note = "for 1950"
+
+[[person.transaction]]
+date = "1950-04-05"
+type = "released"
+leave.name = "DeLand"
+note = "rel 1950-04-05"
+

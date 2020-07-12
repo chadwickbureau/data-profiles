@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0154"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-08"
+url = "https://www.findagrave.com/memorial/59423290"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Storch"
+use = "Harry"
+given = "Harry H."
+
+[person.birth]
+date = "1886"
+
+[person.death]
+date = "1947"
+
+[person.burial]
+cemetery.name = "North Canton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "North Canton"
+
+[person.sameas]
+findagrave = "59423290"
+

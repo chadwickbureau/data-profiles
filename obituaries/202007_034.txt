@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_034"
+
+[[person.meta.citation]]
+title = "Avink Funeral Home"
+date = "2020-07-08"
+url = "https://www.avinkcremation.com/obituaries/Edward-Jordan-9/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Jordan"
+use = "Ed"
+given = "Edward Gerald"
+
+[person.birth]
+date = "1929-06-12"
+place.country = "US"
+place.state = "NH"
+place.city = "North Conway"
+
+[person.death]
+date = "2016-08-11"
+place.country = "US"
+place.state = "MI"
+place.city = "Kalamazoo"
+
+[person.burial]
+cemetery.name = "Fort Custer National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Augusta"
+
+[[person.education]]
+school.name = "Kennett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "North Conway"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

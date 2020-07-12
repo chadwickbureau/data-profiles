@@ -1,0 +1,65 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:47837"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/47837"
+title = "The Sporting News Player Contract Cards, ScanID: 1010001283"
+
+[person.name]
+last = "Craig"
+given = "Ben D."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1946-10-22"
+type = "signed"
+join.name = "Independence"
+note = "Independence 1946-10-22"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Independence"
+note = "for 1947"
+
+[[person.transaction]]
+date = "1947-04-29"
+type = "optioned"
+leave.name = "Independence"
+join.name = "McAlester"
+note = "opt to McAlester 1947-04-29"
+
+[[person.transaction]]
+date = "1947-05-05"
+type = "released"
+leave.name = "McAlester"
+note = "rel 1947-05-05"
+
+[[person.transaction]]
+date = "1948-09-06"
+type = "signed"
+join.name = "Globe-Miami"
+note = "Globe-Miami 1948-09-06"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Globe-Miami"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "optioned"
+leave.name = "Globe-Miami"
+join.name = "Ada"
+note = "opt to Ada 1949-04-20"
+
+[[person.transaction]]
+date = "1949-05-30"
+type = "released"
+leave.name = "Ada"
+note = "rel 1949-05-30"
+

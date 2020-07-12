@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_010"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Clarke"
+use = "Horace"
+given = "Horace Meredith"
+
+[person.birth]
+date = "1939-06-02"
+
+[person.description]
+mlb_played = "1965/"
+

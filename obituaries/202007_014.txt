@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_014"
+
+[[person.meta.citation]]
+title = "Jacob Schoen & Son Funeral Home"
+date = "2020-07-01"
+url = "https://www.schoenfh.com/tributes/Robert-Gibbens"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-01"
+
+[person.name]
+last = "Gibbens"
+use = "Bob"
+given = "Robert Day"
+
+[person.birth]
+date = "1923-12-23"
+
+[person.death]
+date = "2016-09-21"
+place.country = "US"
+place.state = "LA"
+place.city = "Reserve"
+
+[person.burial]
+cemetery.name = "Hope Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "New Orleans"
+
+[[person.education]]
+school.name = "St. Stanislaus College"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Bay St. Louis"
+
+[[person.education]]
+school.name = "Loyola University New Orleans"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

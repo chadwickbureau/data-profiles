@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_025"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2020-07-02"
+url = "https://www.baltimoresun.com/obituaries/bs-md-ob-frank-sliwka-jr-20200702-azbjvxeu4vee7jemc6a3oksxfq-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Sliwka"
+use = "Frank"
+given = "Francis Edward"
+
+[person.death]
+date = "2020-06-11"
+place.country = "US"
+place.state = "MD"
+place.city = "Bel Air"
+
+[person.burial]
+cemetery.name = "Holy Rosary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Baltimore"
+
+[[person.education]]
+school.name = "Baltimore City College"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Baltimore"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"
+
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_025"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Hogan"
+use = "Bob"
+given = "Robert Edward"
+
+[person.birth]
+date = "1860-04-06"
+
+[person.description]
+mlb_played = "1882/"
+

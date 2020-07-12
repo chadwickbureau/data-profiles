@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_019"
+
+[[person.meta.citation]]
+title = "Farley Estes & Dowdle Funeral Home"
+date = "2020-07-04"
+url = "http://hosting-7303.tributes.com/obituary/show/Carl-Kris-Angelo-108489265"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-04"
+
+[person.name]
+last = "Angelo"
+use = "Carl"
+given = "Carl Kris"
+
+[person.birth]
+date = "1932-04-25"
+place.country = "US"
+place.state = "MI"
+place.city = "Battle Creek"
+
+[person.death]
+date = "2020-07-01"
+place.country = "US"
+place.state = "MI"
+place.city = "Battle Creek"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Battle Creek"
+
+[[person.education]]
+school.name = "Battle Creek Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Battle Creek"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Lawrence Technological University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

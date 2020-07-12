@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_061"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Roach"
+use = "Michael"
+given = "Michael Stephen"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Renovo"
+
+[person.description]
+mlb_played = "1899/"
+

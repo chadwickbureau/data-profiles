@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_039"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Latimer"
+use = "Clifford"
+given = "Clifford Wesley"
+
+[person.birth]
+date = "1875-11-30"
+
+[person.description]
+mlb_played = "1898/"
+

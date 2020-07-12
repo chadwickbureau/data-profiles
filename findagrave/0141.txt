@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0141"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-28"
+url = "https://www.findagrave.com/memorial/34835730"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Benintendi"
+use = "Donald"
+given = "Donald M."
+
+[person.birth]
+date = "1901-07-19"
+
+[person.death]
+date = "1943-01-06"
+
+[person.burial]
+cemetery.name = "Granby Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Granby"
+
+[person.sameas]
+findagrave = "34835730"
+

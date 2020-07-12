@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_041"
+
+[[person.meta.citation]]
+title = "Southern Illinoisan"
+date = "1984-01-18"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-09"
+
+[person.name]
+last = "Spackman"
+use = "Robert"
+given = "Robert R."
+nick = "Doc"
+
+[person.birth]
+date = "1917-12-18"
+place.country = "US"
+place.state = "PA"
+place.city = "Phoenixville"
+
+[person.death]
+date = "1984-01-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Carbondale"
+

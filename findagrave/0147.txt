@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0147"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-07"
+url = "https://www.findagrave.com/memorial/199851313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "Riel"
+use = "Francis"
+given = "Francis J."
+
+[person.birth]
+date = "1914"
+
+[person.death]
+date = "2007"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Murfreesboro"
+
+[person.sameas]
+findagrave = "199851313"
+

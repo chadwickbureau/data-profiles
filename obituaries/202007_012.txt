@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_012"
+
+[[person.meta.citation]]
+title = "Wages & Sons Funeral Homes"
+date = "2020-07-01"
+url = "https://www.wagesandsons.com/obits/paul-adrian-devine/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-01"
+
+[person.name]
+last = "Devine"
+use = "Paul"
+given = "Paul Adrian"
+
+[person.birth]
+date = "1951-12-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Galveston"
+
+[person.death]
+date = "2020-06-27"
+
+[[person.education]]
+school.name = "Ball HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Galveston"
+
+

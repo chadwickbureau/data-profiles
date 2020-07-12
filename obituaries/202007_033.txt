@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_033"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2020-07-08"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=edward-fitzgerald&pid=196462327"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "FitzGerald"
+use = "Ed"
+given = "Edward Raymond"
+
+[person.birth]
+date = "1924-05-21"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Ynez"
+
+[person.death]
+date = "2020-06-14"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Citrus Heights"
+
+[[person.education]]
+school.name = "Santa Ynez HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Santa Ynez"
+
+[[person.education]]
+school.name = "Saint Mary's College of California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

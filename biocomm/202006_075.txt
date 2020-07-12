@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_075"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Young"
+use = "Joseph"
+given = "Joseph B."
+
+[person.burial]
+cemetery.name = "St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Mount Carmel"
+
+[person.description]
+mlb_played = "1892/"
+

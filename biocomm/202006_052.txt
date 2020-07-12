@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_052"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Mullin"
+use = "Patrick"
+given = "Patrick Joseph"
+
+[person.burial]
+cemetery.name = "Lafayette Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Brier Hill"
+
+[person.description]
+mlb_played = "1940/"
+

@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_016"
+
+[[person.meta.citation]]
+title = "Wilmington Funeral Home"
+date = "2020-07-02"
+url = "https://www.wilmingtoncares.com/obituary/george-william-barley/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-02"
+
+[person.name]
+last = "Barley"
+use = "George"
+given = "George W."
+
+[person.birth]
+date = "1914-11-30"
+
+[person.death]
+date = "2011-02-28"
+place.country = "US"
+place.state = "NC"
+place.city = "Wilmington"
+

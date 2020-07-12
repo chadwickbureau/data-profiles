@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_027"
+
+[[person.meta.citation]]
+title = "James A. Reed Funeral Home"
+date = "2020-07-06"
+url = "https://www.reedfh.com/obituaries/Jack-Hepler/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Hepler"
+use = "Jack"
+given = "Jack A."
+
+[person.birth]
+date = "1931-02-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Gratz"
+
+[person.death]
+date = "2020-07-03"
+place.country = "US"
+place.state = "PA"
+place.city = "Harrisburg"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "DePhillips"
+use = "Anthony"
+given = "Anthony Andrew"
+
+[person.burial]
+cemetery.name = "Mount St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Flushing"
+
+[person.description]
+mlb_played = "1943/"
+

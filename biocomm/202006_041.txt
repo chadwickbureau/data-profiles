@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_041"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Lindemann"
+use = "John"
+given = "John Frederick Mann"
+
+[person.burial]
+cemetery.name = "Wildwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Williamsport"
+
+[person.description]
+mlb_played = "1901/"
+

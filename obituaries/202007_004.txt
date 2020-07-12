@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_004"
+
+[[person.meta.citation]]
+title = "Pontarelli-Marino Funeral Home"
+date = "2020-06-29"
+url = "https://www.dignitymemorial.com/obituaries/providence-ri/richard-fossa-9219752"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Fossa"
+use = "Richard"
+given = "Richard David"
+
+[person.birth]
+date = "1959-02-02"
+
+[person.death]
+date = "2020-06-13"
+

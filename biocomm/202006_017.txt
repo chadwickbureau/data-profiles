@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_017"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Doyle"
+use = "Paul"
+given = "Paul Sinnott"
+
+[person.death]
+date = "2020-05-06"
+place.country = "US"
+place.state = "CA"
+place.city = "Huntington Beach"
+
+[person.burial]
+note = "Cremated, ashes scattered in Pacific Ocean"
+
+[person.description]
+mlb_played = "1969/"
+

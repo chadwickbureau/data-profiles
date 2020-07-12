@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_039"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "2001-03-16"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Harrison"
+use = "Bob"
+given = "Robert Edward"
+
+[person.death]
+date = "2001-03-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Monica"
+

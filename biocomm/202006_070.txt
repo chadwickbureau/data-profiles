@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_070"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Umbach"
+use = "Arnold"
+given = "Arnold William"
+
+[person.death]
+date = "2020-05-30"
+place.country = "US"
+place.state = "AL"
+place.city = "Auburn"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Auburn"
+
+[person.description]
+mlb_played = "1964/"
+

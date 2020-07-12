@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_043"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Locke"
+use = "Lawrence"
+given = "Lawrence Donald"
+
+[person.death]
+date = "2020-06-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Dunbar"
+
+[person.burial]
+cemetery.name = "Sylvan Heights Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Uniontown"
+
+[person.description]
+mlb_played = "1959/"
+

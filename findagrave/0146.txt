@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0146"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-07"
+url = "https://www.findagrave.com/memorial/25143759"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "Redmond"
+use = "Henry"
+given = "Henry Dorman"
+
+[person.birth]
+date = "1918-04-06"
+place.country = "US"
+place.state = "NY"
+place.city = "Rochester"
+
+[person.death]
+date = "1968-12-19"
+place.country = "US"
+place.state = "NY"
+place.city = "Scottsville"
+
+[person.burial]
+cemetery.name = "Grove Place Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Chili Center"
+
+[person.sameas]
+findagrave = "25143759"
+

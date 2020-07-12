@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_009"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Christensen"
+use = "Walter"
+given = "Walter Neils"
+
+[person.burial]
+cemetery.name = "Alta Mesa Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Palo Alto"
+
+[person.description]
+mlb_played = "1926/"
+

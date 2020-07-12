@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_006"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Brown"
+use = "Oscar"
+given = "Oscar Lee"
+
+[person.death]
+date = "2020-06-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Carson"
+
+[person.description]
+mlb_played = "1969/"
+

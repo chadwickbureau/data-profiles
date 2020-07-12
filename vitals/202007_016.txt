@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_016"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Morehouse"
+use = "Frank"
+given = "Frank Lorenzo"
+
+[person.birth]
+date = "1912-06-12"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+

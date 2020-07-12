@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_020"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Geer"
+use = "William"
+given = "William H."
+
+[person.birth]
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "1928-09-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.burial]
+note = "Body donated to Worsham Mortuary School"
+
+[person.description]
+height = "66"
+mlb_played = "1874/"
+

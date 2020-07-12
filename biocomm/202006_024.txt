@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_024"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Hauger"
+use = "John"
+given = "John Arthur"
+
+[person.burial]
+cemetery.name = "Oakmont Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Waynesburg"
+
+[person.description]
+mlb_played = "1912/"
+

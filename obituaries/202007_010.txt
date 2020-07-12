@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_010"
+
+[[person.meta.citation]]
+title = "Fort Wayne Newspapers"
+date = "2016-09-29"
+url = "https://www.legacy.com/obituaries/fortwayne/obituary.aspx?n=WILLIAM-E-REPLOGLE&pid=181654560"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-30"
+
+[person.name]
+last = "Replogle"
+use = "Bill"
+given = "William E."
+
+[person.birth]
+place.country = "US"
+place.state = "IN"
+place.city = "LaPorte"
+
+[person.death]
+date = "2016-09-26"
+

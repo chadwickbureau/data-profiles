@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_005"
+
+[[person.meta.citation]]
+title = "Church & Chapel Funeral Home"
+date = "2020-06-29"
+url = "https://www.churchandchapel.com/obituaries/Roland-Rollie-Lee-Sterns?obId=15162722#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Sterns"
+use = "Rollie"
+given = "Roland Lee"
+
+[person.birth]
+date = "1933-07-21"
+
+[person.death]
+date = "2020-06-22"
+
+[person.burial]
+cemetery.name = "Holy Sepulcher Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Cudahy"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

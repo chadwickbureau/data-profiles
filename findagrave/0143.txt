@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0143"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-28"
+url = "https://www.findagrave.com/memorial/185610916"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Woods"
+use = "Samuel"
+given = "Samuel N."
+suffix = "Jr."
+
+[person.birth]
+date = "1922"
+
+[person.death]
+date = "2003"
+
+[person.burial]
+cemetery.name = "West Laurel Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Bala Cynwyd"
+
+[person.sameas]
+findagrave = "185610916"
+

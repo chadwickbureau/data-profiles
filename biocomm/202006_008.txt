@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_008"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Carroll"
+use = "Frederick"
+given = "Frederick Herbert"
+
+[person.burial]
+note = "Cremated"
+
+[person.description]
+mlb_played = "1884/"
+

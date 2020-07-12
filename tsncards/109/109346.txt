@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:109346"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/109346"
+title = "The Sporting News Player Contract Cards, ScanID: 1044005191"
+
+[person.name]
+last = "Thompson"
+given = "Robert C."
+
+[person.description]
+ancestry = "Belgium"
+position = "OF"
+bats = "L"
+throws = "L"
+height = "70"
+weight = "180"
+
+[person.birth]
+date = "1935-11-29"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "969 E. 61st Street"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1954-07-04"
+type = "signed"
+join.name = "Dubuque"
+note = "Dubuque 1954-07-04"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Dubuque"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-25"
+type = "released"
+leave.name = "Dubuque"
+note = "rel 1955-04-25"
+

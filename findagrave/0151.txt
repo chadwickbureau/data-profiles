@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0151"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-08"
+url = "https://www.findagrave.com/memorial/148361555"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Gay"
+use = "Frederick"
+given = "Frederick Leonard"
+
+[person.birth]
+date = "1914-01-14"
+place.country = "US"
+place.state = "GA"
+place.city = "Savannah"
+
+[person.death]
+date = "1989-08-23"
+place.country = "US"
+place.state = "TX"
+place.city = "Plano"
+
+[person.burial]
+cemetery.name = "Plano Mutual Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Plano"
+
+[person.sameas]
+findagrave = "148361555"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

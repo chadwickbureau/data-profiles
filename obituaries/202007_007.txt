@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_007"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2020-06-29"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Neff"
+use = "Benjamin"
+given = "Benjamin G."
+
+[person.death]
+date = "1994-09-27"
+place.country = "US"
+place.state = "FL"
+place.city = "New Port Richey"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

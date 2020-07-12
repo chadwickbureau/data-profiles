@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_031"
+
+[[person.meta.citation]]
+title = "Lockport Union-Sun & Journal"
+date = "1946-05-09"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "Cazen"
+use = "Walter"
+given = "Walter"
+
+[person.death]
+date = "1946-05-07"
+place.country = "US"
+place.state = "NY"
+place.city = "Lockport"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Lewiston"
+
+[[person.alias]]
+name.last = "Kaczynski"
+name.use = "Walter"
+name.given = "Walter"
+type = "birth"
+
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_022"
+
+[[person.meta.citation]]
+title = "Colonial Funeral Home"
+date = "2020-07-06"
+url = "https://www.colonial-funeralhome.com/obituary/David-Lowenthal"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Lowenthal"
+use = "David"
+given = "David H."
+
+[person.birth]
+date = "1935-01-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2020-06-27"
+place.country = "US"
+place.state = "NV"
+place.city = "Reno"
+
+[person.burial]
+cemetery.name = "Mountain View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Pocatello"
+
+[[person.education]]
+school.name = "North Hollywood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "North Hollywood"
+
+

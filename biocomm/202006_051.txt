@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_051"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Mills"
+use = "Frank"
+given = "Frank LeMoyne"
+
+[person.burial]
+cemetery.name = "Forest Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Boardman"
+
+[person.description]
+mlb_played = "1914/"
+

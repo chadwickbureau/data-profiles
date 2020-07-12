@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_024"
+
+[[person.meta.citation]]
+title = "Greenwood Funeral Homes"
+date = "2020-07-06"
+url = "https://www.greenwoodfuneralhomes.com/obituaries/Ronald-Paul-7/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Paul"
+use = "Ronnie"
+given = "Ronald Eugene"
+
+[person.birth]
+date = "1945-06-10"
+
+[person.death]
+date = "2020-06-29"
+
+[[person.education]]
+school.name = "Paschal HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Fort Worth"
+
+[[person.education]]
+school.name = "Texas Christian University"
+school.type = "college"
+
+

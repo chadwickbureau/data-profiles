@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_018"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Wolin"
+use = "Donald"
+given = "Donald"
+
+[person.birth]
+date = "1920-04-02"
+
+[person.death]
+date = "1963-03"
+
+[person.sameas]
+ssn = "548-12-0240"
+

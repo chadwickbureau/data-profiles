@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_020"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2020-07-04"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=robert-c-thompson&pid=196442337"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-04"
+
+[person.name]
+last = "Thompson"
+use = "Bob"
+given = "Robert C."
+
+[person.death]
+date = "2020-06-29"
+

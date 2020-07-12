@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_035"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2020-07-08"
+url = "http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Benjamin-Craig&lc=5067&pid=180967657&mid=7037389"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Craig"
+use = "Benjamin"
+given = "Benjamin Day"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-05-05"
+place.country = "US"
+place.state = "OK"
+place.city = "Hockerville"
+
+[person.death]
+date = "2016-08-05"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

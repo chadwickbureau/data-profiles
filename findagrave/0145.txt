@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0145"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-06"
+url = "https://www.findagrave.com/memorial/22131263"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "McLaughlin"
+use = "William"
+given = "William Edward"
+
+[person.birth]
+date = "1916-10-19"
+place.country = "US"
+place.state = "PA"
+place.city = "St. Marys"
+
+[person.death]
+date = "1955-03-09"
+place.country = "QS"
+
+[person.burial]
+cemetery.name = "Arlington National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Arlington"
+
+[person.sameas]
+findagrave = "22131263"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

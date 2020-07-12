@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0142"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-06-28"
+url = "https://www.findagrave.com/memorial/154192159"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Neff"
+use = "Ben"
+given = "Ben"
+
+[person.birth]
+date = "1911"
+
+[person.death]
+date = "1994"
+
+[person.burial]
+cemetery.name = "Mechanicsville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Buckingham"
+
+[person.sameas]
+findagrave = "154192159"
+

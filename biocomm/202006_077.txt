@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_077"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Zimmerman"
+use = "Roy"
+given = "Roy Franklin"
+
+[person.burial]
+cemetery.name = "St. Peter Church of Christ Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Tremont"
+
+[person.description]
+mlb_played = "1945/"
+

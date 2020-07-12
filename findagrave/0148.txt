@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0148"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-07"
+url = "https://www.findagrave.com/memorial/82595911"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "Seinsoth"
+use = "William"
+given = "William Welty"
+
+[person.birth]
+date = "1918-02-05"
+place.country = "US"
+place.state = "UT"
+
+[person.death]
+date = "1984-02-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.burial]
+cemetery.name = "Rose Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Whittier"
+
+[person.sameas]
+findagrave = "82595911"
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_002"
+
+[[person.meta.citation]]
+title = "Ferguson Funeral Home"
+date = "2020-06-29"
+url = "https://www.fergusonfhc.com/obituaries/Jack-Sutherland-3/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Sutherland"
+use = "Jack"
+given = "Jack C."
+
+[person.birth]
+date = "1926-01-29"
+place.country = "US"
+place.state = "PA"
+place.city = "Speers"
+
+[person.death]
+date = "2020-06-22"
+
+[person.burial]
+cemetery.name = "Belle Vernon Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Belle Vernon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

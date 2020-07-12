@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Donahue"
+use = "John"
+given = "John Augustine"
+
+[person.description]
+mlb_played = "1900/"
+

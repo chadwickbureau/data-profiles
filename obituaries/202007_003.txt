@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_003"
+
+[[person.meta.citation]]
+title = "Valley Breeze"
+date = "2020-06-23"
+url = "https://www.valleybreeze.com/2020-06-23/north-providence/fossa-was-upstanding-individual#.XvnzTihKiUk"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Fossa"
+use = "Dick"
+given = "Dick"
+
+[person.death]
+date = "2020-06-13"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+

@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_016"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Dorsey"
+use = "James"
+given = "James Edward"
+
+[person.description]
+height = "74"
+mlb_played = "1980/"
+

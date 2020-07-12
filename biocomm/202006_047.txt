@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_047"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "McCormick"
+use = "Michael"
+given = "Michael Francis"
+
+[person.death]
+date = "2020-06-13"
+place.country = "US"
+place.state = "NC"
+place.city = "Cornelius"
+
+[person.description]
+mlb_played = "1956/"
+

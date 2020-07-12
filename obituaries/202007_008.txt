@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_008"
+
+[[person.meta.citation]]
+title = "Parker Mortuary"
+date = "2020-06-30"
+url = "https://www.parkermortuary.com/obituary/terry-wilson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-30"
+
+[person.name]
+last = "Wilson"
+use = "Terry"
+given = "Terry Norman"
+
+[person.birth]
+date = "1935-03-05"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[person.death]
+date = "2020-06-24"
+place.country = "US"
+place.state = "MO"
+place.city = "Joplin"
+
+[person.burial]
+cemetery.name = "Mount Hope Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Webb City"
+

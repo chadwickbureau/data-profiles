@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_073"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Watson"
+use = "Robert"
+given = "Robert Jose"
+
+[person.death]
+date = "2020-05-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+mlb_played = "1966/"
+

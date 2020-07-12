@@ -1,0 +1,98 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:163961"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/163961"
+title = "The Sporting News Player Contract Cards, ScanID: 1048003865"
+
+[person.name]
+last = "Wilson"
+given = "Terry"
+nick = "Bear"
+
+[person.description]
+ancestry = "Irish"
+position = "OF"
+bats = "L"
+throws = "R"
+height = "72"
+weight = "185"
+
+[person.birth]
+date = "1935-03-05"
+place.country = "US"
+place.state = "KS"
+place.city = "Wichita"
+
+[[person.resides]]
+place.address = "3103 South Main Street"
+place.country = "US"
+place.state = "MO"
+place.city = "Joplin"
+
+
+[[person.transaction]]
+date = "1954-06-04"
+type = "signed"
+join.name = "Schenectady"
+note = "Schenectady 1954-06-04"
+
+[[person.transaction]]
+date = "1954-06-12"
+type = "optioned"
+leave.name = "Schenectady"
+join.name = "Mattoon"
+note = "opt to Mattoon 1954-06-12"
+
+[[person.transaction]]
+date = "1954-07-02"
+type = "temporarily-inactive"
+leave.name = "Mattoon"
+note = "temp inactive list 1954-07-02"
+
+[[person.transaction]]
+date = "1954-07-20"
+type = "reinstated"
+join.name = "Mattoon"
+note = "reins 1954-07-20"
+
+[[person.transaction]]
+date = "1954-09-08"
+type = "released"
+leave.name = "Mattoon"
+join.name = "Mattoon"
+note = "rel to Mattoon 1954-09-08"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Mattoon"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1955-04-27"
+type = "released"
+leave.name = "Mattoon"
+join.name = "Pulaski"
+note = "rel to Pulaski 1955-04-27"
+
+[[person.transaction]]
+date = "1955-05-30"
+type = "released"
+leave.name = "Pulaski"
+note = "rel 1955-05-30"
+
+[[person.transaction]]
+date = "1955-05-30"
+type = "signed"
+join.name = "Wytheville"
+note = "Wytheville 1955-05-30"
+
+[[person.transaction]]
+date = "1955-09-26"
+type = "released"
+leave.name = "Wytheville"
+note = "rel 1955-09-26"
+

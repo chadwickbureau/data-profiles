@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:103832"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/103832"
+title = "The Sporting News Player Contract Cards, ScanID: 1021001604"
+
+[person.name]
+last = "Holmes"
+given = "George Irvin"
+
+
+[[person.transaction]]
+date = "1952-04-05"
+type = "signed"
+join.name = "Pulaski"
+note = "Pulaski 1952-04-05"
+
+[[person.transaction]]
+date = "1952-04-21"
+type = "released"
+leave.name = "Pulaski"
+note = "rel 1952-04-21"
+

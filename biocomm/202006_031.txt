@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_031"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Jorgens"
+use = "Arndt"
+given = "Arndt Ludwig"
+
+[person.description]
+mlb_played = "1929/"
+
+[[person.alias]]
+name.last = "Jorgensen"
+name.use = "Arndt"
+name.given = "Arndt Ludwig"
+type = "legal"
+
+

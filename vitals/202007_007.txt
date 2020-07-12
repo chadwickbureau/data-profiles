@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_007"
+
+[[person.meta.citation]]
+title = "Florida Death Index, 1877-1998"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Harig"
+use = "Charles"
+given = "Charles Nicholas"
+
+[person.birth]
+date = "1914-03-07"
+
+[person.death]
+date = "1984-09-28"
+place.country = "US"
+place.state = "FL"
+place.city = "Marion County"
+

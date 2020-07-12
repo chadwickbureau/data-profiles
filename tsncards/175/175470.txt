@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:175470"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/175470"
+title = "The Sporting News Player Contract Cards, ScanID: 1032000867"
+
+[person.name]
+last = "Mullenbach"
+given = "John L."
+
+
+[[person.transaction]]
+date = "1940-01"
+type = "signed"
+join.name = "Olean"
+note = "Olean 1940-01"
+
+[[person.transaction]]
+date = "1940-02"
+type = "released"
+leave.name = "Olean"
+join.name = "Superior"
+note = "rel to Superior 1940-02"
+
+[[person.transaction]]
+date = "1940-07"
+type = "released"
+leave.name = "Superior"
+note = "rel 1940-07"
+
+[[person.transaction]]
+date = "1941"
+type = "signed"
+join.name = "Milwaukee"
+note = "Milwaukee 1941"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Milwaukee"
+join.name = "Green Bay"
+note = "rel to Green Bay 1941-06"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1941-06"
+

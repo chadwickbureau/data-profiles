@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_006"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "George"
+use = "James"
+given = "James Lloyd"
+
+[person.birth]
+date = "1918-07-18"
+
+[person.death]
+date = "2003-12-26"
+
+[person.sameas]
+ssn = "4848-07-8649"
+

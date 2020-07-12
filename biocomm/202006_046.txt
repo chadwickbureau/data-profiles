@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_046"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Masters"
+use = "Walter"
+given = "Walter Thomas"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Pen Argyl"
+
+[person.description]
+mlb_played = "1931/"
+

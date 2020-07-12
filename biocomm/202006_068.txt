@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_068"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Shanks"
+use = "Howard"
+given = "Howard Samuel"
+
+[person.burial]
+cemetery.name = "Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Monaca"
+
+[person.description]
+bats = "R"
+mlb_played = "1912/"
+

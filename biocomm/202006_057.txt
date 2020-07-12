@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_057"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Peters"
+use = "Raymond"
+given = "Raymond James"
+
+[person.burial]
+cemetery.name = "Sacred Heart of Jesus Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Hot Springs Village"
+
+[person.description]
+mlb_played = "1970/"
+

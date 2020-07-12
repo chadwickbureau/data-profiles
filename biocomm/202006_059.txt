@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_059"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Retzer"
+use = "Kenneth"
+given = "Kenneth Leo"
+
+[person.death]
+date = "2020-05-17"
+place.country = "US"
+place.state = "AZ"
+place.city = "Sun City"
+
+[person.description]
+mlb_played = "1961/"
+

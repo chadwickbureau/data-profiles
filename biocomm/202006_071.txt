@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_071"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Walker"
+use = "Cleotha"
+given = "Cleotha"
+
+[person.birth]
+date = "1957-11-25"
+
+[person.description]
+mlb_played = "1980/"
+

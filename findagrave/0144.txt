@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0144"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-02"
+url = "https://www.findagrave.com/memorial/188538640"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-02"
+
+[person.name]
+last = "Bergmann"
+use = "Russell"
+given = "Russell"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Madison"
+
+[person.death]
+date = "1993-01-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Lincolnton"
+
+[person.burial]
+cemetery.name = "Gaston Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Gastonia"
+
+[person.sameas]
+findagrave = "188538640"
+

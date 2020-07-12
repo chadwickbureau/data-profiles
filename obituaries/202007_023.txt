@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_023"
+
+[[person.meta.citation]]
+title = "Harry & Bryant Company"
+date = "2020-07-06"
+url = "https://www.dignitymemorial.com/obituaries/charlotte-nc/rocco-miralia-9244892"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Miralia"
+use = "Rock"
+given = "Rocco Joseph"
+
+[person.birth]
+date = "1932-02-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2020-06-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Charlotte"
+
+[[person.alias]]
+name.last = "Miraglia"
+name.use = "Rock"
+name.given = "Rocco Joseph"
+type = "birth"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0155"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-09"
+url = "https://www.findagrave.com/memorial/167575809"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-09"
+
+[person.name]
+last = "Allman"
+use = "Jack"
+given = "John Clarence"
+
+[person.birth]
+date = "1923-07-27"
+place.country = "US"
+place.state = "WY"
+place.city = "Midwest"
+
+[person.death]
+date = "2016-07-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside"
+
+[person.burial]
+cemetery.name = "Riverside National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Riverside"
+
+[person.sameas]
+findagrave = "167575809"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

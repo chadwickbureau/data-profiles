@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_011"
+
+[[person.meta.citation]]
+title = "Courier Express"
+date = "2016-09-27"
+url = "https://www.legacy.com/obituaries/thecourierexpress/obituary.aspx?n=Thomas-Alan-Korthaus&pid=181623864"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-30"
+
+[person.name]
+last = "Korthaus"
+use = "Tom"
+given = "Thomas Alan"
+
+[person.birth]
+date = "1933-08-26"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2016-09-25"
+place.country = "US"
+place.state = "PA"
+place.city = "DuBois"
+
+[person.burial]
+cemetery.name = "St. Catherine Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "DuBois"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

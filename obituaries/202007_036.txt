@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_036"
+
+[[person.meta.citation]]
+title = "Pflanz Mantey Mendrala Funeral Home"
+date = "2020-07-08"
+url = "http://www.pmmfh.com/obits2016/aaobitMullenbachJohn.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Mullenbach"
+use = "John"
+given = "John L."
+
+[person.birth]
+date = "1920-01-24"
+place.country = "US"
+place.state = "WI"
+place.city = "Portage"
+
+[person.death]
+date = "2016-07-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Wyocena"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Portage"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

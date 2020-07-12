@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_017"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Morehouse"
+use = "Frank"
+given = "Frank L."
+
+[person.birth]
+date = "1912-06-12"
+place.country = "US"
+place.state = "MI"
+
+[person.death]
+date = "1981-03-08"
+place.country = "US"
+place.state = "CA"
+place.city = "San Diego"
+
+[person.sameas]
+ssn = "564-03-2858"
+

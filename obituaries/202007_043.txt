@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_043"
+
+[[person.meta.citation]]
+title = "Press-Enterprise"
+date = "2016-07-27"
+url = "https://www.legacy.com/obituaries/pe/obituary.aspx?n=john-clarence-allman-jack&pid=180801089&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-09"
+
+[person.name]
+last = "Allman"
+use = "Jack"
+given = "John Clarence"
+
+[person.birth]
+place.country = "US"
+place.state = "WY"
+
+[person.death]
+date = "2016-07-25"
+place.country = "US"
+place.state = "CA"
+place.city = "Riverside"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

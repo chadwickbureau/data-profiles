@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_018"
+
+[[person.meta.citation]]
+title = "Morristown (NJ) Daily Record"
+date = "1993-02-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-02"
+
+[person.name]
+last = "Bergmann"
+use = "Russell"
+given = "Russell"
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Madison"
+
+[person.death]
+date = "1993-01-31"
+place.country = "US"
+place.state = "NC"
+place.city = "Lincolnton"
+
+[[person.education]]
+school.name = "Madison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Madison"
+
+[[person.education]]
+school.name = "Duke University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

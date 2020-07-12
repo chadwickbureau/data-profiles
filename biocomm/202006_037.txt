@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_037"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Kremer"
+use = "Remy"
+given = "Remy Peter"
+
+[person.birth]
+date = "1895-03-23"
+
+[person.description]
+mlb_played = "1924/"
+

@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_026"
+
+[[person.meta.citation]]
+title = "tributearchive.com"
+date = "2020-07-06"
+url = "https://www.tributearchive.com/obituaries/15019454/Francis-Edward-Sliwka-Jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Sliwka"
+use = "Francis"
+given = "Francis Edward"
+suffix = "Jr."
+
+[person.birth]
+date = "1933-03-23"
+
+[person.death]
+date = "2020-06-11"
+
+[person.burial]
+cemetery.name = "Holy Rosary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Baltimore"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_007"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Cargo"
+use = "Robert"
+given = "Robert J."
+
+[person.birth]
+date = "1868-10-01"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.description]
+mlb_played = "1892/"
+

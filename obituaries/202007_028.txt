@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_028"
+
+[[person.meta.citation]]
+title = "Butler Eagle"
+date = "2020-07-04"
+url = "https://www.legacy.com/obituaries/butlereagle/obituary.aspx?n=leo-parisi-bucky&pid=196445241&fhid=9722"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-06"
+
+[person.name]
+last = "Parisi"
+use = "Bucky"
+given = "Leo"
+
+[person.birth]
+date = "1939-02-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Ridgway"
+
+[person.death]
+date = "2020-07-01"
+place.country = "US"
+place.state = "PA"
+place.city = "Butler"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

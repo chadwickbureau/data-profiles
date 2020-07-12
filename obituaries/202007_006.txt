@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_006"
+
+[[person.meta.citation]]
+title = "Miami News-Record"
+date = "1943-01-07"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-29"
+
+[person.name]
+last = "Benn"
+use = "Don"
+given = "Don"
+
+[person.death]
+date = "1943-01-06"
+place.country = "US"
+place.state = "OK"
+place.city = "Tulsa"
+
+[[person.alias]]
+name.last = "Benintendi"
+name.use = "Don"
+name.given = "Don"
+type = "birth"
+
+

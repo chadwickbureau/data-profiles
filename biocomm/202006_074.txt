@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_074"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Winchell"
+use = "Frederick"
+given = "Frederick Russell"
+
+[person.burial]
+cemetery.name = "Mount Auburn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Cambridge"
+
+[person.description]
+mlb_played = "1909/"
+

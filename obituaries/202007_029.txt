@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_029"
+
+[[person.meta.citation]]
+title = "Star-Telegram"
+date = "2016-08-13"
+url = "https://www.legacy.com/obituaries/dfw/obituary.aspx?n=james-miller-bud&pid=181060181&fhid=2985"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-07"
+
+[person.name]
+last = "Miller"
+use = "Bud"
+given = "James"
+
+[person.birth]
+date = "1932-10-04"
+place.country = "US"
+place.state = "TX"
+place.city = "Joshua"
+
+[person.death]
+date = "2016-08-11"
+place.country = "US"
+place.state = "TX"
+place.city = "Joshua"
+
+[[person.education]]
+school.name = "Joshua HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Joshua"
+
+[[person.education]]
+school.name = "Cisco College"
+school.type = "college"
+
+

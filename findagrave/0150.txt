@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0150"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-08"
+url = "https://www.findagrave.com/memorial/181365348"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Harig"
+use = "Chuck"
+given = "Charles N."
+
+[person.birth]
+date = "1914-03-07"
+place.country = "US"
+
+[person.death]
+date = "1984-09-28"
+place.country = "US"
+
+[person.burial]
+cemetery.name = "Beverly Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WV"
+cemetery.place.city = "Morgantown"
+
+[person.sameas]
+findagrave = "181365348"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

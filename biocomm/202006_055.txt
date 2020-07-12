@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_055"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Oster"
+use = "William"
+given = "William Charles"
+
+[person.death]
+date = "2020-06-06"
+place.country = "US"
+place.state = "NY"
+place.city = "Centerport"
+
+[person.burial]
+note = "Cremated"
+
+[person.description]
+mlb_played = "1954/"
+

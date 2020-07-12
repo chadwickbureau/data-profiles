@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_035"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Keough"
+use = "Matthew"
+given = "Matthew Lon"
+
+[person.death]
+date = "2020-05-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Trabuca Canyon"
+
+[person.description]
+mlb_played = "1977/"
+

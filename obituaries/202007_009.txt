@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_009"
+
+[[person.meta.citation]]
+title = "Courier-Journal"
+date = "2016-10-05"
+url = "https://www.legacy.com/obituaries/louisville/obituary.aspx?n=Vincent-Dan-Ochs&pid=181730320"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-06-30"
+
+[person.name]
+last = "Ochs"
+use = "Dan"
+given = "Vincent Dan"
+
+[person.birth]
+date = "1940-07-28"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Charles"
+
+[person.death]
+date = "2016-10-01"
+

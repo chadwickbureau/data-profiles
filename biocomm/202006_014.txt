@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_014"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Devine"
+use = "Paul"
+given = "Paul Adrian"
+
+[person.death]
+date = "2020-06-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Dacula"
+
+[person.description]
+mlb_played = "1973/"
+

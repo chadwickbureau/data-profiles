@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_060"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Ritterson"
+use = "Edward"
+given = "Edward West"
+
+[person.burial]
+cemetery.name = "St. Stephens UCC Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Perkasie"
+
+[person.description]
+mlb_played = "1876/"
+

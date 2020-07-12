@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_037"
+
+[[person.meta.citation]]
+title = "Howe-Peterson Funeral Home"
+date = "2020-07-08"
+url = "https://www.howepeterson.com/obituary/michael-yuskowatz"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-08"
+
+[person.name]
+last = "Yuskowatz"
+use = "Mike"
+given = "Mike S."
+
+[person.birth]
+date = "1927-02-12"
+
+[person.death]
+date = "2020-07-03"
+
+[[person.education]]
+school.name = "Fordson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Dearborn"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

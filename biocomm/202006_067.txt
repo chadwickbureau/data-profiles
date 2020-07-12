@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_067"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Schettler"
+use = "Louis"
+given = "Louis Martin"
+
+[person.burial]
+cemetery.name = "Forest Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Boardman"
+
+[person.description]
+mlb_played = "1910/"
+

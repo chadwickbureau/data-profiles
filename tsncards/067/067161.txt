@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:67161"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/67161"
+title = "The Sporting News Player Contract Cards, ScanID: 1019006221"
+
+[person.name]
+last = "Heckenberg"
+given = "Albert Bernard"
+
+
+[[person.transaction]]
+date = "1947-03-03"
+type = "signed"
+join.name = "Burlington (IA)"
+note = "Burlington (IA) 1947-03-03"
+
+[[person.transaction]]
+date = "1947-04-20"
+type = "released"
+leave.name = "Burlington (IA)"
+note = "rel 1947-04-20"
+
+[[person.transaction]]
+date = "1947-05-16"
+type = "signed"
+join.name = "Marion (IL)"
+note = "Marion (IL) 1947-05-16"
+
+[[person.transaction]]
+date = "1947-06-11"
+type = "released"
+leave.name = "Marion (IL)"
+note = "rel 1947-06-11"
+
+[[person.transaction]]
+date = "1948-04-15"
+type = "signed"
+join.name = "Keokuk"
+note = "Keokuk 1948-04-15"
+
+[[person.transaction]]
+date = "1948-06-01"
+type = "released"
+leave.name = "Keokuk"
+note = "rel 1948-06-01"
+
+[[person.transaction]]
+date = "1948-06-10"
+type = "signed"
+join.name = "Pauls Valley"
+note = "Pauls Valley 1948-06-10"
+
+[[person.transaction]]
+date = "1948-06-30"
+type = "released"
+leave.name = "Pauls Valley"
+note = "rel 1948-06-30"
+

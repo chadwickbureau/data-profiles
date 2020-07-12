@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202006_004"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-04"
+
+[person.name]
+last = "Beck"
+use = "Ervin"
+given = "Ervin F."
+
+[person.burial]
+cemetery.name = "Mount Carmel Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Toledo"
+
+[person.description]
+mlb_played = "1899/"
+
