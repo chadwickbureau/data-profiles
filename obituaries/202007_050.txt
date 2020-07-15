@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_050"
+
+[[person.meta.citation]]
+title = "Carr Funeral Home"
+date = "2020-07-13"
+url = "https://www.carrfuneralhome.com/obituary/John-DoldoorianSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Doldoorian"
+use = "John"
+given = "John K."
+
+[person.birth]
+date = "1930-04-26"
+place.country = "US"
+place.state = "MA"
+place.city = "Whitinsville"
+
+[person.death]
+date = "2020-07-10"
+
+[person.burial]
+cemetery.name = "Pine Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Whitinsville"
+
+[[person.education]]
+school.name = "Northbridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Northbridge"
+
+[[person.education]]
+school.name = "Marianapolis Preparatory School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Thompson"
+
+[[person.education]]
+school.name = "American International College"
+school.type = "college"
+
+

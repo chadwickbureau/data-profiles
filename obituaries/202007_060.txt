@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_060"
+
+[[person.meta.citation]]
+title = "Pottsville Republican Herald"
+date = "2020-07-10"
+url = "https://www.legacy.com/obituaries/schuylkill/obituary.aspx?n=reynolds-e-jenkins-ren&pid=196472061&fhid=10252"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-14"
+
+[person.name]
+last = "Jenkins"
+use = "Ren"
+given = "Reynolds E."
+
+[person.birth]
+date = "1939-05-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Wadesville"
+
+[person.death]
+date = "2020-07-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Orwigsburg"
+
+[person.burial]
+cemetery.name = "St. Ambrose Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Schuylkill Haven"
+
+[[person.education]]
+school.name = "St. Clair HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "St. Clair"
+
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_053"
+
+[[person.meta.citation]]
+title = "Conroy Funeral Home"
+date = "2020-07-13"
+url = "https://www.conroyfh.com/viewobit.php?ID=2761"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Robinson"
+use = "Robbie"
+given = "Robert S."
+
+[person.birth]
+date = "1929-04-08"
+place.country = "US"
+place.state = "KY"
+place.city = "Berea"
+
+[person.death]
+date = "2020-07-01"
+place.country = "US"
+place.state = "OH"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Louisville Male HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+[[person.education]]
+school.name = "College of William and Mary"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

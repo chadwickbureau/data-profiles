@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_048"
+
+[[person.meta.citation]]
+title = "Wappner Funeral Home"
+date = "2020-07-13"
+url = "https://www.wappner.com/obituary/robert-l-mencini/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Mencini"
+use = "Bob"
+given = "Robert L."
+
+[person.birth]
+date = "1932-07-15"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.death]
+date = "2020-07-10"
+
+[[person.education]]
+school.name = "Holy Name HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Cleveland"
+
+

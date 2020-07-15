@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_051"
+
+[[person.meta.citation]]
+title = "DelHomme Funeral Home"
+date = "2020-07-13"
+url = "https://www.delhommefuneralhome.com/obituaries/John-Fetzer/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Fetzer"
+use = "John"
+given = "John William"
+
+[person.birth]
+date = "1926-02-07"
+
+[person.death]
+date = "2020-07-02"
+
+[person.burial]
+cemetery.name = "Lafayette Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Lafayette"
+
+[[person.education]]
+school.name = "Byrd HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Shreveport"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

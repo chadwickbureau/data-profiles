@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_054"
+
+[[person.meta.citation]]
+title = "Woodfin Funeral Chapel"
+date = "2020-07-13"
+url = "https://www.woodfinchapel.com/obituary/charles-byrd"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Byrd"
+use = "Charles"
+given = "Charles Thomas"
+
+[person.birth]
+date = "1943-11-15"
+
+[person.death]
+date = "2020-07-07"
+

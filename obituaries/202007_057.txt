@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_057"
+
+[[person.meta.citation]]
+title = "Appeal Democrat"
+date = "2020-07-14"
+url = "https://www.legacy.com/obituaries/appealdemocrat/obituary.aspx?n=raymond-george-webster&pid=196487460"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-14"
+
+[person.name]
+last = "Webster"
+use = "Ray"
+given = "Raymond George"
+
+[person.birth]
+date = "1937-11-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Grass Valley"
+
+[person.death]
+date = "2020-06-03"
+
+[[person.education]]
+school.name = "Marysville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Marysville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

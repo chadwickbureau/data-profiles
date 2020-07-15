@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_046"
+
+[[person.meta.citation]]
+title = "Schrader Funeral Home"
+date = "2020-07-13"
+url = "https://www.schrader.com/obituary/edward-wheatley"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Wheatley"
+use = "Ed"
+given = "Edward R."
+
+[person.birth]
+date = "1933-01-20"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "2020-07-08"
+
+[[person.education]]
+school.name = "Beaumont HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "St. Louis"
+
+

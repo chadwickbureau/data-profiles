@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_049"
+
+[[person.meta.citation]]
+title = "Press Democrat"
+date = "2020-07-12"
+url = "https://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=james-francis-cuneo&pid=196475322&fhid=8299"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Cuneo"
+use = "Jim"
+given = "James Francis"
+
+[person.birth]
+date = "1932-07-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Santa Rosa"
+
+[person.death]
+date = "2020-06-27"
+
+[[person.education]]
+school.name = "Santa Rosa Junior College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

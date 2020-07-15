@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_059"
+
+[[person.meta.citation]]
+title = "Hillside Memorial Chapel & Gardens"
+date = "2020-07-14"
+url = "https://www.hillsidememorialchapel.com/obituary/Mack-Couch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-14"
+
+[person.name]
+last = "Couch"
+use = "Mack"
+given = "Mack"
+
+[person.birth]
+date = "1927-06-04"
+
+[person.death]
+date = "2016-10-20"
+
+[[person.education]]
+school.name = "Tech HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

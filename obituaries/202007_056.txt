@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_056"
+
+[[person.meta.citation]]
+title = "Lakeshore Funeral Home"
+date = "2020-07-13"
+url = "https://www.lakeshorefuneralhome.com/clifford-a-cotton-lindloff/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Lindloff"
+use = "Clifford"
+given = "Clifford Andrew"
+nick = "Cotton"
+
+[person.birth]
+date = "1927-05-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Waco"
+
+[person.death]
+date = "2020-07-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Waco"
+
+[[person.education]]
+school.name = "Waco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Waco"
+
+[[person.education]]
+school.name = "Texas A&M University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

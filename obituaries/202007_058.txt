@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_058"
+
+[[person.meta.citation]]
+title = "Gilman & Valade Funeral Home"
+date = "2020-07-14"
+url = "https://www.gilmanandvalade.com/charles-e-archambault/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-14"
+
+[person.name]
+last = "Archambault"
+use = "Charles"
+given = "Charles E."
+
+[person.birth]
+date = "1932"
+place.country = "US"
+place.state = "CT"
+place.city = "Putnam"
+
+[person.death]
+date = "2020-07-11"
+place.country = "US"
+place.state = "CT"
+place.city = "North Grosvenor Dale"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "North Grosvenor Dale"
+
+[[person.education]]
+school.name = "St. Joseph's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Thompson"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

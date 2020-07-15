@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_061"
+
+[[person.meta.citation]]
+title = "Collins Funeral Home"
+date = "2020-07-14"
+url = "https://www.collinsfuneralhome.com/obituaries/Raymond-L-Gerard-Sr?obId=16905504#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-14"
+
+[person.name]
+last = "Gerard"
+use = "Ray"
+given = "Raymond L."
+suffix = "Sr."
+
+[person.death]
+date = "2020-07-08"
+
+[person.burial]
+cemetery.name = "Arlington National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Arlington"
+
+[[person.education]]
+school.name = "Wintersville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Wintersville"
+
+[[person.education]]
+school.name = "West Liberty University"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "WV"
+school.place.city = "West Liberty"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

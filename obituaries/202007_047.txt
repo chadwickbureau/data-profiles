@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_047"
+
+[[person.meta.citation]]
+title = "Ascension Funeral Group"
+date = "2020-07-13"
+url = "https://www.ascensionfuneralgroup.com/obituaries/Francis-Elmore-Frank-Bolling?obId=17044476#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-13"
+
+[person.name]
+last = "Bolling"
+use = "Frank"
+given = "Francis Elmore"
+
+[person.birth]
+date = "1931-11-16"
+
+[person.death]
+date = "2020-07-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.burial]
+cemetery.name = "Spring Hill Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Mobile"
+
+[[person.education]]
+school.name = "McGill Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AL"
+school.place.city = "Mobile"
+
+[[person.education]]
+school.name = "Spring Hill College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+
