@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_109"
+
+[[person.meta.citation]]
+title = "Star-Tribune"
+date = "2020-07-27"
+url = "https://www.startribune.com/noel-jenke-a-three-sport-athlete-for-the-gophers-in-late-1960s-dies-at-73/571908132/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-29"
+
+[person.name]
+last = "Jenke"
+use = "Noel"
+given = "Noel"
+
+[person.death]
+date = "2020-07-23"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[[person.education]]
+school.name = "Owatonna HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Owatonna"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"
+
+

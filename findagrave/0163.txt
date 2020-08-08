@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0163"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/6461472"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Ruby"
+use = "Harry"
+given = "Harry"
+
+[person.birth]
+date = "1895-01-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.death]
+date = "1974-02-23"
+place.country = "US"
+place.state = "CA"
+place.city = "Woodland Hills"
+
+[person.burial]
+cemetery.name = "Chapel of the Pines Crematory"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Los Angeles"
+
+[person.sameas]
+findagrave = "6461472"
+

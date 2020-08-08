@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_072"
+
+[[person.meta.citation]]
+title = "Dusckas-Martin Funeral Home"
+date = "2020-07-20"
+url = "https://dusckasmartinfuneralhome.com/tribute/details/1816/John-Adams/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Adams"
+use = "John"
+given = "John Ernest"
+
+[person.birth]
+date = "1932-03-14"
+place.country = "US"
+place.state = "MA"
+place.city = "Great Barrington"
+
+[person.death]
+date = "2020-07-12"
+
+[person.burial]
+cemetery.name = "Sterrettania Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Sterrettania Cemetery"
+
+[[person.education]]
+school.name = "Tilton School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NH"
+school.place.city = "Tilton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

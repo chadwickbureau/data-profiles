@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:121838"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/121838"
+title = "The Sporting News Player Contract Cards, ScanID: 1023005693"
+
+[person.name]
+last = "Keim"
+given = "Earl G."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1952-04-09"
+type = "signed"
+join.name = "Nashville"
+note = "Nashville 1952-04-09"
+
+[[person.transaction]]
+date = "1952-04-02"
+type = "disabled"
+leave.name = "Nashville"
+note = "disabled list 1952-04-02"
+
+[[person.transaction]]
+date = "1952-06-26"
+type = "reinstated"
+join.name = "Nashville"
+note = "reins 1952-06-26"
+
+[[person.transaction]]
+date = "1952-06-26"
+type = "optioned"
+leave.name = "Nashville"
+join.name = "St. Cloud"
+note = "opt to St. Cloud 1952-06-26"
+
+[[person.transaction]]
+date = "1952-07-12"
+type = "released"
+leave.name = "St. Cloud"
+note = "rel 1952-07-12"
+

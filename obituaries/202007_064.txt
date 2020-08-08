@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_064"
+
+[[person.meta.citation]]
+title = "Los Angeles Times"
+date = "1992-01-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Frankovich"
+use = "M. J."
+given = "Mike"
+
+[person.death]
+date = "1992-01-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[[person.education]]
+school.name = "University of California, Los Angeles"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

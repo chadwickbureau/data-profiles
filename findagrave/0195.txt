@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0195"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/75688702"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Feille"
+use = "Gerald"
+given = "Gerald Harold"
+
+[person.birth]
+date = "1915-09-15"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.death]
+date = "1985-04-23"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "Forest Park Westheimer Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[person.sameas]
+findagrave = "75688702"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

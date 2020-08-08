@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:58098"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/58098"
+title = "The Sporting News Player Contract Cards, ScanID: 1013003577"
+
+[person.name]
+last = "Emery"
+given = "Harold G."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-06-01"
+type = "signed"
+join.name = "Seaford"
+note = "Seaford 1948-06-01"
+
+[[person.transaction]]
+date = "1948-06-21"
+type = "released"
+leave.name = "Seaford"
+note = "rel 1948-06-21"
+

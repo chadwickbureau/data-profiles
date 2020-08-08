@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:117886"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/117886"
+title = "The Sporting News Player Contract Cards, ScanID: 1025001707"
+
+[person.name]
+last = "Krupnick"
+given = "Harvey Jay"
+
+
+[[person.transaction]]
+date = "1966-08-06"
+type = "signed"
+join.name = "Daytona Beach"
+note = "Daytona Beach 1966-08-06"
+
+[[person.transaction]]
+date = "1967"
+type = "reserved"
+join.name = "Daytona Beach"
+note = "for 1967"
+
+[[person.transaction]]
+date = "1967-01-09"
+type = "released"
+leave.name = "Daytona Beach"
+join.name = "Lakeland"
+note = "rel to Lakeland 1967-01-09"
+
+[[person.transaction]]
+date = "1967-04-05"
+type = "released"
+leave.name = "Lakeland"
+note = "rel 1967-04-05"
+

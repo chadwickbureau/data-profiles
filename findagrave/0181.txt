@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0181"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/173702109"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Blazo"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1917"
+
+[person.death]
+date = "1988-04-24"
+
+[person.burial]
+cemetery.name = "Holy Redeemer Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "South Plainfield"
+
+[person.sameas]
+findagrave = "173702109"
+

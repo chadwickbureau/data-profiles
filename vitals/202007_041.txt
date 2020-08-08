@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_041"
+
+[[person.meta.citation]]
+title = "WWII Draft Cards, Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Blazo"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1917-01-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Dunellen"
+

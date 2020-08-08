@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_005"
+
+[[person.meta.citation]]
+title = "The Gazette"
+date = "2020-08-03"
+url = "https://www.legacy.com/obituaries/thegazette/obituary.aspx?n=gerald-lee-banks-jerry&pid=196583626"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Banks"
+use = "Jerry"
+given = "Gerald Lee"
+
+[person.birth]
+date = "1934-11-02"
+place.country = "US"
+place.state = "IA"
+place.city = "Brighton"
+
+[person.death]
+date = "2020-07-23"
+
+[[person.education]]
+school.name = "Crawfordsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Crawfordsville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

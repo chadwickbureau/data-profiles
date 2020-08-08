@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:1193"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/1193"
+title = "The Sporting News Player Contract Cards, ScanID: 1001003745"
+
+[person.name]
+last = "Angelus"
+given = "John P."
+
+
+[[person.transaction]]
+date = "1952-04-14"
+type = "signed"
+join.name = "Eugaula"
+note = "Eugaula 1952-04-14"
+
+[[person.transaction]]
+date = "1952-04-19"
+type = "released"
+leave.name = "Eugaula"
+note = "rel 1952-04-19"
+

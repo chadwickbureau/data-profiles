@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:3307"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/3307"
+title = "The Sporting News Player Contract Cards, ScanID: 1002002695"
+
+[person.name]
+last = "Autry"
+given = "Elijah Quitman"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-03-18"
+type = "signed"
+join.name = "Cordele"
+note = "Cordele 1948-03-18"
+
+[[person.transaction]]
+date = "1948-04-12"
+type = "optioned"
+leave.name = "Cordele"
+join.name = "Enterprise"
+note = "opt to Enterprise 1948-04-12"
+
+[[person.transaction]]
+date = "1948-05-03"
+type = "released"
+leave.name = "Enterprise"
+join.name = "Andalusia"
+note = "rel to Andalusia 1948-05-03"
+
+[[person.transaction]]
+date = "1948-05-18"
+type = "option-returned"
+leave.name = "Andalusia"
+join.name = "Cordele"
+note = "opt ret to Cordele 1948-05-18"
+
+[[person.transaction]]
+date = "1948-05-19"
+type = "optioned"
+leave.name = "Cordele"
+join.name = "Fitzgerald"
+note = "opt to Fitzgerald 1948-05-19"
+
+[[person.transaction]]
+date = "1948-06-06"
+type = "released"
+leave.name = "Fitzgerald"
+note = "rel 1948-06-06"
+

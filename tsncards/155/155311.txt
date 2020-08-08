@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:155311"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/155311"
+title = "The Sporting News Player Contract Cards, ScanID: 1043004007"
+
+[person.name]
+last = "Stroup"
+given = "Ellis Harding"
+
+
+[[person.transaction]]
+date = "1947-03-31"
+type = "signed"
+join.name = "Jamestown"
+note = "Jamestown 1947-03-31"
+
+[[person.transaction]]
+date = "1947-04-18"
+type = "released"
+leave.name = "Jamestown"
+note = "rel 1947-04-18"
+

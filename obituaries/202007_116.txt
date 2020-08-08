@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_116"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2020-07-29"
+url = "https://www.courant.com/breaking-news/hc-br-oz-griebal-obituary-20200729-xxxbw3trbbfgrpltabnony3e4y-story.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-30"
+
+[person.name]
+last = "Griebel"
+use = "Oz"
+given = "Richard Nelson"
+
+[person.death]
+date = "2020-07-29"
+
+[[person.education]]
+school.name = "Dartmouth College"
+school.type = "college"
+
+

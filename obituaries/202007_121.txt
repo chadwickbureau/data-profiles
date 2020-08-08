@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_121"
+
+[[person.meta.citation]]
+title = "South Florida Sun Sentinel"
+date = "1999-12-13"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Lupescu"
+use = "Chic"
+given = "Chic I."
+
+[person.death]
+date = "1999-12-10"
+
+[person.burial]
+cemetery.name = "Star of David Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "North Fort Lauderdale"
+

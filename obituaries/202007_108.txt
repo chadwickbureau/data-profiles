@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_108"
+
+[[person.meta.citation]]
+title = "Church & Chapel Funeral Home"
+date = "2020-07-29"
+url = "https://www.churchandchapel.com/obituaries/Noel-Charles-Jenke?obId=17632353#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-29"
+
+[person.name]
+last = "Jenke"
+use = "Noel"
+given = "Noel Charles"
+
+[person.birth]
+date = "1946-12-17"
+
+[person.death]
+date = "2020-07-23"
+
+[person.sameas]
+sr_nfl = "JenkNo20"
+
+[[person.education]]
+school.name = "University of Minnesota"
+school.type = "college"
+
+

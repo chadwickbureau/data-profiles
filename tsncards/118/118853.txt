@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:118853"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/118853"
+title = "The Sporting News Player Contract Cards, ScanID: 1025019940"
+
+[person.name]
+last = "Kahre"
+given = "Gilbert William"
+
+[person.description]
+position = "IF"
+bats = "S"
+throws = "R"
+height = "72"
+weight = "160"
+
+[person.birth]
+date = "1922-03-27"
+place.country = "US"
+place.state = "IN"
+place.city = "Scott Township"
+
+[[person.resides]]
+place.address = "Route #5"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+
+[[person.transaction]]
+date = "1948-08-19"
+type = "signed"
+join.name = "Bluefield"
+note = "Bluefield 1948-08-19"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Bluefield"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-01-26"
+type = "released"
+leave.name = "Bluefield"
+note = "rel 1949-01-26"
+

@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_120"
+
+[[person.meta.citation]]
+title = "Quad-City Times"
+date = "2003-08-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Larson"
+use = "Robert"
+given = "Robert F."
+nick = "Diz"
+
+[person.birth]
+date = "1918-04-11"
+place.country = "US"
+place.state = "IL"
+place.city = "Fulton"
+
+[person.death]
+date = "2003-08-23"
+place.country = "US"
+place.state = "IL"
+place.city = "Fulton"
+
+[person.burial]
+cemetery.name = "Fulton Township Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Fulton"
+
+[[person.education]]
+school.name = "Fulton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Fulton"
+
+

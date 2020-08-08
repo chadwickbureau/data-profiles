@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0161"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/191632290"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Isekite"
+use = "Floyd"
+given = "Floyd Gill"
+nick = "Lefty"
+
+[person.birth]
+date = "1909-04-12"
+
+[person.death]
+date = "1992-04-09"
+
+[person.burial]
+cemetery.name = "New Tacoma Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "University Place"
+
+[person.sameas]
+findagrave = "191632290"
+

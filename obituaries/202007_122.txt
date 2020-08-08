@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_122"
+
+[[person.meta.citation]]
+title = "Progressor Times"
+date = "2020-07-16"
+url = "https://www.theprogressortimes.com/2020/07/16/robert-stover-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Stover"
+use = "Bob"
+given = "Robert"
+suffix = "Jr."
+
+[person.birth]
+date = "1946-11-11"
+place.country = "US"
+place.state = "OH"
+place.city = "Bucyrus"
+
+[person.death]
+date = "2020-07-13"
+place.country = "US"
+place.state = "OH"
+place.city = "Perrysburg"
+
+[[person.education]]
+school.name = "Mohawk HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Sycamore"
+
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_070"
+
+[[person.meta.citation]]
+title = "Piersall Funeral Directors"
+date = "2020-07-17"
+url = "http://www.pbfuneraldirectors.com/obituary/william-bill-gilbreth"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Gilbreth"
+use = "Bill"
+given = "William Freeman"
+
+[person.birth]
+date = "1947-09-03"
+place.country = "US"
+place.state = "TX"
+place.city = "Abilene"
+
+[person.death]
+date = "2020-07-13"
+place.country = "US"
+place.state = "TX"
+place.city = "Abilene"
+
+[[person.education]]
+school.name = "Abilene Christian School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Abilene"
+
+[[person.education]]
+school.name = "Abilene Christian University"
+school.type = "college"
+
+

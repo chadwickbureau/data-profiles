@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_052"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Anderson"
+use = "Herbert"
+given = "Herbert"
+
+[person.birth]
+date = "1914-07-11"
+place.country = "US"
+place.state = "NJ"
+place.city = "Chatsworth"
+

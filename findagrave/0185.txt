@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0185"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/19056346"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Johnson"
+use = "Windy"
+given = "Winlow O."
+
+[person.birth]
+date = "1913-01-14"
+place.country = "US"
+place.state = "KS"
+
+[person.death]
+date = "1994-01-23"
+place.country = "US"
+place.state = "KS"
+
+[person.burial]
+cemetery.name = "Burlingame City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Burlingame"
+
+[person.sameas]
+findagrave = "19056346"
+

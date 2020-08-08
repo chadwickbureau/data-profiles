@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:7741"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/7741"
+title = "The Sporting News Player Contract Cards, ScanID: 1004005008"
+
+[person.name]
+last = "Boatright"
+given = "Emmett Paul"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1950-01-20"
+type = "signed"
+join.name = "Salisbury (NC)"
+note = "Salisbury (NC) 1950-01-20"
+
+[[person.transaction]]
+date = "1950-04-13"
+type = "released"
+leave.name = "Salisbury (NC)"
+note = "rel 1950-04-13"
+

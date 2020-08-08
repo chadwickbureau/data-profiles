@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_035"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Radonits"
+use = "William"
+given = "William Saint Patrick"
+
+[person.birth]
+date = "1906-12-07"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+

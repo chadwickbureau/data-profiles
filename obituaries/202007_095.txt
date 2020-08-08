@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_095"
+
+[[person.meta.citation]]
+title = "Tampa Bay Times"
+date = "2020-07-26"
+url = "https://www.legacy.com/obituaries/tampabaytimes/obituary.aspx?n=joseph-fernandez&pid=196548526"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Fernandez"
+use = "Joe"
+given = "Joseph Manuel"
+
+[person.death]
+date = "2020-07-10"
+
+[[person.education]]
+school.name = "Jefferson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Tampa"
+
+[[person.education]]
+school.name = "Florida State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

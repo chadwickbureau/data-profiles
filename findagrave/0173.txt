@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0173"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-17"
+url = "https://www.findagrave.com/memorial/103325047"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Hawkins"
+use = "Frankie"
+given = "Francis Milton"
+
+[person.birth]
+date = "1915"
+
+[person.death]
+date = "1978"
+
+[person.burial]
+cemetery.name = "Rogue River Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Gold Beach"
+
+[person.sameas]
+findagrave = "103325047"
+

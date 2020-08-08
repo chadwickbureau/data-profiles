@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0188"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/19561581"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Reid"
+use = "Kenneth"
+given = "Kenneth William"
+
+[person.birth]
+date = "1918-03-25"
+place.country = "US"
+place.state = "IA"
+place.city = "What Cheer"
+
+[person.death]
+date = "2007-05-26"
+place.country = "US"
+place.state = "NE"
+place.city = "Grand Island"
+
+[person.burial]
+cemetery.name = "Ottumwa Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Ottumwa"
+
+[person.sameas]
+findagrave = "19561581"
+

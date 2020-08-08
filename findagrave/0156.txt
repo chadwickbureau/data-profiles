@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0156"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/103262608/charles-paul-eisenmann"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Eisenmann"
+use = "Chuck"
+given = "Charles Paul"
+
+[person.birth]
+date = "1918-10-22"
+place.country = "US"
+place.state = "WI"
+place.city = "Hawthorne"
+
+[person.death]
+date = "2010-09-06"
+place.country = "US"
+place.state = "OR"
+place.city = "Roseburg"
+
+[person.burial]
+cemetery.name = "Roseburg National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Roseburg"
+
+[person.sameas]
+findagrave = "103262608"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

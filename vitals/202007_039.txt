@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_039"
+
+[[person.meta.citation]]
+title = "Indiana, Birth Certificates, 1907-1940"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-23"
+
+[person.name]
+last = "Cromer"
+use = "Harold"
+given = "Harold Nicholas"
+
+[person.birth]
+date = "1917-10-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Schererville"
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_055"
+
+[[person.meta.citation]]
+title = "USWWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Henrichs"
+use = "Robert"
+given = "Robert Fred"
+
+[person.birth]
+date = "1917-05-30"
+place.country = "US"
+place.state = "IN"
+place.city = "Michigan City"
+

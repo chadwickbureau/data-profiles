@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_031"
+
+[[person.meta.citation]]
+title = "US Dept of Veterans Affairs BIRLS Death File, 1850-2010"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Adams"
+use = "Edward"
+given = "Edward"
+
+[person.birth]
+date = "1916-04-13"
+
+[person.death]
+date = "1973-11-12"
+
+[person.sameas]
+ssn = "540-09-2540"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

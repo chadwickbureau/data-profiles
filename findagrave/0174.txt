@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0174"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-17"
+url = "https://www.findagrave.com/memorial/58726383"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Schwab"
+use = "Babe"
+given = "Arland Albert"
+
+[person.birth]
+date = "1917-10-16"
+
+[person.death]
+date = "2005-09-08"
+
+[person.burial]
+cemetery.name = "Valley View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Silverton"
+
+[person.sameas]
+findagrave = "58726383"
+

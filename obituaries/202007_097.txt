@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_097"
+
+[[person.meta.citation]]
+title = "H.M. Patterson & Son Funeral Home"
+date = "2020-07-26"
+url = "https://www.dignitymemorial.com/obituaries/atlanta-ga/randall-quintrell-9273706"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Quintrell"
+use = "Randy"
+given = "Randall D."
+
+[person.birth]
+date = "1955-02-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2020-07-23"
+
+[[person.education]]
+school.name = "Clemson University"
+school.type = "college"
+
+

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_068"
+
+[[person.meta.citation]]
+title = "Logansport Pharos-Tribune"
+date = "1993-04-11"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Simmons"
+use = "Tom"
+given = "Thomas"
+
+[person.birth]
+date = "1912-10-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Camden"
+
+[person.death]
+date = "1993-04-08"
+place.country = "US"
+place.state = "IN"
+place.city = "Marion"
+
+[person.burial]
+cemetery.name = "Gardens of Memory"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Huntington"
+
+[[person.education]]
+school.name = "Fishers HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Fishers"
+
+[[person.education]]
+school.name = "Canterbury College"
+school.type = "college"
+
+

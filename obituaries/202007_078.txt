@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_078"
+
+[[person.meta.citation]]
+title = "Press of Atlantic City"
+date = "2020-07-18"
+url = "https://pressofatlanticcity.com/phillies-front-office-executive-bart-braun-dies-64/article_d0e1fc04-8b8a-515a-9111-b0a953899827.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Braun"
+use = "Bart"
+given = "Bart"
+
+[person.death]
+date = "2020-07-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Vallejo"
+

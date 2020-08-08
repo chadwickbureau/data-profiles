@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_006"
+
+[[person.meta.citation]]
+title = "Times-Georgian"
+date = "2020-07-29"
+url = "https://www.times-georgian.com/obituaries/archie-white/article_d3a58194-f095-523f-9a14-e45b5bb9fa5d.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "White"
+use = "Archie"
+given = "Archie J."
+
+[person.birth]
+date = "1933-12-11"
+place.country = "US"
+place.state = "MS"
+place.city = "Meridian"
+
+[person.death]
+date = "2020-07-26"
+
+[[person.education]]
+school.name = "Meridian HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Meridian"
+
+[[person.education]]
+school.name = "University of Mississippi"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

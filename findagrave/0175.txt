@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0175"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-20"
+url = "https://www.findagrave.com/memorial/197509837/harry-roe-hughes"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Hughes"
+use = "Harry"
+given = "Harry Roe"
+
+[person.birth]
+date = "1926-11-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Easton"
+
+[person.death]
+date = "2019-03-13"
+place.country = "US"
+place.state = "MD"
+place.city = "Denton"
+
+[person.burial]
+cemetery.name = "Denton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Denton"
+
+[person.sameas]
+findagrave = "197509837"
+

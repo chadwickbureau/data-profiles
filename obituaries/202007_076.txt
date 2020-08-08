@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_076"
+
+[[person.meta.citation]]
+title = "Associated Press"
+date = "2020-07-16"
+url = "https://www.stltoday.com/sports/baseball/former-phillies-all-star-infielder-tony-taylor-dies-at-84/article_1e76146b-d0c8-5eeb-8817-a36a2e54a032.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Taylor"
+use = "Tony"
+given = "Tony"
+
+[person.death]
+date = "2020-07-16"
+

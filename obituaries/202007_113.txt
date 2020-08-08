@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_113"
+
+[[person.meta.citation]]
+title = "Springfield (MO) Leader & Press"
+date = "2020-07-29"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-29"
+
+[person.name]
+last = "Marler"
+use = "Ralph"
+given = "Ralph Wesley"
+
+[person.death]
+date = "1978-07-03"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Maple Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Missouri State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

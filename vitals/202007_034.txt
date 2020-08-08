@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_034"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Radonits"
+use = "William"
+given = "William S."
+
+[person.birth]
+date = "1906-12-07"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1962-03-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.sameas]
+ssn = "561-18-9351"
+

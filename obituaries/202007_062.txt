@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_062"
+
+[[person.meta.citation]]
+title = "Alexander Funeral Home"
+date = "2020-07-15"
+url = "https://www.dignitymemorial.com/obituaries/evansville-in/gilbert-kahre-9259431"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Kahre"
+use = "Gil"
+given = "Gilbert W."
+
+[person.birth]
+date = "1922-03-27"
+place.country = "US"
+place.state = "IN"
+place.city = "Darmstadt"
+
+[person.death]
+date = "2020-07-11"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.burial]
+cemetery.name = "Trinity Lutheran Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Darmstadt"
+
+[[person.education]]
+school.name = "Reitz HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Evansville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

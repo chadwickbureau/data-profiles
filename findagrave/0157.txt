@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0157"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/111123377"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "DeLucia"
+use = "Angelo"
+given = "Angelo P."
+
+[person.birth]
+date = "1918"
+
+[person.death]
+date = "2004-06-18"
+
+[person.burial]
+cemetery.name = "Gethsemane Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Laureldale"
+
+[person.sameas]
+findagrave = "111123377"
+

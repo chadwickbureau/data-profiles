@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_007"
+
+[[person.meta.citation]]
+title = "Huff & Lakjer Funeral Home"
+date = "2020-08-03"
+url = "http://www.huffandlakjer.com/obituary/lewis-klein-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Klein"
+use = "Lewis"
+given = "Lewis P."
+suffix = "Jr."
+
+[person.birth]
+date = "1927-07-01"
+
+[person.death]
+date = "2020-07-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Lansdale"
+
+[[person.education]]
+school.name = "Duke University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

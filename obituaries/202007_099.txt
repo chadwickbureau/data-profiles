@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_099"
+
+[[person.meta.citation]]
+title = "Paul R. Young Funeral Home"
+date = "2020-07-27"
+url = "https://www.oglepaulyoungfuneralhome.com/obituary/Roy-RidenourSr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Ridenour"
+use = "Roy"
+given = "Roy Stanley"
+suffix = "Sr."
+
+[person.birth]
+date = "1925-12-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Hamilton"
+
+[person.death]
+date = "2020-07-20"
+
+[person.burial]
+cemetery.name = "College Corner Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "West College Corner"
+
+[[person.education]]
+school.name = "McGuffey HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Oxford"
+
+

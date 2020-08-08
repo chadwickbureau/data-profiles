@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0172"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-17"
+url = "https://www.findagrave.com/memorial/209894774/glen-j_-gabler"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Gabler"
+use = "Glen"
+given = "Glen J."
+
+[person.birth]
+date = "1909"
+
+[person.death]
+date = "1980"
+
+[person.burial]
+cemetery.name = "Westminster Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Westminster"
+
+[person.sameas]
+findagrave = "209894774"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

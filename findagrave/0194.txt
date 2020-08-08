@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0194"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/11201953"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Anderson"
+use = "Herbert"
+given = "Herbert"
+
+[person.birth]
+date = "1914-07-11"
+
+[person.death]
+date = "1969-07-30"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Chatsworth"
+
+[person.sameas]
+findagrave = "11201953"
+

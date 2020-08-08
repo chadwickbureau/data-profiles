@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_029"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Strohmeyer"
+given = "F. G."
+
+[person.birth]
+date = "1921-08-13"
+
+[person.death]
+date = "2004-12-01"
+
+[person.sameas]
+ssn = "704-01-5861"
+

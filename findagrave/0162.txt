@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0162"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/184110738"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Mallory"
+use = "Elmer"
+given = "Elmer E."
+
+[person.birth]
+date = "1919-09-10"
+
+[person.death]
+date = "1972-05-06"
+
+[person.burial]
+cemetery.name = "Pacific View Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Corona del Mar"
+
+[person.sameas]
+findagrave = "184110738"
+

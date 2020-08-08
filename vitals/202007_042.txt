@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_042"
+
+[[person.meta.citation]]
+title = "WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Gehrke"
+use = "Stanley"
+given = "Stanley"
+
+[person.birth]
+date = "1917-09-29"
+place.country = "US"
+place.state = "IA"
+place.city = "Readlyn"
+

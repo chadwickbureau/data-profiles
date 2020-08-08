@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_119"
+
+[[person.meta.citation]]
+title = "Minneapolis Star-Tribune"
+date = "1964-06-06"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Frank"
+use = "Theodore"
+given = "Theodore J."
+
+[person.birth]
+place.country = "US"
+place.state = "MN"
+place.city = "St. Paul"
+
+[person.death]
+date = "1964-06-04"
+

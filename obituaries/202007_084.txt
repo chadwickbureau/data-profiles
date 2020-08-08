@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_084"
+
+[[person.meta.citation]]
+title = "Brooks Funeral Homes"
+date = "2020-07-21"
+url = "https://www.brooksfuneralhomes.com/obituaries/Harold-Hartz/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-21"
+
+[person.name]
+last = "Hartz"
+use = "Snipe"
+given = "Harold E."
+
+[person.birth]
+date = "1932-08-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Connellsville"
+
+[person.death]
+date = "2016-07-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Connellsville"
+
+[person.burial]
+cemetery.name = "Mount Nebo Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Indian Head"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

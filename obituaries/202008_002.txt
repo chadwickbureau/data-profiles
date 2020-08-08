@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_002"
+
+[[person.meta.citation]]
+title = "Hansen-Spear Funeral Home"
+date = "2020-08-03"
+url = "https://www.hansenspear.com/obituary/490769/Robert-Mixer/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Mixer"
+use = "Dale"
+given = "Robert Dale"
+
+[person.birth]
+date = "1925-03-26"
+place.country = "US"
+place.state = "IL"
+place.city = "Adams County"
+
+[person.death]
+date = "2020-07-31"
+place.country = "US"
+place.state = "IL"
+place.city = "Payson"
+
+[person.burial]
+cemetery.name = "Bluff Hall Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Fall Creek"
+
+[[person.education]]
+school.name = "Liberty HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Liberty"
+
+[[person.education]]
+school.name = "Western Illinois University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

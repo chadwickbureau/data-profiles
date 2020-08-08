@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_103"
+
+[[person.meta.citation]]
+title = "Ryan Funeral Home"
+date = "2020-07-28"
+url = "https://www.ryanfh.com/obituaries/Bob-Lefty-Roffers?obId=17632877#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-28"
+
+[person.name]
+last = "Roffers"
+use = "Bob"
+given = "Robert Joseph"
+nick = "Lefty"
+
+[person.birth]
+date = "1941-08-03"
+place.country = "US"
+place.state = "WI"
+place.city = "De Pere"
+
+[person.death]
+date = "2020-07-25"
+

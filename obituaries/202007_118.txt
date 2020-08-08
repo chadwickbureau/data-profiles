@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_118"
+
+[[person.meta.citation]]
+title = "Omaha World Herald"
+date = "1982-07-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Matejka"
+use = "Walter"
+given = "Walter J."
+
+[person.death]
+date = "1982-07-24"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.burial]
+cemetery.name = "Bohemian Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Omaha"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

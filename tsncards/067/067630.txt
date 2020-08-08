@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:67630"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/67630"
+title = "The Sporting News Player Contract Cards, ScanID: 1015002455"
+
+[person.name]
+last = "Foss"
+given = "Jack L."
+
+
+[[person.transaction]]
+date = "1947-03-19"
+type = "signed"
+join.name = "Eau Claire"
+note = "Eau Claire 1947-03-19"
+
+[[person.transaction]]
+date = "1947-05-05"
+type = "released"
+leave.name = "Eau Claire"
+note = "rel 1947-05-05"
+

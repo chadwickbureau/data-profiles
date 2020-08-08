@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:99862"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/99862"
+title = "The Sporting News Player Contract Cards, ScanID: 1022005001"
+
+[person.name]
+last = "Jett"
+given = "Donald Edward"
+
+
+[[person.transaction]]
+date = "1962-02-13"
+type = "signed"
+join.name = "Fort Walton Beach"
+note = "Fort Walton Beach 1962-02-13"
+
+[[person.transaction]]
+date = "1962-04-19"
+type = "released"
+leave.name = "Fort Walton Beach"
+note = "rel 1962-04-19"
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_027"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Johnson"
+use = "Vernon"
+given = "Vernon"
+
+[person.birth]
+date = "1914-05-06"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1957-12-09"
+place.country = "US"
+place.state = "CA"
+place.city = "Alameda County"
+
+[person.sameas]
+ssn = "572-18-1769"
+

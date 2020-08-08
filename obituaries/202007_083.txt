@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_083"
+
+[[person.meta.citation]]
+title = "Krueger Family Funeral Home"
+date = "2020-07-21"
+url = "https://kruegerfamilyfuneral.com/tribute/details/1015/Robert-Kahle/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-21"
+
+[person.name]
+last = "Kahle"
+use = "Bobby"
+given = "Robert"
+
+[person.birth]
+date = "1941-02-06"
+place.country = "US"
+place.state = "WI"
+place.city = "Tomahawk"
+
+[person.death]
+date = "2016-07-14"
+place.country = "US"
+place.state = "WI"
+place.city = "Tomahawk"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Skanawan"
+
+[[person.education]]
+school.name = "Tomahawk HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Tomahawk"
+
+

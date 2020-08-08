@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_038"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Swope"
+use = "Burton"
+given = "Burton"
+
+[person.birth]
+date = "1916-04-15"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+

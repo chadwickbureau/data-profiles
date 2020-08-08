@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_053"
+
+[[person.meta.citation]]
+title = "Minnesota, Death Index, 1908-2017"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Frank"
+use = "Theodore"
+given = "Theodore J."
+
+[person.birth]
+date = "1913-05-06"
+
+[person.death]
+date = "1964-06-04"
+place.country = "US"
+place.state = "MN"
+place.city = "Olmsted County"
+

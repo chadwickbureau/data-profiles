@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0182"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/196635234"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Garrison"
+use = "Robert"
+given = "Robert Martin"
+
+[person.birth]
+date = "1922-01-22"
+place.country = "US"
+place.state = "IL"
+place.city = "Benton"
+
+[person.death]
+date = "2018-03-20"
+place.country = "US"
+place.state = "IL"
+place.city = "Benton"
+
+[person.burial]
+cemetery.name = "Masonic and Odd Fellows Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Benton"
+
+[person.sameas]
+findagrave = "196635234"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Vietnam War"
+
+

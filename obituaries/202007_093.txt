@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_093"
+
+[[person.meta.citation]]
+title = "N. J. Hogenkamp Sons Funeral Home"
+date = "2020-07-26"
+url = "https://www.hogenkampfh.com/obituary/mauri-cron"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Cron"
+use = "Mauri"
+given = "Maurice"
+
+[person.birth]
+date = "1936-05-29"
+
+[person.death]
+date = "2020-07-24"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.burial]
+cemetery.name = "St. Elizabeth Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Coldwater"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

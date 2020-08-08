@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0160"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/141784682"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Hanson"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1919-06-28"
+
+[person.death]
+date = "1990-06-28"
+
+[person.burial]
+cemetery.name = "Westwood Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Los Angeles"
+
+[person.sameas]
+findagrave = "141784682"
+

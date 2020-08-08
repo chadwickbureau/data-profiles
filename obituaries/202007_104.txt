@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_104"
+
+[[person.meta.citation]]
+title = "O'Brien Funeral Home"
+date = "2020-07-28"
+url = "https://www.obrien-funeralhome.com/tributes/Louis-Kucharski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-28"
+
+[person.name]
+last = "Kucharski"
+use = "Lou"
+given = "Louis A."
+
+[person.birth]
+date = "1929-07-01"
+place.country = "US"
+place.state = "NY"
+place.city = "Hampton"
+
+[person.death]
+date = "2020-07-26"
+place.country = "US"
+place.state = "CT"
+place.city = "Bristol"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

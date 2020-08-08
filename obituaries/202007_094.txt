@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_094"
+
+[[person.meta.citation]]
+title = "Curlew Hills Memory Garden"
+date = "2020-07-26"
+url = "https://www.curlewhills.com/obituaries/Jonas-Umholtz/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Umholtz"
+use = "Joe"
+given = "Jonas J."
+
+[person.birth]
+date = "1926-11-01"
+place.country = "CO"
+
+[person.death]
+date = "2020-07-09"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

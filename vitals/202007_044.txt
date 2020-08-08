@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_044"
+
+[[person.meta.citation]]
+title = "WWII Draft Cards Young  Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Johnson"
+use = "Winlow"
+given = "Winlow Oke"
+
+[person.birth]
+date = "1913-01-14"
+place.country = "US"
+place.state = "KS"
+place.city = "Burlingame"
+

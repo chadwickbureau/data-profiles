@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_014"
+
+[[person.meta.citation]]
+title = "Scoggins Funeral Home"
+date = "2020-08-06"
+url = "https://www.scogginsfuneralhome.com/obituaries/Emmett-P-Boatright?obId=907629#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-06"
+
+[person.name]
+last = "Boatright"
+use = "Emmett"
+given = "Emmett Paul"
+
+[person.birth]
+date = "1931-01-16"
+place.country = "US"
+place.state = "TX"
+place.city = "Howe"
+
+[person.death]
+date = "2016-05-17"
+place.country = "US"
+place.state = "TX"
+place.city = "Sherman"
+
+[person.burial]
+cemetery.name = "Cedarlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Sherman"
+
+[[person.education]]
+school.name = "Howe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Howe"
+
+

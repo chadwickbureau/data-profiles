@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_115"
+
+[[person.meta.citation]]
+title = "News Journal"
+date = "2020-07-30"
+url = "https://www.legacy.com/obituaries/delawareonline/obituary.aspx?n=john-peter-rolewicz&pid=196564390"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-30"
+
+[person.name]
+last = "Rolewicz"
+use = "John"
+given = "John Peter"
+
+[person.birth]
+date = "1990-04-10"
+place.country = "US"
+place.state = "DE"
+place.city = "Wilmington"
+
+[person.death]
+date = "2020-07-24"
+
+[[person.education]]
+school.name = "Salesianum School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "DE"
+school.place.city = "Wilmington"
+
+[[person.education]]
+school.name = "Washington College"
+school.type = "college"
+
+

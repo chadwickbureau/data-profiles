@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0158"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/64476594"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Carroll"
+use = "Wallace"
+given = "Wallace D."
+
+[person.birth]
+date = "1918"
+
+[person.death]
+date = "1989"
+
+[person.burial]
+cemetery.name = "Pacific Crest Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Redondo Beach"
+
+[person.sameas]
+findagrave = "64476594"
+

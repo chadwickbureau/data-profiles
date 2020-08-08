@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_071"
+
+[[person.meta.citation]]
+title = "Times-Picayune"
+date = "2004-12-04"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Strohmeyer"
+use = "Fred"
+given = "Fred G."
+suffix = "Jr."
+
+[person.death]
+date = "2004-12-01"
+
+[[person.education]]
+school.name = "Louisiana State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "World War II"
+
+

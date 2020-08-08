@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_003"
+
+[[person.meta.citation]]
+title = "Rose Mortuary"
+date = "2020-08-03"
+url = "https://www.rosemortuary.com/obituaries/Charles-Bill-Murphy/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Murphy"
+use = "Bill"
+given = "Charles W."
+
+[person.death]
+date = "2020-07-31"
+
+[person.burial]
+cemetery.name = "Roseberry Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Mascot"
+

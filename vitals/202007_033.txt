@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_033"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Gabler"
+use = "Glen"
+given = "Glen James"
+
+[person.birth]
+date = "1909-11-30"
+
+[person.death]
+date = "1980-02-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.sameas]
+ssn = "550-10-7175"
+

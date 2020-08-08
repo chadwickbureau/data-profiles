@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_079"
+
+[[person.meta.citation]]
+title = "Richmond Times-Dispatch"
+date = "2020-07-19"
+url = "https://richmond.com/obituaries/kasko-edward/article_5b90b362-363f-59d1-8330-e1b97155ad44.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Kasko"
+use = "Eddie"
+given = "Edward Michael"
+
+[person.death]
+date = "2020-06-24"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

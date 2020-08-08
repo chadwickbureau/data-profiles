@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0169"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-16"
+url = "https://www.findagrave.com/memorial/121156707"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Escobar"
+use = "Daniel"
+given = "Daniel D."
+
+[person.birth]
+date = "1916"
+
+[person.death]
+date = "1985"
+
+[person.burial]
+cemetery.name = "Oak Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Red Bluff"
+
+[person.sameas]
+findagrave = "121156707"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_067"
+
+[[person.meta.citation]]
+title = "Selma Times-Journal"
+date = "1981-08-10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Dunn"
+use = "Cecil"
+given = "Cecil Albert"
+
+[person.death]
+date = "1981-08-09"
+place.country = "US"
+place.state = "AL"
+place.city = "Demopolis"
+
+[person.burial]
+cemetery.name = "Linden Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Linden"
+

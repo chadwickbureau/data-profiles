@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_111"
+
+[[person.meta.citation]]
+title = "Charlotte Observer"
+date = "2020-07-29"
+url = "https://www.legacy.com/obituaries/charlotte/obituary.aspx?n=john-wiley-martin&pid=196560959"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-29"
+
+[person.name]
+last = "Martin"
+use = "Wiley"
+given = "John Wiley"
+suffix = "Sr."
+
+[person.birth]
+date = "1933-08-14"
+
+[person.death]
+date = "2020-07-25"
+
+[person.burial]
+cemetery.name = "Unity Presbyterian Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Denver"
+
+[[person.education]]
+school.name = "Thomasboro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Charlotte"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

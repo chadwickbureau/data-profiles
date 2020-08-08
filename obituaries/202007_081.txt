@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_081"
+
+[[person.meta.citation]]
+title = "Johnson Funeral Home"
+date = "2020-07-20"
+url = "https://www.johnsonfuneralhome.net/obituary/5616823"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Millet"
+use = "Mo"
+given = "Morris John"
+
+[person.birth]
+date = "1936-02-18"
+
+[person.death]
+date = "2013-02-05"
+place.country = "US"
+place.state = "LA"
+place.city = "Lake Charles"
+
+[[person.education]]
+school.name = "Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Baton Rouge"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

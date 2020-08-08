@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0171"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-16"
+url = "https://www.findagrave.com/memorial/10792360"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Simmons"
+use = "Thomas"
+given = "Thomas Gayle"
+
+[person.birth]
+date = "1912-10-01"
+
+[person.death]
+date = "1993-04-08"
+
+[person.burial]
+cemetery.name = "Gardens of Memory"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Huntington"
+
+[person.sameas]
+findagrave = "10792360"
+

@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:21762"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/21762"
+title = "The Sporting News Player Contract Cards, ScanID: 1006005298"
+
+[person.name]
+last = "Burns"
+given = "John Gregory"
+nick = "Tordy"
+
+[person.description]
+ancestry = "Irish"
+position = "P"
+bats = "R"
+throws = "L"
+height = "74"
+weight = "198"
+
+[person.birth]
+date = "1935-01-16"
+place.country = "US"
+place.state = "ME"
+place.city = "Augusta"
+
+[[person.resides]]
+place.address = "MR 2"
+place.country = "US"
+place.state = "ME"
+place.city = "Augusta"
+
+
+[[person.transaction]]
+date = "1953-08-26"
+type = "signed"
+join.name = "Wellsville"
+note = "Wellsville 1953-08-26"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Wellsville"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-04-23"
+type = "temporarily-inactive"
+leave.name = "Wellsville"
+note = "Inactive list 1954-04-23"
+
+[[person.transaction]]
+date = "1954-10-06"
+type = "reinstated"
+join.name = "Wellsville"
+note = "reins 1954-10-06"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Wellsville"
+note = "res for 1955"
+
+[[person.transaction]]
+date = "1955-04-04"
+type = "released"
+leave.name = "Wellsville"
+note = "rel 1955-04-04"
+

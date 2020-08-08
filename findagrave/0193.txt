@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0193"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/157823811"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Matejka"
+use = "Walter"
+given = "Walter J."
+
+[person.birth]
+date = "1922-01-17"
+
+[person.death]
+date = "1982-07-24"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.burial]
+cemetery.name = "Bohemian Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NE"
+cemetery.place.city = "Omaha"
+
+[person.sameas]
+findagrave = "157823811"
+

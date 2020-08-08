@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0187"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/53865229"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Marleau"
+use = "Edward"
+given = "Edward C."
+
+[person.birth]
+date = "1910-03-25"
+
+[person.death]
+date = "1974-11-02"
+
+[person.burial]
+cemetery.name = "Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Oklahoma City"
+
+[person.sameas]
+findagrave = "53865229"
+

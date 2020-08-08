@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0176"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-20"
+url = "https://www.findagrave.com/memorial/24632733"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Medler"
+use = "Herman"
+given = "Herman Palmer"
+
+[person.birth]
+date = "1911-09-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Chevy Chase"
+
+[person.death]
+date = "2004-03-24"
+
+[person.burial]
+cemetery.name = "Green Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Asheville"
+
+[person.sameas]
+findagrave = "24632733"
+

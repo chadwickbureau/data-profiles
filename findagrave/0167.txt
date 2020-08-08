@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0167"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-16"
+url = "https://www.findagrave.com/memorial/44227353/ernest-e-devaurs"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "DeVaurs"
+use = "Ernest"
+given = "Ernest E."
+suffix = "Jr."
+
+[person.birth]
+date = "1916-11-13"
+
+[person.death]
+date = "1997-10-11"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Merced"
+
+[person.sameas]
+findagrave = "44227353"
+

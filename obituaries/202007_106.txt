@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_106"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2016-06-12"
+url = "https://www.legacy.com/obituaries/nytimes/obituary.aspx?n=SANFORD-HOURIGAN&pid=180300231"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-28"
+
+[person.name]
+last = "Hourigan"
+use = "Sanford"
+given = "Sanford Peter"
+
+[person.death]
+date = "2016-06-06"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

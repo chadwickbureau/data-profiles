@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_049"
+
+[[person.meta.citation]]
+title = "Michigan, Death Index, 1971-1996"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Semczak"
+use = "Henry"
+given = "Henry A."
+
+[person.birth]
+date = "1917-09-21"
+
+[person.death]
+date = "1971-04-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+

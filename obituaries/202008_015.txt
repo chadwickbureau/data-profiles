@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_015"
+
+[[person.meta.citation]]
+title = "Lamiell Funeral Home"
+date = "2020-08-06"
+url = "https://www.lamiellfuneralhome.com/obituaries/Roy-Edwin-Marks?obId=2667013#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-06"
+
+[person.name]
+last = "Marks"
+use = "Roy"
+given = "Roy Edwin"
+
+[person.birth]
+date = "1951-12-04"
+
+[person.death]
+date = "2016-05-05"
+
+[[person.education]]
+school.name = "Oakwood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Canton"
+
+

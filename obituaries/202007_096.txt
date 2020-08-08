@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_096"
+
+[[person.meta.citation]]
+title = "Porter Loring Mortuaries"
+date = "2020-07-26"
+url = "https://porterloring.tributes.com/obituary/show/Michael-E.-Shull-108491233"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Shull"
+use = "Mike"
+given = "Michael E."
+
+[person.birth]
+date = "1964-04-05"
+place.country = "US"
+place.state = "WY"
+place.city = "Cheyenne"
+
+[person.death]
+date = "2020-07-10"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[[person.education]]
+school.name = "MacArthur HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "San Antonio"
+
+[[person.education]]
+school.name = "Texas Tech University"
+school.type = "college"
+
+

@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_102"
+
+[[person.meta.citation]]
+title = "Pomeroy Herald"
+date = "1955-12-22"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Wessels"
+use = "Carl"
+given = "Carl E."
+
+[person.birth]
+date = "1915-11-23"
+
+[person.death]
+date = "1955-12-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Galveston"
+
+[person.burial]
+cemetery.name = "St. Paul Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Palmer"
+
+[[person.education]]
+school.name = "Palmer HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Palmer"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

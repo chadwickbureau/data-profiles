@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_114"
+
+[[person.meta.citation]]
+title = "DignityMemorial.com"
+date = "2020-07-30"
+url = "https://www.dignitymemorial.com/obituaries/salem-or/gregory-jurgenson-9263122"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-30"
+
+[person.name]
+last = "Jurgenson"
+use = "Greg"
+given = "Gregory Dwaine"
+
+[person.birth]
+date = "1952-08-18"
+place.country = "US"
+place.state = "OR"
+place.city = "Dallas"
+
+[person.death]
+date = "2020-07-11"
+
+[[person.education]]
+school.name = "Oregon State University"
+school.type = "college"
+
+

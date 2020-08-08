@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_050"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Voirol"
+use = "Louis"
+given = "Louis Vernon"
+
+[person.birth]
+date = "1918-04-26"
+place.country = "US"
+place.state = "IN"
+place.city = "New Haven"
+

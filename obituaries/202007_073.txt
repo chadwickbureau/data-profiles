@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_073"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2020-07-18"
+url = "https://www.legacy.com/obituaries/baltimoresun/obituary.aspx?n=charles-carroll-moulden&pid=196507720"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Moulden"
+use = "Carroll"
+given = "Charles Carroll"
+nick = "Moe"
+
+[person.birth]
+date = "1945-04-24"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2020-07-17"
+

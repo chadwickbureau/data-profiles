@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_082"
+
+[[person.meta.citation]]
+title = "Harvey-Engelhardt Funeral Home"
+date = "2020-07-21"
+url = "https://www.harvey-engelhardt.com/tributes/William-Houk"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-21"
+
+[person.name]
+last = "Houk"
+use = "Frank"
+given = "William Franklin"
+suffix = "Jr."
+
+[person.birth]
+date = "1944-11-24"
+place.country = "US"
+place.state = "AL"
+place.city = "Huntsville"
+
+[person.death]
+date = "2020-05-25"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Myers"
+
+[[person.education]]
+school.name = "Horace Mann HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Gary"
+
+[[person.education]]
+school.name = "Ball State University"
+school.type = "college"
+
+

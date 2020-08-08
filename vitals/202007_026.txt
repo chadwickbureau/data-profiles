@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_026"
+
+[[person.meta.citation]]
+title = "SSDI California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Escobar"
+use = "Daniel"
+given = "Daniel Deleon"
+
+[person.birth]
+date = "1916-09-29"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1985-05-19"
+place.country = "US"
+place.state = "CA"
+place.city = "Tehama County"
+
+[person.sameas]
+ssn = "554-05-6884"
+

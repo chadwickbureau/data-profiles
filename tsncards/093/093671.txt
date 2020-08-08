@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:93671"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/93671"
+title = "The Sporting News Player Contract Cards, ScanID: 1025018713"
+
+[person.name]
+last = "Hourigan"
+given = "Sanford Peter"
+nick = "Sandy; Sam"
+
+[person.description]
+position = "1B"
+bats = "R"
+throws = "R"
+height = "73"
+weight = "185"
+
+[person.birth]
+date = "1930-05-11"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+[[person.resides]]
+place.address = "294 State Street"
+place.country = "US"
+place.state = "NY"
+place.city = "Albany"
+
+
+[[person.transaction]]
+date = "1949-08-10"
+type = "signed"
+join.name = "Tarboro"
+note = "Tarboro 1949-08-10"
+
+[[person.transaction]]
+date = "1950-04-13"
+type = "released"
+leave.name = "Tarboro"
+note = "rel 1950-04-13"
+

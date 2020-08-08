@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_080"
+
+[[person.meta.citation]]
+title = "Nelson Funeral Home"
+date = "2020-07-20"
+url = "https://nelsonsfuneralhome.com/alexander-s-mackowiak/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Mackowiak"
+use = "Al"
+given = "Alexander S."
+
+[person.birth]
+date = "1926-05-18"
+place.country = "US"
+place.state = "MI"
+place.city = "Gaylord"
+
+[person.death]
+date = "2020-07-11"
+
+[[person.education]]
+school.name = "St. Mary Cathedral HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Gaylord"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

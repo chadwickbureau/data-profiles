@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_037"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Swope"
+use = "John"
+given = "John Burton"
+
+[person.birth]
+date = "1916-04-15"
+place.country = "US"
+place.state = "OR"
+
+[person.death]
+date = "1994-02-08"
+
+[person.sameas]
+ssn = "536-07-6156"
+

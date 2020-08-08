@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_065"
+
+[[person.meta.citation]]
+title = "Central Maine"
+date = "2016-07-09"
+url = "https://www.legacy.com/obituaries/mainetoday-centralmaine/obituary.aspx?n=john-g-burns-tardy&pid=180610287"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Burns"
+use = "Tardy"
+given = "John G."
+suffix = "Jr."
+
+[person.birth]
+date = "1935"
+
+[person.death]
+date = "2016-07-04"
+
+[[person.education]]
+school.name = "Cony HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ME"
+school.place.city = "Augusta"
+
+

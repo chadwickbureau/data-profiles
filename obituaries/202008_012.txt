@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_012"
+
+[[person.meta.citation]]
+title = "D. B. Thompson Funeral Home"
+date = "2020-08-04"
+url = "https://www.dbthompsonfuneralhome.com/obits/obituary.php?id=605372"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-04"
+
+[person.name]
+last = "Stroup"
+use = "Ellis"
+given = "Ellis Harding"
+
+[person.birth]
+date = "1921-06-12"
+place.country = "US"
+place.state = "MD"
+place.city = "Ellerton"
+
+[person.death]
+date = "2016-05-21"
+place.country = "US"
+place.state = "MD"
+place.city = "Middletown"
+
+[person.burial]
+cemetery.name = "Zion Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Middletown"
+
+[[person.education]]
+school.name = "Middletown HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Middletown"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

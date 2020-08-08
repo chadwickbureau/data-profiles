@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_090"
+
+[[person.meta.citation]]
+title = "Daily Hampshire Gazette"
+date = "2016-06-24"
+url = "https://www.legacy.com/obituaries/gazettenet/obituary.aspx?n=Stanley-Edward-Finn&pid=180436987"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-25"
+
+[person.name]
+last = "Finn"
+use = "Stan"
+given = "Stanley Edward"
+suffix = "Jr."
+
+[person.birth]
+date = "1928-12-18"
+place.country = "US"
+place.state = "MA"
+place.city = "Northampton"
+
+[person.death]
+date = "2016-06-22"
+
+[person.burial]
+cemetery.name = "Spring Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Florence"
+
+[[person.education]]
+school.name = "Northampton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Northampton"
+
+[[person.education]]
+school.name = "Nichols College"
+school.type = "college"
+
+

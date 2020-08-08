@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_085"
+
+[[person.meta.citation]]
+title = "The Detroit News"
+date = "2016-07-02"
+url = "https://www.legacy.com/obituaries/detroitnews/obituary.aspx?n=Earl-G-Keim&pid=180521811"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-21"
+
+[person.name]
+last = "Keim"
+use = "Earl"
+given = "Earl G."
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "MI"
+place.city = "Dearborn"
+
+[person.death]
+date = "2016-06-20"
+place.country = "US"
+place.state = "MI"
+place.city = "Troy"
+
+[[person.education]]
+school.name = "Dearborn HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Dearborn"
+
+

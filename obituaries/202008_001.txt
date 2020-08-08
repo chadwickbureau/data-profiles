@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_001"
+
+[[person.meta.citation]]
+title = "Tennessean"
+date = "2020-08-02"
+url = "https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=john-francis-mcnamara&pid=196577180&fhid=14208"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "McNamara"
+use = "John"
+given = "John Francis"
+
+[person.birth]
+date = "1932-06-04"
+place.country = "US"
+place.state = "CA"
+place.city = "Sacramento"
+
+[person.death]
+date = "2020-07-28"
+place.country = "US"
+place.state = "TN"
+place.city = "Brentwood"
+
+[person.burial]
+cemetery.name = "Harpeth Hills Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Nashville"
+

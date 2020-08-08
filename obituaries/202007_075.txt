@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_075"
+
+[[person.meta.citation]]
+title = "Ceballos-Diaz Funeral Home"
+date = "2020-07-20"
+url = "https://www.ceballos-diaz.com/tributes/Humberto-Garcia"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Garcia"
+use = "Beto"
+given = "Humberto"
+matrilineal = "Luna"
+
+[person.birth]
+date = "1947-03-05"
+place.country = "US"
+place.state = "TX"
+place.city = "Faysville"
+
+[person.death]
+date = "2020-07-16"
+place.country = "US"
+place.state = "TX"
+place.city = "McAllen"
+
+[person.burial]
+cemetery.name = "Hillcrest Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Edinburg"
+

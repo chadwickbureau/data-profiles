@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0198"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/154147341"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Henrichs"
+use = "Robert"
+given = "Robert"
+
+[person.birth]
+date = "1917-05-30"
+
+[person.death]
+date = "1993-10-28"
+
+[person.burial]
+cemetery.name = "Little Sister Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Sister Bay"
+
+[person.sameas]
+findagrave = "154147341"
+

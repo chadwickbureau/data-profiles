@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0192"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-23"
+url = "https://www.findagrave.com/memorial/36555528"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-23"
+
+[person.name]
+last = "Tully"
+use = "George"
+given = "George Emmett"
+
+[person.birth]
+date = "1906-04-21"
+place.country = "US"
+place.state = "AL"
+place.city = "Eufaula"
+
+[person.death]
+date = "1943-01-13"
+place.country = "US"
+place.state = "GA"
+place.city = "Savannah"
+
+[person.burial]
+cemetery.name = "Prospect United Methodist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Jackson County"
+
+[person.sameas]
+findagrave = "36555528"
+

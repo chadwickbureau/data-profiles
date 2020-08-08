@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_023"
+
+[[person.meta.citation]]
+title = "Washington, Death Index, 1940-2017"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Isekite"
+use = "Floyd"
+given = "Floyd G."
+
+[person.death]
+date = "1992-04-09"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.sameas]
+ssn = "533-07-2237"
+

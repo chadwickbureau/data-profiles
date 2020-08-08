@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_100"
+
+[[person.meta.citation]]
+title = "Hughes & Wright Funeral Home"
+date = "2020-07-27"
+url = "https://www.hughesandwright.com/memorials/james-wells/4275449/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Wells"
+use = "Buddy"
+given = "James David"
+
+[person.birth]
+date = "1953-05-20"
+
+[person.death]
+date = "2020-07-21"
+place.country = "US"
+place.state = "GA"
+place.city = "Cordele"
+
+[person.burial]
+cemetery.name = "Seville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Pitts"
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_024"
+
+[[person.meta.citation]]
+title = "US World War II Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Powell"
+use = "Robert"
+given = "Robert Clyde"
+
+[person.birth]
+date = "1920-03-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Alhambra"
+

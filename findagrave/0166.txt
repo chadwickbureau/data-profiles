@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0166"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-16"
+url = "https://www.findagrave.com/memorial/86969475"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-16"
+
+[person.name]
+last = "Corbett"
+use = "Stanley"
+given = "Stanley R."
+
+[person.birth]
+date = "1911-12-04"
+
+[person.death]
+date = "1980-11-10"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Montgomery"
+
+[person.sameas]
+findagrave = "86969475"
+

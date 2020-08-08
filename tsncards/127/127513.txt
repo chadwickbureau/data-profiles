@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:127513"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/127513"
+title = "The Sporting News Player Contract Cards, ScanID: 1039003595"
+
+[person.name]
+last = "Santarone"
+given = "Reno"
+
+
+[[person.transaction]]
+date = "1950-03-22"
+type = "signed"
+join.name = "Vidalia-Lyons"
+note = "Vidalia-Lyons 1950-03-22"
+
+[[person.transaction]]
+date = "1950-05-06"
+type = "optioned"
+leave.name = "Vidalia-Lyons"
+join.name = "Cordele"
+note = "opt to Cordele 1950-05-06"
+
+[[person.transaction]]
+date = "1950-06-27"
+type = "disabled"
+leave.name = "Cordele"
+note = "disabled list 1950-06-27"
+
+[[person.transaction]]
+date = "1950-07-15"
+type = "reinstated"
+join.name = "Cordele"
+note = "rein 1950-07-15"
+
+[[person.transaction]]
+date = "1950-07-24"
+type = "released"
+leave.name = "Cordele"
+note = "rel 1950-07-24"
+

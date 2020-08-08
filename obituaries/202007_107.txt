@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_107"
+
+[[person.meta.citation]]
+title = "Wise Funeral Service"
+date = "2020-07-28"
+url = "https://www.wisefuneral.com/obituaries/obituary-listings?obId=948306#/obituaryInfo%20-%20Donald%20Reed%201946"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-28"
+
+[person.name]
+last = "Reed"
+use = "Donald"
+given = "Donald C."
+
+[person.birth]
+date = "1927-09-22"
+place.country = "US"
+place.state = "OH"
+place.city = "Crawford County"
+
+[person.death]
+date = "2016-06-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Bucyrus"
+
+[person.burial]
+cemetery.name = "Martin Luther Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Bucyrus"
+
+[[person.education]]
+school.name = "Nevada HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Nevada"
+
+

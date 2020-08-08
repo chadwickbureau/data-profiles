@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0180"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-25"
+url = "https://www.findagrave.com/memorial/188415170"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-25"
+
+[person.name]
+last = "Harrington"
+use = "Walter"
+given = "Walter Ray"
+
+[person.birth]
+date = "1919-09-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Owosso"
+
+[person.death]
+date = "1962-01-22"
+place.country = "US"
+place.state = "MI"
+place.city = "Lansing"
+
+[person.burial]
+cemetery.name = "Deepdale Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Delta Township"
+
+[person.sameas]
+findagrave = "188415170"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

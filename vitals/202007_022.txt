@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_022"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Frankovich"
+use = "Mitchell"
+given = "Mitchell John"
+
+[person.birth]
+date = "1909-09-29"
+place.country = "US"
+place.state = "AZ"
+
+[person.death]
+date = "1992-01-01"
+place.country = "US"
+place.state = "CA"
+place.city = "Orange County"
+
+[person.sameas]
+ssn = "570-10-4321"
+

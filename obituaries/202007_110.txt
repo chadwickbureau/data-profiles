@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_110"
+
+[[person.meta.citation]]
+title = "Quincy Herald-Whig"
+date = "2020-07-29"
+url = "https://www.legacy.com/obituaries/whig/obituary.aspx?n=dean-r-steinkoenig&pid=196560424&fhid=9986"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-29"
+
+[person.name]
+last = "Steinkoenig"
+use = "Dean"
+given = "Dean R."
+suffix = "Jr."
+
+[person.birth]
+date = "1937-06-15"
+place.country = "US"
+place.state = "IL"
+place.city = "Highland"
+
+[person.death]
+date = "2020-07-27"
+place.country = "US"
+place.state = "IL"
+place.city = "Bloomington"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Normal"
+
+[[person.education]]
+school.name = "St. Anthony HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Effingham"
+
+[[person.education]]
+school.name = "Quincy University"
+school.type = "college"
+
+

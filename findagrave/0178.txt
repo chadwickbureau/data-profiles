@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0178"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-23"
+url = "https://www.findagrave.com/memorial/74316517"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-23"
+
+[person.name]
+last = "Cromer"
+use = "Harold"
+given = "Harold N."
+
+[person.birth]
+date = "1918-10-13"
+place.country = "US"
+
+[person.death]
+date = "1998-07-01"
+
+[person.burial]
+cemetery.name = "St. Michael Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Schererville"
+
+[person.sameas]
+findagrave = "74316517"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

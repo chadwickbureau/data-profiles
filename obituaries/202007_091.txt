@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_091"
+
+[[person.meta.citation]]
+title = "The Missourian"
+date = "2016-06-22"
+url = "https://www.legacy.com/obituaries/emissourian/obituary.aspx?n=Donald-E-Jett&pid=180404689"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-25"
+
+[person.name]
+last = "Jett"
+use = "Donald"
+given = "Donald E."
+
+[person.birth]
+date = "1944-06-28"
+place.country = "US"
+place.state = "MO"
+place.city = "Washington"
+
+[person.death]
+date = "2016-04-24"
+place.country = "US"
+place.state = "TX"
+place.city = "Coppell"
+
+[[person.education]]
+school.name = "St. Francis Borgia Catholic HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "Washington"
+
+

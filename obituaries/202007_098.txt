@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_098"
+
+[[person.meta.citation]]
+title = "Foran Funeral Home"
+date = "2020-07-26"
+url = "https://www.foranfuneralhome.com/obituaries/Nicholas-Casaletto/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-26"
+
+[person.name]
+last = "Casaletto"
+use = "Nicholas"
+given = "Nicholas F."
+
+[person.birth]
+date = "1926-02-13"
+
+[person.death]
+date = "2020-04-09"
+
+[person.burial]
+cemetery.name = "Mount Auburn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Stickney"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

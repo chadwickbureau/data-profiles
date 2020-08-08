@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:71652"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/71652"
+title = "The Sporting News Player Contract Cards, ScanID: 1014005017"
+
+[person.name]
+last = "Finn"
+given = "Stanley E."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949-04-30"
+type = "signed"
+join.name = "Leesburg"
+note = "Leesburg 1949-04-30"
+
+[[person.transaction]]
+date = "1949-05-18"
+type = "released"
+leave.name = "Leesburg"
+note = "rel 1949-05-18"
+

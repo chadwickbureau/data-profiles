@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_040"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Blazo"
+use = "Michael"
+given = "Michael"
+
+[person.birth]
+date = "1916-01-30"
+place.country = "US"
+place.state = "NJ"
+place.city = "Dunellen"
+
+[person.death]
+date = "1988-04-24"
+
+[person.sameas]
+ssn = "144-07-8970"
+

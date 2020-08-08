@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_036"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Schwab"
+use = "Arland"
+given = "Arland Albert"
+
+[person.birth]
+date = "1917-10-16"
+place.country = "US"
+place.state = "OR"
+place.city = "Gervais"
+
+[person.death]
+date = "2005-09-08"
+
+[person.sameas]
+ssn = "543-03-5940"
+

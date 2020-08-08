@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_017"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2016-05-07"
+url = "https://www.legacy.com/obituaries/sacbee/obituary.aspx?n=Jack-L-Foss&pid=179913168"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-07"
+
+[person.name]
+last = "Foss"
+use = "Jack"
+given = "Jack L."
+
+[person.birth]
+date = "1926-12-07"
+place.country = "US"
+place.state = "WI"
+place.city = "Glidden"
+
+[person.death]
+date = "2016-04-01"
+
+[[person.education]]
+school.name = "Menomonie HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Menomonie"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

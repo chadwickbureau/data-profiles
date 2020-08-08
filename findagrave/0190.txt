@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0190"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-27"
+url = "https://www.findagrave.com/memorial/168995265"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Wessels"
+use = "Carl"
+given = "Carl E."
+
+[person.birth]
+date = "1915-11-23"
+
+[person.death]
+date = "1955-12-09"
+
+[person.burial]
+cemetery.name = "St. Paul Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Palmer"
+
+[person.sameas]
+findagrave = "168995265"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_004"
+
+[[person.meta.citation]]
+title = "Gardner Funeral Home"
+date = "2020-08-03"
+url = "https://www.gardnerfuneralhome.com/obituary/490940/Verino-Santarone/#obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Santarone"
+use = "Reno"
+given = "Verino N."
+
+[person.birth]
+date = "1930-07-03"
+
+[person.death]
+date = "2020-08-02"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

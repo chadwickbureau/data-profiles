@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0179"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-24"
+url = "https://www.findagrave.com/memorial/62323121"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-24"
+
+[person.name]
+last = "Humphries"
+use = "Bertram"
+given = "Bertram Elijah"
+
+[person.birth]
+date = "1910-02-01"
+place.country = "US"
+place.state = "PA"
+
+[person.death]
+date = "1971-04-03"
+place.country = "US"
+place.state = "NY"
+
+[person.burial]
+cemetery.name = "East Greenwich Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "East Greenwich"
+
+[person.sameas]
+findagrave = "62323121"
+

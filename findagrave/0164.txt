@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0164"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-15"
+url = "https://www.findagrave.com/memorial/131037402"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Samhammer"
+use = "Ralph"
+given = "Ralph Edward"
+
+[person.birth]
+date = "1918-01-19"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1986-03-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Ventura County"
+
+[person.burial]
+cemetery.name = "Ivy Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Ventura"
+
+[person.sameas]
+findagrave = "131037402"
+

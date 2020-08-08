@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0196"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/121754631"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Frank"
+use = "Theodore"
+given = "Theodore J."
+
+[person.death]
+date = "1964-06-04"
+place.country = "US"
+place.state = "MN"
+place.city = "Rochester"
+
+[person.burial]
+cemetery.name = "Lakewood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[person.sameas]
+findagrave = "121754631"
+

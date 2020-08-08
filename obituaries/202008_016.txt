@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_016"
+
+[[person.meta.citation]]
+title = "Higgins & Bonner Echo Lake Funeral Home"
+date = "2020-08-06"
+url = "https://www.higginsandbonner.com/obituary/Gus-Colendenski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-06"
+
+[person.name]
+last = "Colendenski"
+use = "Gus"
+given = "August J."
+
+[person.birth]
+date = "1936-10-18"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+[person.death]
+date = "2016-05-12"
+place.country = "US"
+place.state = "NJ"
+place.city = "Somerset"
+

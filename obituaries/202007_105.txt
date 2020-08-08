@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_105"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2020-07-28"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=Tony-Ferrari&pid=180261822"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-28"
+
+[person.name]
+last = "Ferrari"
+use = "Tony"
+given = "Antonio Pietro"
+
+[person.birth]
+date = "1929-08-31"
+
+[person.death]
+date = "2016-06-04"
+
+[person.burial]
+cemetery.name = "Sacramento Valley National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Dixon"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

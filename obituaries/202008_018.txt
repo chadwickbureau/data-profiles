@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_018"
+
+[[person.meta.citation]]
+title = "Idaho Statesman"
+date = "2020-07-07"
+url = "https://www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=samuel-lockwood-wattles&pid=196456074"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-07"
+
+[person.name]
+last = "Wattles"
+use = "Samuel"
+given = "Samuel Lockwood"
+suffix = "Jr."
+
+[person.death]
+date = "2020-07-03"
+

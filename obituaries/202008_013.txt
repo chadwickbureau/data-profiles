@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_013"
+
+[[person.meta.citation]]
+title = "Kurtz Memorial Chapel"
+date = "2020-08-04"
+url = "https://www.kurtzmemorialchapel.com/obituaries/John-P-Angelus?obId=3117942#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-04"
+
+[person.name]
+last = "Angelus"
+use = "John"
+given = "John P."
+
+[person.birth]
+date = "1933-10-24"
+
+[person.death]
+date = "2016-05-12"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

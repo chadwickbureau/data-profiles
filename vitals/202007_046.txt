@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202007_046"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-27"
+
+[person.name]
+last = "Jones"
+use = "Delbert"
+given = "Delbert L."
+
+[person.birth]
+date = "1918-04-28"
+
+[person.death]
+date = "1965-11"
+
+[person.sameas]
+ssn = "502-07-0981"
+

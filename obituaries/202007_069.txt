@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_069"
+
+[[person.meta.citation]]
+title = "Star-Telegram"
+date = "2020-07-17"
+url = "https://www.legacy.com/obituaries/dfw/obituary.aspx?n=kenneth-norman-adams&pid=196505358&fhid=17331"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-17"
+
+[person.name]
+last = "Adams"
+use = "Kenneth"
+given = "Kenneth Norman"
+
+[person.birth]
+date = "1932-11-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Cooper"
+
+[person.death]
+date = "2020-07-10"
+
+[person.burial]
+cemetery.name = "Laurel Land Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fort Worth"
+
+[[person.education]]
+school.name = "Detroit HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Detroit"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

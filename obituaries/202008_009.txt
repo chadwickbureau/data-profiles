@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_009"
+
+[[person.meta.citation]]
+title = "Swedberg Funeral Home"
+date = "2020-08-03"
+url = "https://www.swedbergfuneralhome.com/obituary/maynard-thiel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-03"
+
+[person.name]
+last = "Thiel"
+use = "Bert"
+given = "Maynard"
+
+[person.birth]
+date = "1926-05-04"
+place.country = "US"
+place.state = "WI"
+place.city = "Leopolis"
+
+[person.death]
+date = "2020-07-31"
+place.country = "US"
+place.state = "WI"
+place.city = "Pella"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Leopolis"
+
+[[person.education]]
+school.name = "Marion HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Marion"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

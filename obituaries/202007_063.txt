@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_063"
+
+[[person.meta.citation]]
+title = "Daytona Beach News-Journal"
+date = "2001-07-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-15"
+
+[person.name]
+last = "Fallon"
+use = "John"
+given = "John"
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Quincy"
+
+[person.death]
+date = "2001-07-03"
+place.country = "US"
+place.state = "FL"
+place.city = "Daytona Beach"
+

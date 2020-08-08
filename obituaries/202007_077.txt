@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202007_077"
+
+[[person.meta.citation]]
+title = "Templeton Funeral Home"
+date = "2020-07-20"
+url = "Stark_Jim.pdf"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-20"
+
+[person.name]
+last = "Stark"
+use = "Jim"
+given = "James Robert"
+
+[person.birth]
+date = "1928-11-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Kansas"
+
+[person.death]
+date = "2020-05-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Kansas"
+
+[person.burial]
+cemetery.name = "Pleasant Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Kansas"
+
+[[person.education]]
+school.name = "Kansas HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Kansas"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

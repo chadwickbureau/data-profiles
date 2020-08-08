@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:0199"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/99773183"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Lupescu"
+use = "Chic"
+given = "Chic I."
+
+[person.birth]
+date = "1915-09-14"
+
+[person.death]
+date = "1999-12-10"
+
+[person.burial]
+cemetery.name = "Star of David Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "North Fort Lauderdale"
+
+[person.sameas]
+findagrave = "99773183"
+

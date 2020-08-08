@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:200"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-07-31"
+url = "https://www.findagrave.com/memorial/182193913"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-07-31"
+
+[person.name]
+last = "Martinovich"
+use = "Nicholas"
+given = "Nicholas"
+
+[person.birth]
+date = "1917-11-11"
+
+[person.death]
+date = "2002-10-31"
+
+[person.burial]
+cemetery.name = "Forest Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Detroit"
+
+[person.sameas]
+findagrave = "182193913"
+
