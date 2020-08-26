@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_022"
+
+[[person.meta.citation]]
+title = "Elliott Mortuary & Crematory"
+date = "2020-08-10"
+url = "https://www.elliottmortuary.com/obituary/robert-bob-field"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-10"
+
+[person.name]
+last = "Field"
+use = "Bob"
+given = "Robert Eugene"
+
+[person.birth]
+date = "1922-08-27"
+place.country = "US"
+place.state = "KS"
+place.city = "Hutchinson"
+
+[person.death]
+date = "2020-07-15"
+place.country = "US"
+place.state = "KS"
+place.city = "Pretty Prairie"
+
+[person.burial]
+cemetery.name = "Fairlawn Burial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Hutchinson"
+
+[[person.education]]
+school.name = "Hutchinson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Hutchinson"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

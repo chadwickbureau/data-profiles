@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:113872"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/113872"
+title = "The Sporting News Player Contract Cards, ScanID: 1025001491"
+
+[person.name]
+last = "Kross"
+given = "Wayne H."
+
+
+[[person.transaction]]
+date = "1948-11-15"
+type = "signed"
+join.name = "Olean"
+note = "Olean 1948-11-15"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Olean"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1949-05-25"
+type = "disabled"
+leave.name = "Olean"
+note = "disabled list 1949-05-25"
+
+[[person.transaction]]
+date = "1949-06-30"
+type = "voluntarily-retired"
+leave.name = "Olean"
+note = "vol retired 1949-06-30"
+
+[[person.transaction]]
+date = "1949-09-12"
+type = "drafted"
+leave.name = "Olean"
+join.name = "Springfield (IL)"
+note = "Springfield (IL) 1949-09-12"
+
+[[person.transaction]]
+date = "1949-09-19"
+type = "released"
+leave.name = "Springfield (IL)"
+join.name = "San Antonio"
+note = "rel to San Antonio 1949-09-19"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "San Antonio"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-02-08"
+type = "voluntarily-retired"
+leave.name = "San Antonio"
+note = "vol ret list 1950-02-08"
+
+[[person.transaction]]
+date = "1950-04-10"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Appleton"
+note = "rel to Appleton 1950-04-10"
+
+[[person.transaction]]
+date = "1950-04-20"
+type = "released"
+leave.name = "Appleton"
+note = "rel 1950-04-20"
+

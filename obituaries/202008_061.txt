@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_061"
+
+[[person.meta.citation]]
+title = "Striffler-Hamby Mortuary"
+date = "2020-08-25"
+url = "https://www.dignitymemorial.com/obituaries/columbus-ga/bobby-clark-9322155"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-25"
+
+[person.name]
+last = "Clark"
+use = "Bobby"
+given = "Bobby Gene"
+
+[person.birth]
+date = "1929-03-04"
+place.country = "US"
+place.state = "GA"
+place.city = "LaGrange"
+
+[person.death]
+date = "2020-08-23"
+
+[person.burial]
+cemetery.name = "Parkhill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Columbus"
+

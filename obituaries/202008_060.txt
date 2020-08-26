@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_060"
+
+[[person.meta.citation]]
+title = "Helsley-Johnson Funeral Home"
+date = "2020-08-24"
+url = "https://www.helsleyjohnsonfh.com/obituary/robert-redding"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Redding"
+use = "Bob"
+given = "Robert Samuel"
+
+[person.birth]
+date = "1930-06-06"
+place.country = "US"
+place.state = "MD"
+place.city = "Seat Pleasant"
+
+[person.death]
+date = "2020-07-19"
+place.country = "US"
+place.state = "WV"
+place.city = "Hedgesville"
+
+[[person.education]]
+school.name = "Maryland Park HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Seat Pleasant"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_051"
+
+[[person.meta.citation]]
+title = "Eighner Funeral Home"
+date = "2020-08-20"
+url = "https://www.eighnerfuneralhomes.com/obituaries/Lyle-Fritsch/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-20"
+
+[person.name]
+last = "Fritsch"
+use = "Lyle"
+given = "Lyle G."
+
+[person.birth]
+date = "1920-02-27"
+place.country = "US"
+place.state = "IL"
+place.city = "Plano"
+
+[person.death]
+date = "2020-08-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Sandwich"
+
+[person.burial]
+cemetery.name = "St. John the Baptist Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Somonauk"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

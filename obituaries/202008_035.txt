@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_035"
+
+[[person.meta.citation]]
+title = "York Daily Record"
+date = "2016-04-28"
+url = "https://www.legacy.com/obituaries/york/obituary.aspx?n=Donald-Johnson&pid=179767167"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Johnson"
+use = "Donald"
+given = "Donald J."
+
+[person.birth]
+date = "1929-01-23"
+place.country = "US"
+place.state = "PA"
+place.city = "Yoe"
+
+[person.death]
+date = "2016-04-25"
+place.country = "US"
+place.state = "PA"
+place.city = "Dallastown"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

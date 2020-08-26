@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:205"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-17"
+url = "https://www.findagrave.com/memorial/119225605/james-cullinane"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Cullinane"
+use = "James"
+given = "James"
+
+[person.death]
+date = "1992"
+
+[person.burial]
+cemetery.name = "Oakwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Penfield"
+
+[person.sameas]
+findagrave = "119225605"
+

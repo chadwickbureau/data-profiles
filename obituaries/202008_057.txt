@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_057"
+
+[[person.meta.citation]]
+title = "Anderson-Bethany Funeral Home"
+date = "2020-08-24"
+url = "https://www.andersonbethany.com/obituaries/Wayne-Kross/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Kross"
+use = "Wayne"
+given = "Wayne Howard"
+
+[person.birth]
+date = "1930-10-25"
+
+[person.death]
+date = "2020-08-18"
+
+[person.burial]
+cemetery.name = "General Douglas L. McBride Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NM"
+cemetery.place.city = "Roswell"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

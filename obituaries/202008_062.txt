@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_062"
+
+[[person.meta.citation]]
+title = "Burnett-Dane Funeral Home"
+date = "2020-08-25"
+url = "https://www.burnettdane.com/obituaries/Howard-Jusdon/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-25"
+
+[person.name]
+last = "Judson"
+use = "Howie"
+given = "Howard K."
+
+[person.birth]
+date = "1925-02-16"
+
+[person.death]
+date = "2020-08-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Haven"
+
+[person.burial]
+cemetery.name = "Linn-Hebron Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hebron"
+
+[[person.education]]
+school.name = "Hebron HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Hebron"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

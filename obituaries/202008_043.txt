@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_043"
+
+[[person.meta.citation]]
+title = "Johnson Brown-Service Funeral Home"
+date = "2020-08-18"
+url = "https://www.johnsonbrownservicefh.com/notices/JamesBubber-Snider"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-18"
+
+[person.name]
+last = "Snider"
+use = "James"
+given = "James"
+nick = "Bubber"
+
+[person.birth]
+date = "1928-02-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Langdale"
+
+[person.death]
+date = "2016-03-07"
+place.country = "US"
+place.state = "AL"
+place.city = "Lanett"
+
+[person.burial]
+cemetery.name = "Fairfax Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Valley"
+

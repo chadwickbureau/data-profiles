@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_024"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2020-08-12"
+url = "https://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=r-nelson-griebel&pid=196623648"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-13"
+
+[person.name]
+last = "Griebel"
+use = "Oz"
+given = "R. Nelson"
+
+[person.birth]
+date = "1949-06-21"
+place.country = "US"
+place.state = "NJ"
+place.city = "Camden"
+
+[person.death]
+date = "2020-07-29"
+
+[[person.education]]
+school.name = "Dartmouth College"
+school.type = "college"
+
+

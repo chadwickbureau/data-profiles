@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_036"
+
+[[person.meta.citation]]
+title = "Jackson Lytle & Lewis"
+date = "2020-08-17"
+url = "https://www.jacksonlytle.com/obituaries/Harold-Bud-Mills?obId=902528#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Mills"
+use = "Bud"
+given = "Harold M."
+
+[person.birth]
+date = "1940-02-03"
+place.country = "US"
+place.state = "OH"
+place.city = "South Charleston"
+
+[person.death]
+date = "2016-04-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Columbus"
+
+[person.burial]
+cemetery.name = "St. Bernard Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Springfield"
+
+[[person.education]]
+school.name = "Springfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Springfield"
+
+

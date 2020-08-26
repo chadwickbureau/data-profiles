@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_038"
+
+[[person.meta.citation]]
+title = "Springfield (MO) News-Leader"
+date = "1985-12-02"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Brown"
+use = "Virgil"
+given = "Virgil J."
+nick = "Hook"
+
+[person.death]
+date = "1985-11-29"
+place.country = "US"
+place.state = "MO"
+place.city = "Springfield"
+

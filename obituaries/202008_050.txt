@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_050"
+
+[[person.meta.citation]]
+title = "Dunbar Funeral Home"
+date = "2020-08-19"
+url = "https://www.dignitymemorial.com/obituaries/columbia-sc/wesley-sexton-6859808"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Sexton"
+use = "Wesley"
+given = "Wesley Blackmon"
+
+[person.birth]
+date = "1931-04-03"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[person.death]
+date = "2016-03-24"
+
+[person.burial]
+cemetery.name = "Fort Jackson National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Olympia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Columbia"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

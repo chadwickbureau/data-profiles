@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_037"
+
+[[person.meta.citation]]
+title = "Appleton Post-Crescent"
+date = "2016-04-20"
+url = "https://www.legacy.com/obituaries/postcrescent/obituary.aspx?n=Thomas-R-Rhyner&pid=179677533"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Rhyner"
+use = "Tom"
+given = "Thomas R."
+
+[person.birth]
+date = "1932-10-01"
+place.country = "US"
+place.state = "WI"
+place.city = "Oshkosh"
+
+[person.death]
+date = "2016-04-18"
+place.country = "US"
+place.state = "WI"
+place.city = "Winneconne"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

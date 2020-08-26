@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_048"
+
+[[person.meta.citation]]
+title = "James J. Terry Funeral Homes"
+date = "2020-08-19"
+url = "https://www.jamesterryfuneralhome.com/tributes/William-Gill"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Gill"
+use = "Ev"
+given = "William Everett"
+
+[person.birth]
+date = "1923-04-27"
+place.country = "US"
+place.state = "PA"
+place.city = "Coatesville"
+
+[person.death]
+date = "2016-04-02"
+place.country = "US"
+place.state = "PA"
+place.city = "West Chester"
+
+[person.burial]
+cemetery.name = "Cochranville Methodist Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Cochranville"
+
+[[person.education]]
+school.name = "Henderson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "West Chester"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

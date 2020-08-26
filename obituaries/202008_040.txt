@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_040"
+
+[[person.meta.citation]]
+title = "Rutland Daily Herald"
+date = "1971-11-24"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "LaFlamme"
+use = "Howard"
+given = "Howard K."
+
+[person.birth]
+date = "1908-08-06"
+place.country = "US"
+place.state = "VT"
+place.city = "Bennington"
+
+[person.death]
+date = "1971-11-20"
+place.country = "US"
+place.state = "NY"
+place.city = "Schenectady"
+
+[person.burial]
+cemetery.name = "Memory Gardens Cemetery and Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Colonie"
+
+[[person.education]]
+school.name = "Bennington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VT"
+school.place.city = "Bennington"
+
+[[person.education]]
+school.name = "Colgate University"
+school.type = "college"
+
+

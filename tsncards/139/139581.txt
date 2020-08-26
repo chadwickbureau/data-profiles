@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:139581"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/139581"
+title = "The Sporting News Player Contract Cards, ScanID: 1041004945"
+
+[person.name]
+last = "Slupe"
+given = "Dale"
+
+
+[[person.transaction]]
+date = "1955-03-27"
+type = "signed"
+join.name = "Hot Springs"
+note = "Hot Springs 1955-03-27"
+
+[[person.transaction]]
+date = "1955-04-09"
+type = "released"
+leave.name = "Hot Springs"
+note = "rel 1955-04-09"
+

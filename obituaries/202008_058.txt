@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_058"
+
+[[person.meta.citation]]
+title = "Sunset Memorial Park Funeral Home"
+date = "2020-08-24"
+url = "https://sunsetmemorialpark.com/obituaries/james-bradburn/1271/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Bradburn"
+use = "James"
+given = "James"
+
+[person.birth]
+date = "1927-08-05"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.death]
+date = "2020-08-21"
+
+[person.burial]
+cemetery.name = "Cahaba Heights Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Vestavia Hills"
+

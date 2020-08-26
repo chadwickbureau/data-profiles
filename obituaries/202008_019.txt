@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_019"
+
+[[person.meta.citation]]
+title = "Woodfin Funeral Chapel"
+date = "2020-08-09"
+url = "https://www.woodfinchapel.com/obituary/dr-ah-lefty-solomon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-09"
+
+[person.name]
+last = "Solomon"
+use = "Lefty"
+given = "A. H."
+
+[person.birth]
+date = "1933-03-13"
+place.country = "US"
+place.state = "KY"
+place.city = "Crab Orchard"
+
+[person.death]
+date = "2020-08-04"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Union College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Barbourville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

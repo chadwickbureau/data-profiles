@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:155440"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/155440"
+title = "The Sporting News Player Contract Cards, ScanID: 1029003445"
+
+[person.name]
+last = "McDonnell"
+given = "Harold"
+
+
+[[person.transaction]]
+date = "1944-10"
+type = "signed"
+join.name = "Bradford"
+note = "Bradford 1944-10"
+
+[[person.transaction]]
+date = "1945"
+type = "reserved"
+join.name = "Bradford"
+note = "for 1945"
+
+[[person.transaction]]
+date = "1945-03"
+type = "voluntarily-retired"
+leave.name = "Bradford"
+note = "vol ret 1945-03"
+
+[[person.transaction]]
+date = "1947-01-11"
+type = "reinstated"
+join.name = "Bradford"
+note = "rein from service 1947-01-11"
+
+[[person.transaction]]
+date = "1947-03-10"
+type = "released"
+leave.name = "Bradford"
+join.name = "Appleton"
+note = "rel to Appleton 1947-03-10"
+
+[[person.transaction]]
+date = "1947-04-29"
+type = "released"
+leave.name = "Appleton"
+note = "rel 1947-04-29"
+

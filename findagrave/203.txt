@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:203"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-17"
+url = "https://www.findagrave.com/memorial/154942785"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Hornsby"
+use = "Bill"
+given = "William Pennington"
+
+[person.birth]
+date = "1925-06-02"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1984-06-29"
+place.country = "US"
+place.state = "TN"
+place.city = "Nashville"
+
+[person.burial]
+cemetery.name = "Nashville National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Madison"
+
+[person.sameas]
+findagrave = "154942785"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Hornsby"
+person.name.use = "Rogers"
+person.name.given = "Rogers"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

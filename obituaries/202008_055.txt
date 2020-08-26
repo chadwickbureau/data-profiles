@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_055"
+
+[[person.meta.citation]]
+title = "Woodley Funeral Home"
+date = "2020-08-24"
+url = "https://www.woodleyfuneralhome.com/obituaries/Brad-Hames/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Hames"
+use = "Brad"
+given = "Brad Michael"
+
+[person.birth]
+date = "1972-03-18"
+place.country = "US"
+place.state = "IA"
+place.city = "Story City"
+
+[person.death]
+date = "2020-08-17"
+place.country = "US"
+place.state = "IA"
+place.city = "Ackley"
+
+[person.burial]
+cemetery.name = "Oak Wood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Ackley"
+
+[[person.education]]
+school.name = "Webster City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Webster City"
+
+[[person.education]]
+school.name = "University of Northern Iowa"
+school.type = "college"
+
+

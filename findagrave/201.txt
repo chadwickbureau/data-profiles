@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:201"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-13"
+url = "https://www.findagrave.com/memorial/171592395"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-13"
+
+[person.name]
+last = "Grabowski"
+use = "Richard"
+given = "Richard J."
+
+[person.birth]
+date = "1932-07-17"
+
+[person.death]
+date = "2001-11-01"
+
+[person.burial]
+cemetery.name = "Floral Hills Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Tucker"
+
+[person.sameas]
+findagrave = "171592395"
+

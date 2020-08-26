@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_042"
+
+[[person.meta.citation]]
+title = "The State"
+date = "2016-04-18"
+url = "https://www.legacy.com/obituaries/thestate/obituary.aspx?n=Thompson-Jameson-Watson-Tom&pid=179657401"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-18"
+
+[person.name]
+last = "Watson"
+use = "Tom"
+given = "Thompson Jameson"
+
+[person.birth]
+date = "1927-10-16"
+
+[person.death]
+date = "2016-04-16"
+
+[[person.military]]
+country = "US"
+conflict = "World War II"
+
+

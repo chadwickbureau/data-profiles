@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_047"
+
+[[person.meta.citation]]
+title = "Preston-Hanley Funeral Homes"
+date = "2020-08-19"
+url = "http://hosting-4535.tributes.com/obituary/show/Michael-Caringello-108493460"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Caringello"
+use = "Mike"
+given = "Michael"
+
+[person.birth]
+date = "1926-04-28"
+place.country = "US"
+place.state = "IL"
+place.city = "Highland Park"
+
+[person.death]
+date = "2020-08-17"
+place.country = "US"
+place.state = "IL"
+place.city = "Peoria"
+
+[person.burial]
+cemetery.name = "Lakeside Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Pekin"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

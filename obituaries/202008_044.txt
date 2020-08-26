@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_044"
+
+[[person.meta.citation]]
+title = "Chicago Tribune"
+date = "2016-04-01"
+url = "https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=george-feuerschwenger&pid=179479246&eid=sp_ommatch"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-18"
+
+[person.name]
+last = "Feuerschwenger"
+use = "George"
+given = "George"
+
+[person.death]
+date = "2016-03-30"
+place.country = "US"
+place.state = "SC"
+place.city = "Seneca"
+
+[[person.education]]
+school.name = "University of Illinois at Urbana-Champaign"
+school.type = "college"
+
+

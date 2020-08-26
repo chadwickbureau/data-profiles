@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "morris:202008_001"
+
+[[person.meta.citation]]
+title = "Pocono Record 1954-03-25"
+pages = "28"
+
+[person.name]
+last = "Snyder"
+use = "Eddie"
+given = "Eddie"
+
+[person.description]
+note = [ "baseball coach for Easton (PA) High School" ]
+
+[[person.affiliation]]
+type = "player"
+dates = "1950"
+team.name = "Stroudsburg"
+team.league.name = "North Atlantic League"
+description.position = "C-IF"
+
+

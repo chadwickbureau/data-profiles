@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_059"
+
+[[person.meta.citation]]
+title = "Galzerano Funeral Home"
+date = "2020-08-24"
+url = "https://galzeranofh.com/content/Frank%20W.-DiGregorio"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "DiGregorio"
+use = "Frank"
+given = "Frank W."
+
+[person.birth]
+date = "1923-12-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Philadelphia"
+
+[person.death]
+date = "2020-08-18"
+
+[person.burial]
+cemetery.name = "Washington Crossing National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Newtown"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

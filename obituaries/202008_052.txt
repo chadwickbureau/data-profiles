@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_052"
+
+[[person.meta.citation]]
+title = "Houston Chronicle"
+date = "2020-08-23"
+url = "https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=robert-brock&pid=196672201"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-21"
+
+[person.name]
+last = "Brock"
+use = "Bob"
+given = "Robert Fenton"
+
+[person.birth]
+date = "1927-10-11"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "2020-08-16"
+
+[person.burial]
+cemetery.name = "Houston National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[[person.education]]
+school.name = "Reagan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Houston"
+
+[[person.education]]
+school.name = "University of Texas at Arlington"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

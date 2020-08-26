@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_045"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "2020-08-19"
+url = "https://www.legacy.com/obituaries/app/obituary.aspx?n=john-jack-francis-van-natta&pid=196659027"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Van Natta"
+use = "Jack"
+given = "John Francis"
+suffix = "Sr."
+
+[person.birth]
+date = "1938-05-02"
+place.country = "US"
+place.state = "NJ"
+place.city = "High Bridge"
+
+[person.death]
+date = "2020-08-14"
+place.country = "US"
+place.state = "NJ"
+
+[person.burial]
+cemetery.name = "Good Luck Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Lanoka Harbor"
+
+[[person.education]]
+school.name = "High Bridge HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "High Bridge"
+
+[[person.education]]
+school.name = "Moravian College"
+school.type = "college"
+
+

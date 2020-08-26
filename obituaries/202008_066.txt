@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_066"
+
+[[person.meta.citation]]
+title = "Bobbitt Memorial Chapel"
+date = "2020-08-09"
+url = "https://www.bobbittchapel.com/obituaries/Jason-Moore-10/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-09"
+
+[person.name]
+last = "Moore"
+use = "Jason"
+given = "Jason Owen"
+
+[person.birth]
+date = "1974-01-08"
+
+[person.death]
+date = "2020-07-09"
+place.country = "US"
+place.state = "CA"
+place.city = "San Bernardino"
+
+[person.burial]
+cemetery.name = "Mount View Mortuary and Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "San Bernardino"
+
+[[person.education]]
+school.name = "Cajon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Bernardino"
+
+

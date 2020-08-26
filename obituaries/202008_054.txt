@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_054"
+
+[[person.meta.citation]]
+title = "Dothan Eagle"
+date = "2020-08-18"
+url = "https://dothaneagle.com/obituaries/bowden-m-lamar-doc/article_2da54241-b878-5508-b796-87f0c7c8aa71.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Bowden"
+use = "Doc"
+given = "M. Lamar"
+
+[person.birth]
+date = "1928-12-26"
+place.country = "US"
+place.state = "AL"
+place.city = "Troy"
+
+[person.death]
+date = "2020-08-11"
+
+[[person.education]]
+school.name = "University of Georgia"
+school.type = "college"
+
+

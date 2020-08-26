@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_023"
+
+[[person.meta.citation]]
+title = "Lombard Funeral Home"
+date = "2020-08-11"
+url = "https://www.lombardfuneralhome.com/obituary/Edward-Szado"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-11"
+
+[person.name]
+last = "Szado"
+use = "Ed"
+given = "Edward John"
+
+[person.birth]
+date = "1948-11-29"
+place.country = "US"
+place.state = "MA"
+place.city = "Ware"
+
+[person.death]
+date = "2020-08-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Bethany Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Monson"
+
+[[person.education]]
+school.name = "Monson HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Monson"
+
+[[person.education]]
+school.name = "Providence College"
+school.type = "college"
+
+

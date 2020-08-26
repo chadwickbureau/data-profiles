@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_034"
+
+[[person.meta.citation]]
+title = "Inside Nova"
+date = "2020-08-14"
+url = "https://www.insidenova.com/obituaries/wilbur-r-bill-dezerne/article_edd0991e-de4b-11ea-931f-57b4c1a04b14.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "DeZerne"
+use = "Bill"
+given = "Wilbur R."
+
+[person.birth]
+date = "1921-01-22"
+place.country = "US"
+place.state = "NM"
+place.city = "Albuquerque"
+
+[person.death]
+date = "2020-08-04"
+
+[person.burial]
+cemetery.name = "Fairfax Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Fairfax"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

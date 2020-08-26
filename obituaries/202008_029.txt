@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_029"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "2020-08-16"
+url = "https://www.legacy.com/obituaries/azcentral/obituary.aspx?n=brent-foshie-fosh&pid=196641279"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-16"
+
+[person.name]
+last = "Foshie"
+use = "Brent"
+given = "Brent"
+nick = "Fosh"
+
+[person.birth]
+date = "1946"
+place.country = "US"
+place.state = "NV"
+place.city = "Schurz"
+
+[person.death]
+date = "2020-06-23"
+place.country = "US"
+place.state = "AZ"
+place.city = "Chandler"
+
+[[person.education]]
+school.name = "Mineral County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NV"
+school.place.city = "Hawthorne"
+
+[[person.education]]
+school.name = "University of Wyoming"
+school.type = "college"
+
+

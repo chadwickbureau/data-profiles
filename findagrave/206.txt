@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:206"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-17"
+url = "https://www.findagrave.com/memorial/148225749/howard-k_-la_flamme"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "La Flamme"
+use = "Howard"
+given = "Howard K."
+
+[person.birth]
+date = "1908"
+
+[person.death]
+date = "1971"
+
+[person.burial]
+cemetery.name = "Memory Gardens Cemetery and Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Colonie"
+
+[person.sameas]
+findagrave = "148225749"
+

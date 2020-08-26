@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_064"
+
+[[person.meta.citation]]
+title = "Pfeffer Funeral Home"
+date = "2020-08-25"
+url = "http://pfefferfuneralhome.frontrunnerpro.com/book-of-memories/2441975/McDonnell-Harold/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-25"
+
+[person.name]
+last = "McDonnell"
+use = "Harold"
+given = "Harold R."
+
+[person.birth]
+date = "1926-07-02"
+place.country = "US"
+place.state = "WI"
+place.city = "Manitowoc"
+
+[person.death]
+date = "2016-03-21"
+place.country = "US"
+place.state = "WI"
+place.city = "Manitowoc"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Lincoln HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Manitowoc"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_046"
+
+[[person.meta.citation]]
+title = "Bonney-Watson Funeral Home"
+date = "2020-08-19"
+url = "https://bonneywatson.com/obituary/charles-leo-jackson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Jackson"
+use = "Charles"
+given = "Charles Leo"
+
+[person.birth]
+date = "1923-06-21"
+place.country = "US"
+place.state = "AR"
+place.city = "Eudora"
+
+[person.death]
+date = "2020-08-08"
+
+[person.burial]
+cemetery.name = "Washington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "SeaTac"
+

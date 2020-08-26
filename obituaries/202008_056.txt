@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_056"
+
+[[person.meta.citation]]
+title = "Phalen Funeral Home"
+date = "2020-08-24"
+url = "https://www.phalenfuneral.com/obituary/Joseph-Haberl"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Haberl"
+use = "Joe"
+given = "Joseph Michael"
+
+[person.birth]
+date = "1932-08-21"
+place.country = "US"
+place.state = "CT"
+place.city = "New Britain"
+
+[person.death]
+date = "2020-07-29"
+
+[[person.education]]
+school.name = "Newington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Newington"
+
+[[person.education]]
+school.name = "University of Connecticut"
+school.type = "college"
+
+[[person.education]]
+school.name = "Central Connecticut State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

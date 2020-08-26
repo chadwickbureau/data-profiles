@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202008_002"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Cullinane"
+use = "James"
+given = "James Ralph"
+
+[person.birth]
+date = "1918-02-28"
+place.country = "US"
+place.state = "MA"
+place.city = "Concord"
+
+[person.death]
+date = "1992-06-26"
+
+[person.sameas]
+ssn = "011-12-4649"
+

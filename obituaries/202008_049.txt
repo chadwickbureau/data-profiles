@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_049"
+
+[[person.meta.citation]]
+title = "Everett Herald"
+date = "2016-04-02"
+url = "https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Dalemont-William-Vick-Dale&pid=179493165"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-19"
+
+[person.name]
+last = "Vick"
+use = "Dale"
+given = "Dalemont William"
+
+[person.birth]
+date = "1929-09-19"
+place.country = "US"
+place.state = "MT"
+place.city = "Forsyth"
+
+[person.death]
+date = "2016-03-23"
+
+[person.burial]
+cemetery.name = "Floral Hills Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Lynnwood"
+
+[[person.education]]
+school.name = "Arlington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Arlington"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

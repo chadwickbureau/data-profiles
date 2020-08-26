@@ -1,0 +1,79 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:73430"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/73430"
+title = "The Sporting News Player Contract Cards, ScanID: 1014004055"
+
+[person.name]
+last = "Feuerschwenger"
+given = "George"
+
+[person.description]
+position = "3B"
+
+[[person.resides]]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1952-07-17"
+type = "signed"
+join.name = "Independence"
+note = "Independence 1952-07-17"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Independence"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-03-11"
+type = "released"
+leave.name = "Independence"
+join.name = "San Antonio"
+note = "rel to San Antonio 1953-03-11"
+
+[[person.transaction]]
+date = "1953-03-13"
+type = "released"
+leave.name = "San Antonio"
+join.name = "Wytheville"
+note = "rel to Wytheville 1953-03-13"
+
+[[person.transaction]]
+date = "1953-04-26"
+type = "suspended"
+leave.name = "Wytheville"
+note = "1953-04-26"
+
+[[person.transaction]]
+date = "1953-05-12"
+type = "disqualified"
+leave.name = "Wytheville"
+note = "disqualified list 1953-05-12"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Wytheville"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1954-09-30"
+type = "released"
+leave.name = "Wytheville"
+join.name = "San Antonio"
+note = "rel to San Antonio 1954-09-30"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1955"
+

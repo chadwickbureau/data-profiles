@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:204"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-17"
+url = "https://www.findagrave.com/memorial/76426173/virgil-j-brown"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Brown"
+use = "Virgil"
+given = "Virgil J."
+nick = "Hook"
+
+[person.birth]
+date = "1909-08-02"
+
+[person.death]
+date = "1985-11-29"
+
+[person.burial]
+cemetery.name = "White Chapel Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Springfield"
+
+[person.sameas]
+findagrave = "76426173"
+

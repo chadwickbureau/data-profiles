@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:103952"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/103952"
+title = "The Sporting News Player Contract Cards, ScanID: 1037003805"
+
+[person.name]
+last = "Rhyner"
+given = "Thomas"
+
+
+[[person.transaction]]
+date = "1950-07-03"
+type = "signed"
+join.name = "Oshkosh"
+note = "Oshkosh 1950-07-03"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Oshkosh"
+note = "for 1951"
+
+[[person.transaction]]
+date = "1951-04-19"
+type = "released"
+leave.name = "Oshkosh"
+join.name = "Bristol (VA)"
+note = "rel to Bristol (VA) 1951-04-19"
+
+[[person.transaction]]
+date = "1951-05-25"
+type = "released"
+leave.name = "Bristol (VA)"
+note = "rel 1951-05-25"
+

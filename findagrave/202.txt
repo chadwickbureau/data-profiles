@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:202"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-16"
+url = "https://www.findagrave.com/memorial/168725162"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-16"
+
+[person.name]
+last = "Snyder"
+use = "Edward"
+given = "Edward Thatcher"
+
+[person.birth]
+date = "1926"
+
+[person.death]
+date = "1967"
+
+[person.burial]
+cemetery.name = "Northampton Memorial Shrine"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Palmer Township"
+
+[person.sameas]
+findagrave = "168725162"
+

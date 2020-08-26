@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_020"
+
+[[person.meta.citation]]
+title = "Trinity Memorial Centers"
+date = "2020-08-10"
+url = "https://trinitymemorialcenters.com/obituaries/richard-williams-2/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-10"
+
+[person.name]
+last = "Williams"
+use = "Buddy"
+given = "Richard Alan"
+suffix = "Sr."
+
+[person.birth]
+date = "1939-06-02"
+place.country = "US"
+place.state = "TN"
+place.city = "Johnson City"
+
+[person.death]
+date = "2020-08-04"
+
+[person.burial]
+cemetery.name = "Immanuel Lutheran Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Blountville"
+
+[[person.education]]
+school.name = "Dobyns-Bennett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Kingsport"
+
+

@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_030"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "1967-01-09"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-16"
+
+[person.name]
+last = "Snyder"
+use = "Edward"
+given = "Edward T."
+
+[person.death]
+date = "1967-01-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Easton"
+
+[[person.education]]
+school.name = "Lafayette College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_031"
+
+[[person.meta.citation]]
+title = "Chase Parkway Memorial"
+date = "2020-08-17"
+url = "https://www.chaseparkwaymemorial.com/obituary/albert-lebel"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Lebel"
+use = "Al"
+given = "Albert"
+nick = "Peanuts"
+
+[person.birth]
+date = "1933-03-23"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+[person.death]
+date = "2020-08-14"
+place.country = "US"
+place.state = "CT"
+place.city = "Waterbury"
+
+[person.burial]
+cemetery.name = "Mount Olivet Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Watertown"
+
+[[person.education]]
+school.name = "Wilby HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Waterbury"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

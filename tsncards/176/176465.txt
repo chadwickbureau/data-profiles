@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:176465"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/176465"
+title = "The Sporting News Player Contract Cards, ScanID: 1028005735"
+
+[person.name]
+last = "Mauer"
+given = "Donald C."
+
+
+[[person.transaction]]
+date = "1954-03-30"
+type = "signed"
+join.name = "Colorado Springs"
+note = "Colorado Springs 1954-03-30"
+
+[[person.transaction]]
+date = "1954-04-17"
+type = "released"
+leave.name = "Colorado Springs"
+note = "rel 1954-04-17"
+

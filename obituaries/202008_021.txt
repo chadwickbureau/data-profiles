@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_021"
+
+[[person.meta.citation]]
+title = "Louisville Courier-Journal"
+date = "2006-07-10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-10"
+
+[person.name]
+last = "Watkins"
+use = "James"
+given = "James Woodrow"
+
+[person.birth]
+date = "1928-02-28"
+
+[person.death]
+date = "2006-07-09"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.burial]
+cemetery.name = "Louisville Memorial Gardens West"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Louisville"
+
+[[person.education]]
+school.name = "Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+

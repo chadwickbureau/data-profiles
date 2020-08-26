@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_026"
+
+[[person.meta.citation]]
+title = "Kuhn Funeral Home"
+date = "2020-08-15"
+url = "https://memorials.kuhnfuneralhomes.com/genero-zizza/4299075/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-15"
+
+[person.name]
+last = "Zizza"
+use = "Genero"
+given = "Genero"
+
+[person.birth]
+date = "1931-06-04"
+place.country = "US"
+place.state = "PA"
+place.city = "Reading"
+
+[person.death]
+date = "2020-08-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Laureldale"
+
+[[person.education]]
+school.name = "Reading HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Reading"
+
+

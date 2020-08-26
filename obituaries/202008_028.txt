@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_028"
+
+[[person.meta.citation]]
+title = "Pioneer Press"
+date = "2020-08-16"
+url = "https://www.legacy.com/obituaries/twincities/obituary.aspx?n=donald-c-mauer-jake&pid=196645661"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-16"
+
+[person.name]
+last = "Mauer"
+use = "Jake"
+given = "Donald C."
+suffix = "Sr."
+
+[person.death]
+date = "2020-08-11"
+
+[[person.relation]]
+relationship = "grandfather of"
+person.name.last = "Mauer"
+person.name.use = "Joe"
+person.name.given = "Joe"
+
+
+[[person.education]]
+school.name = "Cretin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "St. Paul"
+
+[[person.education]]
+school.name = "Minnesota State University, Mankato"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+

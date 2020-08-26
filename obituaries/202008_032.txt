@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_032"
+
+[[person.meta.citation]]
+title = "Higgins Funeral Home"
+date = "2020-08-17"
+url = "https://higginsfh.com/obituaries/donald-woodrow-kidd/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-17"
+
+[person.name]
+last = "Kidd"
+use = "Donald"
+given = "Donald Woodrow"
+
+[person.birth]
+date = "1935-05-30"
+place.country = "US"
+place.state = "TN"
+place.city = "Dyer County"
+
+[person.death]
+date = "2020-08-08"
+
+[person.burial]
+cemetery.name = "Flintville Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Flintville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+
