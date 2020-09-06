@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_067"
+
+[[person.meta.citation]]
+title = "Kilpatrick Funeral Homes"
+date = "2020-08-26"
+url = "https://www.kilpatrickfuneralhomes.com/obituary/robert-v-lockwood/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Lockwood"
+use = "Robert"
+given = "Robert V."
+
+[person.birth]
+date = "1942-04-13"
+place.country = "US"
+place.state = "LA"
+place.city = "Spearsville"
+
+[person.death]
+date = "2020-08-23"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[person.burial]
+cemetery.name = "Liberty Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Spearsville"
+
+[[person.education]]
+school.name = "Spearsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Spearsville"
+
+[[person.education]]
+school.name = "Centenary College of Louisiana"
+school.type = "college"
+
+

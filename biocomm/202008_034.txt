@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_034"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hardy"
+use = "Carroll"
+given = "Carroll William"
+
+[person.death]
+date = "2020-08-09"
+place.country = "US"
+place.state = "CO"
+place.city = "Highlands Ranch"
+
+[person.description]
+mlb_played = "1958/"
+

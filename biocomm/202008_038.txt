@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_038"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hogan"
+use = "Malachi"
+given = "Malachi Sylvanus"
+
+[person.birth]
+date = "1878-04-16"
+place.country = "US"
+place.state = "OH"
+place.city = "Broadway"
+
+[person.death]
+date = "1945-03-04"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+
+[person.burial]
+cemetery.name = "Knollwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Mayfield Heights"
+
+[person.description]
+mlb_played = "1901/"
+

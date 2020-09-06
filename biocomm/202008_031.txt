@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_031"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Gilbreth"
+use = "William"
+given = "William Freeman"
+
+[person.death]
+date = "2020-07-12"
+place.country = "US"
+place.state = "TX"
+place.city = "Abilene"
+
+[person.description]
+mlb_played = "1971/"
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_068"
+
+[[person.meta.citation]]
+title = "Geisel Funeral Home"
+date = "2020-08-26"
+url = "https://memorials.geiselfuneralhome.com/fred-fore/2431297/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Fore"
+use = "Fred"
+given = "Fred Barmont"
+
+[person.birth]
+date = "1926-04-19"
+place.country = "US"
+place.state = "PA"
+place.city = "McConnelsburg"
+
+[person.death]
+date = "2016-03-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[[person.education]]
+school.name = "McConnelsburg HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "McConnelsburg"
+
+[[person.education]]
+school.name = "Lebanon Valley College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

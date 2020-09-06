@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_008"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2020-09-04"
+url = "https://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=john-recco&pid=196740231"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-04"
+
+[person.name]
+last = "Recco"
+use = "John"
+given = "John"
+
+[person.death]
+date = "2020-09-01"
+
+[[person.education]]
+school.name = "Newton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Newton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

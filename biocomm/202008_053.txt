@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_053"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Lawrence"
+use = "Robert"
+given = "Robert Andrew"
+
+[person.burial]
+cemetery.name = "Mount St. Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Flushing"
+
+[person.description]
+mlb_played = "1924/"
+

@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_041"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hurley"
+use = "Jeremiah"
+given = "Jeremiah"
+
+[person.description]
+mlb_played = "1901-09-22/"
+

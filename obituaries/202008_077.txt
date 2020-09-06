@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_077"
+
+[[person.meta.citation]]
+title = "Tuttle Funeral Home"
+date = "2020-08-27"
+url = "https://tuttlefh.com/tribute/details/681/Don-Soisson/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Soisson"
+use = "Don"
+given = "Don B."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "South Connellsville"
+
+[person.death]
+date = "2016-03-07"
+place.country = "US"
+place.state = "NJ"
+place.city = "Randolph"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

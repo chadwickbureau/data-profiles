@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_083"
+
+[[person.meta.citation]]
+title = "Winona Daily News"
+date = "1981-09-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Burmeister"
+use = "Gerald"
+given = "Gerald William"
+
+[person.death]
+date = "1981-08-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "Forest Park Westheimer Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_045"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Judson"
+use = "Howard"
+given = "Howard Kolls"
+
+[person.birth]
+date = "1925-02-16"
+
+[person.death]
+date = "2020-08-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Winter Haven"
+
+[person.burial]
+cemetery.name = "Linn-Hebron Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hebron"
+
+[person.description]
+mlb_played = "1948/"
+

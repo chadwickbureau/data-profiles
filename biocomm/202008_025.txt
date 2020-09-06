@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_025"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Garber"
+use = "Robert"
+given = "Robert Mitchell"
+
+[person.burial]
+cemetery.name = "New St. Joseph Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Connellsville"
+
+[person.description]
+mlb_played = "1956/"
+

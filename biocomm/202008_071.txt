@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_071"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Prescott"
+use = "George"
+given = "George Bertrand"
+
+[person.death]
+date = "2020-08-02"
+place.country = "PA"
+place.state = "Panama"
+place.city = "Panama"
+
+[person.description]
+mlb_played = "1961/"
+

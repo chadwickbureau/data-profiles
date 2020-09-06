@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_019"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Fewster"
+use = "Wilson"
+given = "Wilson Lloyd"
+
+[person.birth]
+date = "1896-11-10"
+
+[person.description]
+mlb_played = "1917/"
+

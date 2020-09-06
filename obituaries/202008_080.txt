@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_080"
+
+[[person.meta.citation]]
+title = "Stevens Funeral Home"
+date = "2020-08-29"
+url = "https://www.stevensfuneralhome.net/obituaries/Elmer-Lindsey/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Lindsey"
+use = "Elmer"
+given = "Elmer B."
+nick = "B"
+
+[person.birth]
+date = "1940-02-22"
+
+[person.death]
+date = "2020-08-26"
+
+[person.burial]
+cemetery.name = "Lindsey Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Forrest City"
+
+[[person.education]]
+school.name = "Forrest City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Forrest City"
+
+

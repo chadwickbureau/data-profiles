@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_080"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Shannon"
+use = "Owen"
+given = "Owen Dennis Ignatius"
+
+[person.description]
+mlb_played = "1903-09-05/"
+

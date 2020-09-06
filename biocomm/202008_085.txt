@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_085"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Strief"
+use = "George"
+given = "George Andrew"
+
+[person.burial]
+cemetery.name = "Acacia Masonic Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Mayfield Heights"
+
+[person.description]
+mlb_played = "1879/"
+

@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_075"
+
+[[person.meta.citation]]
+title = "San Antonio Express"
+date = "1967-11-08"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Peters"
+use = "George"
+given = "George H."
+suffix = "Sr."
+
+[person.death]
+date = "1967-11-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Cotulla"
+
+[person.burial]
+cemetery.name = "Cotulla Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Cotulla"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War I"
+
+

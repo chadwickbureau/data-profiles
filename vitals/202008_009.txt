@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202008_009"
+
+[[person.meta.citation]]
+title = "US Department of Veterans Affairs BIRLS Death File, 1850-2010"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Collins"
+use = "Fred"
+given = "Fred"
+
+[person.birth]
+date = "1916-09-09"
+
+[person.death]
+date = "1986-11-26"
+
+[person.sameas]
+ssn = "118-01-9521"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

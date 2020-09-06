@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_070"
+
+[[person.meta.citation]]
+title = "Cape News"
+date = "2016-03-11"
+url = "https://www.capenews.net/bourne/obituaries/john-a-sanford/article_99f9eed1-c909-528c-9bb1-141f16c7701c.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Sanford"
+use = "John"
+given = "John Alfred"
+
+[person.death]
+date = "2016-03-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Wareham"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

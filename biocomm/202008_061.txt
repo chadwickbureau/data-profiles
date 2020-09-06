@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_061"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Meyers"
+use = "John"
+given = "John Tortes"
+
+[person.description]
+mlb_played = "1909-04-15/"
+

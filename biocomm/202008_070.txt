@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_070"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Posada"
+use = "Jorge"
+given = "Jorge Rafael"
+matrilineal = "Villeta"
+
+[person.birth]
+date = "1970-08-17"
+
+[person.description]
+mlb_played = "1995/"
+

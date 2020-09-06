@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_039"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hogreiver"
+use = "George"
+given = "George C."
+
+[person.description]
+mlb_played = "1895/"
+

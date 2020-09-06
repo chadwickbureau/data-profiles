@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_091"
+
+[[person.meta.citation]]
+title = "ABC Newspapers"
+date = "2020-08-19"
+url = "https://www.hometownsource.com/abc_newspapers/obituaries/dale-howard-slupe/article_f4ebeedd-e5c7-5c23-b83d-910fb497e884.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-24"
+
+[person.name]
+last = "Slupe"
+use = "Dale"
+given = "Dale Howard"
+
+[person.birth]
+date = "1935-07-09"
+
+[person.death]
+date = "2020-07-23"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MN"
+school.place.city = "Austin"
+
+[[person.education]]
+school.name = "Hamline University"
+school.type = "college"
+
+

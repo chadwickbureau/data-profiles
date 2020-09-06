@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202008_004"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Hart"
+use = "Ray"
+given = "Ray"
+
+[person.birth]
+date = "1914-09-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Washington"
+

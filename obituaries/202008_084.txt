@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_084"
+
+[[person.meta.citation]]
+title = "Weed Corley Fish Funeral Homes"
+date = "2020-08-30"
+url = "https://www.dignitymemorial.com/obituaries/leander-tx/michael-gazella-9328082"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Gazella"
+use = "Michael"
+given = "Michael John"
+
+[person.birth]
+date = "1927-08-16"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2020-08-26"
+
+[person.burial]
+cemetery.name = "Sunset Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Odessa"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Gazella"
+person.name.use = "Michael"
+person.name.given = "Michael"
+
+
+[[person.education]]
+school.name = "University of California, Los Angeles"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

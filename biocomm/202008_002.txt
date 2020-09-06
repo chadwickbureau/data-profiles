@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_002"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Acosta"
+use = "Baldomero"
+given = "Baldomero Pedro"
+matrilineal = "Fernandez"
+
+[person.description]
+mlb_played = "1913-06-05/"
+

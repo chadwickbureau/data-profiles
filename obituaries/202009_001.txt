@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_001"
+
+[[person.meta.citation]]
+title = "Chapel by the Sea"
+date = "2020-09-02"
+url = "https://www.fhwsolutions.com/obituaries/chapel-by-the-sea/donald-joseph-corella-obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Corella"
+use = "Donald"
+given = "Donald Joseph"
+
+[person.birth]
+date = "1934-04-14"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "2020-08-19"
+

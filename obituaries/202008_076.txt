@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_076"
+
+[[person.meta.citation]]
+title = "Fuller Funeral Home"
+date = "2020-08-26"
+url = "https://www.fullersfh.com/obituary/Frank-Crews"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Crews"
+use = "Frank"
+given = "Frank D."
+
+[person.birth]
+date = "1933-12-01"
+place.country = "US"
+place.state = "IN"
+place.city = "Pigeon Switch"
+
+[person.death]
+date = "2020-08-22"
+place.country = "US"
+place.state = "IN"
+place.city = "Boonville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

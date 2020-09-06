@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_069"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Phelps"
+use = "Edward"
+given = "Edward Jaykill"
+
+[person.description]
+mlb_played = "1902-09-02/"
+

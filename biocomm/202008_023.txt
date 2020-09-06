@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_023"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "FitzGerald"
+use = "Edward"
+given = "Edward Raymond"
+
+[person.death]
+date = "2020-06-14"
+place.country = "US"
+place.state = "CA"
+place.city = "Folsom"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Citrus Heights"
+
+[person.description]
+mlb_played = "1948/"
+

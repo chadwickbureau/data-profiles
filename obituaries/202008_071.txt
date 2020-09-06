@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_071"
+
+[[person.meta.citation]]
+title = "Nickerson-Bourne Funeral Home"
+date = "2020-08-26"
+url = "https://www.dignitymemorial.com/obituaries/bourne-ma/john-sanford-6833430"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Sanford"
+use = "Jack"
+given = "John Alfred"
+
+[person.birth]
+date = "1928-10-26"
+
+[person.death]
+date = "2016-03-05"
+place.country = "US"
+place.state = "MA"
+place.city = "Wareham"
+

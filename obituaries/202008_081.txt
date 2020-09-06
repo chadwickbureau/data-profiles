@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_081"
+
+[[person.meta.citation]]
+title = "Providence Journal"
+date = "1952-12-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Rivard"
+use = "George"
+given = "George H."
+nick = "Iron Man Leftie"
+
+[person.birth]
+date = "1888-02-27"
+
+[person.death]
+date = "1952-12-02"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.burial]
+cemetery.name = "St. Ann Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Cranston"
+
+[[person.military]]
+country = "US"
+conflict = "World War I"
+
+

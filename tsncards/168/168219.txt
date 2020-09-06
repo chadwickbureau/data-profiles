@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:168219"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/168219"
+title = "The Sporting News Player Contract Cards, ScanID: 1033003451"
+
+[person.name]
+last = "O'Connell"
+given = "Thomas P."
+
+
+[[person.transaction]]
+date = "1955-10-02"
+type = "signed"
+join.name = "Lancaster"
+note = "Lancaster 1955-10-02"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Lancaster"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-01-05"
+type = "released"
+leave.name = "Lancaster"
+join.name = "Abilene"
+note = "rel to Abilene 1956-01-05"
+
+[[person.transaction]]
+date = "1956-04-04"
+type = "released"
+leave.name = "Abilene"
+note = "rel 1956-04-04"
+

@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_064"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Murphy"
+use = "Sean"
+given = "Sean Michael"
+
+[person.birth]
+date = "1994-10-04"
+
+[person.description]
+mlb_played = "2019/"
+

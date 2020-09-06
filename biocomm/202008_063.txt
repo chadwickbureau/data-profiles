@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_063"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Morris"
+use = "John"
+given = "John Walter"
+
+[person.description]
+mlb_played = "1908-04-30/"
+

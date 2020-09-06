@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_016"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Dodge"
+use = "John"
+given = "John Lewis"
+
+[person.birth]
+date = "1893-04-27"
+place.country = "US"
+place.state = "MS"
+place.city = "Bolivar"
+
+[person.description]
+mlb_played = "1912/"
+

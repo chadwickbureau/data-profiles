@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_052"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Lauer"
+use = "Eric"
+given = "Eric Lance"
+
+[person.description]
+mlb_played = "2018/"
+weight = "228"
+

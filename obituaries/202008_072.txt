@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_072"
+
+[[person.meta.citation]]
+title = "Mather-Hodge Funeral Home"
+date = "2020-08-26"
+url = "https://matherhodge.com/tribute/details/803/Thomas-O-Connell/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "O'Connell"
+use = "Thomas"
+given = "Thomas P."
+
+[person.birth]
+date = "1933-03-10"
+place.country = "US"
+place.state = "MA"
+place.city = "Boston"
+
+[person.death]
+date = "2016-03-07"
+
+[[person.education]]
+school.name = "University of Connecticut"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

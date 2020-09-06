@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_079"
+
+[[person.meta.citation]]
+title = "E. Alvin Small Funeral Home"
+date = "2020-08-27"
+url = "https://www.ealvinsmall.com/obituary/James-Roberts"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Roberts"
+use = "James"
+given = "James Iver"
+
+[person.birth]
+date = "1929-11-29"
+place.country = "US"
+place.state = "GA"
+place.city = "Irwinville"
+
+[person.death]
+date = "2016-02-25"
+
+[person.burial]
+cemetery.name = "Virginia Veterans Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Amelia Court House"
+
+[[person.education]]
+school.name = "Irwin County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Ocilla"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

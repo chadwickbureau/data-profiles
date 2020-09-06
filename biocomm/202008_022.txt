@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_022"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Fisher"
+use = "John"
+given = "John Gustave"
+
+[person.description]
+mlb_played = "1910-04-21/"
+

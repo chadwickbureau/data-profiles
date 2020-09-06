@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_037"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hermoso"
+use = "Angel"
+given = "Angel Remigio"
+
+[person.birth]
+place.country = "VE"
+place.state = "Carabobo"
+place.city = "Puerto Cabello"
+
+[person.death]
+date = "2020-08-22"
+place.country = "VE"
+place.state = "Carabobo"
+place.city = "Puerto Cabello"
+
+[person.description]
+mlb_played = "1967/"
+

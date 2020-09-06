@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_066"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "O'Brien"
+use = "Peter"
+given = "Peter J."
+
+[person.description]
+mlb_played = "1901-09-17/"
+

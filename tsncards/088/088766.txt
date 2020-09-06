@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:88766"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/88766"
+title = "The Sporting News Player Contract Cards, ScanID: 1037003213"
+
+[person.name]
+last = "Reynolds"
+given = "Donald Richard"
+
+[[person.resides]]
+place.address = "P.O. Box 631"
+place.country = "US"
+place.state = "CA"
+place.city = "Empire"
+
+
+[[person.transaction]]
+date = "1947-11-14"
+type = "signed"
+join.name = "Stockton"
+note = "Stockton 1947-11-14"
+
+[[person.transaction]]
+date = "1948-06-20"
+type = "disabled"
+leave.name = "Stockton"
+note = "disabled list 1948-06-20"
+
+[[person.transaction]]
+date = "1948-07-18"
+type = "reinstated"
+join.name = "Stockton"
+note = "rein 1948-07-18"
+
+[[person.transaction]]
+date = "1948-07-18"
+type = "released"
+leave.name = "Stockton"
+note = "rel 1948-07-18"
+
+[[person.transaction]]
+date = "1949-04-25"
+type = "signed"
+join.name = "Pittsburg"
+note = "Pittsburg 1949-04-25"
+
+[[person.transaction]]
+date = "1949-05-28"
+type = "released"
+leave.name = "Pittsburg"
+note = "rel 1949-05-28"
+

@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_086"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Taylor"
+use = "Antonio"
+given = "Antonio Nemesio"
+matrilineal = "Sanchez"
+
+[person.death]
+date = "2020-07-16"
+place.country = "US"
+place.state = "FL"
+place.city = "Hialeah"
+
+[person.description]
+mlb_played = "1958/"
+

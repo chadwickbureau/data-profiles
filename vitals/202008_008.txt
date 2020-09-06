@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202008_008"
+
+[[person.meta.citation]]
+title = "Georgia, Death Index, 1919-1998"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Collins"
+use = "Frederick"
+given = "Frederick J."
+
+[person.birth]
+date = "1916"
+
+[person.death]
+date = "1986-11-26"
+

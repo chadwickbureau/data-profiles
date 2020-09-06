@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:77791"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/77791"
+title = "The Sporting News Player Contract Cards, ScanID: 1015001768"
+
+[person.name]
+last = "Fore"
+given = "Fred B."
+
+
+[[person.transaction]]
+date = "1948-08-13"
+type = "signed"
+join.name = "Federalsburg"
+note = "Federalsburg 1948-08-13"
+
+[[person.transaction]]
+date = "1948-08-13"
+type = "optioned"
+leave.name = "Federalsburg"
+join.name = "Petersburg"
+note = "opt to Petersburg 1948-08-13"
+
+[[person.transaction]]
+date = "1948-08-24"
+type = "option-returned"
+leave.name = "Petersburg"
+join.name = "Federalsburg"
+note = "opt ret to Federalsburg 1948-08-24"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Federalsburg"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-02-25"
+type = "released"
+leave.name = "Federalsburg"
+note = "rel 1949-02-25"
+

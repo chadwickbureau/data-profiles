@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_003"
+
+[[person.meta.citation]]
+title = "J. A. McCormack Sons Funeral Home"
+date = "2020-09-02"
+url = "https://jamccormack.com/tribute/details/1129/Chester-Morrisey/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Morrisey"
+use = "Chet"
+given = "Chester Edwin"
+suffix = "Jr."
+
+[person.birth]
+date = "1926-02-24"
+
+[person.death]
+date = "2016-02-21"
+
+[person.burial]
+cemetery.name = "McLean Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "McLean"
+
+[[person.education]]
+school.name = "North HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Binghamton"
+
+

@@ -1,0 +1,85 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:121690"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/121690"
+title = "The Sporting News Player Contract Cards, ScanID: 1044004435"
+
+[person.name]
+last = "Thomas"
+given = "Ronald Lee"
+
+
+[[person.transaction]]
+date = "1954-02-05"
+type = "signed"
+join.name = "Anderson"
+note = "Anderson 1954-02-05"
+
+[[person.transaction]]
+date = "1954-04-18"
+type = "released"
+leave.name = "Anderson"
+join.name = "Marion"
+note = "rel to Marion 1954-04-18"
+
+[[person.transaction]]
+date = "1954-05-18"
+type = "returned"
+leave.name = "Marion"
+join.name = "Anderson"
+note = "ret to Anderson 1954-05-18"
+
+[[person.transaction]]
+date = "1954-05-25"
+type = "disabled"
+leave.name = "Anderson"
+note = "disabled list 1954-05-25"
+
+[[person.transaction]]
+date = "1954-05-19"
+type = "optioned"
+leave.name = "Anderson"
+join.name = "Wytheville"
+note = "opt to Wytheville 1954-05-19"
+
+[[person.transaction]]
+date = "1954-06-05"
+type = "reinstated"
+join.name = "Wytheville"
+note = "reins 1954-06-05"
+
+[[person.transaction]]
+date = "1954-07-15"
+type = "released"
+leave.name = "Wytheville"
+note = "rel 1954-07-15"
+
+[[person.transaction]]
+date = "1956-01-28"
+type = "signed"
+join.name = "Decatur"
+note = "Decatur 1956-01-28"
+
+[[person.transaction]]
+date = "1956-04-16"
+type = "released"
+leave.name = "Decatur"
+join.name = "Gainesville"
+note = "rel to Gainesville 1956-04-16"
+
+[[person.transaction]]
+date = "1956-04-26"
+type = "released"
+leave.name = "Gainesville"
+join.name = "Dothan"
+note = "rel to Dothan 1956-04-26"
+
+[[person.transaction]]
+date = "1956-05-03"
+type = "released"
+leave.name = "Dothan"
+note = "rel 1956-05-03"
+

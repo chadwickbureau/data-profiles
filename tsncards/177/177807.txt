@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:177807"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/177807"
+title = "The Sporting News Player Contract Cards, ScanID: 1016005299"
+
+[person.name]
+last = "Gibson"
+given = "James Loren"
+
+
+[[person.transaction]]
+date = "1954-03-30"
+type = "signed"
+join.name = "Clinton"
+note = "Clinton 1954-03-30"
+
+[[person.transaction]]
+date = "1954-04-15"
+type = "released"
+leave.name = "Clinton"
+note = "rel 1954-04-15"
+

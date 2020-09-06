@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_086"
+
+[[person.meta.citation]]
+title = "Alton (IL) Telegraph"
+date = "2014-07-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Dallape"
+use = "Levo"
+given = "Levo"
+nick = "Lee"
+
+[person.birth]
+date = "1920-06-01"
+place.country = "IT"
+place.city = "Stravino"
+
+[person.death]
+date = "2014-07-02"
+place.country = "US"
+place.state = "OK"
+place.city = "Skiatook"
+
+[person.burial]
+cemetery.name = "Rose Lawn Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Bethalto"
+
+[[person.education]]
+school.name = "Collinsville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Collinsville"
+
+

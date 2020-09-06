@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_018"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Drury"
+use = "Brandon"
+given = "Brandon S."
+
+[person.description]
+mlb_played = "2015/"
+weight = "230"
+

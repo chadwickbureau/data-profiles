@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_057"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Lush"
+use = "John"
+given = "John Charles"
+
+[person.description]
+mlb_played = "1904-04-16/"
+

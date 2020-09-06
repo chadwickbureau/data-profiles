@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_007"
+
+[[person.meta.citation]]
+title = "Salisbury Daily Times"
+date = "1947-02-27"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Freeny"
+use = "Samuel"
+given = "Samuel Wesley"
+
+[person.death]
+date = "1944"
+place.country = "PH"
+
+[[person.education]]
+school.name = "St. John's College"
+school.type = "college"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Annapolis"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

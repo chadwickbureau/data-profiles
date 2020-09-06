@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_059"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "McNamara"
+use = "John"
+given = "John Francis"
+
+[person.death]
+date = "2020-07-28"
+place.country = "US"
+place.state = "TN"
+place.city = "Brentwood"
+
+[person.description]
+mlb_managed = "1969/"
+

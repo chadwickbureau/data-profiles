@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:88241"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/88241"
+title = "The Sporting News Player Contract Cards, ScanID: 1099018458"
+
+[person.name]
+last = "Peters"
+given = "George Herman"
+
+[person.description]
+bats = "R"
+throws = "R"
+height = "72"
+weight = "167"
+
+[person.birth]
+date = "1904-07-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Chester"
+
+[[person.resides]]
+place.country = "US"
+place.state = "TX"
+place.city = "Cotulla"
+
+
+[[person.transaction]]
+date = "1921"
+type = "signed"
+join.name = "Laredo (semi-pro)"
+note = "Laredo (semi-pro) 1921"
+
+[[person.transaction]]
+date = "1926"
+type = "signed"
+join.name = "Edinburg"
+note = "Edinburg 1926"
+
+[[person.transaction]]
+date = "1927-04"
+type = "reserved"
+join.name = "Edinburg"
+note = "res 1927-04"
+
+[[person.transaction]]
+date = "1927-06"
+type = "reinstated"
+join.name = "Edinburg"
+note = "rein 1927-06"
+
+[[person.transaction]]
+date = "1928"
+type = "signed"
+join.name = "Coleman"
+note = "Coleman 1928"
+
+[[person.transaction]]
+date = "1928-05"
+type = "released"
+leave.name = "Coleman"
+note = "rel 1928-05"
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_087"
+
+[[person.meta.citation]]
+title = "Sanvito Funeral Homes"
+date = "2020-08-31"
+url = "https://www.sanvitofuneralhome.com/obituary/Paul-Tesla"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-31"
+
+[person.name]
+last = "Tesla"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1927-08-15"
+place.country = "US"
+place.state = "PA"
+place.city = "Coraopolis"
+
+[person.death]
+date = "2020-08-23"
+
+[[person.education]]
+school.name = "Moon HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Coraopolis"
+
+[[person.education]]
+school.name = "Eastern Kentucky University"
+school.type = "college"
+
+

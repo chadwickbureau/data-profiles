@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_002"
+
+[[person.meta.citation]]
+title = "Gonce Funeral Service"
+date = "2020-09-02"
+url = "https://www.goncefuneralservice.com/obituary/Edward-WoolfordJr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Woolford"
+use = "Ed"
+given = "Edward L."
+suffix = "Jr."
+
+[person.birth]
+date = "1934-06-24"
+
+[person.death]
+date = "2020-03-22"
+

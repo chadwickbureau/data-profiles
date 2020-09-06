@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:174445"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/174445"
+title = "The Sporting News Player Contract Cards, ScanID: 1047001983"
+
+[person.name]
+last = "Weckwerth"
+given = "Warren"
+
+
+[[person.transaction]]
+date = "1948-08-09"
+type = "signed"
+join.name = "Oshkosh"
+note = "Oshkosh 1948-08-09"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Oshkosh"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "released"
+leave.name = "Oshkosh"
+note = "rel 1949-04-20"
+

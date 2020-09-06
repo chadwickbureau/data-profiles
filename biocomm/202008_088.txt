@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_088"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Thiel"
+use = "Maynard"
+given = "Maynard Bert"
+
+[person.death]
+date = "2020-07-31"
+place.country = "US"
+place.state = "WI"
+place.city = "Pella"
+
+[person.burial]
+cemetery.name = "St. Mary Catholic Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Leopolis"
+
+[person.description]
+mlb_played = "1952/"
+

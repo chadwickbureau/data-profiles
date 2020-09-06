@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_006"
+
+[[person.meta.citation]]
+title = "Taylor Stine Funeral Home"
+date = "2020-09-02"
+url = "https://www.taylorstinefuneralhome.com/obituaries/Warren-E-Weck-Weckwerth?obId=773962#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Weckwerth"
+use = "Warren"
+given = "Warren E."
+nick = "Weck"
+
+[person.birth]
+date = "1926-02-27"
+place.country = "US"
+place.state = "WI"
+place.city = "Merrill"
+
+[person.death]
+date = "2016-02-16"
+place.country = "US"
+place.state = "WI"
+place.city = "Merrill"
+
+[person.burial]
+cemetery.name = "Merrill Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Merrill"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

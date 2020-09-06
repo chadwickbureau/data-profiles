@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_085"
+
+[[person.meta.citation]]
+title = "Bevis Funeral Home"
+date = "2020-08-30"
+url = "https://www.bevisfh.com/obituaries/Arthur-Art-Southall-Jr/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Southall"
+use = "Art"
+given = "Arthur Willard"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-04-09"
+place.country = "US"
+place.state = "GA"
+place.city = "Lake Park"
+
+[person.death]
+date = "2020-08-16"
+place.country = "US"
+place.state = "FL"
+place.city = "Tallahassee"
+
+[person.burial]
+cemetery.name = "Tallahassee National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Tallahassee"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

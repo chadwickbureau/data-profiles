@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_092"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Webster"
+use = "Raymond"
+given = "Raymond George"
+
+[person.death]
+date = "2020-06-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Browns Valley"
+
+[person.description]
+mlb_played = "1959/"
+

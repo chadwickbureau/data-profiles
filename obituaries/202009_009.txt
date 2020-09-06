@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_009"
+
+[[person.meta.citation]]
+title = "Brow-Wynne Funeral Home"
+date = "2020-09-04"
+url = "https://www.dignitymemorial.com/obituaries/raleigh-nc/david-combs-9344449"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-04"
+
+[person.name]
+last = "Combs"
+use = "Chris"
+given = "David Christopher"
+
+[person.birth]
+date = "1975-05-19"
+
+[person.death]
+date = "2020-09-03"
+
+[[person.education]]
+school.name = "Broughton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Raleigh"
+
+[[person.education]]
+school.name = "North Carolina State University"
+school.type = "college"
+
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_035"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Hahn"
+use = "Frederick"
+given = "Frederick Aloys"
+
+[person.burial]
+cemetery.name = "Tappan Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Tappan"
+
+[person.description]
+mlb_played = "1952/"
+

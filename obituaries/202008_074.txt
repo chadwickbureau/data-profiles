@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_074"
+
+[[person.meta.citation]]
+title = "Pineville (MO) Herald"
+date = "1940-07-25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Harmon"
+use = "Daniel"
+given = "Daniel C."
+nick = "Profit"
+
+[person.birth]
+date = "1884-03-24"
+place.country = "US"
+place.state = "MO"
+place.city = "Erie"
+
+[person.death]
+date = "1940-07-22"
+place.country = "US"
+place.state = "KS"
+place.city = "Pittsburg"
+
+[person.burial]
+cemetery.name = "Harmon Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "McDonald County"
+

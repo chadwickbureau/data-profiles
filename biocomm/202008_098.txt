@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_098"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Zinn"
+use = "Guy"
+given = "Guy"
+
+[person.death]
+place.country = "US"
+place.state = "WV"
+place.city = "Nutter Fort"
+
+[person.description]
+mlb_played = "1911/"
+

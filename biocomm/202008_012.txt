@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Clarke"
+use = "Horace"
+given = "Horace Meredith"
+
+[person.death]
+date = "2020-08-05"
+place.country = "US"
+place.state = "MD"
+place.city = "Laurel"
+
+[person.burial]
+cemetery.name = "Frederiksted Cemetery"
+cemetery.place.country = "VI"
+cemetery.place.state = "St. Croix"
+cemetery.place.city = "Frederiksted"
+
+[person.description]
+mlb_played = "1965/"
+

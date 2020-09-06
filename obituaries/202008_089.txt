@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_089"
+
+[[person.meta.citation]]
+title = "R.M. Ferguson Funeral Service"
+date = "2020-08-31"
+url = "https://www.fergusonfs.com/obituary/David-Price"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-31"
+
+[person.name]
+last = "Price"
+use = "David"
+given = "David Walter"
+
+[person.birth]
+date = "1928-05-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Angier"
+
+[person.death]
+date = "2020-08-24"
+
+[[person.education]]
+school.name = "Angier HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Angier"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

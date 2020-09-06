@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_090"
+
+[[person.meta.citation]]
+title = "Boulger Funeral Home"
+date = "2020-08-31"
+url = "https://boulgerfuneralhome.com/obituaries/dan-kittelson/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-31"
+
+[person.name]
+last = "Kittelson"
+use = "Dan"
+given = "Dan Howard"
+
+[person.birth]
+date = "1935-08-22"
+place.country = "US"
+place.state = "ND"
+place.city = "Fargo"
+
+[person.death]
+date = "2020-08-25"
+
+[person.burial]
+cemetery.name = "Enderlin City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ND"
+cemetery.place.city = "Enderlin"
+
+[[person.education]]
+school.name = "Enderlin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "ND"
+school.place.city = "Enderlin"
+
+

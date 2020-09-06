@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_078"
+
+[[person.meta.citation]]
+title = "Green Hills Funeral Home"
+date = "2020-08-27"
+url = "https://www.greenhillsfuneralhome.net/obituary/James-Gibson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Gibson"
+use = "Pete"
+given = "James Loren"
+
+[person.birth]
+date = "1935-01-04"
+
+[person.death]
+date = "2016-03-02"
+
+[person.burial]
+cemetery.name = "Elam-Davison Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Goshen"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

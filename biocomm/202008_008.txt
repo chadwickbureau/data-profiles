@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_008"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Bolling"
+use = "Francis"
+given = "Francis Elmore"
+
+[person.death]
+date = "2020-07-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Mobile"
+
+[person.burial]
+cemetery.name = "Spring Hill Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Mobile"
+
+[person.description]
+mlb_played = "1954/"
+

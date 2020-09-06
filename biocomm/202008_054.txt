@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_054"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Lejeune"
+use = "Sheldon"
+given = "Sheldon Adalbert"
+
+[person.burial]
+cemetery.name = "Michigan Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Flat Rock"
+
+[person.description]
+mlb_played = "1911/"
+

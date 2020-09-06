@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_047"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Katoll"
+use = "John"
+given = "Johann"
+
+[person.birth]
+date = "1875-06-24"
+place.country = "PL"
+place.state = "Warmia-Masuria"
+place.city = "Kamieniec"
+
+[person.description]
+mlb_played = "1898/"
+bats = "L"
+note = [ "Birthplace was known as Finckenstein, Prussia at time of birth" ]
+

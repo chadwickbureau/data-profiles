@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202008_082"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "1965-10-10"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Astbury"
+use = "Thomas"
+given = "Thomas F."
+
+[person.birth]
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "1965-10-08"
+place.country = "US"
+place.state = "NJ"
+place.city = "Toms River"
+

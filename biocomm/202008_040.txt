@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_040"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Horton"
+use = "Elmer"
+given = "Elmer E."
+
+[person.burial]
+cemetery.name = "Cedar Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Newark"
+
+[person.description]
+mlb_played = "1898/"
+

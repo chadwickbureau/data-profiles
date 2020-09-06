@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_087"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Taylor"
+use = "Harry"
+given = "Harry Leonard"
+
+[person.burial]
+cemetery.name = "Halsey Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Halsey Valley"
+
+[person.description]
+mlb_played = "1890/"
+

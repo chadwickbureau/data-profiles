@@ -5,22 +5,22 @@ key = "tsncards:139581"
 
 [[person.meta.citation]]
 url = "https://digital.la84.org/digital/collection/p17103coll3/id/139581"
-title = "The Sporting News Player Contract Cards, ScanID: 1041004945"
+title = "The Sporting News Player Contract Cards, ScanID: 1040004797"
 
 [person.name]
-last = "Slupe"
-given = "Dale"
+last = "Sexton"
+given = "Wesley B."
 
 
 [[person.transaction]]
-date = "1955-03-27"
+date = "1954-03-24"
 type = "signed"
-join.name = "Hot Springs"
-note = "Hot Springs 1955-03-27"
+join.name = "Fulton"
+note = "Fulton 1954-03-24"
 
 [[person.transaction]]
-date = "1955-04-09"
+date = "1954-05-18"
 type = "released"
-leave.name = "Hot Springs"
-note = "rel 1955-04-09"
+leave.name = "Fulton"
+note = "rel 1954-05-18"
 

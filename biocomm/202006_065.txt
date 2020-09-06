@@ -5,7 +5,7 @@ key = "biocomm:202006_065"
 
 [[person.meta.citation]]
 title = "SABR Biographical Committee Newsletter"
-date = "2020-04"
+date = "2020-06"
 
 [person.name]
 last = "Schalk"

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "DiPietro"
+use = "Robert"
+given = "Robert Louis Paul"
+
+[person.burial]
+cemetery.name = "Terrace Heights Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Yakima"
+
+[person.description]
+mlb_played = "1951/"
+

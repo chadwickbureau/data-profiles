@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_076"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Ryan"
+use = "Michael"
+given = "Michael James"
+
+[person.death]
+date = "2020-07-07"
+place.country = "US"
+place.state = "NH"
+place.city = "Wolfeboro"
+
+[person.description]
+mlb_played = "1964/"
+

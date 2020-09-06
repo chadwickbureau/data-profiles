@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_049"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Keliher"
+use = "Maurice"
+given = "Maurice Michael"
+
+[person.description]
+mlb_played = "1911-09-09/"
+

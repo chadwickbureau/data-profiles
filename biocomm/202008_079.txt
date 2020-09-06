@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_079"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Sebra"
+use = "Robert"
+given = "Robert Bush"
+
+[person.death]
+date = "2020-07-22"
+place.country = "US"
+place.state = "FL"
+place.city = "Miami"
+
+[person.description]
+mlb_played = "1985/"
+

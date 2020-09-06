@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202008_003"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Rivard"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1888-02-27"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.death]
+date = "1952-12-02"
+
+[person.sameas]
+ssn = "037-03-2796"
+

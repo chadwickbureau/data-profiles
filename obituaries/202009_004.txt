@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_004"
+
+[[person.meta.citation]]
+title = "Charles E. Snyder Funeral Home"
+date = "2020-09-02"
+url = "https://www.snyderfuneralhome.com/obituary/elwood-e-ellie-kreider/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Kreider"
+use = "Ellie"
+given = "Elwood E."
+
+[person.death]
+date = "2016-02-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Lititz"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

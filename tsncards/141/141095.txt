@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:141095"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/141095"
+title = "The Sporting News Player Contract Cards, ScanID: 1042003183"
+
+[person.name]
+last = "Southall"
+given = "Arthur W."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1950-03-25"
+type = "signed"
+join.name = "Sumter"
+note = "Sumter 1950-03-25"
+
+[[person.transaction]]
+date = "1950-04-17"
+type = "optioned"
+leave.name = "Sumter"
+join.name = "Narrows"
+note = "opt to Narrows 1950-04-17"
+
+[[person.transaction]]
+date = "1950-05-20"
+type = "option-transferred"
+leave.name = "Narrows"
+join.name = "Radford"
+note = "opt trans to Radford 1950-05-20"
+
+[[person.transaction]]
+date = "1950-05-23"
+type = "released"
+leave.name = "Radford"
+note = "rel 1950-05-23"
+
+[[person.transaction]]
+date = "1950-05-27"
+type = "signed"
+join.name = "Elkin"
+note = "Elkin 1950-05-27"
+
+[[person.transaction]]
+date = "1950-06-06"
+type = "released"
+leave.name = "Elkin"
+note = "rel 1950-06-06"
+

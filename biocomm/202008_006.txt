@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202008_006"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-08"
+
+[person.name]
+last = "Beck"
+use = "Zinn"
+given = "Zinn Bertram"
+
+[person.description]
+mlb_played = "1913-09-13/"
+
