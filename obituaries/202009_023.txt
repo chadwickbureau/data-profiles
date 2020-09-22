@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_023"
+
+[[person.meta.citation]]
+title = "Enfield Funeral Home"
+date = "2020-09-10"
+url = "https://enfieldfh.com/tribute/details/340/Allen-Tacha/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Tacha"
+use = "Allen"
+given = "Allen W."
+
+[person.birth]
+date = "1923-03-29"
+place.country = "US"
+place.state = "KS"
+place.city = "Jennings"
+
+[person.death]
+date = "2016-02-08"
+place.country = "US"
+place.state = "KS"
+place.city = "Norton"
+
+[person.burial]
+cemetery.name = "Jennings Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Jennings"
+
+[[person.education]]
+school.name = "Jennings HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Jennings"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

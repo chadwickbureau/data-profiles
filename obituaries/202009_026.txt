@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_026"
+
+[[person.meta.citation]]
+title = "Johnson City Press"
+date = "1966-02-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Wright"
+use = "Claude"
+given = "Claude W."
+
+[person.death]
+date = "1993-08-10"
+place.country = "US"
+place.state = "TN"
+place.city = "Kingsport"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

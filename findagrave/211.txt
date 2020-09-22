@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:211"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-27"
+url = "https://www.findagrave.com/memorial/25118971/john-joseph-bianco"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Bianco"
+use = "John"
+given = "John Joseph"
+
+[person.birth]
+date = "1920-02-02"
+place.country = "US"
+place.state = "NY"
+place.city = "Manhattan"
+
+[person.death]
+date = "1977-01-14"
+place.country = "US"
+place.state = "ID"
+place.city = "Caldwell"
+
+[person.burial]
+cemetery.name = "Canyon Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "ID"
+cemetery.place.city = "Caldwell"
+
+[person.sameas]
+findagrave = "25118971"
+

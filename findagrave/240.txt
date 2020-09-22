@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:240"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-21"
+url = "https://www.findagrave.com/memorial/47903472/raymond-smerek"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Smerek"
+use = "Raymond"
+given = "Raymond"
+
+[person.birth]
+date = "1927-03-10"
+
+[person.death]
+date = "1989-04-01"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Affton"
+
+[person.sameas]
+findagrave = "47903472"
+

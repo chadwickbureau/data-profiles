@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:215"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-29"
+url = "https://www.findagrave.com/memorial/153922528/gerald-w-burmeister"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Burmeister"
+use = "Gerald"
+given = "Gerald W."
+
+[person.birth]
+date = "1916-08-11"
+
+[person.death]
+date = "1981-08-25"
+
+[person.burial]
+cemetery.name = "Forest Park Westheimer Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Houston"
+
+[person.sameas]
+findagrave = "153922528"
+

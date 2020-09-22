@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_029"
+
+[[person.meta.citation]]
+title = "Washington, Death Index, 1940-2017"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Costello"
+use = "Robert"
+given = "Robert A."
+
+[person.death]
+date = "1988-05-21"
+place.country = "US"
+place.state = "WA"
+place.city = "Spokane"
+

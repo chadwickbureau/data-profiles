@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_021"
+
+[[person.meta.citation]]
+title = "Bruger Funeral Home"
+date = "2020-09-10"
+url = "https://www.bruggerfuneralhomes.com/obituaries/George-Shoskin?obId=4155653#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Shoskin"
+use = "George"
+given = "George"
+
+[person.birth]
+date = "1930-12-26"
+place.country = "US"
+place.state = "PA"
+place.city = "Harwick"
+
+[person.death]
+date = "2016-02-09"
+place.country = "US"
+place.state = "FL"
+place.city = "Palm Harbor"
+
+[person.burial]
+cemetery.name = "Laurel Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Millcreek Township"
+
+[[person.education]]
+school.name = "Springdale HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Springdale"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

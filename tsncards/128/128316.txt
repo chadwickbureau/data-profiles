@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:128316"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/128316"
+title = "The Sporting News Player Contract Cards, ScanID: 1039006691"
+
+[person.name]
+last = "Schlewitz"
+given = "James A."
+
+
+[[person.transaction]]
+date = "1952-09-09"
+type = "signed"
+join.name = "Pine Bluff"
+note = "Pine Bluff 1952-09-09"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Pine Bluff"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-02-19"
+type = "national-defense-list"
+leave.name = "Pine Bluff"
+note = "Nat Defense list 1953-02-19"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Pine Bluff"
+
+[[person.transaction]]
+date = "1954-09-30"
+type = "released"
+leave.name = "Pine Bluff"
+join.name = "San Antonio"
+note = "rel to San Antonio 1954-09-30"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "San Antonio"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-02-32"
+type = "reinstated"
+join.name = "San Antonio"
+note = "reins NDS list 1955-02-32"
+
+[[person.transaction]]
+date = "1955-04-05"
+type = "released"
+leave.name = "San Antonio"
+note = "rel 1955-04-05"
+

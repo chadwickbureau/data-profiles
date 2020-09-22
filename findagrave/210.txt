@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:210"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-26"
+url = "https://www.findagrave.com/memorial/44431210/george-herman-peters"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-26"
+
+[person.name]
+last = "Peters"
+use = "George"
+given = "George Herman"
+
+[person.birth]
+date = "1900-07-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Chester"
+
+[person.death]
+date = "1967-11-06"
+place.country = "US"
+place.state = "TX"
+place.city = "Cotulla"
+
+[person.burial]
+cemetery.name = "Cotulla Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Cotulla"
+
+[person.sameas]
+findagrave = "44431210"
+

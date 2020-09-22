@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_051"
+
+[[person.meta.citation]]
+title = "Peck Funeral Home"
+date = "2020-09-21"
+url = "https://www.peckfuneralhome.com/obituary/Kendall-Jones"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Jones"
+use = "Kendall"
+given = "Kendall Grant"
+
+[person.birth]
+date = "1940-09-28"
+place.country = "US"
+place.state = "AL"
+place.city = "Morgan County"
+
+[person.death]
+date = "2020-09-16"
+place.country = "US"
+place.state = "AL"
+place.city = "Moulton"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_013"
+
+[[person.meta.citation]]
+title = "St. Louis Post-Dispatch"
+date = "1948-12-20"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Naumann"
+use = "Fred"
+given = "Fred"
+
+[person.death]
+date = "1948-12-18"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+

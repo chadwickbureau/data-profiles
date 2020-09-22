@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:214"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-29"
+url = "https://www.findagrave.com/memorial/78777007/thomas-f-astbury"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Astbury"
+use = "Thomas"
+given = "Thomas F."
+
+[person.birth]
+date = "1920-12-15"
+
+[person.death]
+date = "1965-10-08"
+
+[person.burial]
+cemetery.name = "St. Joseph's Catholic Cemetery and Mausoleums"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Toms River"
+
+[person.sameas]
+findagrave = "78777007"
+

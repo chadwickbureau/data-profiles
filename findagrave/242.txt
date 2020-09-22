@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:242"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-22"
+url = "https://www.findagrave.com/memorial/155762439/robert-a.-costello"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Costello"
+use = "Robert"
+given = "Robert A."
+
+[person.birth]
+date = "1917-05-09"
+
+[person.death]
+date = "1988-05-21"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Spokane"
+
+[person.sameas]
+findagrave = "155762439"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

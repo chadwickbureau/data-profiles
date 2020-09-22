@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_043"
+
+[[person.meta.citation]]
+title = "Nelson-Boylan-LeRette Funeral Chapel"
+date = "2020-09-19"
+url = "http://www.nblfuneralchapel.com/memorial.asp?mem_id=1854"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-19"
+
+[person.name]
+last = "Kinard"
+use = "Rudy"
+given = "Rudolph Russell"
+
+[person.birth]
+date = "1949-10-27"
+place.country = "US"
+place.state = "GA"
+place.city = "Columbus"
+
+[person.death]
+date = "2020-09-12"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Red Oak"
+
+[[person.education]]
+school.name = "Druid Hills HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+[[person.education]]
+school.name = "University of Tennessee"
+school.type = "college"
+
+

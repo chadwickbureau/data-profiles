@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:132073"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/132073"
+title = "The Sporting News Player Contract Cards, ScanID: 1041001429"
+
+[person.name]
+last = "Shoskin"
+given = "George"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-11-06"
+type = "signed"
+join.name = "Greenville (AL)"
+note = "Greenville (AL) 1948-11-06"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Greenville (AL)"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1949-05-02"
+type = "released"
+leave.name = "Greenville (AL)"
+note = "rel 1949-05-02"
+
+[[person.transaction]]
+date = "1950-02-21"
+type = "signed"
+join.name = "Tarboro"
+note = "Tarboro 1950-02-21"
+
+[[person.transaction]]
+date = "1950-05-02"
+type = "released"
+leave.name = "Tarboro"
+note = "rel 1950-05-02"
+

@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_056"
+
+[[person.meta.citation]]
+title = "Thomas Poteet & Son Funeral Home"
+date = "2020-09-22"
+url = "https://www.thomaspoteet.com/obituaries/Chris-Halliday/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Halliday"
+use = "Chris"
+given = "Christopher Hayes"
+
+[person.birth]
+date = "1974-06-29"
+place.country = "US"
+place.state = "GA"
+place.city = "Columbus"
+
+[person.death]
+date = "2020-09-18"
+
+[person.burial]
+cemetery.name = "Westover Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Augusta"
+
+[[person.education]]
+school.name = "Evans HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Evans"
+
+[[person.education]]
+school.name = "Abraham Baldwin Agricultural College"
+school.type = "college"
+
+[[person.education]]
+school.name = "Kennesaw State University"
+school.type = "college"
+
+

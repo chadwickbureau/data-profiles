@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_039"
+
+[[person.meta.citation]]
+title = "J.A. McCormack Sons Funeral Home"
+date = "2020-09-16"
+url = "https://jamccormack.com/tribute/details/1766/John-Goetz/obituary.html#tribute-start"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-16"
+
+[person.name]
+last = "Goetz"
+use = "John"
+given = "John Lawrence"
+
+[person.birth]
+date = "1953"
+
+[person.death]
+date = "2020-09-06"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Johnson City"
+
+[[person.education]]
+school.name = "Binghamton Catholic Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Binghamton"
+
+[[person.education]]
+school.name = "Rollins College"
+school.type = "college"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:238"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-14"
+url = "https://www.findagrave.com/memorial/44660596/carl-g.-de_rose"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "DeRose"
+use = "Carl"
+given = "Carl G."
+
+[person.birth]
+date = "1923"
+
+[person.death]
+date = "1989"
+
+[person.burial]
+cemetery.name = "Mountain View Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Oakland"
+
+[person.sameas]
+findagrave = "44660596"
+

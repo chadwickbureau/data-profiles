@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:241"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-22"
+url = "https://www.findagrave.com/memorial/149761256/james-william-cooney"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Cooney"
+use = "James"
+given = "James William"
+
+[person.death]
+date = "2002-10-04"
+
+[person.burial]
+cemetery.name = "Highland Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Johnston"
+
+[person.sameas]
+findagrave = "149761256"
+

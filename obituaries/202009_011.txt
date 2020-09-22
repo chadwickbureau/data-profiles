@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_011"
+
+[[person.meta.citation]]
+title = "Forbis & Dick Funeral Home"
+date = "2020-09-08"
+url = "https://www.forbisanddick.com/obituaries/Sherrill-Hall/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-08"
+
+[person.name]
+last = "Hall"
+use = "Sherrill"
+given = "Sherrill Gray"
+
+[person.birth]
+date = "1933-10-01"
+
+[person.death]
+date = "2020-08-30"
+
+[[person.education]]
+school.name = "Elon University"
+school.type = "college"
+
+

@@ -1,0 +1,55 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_059"
+
+[[person.meta.citation]]
+title = "Ralph Robinson & Son Funeral Directors"
+date = "2020-09-22"
+url = "https://memorials.ralphrobinsonandson.com/donald-harris/4335679/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Harris"
+use = "Don"
+given = "Donald Ross"
+suffix = "Sr."
+
+[person.birth]
+date = "1928-02-19"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[person.death]
+date = "2020-09-18"
+
+[person.burial]
+cemetery.name = "Graceland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Pine Bluff"
+
+[[person.education]]
+school.name = "Busch HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MI"
+school.place.city = "Center Line"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

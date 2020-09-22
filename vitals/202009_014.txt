@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_014"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Pecora"
+use = "Alexander"
+given = "Alexander Joseph"
+
+[person.birth]
+date = "1918-04-06"
+place.country = "US"
+place.state = "NY"
+place.city = "New York"
+
+[person.death]
+date = "2005-07-11"
+
+[person.sameas]
+ssn = "103-03-5009"
+

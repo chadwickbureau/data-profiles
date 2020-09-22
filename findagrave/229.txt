@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:229"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/120470509/orval-edward-cott"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Cott"
+use = "Orval"
+given = "Orval Edward"
+suffix = "Sr."
+
+[person.birth]
+date = "1918-07-17"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.death]
+date = "2003-12-26"
+place.country = "US"
+place.state = "NY"
+place.city = "Buffalo"
+
+[person.burial]
+cemetery.name = "Sardinia Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Sardinia"
+
+[person.sameas]
+findagrave = "120470509"
+

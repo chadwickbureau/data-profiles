@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_050"
+
+[[person.meta.citation]]
+title = "TP White & Sons Funeral Home"
+date = "2020-09-21"
+url = "https://www.tpwhite.com/memorials/james-jim-scooter-a--hoelscher/4333131/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Hoelscher"
+use = "Jim"
+given = "James A."
+nick = "Scooter"
+
+[person.birth]
+date = "1931-12-12"
+
+[person.death]
+date = "2020-09-11"
+
+[person.burial]
+cemetery.name = "Mount Moriah Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Cincinnati"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

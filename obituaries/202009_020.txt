@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_020"
+
+[[person.meta.citation]]
+title = "Smith Memory Chapel"
+date = "2020-09-10"
+url = "https://www.dignitymemorial.com/obituaries/winder-ga/huey-brock-6802343"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Brock"
+use = "Huey"
+given = "Huey L."
+
+[person.birth]
+date = "1930-04-10"
+
+[person.death]
+date = "2016-02-14"
+
+[person.burial]
+cemetery.name = "Barrow Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Winder"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

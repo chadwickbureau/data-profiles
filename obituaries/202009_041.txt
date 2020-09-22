@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_041"
+
+[[person.meta.citation]]
+title = "Jurrens Funeral Home"
+date = "2020-09-17"
+url = "https://www.jurrensfuneralhome.com/obituary/james-jim-snyders"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-17"
+
+[person.name]
+last = "Snyders"
+use = "Jim"
+given = "James P."
+
+[person.birth]
+date = "1929-11-26"
+place.country = "US"
+place.state = "IA"
+place.city = "Larchwood"
+
+[person.death]
+date = "2020-09-14"
+place.country = "US"
+place.state = "SD"
+place.city = "Sioux Falls"
+
+[[person.education]]
+school.name = "St. Mary's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Larchwood"
+
+

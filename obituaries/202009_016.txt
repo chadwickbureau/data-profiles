@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_016"
+
+[[person.meta.citation]]
+title = "Miami Herald"
+date = "1993-12-21"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Yurocko"
+use = "Michael"
+given = "Michael A."
+
+[person.death]
+date = "1993-12-19"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

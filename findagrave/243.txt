@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:243"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-22"
+url = "https://www.findagrave.com/memorial/189053975/john-f-glynn"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Glynn"
+use = "John"
+given = "John F."
+
+[person.birth]
+date = "1911-05-07"
+
+[person.death]
+date = "1974-02-04"
+
+[person.burial]
+cemetery.name = "St. Columba Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Chester"
+
+[person.sameas]
+findagrave = "189053975"
+

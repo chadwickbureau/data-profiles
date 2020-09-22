@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:100568"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/100568"
+title = "The Sporting News Player Contract Cards, ScanID: 1035002303"
+
+[person.name]
+last = "Petrovski"
+given = "Charles Joseph"
+
+
+[[person.transaction]]
+date = "1949-04-16"
+type = "signed"
+join.name = "Dothan"
+note = "Dothan 1949-04-16"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "released"
+leave.name = "Dothan"
+note = "rel 1949-04-20"
+

@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:50628"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/50628"
+title = "The Sporting News Player Contract Cards, ScanID: 1012005971"
+
+[person.name]
+last = "Dunbar"
+given = "C. Julian"
+
+
+[[person.transaction]]
+date = "1942-02"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1942-02"
+
+[[person.transaction]]
+date = "1942-05"
+type = "optioned"
+leave.name = "Augusta"
+join.name = "Fort Lauderdale"
+note = "opt to Fort Lauderdale 1942-05"
+
+[[person.transaction]]
+date = "1942-05"
+type = "returned"
+leave.name = "Fort Lauderdale"
+join.name = "Augusta"
+note = "ret to Augusta 1942-05"
+
+[[person.transaction]]
+date = "1942-08"
+type = "released"
+leave.name = "Augusta"
+note = "rel 1942-08"
+
+[[person.transaction]]
+date = "1942-08"
+type = "signed"
+join.name = "Miami"
+note = "Miami 1942-08"
+
+[[person.transaction]]
+date = "1942-08"
+type = "released"
+leave.name = "Miami"
+note = "rel 1942-08"
+
+[[person.transaction]]
+date = "1946-04"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1946-04"
+
+[[person.transaction]]
+date = "1946-05"
+type = "released"
+leave.name = "Selma"
+note = "rel 1946-05"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_034"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "1989-01-06"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "DeRose"
+use = "Carl"
+given = "Carl Gordon"
+
+[person.death]
+date = "1989-01-02"
+

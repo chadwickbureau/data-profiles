@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_036"
+
+[[person.meta.citation]]
+title = "Walukiewicz_Oravitz Fell Funeral Home"
+date = "2020-09-14"
+url = "https://www.woffuneralhome.com/obituary/stanley-pietkiewicz-sr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Pietkiewicz"
+use = "Stan"
+given = "Stanley T."
+suffix = "Sr."
+
+[person.birth]
+date = "1928-11-27"
+
+[person.death]
+date = "2020-09-10"
+
+[person.burial]
+cemetery.name = "Lady of Dawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Shenandoah Heights"
+
+[[person.education]]
+school.name = "Shenandoah HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Shenandoah"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

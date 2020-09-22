@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:223"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-09"
+url = "https://www.findagrave.com/memorial/129293494/paul-joseph-dwyer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Dwyer"
+use = "Paul"
+given = "Paul Joseph"
+
+[person.birth]
+date = "1918-04-28"
+place.country = "US"
+place.state = "MA"
+place.city = "Gloucester"
+
+[person.death]
+date = "2006-01-08"
+place.country = "US"
+place.state = "MA"
+place.city = "Melrose"
+
+[person.burial]
+cemetery.name = "Wyoming Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Melrose"
+
+[person.sameas]
+findagrave = "129293494"
+

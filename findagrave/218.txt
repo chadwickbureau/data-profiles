@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:218"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-30"
+url = "https://www.findagrave.com/memorial/130626208/roy-r_-drasites"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Drasites"
+use = "Roy"
+given = "Roy R."
+
+[person.birth]
+date = "1916-08-31"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2014-05-30"
+place.country = "US"
+place.state = "IL"
+place.city = "Galesburg"
+
+[person.burial]
+cemetery.name = "East Linwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Galesburg"
+
+[person.sameas]
+findagrave = "130626208"
+

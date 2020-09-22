@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_052"
+
+[[person.meta.citation]]
+title = "Rosehaven Funeral Home"
+date = "2020-09-21"
+url = "https://www.dignitymemorial.com/obituaries/douglasville-ga/billy-fite-9369208"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Fite"
+use = "Bill"
+given = "Billy Gene"
+suffix = "Sr."
+nick = "Sarge"
+
+[person.birth]
+date = "1930-02-17"
+
+[person.death]
+date = "2020-09-18"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

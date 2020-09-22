@@ -1,0 +1,63 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:115566"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/115566"
+title = "The Sporting News Player Contract Cards, ScanID: 1044000567"
+
+[person.name]
+last = "Tacha"
+given = "Allen W."
+
+[[person.resides]]
+place.country = "US"
+place.state = "KS"
+place.city = "Jennings"
+
+
+[[person.transaction]]
+date = "1942-03"
+type = "signed"
+join.name = "Ashland"
+note = "Ashland 1942-03"
+
+[[person.transaction]]
+date = "1942-05"
+type = "released"
+leave.name = "Ashland"
+note = "rel 1942-05"
+
+[[person.transaction]]
+date = "1943-01"
+type = "signed"
+join.name = "Ashland"
+note = "Ashland 1943-01"
+
+[[person.transaction]]
+date = "1943-02"
+type = "military-service"
+leave.name = "Ashland"
+note = "in service 1943-02"
+
+[[person.transaction]]
+date = "1943-02"
+type = "released"
+leave.name = "Ashland"
+join.name = "Portsmouth (VA)"
+note = "rel to Portsmouth (VA) 1943-02"
+
+[[person.transaction]]
+date = "1946-02-16"
+type = "reinstated"
+join.name = "Portsmouth (VA)"
+note = "rein from service list 1946-02-16"
+
+[[person.transaction]]
+date = "1946-03"
+type = "released"
+leave.name = "Portsmouth (VA)"
+join.name = "Shelby"
+note = "rel to Shelby 1946-03"
+

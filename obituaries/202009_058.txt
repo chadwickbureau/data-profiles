@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_058"
+
+[[person.meta.citation]]
+title = "Seattle Times"
+date = "2003-05-16"
+url = "https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=robert-d-hornig&pid=1015325"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Hornig"
+use = "Bob"
+given = "Robert D."
+
+[person.birth]
+date = "1916-04-20"
+place.country = "US"
+place.state = "WA"
+place.city = "Tacoma"
+
+[person.death]
+date = "2003-05-01"
+
+[person.burial]
+cemetery.name = "Evergreen-Washelli Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Seattle"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

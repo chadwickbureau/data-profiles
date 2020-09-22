@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_025"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Derose"
+use = "Carl"
+given = "Carl G."
+
+[person.birth]
+date = "1923-04-12"
+place.country = "US"
+place.state = "MN"
+place.city = "Milaca"
+
+[person.death]
+date = "1989-01-02"
+
+[person.sameas]
+ssn = "552-24-3354"
+

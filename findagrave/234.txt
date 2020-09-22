@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:234"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/5351828/joseph-g.-niedson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Niedson"
+use = "Joseph"
+given = "Joseph G."
+
+[person.birth]
+date = "1918-04-06"
+
+[person.death]
+date = "1993-12-16"
+
+[person.burial]
+cemetery.name = "Waller Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Waller"
+
+[person.sameas]
+findagrave = "5351828"
+

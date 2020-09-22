@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_038"
+
+[[person.meta.citation]]
+title = "Ware Funeral Home"
+date = "2020-09-16"
+url = "https://www.warefuneralhome.com/memorials/paul-kinney/4332830/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-16"
+
+[person.name]
+last = "Kinney"
+use = "Paul"
+given = "Paul Conner"
+
+[person.birth]
+date = "1927-07-27"
+place.country = "US"
+place.state = "KY"
+place.city = "Harrison County"
+
+[person.death]
+date = "2020-09-15"
+place.country = "US"
+place.state = "KY"
+place.city = "Lexington"
+
+[person.burial]
+cemetery.name = "Battle Grove Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Cynthiana"
+
+[[person.education]]
+school.name = "Oddville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Oddville"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

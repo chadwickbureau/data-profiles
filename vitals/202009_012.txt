@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_012"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Von Ahnen"
+use = "William"
+given = "William Henry"
+
+[person.birth]
+date = "1918-07-23"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+

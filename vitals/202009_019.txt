@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_019"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Smith"
+use = "Raymond"
+given = "Raymond Valentine"
+
+[person.birth]
+date = "1920-02-14"
+place.country = "US"
+place.state = "CT"
+place.city = "Windsor Locks"
+
+[person.death]
+date = "2005-12-09"
+
+[person.sameas]
+ssn = "054-14-2265"
+

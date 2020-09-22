@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:222"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-08"
+url = "https://www.findagrave.com/memorial/204750755/perry-jackson-crance"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-08"
+
+[person.name]
+last = "Crance"
+use = "Jack"
+given = "Perry Jackson"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-03-31"
+place.country = "US"
+place.state = "NY"
+place.city = "Owego"
+
+[person.death]
+date = "2019-11-13"
+
+[person.burial]
+cemetery.name = "Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "West Danby"
+
+[person.sameas]
+findagrave = "204750755"
+

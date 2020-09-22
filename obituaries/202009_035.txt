@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_035"
+
+[[person.meta.citation]]
+title = "Press & Sun-Bulletin"
+date = "2020-09-15"
+url = "https://www.legacy.com/obituaries/pressconnects/obituary.aspx?n=howard-davis-duke&pid=196797713&fhid=7258"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-15"
+
+[person.name]
+last = "Davis"
+use = "Duke"
+given = "Howard"
+
+[person.birth]
+date = "1922"
+place.country = "US"
+place.state = "NY"
+place.city = "Ithaca"
+
+[person.death]
+date = "2020"
+
+[[person.education]]
+school.name = "Vestal Central HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Vestal"
+
+

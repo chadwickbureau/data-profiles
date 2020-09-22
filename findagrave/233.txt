@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:233"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-09"
+url = "https://www.findagrave.com/memorial/13046879/james-f.-goff"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Goff"
+use = "Pim"
+given = "James F."
+
+[person.birth]
+date = "1912-05-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Normal"
+
+[person.death]
+date = "1980-02-28"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Normal"
+
+[person.sameas]
+findagrave = "13046879"
+

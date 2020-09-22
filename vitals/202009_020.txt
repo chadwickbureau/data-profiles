@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_020"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Wright"
+use = "Claude"
+given = "Claude Watson"
+
+[person.birth]
+date = "1915-08-14"
+place.country = "US"
+place.state = "TN"
+place.city = "Eidson"
+
+[person.death]
+date = "1993-08-15"
+
+[person.sameas]
+ssn = "411-10-2835"
+

@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_054"
+
+[[person.meta.citation]]
+title = "Macon Funeral Home"
+date = "2020-09-21"
+url = "https://www.maconfuneralhome.com/memorials/robert-taro/4334303/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Taro"
+use = "Bob"
+given = "Robert Lowrance"
+
+[person.birth]
+date = "1931-05-21"
+
+[person.death]
+date = "2020-09-16"
+
+[[person.education]]
+school.name = "University of Miami"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

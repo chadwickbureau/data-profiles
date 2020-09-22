@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_047"
+
+[[person.meta.citation]]
+title = "Withers Whisenant Funeral Home"
+date = "2020-09-21"
+url = "http://withersandwhisenantfuneral.tributes.com/obituary/show/Jimmie-Lee-Mincey-108496061"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Mincey"
+use = "Jimmie"
+given = "Jimmie Lee"
+
+[person.birth]
+date = "1934-10-09"
+place.country = "US"
+place.state = "NC"
+place.city = "High Shoals"
+
+[person.death]
+date = "2020-09-17"
+place.country = "US"
+place.state = "NC"
+place.city = "Dallas"
+
+[person.burial]
+cemetery.name = "Hollywood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Gastonia"
+
+[[person.education]]
+school.name = "Gastonia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NC"
+school.place.city = "Gastonia"
+
+

@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_046"
+
+[[person.meta.citation]]
+title = "Reynolds Hamrick Funeral Homes"
+date = "2020-09-21"
+url = "https://www.dignitymemorial.com/obituaries/staunton-va/william-may-9356782"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "May"
+use = "Bill"
+given = "William Randolph"
+
+[person.birth]
+date = "1938-11-24"
+place.country = "US"
+place.state = "PA"
+place.city = "Waynesburg"
+
+[person.death]
+date = "2020-09-14"
+place.country = "US"
+place.state = "VA"
+place.city = "Staunton"
+
+[[person.education]]
+school.name = "North River HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "VA"
+school.place.city = "Moscow"
+
+[[person.education]]
+school.name = "Virginia Polytechnic Institute and State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

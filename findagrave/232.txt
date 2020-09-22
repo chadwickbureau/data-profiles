@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:232"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-09"
+url = "https://www.findagrave.com/memorial/2845064/william-h-vonahnen"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Vonahnen"
+use = "William"
+given = "William H."
+
+[person.birth]
+date = "1918-07-23"
+
+[person.death]
+date = "1974-12-21"
+
+[person.burial]
+cemetery.name = "Long Island National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "East Farmingdale"
+
+[person.sameas]
+findagrave = "2845064"
+

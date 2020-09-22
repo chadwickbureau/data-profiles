@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_015"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Niedson"
+use = "Joseph"
+given = "Joseph George"
+
+[person.birth]
+date = "1918-04-06"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+

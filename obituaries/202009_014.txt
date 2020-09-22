@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_014"
+
+[[person.meta.citation]]
+title = "Kravanya Funeral Home"
+date = "2020-09-09"
+url = "https://www.kravanyafuneral.com/obituaries/John-D-Saric?obId=18210201#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Saric"
+use = "John"
+given = "John D."
+nick = "Shine"
+
+[person.birth]
+date = "1926-06-25"
+place.country = "US"
+place.state = "IL"
+place.city = "Sawyerville"
+
+[person.death]
+date = "2020-09-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[[person.education]]
+school.name = "Benld Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Benld"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

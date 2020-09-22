@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_025"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2005-12-14"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Smith"
+use = "Raymond"
+given = "Raymond Valentine"
+
+[person.birth]
+date = "1920-02-14"
+place.country = "US"
+place.state = "CT"
+place.city = "Windsor"
+
+[person.death]
+date = "2005-12-09"
+place.country = "US"
+place.state = "CT"
+place.city = "Rocky Hill"
+
+[person.burial]
+cemetery.name = "Duck River Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Old Lyme"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

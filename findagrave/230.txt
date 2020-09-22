@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:230"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/137137449/john-gabbard"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Gabbard"
+use = "John"
+given = "John"
+suffix = "Jr."
+nick = "Boomer"
+
+[person.birth]
+date = "1923-08-17"
+place.country = "US"
+place.state = "OH"
+
+[person.death]
+date = "1990-07-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Fairfield"
+
+[person.burial]
+cemetery.name = "Hickory Flat Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Overpeck"
+
+[person.sameas]
+findagrave = "137137449"
+

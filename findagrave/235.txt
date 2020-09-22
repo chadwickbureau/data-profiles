@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:235"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/210232204/raymond-v.-smith"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Smith"
+use = "Raymond"
+given = "Raymond V."
+
+[person.birth]
+date = "1920"
+
+[person.death]
+date = "2005"
+
+[person.burial]
+cemetery.name = "Duck River Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Old Lyme"
+
+[person.sameas]
+findagrave = "210232204"
+

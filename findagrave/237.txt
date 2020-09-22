@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:237"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/56286405/elmer-john-wachtler"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Wachtler"
+use = "Elmer"
+given = "Elmer John"
+
+[person.birth]
+date = "1918-07-16"
+place.country = "US"
+place.state = "NE"
+place.city = "Omaha"
+
+[person.death]
+date = "1945-01-05"
+place.country = "BE"
+place.city = "Bastogne"
+
+[person.burial]
+cemetery.name = "Henri-Chapelle American Cemetery & Memorial"
+cemetery.place.country = "BE"
+cemetery.place.city = "Henri-Chapelle"
+
+[person.sameas]
+findagrave = "56286405"
+

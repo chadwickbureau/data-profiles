@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:146181"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/146181"
+title = "The Sporting News Player Contract Cards, ScanID: 1040004733"
+
+[person.name]
+last = "Sewell"
+given = "James Taylor"
+
+
+[[person.transaction]]
+date = "1958-03-08"
+type = "signed"
+join.name = "Palatka"
+note = "Palatka 1958-03-08"
+
+[[person.transaction]]
+date = "1958-04-11"
+type = "released"
+leave.name = "Palatka"
+note = "rel 1958-04-11"
+

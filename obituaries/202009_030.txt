@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_030"
+
+[[person.meta.citation]]
+title = "Warren-McElwain Funeral Home"
+date = "2020-09-14"
+url = "https://warrenmcelwain.com/obituary/lucian-lou-b-hanner-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Hammer"
+use = "Lou"
+given = "Lucian B."
+suffix = "Jr."
+
+[person.birth]
+date = "1923-09-14"
+place.country = "US"
+place.state = "KS"
+place.city = "Marion"
+
+[person.death]
+date = "2020-09-11"
+
+[[person.education]]
+school.name = "Claflin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KS"
+school.place.city = "Claflin"
+
+[[person.education]]
+school.name = "University of Kansas"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

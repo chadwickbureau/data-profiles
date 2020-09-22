@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:220"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-02"
+url = "https://www.findagrave.com/memorial/75148018/samuel-wesley-freeny"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-02"
+
+[person.name]
+last = "Freeny"
+use = "Samuel"
+given = "Samuel Wesley"
+
+[person.birth]
+date = "1896-08-26"
+place.country = "US"
+place.state = "MD"
+place.city = "Salisbury"
+
+[person.death]
+date = "1944-12-22"
+place.country = "PH"
+place.city = "Olongapo"
+
+[person.burial]
+cemetery.name = "United States Naval Academy Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Annapolis"
+
+[person.sameas]
+findagrave = "75148018"
+

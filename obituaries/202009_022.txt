@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_022"
+
+[[person.meta.citation]]
+title = "Lenmark Gomsrud Linn Funeral Home"
+date = "2020-09-10"
+url = "https://www.lenmarkfh.com/obituaries/James-A-Schlewitz/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Schlewitz"
+use = "Jim"
+given = "James A."
+
+[person.birth]
+date = "1932-09-29"
+
+[person.death]
+date = "2016-09-13"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.burial]
+cemetery.name = "Northside Lutheran Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Eau Claire"
+
+[[person.education]]
+school.name = "Eau Claire HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Eau Claire"
+
+[[person.education]]
+school.name = "University of Wisconsin-Eau Claire"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

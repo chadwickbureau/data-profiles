@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_053"
+
+[[person.meta.citation]]
+title = "Serenity Funeral Home"
+date = "2020-09-21"
+url = "https://www.serenitycovington.com/obituaries/James-Sewell-7/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Sewell"
+use = "Jim"
+given = "James Taylor"
+
+[person.birth]
+date = "1938"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[person.death]
+date = "2020-09-17"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Sewell"
+person.name.use = "Rip"
+person.name.given = "Rip"
+
+
+[[person.education]]
+school.name = "Plant City HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Plant City"
+
+[[person.education]]
+school.name = "Florida State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

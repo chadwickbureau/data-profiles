@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_005"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Maren"
+use = "Robert"
+given = "Robert John"
+
+[person.birth]
+date = "1918-05-10"
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+

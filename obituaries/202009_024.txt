@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_024"
+
+[[person.meta.citation]]
+title = "Chicago Sun-Times"
+date = "2004-09-26"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Schmiel"
+use = "Harry"
+given = "Harry"
+
+[person.death]
+date = "2004"
+
+[person.burial]
+cemetery.name = "Resurrection Catholic Cemetery & Mausoleums"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Justice"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

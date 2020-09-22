@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_029"
+
+[[person.meta.citation]]
+title = "Spectrum & Daily News"
+date = "2020-09-11"
+url = "https://www.legacy.com/obituaries/thespectrum/obituary.aspx?n=william-john-whatcott&pid=196780630&fhid=4515"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Whatcott"
+use = "John"
+given = "William John"
+
+[person.birth]
+date = "1933-04-16"
+place.country = "US"
+place.state = "UT"
+place.city = "Lynndyl"
+
+[person.death]
+date = "2020-09-05"
+
+[person.burial]
+cemetery.name = "Tonaquint Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "St. George"
+
+[[person.education]]
+school.name = "Delta HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Delta"
+
+[[person.education]]
+school.name = "Utah State University"
+school.type = "college"
+
+

@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:208"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-27"
+url = "https://www.findagrave.com/memorial/47836046/lewis-ellsworth_lew_-hummel"
+
+[[person.meta.contributor]]
+name.last = "Turocy"
+name.use = "Ted"
+email = "ted.turocy@gmail.com"
+date = "2020-08-27"
+
+[person.name]
+last = "Hummel"
+use = "Lew"
+given = "Lewis Ellsworth"
+
+[person.birth]
+date = "1918-04-05"
+
+[person.death]
+date = "2006-09-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Northumberland"
+
+[person.burial]
+cemetery.name = "Riverview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Northumberland"
+
+[person.sameas]
+findagrave = "47836046"
+
+[[person.education]]
+school.name = "Northumberland HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Northumberland"
+span = "/1937"
+
+

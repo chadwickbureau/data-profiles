@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_015"
+
+[[person.meta.citation]]
+title = "New York Times"
+date = "2020-09-02"
+url = "https://www.nytimes.com/2020/09/02/obituaries/tom-seaver-dead-coronavirus.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Seaver"
+use = "Tom"
+given = "George Thomas"
+
+[person.birth]
+date = "1944-11-17"
+place.country = "US"
+place.state = "CA"
+place.city = "Fresno"
+
+[person.death]
+date = "2020-08-31"
+
+[[person.education]]
+school.name = "Fresno City College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of Southern California"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

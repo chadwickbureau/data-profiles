@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:228"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/44293280/robert-john-maren"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Maren"
+use = "Bob"
+given = "Robert John"
+
+[person.birth]
+date = "1918-05-10"
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+
+[person.death]
+date = "2003-10-10"
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+
+[person.burial]
+cemetery.name = "Abraham Lincoln National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Elwood"
+
+[person.sameas]
+findagrave = "44293280"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

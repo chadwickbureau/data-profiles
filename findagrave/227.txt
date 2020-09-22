@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:227"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/156683893/russell-wein"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Wein"
+use = "Russell"
+given = "Russell"
+
+[person.birth]
+date = "1915-09-05"
+
+[person.death]
+date = "1984-06-23"
+
+[person.burial]
+cemetery.name = "Fairview Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Gaylord"
+
+[person.sameas]
+findagrave = "156683893"
+

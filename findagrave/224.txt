@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:224"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/2910682/rex-l-henze"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Henze"
+use = "Rex"
+given = "Rex L."
+
+[person.birth]
+date = "1924-08-16"
+
+[person.death]
+date = "1988-04-05"
+
+[person.burial]
+cemetery.name = "Wood National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Milwaukee"
+
+[person.sameas]
+findagrave = "2910682"
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_044"
+
+[[person.meta.citation]]
+title = "Borchardt Moder Funeral Homes"
+date = "2020-09-19"
+url = "http://www.borchardtmoderfuneralhomes.com/obituary/denny-sommers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-19"
+
+[person.name]
+last = "Sommers"
+use = "Denny"
+given = "Denny J."
+
+[person.birth]
+date = "1940-07-12"
+
+[person.death]
+date = "2020-09-14"
+

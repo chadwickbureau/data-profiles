@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_049"
+
+[[person.meta.citation]]
+title = "Dunbar Funeral Home"
+date = "2020-09-21"
+url = "https://www.dignitymemorial.com/obituaries/columbia-sc/charles-peterson-9358110"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Peterson"
+use = "Charles"
+given = "Charles Edward"
+suffix = "Jr."
+nick = "Pete"
+
+[person.birth]
+date = "1974-05-08"
+
+[person.death]
+date = "2020-09-13"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[[person.education]]
+school.name = "Laurens District 55 HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Laurens"
+
+

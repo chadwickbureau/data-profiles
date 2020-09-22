@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_033"
+
+[[person.meta.citation]]
+title = "Schaetter Funeral Home"
+date = "2020-09-14"
+url = "https://www.schaetter.com/obituary/rev-fred-bates-jr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Bates"
+use = "Fred"
+given = "Fred Lay"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-07-14"
+place.country = "US"
+place.state = "AR"
+place.city = "Conway"
+
+[person.death]
+date = "2020-09-13"
+
+[person.burial]
+cemetery.name = "Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fredericksburg"
+
+[[person.education]]
+school.name = "North Little Rock HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "North Little Rock"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,185 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:76617"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/76617"
+title = "The Sporting News Player Contract Cards, ScanID: 1017004931"
+
+[person.name]
+last = "Gravin"
+given = "Jim"
+
+[person.description]
+ancestry = "Irish"
+position = "P"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "165"
+
+[person.birth]
+date = "1915-02-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "1226 Draper"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+
+[[person.transaction]]
+date = "1934-05"
+type = "signed"
+join.name = "Davenport"
+note = "Davenport 1934-05"
+
+[[person.transaction]]
+date = "1934-05"
+type = "optioned"
+leave.name = "Davenport"
+join.name = "Brainard"
+note = "opt to Brainard 1934-05"
+
+[[person.transaction]]
+date = "1934-12"
+type = "released"
+leave.name = "Brainard"
+join.name = "Davenport"
+note = "rel to Davenport 1934-12"
+
+[[person.transaction]]
+date = "1935"
+type = "signed"
+join.name = "Brainerd"
+note = "Brainerd 1935"
+
+[[person.transaction]]
+date = "1936"
+type = "reserved"
+join.name = "Brainerd"
+note = "for 1936"
+
+[[person.transaction]]
+date = "1936"
+type = "signed"
+join.name = "Wausau"
+note = "Wausau 1936"
+
+[[person.transaction]]
+date = "1936-02"
+type = "released"
+leave.name = "Wausau"
+join.name = "Davenport"
+note = "rel to Davenport 1936-02"
+
+[[person.transaction]]
+date = "1936-06"
+type = "released"
+leave.name = "Davenport"
+join.name = "Fort Worth"
+note = "rel to Fort Worth 1936-06"
+
+[[person.transaction]]
+date = "1936-07"
+type = "optioned"
+leave.name = "Fort Worth"
+join.name = "Jacksonville"
+note = "opt to Jacksonville 1936-07"
+
+[[person.transaction]]
+date = "1936-09"
+type = "recalled"
+leave.name = "Jacksonville"
+join.name = "Fort Worth"
+note = "rec by Fort Worth 1936-09"
+
+[[person.transaction]]
+date = "1937"
+type = "reserved"
+join.name = "Fort Worth"
+note = "for 1937"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "Fort Worth"
+note = "res for 1938"
+
+[[person.transaction]]
+date = "1938-05"
+type = "released"
+leave.name = "Fort Worth"
+join.name = "Marshall"
+note = "rel to Marshall 1938-05"
+
+[[person.transaction]]
+date = "1938-06"
+type = "returned"
+leave.name = "Marshall"
+join.name = "Forth Worth"
+note = "ret to Forth Worth 1938-06"
+
+[[person.transaction]]
+date = "1938-06"
+type = "assigned"
+leave.name = "Forth Worth"
+join.name = "Kilgore"
+note = "assigned to Kilgore 1938-06"
+
+[[person.transaction]]
+date = "1938-07"
+type = "recalled"
+leave.name = "Kilgore"
+join.name = "Fort Worth"
+note = "rec by Fort Worth 1938-07"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Fort Worth"
+note = "res for 1939"
+
+[[person.transaction]]
+date = "1939-07"
+type = "released"
+leave.name = "Fort Worth"
+note = "rel 1939-07"
+
+[[person.transaction]]
+date = "1940-06"
+type = "released"
+leave.name = "Fort Worth"
+join.name = "Winston-Salem"
+note = "rel to Winston-Salem 1940-06"
+
+[[person.transaction]]
+date = "1940-06"
+type = "returned"
+leave.name = "Winston-Salem"
+join.name = "Savannah"
+note = "ret to Savannah 1940-06"
+
+[[person.transaction]]
+date = "1940-07"
+type = "optioned"
+leave.name = "Savannah"
+join.name = "Cedar Rapids"
+note = "opt to Cedar Rapids 1940-07"
+
+[[person.transaction]]
+date = "1941"
+type = "reserved"
+join.name = "Cedar Rapids"
+note = "res for 1941"
+
+[[person.transaction]]
+date = "1941-01"
+type = "released"
+leave.name = "Cedar Rapids"
+note = "rel 1941-01"
+

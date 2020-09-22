@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:212"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-27"
+url = "https://www.findagrave.com/memorial/98780669/john-francis-cannon"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Cannon"
+use = "John"
+given = "John Francis"
+suffix = "Sr."
+
+[person.birth]
+date = "1915-12-01"
+
+[person.death]
+date = "1988-12-30"
+
+[person.burial]
+cemetery.name = "Georgetown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Georgetown"
+
+[person.sameas]
+findagrave = "98780669"
+

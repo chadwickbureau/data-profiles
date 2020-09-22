@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_060"
+
+[[person.meta.citation]]
+title = "Racine Journal Times"
+date = "1952-12-15"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Hope"
+use = "Eddie"
+given = "Edward"
+
+[person.death]
+date = "1952-12-13"
+place.country = "US"
+place.state = "WI"
+place.city = "Racine"
+
+[person.burial]
+cemetery.name = "Holy Cross Cemetery & Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Milwaukee"
+

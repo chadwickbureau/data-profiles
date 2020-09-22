@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:239"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-19"
+url = "https://www.findagrave.com/memorial/173953903/eldon-eugene-crane"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-19"
+
+[person.name]
+last = "Crane"
+use = "Eldon"
+given = "Eldon Eugene"
+
+[person.birth]
+date = "1935-08-23"
+
+[person.death]
+date = "2016-12-14"
+
+[person.burial]
+cemetery.name = "Evergreen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Fort Scott"
+
+[person.sameas]
+findagrave = "173953903"
+

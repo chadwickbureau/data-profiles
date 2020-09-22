@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:217"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-30"
+url = "https://www.findagrave.com/memorial/118387257/harold-bud-dobson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Dobson"
+use = "Harold"
+given = "Harold Bud"
+
+[person.birth]
+date = "1919-10-15"
+place.country = "US"
+place.state = "NE"
+place.city = "Lincoln"
+
+[person.death]
+date = "1943-05-23"
+place.country = "US"
+place.state = "CA"
+place.city = "San Bernardino County"
+
+[person.burial]
+cemetery.name = "Fairmount Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CO"
+cemetery.place.city = "Denver"
+
+[person.sameas]
+findagrave = "118387257"
+

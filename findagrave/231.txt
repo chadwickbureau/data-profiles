@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:231"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-09"
+url = "https://www.findagrave.com/memorial/47891071/fred-g-naumann"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Naumann"
+use = "Fred"
+given = "Fred George"
+
+[person.birth]
+date = "1917-02-25"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.death]
+date = "1948-12-18"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.burial]
+cemetery.name = "Resurrection Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Affton"
+
+[person.sameas]
+findagrave = "47891071"
+

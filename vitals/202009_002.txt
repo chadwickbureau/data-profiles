@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_002"
+
+[[person.meta.citation]]
+title = "Cook County, Illinois Birth Certificates Index, 1871-1922"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-16"
+
+[person.name]
+last = "Brunner"
+use = "Sheldon"
+given = "Sheldon"
+
+[person.birth]
+date = "1915-01-21"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+

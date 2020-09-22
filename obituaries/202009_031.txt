@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_031"
+
+[[person.meta.citation]]
+title = "Vick Funeral Home"
+date = "2020-09-14"
+url = "https://www.vickfuneralhome.com/obituary/donald-jordan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-14"
+
+[person.name]
+last = "Jordan"
+use = "Don"
+given = "Donald David"
+
+[person.birth]
+date = "1932-03-17"
+place.country = "US"
+place.state = "WI"
+place.city = "Eau Claire"
+
+[person.death]
+date = "2020-09-06"
+place.country = "US"
+place.state = "TX"
+place.city = "San Antonio"
+
+[person.burial]
+cemetery.name = "Cadillac Memorial Garden East"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Clinton Township"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

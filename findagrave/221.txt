@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:221"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-27"
+url = "https://www.findagrave.com/memorial/167966212/fred-j-collins"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-27"
+
+[person.name]
+last = "Collins"
+use = "Fred"
+given = "Fred J. “Rip”"
+
+[person.birth]
+date = "1916"
+
+[person.death]
+date = "1986"
+
+[person.burial]
+cemetery.name = "Peachtree Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Norcross"
+
+[person.sameas]
+findagrave = "167966212"
+

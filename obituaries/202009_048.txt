@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_048"
+
+[[person.meta.citation]]
+title = "Star-Telegram"
+date = "2020-09-21"
+url = "https://www.legacy.com/obituaries/dfw/obituary.aspx?n=john-kenneth-hogan&pid=196827442"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-21"
+
+[person.name]
+last = "Hogan"
+use = "John"
+given = "John Kenneth"
+
+[person.birth]
+date = "1934-10-09"
+place.country = "US"
+place.state = "TX"
+place.city = "Lubbock"
+
+[person.death]
+date = "2020-09-18"
+
+[person.burial]
+cemetery.name = "Greenwood Memorial Park and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Fort Worth"
+

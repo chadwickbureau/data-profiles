@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_010"
+
+[[person.meta.citation]]
+title = "San Jose Mercury News"
+date = "2020-09-06"
+url = "https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=shawn-barton&pid=196744062"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-08"
+
+[person.name]
+last = "Barton"
+use = "Shawn"
+given = "Shawn"
+
+[person.birth]
+date = "1961-09-26"
+
+[person.death]
+date = "2020-08-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Citrus Heights"
+
+[[person.education]]
+school.name = "Mountain View HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Mountain View"
+
+

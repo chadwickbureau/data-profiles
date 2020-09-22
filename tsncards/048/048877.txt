@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:48877"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/48877"
+title = "The Sporting News Player Contract Cards, ScanID: 1010001563"
+
+[person.name]
+last = "Crane"
+given = "Eldon Eugene"
+
+[person.description]
+ancestry = "English-Irish"
+position = "P"
+bats = "L"
+throws = "R"
+height = "74 1/2"
+weight = "190"
+
+[person.birth]
+date = "1935-08-23"
+place.country = "US"
+place.state = "KS"
+place.city = "Fort Scott"
+
+[[person.resides]]
+place.address = "110 Andrick Street"
+place.country = "US"
+place.state = "KS"
+place.city = "Fort Scott"
+
+
+[[person.transaction]]
+date = "1953-10-11"
+type = "signed"
+join.name = "Madisonville"
+note = "Madisonville 1953-10-11"
+
+[[person.transaction]]
+date = "1954-05-28"
+type = "released"
+leave.name = "Madisonville"
+note = "rel 1954-05-28"
+

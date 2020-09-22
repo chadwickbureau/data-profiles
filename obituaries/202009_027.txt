@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_027"
+
+[[person.meta.citation]]
+title = "Mothe Funeral Homes"
+date = "2020-09-11"
+url = "https://www.mothefunerals.com/obituaries/Arthur-Eugene-Robinson/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-11"
+
+[person.name]
+last = "Robinson"
+use = "Gene"
+given = "Arthur Eugene"
+suffix = "Sr."
+
+[person.birth]
+date = "1955-01-12"
+
+[person.death]
+date = "2020-09-03"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[[person.education]]
+school.name = "New Bloomfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MO"
+school.place.city = "New Bloomfield"
+
+[[person.education]]
+school.name = "Crowder College"
+school.type = "college"
+
+[[person.education]]
+school.name = "University of New Orleans"
+school.type = "college"
+
+

@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:225"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-16"
+url = "https://www.findagrave.com/memorial/83632359/sheldon-g-brunner"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-16"
+
+[person.name]
+last = "Brunner"
+use = "Sheldon"
+given = "Sheldon G."
+
+[person.birth]
+date = "1915-01-21"
+
+[person.death]
+date = "1944-09-08"
+place.country = "FR"
+
+[person.burial]
+cemetery.name = "Mount Greenwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Chicago"
+
+[person.sameas]
+findagrave = "83632359"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

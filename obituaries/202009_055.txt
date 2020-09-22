@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_055"
+
+[[person.meta.citation]]
+title = "Press & Sun-Bulletin"
+date = "2020-09-22"
+url = "https://www.legacy.com/obituaries/pressconnects/obituary.aspx?n=edward-p-winnick&pid=196830891&fhid=13281"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Winnick"
+use = "Ed"
+given = "Edward P."
+
+[person.birth]
+date = "1928-03-04"
+place.country = "US"
+place.state = "NY"
+place.city = "Candor"
+
+[person.death]
+date = "2020-09-19"
+place.country = "US"
+place.state = "NY"
+place.city = "Cooperstown"
+
+[person.burial]
+cemetery.name = "St. Patrick's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Owego"
+
+[[person.education]]
+school.name = "Candor HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Candor"
+
+[[person.education]]
+school.name = "Cornell University"
+school.type = "college"
+
+

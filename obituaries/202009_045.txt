@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_045"
+
+[[person.meta.citation]]
+title = "Staab Funeral Homes"
+date = "2020-09-19"
+url = "https://www.staabfuneralhomes.com/obituary/robert-allen-welch/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-19"
+
+[person.name]
+last = "Welch"
+use = "Robert"
+given = "Robert Allen"
+
+[person.birth]
+date = "1923-06-01"
+place.country = "US"
+place.state = "IL"
+place.city = "Farmersville"
+
+[person.death]
+date = "2016-02-02"
+place.country = "US"
+place.state = "IL"
+place.city = "Springfield"
+
+[person.burial]
+cemetery.name = "Rovey Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Farmersville"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

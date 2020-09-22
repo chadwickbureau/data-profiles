@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_017"
+
+[[person.meta.citation]]
+title = "Bloomington (IL) Pantagraph"
+date = "1966-02-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-09"
+
+[person.name]
+last = "Goff"
+use = "Pim"
+given = "James F."
+
+[person.birth]
+date = "1912-05-13"
+place.country = "US"
+place.state = "IL"
+place.city = "Normal"
+
+[person.death]
+date = "1980-02-28"
+place.country = "US"
+place.state = "AZ"
+place.city = "Tucson"
+
+[person.sameas]
+key-sr-nba = "goffja01n"
+
+[[person.education]]
+school.name = "University HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Normal"
+
+[[person.education]]
+school.name = "Illinois State University"
+school.type = "college"
+
+

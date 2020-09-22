@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_018"
+
+[[person.meta.citation]]
+title = "Houston Chronicle"
+date = "2020-09-06"
+url = "https://www.legacy.com/obituaries/houstonchronicle/obituary.aspx?n=miles-zeller-gus&pid=196749081"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Zeller"
+use = "Gus"
+given = "Miles"
+
+[person.birth]
+date = "1938-08-10"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago Heights"
+
+[person.death]
+date = "2020-08-28"
+place.country = "US"
+place.state = "NC"
+place.city = "Raleigh"
+
+[[person.education]]
+school.name = "Rich Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Matteson"
+
+[[person.education]]
+school.name = "University of Arizona"
+school.type = "college"
+
+

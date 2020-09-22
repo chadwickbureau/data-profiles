@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:216"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-29"
+url = "https://www.findagrave.com/memorial/144596504/jack-w_-card"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-29"
+
+[person.name]
+last = "Card"
+use = "Jack"
+given = "Jack W."
+
+[person.birth]
+date = "1915-09-30"
+
+[person.death]
+date = "2000-11-15"
+
+[person.burial]
+cemetery.name = "Washington Heights Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Ogden"
+
+[person.sameas]
+findagrave = "144596504"
+

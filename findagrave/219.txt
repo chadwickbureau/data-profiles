@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:219"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-08-30"
+url = "https://www.findagrave.com/memorial/88696713/robert-a_-eisiminger"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-08-30"
+
+[person.name]
+last = "Eisiminger"
+use = "Robert"
+given = "Robert A."
+
+[person.birth]
+date = "1920-09-01"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Joseph"
+
+[person.death]
+date = "2011-12-08"
+place.country = "US"
+place.state = "MI"
+place.city = "Canton"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[person.sameas]
+findagrave = "88696713"
+

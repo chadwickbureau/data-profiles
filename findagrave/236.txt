@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:236"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-10"
+url = "https://www.findagrave.com/memorial/56136114/william-yarewick"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-10"
+
+[person.name]
+last = "Yarewick"
+use = "William"
+given = "William"
+
+[person.birth]
+date = "1916"
+place.country = "US"
+place.state = "NJ"
+
+[person.death]
+date = "1945-05-23"
+place.country = "QS"
+
+[person.burial]
+cemetery.name = "Honolulu Memorial"
+cemetery.place.country = "US"
+cemetery.place.state = "HI"
+cemetery.place.city = "Honolulu"
+
+[person.sameas]
+findagrave = "56136114"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

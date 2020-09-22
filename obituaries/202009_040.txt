@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_040"
+
+[[person.meta.citation]]
+title = "Heizenroth Funeral Home"
+date = "2020-09-17"
+url = "https://www.kullfuneral.com/obituaries/Richard-Thomas-Santulli?obId=18353361#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-17"
+
+[person.name]
+last = "Santulli"
+use = "Richard"
+given = "Richard Thomas"
+
+[person.birth]
+date = "1937-05-30"
+
+[person.death]
+date = "2020-09-14"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "St. Luke's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Ho-Ho-Kus"
+
+
