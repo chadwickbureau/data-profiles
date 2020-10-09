@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_001"
+
+[[person.meta.citation]]
+title = "Arizona Republic"
+date = "1970-08-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Rohrer"
+use = "William"
+given = "William U."
+nick = "Dadie"
+
+[person.birth]
+place.country = "US"
+place.state = "NE"
+place.city = "Hastings"
+
+[person.death]
+date = "1970-08-08"
+place.country = "US"
+place.state = "CA"
+place.city = "Paramount"
+
+[person.burial]
+cemetery.name = "Greenwood Memory Lawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AZ"
+cemetery.place.city = "Phoenix"
+

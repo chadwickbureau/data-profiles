@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_077"
+
+[[person.meta.citation]]
+title = "Bowser-Minich Funeral Home"
+date = "2020-10-02"
+url = "https://www.bowserminich.com/obituary/theodore-pallone"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Pallone"
+use = "Ted"
+given = "Theodore J."
+
+[person.birth]
+date = "1931"
+
+[person.death]
+date = "2020-09-30"
+place.country = "US"
+place.state = "PA"
+place.city = "Shelocta"
+
+[person.burial]
+cemetery.name = "Elderton Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Elderton"
+
+[[person.education]]
+school.name = "Elderton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Elderton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

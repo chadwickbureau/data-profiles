@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_061"
+
+[[person.meta.citation]]
+title = "Groce Funeral Home"
+date = "2020-09-23"
+url = "https://www.grocefuneralhome.com/obits/larry-joe-carter/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-23"
+
+[person.name]
+last = "Carter"
+use = "Larry"
+given = "Larry Joe"
+
+[person.birth]
+date = "1930-02-22"
+
+[person.death]
+date = "2016-01-30"
+place.country = "US"
+place.state = "NC"
+place.city = "Mills River"
+

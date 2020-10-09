@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_005"
+
+[[person.meta.citation]]
+title = "Star-Tribune"
+date = "2020-10-05"
+url = "https://m.startribune.com/obituaries/detail/0000370041/?fullname=harold-hal-raether"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-05"
+
+[person.name]
+last = "Raether"
+use = "Hal"
+given = "Harold"
+
+[person.death]
+date = "2020-09-26"
+
+[[person.education]]
+school.name = "University of Wisconsin at Madison"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

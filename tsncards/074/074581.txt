@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:74581"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/74581"
+title = "The Sporting News Player Contract Cards, ScanID: 1017006465"
+
+[person.name]
+last = "Gregory"
+given = "W. B."
+
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Joplin"
+note = "Joplin 1914-04"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Oklahoma City"
+note = "Oklahoma City 1914-07"
+
+[[person.transaction]]
+date = "1914-08"
+type = "released"
+leave.name = "Oklahoma City"
+note = "rel 1914-08"
+

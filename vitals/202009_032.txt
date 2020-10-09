@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_032"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Hvisdos"
+use = "John"
+given = "John Joseph"
+suffix = "Sr."
+
+[person.birth]
+date = "1911-01-02"
+
+[person.death]
+date = "1969-01-14"
+
+[person.sameas]
+ssn = "286-01-7171"
+

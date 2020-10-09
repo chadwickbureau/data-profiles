@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_004"
+
+[[person.meta.citation]]
+title = "Lexington Herald-Leader"
+date = "2020-10-05"
+url = "https://www.legacy.com/obituaries/kentucky/obituary.aspx?n=gene-harp&pid=196897606&fhid=14054"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-05"
+
+[person.name]
+last = "Harp"
+use = "Gene"
+given = "Gene"
+
+[person.birth]
+date = "1935-11-30"
+place.country = "US"
+place.state = "KY"
+place.city = "Cynthiana"
+
+[person.death]
+date = "2020-10-02"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Harrison County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Cynthiana"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

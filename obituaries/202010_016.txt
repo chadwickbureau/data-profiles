@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_016"
+
+[[person.meta.citation]]
+title = "Branchburg Funeral Home"
+date = "2020-10-08"
+url = "https://www.branchburgfuneralhome.com/obituaries/Frederick-Fireball-Wenz?obId=18550661#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-08"
+
+[person.name]
+last = "Wenz"
+use = "Fred"
+given = "Frederick"
+nick = "Fireball"
+
+[person.birth]
+date = "1941-08-26"
+place.country = "US"
+place.state = "NJ"
+place.city = "Bound Brook"
+
+[person.death]
+date = "2020-10-06"
+place.country = "US"
+place.state = "NJ"
+place.city = "Branchburg"
+
+[person.burial]
+cemetery.name = "Redfield Village Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Redfield"
+
+[[person.education]]
+school.name = "Somerville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Somerville"
+
+

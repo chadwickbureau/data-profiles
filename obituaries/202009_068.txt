@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_068"
+
+[[person.meta.citation]]
+title = "Solfanelli-Fiorillo Funeral Home"
+date = "2020-09-28"
+url = "https://www.solfanellifiorillofuneralhome.com/book-of-memories/4341877/Del-Santro-Albert/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-28"
+
+[person.name]
+last = "Del Santro"
+use = "Al"
+given = "Albert D."
+
+[person.birth]
+date = "1935-01-24"
+place.country = "US"
+place.state = "NJ"
+place.city = "Newark"
+
+[person.death]
+date = "2020-09-23"
+place.country = "US"
+place.state = "PA"
+place.city = "West Scranton"
+
+[person.burial]
+cemetery.name = "Cathedral Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Scranton"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

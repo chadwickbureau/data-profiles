@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_003"
+
+[[person.meta.citation]]
+title = "Marshall Funeral Home"
+date = "2020-10-04"
+url = "https://www.marshallfh.com/obituary/cunningham-mcgrath"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-04"
+
+[person.name]
+last = "McGrath"
+use = "Mac"
+given = "Cunningham Wilson"
+suffix = "Jr."
+
+[person.birth]
+date = "1941-10-09"
+place.country = "US"
+place.state = "MS"
+place.city = "Pascagoula"
+
+[person.death]
+date = "2020-08-22"
+place.country = "US"
+place.state = "MS"
+place.city = "Vancleave"
+
+[[person.education]]
+school.name = "Pascagoula HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Pascagoula"
+
+[[person.education]]
+school.name = "Mississippi Gulf Coast Community College"
+school.type = "college"
+
+

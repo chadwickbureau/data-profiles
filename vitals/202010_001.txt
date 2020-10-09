@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_001"
+
+[[person.meta.citation]]
+title = "WWI Draft Registration Cards, 1917-1918"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Rohrer"
+use = "William"
+given = "William U."
+
+[person.birth]
+date = "1889-11-02"
+place.country = "US"
+place.state = "NE"
+place.city = "Hastings"
+

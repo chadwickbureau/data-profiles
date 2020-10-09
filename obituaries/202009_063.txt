@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_063"
+
+[[person.meta.citation]]
+title = "Bucks County Courier Times"
+date = "2016-01-24"
+url = "https://www.buckscountycouriertimes.com/article/20160124/OBITUARIES/301249892"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-25"
+
+[person.name]
+last = "Lebegern"
+use = "Jack"
+given = "John H."
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Morrisville"
+
+[person.death]
+date = "2016-01-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Newtown"
+
+[[person.education]]
+school.name = "Morrisville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Morrisville"
+
+

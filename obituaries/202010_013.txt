@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_013"
+
+[[person.meta.citation]]
+title = "San Francisco Chronicle"
+date = "2020-10-03"
+url = "https://www.legacy.com/obituaries/sfgate/obituary.aspx?n=gary-hughes&pid=196895405"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-06"
+
+[person.name]
+last = "Hughes"
+use = "Gary"
+given = "Gareth E."
+
+[person.birth]
+date = "1941-02-02"
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.death]
+date = "2020-09-19"
+
+[[person.education]]
+school.name = "Junipero Serra HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Mateo"
+
+[[person.education]]
+school.name = "San Jose State University"
+school.type = "college"
+
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_035"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-25"
+
+[person.name]
+last = "Barta"
+use = "Jerry"
+given = "Jerry Peter"
+
+[person.birth]
+date = "1922-10-01"
+place.country = "US"
+place.state = "OR"
+place.city = "Portland"
+

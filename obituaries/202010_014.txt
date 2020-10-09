@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_014"
+
+[[person.meta.citation]]
+title = "Companion Funeral Home"
+date = "2020-10-07"
+url = "https://www.companionfunerals.com/obituaries/Norman-Curren?obId=18530545#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-07"
+
+[person.name]
+last = "Curren"
+use = "Norman"
+given = "Norman"
+
+[person.birth]
+date = "1930-01-02"
+place.country = "US"
+place.state = "WV"
+place.city = "Granville"
+
+[person.death]
+date = "2020-10-04"
+place.country = "US"
+place.state = "TN"
+place.city = "Cleveland"
+
+[person.burial]
+cemetery.name = "Fort Hill Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Cleveland"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

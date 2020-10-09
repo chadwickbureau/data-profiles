@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_010"
+
+[[person.meta.citation]]
+title = "Shadow Mountain Mortuary"
+date = "2020-10-06"
+url = "https://www.dignitymemorial.com/obituaries/phoenix-az/lawrence-wolf-8779841"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-06"
+
+[person.name]
+last = "Wolf"
+use = "Lawrence"
+given = "Lawrence Andrew"
+
+[person.birth]
+date = "1923-08-06"
+
+[person.death]
+date = "2019-07-15"
+

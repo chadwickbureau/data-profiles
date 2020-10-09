@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_002"
+
+[[person.meta.citation]]
+title = "Press Democrat"
+date = "2020-10-03"
+url = "https://www.legacy.com/obituaries/pressdemocrat/obituary.aspx?n=lloyd-e-price&pid=196890083&fhid=4080"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-03"
+
+[person.name]
+last = "Price"
+use = "Lloyd"
+given = "Lloyd E."
+
+[person.death]
+date = "2020-09-25"
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

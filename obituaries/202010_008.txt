@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_008"
+
+[[person.meta.citation]]
+title = "Republican-American"
+date = "2020-10-03"
+url = "https://thezone.rep-am.com/strike-zone/baseball/2020/10/03/wolcott-mourns-loss-of-longtime-baseball-coach/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-05"
+
+[person.name]
+last = "Scott"
+use = "Tary"
+given = "Tary"
+
+[person.death]
+date = "2020-10-02"
+place.country = "US"
+place.state = "CT"
+place.city = "Plainville"
+

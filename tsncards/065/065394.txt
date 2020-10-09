@@ -1,0 +1,69 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:65394"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65394"
+title = "The Sporting News Player Contract Cards, ScanID: 1016005473"
+
+[person.name]
+last = "Gierhart"
+given = "Lon M."
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "R"
+height = "72"
+weight = "170"
+
+[person.birth]
+date = "1890"
+place.country = "US"
+place.state = "OK"
+place.city = "Frederick"
+
+
+[[person.transaction]]
+date = "1911"
+type = "signed"
+join.name = "Waco"
+note = "Waco 1911"
+
+[[person.transaction]]
+date = "1914-02"
+type = "signed"
+join.name = "Durant"
+note = "Durant 1914-02"
+
+[[person.transaction]]
+date = "1914-05"
+type = "signed"
+join.name = "McAlester"
+note = "McAlester 1914-05"
+
+[[person.transaction]]
+date = "1914-06"
+type = "released"
+leave.name = "McAlester"
+note = "rel 1914-06"
+
+[[person.transaction]]
+date = "1914-07"
+type = "signed"
+join.name = "Oklahoma City"
+note = "Oklahoma City 1914-07"
+
+[[person.transaction]]
+date = "1915-01"
+type = "reserved"
+join.name = "Oklahoma City"
+note = "res 1915-01"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Oklahoma City"
+note = "res for 1916"
+

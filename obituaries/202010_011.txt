@@ -1,0 +1,62 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_011"
+
+[[person.meta.citation]]
+title = "Wilkirson-Hatch-Bailey Funeral Home"
+date = "2020-10-06"
+url = "https://www.whbfamily.com/obituaries/Dutch-Schroeder-Jr?obId=18529325"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-06"
+
+[person.name]
+last = "Schroeder"
+use = "Dutch"
+given = "Emil Ernest"
+suffix = "Jr."
+
+[person.birth]
+date = "1924-01-26"
+place.country = "US"
+place.state = "TX"
+place.city = "Austin"
+
+[person.death]
+date = "2020-10-02"
+place.country = "US"
+place.state = "TX"
+place.city = "Clifton"
+
+[person.burial]
+cemetery.name = "Unknown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Holland"
+
+[[person.education]]
+school.name = "Austin HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TX"
+school.place.city = "Austin"
+
+[[person.education]]
+school.name = "University of Texas at Austin"
+school.type = "college"
+
+[[person.education]]
+school.name = "Baylor University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

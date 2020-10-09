@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:246"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-02"
+url = "https://www.findagrave.com/memorial/131539709/george-j.-kromer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Kromer"
+use = "George"
+given = "George J."
+
+[person.birth]
+date = "1876-08-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Kaukauna"
+
+[person.death]
+date = "1970-11-20"
+place.country = "US"
+place.state = "WI"
+place.city = "Hartland"
+
+[person.burial]
+cemetery.name = "Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Kaukauna"
+
+[person.sameas]
+findagrave = "131539709"
+

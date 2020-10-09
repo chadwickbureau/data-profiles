@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:149104"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/149104"
+title = "The Sporting News Player Contract Cards, ScanID: 1026000913"
+
+[person.name]
+last = "Lebegern"
+given = "John H."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1947-07-01"
+type = "signed"
+join.name = "Federalsburg"
+note = "Federalsburg 1947-07-01"
+
+[[person.transaction]]
+date = "1947-07-04"
+type = "released"
+leave.name = "Federalsburg"
+note = "rel 1947-07-04"
+
+[[person.transaction]]
+date = "1947-08-19"
+type = "signed"
+join.name = "Federalsburg"
+note = "Federalsburg 1947-08-19"
+
+[[person.transaction]]
+date = "1947-09-08"
+type = "released"
+leave.name = "Federalsburg"
+note = "rel 1947-09-08"
+

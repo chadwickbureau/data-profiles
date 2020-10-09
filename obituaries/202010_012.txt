@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_012"
+
+[[person.meta.citation]]
+title = "Vondel L. Smith Funeral Home"
+date = "2020-10-06"
+url = "https://vondelsmithmortuary.com/book-of-memories/4349155/Spurgin-Jack/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-06"
+
+[person.name]
+last = "Spurgin"
+use = "Jack"
+given = "Jack William"
+
+[person.birth]
+date = "1943-02-12"
+
+[person.death]
+date = "2020-10-02"
+
+[[person.education]]
+school.name = "Tulsa Edison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OK"
+school.place.city = "Tulsa"
+
+

@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_004"
+
+[[person.meta.citation]]
+title = "WWII Draft Registration Cards, 1942"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Rohrer"
+use = "William"
+given = "William Ur"
+
+[person.birth]
+date = "1888-11-02"
+place.country = "US"
+place.state = "NE"
+place.city = "Hastings"
+

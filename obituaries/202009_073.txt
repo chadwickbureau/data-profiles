@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_073"
+
+[[person.meta.citation]]
+title = "The Ledger"
+date = "2020-09-30"
+url = "https://www.legacy.com/obituaries/theledger/obituary.aspx?n=robert-e-kelly-bob&pid=196877442"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-30"
+
+[person.name]
+last = "Kelly"
+use = "Bob"
+given = "Robert E."
+
+[person.birth]
+date = "1926-11-14"
+place.country = "US"
+place.state = "FL"
+place.city = "Eaton Park"
+
+[person.death]
+date = "2020-09-26"
+place.country = "US"
+place.state = "FL"
+place.city = "Lakeland"
+
+[person.burial]
+cemetery.name = "Wildwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Bartow"
+
+[[person.education]]
+school.name = "Summerlin Institute"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "FL"
+school.place.city = "Bartow"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

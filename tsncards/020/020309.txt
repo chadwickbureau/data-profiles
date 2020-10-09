@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:20309"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/20309"
+title = "The Sporting News Player Contract Cards, ScanID: 1003006197"
+
+[person.name]
+last = "Bennett"
+given = "Lafayette"
+
+
+[[person.transaction]]
+date = "1949-02-12"
+type = "signed"
+join.name = "Vernon"
+note = "Vernon 1949-02-12"
+
+[[person.transaction]]
+date = "1949-04-05"
+type = "released"
+leave.name = "Vernon"
+note = "rel 1949-04-05"
+

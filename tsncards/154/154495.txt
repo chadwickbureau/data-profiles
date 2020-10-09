@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154495"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154495"
+title = "The Sporting News Player Contract Cards, ScanID: 1043001023"
+
+[person.name]
+last = "Stevens"
+given = "John J."
+
+
+[[person.transaction]]
+date = "1947-11-21"
+type = "signed"
+join.name = "Muskogee"
+note = "Muskogee 1947-11-21"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Muskogee"
+note = "for 1948"
+
+[[person.transaction]]
+date = "1948-05-05"
+type = "ineligible"
+leave.name = "Muskogee"
+note = "ineligible list 1948-05-05"
+
+[[person.transaction]]
+date = "1949-03-23"
+type = "reinstated"
+join.name = "Muskogee"
+note = "rein from ineligible list 1949-03-23"
+
+[[person.transaction]]
+date = "1949-04-23"
+type = "released"
+leave.name = "Muskogee"
+note = "rel 1949-04-23"
+

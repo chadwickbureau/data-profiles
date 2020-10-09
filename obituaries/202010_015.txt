@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_015"
+
+[[person.meta.citation]]
+title = "Geisel Funeral Home"
+date = "2020-10-07"
+url = "https://memorials.geiselfuneralhome.com/john-mcnew/4351101/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-07"
+
+[person.name]
+last = "McNew"
+use = "John"
+given = "John W."
+
+[person.birth]
+date = "1944-12-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[person.death]
+date = "2020-10-02"
+place.country = "US"
+place.state = "PA"
+place.city = "Chambersburg"
+
+[[person.education]]
+school.name = "Chambersburg Area HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Chambersburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+
+

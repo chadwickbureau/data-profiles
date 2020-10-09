@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_069"
+
+[[person.meta.citation]]
+title = "Dobbling, Muehlenkamp-Erschell Funeral Home"
+date = "2020-09-28"
+url = "https://www.dmefuneral.com/obituaries/Paul-J-Martini?obId=18443463#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-28"
+
+[person.name]
+last = "Martini"
+use = "Paul"
+given = "Paul J."
+
+[person.birth]
+date = "1928-08-23"
+
+[person.death]
+date = "2020-09-23"
+place.country = "US"
+place.state = "KY"
+place.city = "Taylor Mill"
+
+[person.burial]
+cemetery.name = "St. Stephen Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KY"
+cemetery.place.city = "Fort Thomas"
+
+[[person.military]]
+country = "US"
+conflict = "Korean War"
+
+

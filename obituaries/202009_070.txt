@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_070"
+
+[[person.meta.citation]]
+title = "Leete-Stevens Funeral Home"
+date = "2020-09-28"
+url = "https://www.leetestevens.com/memorials/robert-shannon/3675209/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-28"
+
+[person.name]
+last = "Shannon"
+use = "Bob"
+given = "Robert F."
+
+[person.birth]
+date = "1929-07-08"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[person.death]
+date = "2020-09-25"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Windsor Locks"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

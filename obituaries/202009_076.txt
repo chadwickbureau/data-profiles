@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_076"
+
+[[person.meta.citation]]
+title = "Appleton Post-Crescent"
+date = "1970-11-21"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Kromer"
+use = "Stormy"
+given = "George J."
+
+[person.birth]
+date = "1876-08-25"
+place.country = "US"
+place.state = "WI"
+place.city = "Kaukauna"
+
+[person.death]
+date = "1970-11-20"
+
+[person.burial]
+cemetery.name = "Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Kaukauna"
+

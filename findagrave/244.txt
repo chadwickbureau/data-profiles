@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:244"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-25"
+url = "https://www.findagrave.com/memorial/162241250/jerome-p.-barta"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-25"
+
+[person.name]
+last = "Barta"
+use = "Jerome"
+given = "Jerome P."
+
+[person.birth]
+date = "1922-10-01"
+
+[person.death]
+date = "2004-10-11"
+
+[person.burial]
+cemetery.name = "Riverview Abbey Mausoleum & Crematory"
+cemetery.place.country = "US"
+cemetery.place.state = "OR"
+cemetery.place.city = "Portland"
+
+[person.sameas]
+findagrave = "162241250"
+

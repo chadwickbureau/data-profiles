@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:137294"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/137294"
+title = "The Sporting News Player Contract Cards, ScanID: 1099023007"
+
+[person.name]
+last = "Shannon"
+given = "Robert Francis"
+
+[person.description]
+ancestry = "Irish"
+position = "OF-P"
+bats = "L"
+throws = "R"
+height = "70 1/2"
+weight = "160"
+
+[person.birth]
+date = "1930-07-08"
+place.country = "US"
+place.state = "CT"
+place.city = "Hartford"
+
+[[person.resides]]
+place.address = "173 Tunxis"
+place.country = "US"
+place.state = "CT"
+place.city = "Blumfield"
+
+
+[[person.transaction]]
+date = "1949-10-03"
+type = "signed"
+join.name = "Red Springs"
+note = "Red Springs 1949-10-03"
+
+[[person.transaction]]
+date = "1950-04-23"
+type = "released"
+leave.name = "Red Springs"
+note = "rel 1950-04-23"
+
+[[person.transaction]]
+date = "1950-05-22"
+type = "signed"
+join.name = "Bristol (CT)"
+note = "Bristol (CT) 1950-05-22"
+
+[[person.transaction]]
+date = "1950-05-31"
+type = "released"
+leave.name = "Bristol (CT)"
+note = "rel 1950-05-31"
+

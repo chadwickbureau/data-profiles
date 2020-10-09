@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_003"
+
+[[person.meta.citation]]
+title = "California, Death Index, 1940-1997"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-02"
+
+[person.name]
+last = "Rohrer"
+use = "William"
+given = "William U."
+
+[person.birth]
+date = "1888-11-02"
+place.country = "US"
+place.state = "NE"
+
+[person.death]
+date = "1970-08-08"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.sameas]
+ssn = "570-22-8101"
+

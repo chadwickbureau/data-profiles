@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:245"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-09-30"
+url = "https://www.findagrave.com/memorial/145811640/joseph-krakowski"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-30"
+
+[person.name]
+last = "Krakowski"
+use = "Joseph"
+given = "Joseph"
+
+[person.death]
+date = "1999-11-24"
+
+[person.burial]
+cemetery.name = "Mount St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Pawtucket"
+
+[person.sameas]
+findagrave = "145811640"
+

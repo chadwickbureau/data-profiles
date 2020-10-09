@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:65303"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65303"
+title = "The Sporting News Player Contract Cards, ScanID: 1016000022"
+
+[person.name]
+last = "Gage"
+given = "Daniel L."
+
+[person.description]
+position = "OF-P"
+
+
+[[person.transaction]]
+date = "1914-01"
+type = "signed"
+join.name = "Sacramento"
+note = "Sacramento 1914-01"
+
+[[person.transaction]]
+date = "1914-04"
+type = "signed"
+join.name = "Calgary"
+note = "Calgary 1914-04"
+
+[[person.transaction]]
+date = "1915"
+type = "reserved"
+join.name = "Calgary"
+note = "res for 1915"
+
+[[person.transaction]]
+date = "1915-08"
+type = "signed"
+join.name = "Oakland"
+note = "Oakland 1915-08"
+
+[[person.transaction]]
+date = "1916"
+type = "reserved"
+join.name = "Oakland"
+note = "for 1916"
+
+[[person.transaction]]
+date = "1916-03"
+type = "released"
+leave.name = "Oakland"
+note = "rel 1916-03"
+

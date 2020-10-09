@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:13958"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/13958"
+title = "The Sporting News Player Contract Cards, ScanID: 1007005509"
+
+[person.name]
+last = "Carter"
+given = "Larry Joe"
+
+
+[[person.transaction]]
+date = "1949-12-24"
+type = "signed"
+join.name = "Ogden"
+note = "Ogden 1949-12-24"
+
+[[person.transaction]]
+date = "1950-04-28"
+type = "released"
+leave.name = "Ogden"
+note = "rel 1950-04-28"
+
+[[person.transaction]]
+date = "1950-05-24"
+type = "signed"
+join.name = "Shelby"
+note = "Shelby 1950-05-24"
+
+[[person.transaction]]
+date = "1950-06-01"
+type = "released"
+leave.name = "Shelby"
+note = "rel 1950-06-01"
+
+[[person.transaction]]
+date = "1950-07-13"
+type = "signed"
+join.name = "Marion (NC)"
+note = "Marion (NC) 1950-07-13"
+
+[[person.transaction]]
+date = "1950-08-12"
+type = "released"
+leave.name = "Marion (NC)"
+note = "rel 1950-08-12"
+

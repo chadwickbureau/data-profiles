@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:144634"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/144634"
+title = "The Sporting News Player Contract Cards, ScanID: 1041005213"
+
+[person.name]
+last = "Smith"
+given = "Albert"
+
+
+[[person.transaction]]
+date = "1914-06"
+type = "signed"
+join.name = "McAlester"
+note = "McAlester 1914-06"
+

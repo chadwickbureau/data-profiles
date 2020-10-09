@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_072"
+
+[[person.meta.citation]]
+title = "Providence Journal"
+date = "1999-11-25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-30"
+
+[person.name]
+last = "Krakowski"
+use = "Joe"
+given = "Joseph W."
+nick = "Ge Ge"
+
+[person.birth]
+place.country = "US"
+place.state = "RI"
+place.city = "Cumberland"
+
+[person.death]
+date = "1999-11-24"
+place.country = "US"
+place.state = "RI"
+place.city = "Providence"
+
+[person.burial]
+cemetery.name = "Mount St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "RI"
+cemetery.place.city = "Pawtucket"
+
+[[person.education]]
+school.name = "Central Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Central Falls"
+
+

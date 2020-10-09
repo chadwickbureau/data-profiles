@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_006"
+
+[[person.meta.citation]]
+title = "Welter Funeral Home"
+date = "2020-10-05"
+url = "https://www.welterfuneralhome.com/obituary/ray-scherschligt"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-05"
+
+[person.name]
+last = "Scherschligt"
+use = "Ray"
+given = "Ray"
+
+[person.birth]
+date = "1925-12-21"
+place.country = "US"
+place.state = "SD"
+place.city = "Utica"
+
+[person.death]
+date = "2020-10-01"
+place.country = "US"
+place.state = "SD"
+place.city = "Mitchell"
+
+[person.burial]
+cemetery.name = "Restlawn Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "SD"
+cemetery.place.city = "Huron"
+
+[[person.education]]
+school.name = "Lesterville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SD"
+school.place.city = "Lesterville"
+
+[[person.education]]
+school.name = "University of South Dakota"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

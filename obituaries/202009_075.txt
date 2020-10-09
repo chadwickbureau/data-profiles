@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_075"
+
+[[person.meta.citation]]
+title = "East Bay Times"
+date = "2020-09-25"
+url = "https://www.legacy.com/obituaries/eastbaytimes/obituary.aspx?n=michael-antone-mike&pid=196820170"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-01"
+
+[person.name]
+last = "Antone"
+use = "Mike"
+given = "Michael"
+
+[person.birth]
+date = "1955-06-05"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2020-09-11"
+
+[[person.education]]
+school.name = "San Leandro HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "San Leandro"
+
+[[person.education]]
+school.name = "Chabot College"
+school.type = "college"
+
+

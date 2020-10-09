@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_007"
+
+[[person.meta.citation]]
+title = "Waco Tribune"
+date = "2020-10-02"
+url = "https://wacotrib.com/sports/college/baylor/beloved-former-baylor-baseball-coach-dutch-schroeder-dies/article_9a1faf46-051d-11eb-a7e3-ff54f03f7c77.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-05"
+
+[person.name]
+last = "Schroeder"
+use = "Dutch"
+given = "Emil"
+suffix = "Jr."
+
+[person.death]
+date = "2020-10-02"
+
+[[person.education]]
+school.name = "Baylor University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

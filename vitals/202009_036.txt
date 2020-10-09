@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_036"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-30"
+
+[person.name]
+last = "Krakowski"
+use = "Joseph"
+given = "Joseph Walter"
+
+[person.birth]
+date = "1916-09-01"
+place.country = "US"
+place.state = "RI"
+place.city = "Valley Falls"
+
+[person.death]
+date = "1999-11-24"
+
+[person.sameas]
+ssn = "036-10-1001"
+

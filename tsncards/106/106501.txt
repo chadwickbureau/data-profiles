@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:106501"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/106501"
+title = "The Sporting News Player Contract Cards, ScanID: 1025003509"
+
+[person.name]
+last = "Lahart"
+given = "William"
+suffix = "Jr."
+
+[[person.resides]]
+place.address = "School Street"
+place.country = "US"
+place.state = "MA"
+place.city = "Lenox"
+
+
+[[person.transaction]]
+date = "1948-09-14"
+type = "signed"
+join.name = "Kewanee"
+note = "Kewanee 1948-09-14"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Kewanee"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-12"
+type = "released"
+leave.name = "Kewanee"
+note = "rel 1949-04-12"
+

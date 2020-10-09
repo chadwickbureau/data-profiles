@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_066"
+
+[[person.meta.citation]]
+title = "Miami Herald"
+date = "2016-01-21"
+url = "https://www.legacy.com/obituaries/herald/obituary.aspx?n=John-Joseph-Stevens-Jack&pid=177380430"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-25"
+
+[person.name]
+last = "Stevens"
+use = "Jack"
+given = "John Joseph"
+suffix = "Jr."
+
+[person.birth]
+place.country = "US"
+place.state = "MA"
+place.city = "Dorchester"
+
+[person.death]
+date = "2016-01-15"
+
+[person.burial]
+cemetery.name = "Woodlawn Park Cemetery South"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Miami"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

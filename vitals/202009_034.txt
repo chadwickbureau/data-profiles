@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202009_034"
+
+[[person.meta.citation]]
+title = "Ohio, Death Records, 1908-1932, 1938-2018"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-22"
+
+[person.name]
+last = "Hvisdos"
+use = "John"
+given = "John J."
+
+[person.death]
+date = "1969-01-14"
+place.country = "US"
+place.state = "OH"
+place.city = "Cleveland"
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_065"
+
+[[person.meta.citation]]
+title = "Leete-Stevens Funeral Home"
+date = "2020-09-25"
+url = "https://www.leetestevens.com/memorials/theodore-mucha/2363764/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-25"
+
+[person.name]
+last = "Mucha"
+use = "Chucky"
+given = "Theodore Frank"
+
+[person.birth]
+date = "1924-01-27"
+place.country = "US"
+place.state = "MA"
+place.city = "Turners Falls"
+
+[person.death]
+date = "2016-01-22"
+place.country = "US"
+place.state = "CT"
+place.city = "Windsor"
+
+[person.burial]
+cemetery.name = "St. Mary's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "Windsor Locks"
+
+[[person.education]]
+school.name = "Turners Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Turners Falls"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

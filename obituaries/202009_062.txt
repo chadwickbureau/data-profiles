@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_062"
+
+[[person.meta.citation]]
+title = "Wheelan-Pressly Family Funeral Homes"
+date = "2020-09-24"
+url = "https://www.wheelanpressly.com/obituary/Philip-White"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-24"
+
+[person.name]
+last = "White"
+use = "Philip"
+given = "Philip J."
+
+[person.birth]
+date = "1936-10-01"
+place.country = "US"
+place.state = "MA"
+place.city = "Leominster"
+
+[person.death]
+date = "2020-09-23"
+place.country = "US"
+place.state = "IL"
+place.city = "East Moline"
+
+[person.burial]
+cemetery.name = "Rock Island Memorial Park Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Rock Island"
+
+[[person.education]]
+school.name = "St. Bernard's HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Fitchburg"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

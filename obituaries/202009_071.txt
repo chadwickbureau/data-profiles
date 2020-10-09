@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202009_071"
+
+[[person.meta.citation]]
+title = "Newsday"
+date = "2020-09-27"
+url = "https://www.legacy.com/obituaries/newsday/obituary.aspx?n=robert-w-quinn&pid=196858970&fhid=6901"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-09-28"
+
+[person.name]
+last = "Quinn"
+use = "Bob"
+given = "Robert W."
+
+[person.death]
+date = "2020-09-26"
+
+[person.burial]
+cemetery.name = "St. Patrick's Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Huntington"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+
+
