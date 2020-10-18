@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:258"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-17"
+url = "https://www.findagrave.com/memorial/188600523/wilbur-c-mcelroy"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "McElroy"
+use = "Wilbur"
+given = "Wilbur G."
+
+[person.birth]
+date = "1920"
+
+[person.death]
+date = "1993"
+
+[person.burial]
+cemetery.name = "Highland Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Jackson"
+
+[person.sameas]
+findagrave = "188600523"
+

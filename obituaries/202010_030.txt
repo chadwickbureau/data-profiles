@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_030"
+
+[[person.meta.citation]]
+title = "Mitchell Funeral Home"
+date = "2020-10-14"
+url = "https://www.dignitymemorial.com/obituaries/raleigh-nc/hugh-jackson-9658359"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-14"
+
+[person.name]
+last = "Jackson"
+use = "Don"
+given = "Hugh Donald"
+
+[person.birth]
+date = "1936-12-18"
+place.country = "US"
+place.state = "NC"
+place.city = "Carthage"
+
+[person.death]
+date = "2020-10-11"
+place.country = "US"
+place.state = "NC"
+place.city = "Louisburg"
+
+[[person.education]]
+school.name = "University of North Carolina at Chapel Hill"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

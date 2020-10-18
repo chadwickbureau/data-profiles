@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:250"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-12"
+url = "https://www.findagrave.com/memorial/25232348/victor-l-george"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "George"
+use = "Victor"
+given = "Victor L."
+
+[person.birth]
+date = "1913-03-11"
+place.country = "US"
+place.state = "KS"
+place.city = "Altamont"
+
+[person.death]
+date = "2008-03-12"
+place.country = "US"
+place.state = "KS"
+place.city = "Parsons"
+
+[person.burial]
+cemetery.name = "Mount Pleasant Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "KS"
+cemetery.place.city = "Altamont"
+
+[person.sameas]
+findagrave = "25232348"
+

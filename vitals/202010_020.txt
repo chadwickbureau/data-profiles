@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_020"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "McLaughlin"
+use = "John"
+given = "John Herbert"
+
+[person.birth]
+date = "1916-09-02"
+place.country = "US"
+place.state = "MA"
+place.city = "Jamaica Plain"
+
+[[person.resides]]
+dates = ""
+place.country = "US"
+place.state = "MA"
+place.city = "Allston"
+place.address = "25 Riverdale Street"
+
+

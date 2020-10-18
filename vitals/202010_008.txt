@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_008"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Coughlin"
+use = "James"
+given = "James Bernard"
+
+[person.birth]
+date = "1917-12-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[person.death]
+date = "1991-01-17"
+
+[person.sameas]
+ssn = "032-10-7123"
+

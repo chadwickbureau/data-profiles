@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_029"
+
+[[person.meta.citation]]
+title = "Williams Funeral Home"
+date = "2020-10-13"
+url = "https://www.williamsfh.com/obituaries/Jimmie-Haney/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-13"
+
+[person.name]
+last = "Haney"
+use = "Jim"
+given = "Jimmie Hudson"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-08-30"
+place.country = "US"
+place.state = "TN"
+place.city = "Marshall County"
+
+[person.death]
+date = "2020-10-10"
+place.country = "US"
+place.state = "TN"
+place.city = "Columbia"
+
+[person.burial]
+cemetery.name = "Polk Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Columbia"
+
+[[person.education]]
+school.name = "Forrest HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Chapel Hill"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Korean War"
+
+

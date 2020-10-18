@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_009"
+
+[[person.meta.citation]]
+title = "Massachusetts, Death Index, 1970-2003"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Coughlin"
+use = "James"
+given = "James B."
+
+[person.birth]
+date = "1917-12-20"
+
+[person.death]
+date = "1991-01-17"
+place.country = "US"
+place.state = "MA"
+place.city = "Arlington"
+

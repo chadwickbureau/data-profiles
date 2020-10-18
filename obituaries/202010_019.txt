@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_019"
+
+[[person.meta.citation]]
+title = "Evansville Courier & Press"
+date = "1997-09-04"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "DeVault"
+use = "Donald"
+given = "Donald W."
+nick = "Jiggs"
+
+[person.death]
+date = "1997-09-03"
+place.country = "US"
+place.state = "IN"
+place.city = "Evansville"
+
+[person.burial]
+cemetery.name = "St. Joseph Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Evansville"
+

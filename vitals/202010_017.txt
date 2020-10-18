@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_017"
+
+[[person.meta.citation]]
+title = "Washington Birth Index, 1907-1919"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Cutlip"
+use = "Alva"
+given = "Alva Emerson"
+
+[person.birth]
+date = "1911-04-11"
+place.country = "US"
+place.state = "WA"
+place.city = "Lewis County"
+

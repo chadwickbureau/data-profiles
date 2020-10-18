@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_021"
+
+[[person.meta.citation]]
+title = "Paul A. Shaker Funeral Home"
+date = "2020-10-12"
+url = "https://shakerfuneralhome.com/book-of-memories/4352864/Scott-Tary-N./index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Scott"
+use = "Tary"
+given = "Tary N."
+nick = "Boomer"
+
+[person.birth]
+date = "1963-09-13"
+
+[person.death]
+date = "2020-10-02"
+
+[person.burial]
+cemetery.name = "Unknown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Jonesborough"
+
+[[person.education]]
+school.name = "David Crockett HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Jonesborough"
+
+[[person.education]]
+school.name = "Walters State Community College"
+school.type = "college"
+
+

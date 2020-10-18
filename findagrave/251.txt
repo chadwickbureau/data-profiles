@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:251"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-16"
+url = "https://www.findagrave.com/memorial/91941785/clarence-lee-tiner"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-16"
+
+[person.name]
+last = "Tiner"
+use = "Clarence"
+given = "Clarence Lee"
+
+[person.birth]
+date = "1899-11-05"
+
+[person.death]
+date = "1979-02-08"
+
+[person.burial]
+cemetery.name = "Wharton City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Wharton"
+
+[person.sameas]
+findagrave = "91941785"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

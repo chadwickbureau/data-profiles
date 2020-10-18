@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_028"
+
+[[person.meta.citation]]
+title = "Deseret News"
+date = "2020-10-13"
+url = "https://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=arlen-ray-peacock&pid=196935989&fhid=11609"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-13"
+
+[person.name]
+last = "Peacock"
+use = "Arlen"
+given = "Arlen Ray"
+
+[person.birth]
+date = "1932-08-07"
+place.country = "US"
+place.state = "UT"
+place.city = "Salt Lake City"
+
+[person.death]
+date = "2020-10-10"
+
+[person.burial]
+cemetery.name = "Wasatch Lawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "UT"
+cemetery.place.city = "Millcreek"
+
+[[person.education]]
+school.name = "South HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Salt Lake City"
+
+[[person.education]]
+school.name = "University of Utah"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_022"
+
+[[person.meta.citation]]
+title = "Frietag Funeral Home"
+date = "2020-10-12"
+url = "https://www.freitagfuneralhome.com/obit_search.asp?ID=4230"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Hornberger"
+use = "Bob"
+given = "Robert Milton"
+
+[person.birth]
+date = "1927-12-22"
+place.country = "US"
+place.state = "PA"
+place.city = "Christiana"
+
+[person.death]
+date = "2020-10-03"
+place.country = "US"
+place.state = "PA"
+place.city = "West Grove"
+
+[person.burial]
+cemetery.name = "Middle Octorara Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Quarryville"
+
+[[person.education]]
+school.name = "Scott HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Coatesville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

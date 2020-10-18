@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_033"
+
+[[person.meta.citation]]
+title = "Binghamton Press & Sun-Bulletin"
+date = "1985-12-28"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Heller"
+use = "Leland"
+given = "Leland E."
+
+[person.death]
+date = "1985-12-27"
+place.country = "US"
+place.state = "NY"
+place.city = "Binghamton"
+
+[person.burial]
+cemetery.name = "Vestal Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Vestal"
+

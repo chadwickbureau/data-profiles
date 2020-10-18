@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:248"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-10"
+url = "https://www.findagrave.com/memorial/11268445/charles-rex-carr"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Carr"
+use = "Charles"
+given = "Charles Rex"
+
+[person.birth]
+date = "1915-11-30"
+
+[person.death]
+date = "1993-05-27"
+
+[person.burial]
+cemetery.name = "Neeley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Pone"
+
+[person.sameas]
+findagrave = "11268445"
+

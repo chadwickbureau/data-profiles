@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_012"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-16"
+
+[person.name]
+last = "Baer"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1914-10-29"
+place.country = "US"
+place.state = "OK"
+place.city = "Shawnee"
+
+[person.death]
+date = "2002-03-08"
+
+[person.sameas]
+ssn = "446-09-6771"
+

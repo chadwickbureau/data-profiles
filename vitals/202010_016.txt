@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_016"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Jackson"
+use = "William"
+given = "William Emerson"
+
+[person.birth]
+date = "1912-04-11"
+place.country = "US"
+place.state = "WA"
+place.city = "Mays"
+

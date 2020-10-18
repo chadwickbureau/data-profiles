@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:111331"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/111331"
+title = "The Sporting News Player Contract Cards, ScanID: 1039006565"
+
+[person.name]
+last = "Schlueter"
+given = "Robert Leo"
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Janesville"
+note = "Janesville 1946-05"
+

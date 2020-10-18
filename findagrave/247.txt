@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:247"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-10"
+url = "https://www.findagrave.com/memorial/176103182/theodore-kakoliris"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Kakoliris"
+use = "Theodore"
+given = "Theodore"
+
+[person.birth]
+date = "1918-08-18"
+
+[person.death]
+date = "2004-07-01"
+
+[person.burial]
+cemetery.name = "Elmwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Birmingham"
+
+[person.sameas]
+findagrave = "176103182"
+

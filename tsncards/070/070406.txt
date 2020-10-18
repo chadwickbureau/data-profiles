@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:70406"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/70406"
+title = "The Sporting News Player Contract Cards, ScanID: 1018006531"
+
+[person.name]
+last = "Haney"
+given = "James Hudson"
+suffix = "Jr."
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "160"
+
+[[person.resides]]
+place.country = "US"
+place.state = "TN"
+place.city = "Columbia"
+
+
+[[person.transaction]]
+date = "1948-07-29"
+type = "signed"
+join.name = "Albany (GA)"
+note = "Albany (GA) 1948-07-29"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Albany (GA)"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-04-11"
+type = "released"
+leave.name = "Albany (GA)"
+join.name = "Johnson City"
+note = "rel to Johnson City 1949-04-11"
+
+[[person.transaction]]
+date = "1949-04-26"
+type = "released"
+leave.name = "Johnson City"
+note = "rel 1949-04-26"
+
+[[person.transaction]]
+date = "1949-05-02"
+type = "signed"
+join.name = "Hazard"
+note = "Hazard 1949-05-02"
+
+[[person.transaction]]
+date = "1949-06-10"
+type = "released"
+leave.name = "Hazard"
+note = "rel 1949-06-10"
+

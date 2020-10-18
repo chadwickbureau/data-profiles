@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_023"
+
+[[person.meta.citation]]
+title = "Benefield Funeral Home"
+date = "2020-10-12"
+url = "https://benefieldfhwedowee.com/tribute/details/2646/John-Valmas-Sr/obituary.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Valmas"
+use = "Joe"
+given = "John James"
+suffix = "Sr."
+
+[person.birth]
+date = "1933-11-09"
+place.country = "US"
+place.state = "NY"
+place.city = "Yonkers"
+
+[person.death]
+date = "2020-10-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Wedowee"
+
+[person.burial]
+cemetery.name = "Old Wedowee City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Wedowee"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

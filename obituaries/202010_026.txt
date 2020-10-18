@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_026"
+
+[[person.meta.citation]]
+title = "Central Florida Casket Store & Funeral Chapel"
+date = "2020-10-12"
+url = "https://www.casketstore.net/obituaries/lynn-m-adams/1263/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Adams"
+use = "Lynn"
+given = "Lynn M."
+
+[person.birth]
+date = "1949-11-27"
+place.country = "US"
+place.state = "CA"
+place.city = "Oakland"
+
+[person.death]
+date = "2020-10-01"
+
+[[person.education]]
+school.name = "St. Elizabeth HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Oakland"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

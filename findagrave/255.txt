@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:255"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-16"
+url = "https://www.findagrave.com/memorial/38078673/leo-william-eastham"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-16"
+
+[person.name]
+last = "Eastham"
+use = "Leo"
+given = "Leo William"
+
+[person.birth]
+date = "1918-11-15"
+place.country = "US"
+place.state = "MA"
+place.city = "Lowell"
+
+[person.death]
+date = "1975-01-20"
+place.country = "PA"
+
+[person.burial]
+cemetery.name = "Corozal American Cemetery and Memorial"
+cemetery.place.country = "PA"
+cemetery.place.city = "Corozal"
+
+[person.sameas]
+findagrave = "38078673"
+

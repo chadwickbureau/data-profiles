@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_032"
+
+[[person.meta.citation]]
+title = "Daily Oklahoman"
+date = "2002-03-11"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-16"
+
+[person.name]
+last = "Baer"
+use = "Jack"
+given = "Jack"
+
+[person.death]
+date = "2002-03-08"
+
+[person.burial]
+cemetery.name = "IOOF Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Norman"
+
+[[person.education]]
+school.name = "University of Oklahoma"
+school.type = "college"
+
+

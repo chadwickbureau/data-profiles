@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:101235"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/101235"
+title = "The Sporting News Player Contract Cards, ScanID: 1035000945"
+
+[person.name]
+last = "Perrin"
+given = "Harold S."
+
+
+[[person.transaction]]
+date = "1942-02"
+type = "signed"
+join.name = "Lynchburg"
+note = "Lynchburg 1942-02"
+
+[[person.transaction]]
+date = "1942-04"
+type = "released"
+leave.name = "Lynchburg"
+note = "rel 1942-04"
+

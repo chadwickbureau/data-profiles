@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_017"
+
+[[person.meta.citation]]
+title = "Journal News"
+date = "2020-10-10"
+url = "https://obits.lohud.com/obituaries/lohud/obituary.aspx?n=joseph-j-grillo&pid=196923863&fhid=21959"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Grillo"
+use = "Joe"
+given = "Joseph J."
+suffix = "Jr."
+
+[person.birth]
+date = "1950-10-14"
+place.country = "US"
+place.state = "NY"
+place.city = "Bronx"
+
+[person.death]
+date = "2020-10-06"
+
+[person.burial]
+cemetery.name = "Gate of Heaven Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Hawthorne"
+
+[[person.education]]
+school.name = "James Monroe HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Bronx"
+
+[[person.education]]
+school.name = "Kansas Wesleyan University"
+school.type = "college"
+
+[[person.education]]
+school.name = "Long Island University, Brooklyn Campus"
+school.type = "college"
+
+

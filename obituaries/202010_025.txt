@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_025"
+
+[[person.meta.citation]]
+title = "J. E. Foster Funeral Home"
+date = "2020-10-12"
+url = "https://www.jefosterfh.com/obituary/Stephen-Romey"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Romey"
+use = "Steve"
+given = "Stephen Mark"
+
+[person.birth]
+date = "1957-02-27"
+place.country = "US"
+place.state = "OH"
+place.city = "Steubenville"
+
+[person.death]
+date = "2020-10-05"
+place.country = "US"
+place.state = "OH"
+place.city = "Steubenville"
+

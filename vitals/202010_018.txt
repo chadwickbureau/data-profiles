@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_018"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "McElroy"
+use = "Wilbur"
+given = "Wilbur Glenn"
+
+[person.birth]
+date = "1920-06-26"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+

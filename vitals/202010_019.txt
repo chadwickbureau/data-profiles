@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_019"
+
+[[person.meta.citation]]
+title = "SSDI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "McElroy"
+use = "Wilbur"
+given = "Wilbur G."
+
+[person.birth]
+date = "1920-06-26"
+
+[person.death]
+date = "1993-04-10"
+
+[person.sameas]
+ssn = "571-10-7886"
+

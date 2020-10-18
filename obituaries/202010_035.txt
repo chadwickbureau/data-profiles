@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_035"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "1949-01-03"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Myska"
+use = "Constant"
+given = "Constant"
+nick = "Coxy"
+
+[person.death]
+date = "1949-02-01"
+place.country = "US"
+place.state = "CT"
+place.city = "New Britain"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "New Britain"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

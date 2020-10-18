@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:257"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-17"
+url = "https://www.findagrave.com/memorial/38847821/william-emerson-jackson"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Jackson"
+use = "William"
+given = "William Emerson"
+
+[person.birth]
+date = "1911-04-11"
+place.country = "US"
+place.state = "WA"
+
+[person.death]
+date = "1974-08-03"
+place.country = "US"
+place.state = "CA"
+place.city = "Stanislaus County"
+
+[person.burial]
+cemetery.name = "Acacia Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Modesto"
+
+[person.sameas]
+findagrave = "38847821"
+
+[[person.alias]]
+name.last = "Cutlip"
+name.use = "Alva"
+name.given = "Alva"
+type = "birth"
+
+

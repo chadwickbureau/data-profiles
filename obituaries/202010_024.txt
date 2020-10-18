@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_024"
+
+[[person.meta.citation]]
+title = "Conner & Koch Funeral Home"
+date = "2020-10-12"
+url = "https://www.connerandkoch.com/memorials/harold-perrin/4352788/index.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-12"
+
+[person.name]
+last = "Perrin"
+use = "Harold"
+given = "Harold Smith"
+
+[person.birth]
+date = "1922-03-12"
+place.country = "US"
+place.state = "KY"
+place.city = "Berry"
+
+[person.death]
+date = "2020-10-08"
+place.country = "US"
+place.state = "OH"
+place.city = "Dayton"
+
+[person.burial]
+cemetery.name = "Bellbrook Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Bellbrook"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

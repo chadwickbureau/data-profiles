@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:252"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-16"
+url = "https://www.findagrave.com/memorial/14536320/jack-baer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-16"
+
+[person.name]
+last = "Baer"
+use = "Jack"
+given = "Jack"
+
+[person.birth]
+date = "1914-10-29"
+
+[person.death]
+date = "2002-03-08"
+
+[person.burial]
+cemetery.name = "IOOF Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Norman"
+
+[person.sameas]
+findagrave = "14536320"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

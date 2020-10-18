@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:259"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-17"
+url = "https://www.findagrave.com/memorial/188189142/constant-w-myska"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Myska"
+use = "Constant"
+given = "Constant W."
+
+[person.death]
+date = "1949-02-01"
+
+[person.burial]
+cemetery.name = "Sacred Heart Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CT"
+cemetery.place.city = "New Britain"
+
+[person.sameas]
+findagrave = "188189142"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

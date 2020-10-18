@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_006"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Kuipers"
+use = "Samuel"
+given = "Samuel"
+
+[person.birth]
+date = "1917-07-23"
+place.country = "US"
+place.state = "NJ"
+place.city = "Fair Lawn"
+
+[person.death]
+date = "1998-04-16"
+
+[person.sameas]
+ssn = "154-03-9849"
+

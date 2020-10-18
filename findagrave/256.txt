@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:256"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-17"
+url = "https://www.findagrave.com/memorial/86162493/leland-e.-heller"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "Heller"
+use = "Leland"
+given = "Leland E."
+
+[person.birth]
+date = "1913-06-04"
+
+[person.death]
+date = "1985-12-27"
+
+[person.burial]
+cemetery.name = "Vestal Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Vestal"
+
+[person.sameas]
+findagrave = "86162493"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_034"
+
+[[person.meta.citation]]
+title = "Jackson Sun"
+date = "1993-04-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-17"
+
+[person.name]
+last = "McElroy"
+use = "Wilbur"
+given = "Wilbur Glenn"
+
+[person.burial]
+cemetery.name = "Highland Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Jackson"
+

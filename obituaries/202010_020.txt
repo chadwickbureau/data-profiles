@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_020"
+
+[[person.meta.citation]]
+title = "Bradley's Funeral Home"
+date = "2020-10-11"
+url = "https://www.bradleysfh.com/obituary/3393423"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-11"
+
+[person.name]
+last = "Colley"
+use = "Wiley"
+given = "Wiley Braxton"
+
+[person.birth]
+date = "1929-05-03"
+
+[person.death]
+date = "2015-11-27"
+place.country = "US"
+place.state = "VA"
+place.city = "Marion"
+
+[person.burial]
+cemetery.name = "Rosewood Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "VA"
+cemetery.place.city = "Rural Retreat"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_007"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Coughlin"
+use = "James"
+given = "James Bernard"
+
+[person.birth]
+date = "1917-12-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Worcester"
+
+[[person.resides]]
+dates = ""
+place.country = "US"
+place.state = "MA"
+place.city = "Somerville, address=79 Ossipee Road"
+
+

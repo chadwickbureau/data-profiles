@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_018"
+
+[[person.meta.citation]]
+title = "Times-Standard"
+date = "2020-10-10"
+url = "https://www.legacy.com/obituaries/times-standard/obituary.aspx?n=hugo-papstein&pid=196925610"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-10"
+
+[person.name]
+last = "Papstein"
+use = "Hugo"
+given = "Hugo"
+
+[person.birth]
+date = "1938"
+place.country = "US"
+place.state = "CT"
+place.city = "Westport"
+
+[person.death]
+date = "2020-10-06"
+
+[[person.education]]
+school.name = "Staples HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CT"
+school.place.city = "Westport"
+
+
