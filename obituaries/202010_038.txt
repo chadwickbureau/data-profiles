@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_038"
+
+[[person.meta.citation]]
+title = "A. E. Carter Funeral Home"
+date = "2020-10-18"
+url = "https://www.aecarterfuneralhome.com/obituary/Ronald-Crook"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Crook"
+use = "Butch"
+given = "Ronald Douglas"
+
+[person.birth]
+date = "1946-04-20"
+place.country = "US"
+place.state = "GA"
+place.city = "Madison"
+
+[person.death]
+date = "2020-10-07"
+
+[[person.education]]
+school.name = "Murphy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+[[person.education]]
+school.name = "Georgia Institute of Technology"
+school.type = "college"
+
+

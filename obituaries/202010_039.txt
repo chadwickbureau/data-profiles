@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_039"
+
+[[person.meta.citation]]
+title = "Stone County Enterprise"
+date = "2020-10-14"
+url = "https://www.stonecountyenterprise.com/obituaries/charles-kennedy/article_3d210a06-0d7e-11eb-9ef2-83c5848c7b3f.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Kennedy"
+use = "Charlie"
+given = "Charles Woodrow"
+
+[person.birth]
+date = "1946-12-15"
+place.country = "US"
+place.state = "MS"
+place.city = "Quitman"
+
+[person.death]
+date = "2020-10-07"
+place.country = "US"
+place.state = "MS"
+place.city = "Centreville"
+
+[[person.education]]
+school.name = "Stone County HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MS"
+school.place.city = "Wiggins"
+
+

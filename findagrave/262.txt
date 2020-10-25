@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:262"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-25"
+url = "https://www.findagrave.com/memorial/9693951/ralph-emmanuel-younker"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Younker"
+use = "Ralph"
+given = "Ralph Emmanuel"
+
+[person.birth]
+date = "1919-09-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.death]
+date = "1942-04-26"
+place.country = "US"
+place.state = "VA"
+place.city = "Waverly"
+
+[person.burial]
+cemetery.name = "New Auburn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Auburn"
+
+[person.sameas]
+findagrave = "9693951"
+

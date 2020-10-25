@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_054"
+
+[[person.meta.citation]]
+title = "Scranton Tribune"
+date = "1992-03-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rzucidlo"
+use = "Joseph"
+given = "Joseph T."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Mayfield"
+
+[person.death]
+date = "1992-03-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Peckville"
+
+[person.burial]
+cemetery.name = "Sacred Hearts of Jesus and Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Scranton"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

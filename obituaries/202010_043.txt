@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_043"
+
+[[person.meta.citation]]
+title = "The Oregonian"
+date = "2020-10-20"
+url = "https://obits.oregonlive.com/obituaries/oregon/obituary.aspx?n=keith-lampard&pid=196967453"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-20"
+
+[person.name]
+last = "Lampard"
+use = "Keith"
+given = "Keith"
+
+[person.birth]
+date = "1945-12-20"
+place.country = "GB"
+place.city = "Warrington"
+
+[person.death]
+date = "2020-08-30"
+
+[[person.education]]
+school.name = "Madison HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OR"
+school.place.city = "Portland"
+
+[[person.education]]
+school.name = "University of Oregon"
+school.type = "college"
+
+

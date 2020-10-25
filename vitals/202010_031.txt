@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_031"
+
+[[person.meta.citation]]
+title = "North Carolina, Death Indexes, 1908-2004"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Whitehead"
+use = "Lewis"
+given = "Lewis Willard"
+
+[person.birth]
+date = "1912-08-14"
+place.country = "US"
+place.state = "NC"
+
+[person.death]
+date = "1986-08-11"
+place.country = "US"
+place.state = "NC"
+place.city = "Chapel Hill"
+
+[person.sameas]
+ssn = "415-05-8666"
+

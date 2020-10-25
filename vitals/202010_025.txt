@@ -1,0 +1,28 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_025"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rampey"
+use = "Paul"
+given = "Paul S."
+
+[person.birth]
+date = "1913-10-13"
+
+[person.death]
+date = "1998-09-18"
+
+[person.sameas]
+ssn = "248-16-1961"
+

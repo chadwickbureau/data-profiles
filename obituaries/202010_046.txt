@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_046"
+
+[[person.meta.citation]]
+title = "Fait Funeral Home"
+date = "2020-10-20"
+url = "https://www.faitfuneralhome.com/obits/obituary.php?id=685006"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-20"
+
+[person.name]
+last = "Harris"
+use = "Bob"
+given = "Robert W."
+
+[person.birth]
+date = "1950-10-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Bloomsburg"
+
+[person.death]
+date = "2020-10-16"
+
+[[person.education]]
+school.name = "Central Columbia HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Bloomsburg"
+
+[[person.education]]
+school.name = "Susquehanna University"
+school.type = "college"
+
+

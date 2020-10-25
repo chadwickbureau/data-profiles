@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_050"
+
+[[person.meta.citation]]
+title = "Palm Beach Post"
+date = "2020-10-23"
+url = "https://www.legacy.com/obituaries/palmbeachpost/obituary.aspx?n=jw-porter&pid=196977994"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-23"
+
+[person.name]
+last = "Porter"
+use = "JW"
+given = "JW"
+
+[person.birth]
+date = "1933-01-17"
+place.country = "US"
+place.state = "OK"
+place.city = "Bugscuffle"
+
+[person.death]
+date = "2020-10-11"
+place.country = "US"
+place.state = "FL"
+place.city = "Jupiter"
+
+[person.burial]
+cemetery.name = "Unknown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Atlanta"
+

@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_055"
+
+[[person.meta.citation]]
+title = "Auburn (CA) Journal"
+date = "1942-05-07"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Younker"
+use = "Ralph"
+given = "Ralph Emmanuel"
+
+[person.birth]
+date = "1919-09-02"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "1942-04-26"
+place.country = "US"
+place.state = "VA"
+place.city = "Waverly"
+

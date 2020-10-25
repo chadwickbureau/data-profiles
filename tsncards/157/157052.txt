@@ -1,0 +1,34 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:157052"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/157052"
+title = "The Sporting News Player Contract Cards, ScanID: 1047006535"
+
+[person.name]
+last = "Whitton"
+given = "John R."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1950-03-22"
+type = "signed"
+join.name = "Bristol (VA)"
+note = "Bristol (VA) 1950-03-22"
+
+[[person.transaction]]
+date = "1950-04-18"
+type = "released"
+leave.name = "Bristol (VA)"
+join.name = "Galax"
+note = "rel to Galax 1950-04-18"
+
+[[person.transaction]]
+date = "1950-05-23"
+type = "released"
+leave.name = "Galax"
+note = "rel 1950-05-23"
+

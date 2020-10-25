@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_044"
+
+[[person.meta.citation]]
+title = "Commercial Appeal"
+date = "2020-10-20"
+url = "https://www.legacy.com/obituaries/commercialappeal/obituary.aspx?n=earl-charles-porter&pid=196967519"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-20"
+
+[person.name]
+last = "Porter"
+use = "Earl"
+given = "Earl Charles"
+
+[person.birth]
+date = "1940-04-23"
+place.country = "US"
+place.state = "TN"
+place.city = "Memphis"
+
+[person.death]
+date = "2020-10-08"
+place.country = "US"
+place.state = "FL"
+place.city = "Fort Walton Beach"
+
+[[person.education]]
+school.name = "South Side HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "TN"
+school.place.city = "Jackson"
+
+

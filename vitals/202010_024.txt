@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_024"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-24"
+
+[person.name]
+last = "Corso"
+use = "Gene"
+given = "Gene Edgar"
+
+[person.birth]
+date = "1932-03-29"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "1996-05-23"
+
+[person.sameas]
+ssn = "573-40-7449"
+

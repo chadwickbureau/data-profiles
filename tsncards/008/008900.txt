@@ -1,0 +1,102 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:8900"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/8900"
+title = "The Sporting News Player Contract Cards, ScanID: 1007000956"
+
+[person.name]
+last = "Cairns"
+given = "Ray Bernard"
+
+[person.description]
+position = "OF"
+bats = "L"
+throws = "L"
+height = "73 1/2"
+weight = "185"
+
+[person.birth]
+date = "1921-07-21"
+
+[[person.resides]]
+place.address = "317 South 9th Street"
+place.country = "US"
+place.state = "OK"
+place.city = "Clinton"
+
+
+[[person.transaction]]
+date = "1941-04"
+type = "signed"
+join.name = "Landis"
+note = "Landis 1941-04"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Landis"
+note = "rel 1941-06"
+
+[[person.transaction]]
+date = "1941-06"
+type = "signed"
+join.name = "Superior"
+note = "Superior 1941-06"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Superior"
+note = "rel 1941-06"
+
+[[person.transaction]]
+date = "1941-06"
+type = "signed"
+join.name = "Wichita Falls"
+note = "Wichita Falls 1941-06"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Wichita Falls"
+note = "rel 1941-06"
+
+[[person.transaction]]
+date = "1941-08"
+type = "signed"
+join.name = "Salina"
+note = "Salina  1941-08"
+
+[[person.transaction]]
+date = "1942"
+type = "reserved"
+join.name = "Salina"
+note = "res for 1942"
+
+[[person.transaction]]
+date = "1942-05"
+type = "signed"
+join.name = "Springfield (MO)"
+note = "Springfield (MO) 1942-05"
+
+[[person.transaction]]
+date = "1942-06"
+type = "released"
+leave.name = "Springfield (MO)"
+note = "rel 1942-06"
+
+[[person.transaction]]
+date = "1942-06"
+type = "signed"
+join.name = "Fort Smith"
+note = "Fort Smith 1942-06"
+
+[[person.transaction]]
+date = "1942-07"
+type = "released"
+leave.name = "Fort Smith"
+note = "rel 1942-07"
+

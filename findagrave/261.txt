@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:261"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-25"
+url = "https://www.findagrave.com/memorial/198643434/lewis-willard-whitehead"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Whitehead"
+use = "Lewis"
+given = "Lewis Willard"
+
+[person.birth]
+date = "1912-08-14"
+place.country = "US"
+place.state = "NC"
+place.city = "Bertie County"
+
+[person.death]
+date = "1986-08-11"
+
+[person.burial]
+cemetery.name = "St. Thomas Episcopal Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Windsor"
+
+[person.sameas]
+findagrave = "198643434"
+

@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_048"
+
+[[person.meta.citation]]
+title = "Hansons Arbor Funeral Chapel"
+date = "2020-10-23"
+url = "https://www.hansonsfuneral.ca/obituary/Wendell-Clifton"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-23"
+
+[person.name]
+last = "Clifton"
+use = "Wendell"
+given = "Wendell James"
+
+[person.birth]
+date = "1931-07-18"
+
+[person.death]
+date = "2020-05-09"
+

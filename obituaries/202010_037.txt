@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_037"
+
+[[person.meta.citation]]
+title = "Louisville Memorial Gardens & Funeral Home West"
+date = "2020-10-18"
+url = "https://www.louisvillemgwest.com/obituary/ALvinAl-Watkins"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Watkins"
+use = "Al"
+given = "Alvin Lee"
+
+[person.birth]
+date = "1933-08-24"
+place.country = "US"
+place.state = "KY"
+place.city = "Louisville"
+
+[person.death]
+date = "2020-10-14"
+
+[[person.education]]
+school.name = "Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "KY"
+school.place.city = "Louisville"
+
+

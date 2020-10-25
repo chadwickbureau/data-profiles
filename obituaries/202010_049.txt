@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_049"
+
+[[person.meta.citation]]
+title = "Gillies Funeral Chapel"
+date = "2020-10-23"
+url = "https://www.gfc-utah.com/obituary/512389/Fred-Leebert/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-23"
+
+[person.name]
+last = "Leebert"
+use = "Fred"
+given = "Fred D."
+
+[person.birth]
+date = "1935-08-17"
+place.country = "UC"
+place.state = "CA"
+place.city = "Los Angeles"
+
+[person.death]
+date = "2020-10-16"
+place.country = "US"
+place.state = "UT"
+place.city = "Brigham City"
+
+[person.burial]
+cemetery.name = "Menifee Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Sun City"
+
+[[person.education]]
+school.name = "Bell Gardens HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Bell Gardens"
+
+

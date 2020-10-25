@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_041"
+
+[[person.meta.citation]]
+title = "Lawson-Rollins Purple Shield Funeral Home"
+date = "2020-10-18"
+url = "https://www.lawsonandrollinspurpleshield.com/obituary/kimothy-kim-batiste"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Batiste"
+use = "Kim"
+given = "Kimothy Emil"
+
+[person.birth]
+date = "1968-03-15"
+
+[person.death]
+date = "2020-10-08"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.burial]
+cemetery.name = "Mount Gillion Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Prairieville"
+

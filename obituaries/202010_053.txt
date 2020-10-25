@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_053"
+
+[[person.meta.citation]]
+title = "Greenville (SC) News"
+date = "1998-09-19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rampey"
+use = "Paul"
+given = "Paul Spencer"
+
+[person.birth]
+place.country = "US"
+place.state = "SC"
+place.city = "Pickens County"
+
+[person.death]
+date = "1998-09-18"
+place.country = "US"
+place.state = "SC"
+place.city = "Columbia"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Easley"
+
+[[person.education]]
+school.name = "Easley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Easley"
+
+[[person.education]]
+school.name = "University of South Carolina"
+school.type = "college"
+
+

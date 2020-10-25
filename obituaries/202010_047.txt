@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_047"
+
+[[person.meta.citation]]
+title = "Saul Funeral Home"
+date = "2020-10-20"
+url = "https://www.saulfuneralhomes.com/obituaries/Charles-Giambelluca?obId=18595039#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-20"
+
+[person.name]
+last = "Giambelluca"
+use = "Chuck"
+given = "Charles"
+
+[person.birth]
+date = "1942-12-05"
+place.country = "US"
+place.state = "NJ"
+place.city = "Trenton"
+
+[person.death]
+date = "2020-10-09"
+
+[person.burial]
+cemetery.name = "Our Lady of Lourdes Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NJ"
+cemetery.place.city = "Trenton"
+
+[[person.education]]
+school.name = "Steinert HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NJ"
+school.place.city = "Trenton"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

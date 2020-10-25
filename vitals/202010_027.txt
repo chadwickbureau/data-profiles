@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_027"
+
+[[person.meta.citation]]
+title = "Pennsylvania, Veterans Burial Cards, 1777-2012"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rzucidlo"
+use = "Joseph"
+given = "Joseph T."
+
+[person.birth]
+date = "1916-02-16"
+
+[person.death]
+date = "1992-03-22"
+
+[person.burial]
+cemetery.name = "Sacred Hearts of Jesus and Mary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Scranton"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

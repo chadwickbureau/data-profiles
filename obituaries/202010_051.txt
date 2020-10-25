@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_051"
+
+[[person.meta.citation]]
+title = "Kasper-Hahn Funeral Home"
+date = "2020-10-25"
+url = "http://www.kasperhahn.com/obituaries/michael-g-scheer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Scheer"
+use = "Michael"
+given = "Michael G."
+
+[person.death]
+date = "2020-10-22"
+
+[person.description]
+throws = "L"
+

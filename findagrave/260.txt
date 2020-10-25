@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:260"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-25"
+url = "https://www.findagrave.com/memorial/136261655/paul-spencer-rampey"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rampey"
+use = "Paul"
+given = "Paul Spencer"
+
+[person.birth]
+date = "1913-10-13"
+
+[person.death]
+date = "1998-09-18"
+
+[person.burial]
+cemetery.name = "Greenlawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Easley"
+
+[person.sameas]
+findagrave = "136261655"
+

@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:113005"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/113005"
+title = "The Sporting News Player Contract Cards, ScanID: 1044005561"
+
+[person.name]
+last = "Thornton"
+given = "Robert Ray"
+
+[person.description]
+position = "2B"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "175"
+
+[person.birth]
+date = "1938-02-22"
+place.country = "US"
+place.state = "CO"
+place.city = "Grand Junction"
+
+[[person.resides]]
+place.address = "1374 Downington"
+place.country = "US"
+place.state = "UT"
+place.city = "Salt Lake City"
+
+
+[[person.transaction]]
+date = "1956-09-03"
+type = "signed"
+join.name = "Paris (TX)"
+note = "Paris (TX) 1956-09-03"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Paris (TX)"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1957-04-03"
+type = "released"
+leave.name = "Paris (TX)"
+note = "rel 1957-04-03"
+

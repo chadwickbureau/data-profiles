@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_036"
+
+[[person.meta.citation]]
+title = "Bozeman Daily Chronicle"
+date = "2020-10-18"
+url = "https://www.legacy.com/obituaries/bozemandailychronicle/obituary.aspx?n=frank-albert-lucy&pid=196962922"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Lucy"
+use = "Frank"
+given = "Frank Albert"
+suffix = "III"
+
+[person.birth]
+date = "1955-04-12"
+place.country = "US"
+place.state = "PA"
+place.city = "Washington"
+
+[person.death]
+date = "2020-10-03"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Arizona State University"
+school.type = "college"
+
+

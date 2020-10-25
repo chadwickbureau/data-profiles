@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_045"
+
+[[person.meta.citation]]
+title = "Deseret News"
+date = "2020-10-20"
+url = "https://www.legacy.com/obituaries/deseretnews/obituary.aspx?n=robert-ray-thornton-bob&pid=196968840"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-20"
+
+[person.name]
+last = "Thornton"
+use = "Bob"
+given = "Robert Ray"
+
+[person.birth]
+date = "1938-02-22"
+
+[person.death]
+date = "2020-10-01"
+
+[[person.education]]
+school.name = "East HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "UT"
+school.place.city = "Salt Lake City"
+
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_022"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-18"
+
+[person.name]
+last = "Cairns"
+use = "Ray"
+given = "Ray Bernard"
+suffix = "Jr."
+
+[person.birth]
+date = "1921-07-01"
+place.country = "US"
+place.state = "OK"
+place.city = "Oklahoma City"
+

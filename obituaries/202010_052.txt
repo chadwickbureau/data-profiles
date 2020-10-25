@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_052"
+
+[[person.meta.citation]]
+title = "Ledger"
+date = "2020-10-25"
+url = "https://www.legacy.com/obituaries/theledger/obituary.aspx?n=robert-lee-henne&pid=196995583"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Henne"
+use = "Robert"
+given = "Robert Lee"
+
+[person.birth]
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-10-07"
+place.country = "US"
+place.state = "FL"
+place.city = "Lake Wales"
+
+[person.sameas]
+sr_cbb = "robert-henne-1"
+
+[[person.education]]
+school.name = "University of Kentucky"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_026"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-25"
+
+[person.name]
+last = "Rucidlo"
+use = "Joseph"
+given = "Joseph Ted"
+
+[person.birth]
+date = "1917-02-16"
+place.country = "US"
+place.state = "PA"
+place.city = "Mayfield"
+
+[person.death]
+date = "1992-03-11"
+
+[person.sameas]
+ssn = "199-03-8514"
+
