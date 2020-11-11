@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:148564"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/148564"
+title = "The Sporting News Player Contract Cards, ScanID: 1030005195"
+
+[person.name]
+last = "Miller"
+given = "Adrain F."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1950-04-01"
+type = "signed"
+join.name = "Fort Lauderdale"
+note = "Fort Lauderdale 1950-04-01"
+
+[[person.transaction]]
+date = "1950-07-28"
+type = "released"
+leave.name = "Fort Lauderdale"
+join.name = "Hickory"
+note = "rel to Hickory 1950-07-28"
+
+[[person.transaction]]
+date = "1950-08-05"
+type = "returned"
+leave.name = "Hickory"
+join.name = "Fort Lauderdale"
+note = "ret to Fort Lauderdale 1950-08-05"
+
+[[person.transaction]]
+date = "1950-08-12"
+type = "released"
+leave.name = "Fort Lauderdale"
+note = "rel 1950-08-12"
+

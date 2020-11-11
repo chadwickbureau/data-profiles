@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:178928"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/178928"
+title = "The Sporting News Player Contract Cards, ScanID: 1027006597"
+
+[person.name]
+last = "Mally"
+given = "Robert Eugene"
+nick = "Gene"
+
+
+[[person.transaction]]
+date = "1948-11-04"
+type = "signed"
+join.name = "Hickory"
+note = "Hickory 1948-11-04"
+
+[[person.transaction]]
+date = "1949-04-22"
+type = "released"
+leave.name = "Hickory"
+note = "rel 1949-04-22"
+

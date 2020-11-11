@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:140257"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/140257"
+title = "The Sporting News Player Contract Cards, ScanID: 1031003045"
+
+[person.name]
+last = "Moon"
+given = "Donald Wayne"
+
+
+[[person.transaction]]
+date = "1950-08-24"
+type = "signed"
+join.name = "Youngstown"
+note = "Youngstown 1950-08-24"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Youngstown"
+note = "res for 1951"
+
+[[person.transaction]]
+date = "1951-05-14"
+type = "released"
+leave.name = "Youngstown"
+note = "rel 1951-05-14"
+
+[[person.transaction]]
+date = "1952-03-12"
+type = "signed"
+join.name = "Augusta"
+note = "Augusta 1952-03-12"
+
+[[person.transaction]]
+date = "1952-05-06"
+type = "released"
+leave.name = "Augusta"
+note = "rel 1952-05-06"
+
