@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_023"
+
+[[person.meta.citation]]
+title = "York Daily Record"
+date = "2016-01-08"
+url = "https://www.legacy.com/obituaries/york/obituary.aspx?n=Howard-Kerns&pid=177197705"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "Kerns"
+use = "Howard"
+given = "Howard P."
+
+[person.birth]
+date = "1920-03-28"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.death]
+date = "2016-01-06"
+place.country = "US"
+place.state = "PA"
+place.city = "York"
+
+[person.burial]
+cemetery.name = "Mount Rose Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "York"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

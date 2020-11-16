@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_073"
+
+[[person.meta.citation]]
+title = "Kostanski Funeral Home"
+date = "2020-10-31"
+url = "https://www.kostanskifuneralhome.com/obituary/Roland-Leveille"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-31"
+
+[person.name]
+last = "Leveille"
+use = "Rollie"
+given = "Roland James"
+
+[person.birth]
+date = "1928-03-25"
+place.country = "US"
+place.state = "MA"
+place.city = "Turners Falls"
+
+[person.death]
+date = "2020-10-27"
+place.country = "US"
+place.state = "MA"
+place.city = "Greenfield"
+
+[[person.education]]
+school.name = "Turners Falls HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Turners Falls"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

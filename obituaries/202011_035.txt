@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_035"
+
+[[person.meta.citation]]
+title = "Flanner Buchanan Funeral Home"
+date = "2020-11-13"
+url = "https://flannerbuchanan.com/obit/donald-bays-jr/"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-13"
+
+[person.name]
+last = "Bays"
+use = "Donald"
+given = "Donald"
+suffix = "Jr."
+
+[person.birth]
+date = "1929-03-15"
+place.country = "US"
+place.state = "IN"
+place.city = "Greene County"
+
+[person.death]
+date = "2015-12-23"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianpolis"
+
+[person.burial]
+cemetery.name = "Lincoln Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "IN"
+cemetery.place.city = "Whitestown"
+
+[[person.education]]
+school.name = "Bloomfield HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IN"
+school.place.city = "Bloomfield"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

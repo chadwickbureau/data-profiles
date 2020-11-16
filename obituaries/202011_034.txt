@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_034"
+
+[[person.meta.citation]]
+title = "Pocono Record"
+date = "2020-11-13"
+url = "https://www.poconorecord.com/article/20151231/OBITUARIES/151239938"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-13"
+
+[person.name]
+last = "Weirich"
+use = "Robert"
+given = "Robert A."
+
+[person.birth]
+date = "1925-05-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Middletown"
+
+[person.death]
+date = "2015-12-28"
+place.country = "US"
+place.state = "PA"
+place.city = "East Stroudsburg"
+
+[person.burial]
+cemetery.name = "Laurelwood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Stroudsburg"
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

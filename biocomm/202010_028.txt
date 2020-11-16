@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_028"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "McMahan"
+use = "Jack"
+given = "Jack Wally"
+
+[person.death]
+date = "2020-10-16"
+place.country = "US"
+place.state = "AR"
+place.city = "Hot Springs"
+
+[person.burial]
+cemetery.name = "Hollywood Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AR"
+cemetery.place.city = "Hot Springs"
+
+[person.description]
+mlb_played = "1956/"
+

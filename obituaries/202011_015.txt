@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_015"
+
+[[person.meta.citation]]
+title = "H. M. Patterson & Son-Arlington Chaptel"
+date = "2020-11-09"
+url = "https://www.dignitymemorial.com/obituaries/sandy-springs-ga/r-maxwell-9887946"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-09"
+
+[person.name]
+last = "Maxwell"
+use = "Blake"
+given = "R. Blake"
+
+[person.birth]
+date = "1937-03-29"
+place.country = "US"
+place.state = "GA"
+place.city = "Atlanta"
+
+[person.death]
+date = "2020-11-03"
+
+[person.burial]
+cemetery.name = "Arlington Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Sandy Springs"
+
+[[person.education]]
+school.name = "Bass HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "GA"
+school.place.city = "Atlanta"
+
+

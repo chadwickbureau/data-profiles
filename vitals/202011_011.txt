@@ -1,0 +1,30 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202011_011"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Mayor"
+use = "Eleno"
+given = "Eleno Agapito"
+
+[person.birth]
+date = "1916-08-18"
+place.country = "CU"
+place.city = "Sagua La Grande"
+
+[person.death]
+date = "2005-04-18"
+
+[person.sameas]
+ssn = "248-24-1905"
+

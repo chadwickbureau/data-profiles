@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_037"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Raether"
+use = "Harold"
+given = "Harold Herman"
+
+[person.death]
+date = "2020-09-26"
+place.country = "US"
+place.state = "MN"
+place.city = "Spring Park"
+
+[person.burial]
+cemetery.name = "Fort Snelling National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Minneapolis"
+
+[person.description]
+mlb_played = "1954/"
+

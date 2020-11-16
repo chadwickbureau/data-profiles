@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_031"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Nealon"
+use = "James"
+given = "James Joseph"
+
+[person.birth]
+place.country = "US"
+place.state = "CA"
+place.city = "San Francisco"
+
+[person.description]
+mlb_played = "1906/"
+

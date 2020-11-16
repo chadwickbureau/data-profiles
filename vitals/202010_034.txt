@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_034"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Fiarito"
+use = "Henry"
+given = "Henry Tony"
+
+[person.birth]
+date = "1913-12-25"
+place.country = "US"
+place.state = "TX"
+place.city = "Beaumont"
+

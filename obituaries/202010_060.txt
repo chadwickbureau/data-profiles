@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_060"
+
+[[person.meta.citation]]
+title = "Gross Funeral Home"
+date = "2020-10-26"
+url = "https://www.dignitymemorial.com/obituaries/hot-springs-ar/jack-mcmahan-9846118"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "McMahan"
+use = "Jack"
+given = "Jack W."
+
+[person.birth]
+date = "1932-07-22"
+
+[person.death]
+date = "2020-10-16"
+
+[[person.education]]
+school.name = "Hot Springs HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Hot Springs"
+
+

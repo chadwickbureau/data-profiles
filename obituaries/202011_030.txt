@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_030"
+
+[[person.meta.citation]]
+title = "Wshburn-McReavy Funeral Home"
+date = "2020-11-12"
+url = "https://www.washburn-mcreavy.com/obituaries/Julio-Becquer/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "Becquer"
+use = "Froilan"
+given = "Froilan Julio"
+
+[person.birth]
+date = "1931-12-20"
+
+[person.death]
+date = "2020-11-01"
+
+[person.burial]
+cemetery.name = "Glen Haven Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Crystal"
+

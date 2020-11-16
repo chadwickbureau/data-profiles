@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_001"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Baldwin"
+use = "Rickey"
+given = "Rickey Alan"
+
+[person.death]
+date = "2020-10-30"
+place.country = "US"
+place.state = "CA"
+place.city = "Modesto"
+
+[person.description]
+mlb_played = "1975/"
+

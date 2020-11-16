@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:4513"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/4513"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003184"
+
+[person.name]
+last = "Bays"
+given = "Donald"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949"
+type = "signed"
+join.name = "McAllen"
+note = "McAllen 1949"
+
+[[person.transaction]]
+date = "1949-04-04"
+type = "released"
+leave.name = "McAllen"
+note = "rel 1949-04-04"
+

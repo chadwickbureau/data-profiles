@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_005"
+
+[[person.meta.citation]]
+title = "Burbage Funeral Home"
+date = "2020-11-03"
+url = "https://www.burbagefuneralhome.com/obituary/timothy-barker"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-03"
+
+[person.name]
+last = "Barker"
+use = "Tim"
+given = "Timothy Neal"
+
+[person.birth]
+date = "1968-06-30"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "2020-10-29"
+place.country = "US"
+place.state = "MD"
+place.city = "West Ocean City"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Wicomico HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MD"
+school.place.city = "Salisbury"
+
+[[person.education]]
+school.name = "Virginia Commonwealth University"
+school.type = "college"
+
+

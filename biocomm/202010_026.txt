@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_026"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Lampard"
+use = "Christopher"
+given = "Christopher Keith"
+
+[person.death]
+date = "2020-08-30"
+place.country = "US"
+place.state = "OR"
+place.city = "Lincoln City"
+
+[person.description]
+mlb_played = "1969/"
+

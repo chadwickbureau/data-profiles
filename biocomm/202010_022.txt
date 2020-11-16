@@ -1,0 +1,21 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_022"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Horton"
+use = "Elmer"
+given = "Ellis Elmer"
+
+[person.birth]
+date = "1866-09-04"
+
+[person.description]
+mlb_played = "1896/"
+note = [ "Record advises removal of previously-listed cemetery" ]
+

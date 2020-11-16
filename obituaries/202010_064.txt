@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_064"
+
+[[person.meta.citation]]
+title = "Allentown Morning Call"
+date = "2012-10-01"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Ferraioli"
+use = "Bernard"
+given = "Bernard J."
+
+[person.death]
+date = "2012-09-28"
+
+[person.burial]
+cemetery.name = "Pinelawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "East Farmingdale"
+

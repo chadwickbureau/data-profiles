@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:273"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-04"
+url = "https://www.findagrave.com/memorial/40078533/thomas-reed"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Reed"
+use = "Thomas"
+given = "Thomas"
+
+[person.birth]
+date = "1915-06-27"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.death]
+date = "1969-05-14"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.burial]
+cemetery.name = "Body donated to science"
+
+[person.sameas]
+findagrave = "40078533"
+

@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:269"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-02"
+url = "https://www.findagrave.com/memorial/126242001/nathan-brown-braly"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-02"
+
+[person.name]
+last = "Braly"
+use = "Nathan"
+given = "Nathan Brown"
+
+[person.birth]
+date = "1903-11-07"
+place.country = "US"
+place.state = "TN"
+place.city = "Pulaski"
+
+[person.death]
+date = "1976-08-12"
+place.country = "US"
+place.state = "TN"
+place.city = "Sumner County"
+
+[person.burial]
+cemetery.name = "Gallatin City Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Gallatin"
+
+[person.sameas]
+findagrave = "126242001"
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:276"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-05"
+url = "https://www.findagrave.com/memorial/146995030/robert-schang"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-05"
+
+[person.name]
+last = "Schang"
+use = "Robert"
+given = "Robert J."
+
+[person.birth]
+date = "1917-08-12"
+
+[person.death]
+date = "2000-02-15"
+
+[person.burial]
+cemetery.name = "St. Mary's Catholic Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Sacramento"
+
+[person.sameas]
+findagrave = "146995030"
+

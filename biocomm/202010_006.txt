@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_006"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Brock"
+use = "Louis"
+given = "Louis Clark"
+
+[person.death]
+date = "2020-09-06"
+place.country = "US"
+place.state = "MO"
+place.city = "St. Louis"
+
+[person.burial]
+cemetery.name = "Forever Bellerive Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MO"
+cemetery.place.city = "Creve Coeur"
+
+[person.description]
+mlb_played = "1961/"
+

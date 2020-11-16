@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_063"
+
+[[person.meta.citation]]
+title = "Boles Funeral Home"
+date = "2020-10-26"
+url = "https://www.bolesfuneralhome.com/obituaries/Gary-Michael-Moston?obId=18678434#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Moston"
+use = "Gary"
+given = "Gary Michael"
+
+[person.birth]
+date = "1940-11-04"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[person.death]
+date = "2020-10-19"
+place.country = "US"
+place.state = "NC"
+place.city = "Pinehurst"
+
+[person.burial]
+cemetery.name = "Pinelawn Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Southern Pines"
+
+[[person.education]]
+school.name = "Edgewood HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Madison"
+
+[[person.education]]
+school.name = "University of Wisconsin at Madison"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Vietnam War"
+
+

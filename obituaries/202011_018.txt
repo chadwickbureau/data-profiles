@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_018"
+
+[[person.meta.citation]]
+title = "Connor-Healy Funeral Home"
+date = "2020-11-11"
+url = "https://www.connorhealy.com/obituary/kenneth-mcdonald"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "McDonald"
+use = "Ken"
+given = "Kenneth Daniel"
+
+[person.birth]
+date = "1926-06-28"
+place.country = "US"
+place.state = "NH"
+place.city = "Manchester"
+
+[person.death]
+date = "2020-11-08"
+place.country = "US"
+place.state = "NH"
+place.city = "Manchester"
+
+[person.burial]
+cemetery.name = "St. Joseph Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NH"
+cemetery.place.city = "Bedford"
+
+[[person.education]]
+school.name = "La Salle Academy"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "RI"
+school.place.city = "Providence"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

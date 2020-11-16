@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_001"
+
+[[person.meta.citation]]
+title = "Albany Democrat-Herald"
+date = "2020-11-01"
+url = "https://www.legacy.com/us/obituaries/democratherald/name/albert-fortier-bud-obituary?n=albert-fortier-bud&pid=197029463"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-01"
+
+[person.name]
+last = "Fortier"
+use = "Bud"
+given = "Albert Jesse"
+
+[person.birth]
+date = "1925-10-29"
+place.country = "US"
+place.state = "OR"
+place.city = "Albany"
+
+[person.death]
+date = "2020-10-12"
+
+[[person.education]]
+school.name = "Oregon State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_057"
+
+[[person.meta.citation]]
+title = "Concordia Sentinel"
+date = "2020-10-26"
+url = "https://www.hannapub.com/concordiasentinel/obituaries---oct-21-2020/article_5356f080-13d0-11eb-a5c2-57194faa7653.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-21"
+
+[person.name]
+last = "McNew"
+use = "Red"
+given = "James"
+
+[person.birth]
+date = "1934-04-20"
+place.country = "US"
+place.state = "MS"
+place.city = "Lake"
+
+[person.death]
+date = "2020-10-17"
+place.country = "US"
+place.state = "LA"
+place.city = "Shreveport"
+
+[[person.education]]
+school.name = "Ferriday HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Ferriday"
+
+[[person.education]]
+school.name = "Northwestern State University"
+school.type = "college"
+
+

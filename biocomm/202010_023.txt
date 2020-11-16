@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_023"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Jasper"
+use = "Henry"
+given = "Henry"
+
+[person.description]
+mlb_played = "1914/"
+note = [ "Record advises removal of middle initial W." ]
+

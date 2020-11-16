@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:170781"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/170781"
+title = "The Sporting News Player Contract Cards, ScanID: 1031005525"
+
+[person.name]
+last = "Morris"
+given = "Frank"
+
+
+[[person.transaction]]
+date = "1950-03-02"
+type = "signed"
+join.name = "Marion (NC)"
+note = "Marion (NC) 1950-03-02"
+
+[[person.transaction]]
+date = "1950-05-12"
+type = "released"
+leave.name = "Marion (NC)"
+note = "rel 1950-05-12"
+

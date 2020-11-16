@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:271"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-04"
+url = "https://www.findagrave.com/memorial/109555791/charles-redward-pescod"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Pescod"
+use = "Charles"
+given = "Charles Redward"
+
+[person.birth]
+date = "1913-12-08"
+place.country = "EC"
+place.city = "Salinas"
+
+[person.death]
+date = "1944-12-02"
+place.country = "FR"
+place.city = "Eckartswiller"
+
+[person.sameas]
+findagrave = "109555791"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

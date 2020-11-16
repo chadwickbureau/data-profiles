@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:268"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-29"
+url = "https://www.findagrave.com/memorial/125249572/orion-lester-masters"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-29"
+
+[person.name]
+last = "Masters"
+use = "Orion"
+given = "Orion Lester"
+nick = "Lefty"
+
+[person.birth]
+date = "1892-01-09"
+place.country = "US"
+place.state = "KS"
+place.city = "Columbus"
+
+[person.death]
+date = "1961-05-07"
+place.country = "US"
+place.state = "OK"
+place.city = "Watonga"
+
+[person.burial]
+cemetery.name = "Watonga IOOF Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OK"
+cemetery.place.city = "Watonga"
+
+[person.sameas]
+findagrave = "125249572"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War I"
+
+

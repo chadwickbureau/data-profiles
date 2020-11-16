@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_011"
+
+[[person.meta.citation]]
+title = "Cartmell-Davis Funeral Home"
+date = "2020-11-10"
+url = "https://www.cartmelldavis.com/obituaries/James-P-Hanabury?obId=3365651#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Hanabury"
+use = "James"
+given = "James P."
+
+[person.death]
+date = "2008-01-22"
+place.country = "US"
+place.state = "MA"
+place.city = "Yarmouth"
+
+[[person.education]]
+school.name = "North Quincy HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Quincy"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

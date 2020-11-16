@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:282"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-11"
+url = "https://www.findagrave.com/memorial/127339566/william-m.-flora"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Flora"
+use = "William"
+given = "William M."
+
+[person.birth]
+date = "1914-02-25"
+
+[person.death]
+date = "1969-09-05"
+
+[person.burial]
+cemetery.name = "Willow Dale Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NC"
+cemetery.place.city = "Goldsboro"
+
+[person.sameas]
+findagrave = "127339566"
+

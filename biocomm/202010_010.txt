@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_010"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Daily"
+use = "Hugh"
+given = "Hugh"
+
+[person.description]
+mlb_played = "1882/"
+note = [ "Record advises removal of middle name Ignatius and birth name of Criss, Harry" ]
+

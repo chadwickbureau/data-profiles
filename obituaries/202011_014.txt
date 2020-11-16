@@ -1,0 +1,47 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_014"
+
+[[person.meta.citation]]
+title = "Hamilton's Funeral Home"
+date = "2020-11-07"
+url = "http://www.hamiltonsfuneralhome.com/services/services_detail.aspx?rid=56129"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-07"
+
+[person.name]
+last = "Mally"
+use = "Gene"
+given = "Robert Eugene"
+
+[person.birth]
+date = "1929-01-31"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.death]
+date = "2020-11-04"
+place.country = "US"
+place.state = "IA"
+place.city = "Des Moines"
+
+[person.burial]
+cemetery.name = "Berwick Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Delaware Township"
+
+[[person.education]]
+school.name = "Woodside HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IA"
+school.place.city = "Des Moines"
+
+

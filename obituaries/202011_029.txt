@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_029"
+
+[[person.meta.citation]]
+title = "Hough Funeral Homes"
+date = "2020-11-12"
+url = "https://www.houghfuneralhome.com/obituary/Robert-House"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "House"
+use = "Robert"
+given = "Robert Eugene"
+
+[person.birth]
+date = "1937-07-10"
+place.country = "US"
+place.state = "IL"
+place.city = "Litchfield"
+
+[person.death]
+date = "2020-10-15"
+place.country = "US"
+place.state = "CA"
+place.city = "Laguna Beach"
+
+[person.burial]
+cemetery.name = "Asbury Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Raymond"
+
+[[person.education]]
+school.name = "Raymond HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Raymond"
+
+[[person.education]]
+school.name = "Illinois Wesleyan University"
+school.type = "college"
+
+

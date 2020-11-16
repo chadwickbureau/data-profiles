@@ -1,0 +1,97 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:65366"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/65366"
+title = "The Sporting News Player Contract Cards, ScanID: 1025017777"
+
+[person.name]
+last = "Hecker"
+given = "Vernon James"
+nick = "Smoke"
+
+[person.description]
+ancestry = "German"
+position = "OF"
+bats = "L"
+throws = "L"
+height = "71"
+weight = "185"
+
+[person.birth]
+date = "1936-01-07"
+place.country = "US"
+place.state = "PA"
+place.city = "Blandon"
+
+[[person.resides]]
+place.address = "P.O. Box 14"
+place.country = "US"
+place.state = "PA"
+place.city = "Blandon"
+
+
+[[person.transaction]]
+date = "1954-10-04"
+type = "signed"
+join.name = "Billings"
+note = "Billings 1954-10-04"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Billings"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-04-30"
+type = "disqualified"
+leave.name = "Billings"
+note = "disqualified list 1955-04-30"
+
+[[person.transaction]]
+date = "1955-04-20"
+type = "suspended"
+leave.name = "Billings"
+note = "1955-04-20"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Billings"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-09-26"
+type = "released"
+leave.name = "Billings"
+join.name = "Waco"
+note = "rel to Waco 1956-09-26"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Waco"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Waco"
+join.name = "Beaumont"
+note = "rel to Beaumont 1957-02-01"
+
+[[person.transaction]]
+date = "1958-01-28"
+type = "reinstated"
+join.name = "Beaumont"
+note = "rein disqualified list 1958-01-28"
+
+[[person.transaction]]
+date = "1958-01-28"
+type = "released"
+leave.name = "Beaumont"
+note = "rel 1958-01-28"
+

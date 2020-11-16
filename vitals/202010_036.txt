@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_036"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-29"
+
+[person.name]
+last = "Masters"
+use = "Orion"
+given = "Orion Leslie"
+
+[person.birth]
+date = "1892-01-09"
+
+[person.sameas]
+ssn = "441-05-2712"
+

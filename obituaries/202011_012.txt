@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_012"
+
+[[person.meta.citation]]
+title = "Fond du Lac Commonwealth Reporter"
+date = "1999-01-12"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Adlam"
+use = "James"
+given = "James A."
+
+[person.birth]
+date = "1914-06-17"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[person.death]
+date = "1999-01-10"
+place.country = "US"
+place.state = "WI"
+place.city = "Fond du Lac"
+
+[person.burial]
+cemetery.name = "Calvary Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Fond du Lac"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

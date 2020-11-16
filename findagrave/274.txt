@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:274"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-04"
+url = "https://www.findagrave.com/memorial/179074700/paul-spencer"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Spencer"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1909"
+place.country = "US"
+place.state = "AR"
+
+[person.death]
+date = "1969-08-23"
+place.country = "US"
+place.state = "MI"
+place.city = "Warren"
+
+[person.burial]
+cemetery.name = "Cadillac Memorial Gardens East"
+cemetery.place.country = "US"
+cemetery.place.state = "MI"
+cemetery.place.city = "Clinton Township"
+
+[person.sameas]
+findagrave = "179074700"
+

@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_015"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Ford"
+use = "Edward"
+given = "Edward Charles"
+
+[person.death]
+date = "2020-10-08"
+place.country = "US"
+place.state = "NY"
+place.city = "Lake Success"
+
+[person.burial]
+cemetery.name = "Locust Valley Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Locust Valley"
+
+[person.description]
+mlb_played = "1950/"
+

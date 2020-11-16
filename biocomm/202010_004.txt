@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_004"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Becquer"
+use = "Julio"
+given = "Julio"
+matrilineal = "Villegas"
+
+[person.death]
+date = "2020-11-01"
+place.country = "US"
+place.state = "MN"
+place.city = "Hopkins"
+
+[person.description]
+mlb_played = "1955/"
+

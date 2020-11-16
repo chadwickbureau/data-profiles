@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202011_007"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Murry"
+use = "William"
+given = "William Terry"
+
+[person.birth]
+date = "1937-09-16"
+place.country = "US"
+place.state = "LA"
+place.city = "Bastrop"
+
+[person.death]
+date = "2002-02-13"
+
+[person.sameas]
+ssn = "439-54-4799"
+

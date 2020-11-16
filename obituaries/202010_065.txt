@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_065"
+
+[[person.meta.citation]]
+title = "Oakley-Cook Funeral Home"
+date = "2020-10-28"
+url = "https://www.oakley-cook.com/obituaries/Paul-Musselman/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-28"
+
+[person.name]
+last = "Musselman"
+use = "Paul"
+given = "Paul William"
+
+[person.birth]
+date = "1926-01-09"
+place.country = "US"
+place.state = "VA"
+place.city = "Salem"
+
+[person.death]
+date = "2020-10-26"
+place.country = "US"
+place.state = "TN"
+place.city = "Bristol"
+
+[person.burial]
+cemetery.name = "Glenwood Cemetery and Chapel Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Bristol"
+
+[[person.education]]
+school.name = "East Tennessee State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

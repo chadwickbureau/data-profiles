@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_044"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Wolters"
+use = "Reinder"
+given = "Reinder Albertus"
+
+[person.birth]
+date = "1844-03-17"
+
+[person.description]
+mlb_played = "1871/"
+

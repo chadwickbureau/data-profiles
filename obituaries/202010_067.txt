@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_067"
+
+[[person.meta.citation]]
+title = "Simons Funeral Home"
+date = "2020-10-30"
+url = "https://www.simonsfuneralhome.com/obituaries/John--Merle--Brideweser?obId=18775608#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-30"
+
+[person.name]
+last = "Brideweser"
+use = "John"
+given = "John Merle"
+
+[person.birth]
+date = "1935-10-02"
+place.country = "US"
+place.state = "OH"
+place.city = "Massillon"
+
+[person.death]
+date = "2020-10-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Pittsburgh"
+
+[[person.education]]
+school.name = "Purdue University"
+school.type = "college"
+
+

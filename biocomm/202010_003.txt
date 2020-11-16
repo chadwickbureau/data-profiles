@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_003"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Batiste"
+use = "Kimothy"
+given = "Kimothy Emil"
+
+[person.death]
+date = "2020-10-08"
+place.country = "US"
+place.state = "LA"
+place.city = "Baton Rouge"
+
+[person.burial]
+cemetery.name = "Mount Gillion B. C. Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Prairieville"
+
+[person.description]
+mlb_played = "1991/"
+

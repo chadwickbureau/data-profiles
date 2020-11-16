@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_074"
+
+[[person.meta.citation]]
+title = "Hartford Courant"
+date = "2020-11-01"
+url = "https://www.legacy.com/obituaries/hartfordcourant/obituary.aspx?n=frank-neves&pid=197022463"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-31"
+
+[person.name]
+last = "Neves"
+use = "Frank"
+given = "Frank"
+
+[person.birth]
+place.country = "US"
+place.state = "CT"
+place.city = "Danbury"
+
+[person.death]
+date = "2020-10-22"
+

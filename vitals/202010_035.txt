@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202010_035"
+
+[[person.meta.citation]]
+title = "US WWI Draft Registration Cards, 1917-1918"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-29"
+
+[person.name]
+last = "Masters"
+use = "Orion"
+given = "Orion L."
+
+[person.birth]
+date = "1895-01-09"
+place.country = "US"
+place.state = "KS"
+place.city = "Columbus"
+

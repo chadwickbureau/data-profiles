@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:267"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-26"
+url = "https://www.findagrave.com/memorial/62885815/leslie-angeious-dunkle"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Dunkle"
+use = "Leslie"
+given = "Leslie Angelous"
+
+[person.birth]
+date = "1914-04-26"
+place.country = "US"
+place.state = "OK"
+place.city = "Hydro"
+
+[person.death]
+date = "1988-08-11"
+place.country = "US"
+place.state = "AL"
+place.city = "Russellville"
+
+[person.burial]
+cemetery.name = "Franklin Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Russellville"
+
+[person.sameas]
+findagrave = "62885815"
+

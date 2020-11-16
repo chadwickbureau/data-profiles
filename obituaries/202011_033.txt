@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_033"
+
+[[person.meta.citation]]
+title = "Grand Strand Funeral Home"
+date = "2020-11-13"
+url = "https://www.grandstrandcremation.com/obituary/steve-santa"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-13"
+
+[person.name]
+last = "Santa"
+use = "Steve"
+given = "Steve John"
+
+[person.birth]
+date = "1947-07"
+place.country = "US"
+place.state = "OH"
+place.city = "Martins Ferry"
+
+[person.death]
+date = "2020-11-09"
+place.country = "US"
+place.state = "SC"
+place.city = "Conway"
+
+[[person.education]]
+school.name = "Yorkville HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Yorkville"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

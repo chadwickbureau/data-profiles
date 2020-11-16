@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:280"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-10"
+url = "https://www.findagrave.com/memorial/42324244/kermit-reuben-aase"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Aase"
+use = "Kermit"
+given = "Kermit Reuben"
+
+[person.birth]
+date = "1914-07-25"
+place.country = "US"
+place.state = "MN"
+place.city = "Kenyon"
+
+[person.death]
+date = "2003-09-04"
+place.country = "US"
+place.state = "MN"
+place.city = "Brainerd"
+
+[person.burial]
+cemetery.name = "Evergreen Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "MN"
+cemetery.place.city = "Brainerd"
+
+[person.sameas]
+findagrave = "42324244"
+

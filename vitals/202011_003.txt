@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202011_003"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Spencer"
+use = "Paul"
+given = "Paul"
+
+[person.birth]
+date = "1909-02-19"
+place.country = "US"
+place.state = "AR"
+place.city = "Trumann"
+

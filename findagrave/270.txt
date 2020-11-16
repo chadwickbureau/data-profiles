@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:270"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-04"
+url = "https://www.findagrave.com/memorial/17648478/charles-frederick-haas"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Haas"
+use = "Charles"
+given = "Charles Frederick"
+
+[person.birth]
+date = "1917-02-02"
+place.country = "US"
+place.state = "TX"
+
+[person.death]
+date = "2007-01-22"
+place.country = "US"
+place.state = "TX"
+place.city = "Corpus Christi"
+
+[person.burial]
+cemetery.name = "Seaside Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Corpus Christi"
+
+[person.sameas]
+findagrave = "17648478"
+

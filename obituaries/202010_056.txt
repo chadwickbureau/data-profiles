@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_056"
+
+[[person.meta.citation]]
+title = "Keefe Funeral Home"
+date = "2020-10-26"
+url = "https://www.keefefuneralhome.com/memorials/thomas-yewcic/4364247/obituary.php"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Yewcic"
+use = "Tom"
+given = "Thomas"
+
+[person.birth]
+date = "1932-05-09"
+place.country = "US"
+place.state = "PA"
+place.city = "Conemaugh"
+
+[person.death]
+date = "2020-10-20"
+
+[person.sameas]
+key-sr-nfl = "YewcTo00"
+key-sr-cfb = "tom-yewcic-1"
+
+[[person.education]]
+school.name = "Conemaugh Valley HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "PA"
+school.place.city = "Johnstown"
+
+[[person.education]]
+school.name = "Michigan State University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

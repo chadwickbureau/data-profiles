@@ -1,0 +1,25 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202011_009"
+
+[[person.meta.citation]]
+title = "US WWII Draft Cards Young Men, 1940-1947"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Waytula"
+use = "Edward"
+given = "Edward Joseph"
+
+[person.birth]
+date = "1927-01-05"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+

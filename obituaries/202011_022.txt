@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_022"
+
+[[person.meta.citation]]
+title = "Tampa Tribune"
+date = "2005-04-21"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Mayor"
+use = "Agapito"
+given = "Agapito"
+
+[person.death]
+date = "2005-04-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Tampa"
+
+[person.burial]
+cemetery.name = "Garden of Memories Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Tampa"
+

@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_021"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Hicks"
+use = "James"
+given = "James Edward"
+
+[person.birth]
+date = "1939-05-18"
+place.country = "US"
+place.state = "MS"
+place.city = "Claiborne County"
+
+[person.death]
+date = "2020-10-29"
+place.country = "US"
+place.state = "TX"
+place.city = "Missouri City"
+
+[person.burial]
+cemetery.name = "Houston Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TX"
+cemetery.place.city = "Pearland"
+
+[person.description]
+mlb_played = "1964/"
+

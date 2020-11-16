@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_030"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Morgan"
+use = "Joe"
+given = "Joe Leonard"
+
+[person.death]
+date = "2020-10-11"
+place.country = "US"
+place.state = "CA"
+place.city = "Danville"
+
+[person.description]
+mlb_played = "1963/"
+

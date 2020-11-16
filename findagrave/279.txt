@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:279"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-10"
+url = "https://www.findagrave.com/memorial/19360241/william-terry-murry"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Murry"
+use = "William"
+given = "William Terry"
+
+[person.birth]
+date = "1937-09-16"
+place.country = "US"
+place.state = "LA"
+place.city = "Bastrop"
+
+[person.death]
+date = "2002-02-13"
+place.country = "US"
+place.state = "AL"
+place.city = "Birmingham"
+
+[person.burial]
+cemetery.name = "Causey Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "LA"
+cemetery.place.city = "Beekman"
+
+[person.sameas]
+findagrave = "19360241"
+
+[[person.education]]
+school.name = "Bastrop HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "LA"
+school.place.city = "Bastrop"
+
+

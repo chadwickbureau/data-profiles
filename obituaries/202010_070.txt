@@ -1,0 +1,43 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_070"
+
+[[person.meta.citation]]
+title = "Bakersfield Californian"
+date = "2020-10-23"
+url = "https://www.legacy.com/obituaries/bakersfield/obituary.aspx?n=walter-napier&pid=196985707"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-30"
+
+[person.name]
+last = "Napier"
+use = "Walt"
+given = "Walter Gene"
+
+[person.birth]
+date = "1935-10-15"
+
+[person.death]
+date = "2020-10-19"
+
+[[person.education]]
+school.name = "Wasco HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "CA"
+school.place.city = "Wasco"
+
+[[person.education]]
+school.name = "Bakersfield College"
+school.type = "college"
+
+[[person.education]]
+school.name = "California State University, Fresno"
+school.type = "college"
+
+

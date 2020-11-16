@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:277"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-10"
+url = "https://www.findagrave.com/memorial/72775507/james-p-hanabury"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Hanabury"
+use = "James"
+given = "James P."
+
+[person.birth]
+date = "1923-07-21"
+
+[person.death]
+date = "2008-01-22"
+
+[person.burial]
+cemetery.name = "Massachusetts National Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Bourne"
+
+[person.sameas]
+findagrave = "72775507"
+

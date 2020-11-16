@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_017"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Gray"
+use = "David"
+given = "David Alexander"
+
+[person.death]
+date = "2020-07-29"
+place.country = "US"
+place.state = "UT"
+place.city = "South Ogden"
+
+[person.description]
+mlb_played = "1964/"
+

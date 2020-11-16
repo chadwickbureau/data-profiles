@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_036"
+
+[[person.meta.citation]]
+title = "Edwards Funeral Home"
+date = "2020-11-14"
+url = "https://www.dignitymemorial.com/obituaries/fort-smith-ar/danny-greenfield-9901313"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-14"
+
+[person.name]
+last = "Greenfield"
+use = "Danny"
+given = "Danny Ray"
+
+[person.birth]
+date = "1940-06-16"
+place.country = "US"
+place.state = "AR"
+place.city = "Fort Smith"
+
+[person.death]
+date = "2020-11-11"
+place.country = "US"
+place.state = "AR"
+place.city = "Fort Smith"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[[person.education]]
+school.name = "Van Buren HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "AR"
+school.place.city = "Van Buren"
+
+[[person.education]]
+school.name = "Southern Arkansas University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

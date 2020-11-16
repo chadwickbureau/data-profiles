@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_010"
+
+[[person.meta.citation]]
+title = "Soobituaries.com"
+date = "2020-11-09"
+url = "https://www.soobituaries.com/adportal/listingView.html?id=2822"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-09"
+
+[person.name]
+last = "Altman"
+use = "Jack"
+given = "Jack"
+suffix = "Jr."
+
+[person.birth]
+date = "1935-01-04"
+place.country = "US"
+place.state = "HI"
+place.city = "Honolulu"
+
+[person.death]
+date = "2020-07-31"
+
+[[person.education]]
+school.name = "Punahou School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "HI"
+school.place.city = "Honolulu"
+
+[[person.education]]
+school.name = "California State University, Freson"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

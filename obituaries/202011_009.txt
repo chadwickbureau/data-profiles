@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_009"
+
+[[person.meta.citation]]
+title = "Sullivan-King Mortuary"
+date = "2020-11-07"
+url = "https://www.sullivanking.com/obituaries/print?o_id=7205989"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-07"
+
+[person.name]
+last = "Nunnally"
+use = "Doyle"
+given = "Doyle Jackson"
+
+[person.birth]
+date = "1922-11-03"
+place.country = "US"
+place.state = "GA"
+place.city = "Banks County"
+
+[person.death]
+date = "2020-11-06"
+place.country = "US"
+place.state = "SC"
+place.city = "Anderson"
+
+[person.burial]
+cemetery.name = "Mount Tabor Baptist Church Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "SC"
+cemetery.place.city = "Anderson"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "World War II"
+
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:266"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-27"
+url = "https://www.findagrave.com/memorial/148042385/penrose-roosevelt-miller"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-27"
+
+[person.name]
+last = "Miller"
+use = "Penrose"
+given = "Penrose Roosevelt"
+
+[person.birth]
+date = "1914-06-24"
+
+[person.death]
+date = "2006-09-10"
+
+[person.burial]
+cemetery.name = "Manchester Union Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Manchester"
+
+[person.sameas]
+findagrave = "148042385"
+

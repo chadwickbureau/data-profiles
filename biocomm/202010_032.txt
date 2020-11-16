@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_032"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Owens"
+use = "James"
+given = "James Philip"
+
+[person.death]
+date = "2020-09-08"
+place.country = "US"
+place.state = "TX"
+place.city = "Houston"
+
+[person.description]
+mlb_played = "1955/"
+

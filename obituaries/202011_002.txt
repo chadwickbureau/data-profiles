@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_002"
+
+[[person.meta.citation]]
+title = "Duksa Family Funeral Homes"
+date = "2020-11-01"
+url = "https://www.newingtonmemorial.com/obituaries/Ronald-F-Judson?obId=18802054#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-01"
+
+[person.name]
+last = "Judson"
+use = "Ron"
+given = "Ronald F."
+
+[person.birth]
+date = "1935-08-15"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "2020-10-30"
+place.country = "US"
+place.state = "CT"
+place.city = "Cromwell"
+
+[[person.education]]
+school.name = "Poly Prep Country Day School"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+[[person.education]]
+school.name = "Dartmouth College"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+
+

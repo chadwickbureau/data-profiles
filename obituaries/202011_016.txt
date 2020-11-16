@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_016"
+
+[[person.meta.citation]]
+title = "Baltimore Sun"
+date = "2020-11-10"
+url = "https://www.legacy.com/obituaries/baltimoresun/obituary.aspx?n=robert-buckheit&pid=197075973"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Buckheit"
+use = "Robert"
+given = "Robert Walter"
+
+[person.death]
+date = "2020-11-09"
+place.country = "US"
+place.state = "FL"
+place.city = "Englewood"
+

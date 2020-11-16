@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:263"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-26"
+url = "https://www.findagrave.com/memorial/17450851/eldon-laclair-breese"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Breese"
+use = "Bid"
+given = "Eldon LaClair"
+
+[person.birth]
+date = "1910-10-22"
+
+[person.death]
+date = "2000-11-30"
+
+[person.burial]
+cemetery.name = "Graceland Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IA"
+cemetery.place.city = "Creston"
+
+[person.sameas]
+findagrave = "17450851"
+

@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:275"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-04"
+url = "https://www.findagrave.com/memorial/30217565/ralph-jesse-waite"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Waite"
+use = "Ralph"
+given = "Ralph Jesse"
+
+[person.birth]
+date = "1914-10-27"
+
+[person.death]
+date = "1997-09-06"
+
+[person.burial]
+cemetery.name = "Andalusia Memorial Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "AL"
+cemetery.place.city = "Andalusia"
+
+[person.sameas]
+findagrave = "30217565"
+

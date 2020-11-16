@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_020"
+
+[[person.meta.citation]]
+title = "Cress Funeral & Cremation Services"
+date = "2020-11-11"
+url = "https://www.cressfuneralservice.com/obituary/Ronald-Nieman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Nieman"
+use = "Ronald"
+given = "Ronald J."
+
+[person.birth]
+date = "1936-01-12"
+place.country = "US"
+place.state = "WI"
+place.city = "Oconomowoc"
+
+[person.death]
+date = "2020-11-03"
+place.country = "US"
+place.state = "WI"
+place.city = "Madison"
+
+[[person.education]]
+school.name = "University of Wisconsin at Madison"
+school.type = "college"
+
+

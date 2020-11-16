@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_012"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Dues"
+use = "Hal"
+given = "Hal Joseph"
+
+[person.death]
+date = "2020-10-20"
+place.country = "US"
+place.state = "TX"
+place.city = "Dickinson"
+
+[person.description]
+mlb_played = "1977/"
+

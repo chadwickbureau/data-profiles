@@ -1,0 +1,41 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:265"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-27"
+url = "https://www.findagrave.com/memorial/129051179/kenneth-eugene-myers"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-27"
+
+[person.name]
+last = "Myers"
+use = "Kenneth"
+given = "Kenneth Eugene"
+
+[person.birth]
+date = "1920-08-26"
+place.country = "US"
+place.state = "CA"
+
+[person.death]
+date = "1972-07-23"
+place.country = "US"
+place.state = "CA"
+place.city = "Los Angeles County"
+
+[person.burial]
+cemetery.name = "Rose Hills Memorial Park"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Whittier"
+
+[person.sameas]
+findagrave = "129051179"
+

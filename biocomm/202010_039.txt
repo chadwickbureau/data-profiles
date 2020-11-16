@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_039"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Simpson"
+use = "Tom"
+given = "Thomas Leo"
+
+[person.description]
+mlb_played = "1953/"
+

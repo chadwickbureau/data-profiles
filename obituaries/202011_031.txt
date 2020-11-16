@@ -1,0 +1,54 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_031"
+
+[[person.meta.citation]]
+title = "Sigs Funeral Services"
+date = "2020-11-13"
+url = "https://www.sigsfuneralservices.com/obituary/JudithRobert-Raymond"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-13"
+
+[person.name]
+last = "Raymond"
+use = "Bobby"
+given = "Robert H."
+nick = "Bucky"
+
+[person.birth]
+date = "1932-07-19"
+place.country = "US"
+place.state = "WA"
+place.city = "Bellingham"
+
+[person.death]
+date = "2020-11-04"
+place.country = "US"
+place.state = "WA"
+place.city = "Bellingham"
+
+[person.burial]
+cemetery.name = "Enterprise Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WA"
+cemetery.place.city = "Ferndale"
+
+[[person.education]]
+school.name = "Meridian HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WA"
+school.place.city = "Bellingham"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

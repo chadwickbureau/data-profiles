@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_040"
+
+[[person.meta.citation]]
+title = "Decker-Givnish Funeral Home"
+date = "2020-11-15"
+url = "https://lifecelebration.tributes.com/obituary/show/Charles-E.-Donnelly-108500368"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-15"
+
+[person.name]
+last = "Donnelly"
+use = "Chuck"
+given = "Charles E."
+suffix = "Sr."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Munhall"
+
+[person.death]
+date = "2020-11-10"
+place.country = "US"
+place.state = "PA"
+place.city = "Abington"
+
+[person.burial]
+cemetery.name = "Doylestown Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Doylestown"
+
+[[person.military]]
+country = "US"
+branch = "Army"
+conflict = "Korean War"
+
+

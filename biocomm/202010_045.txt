@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_045"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Yewcic"
+use = "Thomas"
+given = "Thomas J."
+
+[person.death]
+date = "2020-10-20"
+place.country = "US"
+place.state = "MA"
+place.city = "Arlington"
+
+[person.burial]
+cemetery.name = "Mount Pleasant Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Arlington"
+
+[person.description]
+mlb_played = "1957/"
+

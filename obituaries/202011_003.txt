@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_003"
+
+[[person.meta.citation]]
+title = "Cain Calcutt Funeral Home"
+date = "2020-11-02"
+url = "https://www.tributearchive.com/obituaries/18746722/Phillip-Gordon-Hickman"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-02"
+
+[person.name]
+last = "Hickman"
+use = "Phillip"
+given = "Phillip Gordon"
+
+[person.birth]
+date = "1944-04-15"
+place.country = "US"
+place.state = "NC"
+place.city = "Fayetteville"
+
+[person.death]
+date = "2020-10-27"
+
+[[person.education]]
+school.name = "McClenaghan HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "SC"
+school.place.city = "Florence"
+
+[[person.education]]
+school.name = "University of South Carolina"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "Vietnam War"
+
+

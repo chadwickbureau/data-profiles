@@ -1,0 +1,49 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_008"
+
+[[person.meta.citation]]
+title = "Sacramento Bee"
+date = "2000-03-23"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-05"
+
+[person.name]
+last = "Schang"
+use = "Robert"
+given = "Robert John"
+suffix = "Sr."
+
+[person.birth]
+date = "1917-08-12"
+place.country = "US"
+place.state = "IN"
+place.city = "Indianapolis"
+
+[person.death]
+date = "2000-02-15"
+
+[person.burial]
+cemetery.name = "St. Mary's Catholic Cemetery and Mausoleum"
+cemetery.place.country = "US"
+cemetery.place.state = "CA"
+cemetery.place.city = "Sacramento"
+
+[[person.relation]]
+relationship = "son of"
+person.name.last = "Schang"
+person.name.use = "Robert"
+person.name.given = "Robert Martin"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "World War II"
+
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_038"
+
+[[person.meta.citation]]
+title = "Hoffmeister South County Chapel"
+date = "2020-11-15"
+url = "https://www.dignitymemorial.com/obituaries/saint-louis-mo/ralph-kolb-9901319"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-15"
+
+[person.name]
+last = "Kolb"
+use = "Ralph"
+given = "Ralph Otto"
+
+[person.birth]
+date = "1926-10-06"
+
+[person.death]
+date = "2020-10-12"
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

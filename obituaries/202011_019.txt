@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_019"
+
+[[person.meta.citation]]
+title = "Chicago Sun-Times"
+date = "2010-04-25"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Waytula"
+use = "Edward"
+given = "Edward J."
+
+[person.death]
+date = "2010"
+
+[person.burial]
+cemetery.name = "Queen of Heaven Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "IL"
+cemetery.place.city = "Hillside"
+

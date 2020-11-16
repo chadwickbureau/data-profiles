@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_025"
+
+[[person.meta.citation]]
+title = "Platt's Funeral Home"
+date = "2020-11-12"
+url = "https://www.plattsfuneralhome.com/obituaries/Franklin-Morris?obId=13098289#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "Morris"
+use = "Franklin"
+given = "Franklin R."
+
+[person.death]
+date = "2016-01-04"
+place.country = "US"
+place.state = "GA"
+place.city = "Augusta"
+
+[person.burial]
+cemetery.name = "Bellevue Memorial Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "GA"
+cemetery.place.city = "Grovetown"
+

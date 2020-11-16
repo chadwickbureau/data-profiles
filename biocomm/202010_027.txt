@@ -1,0 +1,18 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_027"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Macha"
+use = "Kenneth"
+given = "Kenneth Edward"
+
+[person.description]
+mlb_played = "1974/"
+note = [ "Record advises not the brother of Macha, Michael" ]
+

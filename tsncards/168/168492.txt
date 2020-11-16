@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:168492"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/168492"
+title = "The Sporting News Player Contract Cards, ScanID: 1047002569"
+
+[person.name]
+last = "Weirich"
+given = "Robert"
+
+
+[[person.transaction]]
+date = "1948-06-28"
+type = "signed"
+join.name = "Stroudsburg"
+note = "Stroudsburg 1948-06-28"
+
+[[person.transaction]]
+date = "1948-07-13"
+type = "released"
+leave.name = "Stroudsburg"
+note = "rel 1948-07-13"
+

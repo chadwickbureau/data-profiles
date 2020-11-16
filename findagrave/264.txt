@@ -1,0 +1,56 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:264"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-10-26"
+url = "https://www.findagrave.com/memorial/199264457/patrick-f.-colgan"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-26"
+
+[person.name]
+last = "Colgan"
+use = "Patrick"
+given = "Patrick F."
+
+[person.birth]
+date = "1914"
+place.country = "US"
+place.state = "NY"
+place.city = "Brooklyn"
+
+[person.death]
+date = "1992-06-20"
+place.country = "US"
+place.state = "PA"
+place.city = "Carbondale"
+
+[person.burial]
+cemetery.name = "Our Mother of Sorrows Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "PA"
+cemetery.place.city = "Carbondale"
+
+[person.sameas]
+findagrave = "199264457"
+
+[[person.education]]
+school.name = "Brooklyn Technical HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "NY"
+school.place.city = "Brooklyn"
+
+
+[[person.military]]
+country = "US"
+branch = "Navy"
+conflict = "World War II"
+
+

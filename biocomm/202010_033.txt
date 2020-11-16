@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_033"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Paredes"
+use = "Johnny"
+given = "Johnny Alfonso"
+matrilineal = "Isambert"
+
+[person.death]
+date = "2020-11-04"
+place.country = "VE"
+place.state = "Zulia"
+place.city = "Maracaibo"
+
+[person.description]
+mlb_played = "1988/"
+

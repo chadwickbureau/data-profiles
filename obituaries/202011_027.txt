@@ -1,0 +1,37 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_027"
+
+[[person.meta.citation]]
+title = "Cremation & Funeral Gallery"
+date = "2020-11-12"
+url = "https://www.cfgbillings.com/obituaries/Les-Norvin-Rohr?obId=18929792#/celebrationWall"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "Rohr"
+use = "Les"
+given = "Les Norvin"
+
+[person.birth]
+date = "1946-03-05"
+place.country = "GB"
+place.city = "Lowestoft"
+
+[person.death]
+date = "2020-11-06"
+
+[[person.education]]
+school.name = "Billings West HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MT"
+school.place.city = "Billings"
+
+

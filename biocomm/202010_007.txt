@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_007"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Brockett"
+use = "King"
+given = "Lewis Albert"
+
+[person.death]
+place.country = "US"
+place.state = "IL"
+place.city = "Eldorado"
+
+[person.description]
+mlb_played = "1907/"
+

@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_038"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Seaver"
+use = "George"
+given = "George Thomas"
+
+[person.death]
+date = "2020-08-31"
+place.country = "US"
+place.state = "CA"
+place.city = "Calistoga"
+
+[person.description]
+mlb_played = "1967/"
+

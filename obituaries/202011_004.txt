@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_004"
+
+[[person.meta.citation]]
+title = "Nichols Funeral Home"
+date = "2020-11-02"
+url = "http://www.nicholsfuneralhome.com/obituaries/william-earl-baldwin-sr.html"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-02"
+
+[person.name]
+last = "Baldwin"
+use = "William"
+given = "William Earl"
+suffix = "Sr."
+
+[person.death]
+date = "2020-10-20"
+
+[person.burial]
+cemetery.name = "South Byfield Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Georgetown"
+
+[[person.education]]
+school.name = "Wilmington HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "MA"
+school.place.city = "Wilmington"
+
+

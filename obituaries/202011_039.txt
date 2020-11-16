@@ -1,0 +1,53 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_039"
+
+[[person.meta.citation]]
+title = "Gunderson Funeral Home"
+date = "2020-11-15"
+url = "https://www.gundersonfh.com/obituaries/Donald-Howard--Doc-Vike?obId=18949888#/obituaryInfo"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-15"
+
+[person.name]
+last = "Vike"
+use = "Doc"
+given = "Donald Howard"
+
+[person.birth]
+date = "1949-08-14"
+place.country = "US"
+place.state = "WI"
+place.city = "Stoughton"
+
+[person.death]
+date = "2020-11-12"
+place.country = "US"
+place.state = "WI"
+place.city = "Stoughton"
+
+[person.burial]
+cemetery.name = "Lutheran East Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "WI"
+cemetery.place.city = "Stoughton"
+
+[[person.education]]
+school.name = "Stoughton HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "WI"
+school.place.city = "Stoughton"
+
+
+[[person.military]]
+country = "US"
+branch = "Air Force"
+conflict = "Korean War"
+
+

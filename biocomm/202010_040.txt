@@ -1,0 +1,17 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_040"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Smith"
+use = "Joshua"
+given = "Joshua Allen"
+
+[person.description]
+mlb_played = "2015/"
+

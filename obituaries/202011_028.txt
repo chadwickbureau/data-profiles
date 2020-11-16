@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_028"
+
+[[person.meta.citation]]
+title = "Tezak Funeral Home"
+date = "2020-11-12"
+url = "https://www.tezakfuneralhome.com/obituary/Bernard-Gerl"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-12"
+
+[person.name]
+last = "Gerl"
+use = "Bernie"
+given = "Bernard F."
+
+[person.birth]
+date = "1926-10-12"
+place.country = "US"
+place.state = "IL"
+place.city = "Joliet"
+
+[person.death]
+date = "2020-11-07"
+place.country = "US"
+place.state = "IL"
+place.city = "Crest Hill"
+
+[[person.education]]
+school.name = "Joliet Township HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "IL"
+school.place.city = "Joliet"
+
+
+[[person.military]]
+country = "US"
+branch = "Army"
+
+

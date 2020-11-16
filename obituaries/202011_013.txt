@@ -1,0 +1,36 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_013"
+
+[[person.meta.citation]]
+title = "Wilkes-Barre Times Leader"
+date = "1962-05-19"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-10"
+
+[person.name]
+last = "Cobb"
+use = "Bernard"
+given = "Bernard J."
+
+[person.birth]
+place.country = "US"
+place.state = "PA"
+place.city = "Scranton"
+
+[person.death]
+date = "1962-05-19"
+place.country = "US"
+place.state = "PA"
+place.city = "Wilkes-Barre"
+
+[[person.education]]
+school.name = "Bloomsburg University of Pennsylvania"
+school.type = "college"
+
+

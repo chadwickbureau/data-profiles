@@ -1,0 +1,22 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_043"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Williams"
+use = "David"
+given = "David Owen"
+
+[person.birth]
+date = "1880-02-07"
+place.country = "GB"
+place.city = "Swansea"
+
+[person.description]
+mlb_played = "1902/"
+

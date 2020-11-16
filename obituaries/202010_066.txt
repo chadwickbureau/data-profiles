@@ -1,0 +1,42 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_066"
+
+[[person.meta.citation]]
+title = "Boston Globe"
+date = "2020-10-29"
+url = "https://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=donald-wayne-moon&pid=197011362&fhid=15200"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-29"
+
+[person.name]
+last = "Moon"
+use = "Don"
+given = "Donald Wayne"
+
+[person.birth]
+date = "1931-05-05"
+place.country = "US"
+place.state = "PA"
+place.city = "McKeesport"
+
+[person.death]
+date = "2020-10-27"
+
+[person.burial]
+cemetery.name = "Woodlawn Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MA"
+cemetery.place.city = "Wellesley"
+
+[[person.military]]
+country = "US"
+branch = "Coast Guard"
+conflict = "Korean War"
+
+

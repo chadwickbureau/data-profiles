@@ -1,0 +1,45 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_021"
+
+[[person.meta.citation]]
+title = "Asbury Park Press"
+date = "2020-11-07"
+url = "https://www.legacy.com/obituaries/app/obituary.aspx?n=edward-j-ralston&pid=197067173&fhid=31271"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Ralston"
+use = "Ed"
+given = "Edward J."
+suffix = "Sr."
+
+[person.birth]
+date = "1929-12-25"
+place.country = "US"
+place.state = "NY"
+place.city = "Geneva"
+
+[person.death]
+date = "2020-11-04"
+place.country = "US"
+place.state = "NJ"
+place.city = "Waretown"
+
+[[person.education]]
+school.name = "Syracuse University"
+school.type = "college"
+
+
+[[person.military]]
+country = "US"
+branch = "Marines"
+conflict = "Korean War"
+
+

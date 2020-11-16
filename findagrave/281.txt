@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:281"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-11"
+url = "https://www.findagrave.com/memorial/56774425/richard-l-williams"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Williams"
+use = "Richard"
+given = "Richard L."
+
+[person.birth]
+date = "1921-03-30"
+place.country = "CA"
+place.state = "ON"
+place.city = "Lindsay"
+
+[person.death]
+date = "1945-02-21"
+place.country = "PH"
+place.city = "Capital District"
+
+[person.burial]
+cemetery.name = "Manila American Cemetery and Memorial"
+cemetery.place.country = "PH"
+cemetery.place.city = "Manila"
+
+[person.sameas]
+findagrave = "56774425"
+

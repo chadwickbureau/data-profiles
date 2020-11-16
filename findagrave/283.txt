@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "findagrave:283"
+
+[[person.meta.citation]]
+title = "findagrave.com"
+date = "2020-11-11"
+url = "https://www.findagrave.com/memorial/10824941/agapito-mayor"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Mayor"
+use = "Agapito"
+given = "Agapito"
+
+[person.birth]
+date = "1916"
+
+[person.death]
+date = "2005-04-18"
+place.country = "US"
+place.state = "FL"
+place.city = "Hillsborough Cunty"
+
+[person.burial]
+cemetery.name = "Garden of Memories Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "FL"
+cemetery.place.city = "Tampa"
+
+[person.sameas]
+findagrave = "10824941"
+

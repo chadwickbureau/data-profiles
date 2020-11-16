@@ -1,0 +1,24 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_013"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Farrell"
+use = "Richard"
+given = "Richard Joseph"
+
+[person.description]
+mlb_played = "1956/"
+
+[[person.relation]]
+relationship = "father of"
+person.name.last = "Dotson"
+person.name.use = "Richard"
+person.name.given = "Richard Elliott"
+
+

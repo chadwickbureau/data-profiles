@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202010_072"
+
+[[person.meta.citation]]
+title = "Weber Funeral Home"
+date = "2020-10-30"
+url = "https://www.weberfh.net/obituaries/Donald-Mcgue/#!/Obituary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-10-30"
+
+[person.name]
+last = "McGue"
+use = "Donald"
+given = "Donald E."
+
+[person.birth]
+date = "1938-10-23"
+
+[person.death]
+date = "2020-10-21"
+place.country = "US"
+place.state = "OH"
+place.city = "Delphos"
+
+[person.burial]
+cemetery.name = "New St. John's Catholic Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "OH"
+cemetery.place.city = "Delphos"
+
+[[person.education]]
+school.name = "Fort Jennings HS"
+school.type = "secondary"
+school.place.country = "US"
+school.place.state = "OH"
+school.place.city = "Fort Jennings"
+
+

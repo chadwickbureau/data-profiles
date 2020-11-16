@@ -1,0 +1,29 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_042"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Wenz"
+use = "Frederick"
+given = "Frederick Charles"
+
+[person.death]
+date = "2020-10-06"
+place.country = "US"
+place.state = "NJ"
+place.city = "Branchburg"
+
+[person.burial]
+cemetery.name = "Redfield Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "NY"
+cemetery.place.city = "Redfield"
+
+[person.description]
+mlb_played = "1968/"
+

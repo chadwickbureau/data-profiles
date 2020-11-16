@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_036"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Porter"
+use = "J"
+given = "J W"
+
+[person.death]
+date = "2020-10-11"
+place.country = "US"
+place.state = "FL"
+place.city = "Jupiter"
+
+[person.burial]
+cemetery.name = "Cremated"
+
+[person.description]
+mlb_played = "1952/"
+

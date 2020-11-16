@@ -1,0 +1,35 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_008"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Carl"
+use = "John"
+given = "John"
+
+[person.birth]
+date = "1854-05-28"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.death]
+date = "1927-10-02"
+place.country = "US"
+place.state = "MD"
+place.city = "Baltimore"
+
+[person.burial]
+cemetery.name = "Baltimore Cemetery"
+cemetery.place.country = "US"
+cemetery.place.state = "MD"
+cemetery.place.city = "Baltimore"
+
+[person.description]
+mlb_played = "1874/"
+

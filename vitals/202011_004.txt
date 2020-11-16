@@ -1,0 +1,31 @@
+[[person]]
+
+[person.meta]
+key = "vitals:202011_004"
+
+[[person.meta.citation]]
+title = "SSACI"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-04"
+
+[person.name]
+last = "Ulrich"
+use = "Marvin"
+given = "Marvin Hugh"
+
+[person.birth]
+date = "1913-10-28"
+place.country = "US"
+place.state = "OH"
+place.city = "Farmersville"
+
+[person.death]
+date = "1999-03-02"
+
+[person.sameas]
+ssn = "246-10-3059"
+

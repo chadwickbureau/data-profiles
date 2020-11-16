@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "obituaries:202011_017"
+
+[[person.meta.citation]]
+title = "Cozean Memorial Chapel & Crematory"
+date = "2020-11-11"
+url = "https://www.cozeanfuneralhome.com/obituary/harold-loughary"
+
+[[person.meta.contributor]]
+name.last = "Morris"
+name.use = "Jack"
+email = "jackmo77@comcast.net"
+date = "2020-11-11"
+
+[person.name]
+last = "Loughary"
+use = "Hal"
+given = "Harold Lee"
+
+[person.birth]
+date = "1928-05-26"
+place.country = "US"
+place.state = "MO"
+place.city = "Esther"
+
+[person.death]
+date = "2020-11-09"
+place.country = "US"
+place.state = "MO"
+place.city = "Caledonia"
+
+[[person.education]]
+school.name = "Murray State University"
+school.type = "college"
+
+

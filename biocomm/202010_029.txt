@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_029"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "McNamara"
+use = "John"
+given = "John Francis"
+
+[person.burial]
+cemetery.name = "Harpeth Hills Memory Gardens"
+cemetery.place.country = "US"
+cemetery.place.state = "TN"
+cemetery.place.city = "Nashville"
+
+[person.description]
+mlb_managed = "1969/"
+

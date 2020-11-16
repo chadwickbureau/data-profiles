@@ -1,0 +1,23 @@
+[[person]]
+
+[person.meta]
+key = "biocomm:202010_011"
+
+[[person.meta.citation]]
+title = "SABR Biographical Committee Newsletter"
+date = "2020-10"
+
+[person.name]
+last = "Daviault"
+use = "Raymond"
+given = "Raymond Joseph Robert"
+
+[person.death]
+date = "2020-11-06"
+place.country = "CA"
+place.state = "QC"
+place.city = "Notre-Dame-de-la-Merci"
+
+[person.description]
+mlb_played = "1962/"
+
