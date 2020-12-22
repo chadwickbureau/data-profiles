@@ -1,0 +1,51 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:120514"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/120514"
+title = "The Sporting News Player Contract Cards, ScanID: 1099022323"
+
+[person.name]
+last = "Scarborough"
+given = "Jack Bernard"
+
+[person.description]
+position = "2B"
+bats = "R"
+throws = "R"
+height = "68"
+weight = "175"
+
+[person.birth]
+date = "1930-08-18"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+[[person.resides]]
+place.address = "2926 Buxton Avenue"
+place.country = "US"
+place.state = "IL"
+place.city = "Granite City"
+
+
+[[person.transaction]]
+date = "1949-11-25"
+type = "signed"
+join.name = "Sanford (FL)"
+note = "Sanford (FL) 1949-11-25"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Sanford (FL)"
+note = "for 1950"
+
+[[person.transaction]]
+date = "1950-04-10"
+type = "released"
+leave.name = "Sanford (FL)"
+note = "rel 1950-04-10"
+

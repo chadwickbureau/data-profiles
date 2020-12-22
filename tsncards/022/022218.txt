@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:22218"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/22218"
+title = "The Sporting News Player Contract Cards, ScanID: 1006003722"
+
+[person.name]
+last = "Bunch"
+given = "Francis"
+
+
+[[person.transaction]]
+date = "1950-03-18"
+type = "signed"
+join.name = "Pulaski"
+note = "Pulaski 1950-03-18"
+
+[[person.transaction]]
+date = "1950-05-19"
+type = "released"
+leave.name = "Pulaski"
+note = "rel 1950-05-19"
+

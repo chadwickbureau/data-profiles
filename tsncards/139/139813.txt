@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:139813"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/139813"
+title = "The Sporting News Player Contract Cards, ScanID: 1041005029"
+
+[person.name]
+last = "Small"
+given = "Norbert John"
+
+[person.description]
+ancestry = "Polish-Slavish"
+position = "1B"
+bats = "S"
+throws = "R"
+height = "74"
+weight = "210"
+
+[person.birth]
+date = "1938-07-11"
+place.country = "US"
+place.state = "PA"
+place.city = "Sharon"
+
+[[person.resides]]
+place.address = "110 Duncan Avenue"
+place.country = "US"
+place.state = "NJ"
+place.city = "Jersey City"
+
+
+[[person.transaction]]
+date = "1956-07-12"
+type = "signed"
+join.name = "St. Cloud"
+note = "St. Cloud 1956-07-12"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "St. Cloud"
+note = "for 1957"
+
+[[person.transaction]]
+date = "1957-04-11"
+type = "released"
+leave.name = "St. Cloud"
+note = "rel 1957-04-11"
+

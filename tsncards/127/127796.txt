@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:127796"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/127796"
+title = "The Sporting News Player Contract Cards, ScanID: 1025003713"
+
+[person.name]
+last = "Lala"
+given = "Robert J."
+
+
+[[person.transaction]]
+date = "1948-08-28"
+type = "signed"
+join.name = "Green Bay"
+note = "Green Bay 1948-08-28"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Green Bay"
+note = "res for 1949"
+
+[[person.transaction]]
+date = "1949-03-19"
+type = "released"
+leave.name = "Green Bay"
+note = "rel 1949-03-19"
+

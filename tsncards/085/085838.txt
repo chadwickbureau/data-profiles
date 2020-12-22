@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:85838"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/85838"
+title = "The Sporting News Player Contract Cards, ScanID: 1038002435"
+
+[person.name]
+last = "Roe"
+given = "Carl Nelson"
+
+
+[[person.transaction]]
+date = "1950-03-10"
+type = "signed"
+join.name = "Memphis"
+note = "Memphis 1950-03-10"
+
+[[person.transaction]]
+date = "1950-04-07"
+type = "optioned"
+leave.name = "Memphis"
+join.name = "Hot Springs"
+note = "opt to Hot Springs 1950-04-07"
+
+[[person.transaction]]
+date = "1950-04-12"
+type = "released"
+leave.name = "Hot Springs"
+note = "rel 1950-04-12"
+
+[[person.transaction]]
+date = "1950-04-26"
+type = "signed"
+join.name = "Union City"
+note = "Union City 1950-04-26"
+
+[[person.transaction]]
+date = "1950-08-02"
+type = "signed"
+join.name = "re"
+note = "re 1950-08-02"
+
+[[person.transaction]]
+date = "1950-08-04"
+type = "signed"
+join.name = "Fulton"
+note = "Fulton 1950-08-04"
+
+[[person.transaction]]
+date = "1950-08-07"
+type = "released"
+leave.name = "Fulton"
+note = "rel 1950-08-07"
+

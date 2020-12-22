@@ -1,0 +1,60 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:141288"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/141288"
+title = "The Sporting News Player Contract Cards, ScanID: 1099016111"
+
+[person.name]
+last = "Monfre"
+given = "Charles Biaggio"
+nick = "Chuck"
+
+[person.description]
+ancestry = "Italian"
+position = "SS"
+bats = "R"
+throws = "R"
+height = "71"
+weight = "174"
+
+[person.birth]
+date = "1927-10-24"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+[[person.resides]]
+place.address = "1305 North Milwaukee Street"
+place.country = "US"
+place.state = "WI"
+place.city = "Milwaukee"
+
+
+[[person.transaction]]
+date = "1946-09"
+type = "signed"
+join.name = "Madisonville"
+note = "Madisonville 1946-09"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Madisonville"
+note = "for 1947"
+
+[[person.transaction]]
+date = "1947-03-11"
+type = "released"
+leave.name = "Madisonville"
+join.name = "Matton"
+note = "rel to Matton 1947-03-11"
+
+[[person.transaction]]
+date = "1947-04-17"
+type = "released"
+leave.name = "Matton"
+note = "rel 1947-04-17"
+

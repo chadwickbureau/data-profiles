@@ -1,0 +1,52 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:69208"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/69208"
+title = "The Sporting News Player Contract Cards, ScanID: 1019004461"
+
+[person.name]
+last = "Haubrich"
+given = "Robert Wayne"
+
+[person.description]
+ancestry = "German-Swedish-Scotch-Irish"
+position = "2B-SS"
+bats = "R"
+throws = "R"
+height = "69"
+weight = "150"
+
+[person.birth]
+date = "1938-11-16"
+place.country = "US"
+place.state = "IL"
+place.city = "Chicago"
+
+[[person.resides]]
+place.address = "5716 38th Avenue"
+place.country = "US"
+place.state = "WI"
+place.city = "Kenosha"
+
+
+[[person.transaction]]
+date = "1958-08-04"
+type = "signed"
+join.name = "Orlando"
+note = "Orlando 1958-08-04"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Orlando"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1959-04-19"
+type = "released"
+leave.name = "Orlando"
+note = "rel 1959-04-19"
+

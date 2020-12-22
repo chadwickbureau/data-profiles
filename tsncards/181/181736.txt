@@ -1,0 +1,71 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:181736"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/181736"
+title = "The Sporting News Player Contract Cards, ScanID: 1041001741"
+
+[person.name]
+last = "Shults"
+given = "Robert Ellis"
+
+
+[[person.transaction]]
+date = "1951-07-02"
+type = "signed"
+join.name = "Oneonta"
+note = "Oneonta 1951-07-02"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Oneonta"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1951-09-21"
+type = "drafted"
+leave.name = "Oneonta"
+join.name = "Scranton"
+note = "Scranton 1951-09-21"
+
+[[person.transaction]]
+date = "1951-09-27"
+type = "released"
+leave.name = "Scranton"
+join.name = "Thomasville (NC)"
+note = "rel to Thomasville (NC) 1951-09-27"
+
+[[person.transaction]]
+date = "1952-04-26"
+type = "suspended"
+leave.name = "Thomasville (NC)"
+note = "1952-04-26"
+
+[[person.transaction]]
+date = "1952-06-05"
+type = "ineligible"
+leave.name = "Thomasville (NC)"
+note = "ineligible list 1952-06-05"
+
+[[person.transaction]]
+date = "1953"
+type = "reserved"
+join.name = "Thomasville (NC)"
+note = "for 1953"
+
+[[person.transaction]]
+date = "1953-01-13"
+type = "released"
+leave.name = "Thomasville (NC)"
+join.name = "San Jose"
+note = "rel to San Jose 1953-01-13"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "San Jose"
+note = "for 1954"
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:75970"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/75970"
+title = "The Sporting News Player Contract Cards, ScanID: 1018003121"
+
+[person.name]
+last = "Guttowsky"
+given = "LeRoy"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1946-07"
+type = "signed"
+join.name = "Sherman (TX)"
+note = "Sherman (TX) 1946-07"
+
+[[person.transaction]]
+date = "1950-02-04"
+type = "signed"
+join.name = "Rome (GA)"
+note = "Rome (GA) 1950-02-04"
+
+[[person.transaction]]
+date = "1950-04-21"
+type = "released"
+leave.name = "Rome (GA)"
+note = "rel 1950-04-21"
+

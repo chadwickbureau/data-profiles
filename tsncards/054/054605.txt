@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:54605"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/54605"
+title = "The Sporting News Player Contract Cards, ScanID: 1013005179"
+
+[person.name]
+last = "Enjaian"
+given = "Raymond"
+
+
+[[person.transaction]]
+date = "1946-10-22"
+type = "signed"
+join.name = "Salt Lake City"
+note = "Salt Lake City 1946-10-22"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Salt Lake City"
+note = "for 1947"
+
+[[person.transaction]]
+date = "1947-04-01"
+type = "released"
+leave.name = "Salt Lake City"
+note = "rel 1947-04-01"
+

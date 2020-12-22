@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:45293"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/45293"
+title = "The Sporting News Player Contract Cards, ScanID: 1009004712"
+
+[person.name]
+last = "Cook"
+given = "Robert W."
+nick = "Cookie"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "168"
+
+[person.birth]
+date = "1927-04-12"
+place.country = "US"
+place.state = "MI"
+place.city = "Detroit"
+
+[[person.resides]]
+place.address = "734 Central Parkway"
+place.country = "US"
+place.state = "OH"
+place.city = "Warren"
+
+
+[[person.transaction]]
+date = "1947-01-11"
+type = "signed"
+join.name = "Dayton"
+note = "Dayton 1947-01-11"
+
+[[person.transaction]]
+date = "1947-04-08"
+type = "released"
+leave.name = "Dayton"
+note = "rel 1947-04-08"
+
+[[person.transaction]]
+date = "1949-05-19"
+type = "signed"
+join.name = "New Castle"
+note = "New Castle 1949-05-19"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "New Castle"
+note = "res for 1950"
+
+[[person.transaction]]
+date = "1950-05-06"
+type = "released"
+leave.name = "New Castle"
+note = "rel 1950-05-06"
+

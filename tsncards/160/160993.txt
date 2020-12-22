@@ -1,0 +1,95 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:160993"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/160993"
+title = "The Sporting News Player Contract Cards, ScanID: 1099018102"
+
+[person.name]
+last = "Patterson"
+given = "William Charles"
+
+[person.description]
+position = "P"
+bats = "R"
+throws = "R"
+height = "70"
+weight = "180"
+
+[person.birth]
+date = "1924-01-15"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+[[person.resides]]
+place.address = "2236 Valmont Street"
+place.country = "US"
+place.state = "LA"
+place.city = "New Orleans"
+
+
+[[person.transaction]]
+date = "1946-03"
+type = "signed"
+join.name = "New Iberia"
+note = "New Iberia 1946-03"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "New Iberia"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-06-07"
+type = "released"
+leave.name = "New Iberia"
+join.name = "Geneva (AL)"
+note = "rel to Geneva (AL) 1947-06-07"
+
+[[person.transaction]]
+date = "1947-09-01"
+type = "released"
+leave.name = "Geneva (AL)"
+join.name = "Anderson"
+note = "rel to Anderson 1947-09-01"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Anderson"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-04-09"
+type = "released"
+leave.name = "Anderson"
+note = "rel 1948-04-09"
+
+[[person.transaction]]
+date = "1948-04-21"
+type = "signed"
+join.name = "Hammond"
+note = "Hammond 1948-04-21"
+
+[[person.transaction]]
+date = "1948-05-26"
+type = "released"
+leave.name = "Hammond"
+note = "rel 1948-05-26"
+
+[[person.transaction]]
+date = "1948-06-03"
+type = "signed"
+join.name = "Lafayette"
+note = "Lafayette 1948-06-03"
+
+[[person.transaction]]
+date = "1948-07-28"
+type = "released"
+leave.name = "Lafayette"
+note = "rel 1948-07-28"
+

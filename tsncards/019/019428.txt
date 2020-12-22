@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:19428"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/19428"
+title = "The Sporting News Player Contract Cards, ScanID: 1006003488"
+
+[person.name]
+last = "Bukovac"
+given = "Tom"
+
+
+[[person.transaction]]
+date = "1981-08-04"
+type = "signed"
+join.name = "Bristol (VA)"
+note = "Bristol (VA) 1981-08-04"
+
+[[person.transaction]]
+date = "1982"
+type = "reserved"
+join.name = "Bristol (VA)"
+note = "for 1982"
+
+[[person.transaction]]
+date = "1982-05-25"
+type = "released"
+leave.name = "Bristol (VA)"
+note = "rel 1982-05-25"
+

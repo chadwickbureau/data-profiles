@@ -1,0 +1,156 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:131426"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/131426"
+title = "The Sporting News Player Contract Cards, ScanID: 1026002149"
+
+[person.name]
+last = "Lemone"
+given = "Nicholas Joseph"
+
+[person.description]
+position = "2B"
+bats = "R"
+throws = "R"
+height = "70 1/2"
+weight = "185"
+
+[person.birth]
+date = "1918-01-22"
+place.country = "US"
+place.state = "CT"
+place.city = "Noroton"
+
+[[person.resides]]
+place.address = "Lincoln Aveune"
+place.country = "US"
+place.state = "CT"
+place.city = "Noroton"
+
+
+[[person.transaction]]
+date = "1937"
+type = "signed"
+join.name = "Bassett"
+note = "Bassett 1937"
+
+[[person.transaction]]
+date = "1937-09"
+type = "released"
+leave.name = "Bassett"
+join.name = "Norfolk (VA)"
+note = "rel to Norfolk (VA) 1937-09"
+
+[[person.transaction]]
+date = "1938"
+type = "reserved"
+join.name = "Norfolk (VA)"
+note = "for 1938"
+
+[[person.transaction]]
+date = "1938-03"
+type = "released"
+leave.name = "Norfolk (VA)"
+join.name = "Akron"
+note = "rel to Akron 1938-03"
+
+[[person.transaction]]
+date = "1938-06"
+type = "released"
+leave.name = "Akron"
+join.name = "Amsterdam"
+note = "rel to Amsterdam 1938-06"
+
+[[person.transaction]]
+date = "1938-08"
+type = "released"
+leave.name = "Amsterdam"
+join.name = "Joplin"
+note = "rel to Joplin 1938-08"
+
+[[person.transaction]]
+date = "1939"
+type = "reserved"
+join.name = "Joplin"
+note = "for 1939"
+
+[[person.transaction]]
+date = "1939-03"
+type = "released"
+leave.name = "Joplin"
+note = "rel 1939-03"
+
+[[person.transaction]]
+date = "1939"
+type = "signed"
+join.name = "Montgomery"
+note = "Montgomery 1939"
+
+[[person.transaction]]
+date = "1940-03"
+type = "signed"
+join.name = "Buffalo"
+note = "Buffalo 1940-03"
+
+[[person.transaction]]
+date = "1940"
+type = "optioned"
+leave.name = "Buffalo"
+join.name = "Winston-Salem"
+note = "opt to Winston-Salem 1940"
+
+[[person.transaction]]
+date = "1949-05"
+type = "returned"
+leave.name = "Winston-Salem"
+join.name = "Buffalo"
+note = "ret to Buffalo 1949-05"
+
+[[person.transaction]]
+date = "1940-06"
+type = "optioned"
+leave.name = "Buffalo"
+join.name = "Wilkes-Barre"
+note = "opt to Wilkes-Barre 1940-06"
+
+[[person.transaction]]
+date = "1940-06"
+type = "optioned"
+leave.name = "Wilkes-Barre"
+join.name = "Niagara Falls"
+note = "opt to Niagara Falls 1940-06"
+
+[[person.transaction]]
+date = "1940-08"
+type = "optioned"
+leave.name = "Niagara Falls"
+join.name = "Jamestown"
+note = "opt to Jamestown 1940-08"
+
+[[person.transaction]]
+date = "1940-09"
+type = "signed"
+join.name = "opt canc"
+note = "opt canc 1940-09"
+
+[[person.transaction]]
+date = "1940-10"
+type = "released"
+leave.name = "opt canc"
+note = "rel 1940-10"
+
+[[person.transaction]]
+date = "1941-04"
+type = "signed"
+join.name = "Wilmington"
+note = "Wilmington 1941-04"
+
+[[person.transaction]]
+date = "1941-06"
+type = "released"
+leave.name = "Wilmington"
+note = "rel 1941-06"
+

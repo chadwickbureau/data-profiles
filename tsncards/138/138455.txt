@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:138455"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/138455"
+title = "The Sporting News Player Contract Cards, ScanID: 1030002527"
+
+[person.name]
+last = "Mendoza"
+given = "Leslie"
+
+
+[[person.transaction]]
+date = "1951-04-11"
+type = "signed"
+join.name = "Waycross"
+note = "Waycross 1951-04-11"
+
+[[person.transaction]]
+date = "list 1951-04-16"
+type = "voluntarily-retired"
+leave.name = "Waycross"
+note = "vol retired list 1951-04-16"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Waycross"
+note = "for 1952"
+

@@ -1,0 +1,90 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:46827"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/46827"
+title = "The Sporting News Player Contract Cards, ScanID: 1009001574"
+
+[person.name]
+last = "Colina"
+given = "Michael P."
+
+
+[[person.transaction]]
+date = "1945-03"
+type = "signed"
+join.name = "Norfolk (VA)"
+note = "Norfolk (VA) 1945-03"
+
+[[person.transaction]]
+date = "1945-04"
+type = "optioned"
+leave.name = "Norfolk (VA)"
+join.name = "Wellsville"
+note = "opt to Wellsville 1945-04"
+
+[[person.transaction]]
+date = "1945-06"
+type = "returned"
+leave.name = "Wellsville"
+join.name = "Norfolk (VA)"
+note = "ret to Norfolk (VA) 1945-06"
+
+[[person.transaction]]
+date = "1945-06"
+type = "released"
+leave.name = "Norfolk (VA)"
+note = "rel 1945-06"
+
+[[person.transaction]]
+date = "1946-03"
+type = "signed"
+join.name = "Amsterdam"
+note = "Amsterdam 1946-03"
+
+[[person.transaction]]
+date = "1946-06"
+type = "optioned"
+leave.name = "Amsterdam"
+join.name = "Easton"
+note = "opt to Easton 1946-06"
+
+[[person.transaction]]
+date = "1946-08"
+type = "recalled"
+leave.name = "Easton"
+join.name = "Amsterdam"
+note = "rec by Amsterdam 1946-08"
+
+[[person.transaction]]
+date = "1947"
+type = "reserved"
+join.name = "Amsterdam"
+note = "res for 1947"
+
+[[person.transaction]]
+date = "1947-04-27"
+type = "suspended"
+leave.name = "Amsterdam"
+note = "1947-04-27"
+
+[[person.transaction]]
+date = "1947-06-23"
+type = "ineligible"
+leave.name = "Amsterdam"
+note = "ineligible list 1947-06-23"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Amsterdam"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Amsterdam"
+note = "res for 1949"
+

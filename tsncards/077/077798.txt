@@ -1,0 +1,44 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:77798"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/77798"
+title = "The Sporting News Player Contract Cards, ScanID: 1014001725"
+
+[person.name]
+last = "Farmer"
+given = "Robert Herman"
+
+
+[[person.transaction]]
+date = "1951-08-20"
+type = "signed"
+join.name = "McAlester"
+note = "McAlester 1951-08-20"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "McAlester"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-04-28"
+type = "released"
+leave.name = "McAlester"
+note = "rel 1952-04-28"
+
+[[person.transaction]]
+date = "1952-05-04"
+type = "signed"
+join.name = "Hopkinsville"
+note = "Hopkinsville 1952-05-04"
+
+[[person.transaction]]
+date = "1952-05-16"
+type = "released"
+leave.name = "Hopkinsville"
+note = "rel 1952-05-16"
+

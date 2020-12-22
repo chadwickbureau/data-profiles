@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:123616"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/123616"
+title = "The Sporting News Player Contract Cards, ScanID: 1023006167"
+
+[person.name]
+last = "Kelley"
+given = "Robert E."
+
+
+[[person.transaction]]
+date = "1954-07-02"
+type = "signed"
+join.name = "Muskogee"
+note = "Muskogee 1954-07-02"
+
+[[person.transaction]]
+date = "1955"
+type = "reserved"
+join.name = "Muskogee"
+note = "for 1955"
+
+[[person.transaction]]
+date = "1955-01-25"
+type = "released"
+leave.name = "Muskogee"
+join.name = "El Dorado"
+note = "rel to El Dorado 1955-01-25"
+
+[[person.transaction]]
+date = "1955-04-06"
+type = "released"
+leave.name = "El Dorado"
+note = "rel 1955-04-06"
+

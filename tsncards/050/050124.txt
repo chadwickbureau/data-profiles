@@ -1,0 +1,32 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:50124"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/50124"
+title = "The Sporting News Player Contract Cards, ScanID: 1010000543"
+
+[person.name]
+last = "Coviello"
+given = "Joseph V."
+
+
+[[person.transaction]]
+date = "1964-09-01"
+type = "signed"
+join.name = "Cocoa Colts"
+note = "Cocoa Colts 1964-09-01"
+
+[[person.transaction]]
+date = "1965"
+type = "reserved"
+join.name = "Cocoa Colts"
+note = "for 1965"
+
+[[person.transaction]]
+date = "1965-04-12"
+type = "released"
+leave.name = "Cocoa Colts"
+note = "rel 1965-04-12"
+

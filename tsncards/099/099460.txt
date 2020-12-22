@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:99460"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/99460"
+title = "The Sporting News Player Contract Cards, ScanID: 1022005835"
+
+[person.name]
+last = "Johnson"
+given = "Edward Allen"
+
+
+[[person.transaction]]
+date = "1944-04"
+type = "signed"
+join.name = "Middletown"
+note = "Middletown 1944-04"
+
+[[person.transaction]]
+date = "1944-05"
+type = "released"
+leave.name = "Middletown"
+note = "rel 1944-05"
+

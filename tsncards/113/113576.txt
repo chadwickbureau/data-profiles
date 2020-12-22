@@ -1,0 +1,58 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:113576"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/113576"
+title = "The Sporting News Player Contract Cards, ScanID: 1025003955"
+
+[person.name]
+last = "Lambert"
+given = "Jack"
+
+
+[[person.transaction]]
+date = "1948-06-20"
+type = "signed"
+join.name = "Ardmore"
+note = "Ardmore 1948-06-20"
+
+[[person.transaction]]
+date = "1948-06-24"
+type = "released"
+leave.name = "Ardmore"
+note = "rel 1948-06-24"
+
+[[person.transaction]]
+date = "1949-02-10"
+type = "signed"
+join.name = "Vernon"
+note = "Vernon 1949-02-10"
+
+[[person.transaction]]
+date = "1949-05-24"
+type = "released"
+leave.name = "Vernon"
+note = "rel 1949-05-24"
+
+[[person.transaction]]
+date = "1950-03-04"
+type = "released"
+leave.name = "Vernon"
+join.name = "Lufkin"
+note = "rel to Lufkin 1950-03-04"
+
+[[person.transaction]]
+date = "1950-04-01"
+type = "optioned"
+leave.name = "Lufkin"
+join.name = "Bryan"
+note = "opt to Bryan 1950-04-01"
+
+[[person.transaction]]
+date = "1950-06-12"
+type = "released"
+leave.name = "Bryan"
+note = "rel 1950-06-12"
+

@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:117296"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/117296"
+title = "The Sporting News Player Contract Cards, ScanID: 1024003239"
+
+[person.name]
+last = "Kirkman"
+given = "Jerry William"
+
+
+[[person.transaction]]
+date = "1952-04-28"
+type = "signed"
+join.name = "Norton"
+note = "Norton 1952-04-28"
+
+[[person.transaction]]
+date = "1952-05-09"
+type = "released"
+leave.name = "Norton"
+note = "rel 1952-05-09"
+

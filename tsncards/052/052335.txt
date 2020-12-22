@@ -1,0 +1,82 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:52335"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/52335"
+title = "The Sporting News Player Contract Cards, ScanID: 1011004463"
+
+[person.name]
+last = "DeMaet"
+given = "Kenneth"
+
+
+[[person.transaction]]
+date = "1947-01-04"
+type = "signed"
+join.name = "Selma"
+note = "Selma 1947-01-04"
+
+[[person.transaction]]
+date = "1947-04-14"
+type = "released"
+leave.name = "Selma"
+join.name = "Bartlesville"
+note = "rel to Bartlesville 1947-04-14"
+
+[[person.transaction]]
+date = "1947-05-02"
+type = "voluntarily-retired"
+leave.name = "Bartlesville"
+note = "vol ret list 1947-05-02"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 1948"
+
+[[person.transaction]]
+date = "1949"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 1949"
+
+[[person.transaction]]
+date = "1950"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 1950"
+
+[[person.transaction]]
+date = "1951"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 1951"
+
+[[person.transaction]]
+date = "19152"
+type = "reserved"
+join.name = "Bartlesville"
+note = "for 19152"
+
+[[person.transaction]]
+date = "1952-02-06"
+type = "released"
+leave.name = "Bartlesville"
+join.name = "Brunswick"
+note = "rel to Brunswick 1952-02-06"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "reinstated"
+join.name = "Brunswick"
+note = "reins 1957-02-01"
+
+[[person.transaction]]
+date = "1957-02-01"
+type = "released"
+leave.name = "Brunswick"
+note = "rel 1957-02-01"
+

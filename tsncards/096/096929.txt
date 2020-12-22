@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:96929"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/96929"
+title = "The Sporting News Player Contract Cards, ScanID: 1038006443"
+
+[person.name]
+last = "Runge"
+given = "Albert Franklin"
+
+[person.description]
+ancestry = "German"
+position = "P"
+bats = "R"
+throws = "R"
+height = "72"
+weight = "170"
+
+[person.birth]
+date = "1934-04-24"
+place.country = "US"
+place.state = "MA"
+place.city = "Reading"
+
+[[person.resides]]
+place.address = "46 Hancock Street"
+place.country = "US"
+place.state = "MA"
+place.city = "Reading"
+
+
+[[person.transaction]]
+date = "1958-01-13"
+type = "signed"
+join.name = "Raleigh"
+note = "Raleigh 1958-01-13"
+
+[[person.transaction]]
+date = "1958-04-07"
+type = "released"
+leave.name = "Raleigh"
+note = "rel 1958-04-07"
+

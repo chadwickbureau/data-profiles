@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:164431"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/164431"
+title = "The Sporting News Player Contract Cards, ScanID: 1028004043"
+
+[person.name]
+last = "Martz"
+given = "Donald J."
+
+
+[[person.transaction]]
+date = "1949-01-29"
+type = "signed"
+join.name = "Amsterdam"
+note = "Amsterdam 1949-01-29"
+
+[[person.transaction]]
+date = "1949-04-27"
+type = "suspended"
+leave.name = "Amsterdam"
+note = "1949-04-27"
+
+[[person.transaction]]
+date = "1949-05-12"
+type = "reinstated"
+join.name = "Amsterdam"
+note = "rein 1949-05-12"
+
+[[person.transaction]]
+date = "1949-05-12"
+type = "optioned"
+leave.name = "Amsterdam"
+join.name = "Newark (OH)"
+note = "opt to Newark (OH) 1949-05-12"
+
+[[person.transaction]]
+date = "1949-05-26"
+type = "temporarily-inactive"
+leave.name = "Newark (OH)"
+note = "temp inactive list 1949-05-26"
+
+[[person.transaction]]
+date = "1949-06-03"
+type = "reinstated"
+join.name = "Newark (OH)"
+note = "rein 1949-06-03"
+
+[[person.transaction]]
+date = "1949-06-03"
+type = "option-returned"
+leave.name = "Newark (OH)"
+join.name = "Amsterdam"
+note = "opt ret to Amsterdam 1949-06-03"
+
+[[person.transaction]]
+date = "1949-06-03"
+type = "released"
+leave.name = "Amsterdam"
+note = "rel 1949-06-03"
+

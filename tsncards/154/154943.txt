@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:154943"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/154943"
+title = "The Sporting News Player Contract Cards, ScanID: 1042006205"
+
+[person.name]
+last = "Stasi"
+given = "Joseph Rocco"
+
+
+[[person.transaction]]
+date = "1947-08-15"
+type = "signed"
+join.name = "Salina"
+note = "Salina 1947-08-15"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Salina"
+note = "for 1948"
+
+[[person.transaction]]
+date = "1948-04-22"
+type = "released"
+leave.name = "Salina"
+join.name = "Appleton"
+note = "rel to Appleton 1948-04-22"
+
+[[person.transaction]]
+date = "1948-05-10"
+type = "released"
+leave.name = "Appleton"
+note = "rel 1948-05-10"
+

@@ -1,0 +1,40 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:170238"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/170238"
+title = "The Sporting News Player Contract Cards, ScanID: 1034000297"
+
+[person.name]
+last = "Oswald"
+given = "Frank P."
+
+
+[[person.transaction]]
+date = "1954-03-05"
+type = "signed"
+join.name = "New Iberia"
+note = "New Iberia 1954-03-05"
+
+[[person.transaction]]
+date = "1954-04-17"
+type = "optioned"
+leave.name = "New Iberia"
+join.name = "Lexington"
+note = "opt to Lexington 1954-04-17"
+
+[[person.transaction]]
+date = "1954-05-07"
+type = "option-returned"
+leave.name = "Lexington"
+join.name = "New Iberia"
+note = "opt ret to New Iberia 1954-05-07"
+
+[[person.transaction]]
+date = "1954-05-02"
+type = "released"
+leave.name = "New Iberia"
+note = "rel 1954-05-02"
+

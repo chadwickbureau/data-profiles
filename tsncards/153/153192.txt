@@ -1,0 +1,48 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:153192"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/153192"
+title = "The Sporting News Player Contract Cards, ScanID: 1042001781"
+
+[person.name]
+last = "Snowden"
+given = "Frank E."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-04-05"
+type = "signed"
+join.name = "Thomasville (GA)"
+note = "Thomasville (GA) 1948-04-05"
+
+[[person.transaction]]
+date = "1948-04-06"
+type = "optioned"
+leave.name = "Thomasville (GA)"
+join.name = "Douglas"
+note = "opt to Douglas 1948-04-06"
+
+[[person.transaction]]
+date = "1948-05-05"
+type = "option-returned"
+leave.name = "Douglas"
+join.name = "Thomasville (GA)"
+note = "opt ret to Thomasville (GA) 1948-05-05"
+
+[[person.transaction]]
+date = "1948-05-05"
+type = "released"
+leave.name = "Thomasville (GA)"
+join.name = "Andalusia"
+note = "rel to Andalusia 1948-05-05"
+
+[[person.transaction]]
+date = "1948-05-18"
+type = "released"
+leave.name = "Andalusia"
+note = "rel 1948-05-18"
+

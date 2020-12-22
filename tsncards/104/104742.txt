@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:104742"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/104742"
+title = "The Sporting News Player Contract Cards, ScanID: 1020003421"
+
+[person.name]
+last = "Hess"
+given = "Eugene William"
+
+
+[[person.transaction]]
+date = "1957-09-21"
+type = "signed"
+join.name = "Graceville"
+note = "Graceville 1957-09-21"
+
+[[person.transaction]]
+date = "1958"
+type = "reserved"
+join.name = "Graceville"
+note = "for 1958"
+
+[[person.transaction]]
+date = "1958-05-01"
+type = "voluntarily-retired"
+leave.name = "Graceville"
+note = "vol ret list 1958-05-01"
+
+[[person.transaction]]
+date = "1958-09-23"
+type = "released"
+leave.name = "Graceville"
+join.name = "Savannah"
+note = "rel to Savannah 1958-09-23"
+
+[[person.transaction]]
+date = "1959"
+type = "reserved"
+join.name = "Savannah"
+note = "for 1959"
+
+[[person.transaction]]
+date = "1959-02-06"
+type = "reinstated"
+join.name = "Savannah"
+note = "reins 1959-02-06"
+
+[[person.transaction]]
+date = "1959-04-11"
+type = "released"
+leave.name = "Savannah"
+note = "rel 1959-04-11"
+

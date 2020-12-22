@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:17958"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/17958"
+title = "The Sporting News Player Contract Cards, ScanID: 1006002100"
+
+[person.name]
+last = "Brunner"
+given = "John J."
+
+
+[[person.transaction]]
+date = "1948-01-14"
+type = "signed"
+join.name = "Janesville"
+note = "Janesville 1948-01-14"
+
+[[person.transaction]]
+date = "1948-04-27"
+type = "released"
+leave.name = "Janesville"
+note = "rel 1948-04-27"
+

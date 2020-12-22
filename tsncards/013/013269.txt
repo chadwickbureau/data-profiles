@@ -1,0 +1,20 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:13269"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/13269"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003972"
+
+[person.name]
+last = "Becca"
+given = "George"
+
+
+[[person.transaction]]
+date = "1954-03-11"
+type = "signed"
+join.name = "Big Spring"
+note = "Big Spring 1954-03-11"
+

@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:8731"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/8731"
+title = "The Sporting News Player Contract Cards, ScanID: 1007004074"
+
+[person.name]
+last = "Carlson"
+given = "William A."
+
+
+[[person.transaction]]
+date = "1949-08-20"
+type = "signed"
+join.name = "Superior"
+note = "Superior 1949-08-20"
+
+[[person.transaction]]
+date = "1950-04-26"
+type = "released"
+leave.name = "Superior"
+join.name = "Madisonville"
+note = "rel to Madisonville 1950-04-26"
+
+[[person.transaction]]
+date = "1950-05-09"
+type = "released"
+leave.name = "Madisonville"
+note = "rel 1950-05-09"
+

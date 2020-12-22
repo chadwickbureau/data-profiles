@@ -1,0 +1,57 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:98083"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/98083"
+title = "The Sporting News Player Contract Cards, ScanID: 1036004689"
+
+[person.name]
+last = "Rae"
+given = "Donald"
+
+
+[[person.transaction]]
+date = "1951-08-23"
+type = "signed"
+join.name = "Amsterdam"
+note = "Amsterdam 1951-08-23"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Amsterdam"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1951-12-14"
+type = "released"
+leave.name = "Amsterdam"
+join.name = "Joplin"
+note = "rel to Joplin 1951-12-14"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Joplin"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-04-08"
+type = "released"
+leave.name = "Joplin"
+note = "rel 1952-04-08"
+
+[[person.transaction]]
+date = "1952-05-02"
+type = "signed"
+join.name = "Marion (NC)"
+note = "Marion (NC) 1952-05-02"
+
+[[person.transaction]]
+date = "1952-05-10"
+type = "released"
+leave.name = "Marion (NC)"
+note = "rel 1952-05-10"
+

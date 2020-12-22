@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:5873"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/5873"
+title = "The Sporting News Player Contract Cards, ScanID: 1006003153"
+
+[person.name]
+last = "Buckshon"
+given = "Francis Paul"
+
+
+[[person.transaction]]
+date = "1949-09-22"
+type = "signed"
+join.name = "Lebanon"
+note = "Lebanon 1949-09-22"
+
+[[person.transaction]]
+date = "1950-04-17"
+type = "released"
+leave.name = "Lebanon"
+note = "rel 1950-04-17"
+
+[[person.transaction]]
+date = "1950-04-19"
+type = "signed"
+join.name = "Greenville (NC)"
+note = "Greenville (NC) 1950-04-19"
+
+[[person.transaction]]
+date = "1950-05-26"
+type = "disabled"
+leave.name = "Greenville (NC)"
+note = "disabled list 1950-05-26"
+
+[[person.transaction]]
+date = "1950-06-15"
+type = "reinstated"
+join.name = "Greenville (NC)"
+note = "rein 1950-06-15"
+
+[[person.transaction]]
+date = "1950-06-15"
+type = "released"
+leave.name = "Greenville (NC)"
+note = "rel 1950-06-15"
+

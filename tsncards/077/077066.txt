@@ -1,0 +1,64 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:77066"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/77066"
+title = "The Sporting News Player Contract Cards, ScanID: 1015005621"
+
+[person.name]
+last = "Fromm"
+given = "Gerald J."
+
+[person.description]
+position = "P"
+bats = "R"
+height = "71"
+weight = "175"
+
+
+[[person.transaction]]
+date = "1946-05"
+type = "signed"
+join.name = "Lynn"
+note = "Lynn 1946-05"
+
+[[person.transaction]]
+date = "1946-05"
+type = "released"
+leave.name = "Lynn"
+note = "rel 1946-05"
+
+[[person.transaction]]
+date = "1947-08-12"
+type = "signed"
+join.name = "Rochester"
+note = "Rochester 1947-08-12"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Rochester"
+note = "res for 1948"
+
+[[person.transaction]]
+date = "1948-04-21"
+type = "optioned"
+leave.name = "Rochester"
+join.name = "Allentown"
+note = "opt to Allentown 1948-04-21"
+
+[[person.transaction]]
+date = "1948-05-07"
+type = "option-returned"
+leave.name = "Allentown"
+join.name = "Rochester"
+note = "opt ret to Rochester 1948-05-07"
+
+[[person.transaction]]
+date = "1948-05-08"
+type = "released"
+leave.name = "Rochester"
+note = "rel 1948-05-08"
+
