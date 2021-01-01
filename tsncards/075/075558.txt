@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:75558"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/75558"
+title = "The Sporting News Player Contract Cards, ScanID: 1017003679"
+
+[person.name]
+last = "Gower"
+given = "William Franklin"
+
+
+[[person.transaction]]
+date = "1947-05-12"
+type = "signed"
+join.name = "Landis"
+note = "Landis 1947-05-12"
+
+[[person.transaction]]
+date = "1947-05-15"
+type = "released"
+leave.name = "Landis"
+note = "rel 1947-05-15"
+

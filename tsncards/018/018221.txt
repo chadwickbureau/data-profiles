@@ -1,0 +1,33 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:18221"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/18221"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003298"
+
+[person.name]
+last = "Beagle"
+given = "Gerald F."
+
+
+[[person.transaction]]
+date = "1949-04-02"
+type = "signed"
+join.name = "Tarboro"
+note = "Tarboro 1949-04-02"
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "released"
+leave.name = "Tarboro"
+join.name = "Portsmouth (OH)"
+note = "rel to Portsmouth (OH) 1949-04-20"
+
+[[person.transaction]]
+date = "1949-05-25"
+type = "released"
+leave.name = "Portsmouth (OH)"
+note = "rel 1949-05-25"
+

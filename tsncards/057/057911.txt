@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:57911"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/57911"
+title = "The Sporting News Player Contract Cards, ScanID: 1013005067"
+
+[person.name]
+last = "Engler"
+given = "Anthony Martin"
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1963-05-26"
+type = "signed"
+join.name = "Olean"
+note = "Olean 1963-05-26"
+
+[[person.transaction]]
+date = "1953-06-05"
+type = "released"
+leave.name = "Olean"
+note = "rel 1953-06-05"
+

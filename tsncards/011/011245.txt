@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:11245"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/11245"
+title = "The Sporting News Player Contract Cards, ScanID: 1003003856"
+
+[person.name]
+last = "Beaugez"
+given = "Ralph M."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1948-04-20"
+type = "signed"
+join.name = "Brewton"
+note = "Brewton 1948-04-20"
+
+[[person.transaction]]
+date = "1948-05-10"
+type = "released"
+leave.name = "Brewton"
+note = "rel 1948-05-10"
+

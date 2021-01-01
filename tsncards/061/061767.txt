@@ -1,0 +1,78 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:61767"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/61767"
+title = "The Sporting News Player Contract Cards, ScanID: 1017004747"
+
+[person.name]
+last = "Grassi"
+given = "Steven"
+
+
+[[person.transaction]]
+date = "1947-01-31"
+type = "signed"
+join.name = "Tacoma"
+note = "Tacoma 1947-01-31"
+
+[[person.transaction]]
+date = "1947-05-13"
+type = "optioned"
+leave.name = "Tacoma"
+join.name = "Clovis"
+note = "opt to Clovis 1947-05-13"
+
+[[person.transaction]]
+date = "1947-05-30"
+type = "returned"
+leave.name = "Clovis"
+join.name = "Tacoma"
+note = "ret to Tacoma 1947-05-30"
+
+[[person.transaction]]
+date = "1947-06-02"
+type = "optioned"
+leave.name = "Tacoma"
+join.name = "Grand Forks"
+note = "opt to Grand Forks 1947-06-02"
+
+[[person.transaction]]
+date = "1947-07-10"
+type = "suspended"
+leave.name = "Grand Forks"
+note = "1947-07-10"
+
+[[person.transaction]]
+date = "1947-07-18"
+type = "reinstated"
+join.name = "Grand Forks"
+note = "rein from susp list 1947-07-18"
+
+[[person.transaction]]
+date = "1947-07-18"
+type = "returned"
+leave.name = "Grand Forks"
+join.name = "Tacoma"
+note = "ret to Tacoma 1947-07-18"
+
+[[person.transaction]]
+date = "1947-07-18"
+type = "released"
+leave.name = "Tacoma"
+note = "rel 1947-07-18"
+
+[[person.transaction]]
+date = "1947-07-24"
+type = "signed"
+join.name = "Wisconsin Rapids"
+note = "Wisconsin Rapids 1947-07-24"
+
+[[person.transaction]]
+date = "1947-09-01"
+type = "released"
+leave.name = "Wisconsin Rapids"
+note = "rel 1947-09-01"
+

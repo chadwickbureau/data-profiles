@@ -1,0 +1,50 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:138789"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/138789"
+title = "The Sporting News Player Contract Cards, ScanID: 1043000887"
+
+[person.name]
+last = "Steuck"
+given = "Randy"
+
+
+[[person.transaction]]
+date = "1955-10-14"
+type = "signed"
+join.name = "Eau Claire"
+note = "Eau Claire 1955-10-14"
+
+[[person.transaction]]
+date = "1956"
+type = "reserved"
+join.name = "Eau Claire"
+note = "for 1956"
+
+[[person.transaction]]
+date = "1956-04-29"
+type = "temporarily-inactive"
+leave.name = "Eau Claire"
+note = "temp inactive list 1956-04-29"
+
+[[person.transaction]]
+date = "1956-10-15"
+type = "reinstated"
+join.name = "Eau Claire"
+note = "reins 1956-10-15"
+
+[[person.transaction]]
+date = "1957"
+type = "reserved"
+join.name = "Eau Claire"
+note = "res for 1957"
+
+[[person.transaction]]
+date = "1957-04-13"
+type = "released"
+leave.name = "Eau Claire"
+note = "rel 1957-04-13"
+

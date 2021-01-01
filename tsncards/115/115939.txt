@@ -1,0 +1,67 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:115939"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/115939"
+title = "The Sporting News Player Contract Cards, ScanID: 1025000357"
+
+[person.name]
+last = "Kowalko"
+given = "Joseph Stanley"
+nick = "Babe"
+
+[person.description]
+ancestry = "Polish"
+position = "OF"
+bats = "R"
+throws = "R"
+height = "71.5"
+weight = "195"
+
+[person.birth]
+date = "1935-07-28"
+place.country = "US"
+place.state = "PA"
+place.city = "Throop"
+
+[[person.resides]]
+place.address = "408 Oleckna Street"
+place.country = "US"
+place.state = "PA"
+place.city = "Throop"
+
+
+[[person.transaction]]
+date = "1953-09-16"
+type = "signed"
+join.name = "Wisconsin Rapids"
+note = "Wisconsin Rapids 1953-09-16"
+
+[[person.transaction]]
+date = "1954"
+type = "reserved"
+join.name = "Wisconsin Rapids"
+note = "for 1954"
+
+[[person.transaction]]
+date = "1953-09-25"
+type = "released"
+leave.name = "Wisconsin Rapids"
+join.name = "Waterloo"
+note = "rel to Waterloo 1953-09-25"
+
+[[person.transaction]]
+date = "1953-09-25"
+type = "released"
+leave.name = "Waterloo"
+join.name = "Madisonville"
+note = "rel to Madisonville 1953-09-25"
+
+[[person.transaction]]
+date = "1954-04-27"
+type = "released"
+leave.name = "Madisonville"
+note = "rel 1954-04-27"
+
