@@ -1,0 +1,26 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:83782"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/83782"
+title = "The Sporting News Player Contract Cards, ScanID: 1020004529"
+
+[person.name]
+last = "Hildebrand"
+given = "Robert E."
+
+
+[[person.transaction]]
+date = "1949-04-20"
+type = "signed"
+join.name = "Sanford (NC)"
+note = "Sanford (NC)  1949-04-20"
+
+[[person.transaction]]
+date = "1949-04-26"
+type = "released"
+leave.name = "Sanford (NC)"
+note = "rel 1949-04-26"
+

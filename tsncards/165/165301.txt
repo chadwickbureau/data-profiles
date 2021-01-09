@@ -1,0 +1,39 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:165301"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/165301"
+title = "The Sporting News Player Contract Cards, ScanID: 1027004245"
+
+[person.name]
+last = "Macaronis"
+given = "Nicholas"
+
+
+[[person.transaction]]
+date = "1947-09-06"
+type = "signed"
+join.name = "Valdosta"
+note = "Valdosta 1947-09-06"
+
+[[person.transaction]]
+date = "1948"
+type = "reserved"
+join.name = "Valdosta"
+note = "for 1948"
+
+[[person.transaction]]
+date = "1948-04-12"
+type = "released"
+leave.name = "Valdosta"
+join.name = "Cambridge"
+note = "rel to Cambridge 1948-04-12"
+
+[[person.transaction]]
+date = "1948-05-06"
+type = "released"
+leave.name = "Cambridge"
+note = "rel 1948-05-06"
+

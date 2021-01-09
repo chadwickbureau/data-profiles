@@ -1,0 +1,46 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:15771"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/15771"
+title = "The Sporting News Player Contract Cards, ScanID: 1005005159"
+
+[person.name]
+last = "Bright"
+given = "John E."
+
+
+[[person.transaction]]
+date = "1948-04-29"
+type = "signed"
+join.name = "Butler"
+note = "Butler 1948-04-29"
+
+[[person.transaction]]
+date = "1948-05-07"
+type = "released"
+leave.name = "Butler"
+join.name = "Easton"
+note = "rel to Easton 1948-05-07"
+
+[[person.transaction]]
+date = "1948-05-22"
+type = "released-conditional"
+leave.name = "Easton"
+join.name = "Roanoke Rapids"
+note = "cond rel to Roanoke Rapids 1948-05-22"
+
+[[person.transaction]]
+date = "1948-05-26"
+type = "signed"
+join.name = "cond ret to Easton"
+note = "cond ret to Easton 1948-05-26"
+
+[[person.transaction]]
+date = "1948-05-26"
+type = "released"
+leave.name = "cond ret to Easton"
+note = "rel 1948-05-26"
+

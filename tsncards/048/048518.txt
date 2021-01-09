@@ -1,0 +1,27 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:48518"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/48518"
+title = "The Sporting News Player Contract Cards, ScanID: 1010001279"
+
+[person.name]
+last = "Craig"
+given = "Allen B."
+suffix = "Jr."
+
+
+[[person.transaction]]
+date = "1949-09-10"
+type = "signed"
+join.name = "Bakersfield"
+note = "Bakersfield 1949-09-10"
+
+[[person.transaction]]
+date = "1950-04-10"
+type = "released"
+leave.name = "Bakersfield"
+note = "rel 1950-04-10"
+

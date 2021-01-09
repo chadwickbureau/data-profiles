@@ -1,0 +1,38 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:140932"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/140932"
+title = "The Sporting News Player Contract Cards, ScanID: 1041000203"
+
+[person.name]
+last = "Sheridan"
+given = "Jack"
+
+
+[[person.transaction]]
+date = "1950-04-17"
+type = "signed"
+join.name = "Owensboro"
+note = "Owensboro 1950-04-17"
+
+[[person.transaction]]
+date = "1950-05-02"
+type = "disabled"
+leave.name = "Owensboro"
+note = "disabled list 1950-05-02"
+
+[[person.transaction]]
+date = "1950-05-17"
+type = "reinstated"
+join.name = "Owensboro"
+note = "rein from disabled list 1950-05-17"
+
+[[person.transaction]]
+date = "1950-05-21"
+type = "released"
+leave.name = "Owensboro"
+note = "rel 1950-05-21"
+

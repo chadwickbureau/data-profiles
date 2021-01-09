@@ -1,0 +1,107 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:175698"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/175698"
+title = "The Sporting News Player Contract Cards, ScanID: 1048000289"
+
+[person.name]
+last = "Wilder"
+given = "Marion K."
+nick = "Lefty"
+
+[person.description]
+position = "P"
+bats = "L"
+throws = "L"
+height = "68 1/2"
+weight = "159"
+
+[person.birth]
+date = "1908-09-09"
+place.country = "US"
+place.state = "SC"
+place.city = "Sumter"
+
+[[person.resides]]
+place.address = "17 South Magnolia Street"
+place.country = "US"
+place.state = "SC"
+place.city = "Sumter"
+
+
+[[person.transaction]]
+date = "1928-05"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1928-05"
+
+[[person.transaction]]
+date = "1928-10"
+type = "signed"
+join.name = "Chambersburg"
+note = "Chambersburg 1928-10"
+
+[[person.transaction]]
+date = "1929-04"
+type = "signed"
+join.name = "Charlotte"
+note = "Charlotte 1929-04"
+
+[[person.transaction]]
+date = "1929-05"
+type = "signed"
+join.name = "Fayetteville"
+note = "Fayetteville 1929-05"
+
+[[person.transaction]]
+date = "1929-05"
+type = "returned"
+leave.name = "Fayetteville"
+join.name = "Charlotte"
+note = "ret to Charlotte 1929-05"
+
+[[person.transaction]]
+date = "1929-06"
+type = "released"
+leave.name = "Charlotte"
+note = "rel 1929-06"
+
+[[person.transaction]]
+date = "1929-07"
+type = "signed"
+join.name = "High Point"
+note = "High Point 1929-07"
+
+[[person.transaction]]
+date = "1929-07"
+type = "released"
+leave.name = "High Point"
+note = "rel 1929-07"
+
+[[person.transaction]]
+date = "1929-11"
+type = "signed"
+join.name = "Asheville"
+note = "Asheville 1929-11"
+
+[[person.transaction]]
+date = "1930"
+type = "reserved"
+join.name = "Asheville"
+note = "for 1930"
+
+[[person.transaction]]
+date = "1930-05"
+type = "released"
+leave.name = "Asheville"
+note = "rel 1930-05"
+
+[[person.transaction]]
+date = "1930-09"
+type = "signed"
+join.name = "Columbia (SC)"
+note = "Columbia (SC) 1930-09"
+
