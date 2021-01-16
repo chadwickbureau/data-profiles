@@ -1,0 +1,77 @@
+[[person]]
+
+[person.meta]
+key = "tsncards:6820"
+
+[[person.meta.citation]]
+url = "https://digital.la84.org/digital/collection/p17103coll3/id/6820"
+title = "The Sporting News Player Contract Cards, ScanID: 1006005016"
+
+[person.name]
+last = "Burnett"
+given = "Gerald Wayne"
+
+[person.description]
+ancestry = "English"
+position = "P"
+bats = "L"
+throws = "R"
+height = "73"
+weight = "180"
+
+[person.birth]
+date = "1932-06-24"
+place.country = "US"
+place.state = "MS"
+place.city = "Rienzi"
+
+[[person.resides]]
+place.country = "US"
+place.state = "MS"
+place.city = "Rienzi"
+
+
+[[person.transaction]]
+date = "1951-08-06"
+type = "signed"
+join.name = "Albany"
+note = "Albany 1951-08-06"
+
+[[person.transaction]]
+date = "1951-10-08"
+type = "released"
+leave.name = "Albany"
+join.name = "Hazlehurst"
+note = "rel to Hazlehurst 1951-10-08"
+
+[[person.transaction]]
+date = "1952"
+type = "reserved"
+join.name = "Hazlehurst"
+note = "for 1952"
+
+[[person.transaction]]
+date = "1952-05-11"
+type = "released"
+leave.name = "Hazlehurst"
+join.name = "Paducah"
+note = "rel to Paducah 1952-05-11"
+
+[[person.transaction]]
+date = "1952-05-27"
+type = "released"
+leave.name = "Paducah"
+note = "rel 1952-05-27"
+
+[[person.transaction]]
+date = "1955-04-11"
+type = "signed"
+join.name = "West Palm Beach"
+note = "West Palm Beach 1955-04-11"
+
+[[person.transaction]]
+date = "1955-05-28"
+type = "released"
+leave.name = "West Palm Beach"
+note = "rel 1955-05-28"
+
